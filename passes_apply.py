@@ -2,7 +2,7 @@
 import glob as _g,csv as _c,json as _j
 _conf=[];_app=[]
 rk=lambda s:2 if 'IFU' in s else 1
-for f in sorted(set(_g.glob('sources/pass0[3-9]*/values.csv')+_g.glob('sources/pass1*/values.csv'))):
+for f in sorted(set(_g.glob('sources/pass0[3-9]*/values.csv')+_g.glob('sources/pass1*/values.csv')+_g.glob('sources/passSH*/values.csv'))):
     pn=f.split('/')[1]
     for v in _c.DictReader(open(f)):
         r=byname.get(v['model'])

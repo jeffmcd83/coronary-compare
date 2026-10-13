@@ -77,3 +77,44 @@ CAT={"XIENCE Skypoint":"DES","XIENCE Sierra":"DES","SYNERGY XD":"DES","SYNERGY M
 for k in F:
     if k not in CAT:
         CAT[k]="Balloon" if any(x in k for x in["TREK","Emerge","Euphora","Quantum","Wolverine","AngioSculpt"]) else "Guidewire" if any(x in k for x in["TORQUE","SION","Runthrough","Gaia","Confianza","Cougar","Fielder"]) else "Imaging & physiology"
+# ---- Structural heart (added 2026-10-13, Jeff-approved expansion) ----
+SH={
+"SAPIEN 3":("SH_SAPIEN",r"^EDWARDS SAPIEN 3 TRANSCATHETER HEART VALVE",None,None,"TAVI valve"),
+"SAPIEN 3 Ultra":("SH_SAPIEN",r"^(Edwards SAPIEN 3 Ultra Transcatheter Heart Valve|SAPIEN 3 Ultra System|SAPIEN 3 Ultra [Dd]elivery [Ss]ystem)$",None,None,"TAVI valve"),
+"SAPIEN 3 Ultra RESILIA":("SH_SAPIEN",r"RESILIA",None,None,"TAVI valve"),
+"Evolut PRO+":("SH_Evolut",r"PRO\+",None,None,"TAVI valve"),
+"Evolut FX":("SH_Evolut",r"^Evolut™ FX$",None,None,"TAVI valve"),
+"Evolut FX+":("SH_Evolut",r"FX\+",None,None,"TAVI valve"),
+"Navitor":("SH_Navitor",r"^Navitor™$",None,None,"TAVI valve"),
+"Navitor Titan":("SH_Navitor",r"Titan",None,None,"TAVI valve"),
+"Trilogy":("SH_Trilogy",r"^Trilogy",None,None,"TAVI valve"),
+"Safari":("SH_SAFARI",r"^SAFARI™$",None,None,"Valve wire"),
+"Confida":("SH_Confida",r"Confida",None,None,"Valve wire"),
+"Lunderquist Extra Stiff":("SH_Lunderquist",r"^Lunderquist$",r"Extra Stiff",None,"Valve wire"),
+"Amplatz Extra Stiff":("SH_Amplatz_ES",r"^Amplatz$",r"Extra Stiff",None,"Valve wire"),
+"eSheath+":("SH_eSheath",r"eSheath\+",None,None,"Large-bore sheath"),
+"eSheath Optima":("SH_eSheath",r"(?i)optima",None,None,"Large-bore sheath"),
+"Sentrant":("SH_Sentrant",r"Sentrant",None,None,"Large-bore sheath"),
+"DrySeal Flex":("SH_DrySeal",r"(?i)dryseal flex",None,None,"Large-bore sheath"),
+"Sentinel":("SH_Sentinel_BSC",r"^Sentinel$",None,None,"Cerebral embolic protection"),
+"TRUE Dilatation":("SH_TRUE_Dilatation",r"TRUE DILATATION",None,None,"Valvuloplasty balloon"),
+"Z-MED II":("SH_Z-MED",r"^Z-MED II™$",None,None,"Valvuloplasty balloon"),
+"Perclose ProStyle":("SH_Perclose",r"ProStyle",None,None,"Large-bore closure"),
+"Perclose ProGlide":("SH_Perclose",r"ProGlide",None,None,"Large-bore closure"),
+"MANTA":("SH_MANTA",r"^MANTA$",None,None,"Large-bore closure"),
+"Tempo":("SH_Tempo",r"Tempo Temporary Pacing",None,None,"Temporary pacing"),
+"MitraClip G4":("SH_MitraClip",r"(?i)mitraclip",r"G4 Clip Delivery",None,"Mitral TEER"),
+"MitraClip G5":("SH_MitraClip",r"(?i)mitraclip",r"G5 Delivery System",None,"Mitral TEER"),
+"PASCAL Precision (PASCAL implant)":("SH_PASCAL_Edwards",r"PASCAL",r"PRECISION SYSTEM . IMPLANT SYSTEM",None,"Mitral TEER"),
+"PASCAL Precision (PASCAL Ace implant)":("SH_PASCAL_Edwards",r"PASCAL",r"ACE IMPLANT",None,"Mitral TEER"),
+"TriClip G4":("SH_TriClip",r"^TriClip™$",r"G4 Delivery",None,"Tricuspid TEER"),
+"TriClip G5":("SH_TriClip",r"^TriClip™$",r"G5 Delivery",None,"Tricuspid TEER"),
+"BRK / BRK-1":("SH_BRK",r"^BRK(-1)?™$",None,None,"Transseptal access"),
+"VersaCross Access Solution":("SH_VersaCross",r"^VersaCross(™)? Access Solution$",None,None,"Transseptal access"),
+"VersaCross Steerable Access Solution":("SH_VersaCross",r"^VersaCross(™)? Steerable Access Solution$",None,None,"Steerable guide/sheath"),
+"Agilis NxT":("SH_Agilis",r"^Agilis™( NxT)?$",r"NxT|Steerable Introducer",None,"Steerable guide/sheath"),
+}
+for k,(fn,b,i,e,c) in SH.items(): F[k]=(fn,b,i,e);CAT[k]=c
+THER={c:'Coronary' for c in set(CAT.values())}
+THER.update({c:'TAVI' for c in ['TAVI valve','Valve wire','Large-bore sheath','Cerebral embolic protection','Valvuloplasty balloon','Large-bore closure','Temporary pacing']})
+THER.update({'Mitral TEER':'Mitral TEER','Tricuspid TEER':'Tricuspid TEER','Transseptal access':'Shared accessories','Steerable guide/sheath':'Shared accessories'})
