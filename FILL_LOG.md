@@ -25,3 +25,5 @@ Shockwave C2+ IFU/tech sheet, C2 Aero page, AGENT IFU (2 µg/mm²), Asahi catalo
 GuideLiner V3 IFU IDs, Guidezilla II, Wolverine NP/RBP, Telescope, Heartrail, Vista Brite (curves corrected in pass 06: removed "EBU-type"). Tag preview-pass05.
 ## Pass 06 — fill 66.0%
 Eagle Eye Platinum RX IFU (18.6 MHz; conflicts w/ 20 MHz nominal), Refinity ST IFU 42.1 MHz + brochure pullback (conflict logged, 510(k) value kept), Diamondback 360 IFU P130005 p.8 (1.25 mm, 6 Fr/0.066 in), ROTAPRO Console Guide p.11 (burrs, guide IDs, rpm). Tag preview-pass06.
+## Pass 08 — fill 71.0% (Balloon 56→81, DES 81→85) — /preview/ only, tag preview-pass08
+45 values. TREK/MINI TREK US page (NP 8/RBP 14, 145 cm; profiles TREK only — measured on 3.00 mm, not copied to MINI TREK), NC TREK NEO US page, Emerge IFU 51340525-01A p.3/p.8 + US page, NC Emerge US page, Euphora US brochure p.2, NC Euphora tech sheet, NC Quantum Apex IFU 51427546-01B p.3/5/7, Onyx Frontier SSED P160043/S058 p.3–4 (strut 81/91 µm also to Resolute Onyx — same SSED table). No new conflicts. Skipped NC TREK RX (US page 404; only third-party PDFs). Backup: coronary-specs-verified.pre-pass08.csv.
