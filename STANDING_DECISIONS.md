@@ -11,3 +11,4 @@
 - 2026-10-13: Exclude devices not labeled for coronary use (e.g., AngioJet AVX, AV-access only). Implemented as EXCLUDE in build_master.py. Approved by Jeff.
 - 2026-10-13: v1.3 (pass10 build, AngioJet AVX removed) released to root with Jeff's approval.
 - 2026-10-13: UI (preview-pass10b, preview only): reprocessing rows hidden unless a selected device is reprocessed; removed devices leave empty placeholder slots (table never collapses).
+- 2026-10-13: v1.4 (preview-pass10b UI: conditional reprocessing rows, placeholder slots) released to root with Jeff's approval.
