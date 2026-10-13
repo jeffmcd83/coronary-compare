@@ -93,6 +93,7 @@ for o in rows:
         mod='IVUS (solid-state)' if 'Eagle' in m else 'IVUS (rotational)' if m in('Refinity ST','OptiCross HD') else 'OCT' if 'Dragonfly' in m else 'Pressure wire' if m in('OmniWire','PressureWire X','COMET II') else 'Pressure microcatheter' if 'Navvus' in m else ''
         if mod: setv('modality',mod,'GUDID brand name / FDA product code '+o['product_code'])
 exec(open('pass02_apply.py').read())
+exec(open('passes_apply.py').read())
 FIELDS=['category','manufacturer','model','reprocessed','n_skus','catalog_numbers','fda_submission','product_code','diameters_mm','lengths_mm','french_sizes','length_cm','wire_diameter_in','guidewire_compat_in','sheath_compat_fr','burr_sizes_mm','inner_diameter_mm']+[x for x in allspec if x!='inner_diameter_mm']
 FIELDS=list(dict.fromkeys(FIELDS))
 with open('coronary-specs-verified.csv','w',newline='') as f:
