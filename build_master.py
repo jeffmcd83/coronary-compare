@@ -73,7 +73,7 @@ SPEC={'DES':['drug','drug_dose','polymer','strut_thickness_um','platform_alloy',
 'DCB':['drug','coating_excipient','drug_dose'],'Balloon':['balloon_type','compliance','nominal_pressure_atm','rbp_atm','crossing_profile_in','tip_profile_in','shaft_length_cm'],
 'Guide catheter':['curves','inner_diameter_in','side_holes'],'Guidewire':['tip_load_gf','core_material','coating','wire_use'],
 'Microcatheter':['tip_od_fr','shaft_od_fr','inner_diameter_in','marker_bands'],'Guide extension':['inner_diameter_in','outer_diameter_in','guide_compat_fr'],
-'Atherectomy & IVL':['mechanism','pulses_or_runs','rbp_atm'],'Imaging & physiology':['modality','frequency_mhz','pullback_speed','physiology_indices'],
+'Atherectomy & IVL':['mechanism','pulses_or_runs','rbp_atm','crossing_profile_in','tip_profile_in','guide_compat'],'Imaging & physiology':['modality','frequency_mhz','pullback_speed','physiology_indices'],
 'Thrombectomy':['mechanism','aspiration_lumen_in']}
 allspec=[];[allspec.append(x) for v in SPEC.values() for x in v if x not in allspec]
 # conservative name-derived values
