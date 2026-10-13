@@ -1,0 +1,198 @@
+[
+ {
+  "pass": "pass12",
+  "model": "Shockwave C2+",
+  "field": "nominal_pressure_atm",
+  "value": "6",
+  "source": "Shockwave C2+ US IFU LBL 64191 Rev D / PN 64192 Rev C \u2014 Balloon Compliance Chart note ** 6 atm is nominal balloon pressure and post-treatment pressure p.6; https://shockwavemedical.com/wp-content/uploads/2024/11/PN-64192-Rev-C-%E2%80%93-IFU-Shockwave-C2plus-Coronary-IVL-Catheter-US.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "Shockwave C2+",
+  "field": "guidewire_compat_in",
+  "value": "0.014 in (0.36 mm)",
+  "source": "Shockwave C2+ US IFU LBL 64191 Rev D \u2014 Device Description guidewire lumen / Warning 7 (0.014 in guidewire) p.1; https://shockwavemedical.com/wp-content/uploads/2024/11/PN-64192-Rev-C-%E2%80%93-IFU-Shockwave-C2plus-Coronary-IVL-Catheter-US.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "Shockwave C2 Aero",
+  "field": "nominal_pressure_atm",
+  "value": "4",
+  "source": "Shockwave C2 Aero US IFU LBL 73390 Rev B / PN 73663 Rev B \u2014 Balloon Compliance Chart note ** 4 atm is nominal balloon pressure p.6; https://shockwavemedical.com/wp-content/uploads/2026/03/PN-73663-Rev-B-Shockwave-C2-Aero-Coronary-IVL-Catheter-IFU-US.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "Shockwave C2 Aero",
+  "field": "guidewire_compat_in",
+  "value": "0.014 in (0.36 mm)",
+  "source": "Shockwave C2 Aero US IFU LBL 73390 Rev B \u2014 Device Description guidewire lumen / Warning 7 (0.014 in guidewire) p.1; https://shockwavemedical.com/wp-content/uploads/2026/03/PN-73663-Rev-B-Shockwave-C2-Aero-Coronary-IVL-Catheter-IFU-US.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "ROTAPRO",
+  "field": "crossing_profile_in",
+  "value": "Burr OD 0.049 (1.25 mm) / 0.059 (1.50) / 0.069 (1.75) / 0.079 (2.00) / 0.085 (2.15) / 0.089 (2.25) / 0.094 (2.38) / 0.098 in (2.50 mm)",
+  "source": "BSC ROTAPRO Console Guide \u2014 Burr & Catheter Sizing table (Burr Diameter Inches) p.11; https://www.bostonscientific.com/content/dam/bostonscientific/Interventional%20Cardiology/portfolio-group/Plaque-Modification/Rotablator/ROTAPRO_Console_Guide_LR.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "ROTAPRO",
+  "field": "tip_profile_in",
+  "value": "Burr diameter 0.049\u20130.098 in (1.25\u20132.50 mm; size-dependent)",
+  "source": "BSC ROTAPRO Console Guide \u2014 Burr & Catheter Sizing table p.11; https://www.bostonscientific.com/content/dam/bostonscientific/Interventional%20Cardiology/portfolio-group/Plaque-Modification/Rotablator/ROTAPRO_Console_Guide_LR.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "ROTAPRO",
+  "field": "pulses_or_runs",
+  "value": "Recommended burr speed 160000\u2013180000 RPM (1.25\u20132.00 mm); 140000\u2013160000 RPM (\u22652.15 mm)",
+  "source": "BSC ROTAPRO Console Guide \u2014 Burr & Catheter Sizing / Recommended Burr Speed p.11; https://www.bostonscientific.com/content/dam/bostonscientific/Interventional%20Cardiology/portfolio-group/Plaque-Modification/Rotablator/ROTAPRO_Console_Guide_LR.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "ROTAPRO",
+  "field": "diameters_mm",
+  "value": "1.25, 1.50, 1.75, 2.00, 2.15, 2.25, 2.38, 2.50 mm",
+  "source": "BSC ROTAPRO Console Guide \u2014 Burr & Catheter Sizing table (Burr mm) p.11; https://www.bostonscientific.com/content/dam/bostonscientific/Interventional%20Cardiology/portfolio-group/Plaque-Modification/Rotablator/ROTAPRO_Console_Guide_LR.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "Diamondback 360 Coronary OAS",
+  "field": "crossing_profile_in",
+  "value": "Max OAD catheter OD 1.34 mm (0.053 in)",
+  "source": "CSI Diamondback 360 Coronary OAS IFU (FDA P130005 labeling) Table 1 \u2014 OAD maximum catheter outer diameter p.8; https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130005c.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "Diamondback 360 Coronary OAS",
+  "field": "pulses_or_runs",
+  "value": "Low speed 80000 rpm; High speed 120000 rpm",
+  "source": "CSI Diamondback 360 Coronary OAS IFU (FDA P130005 labeling) Appendix B/C \u2014 Low Speed (80 krpm) / High Speed (120 krpm) p.50; https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130005c.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "Diamondback 360 Coronary OAS",
+  "field": "diameters_mm",
+  "value": "1.25 mm (classic crown DBEC-125); 1.50 mm (DBEC-150 per IFU Table 1)",
+  "source": "CSI Diamondback 360 Coronary OAS IFU (FDA P130005 labeling) Table 1 Crown sizes p.8; https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130005c.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "ELCA Coronary Laser Atherectomy",
+  "field": "diameters_mm",
+  "value": "0.9, 1.4, 1.7, 2.0 mm",
+  "source": "Philips ELCA brochure D2023060101A (APR 2024) ordering table (catheter size mm) p.3; https://www.documents.philips.com/assets/20240524/ba78a0af20114aeebae3b17a008d71cc.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "ELCA Coronary Laser Atherectomy",
+  "field": "guidewire_compat_in",
+  "value": "0.014 in",
+  "source": "Philips ELCA brochure D2023060101A (APR 2024) ordering table (Guidewire compatibility) p.3; https://www.documents.philips.com/assets/20240524/ba78a0af20114aeebae3b17a008d71cc.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "Eagle Eye Platinum RX",
+  "field": "french_sizes",
+  "value": "3.5 Fr (transducer); shaft 2.9 Fr",
+  "source": "Philips Eagle Eye Platinum RX IFU \u2014 Crossing profile at transducer 3.5F / shaft markers 2.9F p.1; https://www.documents.philips.com/assets/Instruction%20for%20Use/20220308/ae6b05bcbf4b447a80c0ae520172add7.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "Eagle Eye Platinum RX",
+  "field": "guidewire_compat_in",
+  "value": "\u22640.014 in (0.36 mm)",
+  "source": "Philips Eagle Eye Platinum RX IFU \u2014 Maximum guide wire 0.014 in (0.36 mm) p.1; https://www.documents.philips.com/assets/Instruction%20for%20Use/20220308/ae6b05bcbf4b447a80c0ae520172add7.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "Eagle Eye Platinum RX",
+  "field": "tip_profile_in",
+  "value": "Tapered tip OD 0.019 in (0.48 mm)",
+  "source": "Philips Eagle Eye Platinum RX IFU \u2014 diagram Tapered Tip O.D. 0.019 in (0.48 mm) p.1; https://www.documents.philips.com/assets/Instruction%20for%20Use/20220308/ae6b05bcbf4b447a80c0ae520172add7.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "Eagle Eye Platinum ST RX",
+  "field": "french_sizes",
+  "value": "3.5 Fr (transducer); shaft 2.9 Fr",
+  "source": "Philips Eagle Eye Platinum ST RX IFU \u2014 Crossing profile at transducer 3.5F / shaft markers 2.9F p.8; https://www.documents.philips.com/assets/Instruction%20for%20Use/20260928/3d8ddbf535664e7bb7bcb4d300fce45c.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "Eagle Eye Platinum ST RX",
+  "field": "guidewire_compat_in",
+  "value": "\u22640.014 in (0.36 mm)",
+  "source": "Philips Eagle Eye Platinum ST RX IFU \u2014 Maximum guide wire 0.014 in (0.36 mm) p.8; https://www.documents.philips.com/assets/Instruction%20for%20Use/20260928/3d8ddbf535664e7bb7bcb4d300fce45c.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "Eagle Eye Platinum ST RX",
+  "field": "tip_profile_in",
+  "value": "Tapered tip OD 0.019 in",
+  "source": "Philips Eagle Eye Platinum ST RX IFU \u2014 diagram Tapered Tip O.D. 0.019 in p.7; https://www.documents.philips.com/assets/Instruction%20for%20Use/20260928/3d8ddbf535664e7bb7bcb4d300fce45c.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "Eagle Eye Platinum ST RX",
+  "field": "crossing_profile_in",
+  "value": "3.5 Fr (0.046 in / 1.17 mm)",
+  "source": "Philips Eagle Eye Platinum ST RX IFU \u2014 Crossing profile at transducer 3.5F (0.046 in / 1.17 mm) p.8; https://www.documents.philips.com/assets/Instruction%20for%20Use/20260928/3d8ddbf535664e7bb7bcb4d300fce45c.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "Eagle Eye Platinum ST RX",
+  "field": "guide_compat",
+  "value": "Min guide 5 Fr (0.066 in / 1.67 mm)",
+  "source": "Philips Eagle Eye Platinum ST RX IFU \u2014 Minimum guide catheter O.D. 5F (0.066 in / 1.67 mm) p.8; https://www.documents.philips.com/assets/Instruction%20for%20Use/20260928/3d8ddbf535664e7bb7bcb4d300fce45c.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "OptiCross HD",
+  "field": "french_sizes",
+  "value": "5F and 6F",
+  "source": "BSC OptiCross HD / OptiCross 6 HD IFU 51745668-01A \u2014 Device Description (Available in 5F and 6F sizes) p.2; https://www.bostonscientific.com/content/dam/elabeling/ic/opticross_hd_and_6hd/51745668-01A_OPTICROSSHDAND6HD_IFU_ML_s.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "OptiCross HD",
+  "field": "guidewire_compat_in",
+  "value": "0.014 in (0.36 mm)",
+  "source": "BSC OptiCross HD / OptiCross 6 HD IFU 51745668-01A \u2014 Materials Required (0.014 in / 0.36 mm Guidewire) p.4; https://www.bostonscientific.com/content/dam/elabeling/ic/opticross_hd_and_6hd/51745668-01A_OPTICROSSHDAND6HD_IFU_ML_s.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "Refinity ST",
+  "field": "french_sizes",
+  "value": "3.0\u20133.1 Fr (shaft profiles per IFU diagram)",
+  "source": "Philips Refinity ST IFU \u2014 catheter diagram distal/mid/proximal shaft 3.0F / 3.1F / 3.0F p.1; https://www.documents.philips.com/assets/Instruction%20for%20Use/20240205/29d224a3700b4a27afc7b10d017bf6c3.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "Refinity ST",
+  "field": "guidewire_compat_in",
+  "value": "max 0.014 in (0.36 mm)",
+  "source": "Philips Refinity ST IFU \u2014 Maximum guide wire 0.014 in (0.36 mm) / 0.014 in compatible RX lumen p.1; https://www.documents.philips.com/assets/Instruction%20for%20Use/20240205/29d224a3700b4a27afc7b10d017bf6c3.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "Refinity ST",
+  "field": "guide_compat",
+  "value": "5 Fr guide (I.D. \u22650.056 in)",
+  "source": "Philips Refinity ST IFU \u2014 appropriate sized guide catheter (5F, I.D. \u22650.056 in) p.1; https://www.documents.philips.com/assets/Instruction%20for%20Use/20240205/29d224a3700b4a27afc7b10d017bf6c3.pdf?feed=ifu_docs_feed"
+ },
+ {
+  "pass": "pass12",
+  "model": "OmniWire",
+  "field": "physiology_indices",
+  "value": "iFR",
+  "source": "Philips OmniWire datasheet D000267917_B \u2014 iFR outcomes / iFR Co-registration p.1; https://www.philips.com/c-dam/b2bhc/master/education-resources/technologies/igt/images/omniwire-data-sheet.pdf"
+ },
+ {
+  "pass": "pass12",
+  "model": "Dragonfly OpStar",
+  "field": "physiology_indices",
+  "value": "FFR, Pd/Pa at rest, RFR (with compatible OPTIS/AptiVue)",
+  "source": "FDA 510(k) summary K192019 \u2014 Dragonfly OpStar / AptiVue Display physiological assessments p.4; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K192019.pdf"
+ }
+]
