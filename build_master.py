@@ -94,6 +94,9 @@ for o in rows:
         if mod: setv('modality',mod,'GUDID brand name / FDA product code '+o['product_code'])
 exec(open('pass02_apply.py').read())
 exec(open('passes_apply.py').read())
+# STANDING_DECISIONS 2026-10-13: exclude devices not labeled for coronary use
+EXCLUDE={"AngioJet AVX"}  # AV-access grafts/fistulae only (BSC US AngioJet page)
+rows=[r for r in rows if r.get("model") not in EXCLUDE]
 FIELDS=['category','manufacturer','model','reprocessed','n_skus','catalog_numbers','fda_submission','product_code','diameters_mm','lengths_mm','french_sizes','length_cm','wire_diameter_in','guidewire_compat_in','sheath_compat_fr','burr_sizes_mm','inner_diameter_mm']+[x for x in allspec if x!='inner_diameter_mm']
 FIELDS=list(dict.fromkeys(FIELDS))
 with open('coronary-specs-verified.csv','w',newline='') as f:
