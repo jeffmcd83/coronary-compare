@@ -26,13 +26,24 @@ for r in rows:
     o['_p']['recalls']=ps('openFDA device recall API, exact catalog-number match in code_info; https://open.fda.gov/apis/device/recall/')
     out.append(o)
 F=sorted({f for c in SECT.values() for s in c for f in s[1]})
-core={'rows':out,'sect':SECT,'labels':{f:LAB(f) for f in F},'ps':PS,'built':datetime.date.today().isoformat(),'pass':'11c'}
+core={'rows':out,'sect':SECT,'labels':{f:LAB(f) for f in F},'ps':PS,'built':datetime.date.today().isoformat(),'pass':'11d'}
 def dump(n,o):
     s=json.dumps(o,ensure_ascii=False,separators=(',',':'));open(f'{OUT}/data/{n}','w').write(s);return s
 a=dump('core.json',core);b=dump('recalls.json',RC)
 tpl=open(R+'app/template.html').read()
 ver=hashlib.md5((a+b+tpl).encode()).hexdigest()[:8]
-open(OUT+'/index.html','w').write(tpl.replace('__VER__',ver).replace('__BUILT__',core['built']))
+def guides_html(path='/workspace/guides.json',cur='coronary'):
+    import json,html as H
+    G=json.load(open(path,encoding='utf-8'))['guides']
+    li=[]
+    for g in G:
+        t=H.escape(g['title']);live=g.get('status')=='live' and g.get('url')
+        if live:
+            c=' class="cur"' if g['id']==cur else ''
+            li.append(f'<li{c}><a href="{H.escape(g["url"])}"'+(' aria-current="page"' if c else '')+f'>{t}</a></li>')
+        else: li.append(f'<li class="soon" aria-disabled="true">{t}<small>coming soon</small></li>')
+    return '<details id="gd"><summary aria-label="All comparison guides">Guides ▾</summary><ul role="list">'+''.join(li)+'</ul></details>'
+open(OUT+'/index.html','w').write(tpl.replace('__VER__',ver).replace('__BUILT__',core['built']).replace('__GUIDES__',guides_html()))
 open(OUT+'/favicon.svg','w').write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#111827"/><path d="M8 34h12l5-12 8 24 6-16 4 4h13" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>')
 open(OUT+'/sw.js','w').write(f"const P='cor-preview-',C=P+'{ver}';self.addEventListener('install',e=>{{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(['./','./favicon.svg','./data/core.json?v={ver}'])))}});self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x.startsWith(P)&&x!==C).map(x=>caches.delete(x))))));self.addEventListener('fetch',e=>{{if(e.request.method!=='GET')return;const u=new URL(e.request.url);if(u.origin!==location.origin)return;e.respondWith(caches.open(C).then(c=>fetch(e.request,{{cache:'no-cache'}}).then(r=>{{if(r.ok)c.put(e.request,r.clone());return r}}).catch(()=>c.match(e.request,{{ignoreSearch:true}}))))}});")
 print('ver',ver,len(out),'rows',len(PS),'sources')

@@ -17,3 +17,4 @@
 - 2026-10-13: v1.6 (preview-passsh02: Coronary & Structural Heart, fill 76.0%) released to root with Jeff's approval.
 - 2026-10-13: Coronary only. Structural heart moved to its own bot/guide; data, research and UI code live in /workspace/structural-specs. No therapy filter here; title "Coronary Comparison Guide". Supersedes the 2026-10-13 scope-expansion entry.
 - 2026-10-13: v1.7 (preview-pass11c: coronary-only, structural removed, fill 81.5%) released to root with Jeff's approval.
+- 2026-10-13: Header 'Guides' menu built from /workspace/guides.json at build time (CRM style); coronary entry set live.
