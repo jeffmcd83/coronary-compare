@@ -14,3 +14,4 @@
 - 2026-10-13: v1.4 (preview-pass10b UI: conditional reprocessing rows, placeholder slots) released to root with Jeff's approval.
 - 2026-10-13: v1.5 (preview-pass11, fill 81.5%) released to root with Jeff's approval.
 - 2026-10-13: Scope expanded (Jeff approved) to "Coronary & Structural Heart": therapy filter Coronary | TAVI | Mitral TEER | Tricuspid TEER | Shared accessories. Same data rules. US-labelled indications only (e.g. PASCAL tricuspid not added — no US label). Preview only until Jeff approves a root release.
+- 2026-10-13: v1.6 (preview-passsh02: Coronary & Structural Heart, fill 76.0%) released to root with Jeff's approval.
