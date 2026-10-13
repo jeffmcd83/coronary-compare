@@ -15,7 +15,7 @@ with sync_playwright() as p:
       pg.select_option('#vw',v);pg.wait_for_timeout(300)
       pg.click('.pk .x[data-i="1"]');pg.wait_for_timeout(400)
       cols=pg.locator('thead th').count();slots=pg.locator('thead th.slot').count();pg.screenshot(path=A+f'{T}-slot-removed-{v}-{n}.png')
-      for i in range(4): pg.click(f'.pk .x[data-i="{i}"]')
+      for i in range(4): pg.locator(f'.pk .x[data-i="{i}"]').dispatch_event('click');pg.wait_for_timeout(150)
       pg.wait_for_timeout(400);ca=pg.locator('thead th').count();rows=pg.locator('tbody tr').count();pg.screenshot(path=A+f'{T}-all-empty-{v}-{n}.png')
       print(n,v,'cols',cols,'slots',slots,'| all-empty cols',ca,'rows',rows)
       pg.goto(U+'#c=DES&m=');pg.evaluate('location.hash="c=DES"');pg.reload();pg.wait_for_timeout(1500)
