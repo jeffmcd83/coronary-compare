@@ -20,3 +20,4 @@
 - 2026-10-13: Header 'Guides' menu built from /workspace/guides.json at build time (CRM style); coronary entry set live.
 - 2026-10-13: Product selection moved into each column header (manufacturer select + searchable model, CRM-style); separate picker bar removed. Guide renamed "Coronary Products and Accessories" (title, header, meta, guides.json); URL unchanged. Preview only (preview-pass11e).
 - 2026-10-13: Columns now match CRM guide: 4 static supplier columns (Abbott [incl. St. Jude], Boston Scientific, Medtronic, Other grouped by maker), per-column model menu filtered by supplier+category with model count, Clear ✕, Quick info (recalls, open recalls, 2 key specs), Family ▸ panel, global 'Search all models'. Preview only (preview-pass11f).
+- 2026-10-13: v1.8 (preview-pass11f: CRM-style supplier columns, Guides menu, renamed 'Coronary Products and Accessories') released to root with Jeff's approval.
