@@ -9,7 +9,7 @@ SIZE={'DES':['diameters_mm','lengths_mm'],'BMS':['diameters_mm','lengths_mm'],'C
 'Microcatheter':['french_sizes','length_cm'],'Guide extension':['french_sizes','length_cm'],'Atherectomy & IVL':['diameters_mm','burr_sizes_mm','french_sizes','sheath_compat_fr','guidewire_compat_in','length_cm','nominal_pressure_atm'],
 'Imaging & physiology':['wire_diameter_in','french_sizes','sheath_compat_fr','guidewire_compat_in','length_cm'],'Thrombectomy':['french_sizes','length_cm','inner_diameter_mm']}
 SECT={c:[['Identity & regulatory',COMMON],['Sizes (GUDID)',SIZE[c]],['Specifications (OEM IFU / spec sheet)',[f for f in SPEC[c] if f not in SIZE[c]]],['Safety',['recalls']]] for c in SPEC}
-LAB=lambda k:{'n_skus':'GUDID device count','fda_submission':'FDA PMA / 510(k) / HDE','catalog_numbers':'Catalog / model numbers','reprocessed':'Reprocessed (3rd-party 510(k))'}.get(k,k.replace('_mm',' (mm)').replace('_in',' (in)').replace('_cm',' (cm)').replace('_fr',' (Fr)').replace('_um',' (µm)').replace('_atm',' (atm)').replace('_gf',' (gf)').replace('_mhz',' (MHz)').replace('_',' ').capitalize())
+LAB=lambda k:{'n_skus':'GUDID device count','fda_submission':'FDA PMA / 510(k) / HDE','catalog_numbers':'Catalog / model numbers','reprocessed':'Reprocessed (3rd-party 510(k))'}.get(k,(lambda m:(m.group(1).replace('_',' ').capitalize()+(' ('+{'mm':'mm','in':'in','cm':'cm','fr':'Fr','um':'µm','atm':'atm','gf':'gf','mhz':'MHz'}[m.group(2)]+')' if m.group(2) else '')))(re.match(r'(.*?)(?:_(mm|in|cm|fr|um|atm|gf|mhz))?$',k)))
 PS=[];PI={}
 def ps(s):
     u=(re.findall(r'https?://\S+',s) or [''])[0];t=re.sub(r'\s*;?\s*https?://\S+','',s).strip(' ;')
