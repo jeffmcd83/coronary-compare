@@ -5,3 +5,4 @@
 6. Reprocessed devices = own rows, only with a found 510(k) number. 7. No embolic protection. 8. Publish to /preview/ first.
 
 - 2026-10-12: v1.0 (pass06 build) published to ROOT https://jeffmcd83.github.io/coronary-compare/ with Jeff's approval; /preview/ retained. Future passes publish to /preview/ first (publish.sh) unless Jeff says otherwise; promoting to root uses release.sh <tag> only with Jeff's explicit approval.
+- 2026-10-12: v1.0.1 (duplicate-picker fix) released to root with Jeff's approval.
