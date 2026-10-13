@@ -1,0 +1,511 @@
+{
+"XIENCE Skypoint": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"XIENCE Skypoint\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Skypoint%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"XIENCE Skypoint\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Skypoint%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"XIENCE Skypoint\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Skypoint%E2%84%A2%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"XIENCE Skypoint\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Skypoint%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"XIENCE Skypoint\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Skypoint%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"XIENCE Skypoint\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Skypoint%E2%84%A2%22"
+},
+"XIENCE Sierra": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 56 device identifiers, brand \"XIENCE Sierra\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Sierra%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 56 device identifiers, brand \"XIENCE Sierra\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Sierra%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 56 device identifiers, brand \"XIENCE Sierra\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Sierra%E2%84%A2%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 56 device identifiers, brand \"XIENCE Sierra\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Sierra%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 56 device identifiers, brand \"XIENCE Sierra\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Sierra%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 56 device identifiers, brand \"XIENCE Sierra\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22XIENCE%20Sierra%E2%84%A2%22"
+},
+"SYNERGY XD": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"SYNERGY\u2122 XD\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%E2%84%A2%20XD%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"SYNERGY\u2122 XD\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%E2%84%A2%20XD%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"SYNERGY\u2122 XD\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%E2%84%A2%20XD%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P150003",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"SYNERGY\u2122 XD\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%E2%84%A2%20XD%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"SYNERGY\u2122 XD\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%E2%84%A2%20XD%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"SYNERGY\u2122 XD\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%E2%84%A2%20XD%22"
+},
+"SYNERGY MEGATRON": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"SYNERGY MEGATRON\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%20MEGATRON%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"SYNERGY MEGATRON\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%20MEGATRON%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"SYNERGY MEGATRON\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%20MEGATRON%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P150003",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"SYNERGY MEGATRON\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%20MEGATRON%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"SYNERGY MEGATRON\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%20MEGATRON%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"SYNERGY MEGATRON\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22SYNERGY%20MEGATRON%E2%84%A2%22"
+},
+"Onyx Frontier": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"Onyx Frontier\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Onyx%20Frontier%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"Onyx Frontier\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Onyx%20Frontier%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"Onyx Frontier\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Onyx%20Frontier%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"Onyx Frontier\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Onyx%20Frontier%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"Onyx Frontier\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Onyx%20Frontier%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 73 device identifiers, brand \"Onyx Frontier\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Onyx%20Frontier%E2%84%A2%22"
+},
+"Resolute Onyx": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 134 device identifiers, brand \"Resolute Onyx\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Resolute%20Onyx%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 134 device identifiers, brand \"Resolute Onyx\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Resolute%20Onyx%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 134 device identifiers, brand \"Resolute Onyx\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Resolute%20Onyx%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 134 device identifiers, brand \"Resolute Onyx\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Resolute%20Onyx%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 134 device identifiers, brand \"Resolute Onyx\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Resolute%20Onyx%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 134 device identifiers, brand \"Resolute Onyx\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Resolute%20Onyx%E2%84%A2%22"
+},
+"Orsiro Mission": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"Orsiro\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Orsiro%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"Orsiro\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Orsiro%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"Orsiro\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Orsiro%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"Orsiro\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Orsiro%22"
+},
+"MULTI-LINK 8": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"MULTI-LINK 8\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MULTI-LINK%208%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"MULTI-LINK 8\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MULTI-LINK%208%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"MULTI-LINK 8\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MULTI-LINK%208%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"MULTI-LINK 8\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MULTI-LINK%208%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"MULTI-LINK 8\"; parsed from GUDID device_description \"D x L\" text; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MULTI-LINK%208%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"MULTI-LINK 8\"; parsed from GUDID device_description \"D x L\" text; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MULTI-LINK%208%22"
+},
+"Integrity": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 78 device identifiers, brand \"Integrity\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Integrity%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 78 device identifiers, brand \"Integrity\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Integrity%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 78 device identifiers, brand \"Integrity\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Integrity%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P030009",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 78 device identifiers, brand \"Integrity\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Integrity%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 78 device identifiers, brand \"Integrity\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Integrity%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 78 device identifiers, brand \"Integrity\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Integrity%22"
+},
+"REBEL": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 92 device identifiers, brand \"REBEL\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22REBEL%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 92 device identifiers, brand \"REBEL\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22REBEL%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 92 device identifiers, brand \"REBEL\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22REBEL%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P130030",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 92 device identifiers, brand \"REBEL\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22REBEL%E2%84%A2%22"
+},
+"PK Papyrus": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 17 device identifiers, brand \"PK Papyrus\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PK%20Papyrus%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 17 device identifiers, brand \"PK Papyrus\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PK%20Papyrus%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 17 device identifiers, brand \"PK Papyrus\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PK%20Papyrus%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 17 device identifiers, brand \"PK Papyrus\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PK%20Papyrus%22"
+},
+"GRAFTMASTER RX": {},
+"AGENT": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"AGENT\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AGENT%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"AGENT\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AGENT%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"AGENT\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AGENT%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P230035",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"AGENT\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AGENT%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"AGENT\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AGENT%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 28 device identifiers, brand \"AGENT\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AGENT%E2%84%A2%22"
+},
+"NC TREK RX": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"NC TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"NC TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"NC TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"NC TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"NC TREK\"; parsed from GUDID device_description \"D x L\" text; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 118 device identifiers, brand \"NC TREK\"; parsed from GUDID device_description \"D x L\" text; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%22"
+},
+"NC TREK NEO": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"NC TREK NEO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%20NEO%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"NC TREK NEO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%20NEO%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"NC TREK NEO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%20NEO%E2%84%A2%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"NC TREK NEO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%20NEO%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"NC TREK NEO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%20NEO%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"NC TREK NEO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20TREK%20NEO%E2%84%A2%22"
+},
+"TREK RX": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 120 device identifiers, brand \"TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TREK%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 120 device identifiers, brand \"TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TREK%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 120 device identifiers, brand \"TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TREK%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 120 device identifiers, brand \"TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TREK%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 120 device identifiers, brand \"TREK\"; parsed from GUDID device_description \"D x L\" text; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TREK%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 120 device identifiers, brand \"TREK\"; parsed from GUDID device_description \"D x L\" text; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TREK%22"
+},
+"MINI TREK": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 32 device identifiers, brand \"MINI TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MINI%20TREK%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 32 device identifiers, brand \"MINI TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MINI%20TREK%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 32 device identifiers, brand \"MINI TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MINI%20TREK%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 32 device identifiers, brand \"MINI TREK\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MINI%20TREK%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 32 device identifiers, brand \"MINI TREK\"; parsed from GUDID device_description \"D x L\" text; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MINI%20TREK%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 32 device identifiers, brand \"MINI TREK\"; parsed from GUDID device_description \"D x L\" text; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MINI%20TREK%22"
+},
+"NC Emerge": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 144 device identifiers, brand \"NC Emerge\u00ae\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Emerge%C2%AE%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 144 device identifiers, brand \"NC Emerge\u00ae\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Emerge%C2%AE%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 144 device identifiers, brand \"NC Emerge\u00ae\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Emerge%C2%AE%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 144 device identifiers, brand \"NC Emerge\u00ae\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Emerge%C2%AE%22"
+},
+"Emerge": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 119 device identifiers, brand \"Emerge\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Emerge%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 119 device identifiers, brand \"Emerge\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Emerge%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 119 device identifiers, brand \"Emerge\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Emerge%E2%84%A2%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 119 device identifiers, brand \"Emerge\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Emerge%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 119 device identifiers, brand \"Emerge\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Emerge%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 119 device identifiers, brand \"Emerge\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Emerge%E2%84%A2%22"
+},
+"NC Euphora": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 59 device identifiers, brand \"NC Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Euphora%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 59 device identifiers, brand \"NC Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Euphora%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 59 device identifiers, brand \"NC Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Euphora%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K141090",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 59 device identifiers, brand \"NC Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Euphora%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 59 device identifiers, brand \"NC Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Euphora%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 59 device identifiers, brand \"NC Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Euphora%E2%84%A2%22"
+},
+"Euphora": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 64 device identifiers, brand \"Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Euphora%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 64 device identifiers, brand \"Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Euphora%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 64 device identifiers, brand \"Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Euphora%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K143480",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 64 device identifiers, brand \"Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Euphora%E2%84%A2%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 64 device identifiers, brand \"Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Euphora%E2%84%A2%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 64 device identifiers, brand \"Euphora\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Euphora%E2%84%A2%22"
+},
+"NC Quantum Apex": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 128 device identifiers, brand \"NC Quantum Apex\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Quantum%20Apex%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 128 device identifiers, brand \"NC Quantum Apex\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Quantum%20Apex%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 128 device identifiers, brand \"NC Quantum Apex\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Quantum%20Apex%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P860019",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 128 device identifiers, brand \"NC Quantum Apex\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NC%20Quantum%20Apex%E2%84%A2%22"
+},
+"Wolverine Cutting Balloon": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 54 device identifiers, brand \"Wolverine Coronary Cutting Balloon\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Wolverine%20Coronary%20Cutting%20Balloon%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 54 device identifiers, brand \"Wolverine Coronary Cutting Balloon\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Wolverine%20Coronary%20Cutting%20Balloon%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 54 device identifiers, brand \"Wolverine Coronary Cutting Balloon\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Wolverine%20Coronary%20Cutting%20Balloon%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P950020",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 54 device identifiers, brand \"Wolverine Coronary Cutting Balloon\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Wolverine%20Coronary%20Cutting%20Balloon%22"
+},
+"AngioSculpt RX PTCA": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 103 device identifiers, brand \"AngioSculpt\u00ae PTCA Scoring Balloon Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioSculpt%C2%AE%20PTCA%20Scoring%20Balloon%20Catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 103 device identifiers, brand \"AngioSculpt\u00ae PTCA Scoring Balloon Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioSculpt%C2%AE%20PTCA%20Scoring%20Balloon%20Catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 103 device identifiers, brand \"AngioSculpt\u00ae PTCA Scoring Balloon Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioSculpt%C2%AE%20PTCA%20Scoring%20Balloon%20Catheter%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P050018",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 103 device identifiers, brand \"AngioSculpt\u00ae PTCA Scoring Balloon Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioSculpt%C2%AE%20PTCA%20Scoring%20Balloon%20Catheter%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 103 device identifiers, brand \"AngioSculpt\u00ae PTCA Scoring Balloon Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioSculpt%C2%AE%20PTCA%20Scoring%20Balloon%20Catheter%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 103 device identifiers, brand \"AngioSculpt\u00ae PTCA Scoring Balloon Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioSculpt%C2%AE%20PTCA%20Scoring%20Balloon%20Catheter%22"
+},
+"Launcher": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2971 device identifiers, brand \"Launcher\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Launcher%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2971 device identifiers, brand \"Launcher\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Launcher%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2971 device identifiers, brand \"Launcher\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Launcher%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K021256 ; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K022764 ; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K030671",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2971 device identifiers, brand \"Launcher\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Launcher%22",
+"french_sizes": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2971 device identifiers, brand \"Launcher\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Launcher%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2971 device identifiers, brand \"Launcher\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Launcher%22"
+},
+"Vista Brite Tip": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 832 device identifiers, brand \"VISTA BRITE TIP\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22VISTA%20BRITE%20TIP%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 832 device identifiers, brand \"VISTA BRITE TIP\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22VISTA%20BRITE%20TIP%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 832 device identifiers, brand \"VISTA BRITE TIP\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22VISTA%20BRITE%20TIP%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K000715 ; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K021593 ; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K963962",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 832 device identifiers, brand \"VISTA BRITE TIP\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22VISTA%20BRITE%20TIP%22"
+},
+"Heartrail III": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"HEARTRAIL\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HEARTRAIL%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"HEARTRAIL\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HEARTRAIL%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"HEARTRAIL\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HEARTRAIL%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"HEARTRAIL\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HEARTRAIL%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"HEARTRAIL\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HEARTRAIL%22",
+"inner_diameter_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 65 device identifiers, brand \"HEARTRAIL\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HEARTRAIL%22"
+},
+"HI-TORQUE BALANCE MIDDLEWEIGHT UNIVERSAL II": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"HI-TORQUE BALANCE MIDDLEWEIGHT UNIVERSAL II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20BALANCE%20MIDDLEWEIGHT%20UNIVERSAL%20II%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"HI-TORQUE BALANCE MIDDLEWEIGHT UNIVERSAL II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20BALANCE%20MIDDLEWEIGHT%20UNIVERSAL%20II%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"HI-TORQUE BALANCE MIDDLEWEIGHT UNIVERSAL II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20BALANCE%20MIDDLEWEIGHT%20UNIVERSAL%20II%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"HI-TORQUE BALANCE MIDDLEWEIGHT UNIVERSAL II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20BALANCE%20MIDDLEWEIGHT%20UNIVERSAL%20II%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"HI-TORQUE BALANCE MIDDLEWEIGHT UNIVERSAL II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20BALANCE%20MIDDLEWEIGHT%20UNIVERSAL%20II%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"HI-TORQUE BALANCE MIDDLEWEIGHT UNIVERSAL II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20BALANCE%20MIDDLEWEIGHT%20UNIVERSAL%20II%22"
+},
+"SION blue": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"ASAHI SION blue\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20blue%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"ASAHI SION blue\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20blue%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"ASAHI SION blue\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20blue%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"ASAHI SION blue\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20blue%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"ASAHI SION blue\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20blue%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"ASAHI SION blue\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20blue%22"
+},
+"SION black": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI SION black\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20black%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI SION black\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20black%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI SION black\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20black%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI SION black\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20black%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI SION black\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20black%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI SION black\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20SION%20black%22"
+},
+"Runthrough NS": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"RUNTHROUGH\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22RUNTHROUGH%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"RUNTHROUGH\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22RUNTHROUGH%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"RUNTHROUGH\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22RUNTHROUGH%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"RUNTHROUGH\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22RUNTHROUGH%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"RUNTHROUGH\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22RUNTHROUGH%22"
+},
+"Gaia Next": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI Gaia Next 3\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Gaia%20Next%203%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI Gaia Next 3\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Gaia%20Next%203%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI Gaia Next 3\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Gaia%20Next%203%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI Gaia Next 3\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Gaia%20Next%203%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI Gaia Next 3\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Gaia%20Next%203%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"ASAHI Gaia Next 3\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Gaia%20Next%203%22"
+},
+"Confianza Pro 12": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"CONFIANZA PRO 12\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22CONFIANZA%20PRO%2012%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"CONFIANZA PRO 12\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22CONFIANZA%20PRO%2012%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"CONFIANZA PRO 12\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22CONFIANZA%20PRO%2012%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"CONFIANZA PRO 12\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22CONFIANZA%20PRO%2012%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"CONFIANZA PRO 12\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22CONFIANZA%20PRO%2012%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"CONFIANZA PRO 12\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22CONFIANZA%20PRO%2012%22"
+},
+"HI-TORQUE PILOT": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 12 device identifiers, brand \"HI-TORQUE PILOT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20PILOT%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 12 device identifiers, brand \"HI-TORQUE PILOT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20PILOT%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 12 device identifiers, brand \"HI-TORQUE PILOT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20PILOT%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 12 device identifiers, brand \"HI-TORQUE PILOT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20PILOT%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 12 device identifiers, brand \"HI-TORQUE PILOT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20PILOT%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 12 device identifiers, brand \"HI-TORQUE PILOT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22HI-TORQUE%20PILOT%22"
+},
+"Cougar": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 36 device identifiers, brand \"COUGAR\u00ae LS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22COUGAR%C2%AE%20LS%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 36 device identifiers, brand \"COUGAR\u00ae LS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22COUGAR%C2%AE%20LS%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 36 device identifiers, brand \"COUGAR\u00ae LS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22COUGAR%C2%AE%20LS%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K140695",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 36 device identifiers, brand \"COUGAR\u00ae LS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22COUGAR%C2%AE%20LS%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 36 device identifiers, brand \"COUGAR\u00ae LS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22COUGAR%C2%AE%20LS%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 36 device identifiers, brand \"COUGAR\u00ae LS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22COUGAR%C2%AE%20LS%22"
+},
+"Fielder XT": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"FIELDER XT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FIELDER%20XT%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"FIELDER XT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FIELDER%20XT%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"FIELDER XT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FIELDER%20XT%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"FIELDER XT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FIELDER%20XT%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"FIELDER XT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FIELDER%20XT%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 6 device identifiers, brand \"FIELDER XT\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FIELDER%20XT%22"
+},
+"Turnpike": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 51 device identifiers, brand \"TURNPIKE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TURNPIKE%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 51 device identifiers, brand \"TURNPIKE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TURNPIKE%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 51 device identifiers, brand \"TURNPIKE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TURNPIKE%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K191560 ; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K212211",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 51 device identifiers, brand \"TURNPIKE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TURNPIKE%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 51 device identifiers, brand \"TURNPIKE\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TURNPIKE%22"
+},
+"Corsair Pro": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"ASAHI Corsair Pro XS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Corsair%20Pro%20XS%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"ASAHI Corsair Pro XS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Corsair%20Pro%20XS%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"ASAHI Corsair Pro XS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Corsair%20Pro%20XS%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"ASAHI Corsair Pro XS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Corsair%20Pro%20XS%22",
+"french_sizes": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"ASAHI Corsair Pro XS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Corsair%20Pro%20XS%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"ASAHI Corsair Pro XS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ASAHI%20Corsair%20Pro%20XS%22"
+},
+"Mamba": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 3 device identifiers, brand \"MAMBA\u2122 Flex\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MAMBA%E2%84%A2%20Flex%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 3 device identifiers, brand \"MAMBA\u2122 Flex\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MAMBA%E2%84%A2%20Flex%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 3 device identifiers, brand \"MAMBA\u2122 Flex\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MAMBA%E2%84%A2%20Flex%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 3 device identifiers, brand \"MAMBA\u2122 Flex\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22MAMBA%E2%84%A2%20Flex%22"
+},
+"Twin-Pass": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TWIN-PASS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TWIN-PASS%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TWIN-PASS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TWIN-PASS%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TWIN-PASS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TWIN-PASS%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K062877",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TWIN-PASS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TWIN-PASS%22",
+"french_sizes": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TWIN-PASS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TWIN-PASS%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TWIN-PASS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TWIN-PASS%22"
+},
+"Finecross": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"FINECROSS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FINECROSS%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"FINECROSS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FINECROSS%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"FINECROSS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FINECROSS%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"FINECROSS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FINECROSS%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"FINECROSS\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22FINECROSS%22"
+},
+"Caravel": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Caravel\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Caravel%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Caravel\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Caravel%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Caravel\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Caravel%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Caravel\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Caravel%22",
+"french_sizes": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Caravel\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Caravel%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Caravel\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Caravel%22"
+},
+"GuideLiner V3": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 5 device identifiers, brand \"GuideLiner\u00ae V3 catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22GuideLiner%C2%AE%20V3%20catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 5 device identifiers, brand \"GuideLiner\u00ae V3 catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22GuideLiner%C2%AE%20V3%20catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 5 device identifiers, brand \"GuideLiner\u00ae V3 catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22GuideLiner%C2%AE%20V3%20catheter%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 5 device identifiers, brand \"GuideLiner\u00ae V3 catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22GuideLiner%C2%AE%20V3%20catheter%22",
+"french_sizes": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 5 device identifiers, brand \"GuideLiner\u00ae V3 catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22GuideLiner%C2%AE%20V3%20catheter%22"
+},
+"Guidezilla II": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 5 device identifiers, brand \"Guidezilla\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Guidezilla%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 5 device identifiers, brand \"Guidezilla\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Guidezilla%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 5 device identifiers, brand \"Guidezilla\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Guidezilla%E2%84%A2%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 5 device identifiers, brand \"Guidezilla\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Guidezilla%E2%84%A2%22"
+},
+"Telescope": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Telescope\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Telescope%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Telescope\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Telescope%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Telescope\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Telescope%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K183353",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Telescope\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Telescope%E2%84%A2%22",
+"french_sizes": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Telescope\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Telescope%E2%84%A2%22"
+},
+"TrapLiner": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TRAPLINER\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TRAPLINER%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TRAPLINER\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TRAPLINER%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TRAPLINER\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TRAPLINER%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K191560",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TRAPLINER\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TRAPLINER%22",
+"french_sizes": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 10 device identifiers, brand \"TRAPLINER\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22TRAPLINER%22"
+},
+"ROTAPRO": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 20 device identifiers, brand \"ROTAPRO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ROTAPRO%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 20 device identifiers, brand \"ROTAPRO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ROTAPRO%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 20 device identifiers, brand \"ROTAPRO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ROTAPRO%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P900056",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 20 device identifiers, brand \"ROTAPRO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ROTAPRO%E2%84%A2%22",
+"guidewire_compat_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 20 device identifiers, brand \"ROTAPRO\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ROTAPRO%E2%84%A2%22"
+},
+"Diamondback 360 Coronary OAS": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"Diamondback Coronary\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Diamondback%20Coronary%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"Diamondback Coronary\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Diamondback%20Coronary%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"Diamondback Coronary\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Diamondback%20Coronary%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"Diamondback Coronary\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Diamondback%20Coronary%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 13 device identifiers, brand \"Diamondback Coronary\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Diamondback%20Coronary%22"
+},
+"ELCA Coronary Laser Atherectomy": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 27 device identifiers, brand \"ELCA\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ELCA%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 27 device identifiers, brand \"ELCA\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ELCA%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 27 device identifiers, brand \"ELCA\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ELCA%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P910001",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 27 device identifiers, brand \"ELCA\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ELCA%E2%84%A2%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 27 device identifiers, brand \"ELCA\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ELCA%E2%84%A2%22"
+},
+"Shockwave C2+": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2+ Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%2B%20Coronary%20IVL%20Catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2+ Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%2B%20Coronary%20IVL%20Catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2+ Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%2B%20Coronary%20IVL%20Catheter%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P200039",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2+ Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%2B%20Coronary%20IVL%20Catheter%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2+ Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%2B%20Coronary%20IVL%20Catheter%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2+ Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%2B%20Coronary%20IVL%20Catheter%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2+ Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%2B%20Coronary%20IVL%20Catheter%22"
+},
+"Shockwave C2 Aero": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2 Aero Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%20Aero%20Coronary%20IVL%20Catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2 Aero Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%20Aero%20Coronary%20IVL%20Catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2 Aero Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%20Aero%20Coronary%20IVL%20Catheter%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P200039",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2 Aero Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%20Aero%20Coronary%20IVL%20Catheter%22",
+"diameters_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2 Aero Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%20Aero%20Coronary%20IVL%20Catheter%22",
+"lengths_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2 Aero Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%20Aero%20Coronary%20IVL%20Catheter%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Shockwave IVL System with the Shockwave C2 Aero Coronary IVL Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Shockwave%20IVL%20System%20with%20the%20Shockwave%20C2%20Aero%20Coronary%20IVL%20Catheter%22"
+},
+"Eagle Eye Platinum RX": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K143701",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22"
+},
+"Eagle Eye Platinum ST RX": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum ST RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20ST%20RX%20Digital%20IVUS%20Catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum ST RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20ST%20RX%20Digital%20IVUS%20Catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum ST RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20ST%20RX%20Digital%20IVUS%20Catheter%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K143701",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum ST RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20ST%20RX%20Digital%20IVUS%20Catheter%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum ST RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20ST%20RX%20Digital%20IVUS%20Catheter%22"
+},
+"Refinity ST": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Refinity Rotational Intravascular Ultrasound IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Refinity%20Rotational%20Intravascular%20Ultrasound%20IVUS%20Catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Refinity Rotational Intravascular Ultrasound IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Refinity%20Rotational%20Intravascular%20Ultrasound%20IVUS%20Catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Refinity Rotational Intravascular Ultrasound IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Refinity%20Rotational%20Intravascular%20Ultrasound%20IVUS%20Catheter%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K160583",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Refinity Rotational Intravascular Ultrasound IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Refinity%20Rotational%20Intravascular%20Ultrasound%20IVUS%20Catheter%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Refinity Rotational Intravascular Ultrasound IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Refinity%20Rotational%20Intravascular%20Ultrasound%20IVUS%20Catheter%22"
+},
+"OptiCross HD": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 11 device identifiers, brand \"OptiCross 18\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OptiCross%2018%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 11 device identifiers, brand \"OptiCross 18\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OptiCross%2018%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 11 device identifiers, brand \"OptiCross 18\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OptiCross%2018%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 11 device identifiers, brand \"OptiCross 18\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OptiCross%2018%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 11 device identifiers, brand \"OptiCross 18\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OptiCross%2018%22"
+},
+"Dragonfly OpStar": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Dragonfly OpStar\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Dragonfly%20OpStar%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Dragonfly OpStar\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Dragonfly%20OpStar%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Dragonfly OpStar\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Dragonfly%20OpStar%E2%84%A2%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Dragonfly OpStar\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Dragonfly%20OpStar%E2%84%A2%22"
+},
+"OmniWire": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"OmniWire Pressure guide wire\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OmniWire%20Pressure%20guide%20wire%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"OmniWire Pressure guide wire\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OmniWire%20Pressure%20guide%20wire%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"OmniWire Pressure guide wire\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OmniWire%20Pressure%20guide%20wire%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K192886 ; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K202543",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"OmniWire Pressure guide wire\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OmniWire%20Pressure%20guide%20wire%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"OmniWire Pressure guide wire\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OmniWire%20Pressure%20guide%20wire%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"OmniWire Pressure guide wire\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22OmniWire%20Pressure%20guide%20wire%22"
+},
+"PressureWire X": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 9 device identifiers, brand \"PressureWire\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PressureWire%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 9 device identifiers, brand \"PressureWire\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PressureWire%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 9 device identifiers, brand \"PressureWire\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PressureWire%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K140466",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 9 device identifiers, brand \"PressureWire\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PressureWire%E2%84%A2%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 9 device identifiers, brand \"PressureWire\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PressureWire%E2%84%A2%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 9 device identifiers, brand \"PressureWire\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22PressureWire%E2%84%A2%22"
+},
+"COMET II": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Comet\u2122 II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Comet%E2%84%A2%20II%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Comet\u2122 II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Comet%E2%84%A2%20II%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Comet\u2122 II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Comet%E2%84%A2%20II%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Comet\u2122 II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Comet%E2%84%A2%20II%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Comet\u2122 II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Comet%E2%84%A2%20II%22",
+"wire_diameter_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Comet\u2122 II\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Comet%E2%84%A2%20II%22"
+},
+"Navvus II": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"ACIST Navvus\u00aeII Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ACIST%20Navvus%C2%AEII%20Catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"ACIST Navvus\u00aeII Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ACIST%20Navvus%C2%AEII%20Catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"ACIST Navvus\u00aeII Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ACIST%20Navvus%C2%AEII%20Catheter%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K190473",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"ACIST Navvus\u00aeII Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ACIST%20Navvus%C2%AEII%20Catheter%22"
+},
+"Export Advance": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Export Advance\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Export%20Advance%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Export Advance\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Export%20Advance%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Export Advance\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Export%20Advance%E2%84%A2%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K152335",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Export Advance\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Export%20Advance%E2%84%A2%22",
+"french_sizes": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Export Advance\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Export%20Advance%E2%84%A2%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Export Advance\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Export%20Advance%E2%84%A2%22",
+"inner_diameter_mm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"Export Advance\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Export%20Advance%E2%84%A2%22"
+},
+"AngioJet AVX": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"AngioJet\u2122 AVX\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioJet%E2%84%A2%20AVX%E2%84%A2%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"AngioJet\u2122 AVX\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioJet%E2%84%A2%20AVX%E2%84%A2%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"AngioJet\u2122 AVX\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioJet%E2%84%A2%20AVX%E2%84%A2%22",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 1 device identifiers, brand \"AngioJet\u2122 AVX\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioJet%E2%84%A2%20AVX%E2%84%A2%22"
+},
+"AngioJet Spiroflex": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"AngioJet\u00ae Spiroflex\u00ae\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioJet%C2%AE%20Spiroflex%C2%AE%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"AngioJet\u00ae Spiroflex\u00ae\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioJet%C2%AE%20Spiroflex%C2%AE%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"AngioJet\u00ae Spiroflex\u00ae\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioJet%C2%AE%20Spiroflex%C2%AE%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P980037",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"AngioJet\u00ae Spiroflex\u00ae\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22AngioJet%C2%AE%20Spiroflex%C2%AE%22"
+},
+"NES Reprocessed Eagle Eye Platinum RX": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"NES Reprocessed Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NES%20Reprocessed%20Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"NES Reprocessed Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NES%20Reprocessed%20Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"NES Reprocessed Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NES%20Reprocessed%20Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K223026",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"NES Reprocessed Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NES%20Reprocessed%20Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"length_cm": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"NES Reprocessed Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NES%20Reprocessed%20Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"guidewire_compat_in": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"NES Reprocessed Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NES%20Reprocessed%20Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22",
+"sheath_compat_fr": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 8 device identifiers, brand \"NES Reprocessed Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22NES%20Reprocessed%20Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22"
+},
+"Vein360 Reprocessed Eagle Eye Platinum RX": {
+"manufacturer": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Vein360 Reprocessed Eagle Eye Platinum Rx Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Vein360%20Reprocessed%20Eagle%20Eye%20Platinum%20Rx%20Digital%20IVUS%20Catheter%22",
+"n_skus": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Vein360 Reprocessed Eagle Eye Platinum Rx Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Vein360%20Reprocessed%20Eagle%20Eye%20Platinum%20Rx%20Digital%20IVUS%20Catheter%22",
+"catalog_numbers": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Vein360 Reprocessed Eagle Eye Platinum Rx Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Vein360%20Reprocessed%20Eagle%20Eye%20Platinum%20Rx%20Digital%20IVUS%20Catheter%22",
+"fda_submission": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K232584",
+"product_code": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 4 device identifiers, brand \"Vein360 Reprocessed Eagle Eye Platinum Rx Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Vein360%20Reprocessed%20Eagle%20Eye%20Platinum%20Rx%20Digital%20IVUS%20Catheter%22"
+}
+}
