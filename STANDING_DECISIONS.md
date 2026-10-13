@@ -9,3 +9,4 @@
 - 2026-10-12: v1.1 (Desktop view, preview-pass07 build) released to root with Jeff's approval.
 - 2026-10-13: v1.2 (pass08 build) released to root with Jeff's approval.
 - 2026-10-13: Exclude devices not labeled for coronary use (e.g., AngioJet AVX, AV-access only). Implemented as EXCLUDE in build_master.py. Approved by Jeff.
+- 2026-10-13: v1.3 (pass10 build, AngioJet AVX removed) released to root with Jeff's approval.
