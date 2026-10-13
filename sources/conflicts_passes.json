@@ -16,5 +16,32 @@
   "source": "Asahi Intecc USA \"All ASAHI Product\" catalog K21246 Rev B (brochure) p.26; https://asahi-inteccusa-medical.com/wp-content/uploads/2021/10/All-ASAHI-Product_K21246_B_LC_1.0.pdf",
   "existing": "Nominal OD 0.93 mm",
   "existing_source": "FDA 510(k) summary K161126 \u2014 K161126 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161126.pdf"
+ },
+ {
+  "pass": "pass06",
+  "model": "Eagle Eye Platinum RX",
+  "field": "length_cm",
+  "value": "150 (usable)",
+  "source": "Philips Eagle Eye Platinum RX IFU p.1; https://www.documents.philips.com/assets/Instruction%20for%20Use/20220308/ae6b05bcbf4b447a80c0ae520172add7.pdf?feed=ifu_docs_feed",
+  "existing": "150 cm",
+  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 2 device identifiers, brand \"Eagle Eye Platinum RX Digital IVUS Catheter\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22Eagle%20Eye%20Platinum%20RX%20Digital%20IVUS%20Catheter%22"
+ },
+ {
+  "pass": "pass06",
+  "model": "Refinity ST",
+  "field": "pullback_speed",
+  "value": "15 cm pullback at 0.5 and 1.0 mm/s",
+  "source": "Philips Refinity brochure p.1; https://www.documents.philips.com/assets/20200505/510d3c90d721403eb0dcabb201367aab.pdf",
+  "existing": "Imaging core travel up to 15 cm (telescoping section)",
+  "existing_source": "FDA 510(k) summary K160583 \u2014 K160583 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160583.pdf"
+ },
+ {
+  "pass": "pass06",
+  "model": "ROTAPRO",
+  "field": "mechanism",
+  "value": "Rotational burr; recommended 160,000-180,000 rpm (\u22641.75 mm burrs per guide table)",
+  "source": "BSC ROTAPRO Console Guide p.11; https://www.bostonscientific.com/content/dam/bostonscientific/Interventional%20Cardiology/portfolio-group/Plaque-Modification/Rotablator/ROTAPRO_Console_Guide_LR.pdf",
+  "existing": "Rotational",
+  "existing_source": "FDA product code / device classification name for MCX"
  }
 ]
