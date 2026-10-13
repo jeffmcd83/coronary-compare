@@ -16,3 +16,12 @@
 - Recall matcher now also matches GUDID DIs/GTINs: +XIENCE Sierra (1), +Diamondback (2) → 95 rows. Telescope: no openFDA recall record exists (earlier 14 hits were unrelated endoscopy telescopes).
 - Conflicts logged (sources/pass02/conflicts.json): ROTAPRO GUDID P900056 vs 510(k) K220962 (both kept); Dragonfly modality kept "OCT".
 - Not US/FDA-found: Ringer, Terumo AltaView, Asahi Hyperion guides; Mach 1 (only 2001 510(k)).
+
+## Pass 03 — fill 61.8%
+Skypoint/Sierra IFUs, SYNERGY XD US DFU, MEGATRON spec sheet, Orsiro Mission brochure (45 values). Backup: coronary-specs-verified.pre-pass03.csv. Tag preview-pass03.
+## Pass 04 — fill 63.4% (new DES/atherectomy fields added)
+Shockwave C2+ IFU/tech sheet, C2 Aero page, AGENT IFU (2 µg/mm²), Asahi catalog tip loads, Caravel/Corsair Pro ODs (2 conflicts logged). Tag preview-pass04.
+## Pass 05 — fill 65.4%
+GuideLiner V3 IFU IDs, Guidezilla II, Wolverine NP/RBP, Telescope, Heartrail, Vista Brite (curves corrected in pass 06: removed "EBU-type"). Tag preview-pass05.
+## Pass 06 — fill 66.0%
+Eagle Eye Platinum RX IFU (18.6 MHz; conflicts w/ 20 MHz nominal), Refinity ST IFU 42.1 MHz + brochure pullback (conflict logged, 510(k) value kept), Diamondback 360 IFU P130005 p.8 (1.25 mm, 6 Fr/0.066 in), ROTAPRO Console Guide p.11 (burrs, guide IDs, rpm). Tag preview-pass06.
