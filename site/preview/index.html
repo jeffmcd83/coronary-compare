@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Coronary Products Comparison Guide</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><meta name="theme-color" content="#111827">
-<link rel="preload" href="data/core.json?v=e5a04aca" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=94d30bfb" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -28,7 +28,7 @@ tr.sh th{background:#e8edf5;cursor:pointer;font-size:13px}tr.sh th:before{conten
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[null,null,null,null],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=e5a04aca').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
+fetch('data/core.json?v=94d30bfb').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
  const cats=Object.keys(d.sect);$('#cat').innerHTML=cats.map(c=>`<option>${esc(c)}</option>`).join('');
  const h=new URLSearchParams(location.hash.slice(1));if(h.get('c')&&cats.includes(h.get('c')))$('#cat').value=h.get('c');
  setCat(h.get('m')?h.get('m').split('~'):null)});
@@ -50,7 +50,7 @@ function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='c
   for(const f of F){const vals=S.map(s=>s[f]??'');const d=new Set(vals).size>1;if(diff&&!d)continue;b+=`<tr class="${d&&S.length>1?'d':''}"><th class="a">${esc(D.labels[f]||f)}</th>`+S.map(s=>`<td data-v="${esc(s.model)}">${cell(s,f)}</td>`).join('')+'</tr>'}
   if(b)h+=`<tbody class="sec ${collapsed[name]?'col':''}" data-s="${esc(name)}"><tr class="sh"><th colspan="${S.length+1}">${esc(name)}</th></tr>${b}</tbody>`}
  $('#m').innerHTML=h+'</table>';document.querySelectorAll('tr.sh').forEach(t=>t.onclick=()=>{const n=t.parentNode.dataset.s;collapsed[n]=!collapsed[n];t.parentNode.classList.toggle('col')});
- if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=e5a04aca').then(r=>r.json()).then(x=>{RC=x;render()})}
+ if(!RC&&S.some(s=>s.recalls&&s.recalls!=='0 matched'))fetch('data/recalls.json?v=94d30bfb').then(r=>r.json()).then(x=>{RC=x;render()})}
 document.addEventListener('click',e=>{document.querySelectorAll('.pop').forEach(p=>p.remove());const b=e.target.closest('.src');if(!b)return;const [t,u]=D.ps[b.dataset.p];const p=document.createElement('div');p.className='pop';
  p.innerHTML=esc(t)+(u?`<br><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a>`:'');document.body.appendChild(p);const r=b.getBoundingClientRect();p.style.left=Math.max(8,Math.min(innerWidth-390,r.left))+'px';p.style.top=(r.bottom+6)+'px';e.stopPropagation()});
 $('#cat').onchange=()=>setCat();$('#diff').onchange=render;$('#vw').onchange=e=>{document.body.className=e.target.value};
