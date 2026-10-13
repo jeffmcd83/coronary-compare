@@ -48,3 +48,9 @@ Skipped (no exact-model OEM / N/A / sibling risk / peripheral-only): Shockwave E
 
 ## Structural heart (passSH01/SH02, v1.6) — MOVED 2026-10-13
 All structural rows, sources, docs, recalls and therapy-filter UI were moved to /workspace/structural-specs (see its FILL_LOG). Coronary restored to pass-11 data (67 rows, 81.5%) and published as preview-pass11c → v1.7.
+
+## Pass 12b — Shockwave C2 Aero Fly added (Jeff-approved) — preview-pass12b → v1.9
+US coronary label confirmed: PMA P200039/S019 (approved 2026-02-20; "C2 Aero Fly ... higher pulse rate and shorter pause time than C2 Aero"); US IFU indication "lithotripsy-enabled, low-pressure balloon dilatation of severely calcified, stenotic de novo coronary arteries prior to stenting" (LBL 77418 Rev C p.1).
+New family in fam.py (raw/udi/Shockwave_C2_Aero_Fly.json, 4 GUDID SKUs C2AFIVL2512/3012/3512/4012, QMG). 11 values from the US IFU PN 77417 Rev C (https://shockwavemedical.com/wp-content/uploads/2026/10/PN-77417-Rev-C-Shockwave-C2-Aero-Fly-Coronary-IVL-Catheter-IFU-US.pdf) + openFDA PMA S019; nothing copied from C2 Aero / C2+.
+Conflicts logged (sources/conflicts_passes.json, existing kept): mechanism (IFU adds "2 Hz") and fda_submission (adds S019). Not found: tip profile (no exact-model value in IFU).
+Backups: coronary-specs-verified.pre-pass12b.csv, coronary-recalls.pre-pass12b.csv, fam.pre-pass12b.py. Recalls re-run: 0 for C2 Aero Fly (stale AngioJet AVX recall line dropped).

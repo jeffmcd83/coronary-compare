@@ -51,6 +51,7 @@ F={
 "ELCA Coronary Laser Atherectomy":("ELCA_Coronary_Laser_Atherectomy",r"ELCA",None,None),
 "Shockwave C2+":("Shockwave_C2+",r"C2\+",None,None),
 "Shockwave C2 Aero":("Shockwave_C2+",r"C2 Aero Coronary",None,None),
+"Shockwave C2 Aero Fly":("Shockwave_C2_Aero_Fly",r"C2 Aero Fly",None,None),
 "Eagle Eye Platinum RX":("Eagle_Eye_Platinum_RX",r"^Eagle Eye Platinum RX",None,None),
 "Eagle Eye Platinum ST RX":("Eagle_Eye_Platinum_RX",r"^Eagle Eye Platinum ST",None,None),
 "Refinity ST":("Refinity_ST",r"Refinity",None,None),
@@ -72,7 +73,7 @@ CAT={"XIENCE Skypoint":"DES","XIENCE Sierra":"DES","SYNERGY XD":"DES","SYNERGY M
 "Launcher":"Guide catheter","Vista Brite Tip":"Guide catheter","Heartrail III":"Guide catheter",
 "Turnpike":"Microcatheter","Corsair Pro":"Microcatheter","Mamba":"Microcatheter","Twin-Pass":"Microcatheter","Finecross":"Microcatheter","Caravel":"Microcatheter",
 "GuideLiner V3":"Guide extension","Guidezilla II":"Guide extension","Telescope":"Guide extension","TrapLiner":"Guide extension",
-"ROTAPRO":"Atherectomy & IVL","Diamondback 360 Coronary OAS":"Atherectomy & IVL","ELCA Coronary Laser Atherectomy":"Atherectomy & IVL","Shockwave C2+":"Atherectomy & IVL","Shockwave C2 Aero":"Atherectomy & IVL",
+"ROTAPRO":"Atherectomy & IVL","Diamondback 360 Coronary OAS":"Atherectomy & IVL","ELCA Coronary Laser Atherectomy":"Atherectomy & IVL","Shockwave C2+":"Atherectomy & IVL","Shockwave C2 Aero":"Atherectomy & IVL","Shockwave C2 Aero Fly":"Atherectomy & IVL",
 "Export Advance":"Thrombectomy","AngioJet AVX":"Thrombectomy","AngioJet Spiroflex":"Thrombectomy"}
 for k in F:
     if k not in CAT:

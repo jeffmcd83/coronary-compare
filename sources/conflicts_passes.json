@@ -43,5 +43,23 @@
   "source": "BSC ROTAPRO Console Guide p.11; https://www.bostonscientific.com/content/dam/bostonscientific/Interventional%20Cardiology/portfolio-group/Plaque-Modification/Rotablator/ROTAPRO_Console_Guide_LR.pdf",
   "existing": "Rotational",
   "existing_source": "FDA product code / device classification name for MCX"
+ },
+ {
+  "pass": "pass12b",
+  "model": "Shockwave C2 Aero Fly",
+  "field": "mechanism",
+  "value": "Intravascular lithotripsy, 2 Hz treatment frequency",
+  "source": "Shockwave C2 Aero Fly US IFU LBL 77418 Rev C / PN 77417 Rev C (IFU) \u2014 IVL Generator settings: Treatment Frequency 2 Hz p.8; https://shockwavemedical.com/wp-content/uploads/2026/10/PN-77417-Rev-C-Shockwave-C2-Aero-Fly-Coronary-IVL-Catheter-IFU-US.pdf",
+  "existing": "Intravascular lithotripsy",
+  "existing_source": "FDA product code / device classification name for QMG"
+ },
+ {
+  "pass": "pass12b",
+  "model": "Shockwave C2 Aero Fly",
+  "field": "fda_submission",
+  "value": "P200039 (S019, approved 2026-02-20)",
+  "source": "openFDA PMA record P200039/S019 (2026-02-20; FDA database) p.record; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?ID=P200039S019",
+  "existing": "P200039",
+  "existing_source": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P200039"
  }
 ]
