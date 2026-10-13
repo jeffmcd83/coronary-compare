@@ -3,4 +3,4 @@
 - coronary-recalls.csv — per-device recall rows | coronary-recalls-by-supplier.csv | coronary-advisories.csv (empty)
 - provenance.json — per-cell sources | sources/pass01/applied.json | raw/udi — GUDID pulls
 - fam.py / seed.py / build_master.py / recalls.py — pipeline | app/build.py + app/template.html → site/preview/
-- passSH01, passSH02: structural heart (see FILL_LOG)
+- passSH01/SH02: moved to /workspace/structural-specs (2026-10-13)

@@ -15,3 +15,4 @@
 - 2026-10-13: v1.5 (preview-pass11, fill 81.5%) released to root with Jeff's approval.
 - 2026-10-13: Scope expanded (Jeff approved) to "Coronary & Structural Heart": therapy filter Coronary | TAVI | Mitral TEER | Tricuspid TEER | Shared accessories. Same data rules. US-labelled indications only (e.g. PASCAL tricuspid not added — no US label). Preview only until Jeff approves a root release.
 - 2026-10-13: v1.6 (preview-passsh02: Coronary & Structural Heart, fill 76.0%) released to root with Jeff's approval.
+- 2026-10-13: Coronary only. Structural heart moved to its own bot/guide; data, research and UI code live in /workspace/structural-specs. No therapy filter here; title "Coronary Comparison Guide". Supersedes the 2026-10-13 scope-expansion entry.
