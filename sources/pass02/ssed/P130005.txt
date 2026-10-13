@@ -1,0 +1,1774 @@
+  FDA SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+  I.   GENERAL INFORMATION
+
+        Device Generic Name:                           Catheter, Coronary, Atherectomy
+                                                       DIAMONDBACK 360 Coronary Orbital
+        Device Trade Name:
+                                                       Atherectomy System
+        Device Product Code:                           MCX
+                                                       Cardiovascular Systems, Inc.
+        Applicant’s Name and Address:                  651 Campus Drive
+                                                       St. Paul, MN 55112
+        Premarket Approval Application (PMA)
+                                                       P130005
+        Number:
+        Date of FDA Notice of Approval:                October 21, 2013
+
+ II.   INDICATIONS FOR USE
+        The DIAMONDBACK 360 Coronary Orbital Atherectomy System is a percutaneous orbital
+        atherectomy system indicated to facilitate stent delivery in patients with coronary artery
+        disease (CAD) who are acceptable candidates for PTCA or stenting due to de novo, severely
+        calcified coronary artery lesions.
+
+III.   CONTRAINDICATIONS
+        Use of the DIAMONDBACK 360 Coronary Orbital Atherectomy System (OAS) is
+        contraindicated in the following situations:
+
+        •   The guide wire cannot pass across the coronary lesion.
+        •   The target lesion is within a bypass graft or stent.
+        •   The patient is not an appropriate candidate for bypass surgery, angioplasty or atherectomy
+            therapy.
+        •   The patient has angiographic evidence of thrombus.
+        •   The patient has only one open vessel.
+        •   The patient has angiographic evidence of significant dissection at the treatment site.
+        •   Women who are pregnant or children.
+
+IV.    WARNINGS AND PRECAUTIONS
+        The warnings and precautions can be found in the DIAMONDBACK 360 Coronary Orbital
+        Atherectomy System labeling.
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                 Page 1
+ V.   DEVICE DESCRIPTION
+        The Cardiovascular Systems, Inc. (CSI) DIAMONDBACK 360 Coronary Orbital Atherectomy
+        System (OAS) is a percutaneous, catheter-based orbital atherectomy system designed to
+        facilitate stent deployment in patients with coronary artery lesions by using a rotating,
+        diamond-coated crown. The DIAMONDBACK 360 Coronary OAS consists of the following
+        components:
+
+        1. DIAMONDBACK 360 Coronary Orbital Atherectomy Device (OAD)
+
+        2. Saline Infusion Pump (SIP)
+
+        3. ViperWire Advance Coronary Guide Wire
+
+        4. ViperSlide Lubricant
+
+
+
+
+        The DIAMONDBACK 360 Coronary OAD is a hand-held device that includes a sheath-
+        covered drive shaft and a diamond-coated crown. The diamond coating on the crown provides
+        an abrasive surface which is designed to reduce occlusive tissue within coronary arteries. The
+        coronary OAD crown is designed to track and rotate over the ViperWire Advance Coronary
+        Guide Wire.
+
+        The SIP provides the saline pumping mechanism and power to the coronary OAD. The SIP is
+        a small, reusable, portable pump that attaches to a standard five-wheel rolling intravenous (IV)
+        pole. The SIP includes a built-in, audible 25 second spin time notification, system power and
+        priming buttons, and status indicators.
+
+        The ViperWire Advance Coronary Guide Wire is a smooth, stainless steel wire, with a silicone
+        coating, and a radiopaque distal spring tip. The guide wire allows for the positioning of the
+        coronary OAD crown within coronary arteries and provides a center of rotation for the
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                 Page 2
+         coronary OAD driveshaft. A guide wire torquer is a plastic accessory, packaged with the guide
+         wire, and provides a gripping surface for manipulating the guide wire.
+
+         The ViperSlide Lubricant is designed to reduce the friction between the CSI ViperWire
+         Advance Coronary Guide Wire and the drive shaft of the CSI OAD.
+
+         Refer to the Operator’s Manual for additional details.
+
+ VI.    ALTERNATIVE PRACTIVES AND PROCEDURES
+         Currently there are no percutaneous medical devices with specific indications for the
+         treatment of severely calcified coronary lesions. There are several other alternatives for
+         the treatment of calcified de novo coronary vessel disease including balloon
+         angioplasty, cutting balloons, stenting, rotational atherectomy, and bypass surgery.
+         Each alternative has its own advantages and disadvantages. A patient should fully
+         discuss these alternatives with his/her physician to select the method that best meets
+         expectations and lifestyle.
+
+VII.    MARKETING HISTORY
+         The DIAMONDBACK 360 Coronary Orbital Atherectomy System has not been
+         marketed in the United States or any foreign country.
+
+VIII.   POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+         Below is a list of the potential adverse effects (e.g., complications) associated with the use of
+         the system:
+
+         • Allergic reaction to medication/media/device components
+         • Aneurysm
+         • Angina (ischemic chest pain)
+         • Arrhythmias Arteriovenous fistula
+         • Bleeding
+         • Bruising/hematoma
+         • Cardiac/cardiopulmonary arrest
+         • Cardiac/pericardial tamponade
+         • Cerebrovascular accident (CVA)
+         • Death
+         • Embolization, distal (air, tissue, thrombus, device)
+         • Emergent coronary artery bypass graft surgery (CABG)
+         • Failure to deliver the system to the intended locations
+         • Fever
+         • Heart failure/dysfunction
+         • Hemorrhage, requiring transfusion
+         • Hypotension/hypertension
+         • Infection
+         • Myocardial infarction
+         • Pain
+ PMA P130005: FDA Summary of Safety and Effectiveness Data                                   Page 3
+         •   Pericardial effusion
+         •   Pseudoaneurysm
+         •   Restenosis of treated segment leading to revascularization
+         •   Renal insufficiency/failure
+         •   Shock (cardiogenic, hypovolemic)
+         •   Slow flow or no reflow phenomenon
+         •   Stroke
+         •   Thrombus
+         •   Vessel closure, abrupt
+         •   Vessel injury, requiring surgical repair
+         •   Vessel dissection, perforation, rupture, or spasm
+         •   Vessel occlusion
+
+        For the specific adverse events that occurred in the clinical studies, please see Section X.D.1
+        below.
+
+IX.   SUMMARY OF PRECLINICAL STUDIES
+        CSI completed comprehensive in vitro bench and analytical testing, biocompatibility, animal
+        studies and sterility, packaging and shelf-life testing on the DIAMONDBACK 360 Coronary
+        Orbital Atherectomy System to support the safety and effectiveness of the device.
+
+      A. Laboratory Studies
+
+         1. Biocompatibility
+            Biocompatibility testing was conducted on the DIAMONDBACK 360 Coronary Orbital
+            Atherectomy Device (OAD), ViperWire Advance Coronary Guide Wire, and ViperSlide
+            Lubricant. Testing was conducted in accordance with applicable Good Laboratory
+            Practices (21 CFR 58) and ISO 10993-1. The saline infusion pump (SIP) is non-patient
+            contacting; therefore, testing was not required.
+
+             The contact time between the OAD and a subject during a procedure is expected to be
+             less than 24 hours; therefore, the device is categorized as limited contact duration. Most
+             device components do not contact circulating blood in the body and are classified as
+             surface skin contact. The working end of the OAD is the driveshaft, crown, tip bushing,
+             and sheath. These components are classified as external communicating components
+             with circulating blood contact. The saline line and some of the handle components come
+             into contact with the indirect blood path and are classified as external communicating
+             devices with indirect blood path contact. The test results demonstrate that the materials
+             and processes used to manufacture the DIAMONDBACK 360 Coronary OAD produce a
+             finished device that is biocompatible. Table 1 summarizes the biocompatibility testing
+             completed on the DIAMONDBACK 360 Coronary OAD.
+
+             ViperSlide is classified as an external communicating device with circulating blood
+             contact. This lubricant is a commercially-available lipid emulsion that is labeled as
+             ViperSlide. Therefore, established testing supports its biocompatibility. However, further
+             testing was performed to verify the biocompatibility of the ViperSlide lubricant after use
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                  Page 4
+             with an operating Coronary OAD. The test results demonstrate that the materials and
+             processes used to manufacture the ViperSlide lubricant produce a finished product that is
+             biocompatible. Table 1 summarizes the biocompatibility testing completed on the
+             ViperSlide lubricant.
+
+             The contact time between the ViperWire Advance Coronary Guide Wire and a subject
+             during a procedure is expected to be less than 24 hours, and therefore the device is
+             categorized as limited contact duration. The guide wire is classified as an external
+             communicating component with circulating blood contact. The test results demonstrate
+             that the materials and processes used to manufacture the ViperWire Advance Coronary
+             Guide Wire produce a finished device that is biocompatible. Table 1 summarizes the
+             biocompatibility testing completed on the ViperWire Advance Coronary Guide Wire.
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                               Page 5
+Table 1: Biocompatibility Testing Summary
+                                                                                                         OAD
+                         Test                                                                             Blood               Guide   Viper
+  Test Performed                                          Purpose                          Circulating              Surface                   Results
+                      Description                                                                          Path               Wire    Slide
+                                                                                             Blood                   Skin
+                                                                                                         Indirect
+                                     To evaluate the allergenic potential or sensitizing
+Sensitization         ISO-10993-10                                                             X            X                  X               Pass
+                                     capacity of the test article in guinea pigs.
+Irritation/                          To evaluate local dermal irritation effects of
+Intracutaneous        ISO 10993-10   leachables following intracutaneous injections            X            X         X        X               Pass
+Reactivity                           into rabbits.
+                                     To evaluate acute systemic toxicity of leachables
+Acute Systemic
+                      ISO 10993-11   extracted from the test article following a single        X            X                  X       X       Pass
+Toxicity
+                                     intravenous or intraperitoneal injection in mice.
+                                     To evaluate if a test extract induces a pyrogenic
+Pyrogenicity          ISO 10993-11   (fever) response following intravenous injection          X            X                  X               Pass
+                                     in rabbits.
+Compliment
+                                     To measure the compliment activating potential
+Activation (SC5b-9    ISO 10993-4                                                              X            X                  X               Pass
+                                     of the test article in human plasma.
+& C3a)
+Partial
+                                     To evaluate the effect of the test article on the
+Thromboplastin        ISO 10993-4                                                              X            X                  X               Pass
+                                     clotting time of human plasma.
+Time
+                                     To determine if the test article will adversely
+Platelet and
+                      ISO 10993-4    affect the platelet and leukocyte ratios in human         X            X                  X               Pass
+Leukocyte Counts
+                                     whole blood.
+                                     To qualitatively evaluate whether an extract of
+Cytotoxicity          ISO 10993-5    the test article could cause cytotoxicity using the       X            X         X        X       X       Pass
+                                     L929 mouse fibroblast cell culture.
+                                     To determine the ability of a test article or its
+ASTM Hemolysis
+                      ISO 10993-4    extract, to destroy red blood cells with the              X            X                  X       X       Pass
+(Direct & Indirect)
+                                     subsequent release of the hemoglobin.
+                                     To evaluate the potential of the test article to
+Thrombogenicity       ISO 10993-4    cause thrombus formation when placed in the             Note1                             X               Pass
+                                     vasculature of a dog.
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                     Page 6
+                                                                                                           OAD
+                             Test                                                                           Blood               Guide     Viper
+     Test Performed                                           Purpose                        Circulating              Surface                     Results
+                          Description                                                                        Path               Wire      Slide
+                                                                                               Blood                   Skin
+                                                                                                           Indirect
+                                          To determine if the test article when exposed to
+    In-vitro
+                                          human whole blood will adversely affect the
+    Hemocompatibility     ISO 10993-4                                                                                                      X       Pass
+                                          make-up of various cellular and non-cellular
+    Assay
+                                          components of the blood.
+1
+ Evaluated as part of an in vivo study
+
+          Additional testing was performed on some surface contacting OAD components because they were associated with
+          subassemblies that contained components which are classified as circulating blood and blood path. Thrombogenicity was
+          evaluated as part of other in vivo studies conducted to evaluate the safety and effectiveness of the device. The test results
+          demonstrate the DIAMONDBACK 360 Coronary OAS is biocompatible.
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                       Page 7
+         2. Performance Studies
+            In-vitro performance testing to support the DIAMONDBACK 360 Coronary Orbital
+            Atherectomy System (OAS) was developed based on design control requirements and
+            potential risks. In February of 2012, CSI requested approval to introduce the 6F-
+            compatible electric OAS into the ORBIT II study (the original system incorporated a
+            pneumatic design). This request was approved in May of 2012. Performance testing
+            indicated that the electrics OAS remains safe and performs as intended. The sponsor was
+            advised that a minimum of 100 patients would need to be treated with the electric OAS to
+            support PMA approval.
+
+             A summary of the tests performed and associated results are provided in Table 2 below.
+
+      Table 2: OAS Bench Testing Summary
+       OAS                                                             Acceptance                Summary
+                 Test                  Test Summary
+       Component                                                       Criteria                  of Results
+                                       Verify the OAS is capable
+                                       of functioning as intended      Attribute test for
+       OAS          Life Test          without system failures         ability to run full       Pass
+                                       while reaching and              life test
+                                       controlling rotational speed
+                                       Verify the survivability and
+                                                                       Attribute test for
+                                       continued functionality of
+       OAD          Stall Test                                         ability to run full       Pass
+                                       the OAD when stalled in a
+                                                                       life test post 2 stalls
+                                       lesion
+                                       Verify the maximum torque
+                                       level by stalling device from
+                                                                       Attribute test for
+                                       high speed into torque
+       OAD          Dynamic Torque                                     maximum torque            Pass
+                                       sensor to read torque level
+                                                                       level
+                                       delivered/available at
+                                       crown/treatment site
+                                       Simulate treatment of a tight
+                                                                       Attribute test for
+                                       stenosis by crossing
+                    Tight Stenosis                                     sufficient device
+       OAD                             minimum pre-treatment                                     Pass
+                    Crown Loading                                      torque and speed
+                                       diameter with acceptable
+                                                                       stability
+                                       speed loss
+                                                                       Attribute test for
+                                       Verify that the OAD is          device functionality
+                    Guide Catheter     capable of introduction and     in 6F guide catheter
+       OAD                                                                                       Pass
+                    Compatibility      removal through standard        in order to
+                                       6F and 7F guide catheters       successfully
+                                                                       perform life testing
+                                       Verify the OAD does not         All devices must
+                                       generate heat by friction       have an omega
+       OAD          Temperature Test                                                             Pass
+                                       capable of blood or tissue      value of less than
+                                       damage                          0.50
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                        Page 8
+       OAS                                                              Acceptance              Summary
+                 Test                  Test Summary
+       Component                                                        Criteria                of Results
+                                       Verify multiple bonds meet
+                                       a minimum tensile pull after     Attribute test for
+       OAD         Tensile Test                                                                 Pass
+                                       operation of stall and life      bond strength
+                                       test
+                                       Verify the robustness of the     Attribute test for
+       OAD         Flexibility Test    shaft while wrapped around       lack of damage to       Pass
+                                       a 0.5 inch radius                shaft
+                                                                        Attribute test for
+                                       Verify OAD’s ability to          maximum
+                                       reach, treat, and be removed     pushability and
+       OAD         Track Test                                                                   Pass
+                                       from lesions in the coronary     removal forces
+                                       anatomy                          without kinking
+                                                                        during simulation
+                                                                        No acceptance
+                                                                                                For
+                                                                        criteria; OAD must
+                                       Verify orbit characteristics                             character-
+                   Orbit                                                demonstrate similar
+       OAD                             are similar to pneumatic                                 ization
+                   Characterization                                     orbit characteristics
+                                       device                                                   purposes
+                                                                        of pneumatic OAD
+                                                                                                only
+                                                                        at equivalent speeds
+                   Device User         Verify all functions of
+                                                                        Attribute test for
+                   Interface           device can be manipulated
+                                                                        switch functionality
+       OAD         Controls/           and are repeatable for a total                           Pass
+                                                                        on 1 to 25
+                   Switch and Logic    of 25 actuations/starts/ stops
+                                                                        actuations
+                   Testing             for each function/switch
+                                       Verify guide wire brake
+                                       functionally brakes/holds        Variables test for
+                   Guide Wire                                           guide wire
+       OAD                             guide wire from any                                      Pass
+                   Brake Test                                           movement during
+                                       translation (tensile) or
+                                       rotation (torque) during use     use
+                                       Verify saline delivery,
+                                                                        Attribute test for
+                                       leakage, and pressures are
+       OAD         Flow Test                                            flow levels             Pass
+                                       within previous device
+                                                                        delivered
+                                       ranges
+                                       Verify all design
+                   Motor Control       requirements trace to test       All samples must
+       OAD                                                                                      Pass
+                   Board               steps and conform to             meet requirements
+                                       specifications
+                                       Testing completed per            All samples must
+       OAS         Electrical Safety   methods outlined in 60601-       meet 60601-1            Pass
+                                       1                                requirements
+                                       Testing completed per            All samples must
+                   Electromagnetic
+       OAS                             methods outlined in 60601-       meet 60601-1-2          Pass
+                   Compatibility
+                                       1-2                              requirements
+                                       Verify contras is delivered
+                                       successfully and sheath          Attribute test for
+                   Contrast
+       OAD                             remains undamaged and            lack of device          Pass
+                   Delivery
+                                       device operable after            damage
+                                       contrast delivery
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                       Page 9
+       OAS                                                              Acceptance               Summary
+                 Test                  Test Summary
+       Component                                                        Criteria                 of Results
+                                                                                                 For
+                                                                        Variables test for
+                                       Characterize the particles                                character-
+                                                                        similar particulate
+       OAD          Particulate        generated by the sanding                                  ization
+                                                                        characteristics to
+                                       crown                                                     purposes
+                                                                        the pneumatic OAD
+                                                                                                 only
+                                       Verify conformance to            Attribute test for
+       OAD          Miscellaneous      various measurement              conformance to           Pass
+                                       requirements                     measurements
+                                       Verify the expected flow
+                                                                        Attribute test for
+                    SIP Functional     rate, functionality of the low
+       SIP                                                              pump functional          Pass
+                    Testing            saline level sensor and
+                                                                        specifications
+                                       audible notifications
+                                       Verify physical
+                                                                        Attribute test for
+                    SIP Physical       characteristics of the SIP
+       SIP                                                              physical                 Pass
+                    Testing            design such as size, weight,
+                                                                        specifications
+                                       and color
+                                                                        All units must be
+                                       Verify tensile strength using
+                                                                        able to withstand a
+       Guide Wire   Tensile Strength   a load cell at a designated                               Pass
+                                                                        1.0 lb minimum
+                                       pull rate
+                                                                        tensile force
+                                                                       Variable tests that
+                                       Determine the number of
+                                                                       all units withstand
+                                       rotations the guide wire can
+       Guide Wire   Torque Strength                                    10 full rotations         Pass
+                                       withstand prior to guide
+                                                                       within simulated
+                                       wire fracture
+                                                                       coronary anatomy
+                                                                      Variable tests that
+                                                                      all units must
+                                                                      demonstrate
+                                       Identify the maximum force maximum force to
+                                       required to deflect the distal guide wire distal tip
+       Guide Wire   Tip Flexibility    tip of the guide wire when     prolapse at the            Pass
+                                       fixed at 5, 10, and 20 mm      following lengths:
+                                       from the distal tip
+                                                                      • 5 mm ≤ 6.34 g
+                                                                      • 10 mm ≤ 2.55 g
+                                                                      • 20 mm ≤ 1.09 g
+                                                                       No acceptance
+                                                                       criteria; particle size   For
+                                       Characterization of particle
+                                                                       and total volume of       character-
+                                       size and volume of material
+       Guide Wire   Particulate                                        material removed          ization
+                                       released from guide wire
+                                                                       from the guide wire       purposes
+                                       when used with the OAD
+                                                                       during use were           only
+                                                                       characterized
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                        Page 10
+        OAS                                                          Acceptance            Summary
+                  Test                  Test Summary
+        Component                                                    Criteria              of Results
+                                        Testing was conducted to
+                                                                     PFAT5 values are
+                                        assess the stability of
+                                                                     equal to or smaller
+                      Emulsion          Intralipid 10% when mixed
+                                                                     than the currently
+        Lubricant     Admixture         with normal saline and                             Pass
+                                                                     approved material
+                      Stability         passed through a OAD
+                                                                     for each test
+                                        while in operation at
+                                                                     interval
+                                        multiple time points
+
+           3. Sterilization Assurance
+              The DIAMONDBACK 360 Coronary Orbital Atherectomy Device (OAD) and
+              ViperWire Advance Coronary Guide Wire are Ethylene Oxide sterilized and meet a
+              sterility assurance level (SAL) of 10-6. Validation and annual revalidation are completed
+              based on the standards in ISO 11135-1:2007. The ViperSlide Lubricant is steam
+              sterilized and meets an SAL of 10-6.
+
+           4. Shelf Life and Packaging
+              The DIAMONDBACK 360 Coronary Orbital Atherectomy Device (OAD) was tested
+              following accelerated aging to an equivalent of two (2) years per an approved shelf life
+              protocol. Testing demonstrated the OAD met the established acceptance criteria. The
+              OAD is packaged inside of a Polyethylene Terephthalate Glycol (PETG) tray and a snap-
+              in-place retainer lid is used to hold the OAD and saline line in place. The OAD
+              driveshaft is placed in a dispenser coil to protect it from kinking during shipment. The
+              PETG tray is placed inside a header bag (sterile barrier), sealed, and placed into a shelf
+              box. Testing demonstrated the OAD packaging system, including the sterile barrier
+              remains intact through sterilization, aging, and distribution and is in compliance with ISO
+              11607-1/2:2006.
+
+              The Saline Infusion Pump (SIP) is a reusable pump that has an operating life of at least
+              875 hours. The SIP is provided non-sterile as it is used outside the sterile field during
+              atherectomy procedures. It is placed in a plastic bag, and packed in a cardboard box
+              surrounded by foam for shipment. Testing demonstrated the SIP packaging system
+              remains intact through distribution and is in compliance with ISO 11607-1/2:2006.
+
+              The ViperWire Advance Coronary Guide Wire was tested following two (2) years of real
+              time aging per an approved shelf life protocol. Testing demonstrated the guide wire met
+              the established acceptance criteria. Each guide wire is inserted into a dispenser coil to
+              prevent kinking during transit and placed in a Tyvek pouch that constitutes the sterile
+              barrier. Five pouches are placed into each shelf carton. Testing demonstrated the guide
+              wire packaging system, including the sterile barrier remains intact through sterilization,
+              aging, and distribution and is in compliance with ISO 11607-1/2:2006.
+
+           The ViperSlide Lubricant has established stability data to support a two (2) year shelf
+           life. ViperSlide is filled in 100 mL bag containers made from multilayered plastic film
+           specifically designed for parenteral drugs. Ten (10) individual units are packaged in a
+           corrugated shelf box and sealed. Testing demonstrated the ViperSlide packaging system,
+           including the sterile barrier remains intact through sterilization, aging, and distribution.
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                Page 11
+      B. Animal Studies
+         Three (3) in vivo studies were performed to demonstrate performance and safety of the
+         DIAMONDBACK 360 Coronary Orbital Atherectomy System (OAS). All studies were
+         conducted in accordance with Good Laboratory Practices (GLP) per 21 CFR 58. CSI utilized
+         a native porcine vessel model for all coronary animal studies. Table 3 provides a summary of
+         the in vivo animal testing performed with the Coronary OAS.
+
+      Table 3: Pre-Clinical Animal Study Summary
+         Study
+                                Study Design and Objectives                               Results
+         Design
+                   To evaluate the sub-acute safety and performance of the
+                   Pneumatic OAS in native arteries when used at               • The OAD and lubricant
+                   clinically relevant speeds in five (5) animals with three     performed as expected.
+                   (3) arteries treated: LAD, RCA and LCX, as compared         • The results of the
+                   to a “plain old balloon angioplasty“ (POBA)-treated           angiographic and IVUS
+                   control artery per animal. Relevant parameters of the         images, biomarker blood
+                   treatment and control vessels were evaluated as follows:      analysis and ECG results
+                     Assessment                     Timing                       using the OAD and
+       Sub-Acute     Angiographic assessment        Pre, post-treatment,         lubricant indicate no signs
+       (5 days)                                     pre-sacrifice                of MI injury.
+       Study in
+                     IVUS assessment                Pre, post-treatment        • Artery segments contained
+       Native                                                                    histologic changes of
+                     Biomarkers total CK and        Pre, post-treatment,
+       Porcine                                                                   injury which were not
+                     CK-MB isoenzyme levels 0, 8, 16, 24, 32, 40
+       Coronary                                                                  consistent with that seen in
+                                                    and 48 hr
+       Arteries                                                                  POBA.
+                     Histopathological              At sacrifice
+                     evaluations of treated                                    • One device-related serious
+                     areas and myocardium                                        adverse event (SAE)
+                     perfused by treated arteries                                occurred; due to an error
+                                                                                 in communication, an
+                     ECG analysis                   Pre, post-treatment,
+                                                                                 incorrect crown size was
+                                                    pre sacrifice
+                                                                                 used resulting in a type F
+                     Device and procedure-          During course of
+                                                                                 dissection.
+                     related adverse events         study
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                    Page 12
+              Study
+                                        Study Design and Objectives                                Results
+              Design
+                           To evaluate the acute safety and performance of the          • 1/7 animals had low speed
+                           Electric OAS in native arteries when used at clinically        simulations because of
+                           relevant speeds. In a total of seven (7) animals, two of       vascular resistance or
+                           the three coronary arteries (LAD, RCA and LCX) in              mural injury causing the
+                           each animal were treated with the OAS and the                  operator to cease high
+                           remaining artery was treated with POBA control.                speed operation.
+                           Relevant parameters of the treatment and control             • There were 4/7 episodes of
+                           vessels were evaluated as follows:                             non-lethal AV block or
+                            Assessment                 Timing                             acute ischemia during
+                            Angiographic               Pre, post-treatment of             TIMI in the OAS group.
+                            assessment                 each vessel, pre-                • Two animals experienced
+                                                       sacrifice                          first degree anterior
+                            Biomarkers total CK        Pre, post-treatment                ventral blood islands
+                            and CK-MB                                                     (AVBI) after treatment of
+                            isoenzyme levels and                                          the 2nd vessel (11P0131)
+                            fHb levels                                                    and 3rd vessel (11P0125).
+            Chronic (5      Histopathological          At sacrifice 5 and 14            • Histopathological
+            and 14          evaluations of treated     days post–treatment of             evaluations indicated all
+            days) Study     areas and myocardium the lesions and the                      vessels were patent. After
+            in Native       perfused by treated        myocardium perfused                multiple treatments, 3/14
+            Porcine         arteries                   by the treated vessel.             vessels in the OAS group
+            Coronary        ECG analysis               Pre, post-treatment of             revealed mural injury
+            Arteries                                   each vessel 1, pre-                compared to none of the
+                                                       sacrifice                          POBA vessels. 4/14
+                            Device and procedure- During course of study                  vessels treated with the
+                            related adverse events                                        OAS contained
+                                                                                          histological changes of
+                                                                                          injury including moderate
+                                                                                          or fragmented IEL.
+                                                                                          Smooth muscle
+                                                                                          hyperplasia and mural
+                                                                                          injury occurred in 3/14
+                                                                                          vessels in the OAD group.
+                                                                                        • No device or procedure-
+                                                                                          related SAE requiring
+                                                                                          corrective invasive
+                                                                                          intervention or significant
+                                                                                          clinical abnormalities were
+                                                                                          observed during the study.
+
+
+
+
+1
+    With the exception of one animal 11P0231, in which the ECG after the RCA, POBA treatment, was missed.
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                              Page 13
+         Study
+                                 Study Design and Objectives                              Results
+         Design
+                     To evaluate the sub-acute safety and performance of the • The OAD sheath and
+                     Electric OAS in native arteries when used at clinically      lubricant performed as
+                     relevant speeds. In a total of two (2) animals, two of the   expected and met all
+                     three coronary arteries (LAD, RCA and LCX) in each           performance criteria.
+                     animal were treated with the OAS. Relevant parameters • The results indicated that
+                     of the treatment and control vessels were evaluated as       acute safety and
+                     follows:                                                     performance criteria were
+                      Assessment                      Timing                      met; OAS sheath
+                      Angiographic assessment         Pre, post-treatment,        deployment and
+                                                      and pre-sacrifice           introduction to the access
+                      Biomarkers total CK and         Pre, post-treatment,        site was successful in all
+                      CK-MB isoenzyme levels pre-sacrifice                        animals; device reliability
+       Chronic(1
+                      and fHb levels                                              was sustained up to 450
+       and 5 days)
+                      Histopathological               At sacrifice 15 days        psi and vessels were free
+       Study in
+                      evaluations of treated          post–treatment of           from damage through
+       Native
+                      areas and myocardium            the lesions and the         deployment, introduction,
+       Porcine
+                      perfused by treated             myocardium                  device treatment and
+       Coronary
+                      arteries                        perfused by the             removal.
+       Arteries
+                                                      treated vessel.           • Histopathological
+                      ECG analysis                    Pre, post-treatment         evaluations indicated all
+                                                      of each vessel, pre-        vessels were patent. Most
+                                                      sacrifice                   artery segments contained
+                      Device and procedure-           During course of            histologic changes of
+                      related adverse events          study                       injury.
+                                                                                • No device or procedure-
+                                                                                  related SAE requiring
+                                                                                  corrective invasive
+                                                                                  intervention or significant
+                                                                                  clinical abnormalities were
+                                                                                  observed during the study.
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                    Page 14
+ X.    SUMMARY OF PRIMARY CLINICAL STUDIES
+         The applicant first performed a pilot clinical study (ORBIT I) at two sites in India. This was
+         followed by a pivotal clinical study (ORBIT II) to establish a reasonable assurance of safety
+         and effectiveness to facilitate stent delivery with the DIAMONDBACK 360 Coronary Orbital
+         Atherectomy System for patients with de novo, severely calcified coronary artery lesions in the
+         US under G090106. Data from this clinical study (ORBIT II) were the basis for the PMA
+         approval decision. A summary of these clinical studies is provided in Table 4 and discussed in
+         detail below.
+Table 4: Summary of Primary Clinical Studies
+   Clinical                                                     Number
+    Study     Study Design             Objectives               of Sites  Number of Subjects
+ Pilot      Prospective,      1) Evaluate the safety of          2 Sites • 50 Enrolled
+ (ORBIT I) Single-Arm,          the OAS in treating             in India    o 49 treated
+            Multi-Center        subjects with de novo                       o 1 not treated
+            Feasibility Study   calcified coronary
+                                lesions.
+                              2) Assess the performance
+                                and acute effectiveness
+                                of the OAS.
+ Pivotal    Prospective,      1) Demonstrate the OAS is         49 Sites   •   443 Enrolled
+ (ORBIT II) Single-Arm,         safe in treating de novo,        in US     •   440 Treated
+            Multi-Center        severely calcified                             o 437/440
+            Clinical Study      coronary lesions                                   evaluable at 30
+                              2) Demonstrate that the                              days
+                                OAS successfully                               o 3/440 lost to
+                                facilitates stent                                  follow-up
+                                deployment in severely
+                                calcified coronary
+                                lesions.
+
+
+       A. Study Design
+
+          Patients were treated between 25-May-2010 and 26-Nov-2013. The database for this PMA
+          reflected data collected through 31-Jan-2013 and included 443 patients. Of the 443 patients,
+          343 were enrolled with the Pneumatic OAS and 100 with the Electric OAS. There were 49
+          investigational sites.
+
+        The ORBIT II study was a prospective, single arm, multi-center clinical study with the
+        primary effectiveness endpoint evaluated at discharge and the primary safety endpoint
+        evaluated at 30 days. Both primary safety and effectiveness endpoints were based on
+        comparisons to pre-specified performance goals based on the literature from past trials
+        (historical control). Kaplan-Meier analysis with a confidence interval based on Peto’s method
+        was used for the primary safety endpoint and an exact binomial confidence interval was used
+        for procedural success. Descriptive statistics are provided for secondary endpoints.
+        Additional analyses included summaries of baseline data, examination of factors related to
+PMA P130005: FDA Summary of Safety and Effectiveness Data                              Page 15
+         primary endpoints (i.e., poolability analyses), analyses for alternate patient cohorts (i.e., a per
+         protocol analysis), and sensitivity analyses to examine the impact of missing data on the
+         primary endpoints.
+
+         MACE is a commonly used safety endpoint for interventional coronary trials and was used to
+         assess the primary safety endpoint of the DIAMONDBACK 360 Coronary OAS. The OAS
+         is designed to facilitate stent deployment in severely calcified lesions, therefore, the primary
+         effectiveness endpoint was defined as success in facilitating stent delivery with a residual
+         stenosis of <50% and without the occurrence of an in-hospital MACE in de novo, severely
+         calcified lesions. Since the DIAMONDBACK 360 Coronary OAS is intended to facilitate
+         stent deployment, potential safety concerns relevant to OAS treatment are likely to be
+         observed during the index procedure or shortly thereafter. For this reason, the ORBIT II
+         safety endpoint is based on 30-day follow-up and the effectiveness endpoint is based on in-
+         hospital events.
+
+         Study endpoints were evaluated by three external groups:
+
+         •   An independent Angiographic Core Laboratory assessed the occurrence of dissections
+             and perforations and their severity, and final percent stenosis used to evaluate primary
+             effectiveness endpoint.
+         •   An independent Clinical Events Committee (CEC) reviewed all adverse events and
+             provided adjudication of all study endpoint events with the exception of MI (that was
+             based on CK-MB values).
+         •   An independent Data Monitoring Committee (DMC) provided surveillance of subject
+             safety according to the safety concerns specified in the study protocol as well as any
+             unexpected adverse events.
+
+         After the site data were locked, final CEC review/adjudication of adverse events reported
+         through the 31-Jan-2013 cutoff was performed and final Angiographic Core Laboratory data
+         obtained for a database lock of 05-Mar-2013.
+
+         Study enrollment was completed in two parts as follows:
+
+         Part I: Safety Cohort
+         Enrollment and 30-day follow-up data of the first 50 subjects were required. As a result, the
+         data from 54 subjects were collected and reported to the Food and Drug Administration
+         (FDA) in an interim safety report. During the review of the interim report, enrollment
+         continued with a cap of 100 total subjects until approval to proceed was obtained from FDA
+         on 20-May-2011.
+
+         Part II: Full Cohort
+         Following FDA approval of the Part I results, the study received approval to enroll up to 429
+         subjects. However, following the introduction of the Electric OAS, the enrollment was
+         expanded from a minimum of 429 subjects to a maximum of 479 subjects. This expansion
+         was required to enroll and treat 100 subjects with the Electric OAS. The full cohort is
+         inclusive of the safety cohort.
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                   Page 16
+          The trial was conducted in accordance with the study protocol and other applicable
+          regulatory requirements (21 CFR §50, 54, 56, 812). The study was monitored by the
+          applicant or its representatives through monitoring visits to the Investigational Sites with
+          sufficient frequency to verify the following: subject enrollment, compliance with the
+          protocol, the completeness and accuracy of data entered in the electronic data capture (EDC)
+          database by verification against original source documents, device accountability, and
+          recording of adverse events (AEs).
+
+          In addition, all primary safety and effectiveness endpoints data collected from the clinical
+          sites were adjudicated by independent bodies such as the Angiographic Core Laboratory and
+          the Clinical Events Committee (CEC). The overall safety of the clinical study was overseen
+          by the independent Data Monitoring Committee (DMC).
+
+          Two OAS configurations were available during the ORBIT II study as described below:
+            • Pneumatic OAS - consists of:
+               o A sterile single-use Orbital Atherectomy Device (OAD)
+               o A sterile single-use Orbital Atherectomy guide wire
+               o A re-useable Orbital Atherectomy Controller (OAC) console
+               o Atherectomy lubricant solution (RotaGlide or ViperSlide)
+            • Electric OAS – consists of:
+               o A sterile single-use Orbital Atherectomy Device (OAD)
+               o A sterile single-use Orbital Atherectomy guide wire
+               o A re-useable saline pump (SIP)
+               o Atherectomy lubricant solution (ViperSlide)
+
+          1. Inclusion/Exclusion Criteria
+             Enrollment in the ORBIT II study was limited to patients who met the following
+             inclusion criteria:
+
+              General Inclusion Criteria:
+                 1) Subjects must be 18 or older.
+                 2) Subjects must have a clinical indication for coronary intervention.
+                 3) CK-MB must be less than or equal to the upper limit of lab normal value within 8
+                    hours prior to the procedure.
+
+           Angiographic Inclusion Criteria:
+               4) The target lesion must be a de novo coronary lesion that has not been previously
+                  treated with any interventional procedure.
+               5) The target vessel must be a native coronary artery with:
+                  a. A stenosis ≥ 70% and < 100%, or
+                  b. A stenosis ≥ 50% < 70% with evidence of clinical ischemia via:
+                     i. Positive stress test, or
+                    ii. Fractional Flow Reserve (FFR) value ≤ 0.8, or
+                   iii. IVUS minimum lumen area (MLA) ≤ 4.0 mm2
+               6) The target vessel reference diameter must be ≥ 2.5mm and ≤ 4.0mm.
+               7) The target lesion must not exceed 40mm.
+               8) The target vessel must have a TIMI 3 flow at baseline.
+PMA P130005: FDA Summary of Safety and Effectiveness Data                           Page 17
+                 9) The target lesion must have fluoroscopic or IVUS evidence of severe calcium
+                     deposit at the lesion site based on the protocol definition:
+                     • Presence of radio-opacities noted without cardiac motion prior to contrast
+                        injection involving both sides of the arterial wall in at least one location, total
+                        length of calcium (including segmented) must be at least 15mm and extend
+                        partially into the target lesion, or
+                     • Presence of ≥ 270º of calcium at one cross section.
+                 10) The lesion must be crossable with the study guide wire.
+
+             Patients were not permitted to enroll in the ORBIT II study if they met any of the
+             following exclusion criteria:
+
+             General Exclusion Criteria:
+                 1) Inability to understand the study or a history of non-compliance with medical
+                     advice.
+                 2) Unwilling or unable to sign the ORBIT II Informed Consent Form (ICF).
+                 3) History of any cognitive or mental health status that would interfere with study
+                     participation.
+                 4) Currently enrolled in any other pre-approval investigational study (does not
+                     apply to long-term post-market studies unless these studies might clinically
+                     interfere with the current study endpoints (e.g., limit use of study-required
+                     medication, etc.).
+                 5) Female subjects who are pregnant or planning to become pregnant within the
+                     study period.
+                 6) Known hypersensitivity or contraindication to aspirin, heparin, ticlopidine or
+                     clopidogrel without adequate alternative medications.
+                 7) Known sensitivity to contrast media, which cannot be adequately pre-medicated.
+                 8) Diagnosed with chronic renal failure unless under hemodialysis, or has a serum
+                     creatinine level >2.5 mg/dl.
+                 9) Experienced acute MI (STEMI or non-STEMI: CK-MB greater than the upper
+                     limit of lab normal value) within 30 days prior to index procedure.
+                 10) History of major cardiac intervention within 30 days, not including a PCI
+                     procedure for a staging purpose.
+                 11) Evidence of current LVEF ≤25% (where current is defined as the latest LVEF
+                     measurement completed within the last 6 months).
+                 12) NYHA class III or IV heart failure.
+                 13) History of a stroke or transient ischemic attack (TIA) within 6 months.
+                 14) Active peptic ulcer or upper gastrointestinal (GI) bleeding within 6 months.
+                 15) History of bleeding diathesis or coagulopathy or intention to refuse blood
+                     transfusion if one should become necessary.
+                 16) Concurrent medical condition with a life expectancy of less than 12 months.
+                 17) History of immune deficiency.
+                 18) Uncontrolled insulin dependent diabetes.
+                 19) Evidence of active infections on the day of the index procedure.
+                 20) Subject has planned cardiovascular intervention within 60 days post index
+                     procedure.
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                 Page 18
+                 21) Subject is not an acceptable candidate for emergent coronary artery bypass
+                     surgery.
+                 22) Subject with known allergy to atherectomy lubricant components such as
+                     soybean oil, egg yolk phospholipids, glycerin and sodium hydroxide.
+                 23) Subject with angiographically confirmed evidence of more than 1 lesion
+                     requiring intervention, unless the treatment of the lesions is staged.
+                 24) Target lesion is located in a native vessel distal to anastomosis with a saphenous
+                     vein graft or LIMA/RIMA bypass.
+                 25) Target vessel has other lesions with greater than 50% diameter stenosis based on
+                     visual estimate or on-line QCA.
+                 26) Target vessel has angiographically visible or suspected thrombus.
+                 27) Target vessel has a stent from previous PCI unless 1) the stent was implanted
+                     greater than 30 days prior to the index procedure, and 2) the stent has no higher
+                     than 30% in-stent stenosis, and 3) the stent is on a different branch than the
+                     target lesion.
+                 28) Target vessel is excessively tortuous.
+                 29) Target lesion is an ostial location (within 5 mm of ostium) or an unprotected left
+                     main lesion.
+                 30) Target lesion is a bifurcation.
+                 31) Target lesion has a ≥ 1.5 mm side branch.
+                 32) Angiographic evidence of a dissection prior to initiation of OAD.
+
+         2. Follow-up Schedule
+            All subjects were required to undergo percutaneous treatment with the coronary OAS
+            followed by stent placement and were scheduled to return for follow-up examinations at
+            30 days post procedure with an office visit. In addition, subjects were required to
+            complete an annual phone call or in-clinic follow-up at each anniversary until the study is
+            closed or up to 5 years; whichever occurs first.
+
+             All preoperative evaluations performed in relation to the index procedure and
+             postoperative assessments (the objective parameters measured during the study) are
+             summarized in Table 5, at each stage of the study.
+
+             Adverse events and complications were recorded at all visits.
+
+      Table 5: Study Assessment Schedule and Requirements
+        Time Point      Compliance Window                Test and Procedure
+                                              Medical history
+                                              Physical exam
+                                              CCS Angina Class
+                                               NYHA class
+                      ≤ 14 days
+                                              12-lead ECG
+       Pre-procedure
+                                              CBC, serum creatinine
+                                              Pregnancy test for female subjects of
+                                              childbearing potential
+                                              CK and CK-MB
+                      ≤ 8 hours
+                                              Electrolyte panel
+PMA P130005: FDA Summary of Safety and Effectiveness Data                               Page 19
+         Time Point        Compliance Window                     Test and Procedure
+                                                      Troponin
+                                                      ACT at the onset of the procedure
+       Procedure         During the procedure         Fluoroscopy and angiography/IVUS
+                                                      Monitor ECG changes
+                         As close to the procedure    12-lead ECG
+                         end as possible
+                                                      CK and CK-MB
+                                                      Electrolyte panel
+                         8±1 hour
+                                                      Troponin
+       Post-
+                                                      Check for occurrences of adverse events
+       procedure
+                                                      CK and CK-MB
+                                                      Electrolyte panel
+                         17-1/+3 hours                Troponin
+                                                      Serum Creatinine
+                                                      Check for occurrences of adverse events
+                         Prior but as close to        12-lead ECG
+       At discharge      discharge time as            Check for occurrences of adverse events
+                         possible
+       30-day                                         In clinic visit
+       follow-up         30 + 14 days                 Check for occurrences of adverse events
+       visit
+       Annual phone                                   General well-being
+       call or in        Anniversary date ±60         Check for occurrences of adverse events
+       clinic follow-    days
+       up
+       Any                                            Check for occurrences of adverse events
+                         N/A
+       hospitalization
+
+             The key timepoints are shown below in the tables summarizing safety and effectiveness.
+
+         3. Clinical Endpoints
+
+             Primary Safety Endpoint
+             The primary safety endpoint was to demonstrate that the OAS is safe when used to
+             facilitate stent deployment in de novo, severely calcified coronary lesions. This was
+             measured by a composite of major adverse cardiac events (MACE) at 30 days post-
+             procedure. MACE is composed of:
+
+                •     Cardiac death
+                •     Myocardial infarction (MI) – defined as a CK-MB level > 3 times the upper limit
+                      of lab normal (ULN) value with or without new pathologic Q wave.
+                •     Target vessel revascularization (TVR) – defined as revascularization at the target
+                      vessel (inclusive of the target lesion) after the completion of the index procedure.
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                  Page 20
+             A literature review was completed and the calculation of a performance goal of 83%
+             freedom from MACE was determined to be clinically acceptable. The pre-specified
+             hypothesis test for the primary safety endpoint was formulated as:
+
+                                                    •       H0: πs ≤ 83%
+                                                    •       Ha: πs > 83%
+
+             where: πs = the probability of freedom from MACE within 30 days of the procedure of
+             OAS device treatment.
+
+             Additional safety-related secondary endpoints evaluated in the ORBIT II study included:
+
+                •   Severe Angiographic Complications defined as the rate of individual severe
+                    angiographic complication during the index procedure including severe
+                    dissections (Types C-F), perforation, persistent slow flow, persistent no reflow,
+                    and abrupt closure.
+                •   12-Month MACE
+
+             Primary Effectiveness Endpoint
+             The primary effectiveness endpoint was to demonstrate that the OAS is capable of
+             successfully facilitating stent deployment in de novo, severely calcified coronary lesions.
+             Procedural success was defined as success in facilitating stent delivery with a residual
+             stenosis of < 50% (per Angiographic Core Laboratory) and without the occurrence of an
+             in-hospital MACE.
+
+             The effectiveness endpoint rates in similar device trials suggest that a performance goal
+             of 82% is clinically acceptable. The pre-specified hypothesis test for the primary
+             effectiveness endpoint was formulated as:
+
+                                                        •    H0: πe < 82%
+                                                        •    Ha: πe > 82%
+
+             where: πe = the probability of the procedural success for OAS device measured by the
+             success in facilitating stent delivery with < 50% residual stenosis and without in-hospital
+             MACE.
+
+             Additional effectiveness-related secondary endpoints evaluated in the ORBIT II study
+             included:
+
+                •   Angiographic Success defined as success in facilitating stent delivery with < 50%
+                    residual stenosis and without severe angiographic complications. Severe
+                    angiographic complications include severe dissections (Types C-F), perforation,
+                    persistent slow flow, persistent no reflow, and abrupt closure.
+
+             Secondary Endpoints
+             Procedural Parameters including the following:
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                Page 21
+                •   Number of crown(s) used per lesion
+                •   Percent of each size OAD used
+                •   Percent of lesions where balloon dilation was done prior to stenting
+                •   Percent of lesions where post-stent placement dilation was necessary
+                •   Procedure time – defined as the time from when the first guide catheter was
+                    placed in the access site to the time the last guide catheter was removed from the
+                    access site
+                •   OAS treatment time – defined as total device rotation time per patient
+                •   Fluoroscopy time
+                •   Amount of contrast agent used during the procedure
+
+         4. Statistical Methodology
+
+             Patient demographics, medical history, risk factors, pre- and post- procedure lesion
+             characteristics, procedure characteristics, and outcome variables were summarized using
+             descriptive statistics for continuous variables and frequency tables or proportions for
+             discrete variables. For the primary safety endpoint, Kaplan-Meier method and Peto’s
+             method were used to obtain the estimate and the corresponding 95% confidence interval
+             (CI), respectively. The pre-specified hypothesis test for the primary safety endpoint was
+             conducted based on the 95% CI. For the primary effectiveness endpoint, Clopper-Pearson
+             Exact method was used to calculate the 95% CI and perform the pre-specified hypothesis
+             test. The point estimates of the secondary endpoints are also reported.
+
+             The potential impact of missing data of the primary safety and effectiveness endpoints on
+             the study conclusions were assessed in sensitivity analyses.
+
+         5. Subject Sample Size
+             The overall sample size was based on the safety endpoint. Assuming the true 30-day
+             MACE free rate of 88%, an evaluable sample size of 408 subjects was required to
+             achieve approximate 80% power to reject the null hypothesis for the primary safety
+             endpoint that the true 30-day MACE free rate is at most 83% at a one-sided α-level of
+             0.025.
+
+             Adjusting for a 5% rate of attrition and missing data at 30 days post-procedure,
+             enrollment of 429 subjects was determined to be required. As described earlier, the
+             overall study sample size was increased up to 479 subjects to ensure the inclusion of 100
+             subjects treated with the Electric OAS.
+
+      B. Accountability of PMA Cohort
+
+         There were a total of 443 subjects who provided informed consent to participate in the
+         ORBIT II study and in whom the study guide wire crossed the lesion. Of the 443 subjects
+         enrolled, three (3) subjects were immediately withdrawn from the study as the OAD was
+         never inserted (but the guide wire crossed the lesion and therefore, the subjects were
+         considered enrolled in the study).
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                               Page 22
+         The safety endpoint was evaluated based on the intent-to-treat cohort defined as enrolled
+         subjects (N=443). The effectiveness analysis was based on all evaluable subjects where the
+         guide wire crossed the lesion and the OAD was inserted (N=440). Additional statistical
+         analyses of the primary endpoints were also performed for a “per protocol” subject population
+         defined as subjects treated with OAS and with no or minimal protocol deviations. At the time
+         of database lock, of 443 patients enrolled in PMA study, 99.3% (437/440) patients were
+         available for analysis at the completion of the study, the 30-day post-operative visit.
+
+         Of the 440 subjects where the OAD was inserted:
+         •   437/440 had evaluable 30-day data
+         •   3/440 had no post 30-day data collected (subjects refused to return for the 30-day visit
+             and were classified as lost to follow-up after the 30-day window).
+
+         Therefore, at the time of the database lock, 48.5% (215/443) subjects completed 1-year
+         follow-up, 3.8% (17/443) expired, 0.7% (3/443) were lost to follow-up and 0.2% (1/443)
+         voluntarily withdrew from the study.
+
+         Figure 1: Subject Disposition Flow Chart
+
+
+
+
+      C. Study Population Demographics and Baseline Parameters
+
+         An analysis of previous trials reported in the literature with similar indications that included
+         calcified lesions showed a range of male enrollment as 63.0-86.3%. The ORBIT II trial,
+         which included enrollment of 64.6% males, had comparable gender ratios to the other
+         previously published studies. The patient population enrolled in this study was older and had
+         higher eGFR compared to past trials; however, this was not unexpected as ORBIT II is a
+         study that evaluated patients with severely calcified lesions which are difficult to treat, have
+         higher comorbidities and, therefore, often excluded from clinical trials.
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                Page 23
+         Table 6 summarizes demographics by OAS treatment group. Subject demographics were
+         similar between Pneumatic and Electric OAS groups. The majority of the subjects were
+         Caucasian (87.8%) males (64.6%). Of the three (3) subjects with ethnicity reported as
+         “other,” one (1) subject was reported as “West Indian” and the other two (2) subjects were
+         reported as unknown.
+
+        Table 6: Demographics for ORBIT II Subjects
+         Demographic                 Pneumatic OAS           Electric OAS          Overall
+         Number of Subjects Enrolled          N=343              N=100              N=443
+         Gender
+                Male                     221/343 (64.4%)    65/100 (65.0%)     286/443 (64.6%)
+                Female                   122/343 (35.6%)    35/100 (35.0%)     157/443 (35.4%)
+         Ethnicity
+                Caucasian                305/343 (88.9%)    84/100 (84.0%)     389/443 (87.8%)
+                Black or African
+                                          22/343 (6.4%)       3/100 (3.0%)      25/443 (5.6%)
+                American
+                Asian                      7/343 (2.0%)       2/100 (2.0%)       9/443 (2.0%)
+                Hispanic or Latino         6/343 (1.7%)     10/100 (10.0%)      16/443 (3.6%)
+                Native American            0/343 (0.0%)       1/100 (1.0%)       1/443 (0.2%)
+                Other                      3/343 (0.9%)       0/100 (0.0%)       3/443 (0.7%)
+         Age (years)
+                N                              343                100                443
+                Mean ± SE                   71.4 ± 0.5         71.5 ± 1.0         71.4 ± 0.5
+                Min – Max                   37.4 - 92.2        39.8 - 91.4        37.4 - 92.2
+         BMI
+                N                              343                100                443
+                Mean ± SE                   29.5 ± 0.3         29.2 ± 0.6         29.4 ± 0.3
+                Min – Max                   15.2 - 60.7        16.1 - 51.4        15.2 - 60.7
+         eGFR
+                N                              341                100                441
+                Mean ± SE                   76.0 ± 1.4         74.9 ± 2.4         75.8 ± 1.2
+                Min – Max                   4.6 - 191.7        7.4 - 181.0        4.6 - 191.7
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                             Page 24
+         Table 7 summarizes clinical history for the subjects enrolled in the study. More than 90% of
+         ORBIT II subjects have hypertension and dyslipidemia, more than 75% have a history of
+         angina (most are considered stable angina), approximately 66% are smokers or previously
+         smoked, over 35% have diabetes, and more than 22% have previously had a MI. “Other”
+         treated vessels were reported most commonly as obtuse marginal, diagonal, or posterior
+         descending artery (PDA).
+
+        Table 7: Clinical History of ORBIT II Subjects
+                 Clinical History          Pneumatic OAS        Electric OAS         Overall
+             Number of Subjects Enrolled         N=343              N=100             N=443
+        History of Diabetes mellitus
+             No                              220/343 (64.1%) 63/100 (63.0%) 283/443 (63.9%)
+             Yes, Type I                      6/343 (1.7%)      4/100 (4.0%)      10/443 (2.3%)
+             Yes, Type II                    117/343 (34.1%) 33/100 (33.0%) 150/443 (33.9%)
+        Smoking
+             No, Never smoked                105/343 (30.6%) 45/100 (45.0%) 150/443 (33.9%)
+             Yes, Current smoker             62/343 (18.1%)    13/100 (13.0%)    75/443 (16.9%)
+             Yes, Former smoker              176/343 (51.3%) 42/100 (42.0%) 218/443 (49.2%)
+        History of dyslipidemia
+             No                               23/343 (6.7%)    12/100 (12.0%)     35/443 (7.9%)
+             Unknown                          1/343 (0.3%)      0/100 (0.0%)       1/443 (0.2%)
+             Yes                             319/343 (93.0%) 88/100 (88.0%) 407/443 (91.9%)
+        History of hypertension
+             No                               30/343 (8.7%)     7/100 (7.0%)      37/443 (8.4%)
+             Yes                             313/343 (91.3%) 93/100 (93.0%) 406/443 (91.6%)
+        History of stroke/TIA
+             No                              313/343 (91.3%) 90/100 (90.0%) 403/443 (91.0%)
+             Unknown                          1/343 (0.3%)      0/100 (0.0%)       1/443 (0.2%)
+             Yes                              29/343 (8.5%)    10/100 (10.0%)     39/443 (8.8%)
+        History of MI
+             No                              261/343 (76.1%) 78/100 (78.0%) 339/443 (76.5%)
+             Unknown                          5/343 (1.5%)      0/100 (0.0%)       5/443 (1.1%)
+             Yes                             77/343 (22.4%)    22/100 (22.0%)    99/443 (22.3%)
+        History of Angina
+PMA P130005: FDA Summary of Safety and Effectiveness Data                             Page 25
+                  Clinical History           Pneumatic OAS       Electric OAS         Overall
+             No                               77/343 (22.4%)    18/100 (18.0%)    95/443 (21.4%)
+             Yes                             266/343 (77.6%) 82/100 (82.0%) 348/443 (78.6%)
+             For subjects with history of
+             angina, type
+                    Stable                   167/266 (62.8%)     56/82 (68.3%)    223/348 (64.1%)
+                    Unstable                  99/266 (37.2%)     26/82 (31.7%)    125/348 (35.9%)
+        LVEF (%)
+            N                                       338                99               437
+             Mean ± SE                          56.7 ± 0.5         56.4 ± 1.0        56.6 ± 0.5
+             Min - Max                          26.0 - 78.0       30.0 - 80.0        26.0 - 80.0
+        NYHA classification of Heart
+        Failure
+             No History of Heart Failure      10/340 (2.9%)     18/100 (18.0%)     28/440 (6.4%)
+             Class I                         217/340 (63.8%) 32/100 (32.0%) 249/440 (56.6%)
+             Class II                        111/340 (32.6%) 50/100 (50.0%) 161/440 (36.6%)
+             Class III                         2/340 (0.6%)      0/100 (0.0%)       2/440 (0.5%)
+             Class IV                          0/340 (0.0%)      0/100 (0.0%)       0/440 (0.0%)
+
+         The ORBIT II protocol allowed treatment of severely calcified de novo coronary lesions in
+         any native coronary artery, including the Left Main artery. Target vessel and lesion
+         characteristics, including determination of pre-procedure percent stenosis (as determined by
+         Investigator) are reported in Table 8.
+
+        Table 8: Vessel & Lesion Characteristics
+                  Characteristic          Pneumatic OAS          Electric OAS         Overall
+        Subjects with OAD inserted              N=340               N=100              N=440
+        Target Lesion Vessel
+             LAD                             169/340 (49.7%) 58/100 (58.0%) 227/440 (51.6%)
+             LCX                              44/340 (12.9%)    20/100 (20.0%)    64/440 (14.5%)
+             Left Main                         9/340 (2.6%)      1/100 (1.0%)      10/440 (2.3%)
+             RCA                             112/340 (32.9%) 20/100 (20.0%) 132/440 (30.0%)
+             Ramus                             6/340 (1.8%)      1/100 (1.0%)       7/440 (1.6%)
+        Pre-Procedure Target Lesion
+        Length (mm)
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                              Page 26
+                  Characteristic             Pneumatic OAS       Electric OAS          Overall
+             N                                      340                100               440
+             Mean ± SE                           18.4 ± 0.5        20.6 ± 1.0         18.9 ± 0.4
+             Min - Max                           3.0 - 40.0         5.0 - 40.0        3.0 - 40.0
+        Pre-Procedure Average RVD (mm)
+             N                                      340                100               440
+             Mean ± SE                           3.1 ± 0.0          3.1 ± 0.0         3.1 ± 0.0
+             Min - Max                            2.5 - 4.0         2.5 - 4.0          2.5 - 4.0
+        ACC/AHA lesion classification
+             A                                 0/340 (0.0%)       0/100 (0.0%)      0/440 (0.0%)
+             B1                               86/340 (25.3%)    28/100 (28.0%) 114/440 (25.9%)
+             B2                              148/340 (43.5%) 49/100 (49.0%) 197/440 (44.8%)
+             C                               106/340 (31.2%) 23/100 (23.0%) 129/440 (29.3%)
+        Pre-Procedure MLD (mm)
+             N                                      340                100               440
+             Mean ± SE                           0.5 ± 0.0          0.5 ± 0.0         0.5 ± 0.0
+             Min - Max                            0.0 - 1.4         0.0 - 1.2          0.0 - 1.4
+        Pre-Procedure percent stenosis
+             N                                      340                100               440
+             Mean ± SE                           84.3 ± 0.5        84.5 ± 0.9         84.4 ± 0.4
+             Min - Max                          60.0 - 99.0        60.0 - 99.0       60.0 - 99.0
+
+         Vessel calcification (as determined by the Investigator) is reported in Table 9.
+         Angiographically, severe calcification was defined as a total length of calcium (including
+         segmented) > 15mm with calcium visible on both sides of the vessel in at least one location.
+         Revision 08 and 09 of the protocol also permitted calcification severity to be determined via
+         IVUS defined as ≥ 270° of calcium seen at one cross-section. However, the majority of
+         subjects (92% overall) had angiography to determine the calcification of the target vessel.
+         The overall mean length of calcium treated was 28.6 ± 0.8 mm, ranging from 9.0 -100 mm.
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                              Page 27
+        Table 9: Vessel Calcification
+                  Characteristic              Pneumatic OAS       Electric OAS         Overall
+        Subjects with calcification           316/340 (92.9%) 89/100 (89.0%) 405/440 (92.0%)
+        determined by angiography only
+             Total length of calcium
+             (including segmented) (mm)
+                    N                               316                 89                405
+                    Mean ± SE                    28.4 ± 0.9         29.0 ± 1.6        28.6 ± 0.8
+                    Min - Max                    9.0 - 100.0       15.0 - 100.0       9.0 - 100.0
+             Subjects with calcium visible         316/316       89/89 (100.0%)         405/405
+             on both sides of the vessel          (100.0%)                             (100.0%)
+        Subjects with calcification            24/340 (7.1%)     11/100 (11.0%)     35/440 (8.0%)
+        determined by IVUS
+              Maximum degree of calcium
+              via IVUS (°)
+                    N                                24                 11                35
+                    Mean ± SE                    296.7 ± 7.6       291.4 ± 10.7       295.0 ± 6.1
+                    Min - Max                   270.0 - 360.0     270.0 - 360.0      270.0 - 360.0
+
+      D. Safety and Effectiveness Results
+
+         1. Safety Results
+            The analysis of safety was based on the intent-to-treat cohort of 443 enrolled subjects, of
+            which 46 subjects experienced 30-day post-procedural MACE events, 5 subjects were
+            censored for 30-day post-procedural MACE event data, and 392 subjects were free from
+            30-day post-procedural MACE. The key safety outcome for this study is presented below
+            in Table 10. Adverse effects are reported in Table 11 and Table 12.
+
+             The safety of the OAS was measured by a primary safety endpoint consisting of a
+             composite of freedom from MACE at 30 days post-procedure. The null hypothesis that
+             the true 30-day post-procedure MACE-free rate is at most 83% was to be rejected in
+             favor of the alternative if the lower bound of the 2-sided 95% confidence interval (CI) for
+             the 30-day MACE-free rate was greater than the pre-specified performance goal of
+             83%. All 443 enrolled subjects have been included in the primary safety endpoint
+             analysis.
+
+             At 30 days post index procedure, MACE occurred in 46 subjects. The observed rate of
+             freedom from MACE was 89.6% with 95% CI of (86.7%, 92.5%). The lower bound of
+             the 95% CI, 86.7%, was greater than the pre-defined performance goal of 83%. The null
+             hypothesis that the true 30-day post-procedure MACE-free rate is at most 83% was
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                               Page 28
+                rejected and the performance goal of the primary safety endpoint was met successfully
+                (Table 10).
+
+        Table 10: Primary Safety Endpoint (30 days MACE)
+        Primary Safety
+                                    % [95% CI]1       Hypothesis                Decision Conclusion
+        Endpoint
+        Freedom from MACE
+                                                                H0: πs ≤ 83%           Performance
+        within 30 days post-           89.6% [86.7%-92.5%]                   Reject H0
+                                                                Ha: πs > 83%            Goal Met
+        procedure2
+        1
+          Kaplan-Meier method used to obtain estimate of freedom from MACE. Peto’s method
+          used to obtain the 95% confidence interval for the estimate.
+        2
+          The Freedom from MACE within 30 days post-procedure includes all subjects where the
+          guidewire crossed the lesion.
+
+                At the time of the data lock, 64 of 443 subjects (14.4%) had a MACE event. The freedom
+                from MACE through 12 months of follow-up was estimated as 82.1% via a Kaplan-Meier
+                analysis. All subjects where the guide wire crossed the lesion have been included in the
+                analysis of the 12-month MACE rate.
+
+                Adverse effects that occurred in the PMA clinical study:
+                Table 11 outlines the rate and number of all device-related (definite, probably, or
+                possibly related to the OAS) serious adverse events (SAE), all procedure-related
+                (definite, probably, or possibly related) SAE, and SAE up to 30 days post-procedure, as
+                adjudicated by the CEC. Table 12 outlines the rate and number of all device-related non-
+                serious AEs (non-SAEs), all procedure-related non-SAEs and all non-SAEs up to 30 days
+                post-procedure. All events listed are in descending order of clinical importance, as
+                determined by their severity and/or incidence.
+
+      Table 11: Summary of Serious Adverse Events
+                                          All Device Related   All Procedure Related    SAEs through 30
+                                                SAEs                   SAEs                  days
+                                                N=443                  N=443                N=443
+                                          Subjects   Events,     Subjects    Events     Subjects    Events
+                                           n (%)       N          n (%)        N         n (%)        N
+       Death (No disorder specified)      4 (0.9%)      4       4 (0.9%)        4       2 (0.5%)       2
+            Cardiac death                 3 (0.7%)      3       3 (0.7%)        3       1 (0.2%)       1
+            Non-cardiac death             1 (0.2%)      1       1 (0.2%)        1       1 (0.2%)       1
+       Cardiovascular Disorders          33 (7.4%)      37     51 (11.5%)      56      60 (13.5%)    68
+            Ventricular fibrillation      1 (0.2%)      1       2 (0.5%)        2       2 (0.5%)       2
+            PEA arrest                    1 (0.2%)      1       1 (0.2%)        1       1 (0.2%)       1
+            Ventricular tachycardia       0 (0.0%)      0       1 (0.2%)        1       1 (0.2%)       1
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                    Page 29
+                                           All Device Related    All Procedure Related   SAEs through 30
+                                                 SAEs                    SAEs                 days
+                                                 N=443                   N=443               N=443
+                                           Subjects    Events,     Subjects    Events    Subjects    Events
+                                            n (%)        N          n (%)        N        n (%)        N
+          Ventricular
+          tachycardia/ventricular          0 (0.0%)      0        0 (0.0%)        0      1 (0.2%)       1
+          fibrillation
+          Cardiogenic shock                2 (0.5%)      2        2 (0.5%)        2      2 (0.5%)       2
+          Shock (Acute RV                  1 (0.2%)      1
+          dysfunction and acute blood                             1 (0.2%)        1      1 (0.2%)       1
+          loss hypovolemic)
+          Acute MI, Q-wave                 1 (0.2%)      1        3 (0.7%)        3      4 (0.9%)       4
+          Acute MI, non-Q wave             28 (6.3%)     28       39 (8.8%)      39      39 (8.8%)    39
+          Cardiac/pericardial
+                                           2 (0.5%)      2        4 (0.9%)        4      4 (0.9%)       4
+          tamponade
+          Endocarditis                     0 (0.0%)      0        0 (0.0%)        0      1 (0.2%)       1
+          Non-target vessel
+                                           0 (0.0%)      0        0 (0.0%)        0      1 (0.2%)       1
+          revascularization
+          Angina pectoris                  1 (0.2%)      1        2 (0.5%)        2      4 (0.9%)       4
+          Atrial fibrillation              0 (0.0%)      0        0 (0.0%)        0      2 (0.5%)       2
+          Atrioventricular block, II
+                                           0 (0.0%)      0        1 (0.2%)        1      1 (0.2%)       1
+          degree
+          Sick sinus syndrome              0 (0.0%)      0        0 (0.0%)        0      1 (0.2%)       1
+          Pericarditis                     0 (0.0%)      0        0 (0.0%)        0      1 (0.2%)       1
+          Chest pain                       0 (0.0%)      0        0 (0.0%)        0      2 (0.5%)       2
+       Neurologic/Psychiatric Disorders    0 (0.0%)      0        4 (0.9%)        4      4 (0.9%)       4
+          Cerebrovascular accident
+                                           0 (0.0%)      0        3 (0.7%)        3      3 (0.7%)       3
+          (CVA)
+          Sundowning/ICU
+                                           0 (0.0%)      0        1 (0.2%)        1      1 (0.2%)       1
+          "psychosis"
+       Respiratory/Thoracic Disorders      0 (0.0%)      0        2 (0.5%)        4      7 (1.6%)       9
+          Respiratory failure, requiring                          1 (0.2%)        1
+                                           0 (0.0%)      0                               1 (0.2%)       1
+          intubation
+          Respiratory failure              0 (0.0%)      0        1 (0.2%)        1      1 (0.2%)       1
+          Aspiration                       0 (0.0%)      0        1 (0.2%)        1      1 (0.2%)       1
+          Anoxia due to aspiration         0 (0.0%)      0        1 (0.2%)        1      1 (0.2%)       1
+          Pneumonia                        0 (0.0%)      0        0 (0.0%)        0      2 (0.5%)       2
+          COPD                             0 (0.0%)      0        0 (0.0%)        0      1 (0.2%)       1
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                     Page 30
+                                          All Device Related   All Procedure Related   SAEs through 30
+                                                SAEs                   SAEs                 days
+                                                N=443                  N=443               N=443
+                                          Subjects   Events,     Subjects    Events    Subjects    Events
+                                           n (%)       N          n (%)        N        n (%)        N
+          Bronchitis                      0 (0.0%)      0       0 (0.0%)        0      1 (0.2%)       1
+          Dyspnea/Shortness of breath     0 (0.0%)      0       0 (0.0%)        0      1 (0.2%)       1
+       Angiographic Complications         3 (0.7%)      3       7 (1.6%)        7      7 (1.6%)       7
+          Thrombosis formation at site
+                                          1 (0.2%)      1       1 (0.2%)        1      1 (0.2%)       1
+          of treated lesion
+          Coronary artery embolism of
+          air, plaque, thrombosis, or     1 (0.2%)      1       3 (0.7%)        3      3 (0.7%)       3
+          debris
+          Slow flow or no reflow
+                                          1 (0.2%)      1       3 (0.7%)        3      3 (0.7%)       3
+          phenomena
+       Vascular Disorders                 1 (0.2%)      1       10 (2.3%)      10      11 (2.5%)    11
+          Hypotension                     1 (0.2%)      1       2 (0.5%)        2      2 (0.5%)       2
+          Hemorrhage, major, requiring                          3 (0.7%)        3
+                                          0 (0.0%)      0                              3 (0.7%)       3
+          transfusion
+          Pulmonary embolism              0 (0.0%)      0       1 (0.2%)        1      1 (0.2%)       1
+          Peripheral artery                                     3 (0.7%)        3
+                                          0 (0.0%)      0                              3 (0.7%)       3
+          pseudoaneurysm
+          Hematoma at access site,                              1 (0.2%)        1
+                                          0 (0.0%)      0                              1 (0.2%)       1
+          requiring intervention
+          Peripheral artery/vascular
+                                          0 (0.0%)      0       0 (0.0%)        0      1 (0.2%)       1
+          disease
+       Renal/Genitourinary Disorders      0 (0.0%)      0       1 (0.2%)        1      2 (0.5%)       2
+          Renal insufficiency             0 (0.0%)      0       1 (0.2%)        1      1 (0.2%)       1
+          Urinary tract infection (UTI)   0 (0.0%)      0       0 (0.0%)        0      1 (0.2%)       1
+       Other Disorders                    0 (0.0%)      0       1 (0.2%)        1      5 (1.1%)       5
+          Infection at access site        0 (0.0%)      0       0 (0.0%)        0      1 (0.2%)       1
+          Left arm AV graft infection     0 (0.0%)      0       0 (0.0%)        0      1 (0.2%)       1
+          Fever                           0 (0.0%)      0       1 (0.2%)        1      1 (0.2%)       1
+          Bone fracture                   0 (0.0%)      0       0 (0.0%)        0      1 (0.2%)       1
+          Lower extremity pain            0 (0.0%)      0       0 (0.0%)        0      1 (0.2%)       1
+       Digestive Disorders                0 (0.0%)      0       1 (0.2%)        1      6 (1.4%)       6
+          Gastrointestinal bleeding       0 (0.0%)      0       0 (0.0%)        0      3 (0.7%)       3
+          Colitis                         0 (0.0%)      0       1 (0.2%)        1      1 (0.2%)       1
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                   Page 31
+                                          All Device Related    All Procedure Related    SAEs through 30
+                                                SAEs                    SAEs                  days
+                                                N=443                   N=443                N=443
+                                          Subjects    Events,     Subjects    Events     Subjects    Events
+                                           n (%)        N          n (%)        N         n (%)        N
+          Esophageal spasm                0 (0.0%)      0        0 (0.0%)        0       1 (0.2%)       1
+          Nausea and/or vomiting          0 (0.0%)      0        0 (0.0%)        0       1 (0.2%)       1
+       Any Adverse Event                  35 (7.9%)     45      72 (16.3%)      88      91 (20.5%)    114
+
+      Table 12: Summary of Non-Serious Adverse Events
+                                          All Device Related    All Procedure Related   Non-Serious AEs to
+                                          Non-Serious AEs         Non-Serious AEs        30-Day follow-up
+                                                N=443                   N=443                N=443
+                                           Subjects   Events      Subjects    Events     Subjects    Events
+                                            n (%)       N          n (%)        N         n (%)        N
+       Angiographic Complications         1 (0.2%)       1       1 (0.2%)        1       1 (0.2%)       1
+          Slow flow or no reflow          1 (0.2%)       1       1 (0.2%)        1       1 (0.2%)       1
+          phenomena
+       Cardiovascular Disorders           0 (0.0%)       0       2 (0.5%)        2       5 (1.1%)       5
+          Chest pain                      0 (0.0%)       0       0 (0.0%)        0       2 (0.5%)       2
+          Atrial fibrillation             0 (0.0%)       0       2 (0.5%)        2       2 (0.5%)       2
+          Diaphragmatic stimulation                                                      1 (0.2%)       1
+                                          0 (0.0%)       0       0 (0.0%)        0
+          by pacemaker
+       Neurologic/Psychiatric Disorders   0 (0.0%)       0       0 (0.0%)        0       9 (2.0%)       9
+       Respiratory/Thoracic Disorders     0 (0.0%)       0       0 (0.0%)        0      10 (2.3%)      10
+       Vascular Disorders                 0 (0.0%)       0       2 (0.5%)        2      11 (2.5%)      12
+       Renal/Genitourinary Disorders      0 (0.0%)       0       1 (0.2%)        1       7 (1.6%)       7
+       Digestive Disorders                0 (0.0%)       0       1 (0.2%)        1      16 (3.6%)      20
+       Abnormal Tests/Lab Finding         0 (0.0%)       0       0 (0.0%)        0       1 (0.2%)       1
+       Other Disorders                    0 (0.0%)       0       1 (0.2%)        1      22 (5.0%)      27
+       Any Adverse Event                  1 (0.2%)       1       8 (1.8%)        8      69 (15.6%)     92
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                     Page 32
+             Table 13 and Table 14, respectively, summarize the presence and types of dissections
+             and perforations as assessed by the Angiographic Core Laboratory.
+
+        Table 13: Summary of Dissections at Index Procedure
+                                                                              Subjects
+                                       Dissection
+                                                                               N=443
+         Coronary vessel dissection present on subjects treated with           52/443
+         OAD                                                                  (11.7%)
+            Type: A                                                         9/52 (17.3%)
+             Type: B                                                        22/52 (42.3%)
+             Type: C                                                        8/52 (15.4%)
+             Type: D                                                         4/52 (7.7%)
+             Type: E                                                         1/52 (1.9%)
+             Type: F                                                         1/52 (1.9%)
+            Type: Not Analyzable                                            7/443 (1.6%)
+         Coronary vessel dissection present on subjects not treated with
+                                                                            1/443 (0.2%)
+         OAD
+         Non-coronary, Aortic Root dissection present on subjects treated
+                                                                            2/443 (0.5%)
+         with OAD
+         Non-coronary, possible Aortic Cusp dissection present on
+                                                                            1/443 (0.2%)
+         subjects treated with OAD
+
+
+        Table 14: Summary of Perforations at Index Procedure
+                                                                              Subjects
+                                    Perforation
+                                                                               N=443
+         Coronary vessel perforation present on subjects treated with
+                                                                            8/443 (1.8%)
+         OAD
+              Type: I (fully contained)                                      0/8 (0.0%)
+               Type: II (limited extravasation)                              2/8 (25.0%)
+               Type: III (brisk extravasation)                               5/8 (62.5%)
+               Type: cavity spilling                                         0/8 (0.0%)
+               Type: Not Analyzable                                          1/8 (12.5%)
+         Non-coronary right ventricle vessel perforation present on
+                                                                            1/443 (0.2%)
+         subjects treated with OAD
+
+             Table 15 summarizes the first observed occurrence of the dissection or perforation as
+             assessed by the Angiographic Core Laboratory. Perforations and dissections occurred
+             both prior to, and following, OAS use.
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                             Page 33
+        Table 15: Summary of Dissections and Perforations by Occurrence
+                                                                       Subjects
+         Dissection First Identified
+                                                                        N=52
+              Prior to OAS                                           8/52 (15.4%)
+               Pre-OAS/post-balloon                                           0/52 (0.0%)
+               Post-OAS                                                      24/52 (46.2%)
+               Post-OAS #1/post-balloon/pre-OAS #2                            1/52 (1.9%)
+               Post-OAS/pre-stent/post-balloon                                7/52 (13.5%)
+               Post-stent                                                    11/52 (21.2%)
+               Post-stent/post-balloon                                        0/52 (0.0%)
+               Not Analyzable                                                 1/52 (1.9%)
+         Perforation First Identified                                        Subjects N=8
+               Prior to OAS                                                    0/8 (0.0%)
+               Pre-OAS/post-balloon                                            0/8 (0.0%)
+               Post-OAS                                                       4/8 (50.0%)
+               Post-OAS/pre-stent/post-balloon                                 0/8 (0.0%)
+               Post-stent                                                     4/8 (50.0%)
+               Post-stent/post-balloon                                         0/8 (0.0%)
+               Not Analyzable                                                  0/8 (0.0%)
+
+
+         2. Effectiveness Results
+            The analysis of effectiveness was based on the 440 evaluable subjects at the 30-day time
+            point. The key effectiveness outcome is presented in Table 16.
+
+             Procedural success was measured by success in facilitating stent delivery with < 50%
+             residual stenosis and without in-hospital MACE for the treated subject. The null
+             hypothesis that the true procedural success rate is at most 82% was to be rejected in favor
+             of the alternative if the lower bound of the 2-sided 95% confidence interval (CI) for the
+             primary effectiveness endpoint was greater than the pre-specified performance goal of
+             82%. Only subjects treated by the OAD (the guide wire crossed the lesion and OAD was
+             inserted, N=440) have been included in the primary effectiveness endpoint analysis. The
+             final percent stenosis of the treated lesion was obtained from the Angiographic Core
+             Laboratory data.
+
+             Procedural success occurred in 391 of 440 evaluable subjects. The observed rate of
+             procedural success was 88.9% with 95% CI of (85.5%, 91.6%). The lower bound of the
+             95% CI, 85.5%, was greater than the pre-defined performance goal of 82%. The null
+             hypothesis that the true procedural success rate is at most 82% was rejected and the
+             performance goal of the primary effectiveness endpoint was met successfully (Table 16).
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                               Page 34
+              Sensitivity analyses were conducted to evaluate the potential impact of the missing data
+              on the conclusion of the hypothesis test for the primary effectiveness endpoint. At the
+              worst case scenario where all subjects with missing primary effectiveness endpoint or
+              without post-procedural CK-MB and troponin data were assumed with procedural
+              failures, the primary effectiveness endpoint was still successfully met.
+
+        Table 16: Primary Effectiveness Endpoint
+             Primary
+          Effectiveness     n/N1    % [95% CI]2           Hypothesis      Decision      Conclusion
+            Endpoint
+                                       88.9% [85.5%-      H0: πe ≤ 82%                  Performance
+        Procedural Success 391/440                                     Reject H0
+                                           91.6%]         Ha: πe > 82%                   Goal Met
+        1
+          n/N is the number of subjects meeting the primary effectiveness endpoint over the number
+          of subjects with study guide wire crossing the lesion. Of the three subjects, one had an in-
+          hospital TVR (non-TLR) and MI (non-Q-Wave).
+        2
+          Clopper-Pearson Exact two-sided 95% confidence interval.
+
+              Angiographic success (defined as success in facilitating stent delivery with <50%
+              residual stenosis and without severe angiographic complications) was achieved in 91.4%
+              (405/443) of subjects. Results were similar for the Pneumatic OAS and Electric OAS
+              versions of the device, with rates of 91.0% (312/343) and 93.0% (93/100) respectively.
+              Additional information on the primary effectiveness endpoint components is provided in
+              Table 17.
+
+        Table 17: Primary Effectiveness Endpoint Components
+                                 Criteria                                    Subjects
+        Subjects with study guide wire crossing lesion and OAD
+                                                                              N=440
+        inserted
+        Procedural Success                                               391/440 (88.9%)
+        Stent delivered
+        Yes                                                              430/440 (97.7%)
+        No                                                                10/440 (2.3%)
+        Residual stenosis (%)
+        < 50% Residual Stenosis                                          434/440 (98.6%)
+        ≥ 50% Residual Stenosis                                            6/440 (1.4%)
+        In hospital MACE
+        Yes                                                               43/440 (9.8%)
+        No                                                               397/440 (90.2%)
+
+
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                 Page 35
+            Cardiac Death
+            No                                                                        439/440 (99.8%)
+            Yes                                                                         1/440 (0.2%)
+            MI
+            No                                                                        399/440 (90.7%)
+            Yes                                                                        41/440 (9.3%)
+                                                  1
+            Target Vessel Revascularization
+            No                                                                        437/440 (99.3%)
+            Yes                                                                         3/440 (0.7%)
+            1
+                Includes Target Lesion Revascularizations
+
+                   Severe angiographic (defined as perforation, dissection type C-F, abrupt closure,
+                   persistent slow flow or no reflow), complications occurred at a rate of 7.2% (32/443
+                   subjects). Results were similar for the Pneumatic OAS and Electric OAS devices with a
+                   nominally lower rate for the Electric OAS (5.0% versus 7.9% for Pneumatic OAS).
+
+                   Procedural parameters identified as secondary endpoints are provided in Table 18.
+
+     Table 18: Procedural Parameters
+      Parameter                                                Pneumatic             Electric            Overall
+      Parameters per subject                                  Avg ± SE (N)         Avg ± SE (N)        Avg ± SE (N)
+      Mean OAD devices used per subject                       1.1 ± 0.0 (334)      1.0 ± 0.0 (98)     1.1 ± 0.0 (432)
+      Post-OAD/Pre-stent balloon dilation performed          43.2% (147/340)      34.0% (34/100)     41.1% (181/440)
+      Post-stent placement balloon dilation performed        52.9% (180/340)      47.0% (47/100)     51.6% (227/440)
+      Mean total procedure time (minutes)                    53.0 ± 1.7 (339)     50.5 ± 2.7 (100)    52.5 ± 1.4 (439)
+      Mean total OAD Run Time (seconds)                      69.7 ± 2.7 (333)      56.9 ± 2.7 (98)    66.8 ± 2.2 (431)
+      Mean total fluoroscopy time (minutes)                  18.4 ± 0.7 (336)     17.3 ± 1.1 (100)    18.2 ± 0.6 (436)
+      Mean total volume of contrast used (ml)                179.7 ± 4.9 (338)   154.6 ± 6.7 (100)   173.9 ± 4.1 (438)
+                                                                    1                    1
+      OAD Devices Used                                           m/n (%)             m/n (%)             m/n1 (%)
+            DB-C12-125                                       320/357 (89.6%)            N/A          320/457 (70.0%)
+            DB-C12-150                                        33/357 (9.2%)             N/A            33/457 (7.2%)
+            DB-C12-175                                         2/357 (0.6%)             N/A            2/457 (0.4%)
+            DB-C12-200                                         2/357 (0.6%)             N/A            2/457 (0.4%)
+            DB-EC-125                                              N/A            98/100 (98.0%)      98/457 (21.4%)
+            DB-EC-150                                              N/A             2/100 (2.0%)        2/457 (0.4%)
+      1
+          “m” = number of specific device model number used in the study “n” = overall number of devices in the study.
+
+        3. Subgroup Analyses
+           The preoperative characteristic of gender was evaluated for potential association with
+           outcomes. Thirty-day post-procedure MACE occurred in 31 out of 286 enrolled male
+           subjects and 15 out of 157 enrolled female subjects. The 30-day freedom from MACE
+PMA P130005: FDA Summary of Safety and Effectiveness Data                             Page 36
+             rate for males was 89.2%; and for females was 90.4%. No significant difference in 30-
+             day post-procedural MACE rates between males and females was detected (p = 0.6613
+             based on the univariate Cox proportional hazards regression analysis).
+
+             The procedural success rate for males was 88.4% (251/284) and for females was 89.7%
+             (140/156). No significant difference in the procedural success rate between males and
+             females was detected (p = 0.6639 based on the univariate logistic regression analysis).
+
+       E. Financial Disclosure
+
+          The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+          applicants who submit a marketing application to include certain information concerning the
+          compensation to, and financial interests and arrangement of, any clinical investigator
+          conducting clinical studies covered by the regulation. The pivotal clinical study included 274
+          investigators of which none were full-time or part-time employees of the sponsor and 9 had
+          disclosable financial interests/arrangements as defined in 21 CFR 54.2(a), (b), (c) and (f) and
+          described below:
+
+             •   Compensation to the investigator for conducting the study where the value could be
+                 influenced by the outcome of the study: none
+             •   Significant payment of other sorts: 6
+             •   Proprietary interest in the product tested held by the investigator: none
+             •   Significant equity interest held by investigator in sponsor of covered study: 3
+
+          The applicant has adequately disclosed the financial interest/arrangements with clinical
+          investigators. Statistical analyses were conducted by FDA to determine whether the financial
+          interests/arrangements had any impact on the clinical study outcome. The information
+          provided does not raise any questions about the reliability of the data.
+
+XI.    PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+        In accordance with the provisions of section 515(c)(2) of the act as amended by the Safe
+        Medical Devices Act of 1990, this PMA was not referred to the Circulatory System Devices
+        Panel, an FDA advisory committee, for review and recommendation because the information
+        in the PMA substantially duplicates information previously reviewed by this panel.
+
+XII.   CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+        A.   Effectiveness Conclusions
+
+             The pre-specified performance goal of 82% for the primary effectiveness endpoint was
+             met with 88.9% (95% CI of 85.5% - 91.6%) of the subjects having a stent successfully
+             delivered with < 50% residual stenosis without an in-hospital MACE event. The primary
+             effectiveness endpoint was still met under the worst-case scenario where all subjects with
+             missing primary effectiveness endpoint data or without post-procedural CK-MB and
+             troponin data were assumed as having procedural failures.
+
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                Page 37
+        B.   Safety Conclusions
+
+             The risks of the device are based on nonclinical laboratory and animal studies as well as
+             data collected in a clinical study conducted to support PMA approval as described above.
+             The pre-specified performance goal of 83% for the primary safety endpoint was met with
+             89.6% (95% CI of 86.7% – 92.5%) of the subjects free from MACE within 30 days post
+             index procedure. The primary safety endpoint was still met under the worst-case scenario
+             where all subjects with missing primary safety endpoint data or without post-procedural
+             CK-MB and troponin data were assumed as having 30-day MACE events. The risk of the
+             occurrence of a dissection and/or perforation was within an expected range for the
+             specific patient population that was studied in the ORBIT II clinical study.
+
+        C.   Benefit-Risk Conclusions
+
+             The probable benefits of the device are also based on data collected in a clinical study
+             conducted to support PMA approval as described above. The primary safety endpoint
+             was 89.6% freedom from 30-day major adverse cardiac events (MACE), compared to its
+             performance goal of 83%. The primary effectiveness endpoint (successful stent delivery
+             with residual stenosis < 50% post-stent without in-hospital MACE) was 88.9%,
+             compared to the performance goal of 82%. Stent delivery occurred successfully in 97.7%
+             and < 50% stenosis occurred in 98.6% of subjects. Using the OAS as a lesion preparation
+             tool prior to stent deployment may offer patients with severely calcified coronary lesions
+             an alternative treatment option for the treatment of severely calcified coronary lesions.
+
+             In conclusion, given the available information above, the data support that for facilitating
+             stent delivery in patients with coronary artery disease who are acceptable candidates for
+             PTCA or stenting due to de novo, severely calcified coronary artery lesions, the probable
+             benefits outweigh the probable risks.
+
+        D.   Overall Conclusions
+
+             The combination of preclinical and clinical experience with the DIAMONDBACK 360
+             Coronary Orbital Atherectomy System (OAS) supports the reasonable assurance of safety
+             and effectiveness of this device when used in accordance with the indications for use.
+
+             Preclinical bench testing was performed on the OAS in accordance with applicable
+             guidance documents and national and international standards. The testing confirmed that
+             the OAS met performance and design specifications.
+
+             Biocompatibility testing was performed on all applicable materials of the OAS in
+             accordance with the applicable international standards. All testing met the requirements
+             as specified in the applicable standard, ensuring the finished device is biocompatible.
+
+             Sterilization, packaging, and shelf life testing were performed on the OAS as applicable.
+             The testing demonstrated that the orbital atherectomy device (OAD) and guide wire
+             maintain a Sterility Assurance Level of 10-6. The results of shelf life testing confirmed
+             that the OAD, guide wire, and ViperSlide maintain functionality and packaging integrity
+
+PMA P130005: FDA Summary of Safety and Effectiveness Data                                Page 38
+              throughout a 2 year shelf life. The Saline Infusion Pump is reusable and has an operating
+              life of at least 875 hours.
+
+              The performance goals for both the primary safety and effectiveness endpoints were met,
+              demonstrating the safety and effectiveness of the DIAMONDBACK 360 Coronary OAS
+              in treating severely calcified coronary lesions, lesions that are difficult to treat and
+              typically excluded from clinical studies. The primary results were confirmed by
+              additional supportive and sensitivity analyses and results were clinically acceptable in the
+              patient population studied. Therefore, the data in the PMA application provide reasonable
+              assurance of safety and effectiveness of this device when used in accordance with the
+              indications for use.
+
+XIII.   CDRH DECISION
+
+         CDRH issued an approval order on October 21, 2013.
+
+         The applicant’s manufacturing facilities have been inspected and found to be in compliance
+         with the device Quality System (QS) regulation (21 CFR 820).
+
+XIV.    APPROVAL SPECIFICATIONS
+
+         Directions for use: See device labeling.
+
+         Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+         Precautions, and Adverse Events in the device labeling.
+
+         Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+ PMA P130005: FDA Summary of Safety and Effectiveness Data                                Page 39
+

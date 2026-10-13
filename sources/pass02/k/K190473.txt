@@ -1,0 +1,426 @@
+                                                        September 13, 2019
+
+ACIST Medical Systems, Inc.
+Sherri Mellingen
+Principal Regulatory Affairs Specialist
+7905 Fuller Road
+Eden Prairie, Minnesota 55344
+
+Re: K190473
+    Trade/Device Name: ACIST Rapid Exchange (RXi) System and Navvus II MicroCatheter
+    Regulation Number: 21 CFR 870.2870
+    Regulation Name: Catheter Tip Pressure Transducer
+    Regulatory Class: Class II
+    Product Code: DXO, OBI
+    Dated: August 13, 2019
+    Received: August 14, 2019
+
+Dear Sherri Mellingen:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.04.07
+Silver Spring, MD 20993
+www.fda.gov
+K190473 - Sherri Mellingen                                                                           Page 2
+
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+                                                 Stephen C. Browning -S5
+                                                Stephen Browning
+                                                Assistant Director
+                                                Division of Cardiac Electrophysiology, Diagnostics
+                                                  and Monitoring Devices
+                                                Office of Cardiovascular Devices
+                                                Office of Product Evaluation and Quality
+                                                Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2020
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K190473
+
+Device Name
+ACIST Rapid Exchange (RXi) System and Navvus II MicroCatheter
+
+
+
+Indications for Use (Describe)
+The ACIST RXi System is indicated for obtaining intravascular pressure measurements for use in the diagnosis and
+treatment of coronary and peripheral artery disease. The ACIST Navvus II MicroCatheter is intended for use with the
+ACIST RXi System
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (7/17)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                                                        K190473
+
+                                                               Premarket Notification – Traditional 510(k)
+
+                                                                        RXi System and Navvus II Catheter
+
+
+
+510(k) Summary
+
+
+Date Prepared: 2/26/2019
+Submitters Name / Contact Person
+           510k Submitter Address                         Contact for Official/Routine Correspondence
+                ACIST Medical                                            Sherri Mellingen
+               7905 Fuller Road                                Senior Regulatory Affairs Specialist
+            Eden Prairie, MN 55344                                       7905 Fuller Road
+           Phone – (952) 995 – 9300                                  Eden Prairie, MN 55344
+                                                                     Phone – (952) 995 – 9381
+                                                            Email: sherri.mellingen@acistmedical.com
+
+
+                                      General Information
+ Trade Name:                    ACIST Rapid Exchange (RXi) System and Navvus II MicroCatheter
+ Common / Usual Name:           Cardiovascular Pressure Measurement System and Navvus Catheter
+ Classification:                Class 2 per 21 CFR 870.2870
+ Product Code:                  OBI, DXO
+ Predicate Device:              ACIST RXi® System and Navvus Catheter
+
+
+Device Description
+    1. Navvus II
+The ACIST Navvus II MicroCatheter is a single-lumen monorail catheter designed to be used with
+standard 0.014 in (0.36 mm) guidewires in the arterial vasculature. The MicroCatheter is compatible with
+the ACIST RXi family of system hardware which includes the RXi System and RXi Mini. Features
+unique to each system are denoted specifically.
+
+The Navvus II MicroCatheter distal shaft is 26 cm in length with a pressure sensor located 5 mm from the
+distal tip. The elliptical distal shaft is 1.68 x 1.91F (0.020 in x 0.025 in) up to 10 mm from the distal tip; a
+maximum profile of 2.7F (0.036 in) occurs at the pressure sensor. The distal shaft smoothly tapers over
+the pressure sensor and down to the tip accepting the guidewire. A radiopaque marker band is located 2.5
+mm from the distal tip.
+
+The shaft proximal to the monorail section is 2.4F, allowing use in 5F or larger guide catheters. Two
+white positioning markers are located at 80 cm and 100 cm from the distal tip. The pressure sensor on the
+catheter utilizes optical sensing technology. Both the optical pressure signal and information for auto
+calibration are transmitted from the catheter to the RXi hardware.
+
+
+
+                                                                                                        Page 1 of 6
+                                                                                                       K190473
+
+                                                              Premarket Notification – Traditional 510(k)
+
+                                                                       RXi System and Navvus II Catheter
+
+
+
+    2. RXi System
+
+The ACIST RXi System is designed to provide hemodynamic information for the diagnosis and treatment
+of coronary and peripheral artery disease. The system is intended for use in catheterization and related
+cardiovascular specialty laboratories to compute and display fractional flow reserve (FFR) and resting
+Pd/Pa.
+FFR and resting Pd/Pa supplement the visual data provided by angiography and provides an assessment
+of the lesion severity.
+Measurement of FFR and resting Pd/Pa requires simultaneously monitoring the blood pressures proximal
+and distal to a lesion. The ACIST RXi System includes a single-use MicroCatheter with a pressure sensor
+for acquisition of the distal pressure. The proximal pressure is acquired via the guide catheter which is
+monitored by the ACIST RXi System via an interface to the hospital’s hemodynamic monitor.
+Pd/Pa is the ratio of distal coronary arterial pressure to aortic pressure, measured at resting conditions. The
+physician may then use the resting Pd/Pa value, along with knowledge of patient history, medical expertise
+and clinical judgment to determine if an additional measurement of FFR during hyperemia or therapeutic
+intervention is indicated.
+
+
+Intended Use / Indications
+The ACIST RXi System is indicated for obtaining intravascular pressure measurements for use in the
+diagnosis and treatment of coronary and peripheral artery disease. The ACIST Navvus II MicroCatheter is
+intended for use with the ACIST RXi System.
+
+
+Comparison of Technological Characteristics
+The RXi System is identical to the predicate as there have been no design changes since the device was
+originally cleared. The Pd/Pa function has always existed on the device as this change is simply to include
+it in the labeling. The Navvus II differs from the predicate device with regard to the tip OD (0.06mm
+difference) and the distance from the distal end of the sensor to the marker band (0.10 difference). Design
+verification testing demonstrated that these two small differences did not affect the performance of the
+device and that the subject device and the predicate device were substantially equivalent. The Navvus II
+Catheter is substantially equivalent to the legally marketed predicate device in design, intended use,
+intended population, principles of use, materials, size and sterility.
+
+
+
+
+                                                                                                      Page 2 of 6
+                                                                                                   K190473
+
+                                                           Premarket Notification – Traditional 510(k)
+
+                                                                    RXi System and Navvus II Catheter
+
+
+
+
+                                 Table 1: Comparison with Predicate
+                         Subject Device                 Predicate Device              Comparison of
+                                                                                     K132474 to Subject
+                                                                                          Device
+510(k) #                       TBD                       K132474
+Intended Use /      The ACIST RXi System is indicated for obtaining                        Same
+Indications         intravascular pressure measurements for use in the
+                    diagnosis and treatment of coronary and peripheral artery
+                    disease. The ACIST Navvus MicroCatheter is intended for
+                    use with the entire family of ACIST RXi Systems.
+
+Principles of Use   Calculates FFR and Pd/Pa based on simultaneous                         Same
+                    acquisition of pressure from two transducers:
+                        •     The flexible distal tip of the catheter that
+                             contains the optical pressure sensor is advanced
+                             over the proximal end of the 0.014 in (0.36 mm)
+                             guidewire that is already in place in the distal
+                             vasculature.
+                        •     The Navvus catheter is advanced over the wire
+                             and positioned with the radiopaque marker in the
+                             coronary ostium, 3 mm outside the tip of the
+                             guide catheter.
+                        •     Equalization must take place with the Navvus
+                             Catheter distal tip just outside the tip of the guide
+                             catheter. Pressure is measured less than 3 mm
+                             proximal from the marker band visible under
+                             fluoroscopy.
+                        • The guide catheter is flushed with saline solution.
+                             Then the Navvus Catheter sensor is advanced
+                             past the lesion under study.
+Display Features    Navvus distal (Pd) and proximal/aortic (Pa) pressure,                  Same
+                    Pd/Pa, and FFR
+Intended                                                                                   Same
+Anatomical                     Coronary and peripheral vasculature
+Location
+Configuration       Navvus Catheter is a 0.022” catheter with and integrated               Same
+                    pressure sensor that is used in the real-time calculation of
+                       FFR and Pd/Pa together with a detachable cable for
+                              connection to a diagnostic computer.
+Coating                                         No                                          Same
+Marker Band?                      Yes – 2.5mm from distal tip                               Same
+Maximum Tip          Tip OD 0.75mm MAX               Tip OD 0.69mm MAX                 Differs 0.06mm
+OD
+
+
+
+
+                                                                                                  Page 3 of 6
+                                                                                                          K190473
+
+                                                                   Premarket Notification – Traditional 510(k)
+
+                                                                          RXi System and Navvus II Catheter
+
+
+
+                                        Table 1: Comparison with Predicate
+                                 Subject Device               Predicate Device             Comparison of
+                                                                                          K132474 to Subject
+                                                                                                Device
+      Distal End of          2.31+/- 0.25mm             2.41+/- 0.25mm                    Differs by 0.10mm
+      Sensor to
+      Markerband
+      Effective                                                                                  Same
+                                               145 cm to 155 cm
+      (Working) Length
+      Compatible                                                                                 Same
+      Guidewire                                      0.014”
+      Diameter (max)
+      Single use, sterile?                             Yes                                       Same
+      Sterilization                               Ethylene Oxide                                 Same
+      method
+      Intended                  This product is designed for use in adult patients               Same
+      Population               identified by a physician as suitable candidates for
+                                 vascular pressure measurement after taking into
+                              consideration the patient’s anatomy and health status.
+
+
+Non-Clinical Bench Testing
+The following non-clinical bench testing was completed on the Navvus II MicroCatheter:
+Dimensional and Visual Inspections                   Durability
+Static Accuracy                                      Tensile Strength
+Tortuous Path
+
+
+Pd/Pa Clinical Post-Market Analysis and Supported Literature
+The expected FFR value in a normal vessel without a stenotic lesion or obstruction to blood flow is a
+value of 1.0. Based on clinical evidence, a threshold or cutpoint value of ≤ 0.80 is commonly considered
+for treatment with a therapeutic intervention, while a value > 0.80 is commonly considered for deferment.
+An established, clinically evident Pd/Pa threshold or cutpoint such as this is indeterminate, but guidance
+for use of Pd/Pa for clinical decision making may be considered by referring to the existing, supportive
+clinical evidence from multiple diagnostic accuracy studies performed on resting Pd/Pa.
+A recent meta-analysis was reported by Maini et al., based on published resting Pd/Pa diagnostic accuracy
+studies2 which examined the overall diagnostic accuracy of Pd/Pa compared to FFR. The meta-analysis
+reported on 14 studies with an optimal cutpoint ranging from 0.875 to 0.96 and resulted in cutpoints from
+0.91 to 0.93 in 12 of the 14 studies in the meta-analysis.
+The ACIST-FFR Pd/Pa Post-hoc Sub-Group Analysis1 identified an optimal cutpoint of 0.91. The
+cutpoint was derived from a post-hoc receiver operating characteristic (ROC) curve analysis using an FFR
+cutoff value of ≤0.80 measured with the Navvus MicroCatheter to define stenosis. The 0.91 cutpoint is
+within the range of 0.91 to 0.93 as was reported in 12 of the 14 studies in the Maini et al., meta-analysis.
+
+
+                                                                                                         Page 4 of 6
+                                                                                                K190473
+
+                                                         Premarket Notification – Traditional 510(k)
+
+                                                                RXi System and Navvus II Catheter
+
+
+
+Standards
+The following is a summary of the standards used in testing for the RXi System and Navvus II
+MicroCatheter:
+
+                        Table 3: Standards used in non-clinical bench testing
+                 Test                       Industry Standards           FDA Recognition Number,
+                                                                              Version and Date
+ Design Verification                 EN ISO 13485:2016, Medical Not recognized by FDA
+                                     Devices, Quality Management
+                                     Systems
+ Device Performance                  EN ISO 13485:2016, Medical Not recognized by FDA
+                                     Devices, Quality Management
+                                     Systems
+
+                                     ISO 10555-1, Sterile and Single      6-301
+                                     Use     Intravascular    Catheters   8/14/2015
+                                     General Requirements
+ Risk Management                     EN ISO 14971, Application of         5-40
+                                     Risk Management to Medical           6/27/2016
+                                     Devices
+ Medical Electrical Equipment        IEC 60601-1-2:2014, Medical          19-8
+                                     Electrical Equipment                 9/17/2018
+ Animal Model                        FDA 21 CFR: Part 58 Good             N/A
+                                     Laboratory Practice Regulations
+ Packaging & Shelf Life              ISO 11607-1:2006/2010, 11607-        14-454, 14-455
+                                     2:2006 Packaging for Sterilized      1/27/2015
+                                     Medical Devices
+ Biocompatibility                    ISO 10993-1: 2009 Biological         2-220
+                                     Evaluation of Medical Devices        7/26/2016
+ Sterilization                       ISO 11135:2014 Medical Devices       14-452
+                                     – Validation of Routine Control of   4/4/2016
+                                     Ethylene Oxide Sterilization
+
+
+
+
+Product Codes
+The following product codes are similar to the predicate and subject device (product code OBI) as the
+devices are classified in accordance with regulation 870.1200: DQO, NLI, NUI, OBJ, OES, OEZ, OFN,
+OGZ, ORD. The secondary product code, DXO, is regulated in accordance with regulation 870.2870 and
+has no similar product codes.
+
+
+
+
+                                                                                               Page 5 of 6
+                                                                                                                             K190473
+
+                                                                            Premarket Notification – Traditional 510(k)
+
+                                                                                      RXi System and Navvus II Catheter
+
+
+
+Substantial Equivalence
+Results of design verification testing on the Navvus II MicroCatheter demonstrate that the device is
+substantially equivalent to the predicate device. The subject device has been evaluated through bench
+testing. All test results met documented acceptance criteria and demonstrated the Navvus II MicroCatheter
+is substantially equivalent to the predicate device. Finally, the ACIST-FFR Pd/Pa Sub-Group Post-Hoc
+Analysis, in which all pressure tracings were acquired by the ACIST Navvus MicroCatheter, gave additional
+information on the clinical use of Pd/Pa and provided further information as compared to the cutpoint range
+presented in the Maini meta-analysis.
+
+
+
+
+1 Thackery, Lisa., Rorke, Becky., Larson, Janet A., Pd/Pa, Sub-Group, Post-hoc analysis of data from the ACIST-FFR clinical
+
+study which assessed catheter-based interrogation and standard techniques for Fractional Flow Reserve Measurement. Original
+data set analysis published in: Circ Cardiovasc Interv. 2017 Dec; 10 (12). e005905
+2 Maini R, Moscona J, Sidhu G, et al. Pooled diagnostic accuracy of resting distal to aortic coronary pressure referenced to fractional
+
+flow reserve: The importance of resting coronary physiology. Journal of Interventional Cardiology. 2018;31(5):588-598.
+doi:10.1111/joic.12517.
+3 Ligthart Jurgen, Masdjedi Kaneshka, Witberg Karen, et al. Validation of Resting Diastolic Pressure Ratio Calculated by a Novel
+
+Algorithm and Its Correlation With Distal Coronary Artery Pressure to Aortic Pressure, Instantaneous Wave–Free Ratio, and
+Fractional      Flow        Reserve.       Circulation:     Cardiovascular       Interventions.      2018;11(12):e006911.
+doi:10.1161/CIRCINTERVENTIONS.118.006911.
+
+
+
+
+                                                                                                                            Page 6 of 6
+

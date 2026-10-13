@@ -1,0 +1,26 @@
+[
+ {
+  "pass": 2,
+  "model": "ROTAPRO",
+  "field": "fda_submission",
+  "existing": "P900056",
+  "candidate": "K220962",
+  "source": "FDA 510(k) K220962 \"ROTAPRO\" (also P900056 per GUDID); https://www.accessdata.fda.gov/cdrh_docs/pdf22/K220962.pdf"
+ },
+ {
+  "pass": 2,
+  "model": "Telescope",
+  "field": "fda_submission",
+  "existing": "K183353",
+  "candidate": "K252390",
+  "source": "FDA 510(k) DB K183353 (2019) and K252390 (2025) \"Telescope Guide Extension Catheter\"; https://www.accessdata.fda.gov/cdrh_docs/pdf18/K183353.pdf"
+ },
+ {
+  "pass": 2,
+  "model": "Dragonfly OpStar",
+  "field": "modality",
+  "existing": "OCT",
+  "candidate": "OCT (near-infrared, rotating fiber-optic core)",
+  "source": "FDA 510(k) summary K230411 \u2014 K230411 p.4; https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230411.pdf"
+ }
+]

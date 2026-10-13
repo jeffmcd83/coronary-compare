@@ -1,0 +1,967 @@
+         SUMMARY OF SAFETY AND EFFECTIVENESS DATA
+
+I.      GENERAL INFORMATION
+
+Device Generic Name:                   Cutting/scoring percutaneous transluminal coronary
+                                       angioplasty catheter
+
+Device Trade Name:                     AngioSculpt® Scoring Balloon Catheter
+
+Applicant's Name and Address:          AngioScore, Inc.
+                                       5055 Brandin Court
+                                       Fremont, CA 94538
+
+Premarket Approval
+Application (PMA) Number:              P050018
+
+Date of Panel Recommendation:          None
+
+Date of Notice of Approval
+To Applicant:                          January 8, 2007
+
+II.    INDICATIONS FOR USE
+The AngioSculpt® Scoring Balloon Catheter is indicated for the treatment of
+hemodynamically significant coronary artery stenosis, including in-stent restenosis and
+complex type C lesions, for the purpose of improving myocardial perfusion.
+
+III. CONTRAINDICATIONS
+The AngioSculpt catheter should not be used in:
+    * coronary artery lesions unsuitable for treatment by percutaneous revascularization
+    • coronary artery spasm in the absence of a significant stenosis.
+
+IV.    WARNINGS AND PRECAUTIONS
+Please refer to the device labeling for a list of warnings and precautions.
+
+V.     DEVICE DESCRIPTION
+The AngioSculpt® Scoring Balloon Catheter is a standard PTCA catheter with a scoring
+balloon near the distal tip. The balloon is designed to expand to a specified diameter and
+length at a specified pressure. The distal end of the catheter has a conventional nylon-
+blend balloon and a nitinol scoring element with three spiral struts that wrap around the
+balloon. The struts create focal concentrations of dilating force, which minimizes balloon
+slippage and assists in the luminal expansion of stenotic arteries. Conventional
+radiopaque markers aid in positioning the balloon in the stenosis.
+
+
+
+P050018                                                                       Page 1 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+The product is offered in over-the-wire (OTW) and easy exchange (EX) delivery
+platforms and is available in balloon diameters of 2.0 -3.5 mm in 0.5 mm increments,
+and in scoring balloon lengths of 10, 15 and 20 mm. The catheter length is
+approximately 137 cm and is compatible with 0.014-inch guide wires and 6F guide
+catheters. The catheter is supplied sterile and is intended for a single use.
+
+VI.      ALTERNATIVE PRACTICE AND PROCEDURES
+Alternative treatments for coronary artery disease include medical therapy, atherectomy,
+laser, stent, endarterectomy, bypass graft (CABG) surgery and other commercially
+available PTCA catheters.
+
+VII.     MARKETING HISTORY
+AngioScore, Inc. obtained CE Mark certification in September 2004 for its Interventional
+Cardiology Devices and Accessories, including the AngioSculpt catheter. The device has
+been commercialized in the United Kingdom, Italy, Spain, and Israel.
+
+The AngioSculpt catheter has not been withdrawn from any country for reasons relating
+to device safety and effectiveness.
+
+VIII.    SUMMARY OF NON-CLINICAL STUDIES
+The AngioSculpt catheter has been evaluated in accordance with FDA's Guidance for the
+Submission of Research and Marketing Applications for Interventional Cardiology
+Devices, consultations with FDA, and relevant industry standards.
+
+A. Biocompatibility Testing
+   The materials used in the AngioSculpt catheter have a proven history of safe use in
+   commercially available interventional cardiology devices. Table 1 summarizes
+   confirmatory, GLP biocompatibility testing that was conducted on representative
+   samples of finished, sterilized AngioSculpt catheters. The product is categorized as
+   an "external communicating device in contact with circulating blood with limited
+   exposure time".
+
+      All biocompatibility testing was conducted in accordance with:
+         *   FDA's Guidance for the Submission of Research and Marketing Applications
+             for Interventional Cardiology Devices; May 1995.
+
+         *   ISO 10993-1: "Biological evaluation of medical devices - Part 1: Evaluation
+             and testing."
+
+         *   FDA's Use of International Standard ISO-10993, 'Biological Evaluation of
+             Medical Devices Part 1: Evaluation and Testing'; 1995 Bluebook
+             Memorandum.
+
+
+
+P050018                                                                      Page 2 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+                                                                                    Q
+                             Table 1: Biocompatibility Test Summary
+                                        Test Perfomed                              Results
+Cytotoxicity            ISO 10993-5: In Vitro Cytotoxicity (L929 MEM   Pass; non-cytotoxic
+                     Elution Method)
+                     ISO 10993-10: Guinea Pig Maximization             Pass; non-sensitizing
+Sensitization Pass;hod-estzn
+                     Method
+Intracutaineous         ISO 10993-10: Irritation (Rabbit)              Pass; non-irritating
+Reactivity
+Acute Systemic          ISO 10993-11: Acute Systemic Injection         Pass; no evidence of systemic
+Toxicity                (Mouse)                                        toxicity
+Materials-        ISO 10993-11 & USP <26>: Material Mediated           Pass; non-pyrogenic (material-
+Mediated          Pyrogenicity (Rabbit)                                mediated)
+Pyrogenicity
+Hemocompatibility
+  H-lemolysis /         ISO 10993-4: NIH Direct Contact Method         Pass; non-hemolytic
+  Hematology
+                     ISO 10993-4: In Vitro Partial Thromboplastin      Pass; same as negative control
+                     Time (PTT)
+  TthrombogenicitySlgtyhhe
+                     ISO 10993-4: In Vivo Thrombogenicity (Beagle      Slightly higher
+                     Dogs; 4-Hours)                                    thrombogenicity potential than
+                                                                       control*
+  Complement          IS0 10993-4: In Vitro C3a & SC5b-9               Pass; comparable to currently
+  Activation        I__                                                marketed stent device
+*Maximum thrombus scores in the AngioSculpt catheter and the control, a currently marketed device, were
+the same (grade I out of 4).
+
+    The test results confirm that the AngioSculpt finished device materials are not likely
+    to provoke an adverse biological response when used as intended in direct blood
+    contact for a limited duration.
+
+B. In Vitro Engineering Testing
+    In vitro engineering bench testing of the AngioSculpt catheter was conducted to
+    verify that the design outputs meet the design requirements and to confirm the safety
+    and performance of the product from a non-clinical testing perspective.
+
+    Testing was performed, as applicable, in compliance with:
+          *       FDA's Guidance for the Submission of Research and Marketing Applications
+                  for Interventional Cardiology Devices: PTCA Catheters, Atherectomy
+                  Catheters, Lasers and Intravascular Stents; 1995 draft.
+
+          •       FDA's Guidance: Non-Clinical Tests and Recommended Labeling for
+                  Intravascular Stents and Associated Delivery Systems - Guidance for Industry
+                  and FDA Staff; January 2005.
+
+          *       Relevant industry standards.
+
+
+
+
+P050018                                                                                  Page 3 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+                                                                                                I0
+          Table 2 provides a summary of the mechanical performance bench testing conducted
+          on the AngioSculpt catheter.
+
+                        Table 2: Mechanical Performance Bench Test Summary
+
+         Test                                 Description of Test & Test Articles                         Conclusion
+
+Balloon Rated Burst      Testing was performed on AngioSculpt catheters (sizes representative of the      Pass
+Pressure                 available product) to establish the rated burst pressure (RPB). The results
+                         demonstrated with 95% confidence that at least 99.9% of the balloons will not
+                         experience loss of integrity at or below the labeled RBP.
+
+Balloon Inflation and    Testing was performed on AngioSculpt catheters to verify that the balloon        Pass
+Deflation                inflates and deflates within a specified time. All samples tested met
+                         specifications with 95% confidence and 90% reliability.
+
+Balloon and Scoring      AngioSculpt catheters were subjected to 20 consecutive inflation cycles to the   Pass
+Element Fatigue          RBP. The results demonstrated with 95% confidence that at least 90% of the
+                         catheters can sustain 20 consecutive inflation cycles to the RBP without
+                         failure.
+                         A Finite Element Analysis was performed to determine the stress/strain levels
+                         of the spiral wires. Results of the FEA confirm that a mechanical failure is
+                         not likely to occur as a result of over-stress.
+
+Diameter vs.             Testing was performed on AngioSculpt catheters to determine how the              Pass
+Inflation Pressure       diameter of a balloon varies with applied inflation pressure. The results were
+(Balloon Compliance)     used to establish the labeled compliance values.
+
+Catheter Body            AngioSculpt catheters were inflated above RBP when tested for balloon burst.     Pass
+Integrity                No catheter body failures were observed in any of the cases.
+
+Bond Strength of         Testing was performed on AngioSculpt catheters to ensure that all bond joints    Pass
+Catheter                 on the catheter would meet tensile strength specifications. All bonds tested
+                         met specifications with 95% confidence and 95% reliability.
+
+Scoring Element          Testing was performed on AngioSculpt catheters to ensure that scoring            Pass
+Bond Strength            element to catheter bonds would meet tensile strength specifications. All
+                         bonds tested met specifications with 95% confidence and 95% reliability.
+
+Tip Pull Strength        Testing was performed on AngioSculpt catheters to demonstrate that the           Pass
+                         catheter soft tip bond would meet tensile strength specifications. All bonds
+                         tested met specifications with 95% confidence and 95% reliability.
+
+Crossing Profile         Testing was performed on AngioSculpt catheters to determine the scoring          Pass
+                         balloon profile. All samples tested met specifications with at least 95%
+                         confidence and 90% reliability.
+
+
+
+
+     P050018                                                                                      Page 4 of 19
+     Summary of Safety and Effectiveness Data (SSED)
+     AngioSculpt® Scoring Balloon Catheter
+         Test                                 Description of Test & Test Articles                          Conclusion
+
+Trackability and         Testing was performed on AngioSculpt catheters to demonstrate that the            Pass
+Pushability              AngioSculpt catheter could track simulated anatomical curves with a
+                         reasonable push force. Results demonstrated that the average peak tracking
+                         forces for the AngloSculpt catheter were lower than for other similar
+                         commercially-available devices.
+
+Over-the-arch torque     Testing was performed on AngioSculpt catheters to assess the ability of the       Pass
+strength                 AngioSculpt catheter to withstand over-the-arch torque when the distal tip is
+                         not free to rotate. All samples tested met specifications with at least 90%
+                         confidence and 90% reliability.
+
+Freedom from             Testing was performed on AngioSculpt catheters to verify that the scoring         Pass
+Interference             element would not interfere with implanted stents, using a bench model of
+                         under-deployed stents in a simulated tortuous anatomy. Results demonstrated
+                         freedom from interference with under-deployed stents with 95% confidence
+                         and 95% reliability.
+
+Secure Edges             Testing performed on AngioSculpt catheters demonstrated that the scoring          Pass
+                         element is secured to the catheter without free edges that might interfere with
+                         a guiding catheter during retraction. No interference with the guide catheter
+                         was observed in mechanical performance, in vivo simulated use (human
+                         cadaver and porcine studies) and clinical studies.
+
+Radiopacity              Radiopacity of the AngioSculpt catheter Pt/Ir markers verified during cadaver,    Pass
+                         animal, and clinical studies showed that the catheter is visible when used as
+                         intended in clinical applications.
+
+Catheter Effect on       Testing was performed to determine the effect of the AngioSculpt catheter on      Pass
+Coating Integrity of     the coating integrity of drug-eluting stents. No significant differences were
+Drug Eluting Stents      observed in the observed defect rate compared to the control group (untreated
+                         stents).
+
+Catheter Effect on       Testing was performed to determine the effect of the AngioSculpt catheter on      Pass
+Structural Integrity     the integrity of stent struts. Results demonstrated that use of the AngioSculpt
+of Implantable Stents    device resulted in no damage to stent struts or structure, with 95% confidence
+                         and at least 99% reliability.
+
+Catheter                 AngioSculpt catheters were dimensionally inspected, visually inspected, and       Pass
+Preparation, Visual      subjected to inflation and catheter body integrity tests. All units met
+and Dimensional          specifications.
+Verification
+
+
+     C. Shelf Life, Packaging, and Sterilization Testing
+
+         Package testing was completed to evaluate the effects of distribution, handling and
+         storage on the AngioSculpt catheter device and package configuration.
+
+         The package and shelf life testing complied with requirements in:
+
+                ·   ISO 11607:2003E "Packaging for terminally sterilized medical devices."
+
+
+     P050018                                                                                       Page 5 of 19
+     Summary of Safety and Effectiveness Data (SSED)
+     AngioSculpt® Scoring Balloon Catheter
+
+                                                                                                     \Z
+                    *   ASTM F1980-02 "Standard Guide for Accelerated Aging of Sterile Medical
+                        Device Packages."
+                    *   ASTM F2097-01 "Standard Guide for Design and Evaluation of Primary
+                        Packaging for Medical Products."
+
+                 Results from testing conducted on finished product which was aged for at least one
+                 year demonstrate the robustness of the AngioSculpt product and packaging, and
+                 support a one (1) year shelf life.
+
+                 The AngioSculpt catheter is sterilized using a validated gaseous ethylene oxide (EO)
+                 sterilization process that provides a sterility assurance level (SAL) of at least 10-6 .
+                 The device is labeled for single use only. EO residuals have been demonstrated
+                 through testing to be within acceptable limits, as described in ISO 10993-7: 1995 (R)
+                 2001, "Biological Evaluation of Medical Devices - Part 7: Ethylene Oxide
+                 Sterilization Residuals."
+
+           D. In Vivo Simulated Use Testing
+                 Testing in human cadaver and animal models demonstrated that the AngioSculpt
+                 catheter was appropriate for human clinical evaluation. A summary of in vivo
+                 simulated use testing conducted on the AngioSculpt catheter is provided in Table 3.
+
+                                                 Table 3: Simulated Use Tests
+
+          Test                                                           Summary
+Human Cadaver            Performance of the AngioSculpt catheter was evaluated in severely diseased amputated human legs.
+Testing                  All lesions were successfully treated with resultant residual diameter stenosis of <10%. Pre- and post-
+                         angiograms and IVUS images revealed no significant dissections and no perforations at the site of
+                          AngioSculpt catheter treatment. Most lesions yielded at low device inflation pressures (4-6
+                          atmospheres). Gross and histopathology confirmed the absence of vessel perforation or other
+                          unexpected injury.
+
+Porcine Native            The AngioSculpt catheter was tested in normal porcine coronary arteries to evaluate device
+Vessel Deliverability     deliverability and safety. Using standard interventional techniques the AngioSculpt catheter was
+Studies                   deployed at several sites in multiple coronary arteries of several animals. The device was successfully
+                         delivered to proximal, mid and distal locations in each coronary artery attempted. Device integrity
+                         was maintained throughout the procedures. Post-procedural coronary angiography revealed no
+                          evidence of dissection, perforation, spasm or distal embolization for all locations treated.
+
+
+
+
+          P050018                                                                                         Page 6 of 19
+          Summary of Safety and Effectiveness Data (SSED)
+          AngioSculpt® Scoring Balloon Catheter
+                                                                                                              '3
+       Test                                                          Summary
+
+Porcine ISR Studies    The AngioSculpt catheter was tested in acute and chronic (- 4 week) porcine coronary artery balloon
+                       overstretch/stent injury models to evaluate device performance in an accepted porcine coronary artery
+                       model of in-stent restenosis. Acceptable residual diameter stenosis was demonstrated by angiography
+                       immediately following AngioSculpt treatment. Post-treatment IVUS demonstrated significant
+                       improvement in luminal dimensions with "scoring" marks visible consistent with the geometry of the
+                       nitinol wires of the device. No dissections or vessel perforations were revealed on coronary
+                       angiography or intravascular ultrasound. No animals suffered any complications, hemodynamic
+                       instability or unexpected death during the procedure. No device "slippage" was observed during any
+                       AngioScore catheter treatment.
+                       Histopathologic evaluation of treated segments from animals sacrificed immediately after the
+                       treatment demonstrated clear-cut neointimal "scoring" marks at the presumed sites of nitinol wire
+                       impact with no evidence of vessel wall perforation.
+                       Approximately 28 days post AngioSculpt treatment, the angiographic data showed no signs of
+                       detectable dissection, vessel perforation, distal embolization, thrombus formation, aneurysm
+                       formation, filling defects, or other adverse cardiac events. The 28-day histology showed low injury
+                       scores and mild to moderate intimal response to AngioSculpt catheter treatment; the results were
+                       similar to that of balloon angioplasty or stenting.
+
+
+        IX.       POTENTIAL ADVERSE EVENTS
+        A. Potential Adverse Events
+              Adverse events which may be associated with balloon angioplasty, including the use
+              of a balloon with a scoring element, may include:
+
+       *   Death                                             *   Thromboembolism or retained device components
+       •   Heart Attack (acute myocardial infarction)        *   Irregular heart rhythm (arrhythmias, including life-
+       *   Total occlusion of the treated coronary artery        threatening ventricular arrhythmias)
+       *   Coronary artery dissection, perforation,          *   Severe low (hypotension)/high (hypertension)
+           rupture, or injury                                    blood pressure
+       *   Pericardial tamponade                             *   Coronary artery spasm
+       *   No/slow reflow of treated vessel                  *   Hemorrhage or hematoma
+       *   Emergency coronary artery bypass (CABG)           *   Need for blood transfusion
+       *   Emergency percutaneous coronary                   *   Surgical repair of vascular access site
+           intervention                                      *   Creation of a pathway for blood flow between the
+       *   CVA/stroke                                            artery and the vein in the groin (arteriovenous
+       *   Pseudoaneurysm                                        fistula)
+       *   Restenosis of the dilated vessel                  *   Drug reactions, allergic reactions to x-ray dye
+       *   Unstable angina                                       (contrast medium)
+                                                             ·   Infection
+
+        B. Observed Adverse Events
+              A total of 200 patients were enrolled in the AngioSculpt catheter pivotal IDE clinical
+              trial, a prospective, multi-center, non-randomized, single-arm study. The primary
+              objective of the study was to evaluate safety and efficacy of the AngioSculpt catheter
+              in a wide range of coronary artery lesions in both native vessels and following in-
+              stent restenosis (ISR).
+
+        P050018                                                                                     Page 7 of 19
+        Summary of Safety and Effectiveness Data (SSED)
+        AngioSculpt® Scoring Balloon Catheter
+     Table 4 provides a summary of the Major Adverse Cardiac Events (MACE) observed
+     in the AngioSculpt catheter multi-center IDE study, as determined by the Clinical
+     Events Committee (CEC). MACE was defined as death, Q wave or non-Q wave
+     myocardial infarction (MI) or target lesion revascularization (TLR).
+
+
+                                                     Aggregate         95% C.I.
+                                                    % of patients
+In-Hospital Complications                        (      ofptents
+                                                 (number of events)
+MACE (Death, MI, TLR)                               1.5% (3/200)      (0.3%, 4.3%)
+        Death                                       0.0% (0/200)      (0.0%, 1.8%)
+        MI (Q or Non-Q wave)                        1.5% (3/200)      (0.3%, 4.3%)
+                 Q wave MI                          0.5% (1/200)      (0.0%, 2.8%)
+                 Non-Q wave MI*                     1.0% (2/200)      (0.1%, 3.6%)
+        Target Lesions Revascularization (TLR)      0.0% (0/200)      (0.0%, 1.8%)
+                 TLR PTCA                           0.0% (0/200)      (0.0%, 1.8%)
+                 TLR CABG                           0.0% (0/200)      (0.0%, 1.8%)
+Target Vessel Revascularization(TVR)                0.0% (0/200)      (0.0%, 1.8%)
+        TVR PTCA                                    0.0% (0/200)      (0.0%, 1.8%)
+        TVRCABG                                     0.0% (0/200)      (0.0%, 1.8%)
+Thrombosis                                          0.5% (1/200)      (0.0%, 2.8%)
+        Acute Thrombosis                            0.5% (1/200)      (0.0%, 2.8%)
+                 Confirmed                          0.0% (0/200)      (0.0%, 1.8%)
+                 Presumed                           0.5% (1/200)      (0.0%, 2.8%)
+        Sub-Acute Thrombosis                        0.0% (0/200)      (0.0%, 1.8%)
+                  Confirmed                         0.0% (0/200)      (0.0%, 1.8%)
+                  Presumed                          0.0% (0/200)      (0.0%, 1.8%)
+Out-of-hospital Comnplications
+MACE (Death, MI, TLR)                               1.0% (2/200)      (0.1%, 3.6%)
+        Death                                       0.0% (0/200)      (0.0%, 1.8%)
+        MI (Q or Non-Q)                             1.0% (2/200)      (0.1%, 3.6%)
+                  Q wave MI                         1.0% (2/200)      (0.1%, 3.6%)
+                 Non-Q wave MI                      0.0% (0/200)      (0.0%, 1.8%)
+        TLR                                         1.0% (2/200)      (0.1%, 3.6%)
+                  TLR PTCA                          0.5% (1/200)      (0.0%, 2.8%)
+                  TLR CABG                          0.5% (1/200)      (0.0%, 2.8%)
+Target Vessel Revascularization(TVR)                1.0% (2/200)      (0.1%, 3.6%)
+        TVRPTCA                                     0.5% (1/200)      (0.0%, 2.8%)
+        TVR CABG                                    0.5% (1/200)      (0.0%, 2.8%)
+Sub-Acute Thrombosis                                1.0% (2/200)      (0.1%, 3.6%)
+        Confirmed                                   1.0% (2/200)      (0.1%, 3.6%)
+        Presumed                                    0.0% (0/200)      (0.0%, 1.8%)
+Cumulative Complications
+MACE (Death, MI, TLR)                               2.5% (5/200)      (0.8%, 5.7%)
+        Death                                       0.0% (0/200)      (0.0%, 1.8%)
+        MI (Q or Non-Q)                             2.5% (5/200)      (0.8%, 5.7%)
+                  Q wave MI                         1.5% (3/200)      (0.3%, 4.3%)
+
+
+P050018                                                                       Page 8 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+ ~Tab~t[Sttm
+        !itrn**~~~**
+                  ·o ~~~i~xp A&Oi~ed
+                             ~ ii~ , i~i·                                         !i        t~          S     ri!
+                                                            Aggregate                        95% C.I.
+                   Non-Q wave MI                           1.0% (2/200)                   (0.1%, 3.6%)
+          TLR                                              1.0% (2/200)                   (0.1%, 3.6%)
+                    TLR PTCA                               0.5% (1/200)                   (0.0%, 2.8%)
+                    TLR CABG                              0.5% (1/200)                    (0.0%, 2.8%)
+Target Vessel Revascularization (TVR)                      1.0% (2/200)                   (0.1%, 3.6%)
+          TVR PTCA                                        0.5% (1/200)                    (0.0%, 2.8%)
+          TVR CABG                                        0.5% (1/200)                    (0.0%, 2.8%)
+Thrombosis                                                 1.5% (3/200)                   (0.3%, 4.3%)
+          Confirmed                                        1.0% (2/200)                   (0.1%, 3.6%)
+          Presumed                                        0.5% (1/200)                    (0.0%, 2.8%)
+· Non-Q wave MI is defined as elevation of the CPK to >3x the upper limit of normal (associated with an abnormally
+elevated Troponin-l) without the development of new pathologic Q-waves.
+
+
+     In addition to MACE, a total of 23 non-MACE cardiovascular events and 37 non-
+     cardiovascular events were reported by the clinical sites. Among these events, the
+     principal cardiovascular events were classified as unstable angina (3%), coronary
+     artery injury (dissection, perforation, or rupture, 1.5%), hypotension (1.5%), and
+     excessive blood loss/hemorrhage requiring transfusion or hematoma (1.5%). These
+     events have been associated with use of other PTCA catheters.
+
+C. Observed Device Malfunctions
+     In total, there were 16 reported failures to cross the lesion with the AngioSculpt
+     catheter. Fifteen of these failures were adjudicated as device-related. There was one
+     failure to cross the lesion which was adjudicated by the Clinical Events Committee as
+     procedure-related but unrelated to the study device. All sixteen lesions were
+     subsequently successfully pre-dilated with a commercially available balloon followed
+     by stent placement.
+
+     There were two reported cases of device malfunction due to loss of balloon pressure
+     below rated burst pressure. These device malfunctions were unassociated with any
+     adverse event.
+
+X.       SUMMARY OF CLINICAL STUDIES
+The safety and performance of the AngioSculpt catheter has been evaluated through
+domestic and international clinical investigations. The pivotal clinical study was a multi-
+center clinical investigation that enrolled two-hundred (200) patients at nine (9) centers in
+the United States. Prior to the pivotal study, AngioScore sponsored clinical
+investigations outside of the United States (OUS) involving two (2) centers and forty-five
+(45) patients. Results from these studies demonstrate that the AngioSculpt catheter is safe
+with an acceptably low rate of complications and effective in a broad range of coronary
+artery lesions consistent with its intended use.
+
+A. IDE Clinical Trial
+
+P050018                                                                                           Page 9 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+
+                                                                                                       1(10
+    Objective: To evaluate the safety and efficacy of the AngioSculpt catheter in a wide
+    range of coronary artery lesions in both native vessels and following in-stent
+    restenosis (ISR).
+
+    Conclusion: Results of the pivotal U.S. multi-center clinical investigation
+    demonstrate that the AngioSculpt Scoring Balloon Catheter is safe and effective for
+    use in PTCA procedures. The procedural success rate, clinical success rate, and
+    MACE rate and type observed in this investigation met the objective performance
+    criteria developed from published scientific literature for other PTCA balloon
+    catheters. There was no increase in the observed rate of perforations or dissections.
+    The investigation results also demonstrate that the AngioSculpt Scoring Balloon
+    Catheter provides a stable, non-slip platform that can be safely used to treat de novo
+    coronary lesions (including complex type C lesions) and ISR lesions.
+
+    Design: A prospective, multi-center, non-randomized, single arm investigational
+    study was conducted in the United States at nine (9) sites enrolling two-hundred (200)
+    patients. Clinical sites followed an investigational plan and protocol approved under
+    an FDA-approved IDE application. The investigation was designed to evaluate the
+    following primary performance and safety objectives:
+
+        * To compare a procedural success rate to objective performance criteria for
+          percutaneous coronary intervention derived from contemporary published
+          literature.
+        * To compare a clinical success rate to objective performance criteria for
+          percutaneous coronary interventions derived from contemporary published
+          literature.
+    Endpoints: The primary effectiveness endpoint was procedural success, defined as
+    <50% final diameter stenosis in at least one of the AngioSculpt-attempted lesions
+    following completion of the interventional procedure, including adjunctive stenting
+    when used, without death, Q wave or non-Q wave MI, or emergency CABG surgery
+    during the hospital stay. The primary safety endpoint was clinical success rate,
+    defined as freedom from MACE [death, Q wave or non-Q wave MI, or target lesion
+    revascularization (TLR)] at 14-day follow-up.
+
+   Eligibility Criteria: The AngioSculpt U.S. clinical investigation study population
+   included patients with single or multiple vessel coronary artery disease who were
+   scheduled to undergo percutaneous coronary intervention because of symptoms of
+   stable or unstable angina. No more than two lesions were to be treated during the
+   index procedure. Key patient selection criteria were:
+       * At least 18 years of age and able to give informed consent
+       * Stenotic lesions in native coronary arteries, including in-stent restenosis
+       * Lesions with a reference vessel diameter (RVD) between 2.0 mm and 4.0 mm.
+       * Target lesions meeting the following criteria were cause for exclusion:
+           o Totally obstructed coronary arteries (TIMI 0 or 1 flow)
+
+P050018                                                                      Page 10 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+                                                                                 C~1
+              5 Lesions longer than 30 mm
+              o Target lesion in a severe angulation (> 60 degrees)
+              o Target lesion distal to a freshly deployed stent
+              o Target lesion within a previously-placed polymer-coated stent (drug or
+                non-drug eluting), unless complete tissue coverage of the stent was
+                  verified with IVUS
+              o Target lesion demonstrating severe dissection prior to planned deployment
+                of the AngioSculpt device
+              o Visible thrombus at the target lesion
+              o Unprotected left main artery
+              o Severe calcification
+              o Lesions in surgical conduits
+
+     Baseline Characteristics: Following informed consent, 200 patients (age 63.5 ± 11.3
+     years, males 72%) referred for percutaneous coronary intervention underwent
+     treatment with the AngioSculpt catheter. Of these patients, 27% (54/200) had a
+     history of diabetes mellitus. Unstable angina was present in 31.5% (63/200) of
+     patients. Other relevant clinical characteristics are described in Table 5, and are
+     consistent with that of typical patients in whom the AngioSculpt catheter is likely to
+     be used.
+
+
+         Table 5: Baseline Patient Demographics and Clinical Characteristics
+
+                                       Aggregate            Range           95% C.I.
+ Age                             63.45 +/- 11.32 (200)   (31.44, 90.50)    (61.87, 65.03)
+ Male                              71.5% (143/200)                        (64.7%, 77.6%)
+ Female                             28.5% (57/200)                        (22.4%, 35.3%)
+ Race-Caucasian                    84.5% (169/200)                        (78.7%, 89.2%)
+ Race-African American               8.0% (16/200)                         (4.6%, 12.7%)
+ Race-Hispanic                       3.5% (7/200)                           (1.4%, 7.1%)
+ Race-Asian                           1.5% (3/200)                          (0.3%, 4.3%)
+ Race-Other                          2.5% (5/200)                           (0.8%, 5.7%)
+ BMI                             29.70 +/- 5.66 (200)    (18:04, 53.50)    (28.91, 30.49)
+ Ejection Fraction: Normal
+ Ejec0ion
+ (>50%) Fraction: Normal           61.5% (123/200)                        (54.4%, 68.3%)
+ Ejection Fraction:35-50%          33.5% (67/200)                         (27.0%, 40.5%)
+ Ejection Fraction:<35%             0.5% (1/200)                            (0.0%, 2.8%)
+ StableAngina                     53.5% (107/200)                         (46.3%, 60.6%)
+ Unstable Angina                  31.5% (63/200)                          (25.1%,38.4%)
+ History of Diabetes              27.0%(54/200)                           (21.0%, 33.7%)
+   Insulin Dependent Diabetes      7.5%(15/200)                            (4.3%, 12.1%)
+    Non-insulin Dependent          19.5% (39/200)                         (14.2%, 25.7%)
+    Diabetes
+ History ofPTCA                   57.0% (114/200)                         (49.8%, 64.0%)
+ Historyof CABG                   15.5% (31/200)                          (10.8%,21.3%)
+
+P050018                                                                       Page 11 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+           Table 5: Baseline Patient Demographics and Clinical Characteristics
+
+                                              Aggregate                 Range                  95% C.I.
+  History of CVA/TIA                         9.0% (18/200)                                   (5.4%, 13.9%)
+  History of MI                             26.0% (52/200)                                  (20.1%, 32.7%)
+  History of Smoking                        58.0% (116/200)                                 (50.8%, 64.9%)
+  History of CHF                             6.0% (12/200)                                   (3.1%, 10.2%)
+
+
+  History of Hypertension                   78.0% (156/200)                                 (71.6%, 83.5%)
+  Requiring Medication
+  History of Hyperlipidemnia                85.0% (170/200)                                 (79.3%, 89.6%)
+  Requiring Medication
+  History of Peripheral Vascular
+  Disease Disease                           ~~~~~8.0%
+                                                (16/200)                                     (4.6%, 12.7%)
+  History of Renal Insufficiency             9.0% (18/200)                                   (5.4%, 13.9%)
+  Family History of CAD                     46.5% (93/200)                                  (39.4%, 53.7%)
+  Patients with only I Lesion
+  Treatied with ASCy
+  Treated with  ASC I Lesion                84.5% (169/200)                                 (78.7%, 89.2%)
+  Patients with 2 Lesions Treated
+  with ASC with ASC                        ~~~~~15.5%
+                                                (31/200)                                    (10.8%, 21.3%)
+  * Denominators were adjusted to include all patients and unknown information for medical history.
+  * ASC = AngioSculpt
+
+     Baseline qualitative and quantitative angiographic characteristics are summarized in
+     Table 6 below. Of the 219 treated lesions, 184 (84.0%) were de novo and 35 (16.0%)
+     were treated for in-stent restenosis.
+
+
+                           Table 6: Baseline Angiographic Characteristics
+                                               Aggregate                    Range                 95% C.I.
+   ACC Score A                                4.1% (9/219)                                       (1.9%, 7.7%)
+   ACC Score B I                             19.6% (43/219)                                    (14.6%, 25.5%)
+   ACC ScoreB2                               28.3% (62/219)                                    (22.4%, 34.8%)
+   ACC Score C                              47.9% (105/219)                                    (41.2%, 54.8%)
+   Lesion Length                           17.79 +/-8.94 (219)            (6.15, 55.15)         (16.60, 18.98)
+   Pre-Procedure RVD                       2.72+/- 0.39 (219)              (1.93, 3.91)           (2.67, 2.78)
+   Pre-Procedure MLD                       0.78 +/- 0.31 (219)             (0.00, 1.76)           (0.74, 0.82)
+   Pre-Procedure %DS                      71.61 +/- 10.16 (219)         (45.73, 100.00)         (70.25, 72.96)
+   Lesion Angulation (degrees)            15.48 +/- 17.62 (218)          (0.00, 90.00)          (13.13, 17.83)
+   Eccentric Lesion                          26.9% (59/219)                                    (21.2%, 33.3%)
+   Bifurcation Lesion                        28.8% (63/219)                                    (22.9%, 35.3%)
+   Visible Thrombus                           2.7% (6/219)                                      (1.0%, 5.9%)
+
+
+  ACC/AtIA Lesion Class #: Smith, et al ACC/AIIA Percutaneous Coronary Intervention Guidelines. JACC
+2001 ;37:2239i-xvi
+
+P050018                                                                                          Page 12 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+                          Table 6: Baseline Angiographic Characteristics
+                                              Aggregate                    Range                 95% C.I.
+   Lesion Location
+    Proximal                                 35.6% (78/219)                                    (29.3%, 42.3%)
+    Mid                                      37.0% (81/219)                                    (30.6%, 43.8%)
+    Distal                                   14.6% (32/219)                                    (10.2%, 20.0%)
+    Ostial                                   12.8% (28/219)                                     (8.7%, 17.9%)
+    LAD                                      37.9% (83/219)                                    (31.4%, 44.7%)
+     RCA                                     37.0% (81/219)                                    (30.6%, 43.8%)
+     LCX                                       23.3% (51/219)                                   (17.9%, 29.5%)
+     LM                                          1.4% (3/219)                                     (0.3%, 4.0%)
+     SVG                                        0.5% (1/219)                                      (0.0%, 2.5%)
+   Lesion Calcification*                       35.3% (73/207)                                   (28.8%, 42.2%)
+     Moderate                                  29.0% (60/207)                                   (22.9%, 35.7%)
+     Severe                                    6.3% (13/207)                                     (3.4%, 10.5%)
+   TIMI Flow
+     TIMI Flow 0                                 1.4% (3/219)                                     (0.3%, 4.0%)
+     TIMI Flow 1                                0.9% (2/219)                                      (0.1%, 3.3%)
+     TIMI Flow 2                               5.0% (11/219)                                      (2.5%, 8.8%)
+     TIMI Flow 3                              92.7% (203/219)                                  (88.4%, 95.8%)
+   RVD = reference vessel diameter (mm), MLD = minimal lumen diameter (mm), %DS percent diameter stenosis
+   (%), LAD = left anterior descending, RCA = right coronary artery, LCX = left circumflex, LM = left main, SVG =
+   saphenous vein graft
+   *Pre-Procedure calcification was not able to be assessed for 12 lesions in 11 patients.
+
+    Methods: Prior to treatment with the AngioSculpt catheter, patients provided
+    informed consent and underwent routine baseline evaluations. Patients were pre-
+    medicated according to institutional protocol for procedures involving stents, a
+    coronary angiogram of the target lesion was obtained, and a guide wire was
+    positioned beyond the target lesion. When used to pre-dilate the lesion prior to pre-
+   planned stenting, physicians were instructed to select a catheter that was one size
+    smaller relative to the estimated reference vessel diameter (RVD). For example, for a
+   RVD of 3.0 mm by visual estimation, a 2.5mm diameter device was used. When
+   used for in-stent restenosis, catheters were selected to closely approximate the RVD
+   (• 1.0 x RVD). The AngioSculpt catheter was prepped according to the IFU and
+   standard procedures. The AngioSculpt catheter was advanced over the coronary
+   guide wire to the target lesion. Cineangiograms were performed to confirm proper
+   positioning prior to balloon inflation. Additional clinically indicated interventions
+   (e.g., stent placement) were performed at the discretion of the investigator.
+   Anticoagulation and antiplatelet medications were prescribed per institutional
+   protocol for procedures involving stents. Post-procedure evaluations were performed
+   until hospital discharge and at 14-21 days following the procedure. Results of the
+   evaluations and procedure assessments, including post-procedure adverse events and
+   patient withdrawals, were documented on study specific case report forms (CRFs).
+
+
+
+P050018                                                                                        Page 13 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+
+                                                                                                 lbO
+    QCA, ECG and IVUS analysis were performed by independent Core Laboratories.
+    All suspected MACE and device failures/malfunctions were adjudicated by an
+    independent Clinical Events Committee.
+
+    Results: Data analysis was performed on an intent-to-treat basis. The study met its
+    primary safety and efficacy objectives as described below and summarized in Table
+    7.
+
+    All patients and all lesions had a final diameter stenosis that was < 50% in at least one
+    AngioSculpt-attempted lesion following completion of the interventional procedure.
+    Three patients experienced in-hospital MACE (two non-Q wave MI, one Q wave MI)
+    contributing to a procedural success rate of 98.5% (197/200). Additionally, two
+    patients experienced MACE post-hospital discharge (one Q wave MI with TLR-PCI
+    and one Q wave MI with TLR-CABG). This resulted in a clinical success rate of
+    97.5% (195/200). All AEs, including MACE, are within the expected rates for this
+    patient population.
+
+                    Table 7: Summary of' Primary Endpoint Results
+                                            Aggregate              Lower bound one-
+                                                                    sided 95% C.I.
+             Procedural Success          98.5% (197/200)                  96.2%
+             Clinical Success            97.5% (195/200)                  94.8%
+             Procedural Success z=<S50% final diameter stenosis in at least one
+             AnigioScuipt-attempted lesion following completion of the interventional
+             procedure, including adjunctive stenting when used, without death Q-wave
+             or non-Q-wave ML, or emergency CABG during the hospital stay.
+             Clinical Success = freedom from MACE (death, Q wave or non-Q wave
+             *MI, or TLR) at 14-day follow-up.
+
+
+   In all 219 lesions (100%), the angiographic component of the primary efficacy
+   endpoint (reduction of the lesion diameter stenosis to • 50% at the completion of the
+   interventional procedure) was successfully achieved. Table 8 summarizes the
+   angiographic results following AngioSculpt treatment and following adjunctive
+   stenting, which was performed in 97.7% (211/216) of cases.
+   The post-AngioSculpt dissection rate was 13.6% with the majority of these rated as
+   low grade (A-C) utilizing the NHLBJ classification. In all treated lesions, the
+   AngioSculpt catheter demonstrated stable position during deployment without
+   slippage.
+               Table 8: QCA and Lesion Morphology Characteristics
+                          (Post-Procedure/In-Hospital
+                                       Aggregate                 Range            95% C.I.
+
+
+
+P050018                                                                                 Page 14 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioScuipt® Scoring Balloon Catheter
+
+                                                                                         7I
+                   Table 8: QCA and Lesion Morphology Characteristics
+                                     (Post-Procedure/In-Hospital
+
+                                            Aggregate                   Range                95% C.I.
+   Post ASC In-Lesion MLD               1.55 +/- 0.45 (190)          (0.51, 2.74)           (1.48, 1.61)
+   Post ASC In-Lesion %DS             43.48 +/-14.66 (190)         (13.36, 79.84)          (41.38, 45.58)
+   Post ASC Dissection                    13.6% (26/191)                                  (9.1%, 19.3%)
+     Type A                                0.5% (1/191)                                    (0.0%, 2.9%)
+     Type B                               6.3% (12/191)                                   (3.3%, 10.7%)
+     Type C                               5.8% (11/191)                                   (2.9%, 10.1%)
+     Type D                                1.0% (2/191)                                    (0.1%, 3.7%)
+     Type E                                0.0% (0/191)                                    (0.0%, 1.9%)
+     Type F                                0.0% (0/191)                                    (0.0%, 1.9%)
+   Final In-Lesion MLD                  2.34 +/- 0.42 (219)          (1.31, 3.45)           (2.29, 2.40)
+   Final In-Lesion %DS                 17.73 +/- 7.18 (219)         (3.65, 39.84)          (16.78, 18.69)
+   Final Thrombus                          0.5% (1/219)                                    (0.0%, 2.5%)
+   Final Dissection                        0.5% (1/218)                                    (0.0%, 2.5%)
+     Type A                                0.0% (0/218)                                    (0.0%, 1.7%)
+     Type B                                0.5% (1/218)                                    (0.0%, 2.5%)
+     Type C                                0.0% (0/218)                                    (0.0%, 1.7%)
+     Type D                                0.0% (0/218)                                    (0.0%, 1.7%)
+     Type E                                0.0% (0/218)                                    (0.0%, 1.7%)
+     Type F                                0.0% (0/218)                                    (0.0%, 1.7%)
+       Post ASC Acute Gain              0.77 +/- 0.43 (190)         (-0.28, 1.93)           (0.71, 0.83)
+   Final In-Lesion Acute Gain           1.57 +/- 0.41 (219)          (0.18, 2.73)           (1.51, 1.62)
+   Slippage                                0.0% (0/206)                                    (0.0%, 1.8%)
+      Slippage - slight                    0.0% (0/206)                                    (0.0%, 1.8%)
+      Slippage - moderate                  0.0% (0/206)                                    (0.0%, 1.8%)
+      Slippage - severe                    0.0% (0/206)                                    (0.0%, 1.8%)
+   Balloon to Artery Ratio              0.99 +/- 0.14 (201)          (0.67, 1.43)           (0.97, 1.00)
+   ASC = AngioSculpt, MLD =Minimal lumen diameter (mm), %DS = percent diameter stenosis (%)
+   In a small number of cases, post-AngioSculpt angiograms were not performed and only the final angiograms
+   were available. Balloon to artery ratio was determined by post-hoc core lab QCA evaluation.
+
+
+   A summary of CEC adjudicated MACE is provided in Table 9. The cumulative
+   MACE rate was calculated by including only one event per patient. Two patients
+   experienced more than one MACE (Q wave MI with TLR-PTCA and Q wave MI
+   with TLR-CABG). Thus, there were a total of seven MACE among five patients.
+   The events included two (1%) non-Q wave MI, three (1.5%) Q wave MI, one (0.5%)
+   TLR-PTCA and one (0.5%) TLR-CABG. "Confirmed" thrombosis was defined as
+   angiographically documented thrombus or subacute closure within or adjacent to a
+   previously successfully treated lesion at the time of clinically-driven (due to chest
+
+
+P050018                                                                                         Page 15 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+
+
+                                                                                                   2z
+     pain and/or ECG changes) angiographic restudy for ischemia. Thrombosis is
+     "presumed" in the absence of angiography.
+
+
+               Table 9: Cumulative MACE Rates (Through 14 Days Folow-Up)
+           Cumulative Complications                     Aggregate               95% C.I.
+           MACE (Death, MI, TLR)                       2.5% (5/200)           (0.8%, 5.7%)
+                    Death                              0.0% (0/200)           (0.0%, 1.8%)
+                    MI (Q or Non-Q)                    2.5% (5/200)           (0.8%, 5.7%)
+                               Q wave MI                1.5% (3/200)          (0.3%, 4.3%)
+                            Non-Q wave MI              1.0% (2/200)           (0.1%, 3.6%)
+                    TLR                                1.0% (2/200)           (0.1%, 3.6%)
+                            TLR PTCA                   0.5% (1/200)           (0.0%, 2.8%)
+                            TLR CABG                   0.5% (1/200)           (0.0%, 2.8%)
+           Target Vessel Revascularization(TVR)        1.0% (2/200)           (0.1%, 3.6%)
+                    TVR PTCA                           0.5% (1/200)           (0.0%, 2.8%)
+                    TVR CABG                           0.5% (1/200)           (0.0%, 2.8%)
+           Thrombosis                                  1.5% (3/200)           (0.3%, 4.3%)
+                    Confirmed                          1.0% (2/200)           (0.1%, 3.6%)
+                    Presumed                           0.5% (1/200)           (0.0%, 2.8%)
+
+    Further analysis of the data for the 35 ISR lesions treated compared to the de novo
+    lesions demonstrated no significant difference in primary efficacy and safety
+    endpoints or in any of the MACE components between the two groups. The results
+    are summarized in Table 10.
+
+      Table 10: Comparison of Outcomes in Patients with ISR vs. de novo Lesions
+            Outcomes                       ISR             de novo           Combined        p-value
+ Procedural Success                   100.0% (33/33)   98.2% (164/167)    98.5% (197/200)    1.0000
+ Clinical Success                     100.0% (33/33)   97.0% (162/167)    97.5% (195/200)    0.5932
+ In-Hospital MACE Free                100.0% (33/33)   98.2% (164/167)    98.5% (197/200)    1.0000
+ Out-of-Hospital MACE Free            100.0% (33/33)   98.8% (165/167)    99.0% (198/200)    1.0000
+ Death Free                           100.0% (33/33)   100.0% (167/167)   100.0% (200/200)    N/A
+ MI Free                              100.0% (33/33)   97.0% (162/167)    97.5% (195/200)    0.5932
+     Q-Wave MI Free                   100.0% (33/33)   98.2% (164/167)    98.5% (197/200)    1.0000
+    Non Q-Wave MI Free                100.0% (33/33)   98.8% (165/167)    99.0% (198/200)    1.0000
+
+
+P050018                                                                              Page 16 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+
+                                                                                        23
+     Table 10: Comparison of Outcomes in Patients with ISR vs. de novo Lesions
+        Outcomes                   ISR               de novo          Combined         p-value
+ TLR Free                     100.0% (33/33)     98.8% (165/167)    99.0% (198/200)     1.0000
+    TLR CABG Free             100.0% (33/33)     99.4% (166/167)    99.5% (199/200)    1.0000
+     TLR PTCA Free            100.0% (33/33)     99.4% (166/167)    99.5% (199/200)    1.0000
+
+   IVUS Sub-study:
+   IVUS was performed in a subset of 80 patients pre- and post-treatment with the
+   AngioSculpt catheter to evaluate the morphologic effects of the device on the plaque
+   and to further confirm device safety. Of these, 72 IVUS images were evaluable post-
+   treatment, and showed an increase in minimal lumen area from 2.42 + 0.98 mm2 at
+   baseline to 3.05 ± 1.04 mm 2 post-AngioSculpt treatment. There were no adventitial
+   dissections or intramural hematomas, and there was no thrombus formation or any
+   other evidence of unanticipated vessel injury following AngioSculpt treatment at the
+   lesion site or in the adjacent reference vessel segments.
+
+B. Outside of the United States (OUS) Clinical Investigations
+   Objective: To evaluate the safety and efficacy of the AngioSculpt catheter in a wide
+   range of coronary artery lesions in both native vessels and following in-stent
+   restenosis (ISR).
+
+   Conclusion: The initial OUS AngioSculpt clinical investigation shows favorable
+   clinical results in a wide range of de novo lesions and in-stent restenosis (ISR). All
+   patients completed 14-28 day post procedure clinical follow-up and experienced no
+   major adverse cardiac events (MACE: death, Q wave or non-Q wave myocardial
+   infarction, and target lesion revascularization) in-hospital or post discharge related to
+   the study device.
+
+   Design: A multi-center clinical investigation was performed at two OUS sites, which
+   enrolled a total of forty-five (45) patients.
+
+   Endpoints: The study was designed to evaluate the following primary performance
+   and safety objectives:
+   * To demonstrate that the incidence and severity of device-related complications at
+       one month follow-up are acceptably low.
+   * To demonstrate successful percutaneous revascularization (defined as a reduction
+       in target lesion diameter stenosis to < 50% following completion of all
+       interventions) when a stable (slip-resistant) platform for coronary artery dilatation
+       is desired.
+
+   Eligibility Criteria: The study population included adult patients scheduled to undergo
+   clinically indicated percutaneous coronary intervention at the designated clinical site
+   for this study. All study candidates were required to provide, or have an authorized
+
+P050018                                                                        Page 17 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+    legal representative provide, documented informed consent. Study subjects were
+    required to understand the nature of the procedure, give informed consent, and be
+    available for 14-28 day follow-up. Key patient selection criteria were:
+        * At least 18 years of age or older, or age of legal consent
+        * Planning to undergo clinically indicated percutaneous coronary intervention
+        * Target lesion reference vessel size 2.0 - 4.0 mm diameter
+        * Target lesion length < 30 mm
+        * Target lesion severity > 60% diameter stenosis
+
+    Methods: Following informed consent, patients referred for percutaneous coronary
+    intervention (PCI) and meeting the study inclusion criteria underwent treatment with
+    the AngioSculpt catheter. Enrolled patients had routine pre-procedure baseline
+    assessments and were pre-medicated according to institutional protocol for
+    percutaneous coronary interventions. At one investigational site, when technically
+    possible, IVUS of the target lesion was performed prior to device deployment.
+
+   Coronary angiography of the target lesion was performed following completion of
+   each device treatment and prior to adjunctive stent placement. IVUS of the target
+   lesion was performed following device treatment (and prior to adjunctive stent
+   placement). Additional clinically indicated interventions (e.g. stent placement) were
+   performed and coronary angiography of the target lesion following completion of all
+   interventions was performed in the original views. The AngioSculpt catheter was
+   rated by the investigators after each use on pushability, trackability and passability on
+   a scale of 0 - 4 (O-worst, 44est) and on the degree of slippage during the procedure
+   on a scale of 0 - 3 (O-none, 3-severe slippage).
+
+   Results of the evaluations and procedure assessments, including post-procedure
+   adverse events and patient withdrawals, were documented on study-specific case
+   report forms (CRFs).
+
+   One clinical investigator voluntarily arranged for eleven (11) ISR patients to return
+   for follow-up examination six months after the interventional procedure. The
+   investigator's assessments conducted at the 6-month follow-up included angiography
+   and IVUS.
+
+   Results: The AngioSculpt catheter was utilized in 45 patients and a total of 46 lesions,
+   consisting of 32 native vessels and 14 ISR lesions. The AngioSculpt catheter was
+   successfully deployed in all 46 lesions. IVUS imaging demonstrated plaque scoring
+   and luminal expansion following treatment with the AngioSculpt catheter with no
+   perforations or other evidence of unanticipated vessel injury. There were no device-
+   related major adverse cardiac events (MACE: death, Q wave or non-Q wave
+   myocardial infarction, ischemia driven target lesion revascularization) encountered
+   during hospitalization or during the follow-up period (24.8±8.5 days). There were no
+   instances of device malfunction, retained device components or embolization. There
+   was no evidence of any damage or deterioration in any of the devices. Overall, the
+
+P050018                                                                      Page 18 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+
+                                                                              25
+      device was reported as being very deliverable. There was no clinically significant
+      slippage associated with AngioSculpt use.
+
+C. Gender Bias
+The proportion of men and women enrolled in the U.S. pivotal study were consistent with
+previous studies of devices used in percutaneous interventions. Subgroup analysis was
+conducted to evaluate the effect of gender on primary efficacy outcomes. Gender was not
+significantly associated with the clinical outcomes. Since clinical outcomes were not
+associated with gender, these data demonstrated that gender was not an influencing factor
+on safety or effectiveness.
+
+XI.       CONCLUSIONS FROM CLINICAL AND NON-CLINICAL STUDIES
+The safety and effectiveness of the AngioSculpt Scoring Balloon Catheter have been
+demonstrated by results obtained from biocompatibility testing, engineering bench
+testing, cadaver and in vivo animal testing, sterilization and shelf life testing, and clinical
+investigations.
+
+The results of the OUS and US clinical investigations demonstrate that the AngioSculpt
+catheter is safe with an acceptably low rate of complications and effective in a broad
+range of coronary artery lesions consistent with its intended use. Together, the clinical
+and non-clinical test results provide reasonable assurance that the AngioSculpt catheter is
+safe and effective when used as indicated and in accordance with the instructions for use.
+
+XII.      PANEL RECOMMENDATION
+In accordance with the provisions of section 515(c)(2) of the act as amended by the Safe
+Medical Devices Act of 1990, this PMA was not referred to the Circulatory Systems
+Panel, and FDA advisory committee, for review and recommendation because the
+information in the PMA substantially duplicates information previously reviewed by this
+panel.
+
+XIII. CDRH DECISION
+CDRH issued a letter to AngioScore, Inc. on March 30, 2006, advising that the PMA was
+approvable subject to acceptable results from inspections of the manufacturing facilities.
+The applicant's manufacturing facilities were inspected and found to be in compliance
+with the Quality System Regulation (21 CFR 820). CDRJ approved this PMA
+application on January 8, 2007.
+
+XIV.      APPROVAL SPECIFICATIONS
+Directions for Use: See the labeling.
+Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+Precautions and Adverse Events in the labeling.
+Postapproval Requirements and Restrictions: See approval order.
+
+
+
+P050018                                                                           Page 19 of 19
+Summary of Safety and Effectiveness Data (SSED)
+AngioSculpt® Scoring Balloon Catheter
+

@@ -8,3 +8,11 @@
 - Excluded wrong-brand GUDID hits: Cougar (Medos neuro), Wolverine (Kenmark), Mamba (Richard Wolf), GRAFTMASTER (Smith & Nephew ortho → left blank).
 ## Conflicts
 - None overwritten. Families with mixed generations in GUDID (e.g., Launcher spans many 510(k)s; Integrity GUDID entries show P030009) recorded as-is.
+## Pass 02 (2026-10-12)
+- Sources: FDA SSEDs (P160043, P130030, P190020, H170004, P230035 …) and 510(k) summaries (28 PDFs) saved in sources/pass02/{ssed,k}; Medtronic Onyx Frontier HCP page.
+- ~70 curated cells with doc + page + URL (sources/pass02/applied.json). Exact-model only: SSEDs for original approvals (XIENCE V P070015, SYNERGY P150003, Orsiro P170030, Shockwave C2 P200039, Driver P030009, ML Vision P020047) NOT applied to later iterations (Skypoint/Sierra, SYNERGY XD/MEGATRON, Orsiro Mission, C2+/Aero, Integrity, ML8).
+- Submission numbers filled: XIENCE Skypoint/Sierra P110019, Orsiro Mission P170030, ML8 P020047, PK Papyrus H170004, Diamondback P130005, GuideLiner V3 K172090, Heartrail III K113335, Gaia Next K192599, PILOT K101116, Runthrough K063695, SION black K173277, Guidezilla II K163314, Mamba K190401, Corsair Pro K161126, Caravel K152447, OptiCross HD K213593, Dragonfly OpStar K230411, COMET II K193279, Telescope +K252390.
+- New rows: BioFreedom (P190020; not in GUDID), Penumbra INDIGO CAT RX (K220683), Innovative Health Reprocessed Eagle Eye Platinum RX (K210655). GRAFTMASTER fixed (Abbott "Graftmaster" GUDID, 15 DIs).
+- Recall matcher now also matches GUDID DIs/GTINs: +XIENCE Sierra (1), +Diamondback (2) → 95 rows. Telescope: no openFDA recall record exists (earlier 14 hits were unrelated endoscopy telescopes).
+- Conflicts logged (sources/pass02/conflicts.json): ROTAPRO GUDID P900056 vs 510(k) K220962 (both kept); Dragonfly modality kept "OCT".
+- Not US/FDA-found: Ringer, Terumo AltaView, Asahi Hyperion guides; Mach 1 (only 2001 510(k)).

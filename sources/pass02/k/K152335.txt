@@ -1,0 +1,238 @@
+  DEPARTMENT OF HEALTH & HUMAN SERVICES                                         Public Health Service
+
+
+                                                                                Food and Drug Administration
+                                                                                10903 New Hampshire Avenue
+                                                                                Document Control Center – WO66-G609
+                                                                                Silver Spring, MD 20993-0002
+
+
+
+
+Medtronic Vascular
+Colleen Mullins
+Principal Regulatory Affairs Specialist
+37A Cherry Hill Drive
+Danvers, MA 01923-5186
+
+Re: K152335
+    Trade/Device Name: Export Advance™ Aspiration Catheter
+    Regulation Number: 21 CFR 870.5150
+    Regulation Name: Embolectomy Catheter
+    Regulatory Class: Class II
+    Product Code: DXE
+    Dated: Aug 17, 2015
+   Received: Aug 19, 2015
+
+Dear Ms. Mullins:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (21
+CFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical
+device-related adverse events) (21 CFR 803); good manufacturing practice requirements as set
+forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+Page 2 – Colleen Mullins
+
+
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041
+or (301) 796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note
+the regulation entitled, sMisbranding by reference to premarket notifications (21CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+You may obtain other general information on your responsibilities under the Act from the
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301)
+796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+
+                                                   Sincerely yours,
+
+
+
+                                             for
+                                                   Bram D. Zuckerman, M.D.
+                                                   Director
+                                                   Division of Cardiovascular Devices
+                                                   Office of Device Evaluation
+                                                   Center for Devices and Radiological Health
+
+Enclosure
+                               Indications for Use
+510(k) Number: K152335
+
+Device Name: Medtronic Export Advance™ Aspiration Catheter
+
+Indications for Use:
+
+    The Export Advance™ Aspiration Catheter is indicated for:
+       - Removal/aspiration of embolic material (thrombus/debris) from vessels of the arterial
+          system, and
+       - To sub selectively infuse/deliver diagnostics or therapeutics agents with or without
+          vessel occlusion.
+
+
+
+
+Prescription Use _     X___          AND/OR            Over-The-Counter Use _______
+(Part 21 CFR 801 Subpart D)                             (21 CFR 807 Subpart C)
+
+
+
+(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+     __________________________________________________________________
+               Concurrence of CDRH, Office of Device Evaluation (ODE)
+
+
+                                                                                             
+                        Special 510(k) Summary
+Submitter:               Medtronic Vascular
+                         37A Cherry Hill Drive
+                         Danvers, MA 01923-5186
+
+Contact Person:          Colleen Mullins
+                         Principal Regulatory Affairs Specialist
+                         Phone: (978) 739-3267
+                         Fax: (978) 739-3280
+
+Alternate Contact        Fred Boucher
+                         Director of Regulatory Affairs
+                         Phone: (978) 739-3116
+                         Fax: (978) 750-8204
+
+Date Prepared:           August 17th , 2015
+
+Trade Name:              Export Advance™ Aspiration Catheter
+
+Common Name:             Percutaneous Catheter
+
+Classification Name:     Embolectomy Catheter
+                         Class II per 21 CFR 870.5150, Product Code DXE
+
+Predicate Devices:       K130536 - Medtronic Vascular
+                         Export® Advance Aspiration Catheter.
+
+Device                   The Export Advance™ Aspiration Catheter is a dual
+Description:             lumen catheter used for the aspiration of thrombus
+                         and/or debris from a vascular site. The Export
+                         Advance™ may also be used for the infusion of
+                         diagnostic or therapeutic agents to a desired vascular
+                         site.
+
+Statement of Intended    The Export Advance™ Aspiration Catheter is indicated
+Use:                     for:
+                           • Removal/aspiration of embolic material
+                             (thrombus/debris) from vessels of the arterial
+                             system, and
+                           • To sub selectively infuse/deliver diagnostics or
+                             therapeutics agents with or without vessel
+                             occlusion.
+Comparison to the         The Export Advance™ Aspiration Catheter represents a
+predicate devices         change to the dual lumen section (micro-lumen section)
+
+
+Summary of                The Export Advance™ includes the following features:
+Technological                   i. Removable Stylet
+Characteristics:               ii. Luer Hub
+                             iii. Strain Relief
+                              iv. Inner Liner
+                               v. Braid Wire
+                              vi. Proximal Shaft
+                             vii.  Distal Shaft (Dual Lumen/Oversleeve)
+                            viii. Soft Tip
+                              ix. Microlumen (wire lumen)
+                               x. Distal Tip
+                              xi. Marker band
+                             xii. Hydrophilic lubricous coating
+
+
+Summary of Non-clinical Design verification (bench) testing qualification
+Data:                   conducted in accordance with the recommendations
+                        presented from the relevant FDA guidance to
+                        demonstrate that the subject device Export Advance™
+                        Aspiration Catheter has met the acceptance criteria and
+                        performance similar to the predicate device.
+
+                           Design Verification Testing: Given that the only
+                           difference between the modified design for the subject
+                           device and the commercially available design of the
+                           predicate device is the dual lumen section, only
+                           attributes impacted by the design modification were
+                           tested. The design verification (bench) testing was
+                           performed based upon the subject device performance
+                           specifications. The tests performed for bench testing
+                           included:
+                                1. Profile Dimensions (Major & Minor Profile)
+                                2. Microlumen Tear
+                                3. 2D Track and Lesion Cross
+
+
+                           Biocompatibility Testing (GLP): The materials,
+                           packaging and configuration of the subject device is
+                           not changing as a result of the dual lumen design
+                           change. The microlumen sleeve material is changing
+                           from Pebax 4033 to Aesno MED Nylon 12(AV100)
+                           This material is already in use on the Export Advance
+                        within the proximal outer jacket component, distal cuff,
+                        and cuff extension. Based on this information there is
+                        no requirement for additional biocompatibility testing.
+                        Existing biocompatibility data previously performed on
+                        the subject device will apply to the proposed device.
+
+                        Pursuant to the ISO 10993-1:2009/AC: 2010-
+                        Biological evaluation of medical devices - Part 1:
+                        Evaluation and testing within a risk management
+                        process; and 21 CFR 58 -Good Laboratory Practice
+                        for Nonclinical Laboratory Studies; Medtronic
+                        Vascular has concluded full biocompatibility testing on
+                        the predicate device.
+
+                            1. Cytotoxicity
+                            2. In vitro Hemolysis
+                            3. Systemic Toxicity
+                            4. Sensitization
+                            5. C3a Complement Activation
+                            6. Sc5b9 Complement Activation
+                            7. ISO Intracutaneous Reactivity
+                            8. USP Material Mediated Pyrogen Study
+                            9. In vivo Thromboresistance
+
+                        No new safety or effectiveness issues were raised
+                        during the testing. The bench testing qualification and
+                        biocompatibility testing demonstrated that the subject
+                        device Export Advance™ Aspiration Catheter is
+                        substantially equivalent to the predicate device.
+
+
+Summary of Clinical     No clinical investigation has been performed on the
+Data:                   subject device Export Advance™ Aspiration Catheter.
+
+Conclusion from Data:   Medtronic Vascular has demonstrated that the subject
+                        device Export Advance™ Aspiration Catheter is
+                        substantially equivalent to the predicate device.
+

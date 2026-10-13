@@ -1,0 +1,620 @@
+                                                                                        1
+
+                SUMMARY OF SAFETY AND PROBABLE BENEFIT
+
+ I       GENERAL INFORMATION
+
+         Device Generic Name                  Interactive Wound and Burn Dressing
+
+         Device Trade Name                   Composite Cultured Skin
+
+        A    lieant s Name and Address       Ortec International Inc
+                                             3960 Broadway 2 Flr
+                                             New York City NY 10032
+
+        Humanitariaa Device Exem tion Number                  H990013
+
+        Date of Humanitarian Use Device Desi       ation      April 24 1998
+
+        Date of Panel Recommeadation
+        Composite Cultured Skin was not submitted to the General and Plastic Surgery
+        Devices Panel for review refer to Section XI for discussion
+
+        Date Of GMP Ins ection
+              Ortec International Inc September 28 2000
+              Steris Isomedix August 28 2000
+              Kensey Nash Corp October 5 2000
+
+        Date Of Notice of A    roval of A   lication
+                                                           gpss p   gp
+
+
+
+
+II      INTENDED USE INDICATIONS
+
+Composite Cultured Skin CCS is indicated for use in patients with mitten hand
+deformity due to Recessive Dystrophic Epidermolysis Bullosa RDEB as an adjunct to
+standard autograft procedures i e skin grafts and flaps for covering wounds and donor
+sites created after the surgical release of hand contractions i e mitten hand
+deformities
+
+III    DEVICE DESCRIPTION
+
+Composite Cultured Skin is composed of a collagen matrix in which allogeneic human
+skin cells i e epidermal keratinocytes and dermal fibroblasts are cultured in two
+distinct layers The collagen cross linked sponge consists primarily of Type I bovine
+collagen laminated on one side with a thin gel layer of acid soluble bovine collagen
+
+The device is manufactured under aseptic conditions with cells derived from human
+neonatal foreskin tissue The fibroblast and keratinocyte cells are tested for human
+viruses retroviruses bacteria fungi yeast mycoplasma karyology isoenzymes and
+                                                                                            2
+
+
+tumorigenicity The final product is tested for morphology cell viability cell density
+sterility mycoplasma and physical container integrity Product manufacture also
+includes reagents derived from animal materials including bovine pituitary extract All
+animal derived reagents are tested for viruses bacteria fungi yeast and mycoplasma
+before use and all bovine material is obtained from countries free of Bovine Spongiform
+Encephalopathy BSE
+
+The device measures approximately 6 cm x 6 cm minimally 36 cm A non adherent
+mesh N Terface Winfield Laboratories Inc Dallas Texas is placed on both aspects
+of the devioe to protect the cells The device is packaged in a plastic tray with protein
+free packaging medium containing DMEM water for irrigation sodium bicarbonate
+folic acid solution HEPES buffer L Glutamine MEM non essential amino acids and
+sodium hydroxide to maintain cell viability during storage and shipping
+
+The plastic tray is sealed within a peelable inner pouch to provide a sterile barrier against
+moisture and gas The inner pouch is in turn sealed inside a heavier gauge outer pouch
+that protects the inner pouch sterility barrier and the product against damage during
+shipment The multi stage packaged product is packed with pre chilled gel packs and
+shipped to the destination in a padded and insulated shipping container that maintains a
+temperature of 11 19 C for up to 72 hr
+
+iv          CONTRAINDICATIONS
+
+     Composite Cultured Skin is contraindicated for use on clinically infected wounds
+     see Precautions
+     Composite Cultured Skin is contraindicated as the primary coverage of web spaces
+     and phalangial metacarpal joints during hand reconstructive surgery
+     This product may contain trace amounts of penicillin streptomycin and fungizone
+      amphotericin B used during cell processing Avoid the use of this product in
+     patients known to be allergic to these materials
+
+The Warnings and Precautions can be found in the professional labeling
+
+V ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+A       Epidermolysis Bullosa
+
+The reported adverse events which occurred in the studies evaluating CCS in RDEB
+patients with mitten hand deformities as an adjunct to standard autograft procedures and
+in the treatment of chronic ulcers in EB patients at an incidence rate of greater that 1
+are listed in Table 1 Because each patient in these studies received both CCS and
+standard care treatments on diferent wounds the causality for systemic adverse events
+cannot be determined Thus the data below are presented with regard to the incidence of
+adverse events at treatment and control sites i e local events on a per patient basis and
+systemic adverse events
+                                                                                                                                        3
+
+
+
+        Table 1 Adverse Events with an Incidence of Greater Than 1 Epidermolysis
+                                  Bullosa Studies in U S and Australia
+                                                                          Stud Site Involvement
+                     Adverse Event
+                                                                      CCS a 19         Control n 24
+ Fever                                                                 0 0 Po              0 0 0ø o                               4 21 le
+ Constipation                                                          0 00                0 00                                   3 15 7
+ Vomiting                                                              0 00                0 00                                   3 15 7
+ Pain                                                                 2 10 5               0 00                                    1 52
+ Nausea                                                                0 OPo               0 00                                   2 10 5
+ Redness total body                                                    0 OAPlo             0 00                                    1 52
+ Erythema non study site                                               0 00                0 00                                    1 52
+ Edema non study site                                                  0 00                0 00                                    1 52
+ Infection Upper Respiratory                                           0 OAR a             0 00                                    1 52
+ Squamous Cell Carcinoma non study site                                0 O PYo             0 0 04le                                1 52
+    In the U S study involving   l2 patients   there were 2 contml sites per patient acellular collagen sponge and standard cae
+
+
+There were no incidences of wound infection delayed wound healing or cellulitis
+associated with the use of CCS or the control sponge acellular collagen sponge in this
+patient population
+
+B           All CCS Treated Patients
+
+The adverse effects observed during clinical evaluations of CCS patients with EB as well
+as in other studies include a total of 8 deaths and 71 non fatal serious adverse events in
+ 186 patients The non fatal serious adverse events observed in patients treated with CCS
+are shown in Table 2 These adverse events were observed in seven clinical studies
+ including E B and include a broader study population some with systemic disorders
+such as deep partial and full thickness burns Of the 186 patients for which safety data are
+available 82 44       had at least one adverse event reported The adverse events with the
+highest incidence levels were constipation 26 13 9       pain 24 12 9      fever 19
+ 10 2     pruritis 14  75     and  anemia  13 62      None  of these adverse events
+ including the non fatal serious adverse events were judged by the treating investigator
+as definitely related to CCS application
+
+Table 2 Serious Adverse Eveats observed in all patients treated with CCS N 186
+
+             SERIOUS ADVERSE EVENTS                                                8 OF EVENTS
+Sepsis                                                                                   3
+ARDS                                                                                     3
+Renal Failure                                                                            2
+Pneumothorax                                                                             2
+Pneumonia                                                                                2
+                                                                                              4
+
+
+
+
+  One of these events in each of these categories is related to the control treatment site
+
+
+VI ALTERNATIVE PRACTICES AND PROCEDURES
+
+The standard treatment for healing of wounds on RDEB patients includes the use of non
+adherent dressings for wound coverage or surgical alternatives such as autologous skin
+flaps and or split thickness skin grafts    Impaired wound healing irifection risk and
+donor site scarring can occur in RDEB patients after harvesting of split thickness donor
+gr     after treatment with standard non adherent wound dressings Thus the use of
+CCS as an adjunct to skin flaps and split thickness autografts
+                                                               provides probable benefit to
+patients by reducing the number and size of donor sites required after hand reconstruction
+surgery thereby reducing the risk of associated complications
+
+
+
+
+                                                                                                  2
+                                                                                             5
+
+VII MARKETING HISTORY
+
+       CCS has not been marketed previously
+
+VIII SUMMARY OF PRE CLINICAL STUDIES
+
+The biocompatibility of CCS and its components were verified through a series of in vitro
+and in vivo tests Because there is no good animal model for RDEB the ability of the
+device to promote wound healing was demonstrated in a standard acute wound model in
+mice
+
+      A       The biocompatibility studies
+
+The biocompatibility of the collagen sponge component of the device was demonstrated
+by the fallowing tests
+
+       l In vitro analyses
+
+           Hemolytic effect A phosphate buffered saline PBS extract of the collagen
+           sponge was non hemolytic to rabbit red blood cells
+           Cytotoxicity A PBS extract of the collagen sponge coated with collagen
+                                                                                  gel
+           was non cytotoxic to L929 mouse fibroblast cells
+           Mutagenicity The collagen sponge coated with a collagen gel did not
+           produce a mutagenic effect in an Ames Assay
+
+      2 In vivo analyses
+
+           Modified Maguire Hypersensitivity test a PBS extract of the sponge coated
+           with collagen gel did not product an allergic contact dermatitis in
+                                                                               guinea pigs
+           following challenge
+           USP XXII Class IV material The collagen sponge passed all the test
+           requirements
+           Pyrogens A PBS extract of the collagen sponge coated with collagen
+                                                                                    gel
+           passed the USP rabbit pyrogen test
+           Resorption Application of the collagen sponge coated with collagen
+                                                                                  gel test
+           article and a Helistat sponge control article onto full thickness wounds on
+           pigs demonstrated that both the test and control articles resorbed within 7
+           days without disrupting the healing process
+          Implantation In this test both the finished CCS and the collagen sponge were
+          evaluated At 7 days post i m implantation of the collagen sponge component
+          and CCS only mild to moderate inflammation was observed microscopically
+          At 30 days post implantation both materials displayed a mild inflammatory
+          response and reduced lymphocyte infiltration when compared to the 7 day
+          response At 90 days there was no evidence of inflammatory response
+
+
+
+
+                                                                                                 l3
+                                                                                             6
+
+
+       B Shelf life
+
+       The rinsed final product has a shelf life of 72 hours after being packaged for
+       shipping This expiration date is based upon the extensive experience in US
+       clinical studies and the results of a validation study that evaluated the following
+       device parameters as a function of time 1 viable cell count 2 percent cell
+       viability 3 device sterility 4 cell metabolic activity and 5 package integrity
+
+       C Sterility Testing
+
+       Composite Cultured Skin is manufactured under aseptic conditions from a
+       sterilized bovine collagen sponge and cells derived om human neonatal foreskin
+       tissue CCS is shipped following a preliminary sterility test with a 48 hour
+       incubation and a final endotoxin test After sublet distribution each lot is tested
+       for mycoplasma sterility in the USP 14 day test and CCS structure and cell
+       morphology via histology
+
+       The safety of the product was assessed by testing the fibroblast and keratinocyte
+       cells for human viruses retroviruses bacteria fungi yeast mycoplasma
+       karyology isoenzymes and tumorigenicity In addition each lot of animal
+       derived reagents used in product manufacture are tested for viruses bacteria
+       fungi yeast and mycoplasma before use and all bovine material is obtained from
+       countries free of Bovine Spongiform Encephalopathy BSE
+
+
+IX SUMMARY CLINICAL STUDIES
+
+The device has been studied in 4 clinical investigations Three additional U S patients
+who were not enrolled in a specific study also received CCS treatment One study in the
+U S and one study in Australia enrolled EB patients
+
+A Australian Clinical Study of CCS in the Treatmeat of KB A study of the use of
+  CCS as an adjunct to standard autograft procedures i e skin grafts and flaps for
+  covering wounds and donor sites created after the surgical release of hand
+  contractions i e mitten hand deformities in patients with RDEB was performed
+  in Australia from 1977 1998 In this series 7 RDEB patients with advanced hand
+  deformities underwent multiple procedures for degloving of mitten deformities Five
+  of the seven patients had prior contracture release surgeries without the use of CCS and
+  thus provide some comparative information
+
+    1 Control Therapy
+   Wounds on 5 patients created after the release of hand contraction were covered with
+   split thickness autografts In specific autografts were used to cover web spaces and
+   joints
+
+   2 Treatment
+
+
+
+
+                                                                                                 f
+                                                                                           7
+
+
+ Seven patients of which five had previously undergone contraction release surgery
+ without application of CCS underwent at least 1 hand surgery with subsequent
+ coverage of wounds with a combination of CCS skin flap and autografts Autografts
+and surgical flaps were applied on the hardest to heal areas i e the web spaces and
+joints When flaps were us 4 it was always the apex of the web spaces CCS was
+applied to any remaining areas on the dorsum of the hand fingers and to donor sites
+CCS was also used as an adjunct to autografts during dressing changes when areas of
+unepithelializedtissue developed which eliminated or decreased the need for additional
+autografts
+
+After surgery and the first dressing change a new long lasting custom made
+thermoplastic splint was created and fitted by a physiotherapistto maintain fingers in
+extension and thumb in abduction Initially the patient used the splint around the clock
+After 6 8 weeks for the next 12 months an elasticized glove was used over elasticized
+bandages COBAND applied around each finger during the day and switched back to
+the splint at night
+
+3 Effectiveness Outcomes
+
+When CCS was used the need for donor sites was reduced In addition CCS treated
+donor sites healed without complications i e delayed wound healing was not observed
+and excessive analgesic use was not required In 2 cases CCS treated donor sites were
+re harvested in subsequent surgeries and produced autografts with properties equivalent
+to autografts of non treated patients
+
+a   Duration of digital functionality The time interval between reconstructive
+    surgeries for all seven patients is shown below These data suggest that the use of
+    CCS and autograft did not decrease the time to re surgery However further
+    comparisons are difficult because all non CCS surgeries were performed before
+    1988 and the investigators introduced the use of CCS and surgical flaps at
+    approximately the same time In addition the time between surgeries was
+    dependent upon the severity of the patients disease and their overall health i e
+    not just finger and thumb functionality Hence the contributions of CCS alone in
+    patient outcome are difficult to interpret
+
+    It should also be noted that the ultimate functionalresult was heavily influenced by
+    a patient compliance with a regimen of hand physical therapy under the guidance of
+    a rehabilitation center familiar with EB complicationsand b the severity of the
+    disease
+
+
+
+
+                                                                                               5
+                                                                                                     8
+
+                           Table 2 Time Between Surgeries
+
+
+
+
+The mme between last hand surgery and last follow up
+Pt 7 underwent 10 initial hand reconstructive surgeries over 7
+                                                               years before he was referred to the
+Etsenberg Llewelyn group These surgeries did not include the use of autografb or CCS
+Recontractures of the hand after one year but no additional surgeries
+                                                                      performed
+                                                                                             9
+
+
+
+        b   CCS treatment of donor sites The donor sites used to prepare autografts were
+            also treated with CCS In 13 surgeries the CCS treated donor sites healed in
+            two weeks and in one surgery healed in three weeks The long term follow up
+            of three patients has shown their donor sites to remain stable and free of
+            blisters for six to ten years There was no incidence of delayed healing
+            infection or squamous cell carcinoma in any of the CCS treated donor sites
+
+            Two autografts were harvested em previously CCS treated areas and retreated
+            with CCS These donor areas had been treated 2 and 4 years earlier with CCS
+            Both donor sites yielded good quality autografts without shearing of the
+            epidermis from the underlying dermis and permitted healing without any
+            complications
+
+            Histological evaluations of biopsies of donor sites treated with CCS revealed that
+            all sites had fully formed epidermis on a regenerated neodermis Histology of
+            adjacent EB skin showed dermis denuded of epidermis However it was
+            determined that the epidermis detached Born the dermis during the biopsy
+            procedure which illustrates the agility of skin on EB patients
+
+       4 Device Safety
+
+       a Adverse events In 13 operations where donor areas were grafted with CCS
+         there was no significant postoperative pain requiring narcotic analgesics All
+         patients received prophylactic oral broad spectrum antibiotic therapy during the
+         first postoperative week and no pathogens were detected in any of the
+         surgically created wounds All donor site wounds created during the Australian
+         study healed without sequela
+
+B United States Clinical Studies with CCS in the Treatment of EB
+
+The safety of CCS in treating EB patients was also assessed in a controlled randomized
+study conducted in the United States The study enrolled 12 junctional JEB and
+dystrophic DEB epidermolysis bullosa patients with chronic non healing wounds
+
+In this within patient controlled study three different non healing chronic wounds on
+each patient were treated with either 1 CCS 2 the collagen sponge component of CCS
+or 3 standard care Reapplication of CCS during the first 4 weeks of the study was at the
+discretion of the investigator The safety and efficacy assessments were made on study
+days 7 14 and 21 as well as weeks 4 8 12 and 26 Ten of the twelve patients completed
+the study while the remaining two patients discontinued prematurely because 1 of the
+development of squamous cell carcinoma which the investigator considered to be a pre
+existing condition and 2 non study compliance
+                                                                                           10
+
+
+Effectiveness no statistically significant differences in the incidence or time to wound
+healing were observed in comparisons of CCS the acellular sponge and standard non
+adherent dressings at any time point
+
+Safety Adverse events reported in this study are described in Table 1 in Section V
+
+C United States Clinical Studies for the Treatment of Other Conditions
+
+1 Patients with deep partial full thickness burns
+
+    Twenty eight patients with full and deep partial thickness burns were enrolled in a
+    multicenter randomized double blind study with 52 week follow up 15128patients
+    completed the study 2128died during the study and 9 were lost to follow up and 1
+    patient withdrew consent
+
+    Safety 21 28 75 patients had at least one adverse event The 3 most common
+    adverse events were fever constipation and pruritus None of the events were judged
+    to be definitely or probably related to treatment 1 scar 1 inflicted injury 1
+    procedural site reaction and the hemorrhage were judged by the investigator as
+    possibly related to treatment The remaining adverse events were judged to be
+    remotely related 2 circulatory failure sepsis respiratory insufficiency and acute
+    renal failure as well as 1 incidence of inflicted injury and surgical intervention and
+    abdominal pain fecal incontinence and dyspnea were rated as severe 2 patients had
+    non fatal serious AERs One patient experienced an inflicted injury hip fracture and
+    surgical intervention a hip replacement and colostomy closure Another patient
+    experienced skin ulceration of a decubitus scalp ulcer impaired healing of the scalp
+    ulcer and scarring hand webbing The median healing time 100 closure was
+    significantly shorter after autograft treatment i e 11 days when compared to CCS
+    treatment i e 59 days
+    Death 2 patients died during the study One patient died after arrhythmia
+    respiratory insufficiency sepsis acute renal failure and circulatory failure A second
+    patient died after abdominal pain and dyspnea related to ARDS Neither death was
+    attributed to treatment with the device
+
+
+2   Donor Site Pilot Study
+
+    A prospective single center open randomized controlled trial was initiated to study
+    the effects of CCS on management of split thickness donor sites in burn patients
+    Seven patients completed the study One patient died om septic shock and acute
+    multi system organ failure which was determined by the investigator as unrelated to
+    the study treatments and probably related to the patient s bum injury Other adverse
+    events reported in this study were
+
+       1 patient experienced 6 adverse events including spontaneous pneumothorax
+       necrosis to the musculature around the area of the femoral artery adjacent to the
+                                                                                         11
+
+
+                                                                                    wound
+        control donor site conversion of the control donor site to a full thickness
+                                                                                   bleed at
+        excision and re autografting of the control donor site an exsanguinating
+        the left femoral artery and surgical repair of the left femoral artery
+                                                                                wound septic
+         1 patient experienced three adverse events including suspected burn
+        shock acute multisystesn organ failure and death
+                                                                                  and
+         1 patient experienced two adverse events including respiratory distress
+        intubation
+         1 patient experienced acute respiratory distress syndrome
+
+3 Chronic Venous Ulcer Pilot Study
+
+                                                                              in 36
+The trial was a randomized observer blinded parallel group feasibility study
+                                                  in the control group received standard
+patients with hard to heal venous ulcers Patients
+medical care 15 17 CCS and 12 19 standard of care patients completed the study
+                                                               serious adverse events
+21 36 58     patients had at least one adverse event The three
+                                                                                   hip
+reported in CCS patients were cardiac failure n 1 surgical intervention n 1 and
+fracture n 1 None of the events were judged by investigators as related to CCS
+application
+
+   The adverse events reported in this study for the CCS and control patients were
+
+
+
+
+4 Additional Patients Treated with CCS in the United States
+
+
+    a   A 15 day old newborn infant with EB was treated with CCS as an emergency use
+        device At 6 5 months after treatment the CCS treated sites remain healed with
+        no incidence of blistering or sloughing
+
+
+    b   A 28 day old newborn with areas of mixed superficial and deep partial thickness
+        skin loss on the right lower extremity secondary to the loss of blood and trauma to
+        the area with a circumferential wound of the right calf and thigh approximately
+        90 partial thickness and 10 superficial thickness was treated with CCS as an
+
+
+
+
+                                                                                               ZP
+                                                                                          12
+
+
+       emergency use device Six days after implantation the newborn was sepsis free
+       and the CCS treated wound was approximately 3Plo re epithelialized Despite the
+       progression of healing the child sustained Systemic Inflammatory Response
+       Syndrome SIRS em repeated bouts of blood borne septicemia Additionally
+      the child had severe respiratory distress syndrome RDS The child subsequently
+       died approximately 1 week post application of CCS as a result of RDS and
+       infection Takedown of the dressings in the morgue showed no indication of
+      primary infection at the level of the leg and repaired epithelium was noted over
+      the partial thickness loss sites The investigator and treating neonatologists
+      judged the cause of death as unrelated to device use
+
+  c   Donor sites and chronic wounds on a 16 year old EB patient were treated with
+      CCS as a compassionate use device The sites were covered with approximately
+      200 cm of CCS as was a chronic wound area located on the scalp measuring 55
+      cm By day 7 the donor sites were over 95 closed and by day 10 the sites
+      were 100 closed No evidence of blistering or sloughing was present and all
+      wounds remained infection free No AERs were reported through the 6 month
+      follow up At 8 months post CCS application the patient died because of
+      generalized sepsis after the development of an intestinal obstruction leading to
+      massive bowel ischemia and intestinal necrosis
+
+  D Immune Response
+     Clinical investigations to date have not revealed any significant clinical
+     manifestations of product related immuological reactions These clinical data
+     include treatment of 186 patients including 12 EB patients in the U S Sera
+     drawn from the patients in US studies revealed no antibody responses to bovine
+     Type I collagen The impact of device application on patients humoral or
+     cellular immune responses to the allogeneic human cellular components of CCS
+     i e keratinocytes and fibroblasts has not been determined
+
+X CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINCIAL STUDIES
+
+      The pre clinical safety studies demonstrate the biocompatibility of the device
+      components The animal studies also demonstrate that the collagen sponge
+      component of the device is rapidly resorbed and does not interfere with wound
+      repair
+
+      The limited clinical data presented are not adequate to definitely establish the safety
+      and effectiveness of the device for the treatment of patients with EB However the
+      data do demonstrate that the device can serve as a beneficial adjunct to standard
+      autograft procedures i e skin grafts and flaps for covering wounds and donor
+      sites created after the release of hand contractions i e mitten hand deformities
+      occurring in patients with RDEB The adverse events observed with the device are
+      similar and not of greater severity or frequency to those reported previously for
+      the proposed patient population
+
+
+
+
+                                                                                                d
+                                                                                            13
+
+
+                                                              during hand reconstruction
+     The standard treatment for healing of wounds created
+                                                                     dressings for wound
+     surgery of RDEB patients includes the use of non adherent
+                                                                  flaps and or split
+     coverage or surgical alternatives such as autologous skin
+     thickness skin grafts    Impaired wound healing infection risk and donor site
+                                                               split thickness donor grafts
+     scarring can occur in these patients after harvesting of
+                                                                  thickness autografts
+     Thus the use of CCS as an adjunct to skin flaps and split
+                                           by reducing the number and size of donor sites
+     provides probable benefit to patients                            the risk of associated
+     required after hand reconstruction surgery thereby reducing
+     complications
+                                                                                reasonable
+     In conclusion the preclinical safety and performance studies provide
+                                                                       The   limited  clinical
+     assurance that the device is appropriate for this intended use
+                                                                                   or
+     data suggest that the device will not expose patients to an unreasonable
+                                                                          to  health from
+     significant risk of illness or injury and that the probable benefit
+                                                                            considering the
+     using the device outweighs the risk of injury or illness especially
+                                                available devices or alternative   forms of
+     probable risks and benefits of currently
+     treatment for this disease
+
+XI CDRH DECISION
+                                                                       HDE application
+      CRH has determined that based on the data submitted in this
+                                                                               risk or
+      Composite Cultured Skin will not expose patients to an unreasonable
+                                                                     to health from  using the
+      significant risk of illness or injury and the probable benefit
+                                                                        this application was
+      device outweighs the risk of illness or injury Panel review of
+                                                                          Panel had
+      not performed because the General and Plastic Surgery Devices
+                                                   on three similar medical devices An
+      previously provided review and comment
+      approval order was issued on                  200l
+XIL APPROVAL SPECIFICATIONS
+
+      Directions for Use    See the Professional Labeling Attachment 1
+
+      Warnin s hazards to health with the use of the Device See Indications
+      Contraindications Warnings Precautions and Adverse Effects in the Labeling
+
+      Information for the Patient See Patient Labeling Attachment 2
+
+      Postapproval Requirements and Restrictions See approval order
+
+XIIL REFERENCES
+                                                                            8 11
+1 Scientific American Medicine 2 IX Vesiculobullous Diseases of the Skin pp
+                                              American Inc 415 Madison Ave
+  Eds D C Dale and D D Federman Scientific
+   N Y N Y 10017
+
+
+
+
+                                                                                                 2
+                                                                                           14
+
+2    The Treatment
+                   of Inherited Epidermolysis Bullosa Non molecular Approaches
+    Chapter 18 in Epidermolysis Bullosa Clinical Epidermologic and Laboratory
+    Advances and the Findings of the National EpidermolysisBullosa Registry Eds J D
+    Fine E A Bauer and J McGuire 1999 pp 65 80
+
+3   M Eisenberg and D Llewelyn Surgical management of hands in children with
+    recessive dystrophic epidermolysis bullosa use of allogeneic composite cultured skin
+            British Journal of Plastic Surgery 51 608 613 1998
+

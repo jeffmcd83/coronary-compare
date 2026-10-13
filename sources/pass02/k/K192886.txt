@@ -1,0 +1,282 @@
+March 26, 2019
+
+Volcano Corporation
+Jenny Fu
+Senior Regulatory Specialist
+3721 Valley Centre Drive, Ste 500
+San Diego, California 92130
+
+Re: K192886
+    Trade/Device Name: OmniWire Pressure Guide Wire
+    Regulation Number: 21 CFR 870.1330
+    Regulation Name: Catheter guide wire
+    Regulatory Class: Class II
+    Product Code: DQX, DXO
+    Dated: February 25, 2020
+    Received: February 27, 2020
+
+Dear Jenny Fu:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.04.14
+Silver Spring, MD 20993
+www.fda.gov
+K192886 - Jenny Fu                                                                                   Page 2
+
+
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+                                                 Stephen C. Browning -S5
+                                                LT Stephen Browning
+                                                Assistant Director
+                                                Division of Cardiac Electrophysiology, Diagnostics
+                                                  and Monitoring Devices
+                                                Office of Cardiovascular Devices
+                                                Office of Product Evaluation and Quality
+                                                Center for Devices and Radiological Health
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2020
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K192886
+
+Device Name
+OmniWire Pressure Guide Wire
+
+
+
+Indications for Use (Describe)
+The OmniWire pressure guide wire is indicated for use to measure pressure in blood vessels, including both coronary and
+peripheral vessels, during diagnostic angiography and/or any interventional procedures. It can also be used to facilitate the
+placement of catheters as well as other interventional devices in coronary and peripheral vessels. Blood pressure
+measurements provide hemodynamic information for the diagnosis and treatment of blood vessel disease.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (7/17)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                    Appendix 3: OmniWire Non-Confidential 510(k) Summary
+
+
+
+        OmniWire Pressure Guide Wire Non-Confidential 510(k) Summary
+
+510(k) Number:           K192886
+Date Prepared:           March 25, 2020
+Owner/Submitter          Philips Image Guided Therapy Corporation (formerly Volcano Corporation)
+Name & Address:          3721 Valley Center Drive
+                         Suite 500
+                         San Diego, CA 92130
+Contact Person:          Jenny Fu
+                         Senior Regulatory Affairs Specialist
+                         Telephone: (858) 720-4094
+                         E-mail: jenny.fu@philips.com
+
+Alternative Contact      Donald Ellis
+Person:                  Director Regulatory Affairs
+                         Telephone: (858) 209-3574
+                         E-mail: donald.ellis@philips.com
+
+Proprietary Name:        OmniWire Pressure Guide Wire
+Common/Usual Name:       Pressure Guide Wire
+Product Classification   DQX
+Code:                    DXO
+Product Regulation       870.1330 Wire, Guide, Catheter
+Number and Name:         870.2870 Catheter Tip Pressure Transducer
+Device Class:            II
+Predicate Device:        Verrata PLUS Pressure Guide Wire (K161887)
+
+Device Description:      The OmniWire pressure guide wire is a steerable guide wire with a pressure sensor
+                         mounted 3 cm proximal to the tip. The pressure guide wire measures pressure
+                         when used with the IntraSight and SmartMap systems and is intended to be used in
+                         adult patients eligible for endovascular procedures. The pressure guide wire has a
+                         diameter of 0.014" (0.36 mm), a length of 185 cm and is available in straight or pre-
+                         shaped tips. It is coated with hydrophilic coating (39 cm length) on the distal portion
+                         to reduce surface friction and enhance lubricity. It is also coated with a hydrophobic
+                         coating (146 cm length) on the proximal portion to reduce surface friction.
+                         The pressure guide wire is packaged attached to the connector with an OmniWire-
+                         specific torque device to facilitate navigation through the vasculature.
+
+Indications for Use:     The OmniWire pressure guide wire is indicated for use to measure pressure in
+                         blood vessels, including both coronary and peripheral vessels, during diagnostic
+                         angiography and/or any interventional procedures. It can also be used to facilitate
+                         the placement of catheters as well as other interventional devices in coronary and
+                         peripheral vessels. Blood pressure measurements provide hemodynamic
+                         information for the diagnosis and treatment of blood vessel disease.
+
+Comparison of Subject    The subject device and the predicate device have similar design, materials, physical
+to Predicate Device:     properties, and performance specifications. Both the predicate and subject device
+                         are 0.014’’ (0.36 mm) diameter pressure guide wires. They are both 185 cm in
+                         length, use the same pressure sensor, and both utilize a torque device to aid with
+                         navigation through vasculature. Therefore, there are no significant differences in
+                         technological characteristics between the devices.
+                         The indications for use, and technological characteristics of the OmniWire Pressure
+                         Guide Wire device that are subject to this Traditional 510(k) submission are
+                         substantially equivalent as the predicate, and are summarized in the following table:
+
+
+
+
+                                                                                                     Page 1 of 3
+        Appendix 3: OmniWire Non-Confidential 510(k) Summary
+   Description            Subject Device                  Predicate Device
+Proprietary Name    OmniWire Pressure Guide          Verrata PLUS Pressure
+                    Wire                             Guide Wire (K161887)
+
+
+Common Name         Pressure Guide Wire              Pressure Guide Wire
+Product             DQX                              DQX
+Classification      DXO                              DXO
+Code
+Product             870.1330, Catheter guide         870.1330, Catheter guide
+Regulation:         wire and                         wire and
+Number & Name       870.2870, Catheter tip           870.2870, Catheter tip
+                    pressure transducer              pressure transducer
+Device Class                      II                               II
+Device              The OmniWire Pressure            The Verrata PLUS Pressure
+Description         Guide Wire is a steerable        Guide Wire (hereafter
+                    guide wire with a pressure       referred to as the “Verrata
+                    sensor mounted 3 cm              PLUS”) is a steerable guide
+                    proximal to the tip. The         wire with a pressure
+                    pressure guide wire              transducer mounted 3 cm
+                    measures pressure when           proximal to the tip. The
+                    used with the IntraSight         Verrata PLUS measures
+                    and SmartMap systems             pressure when used with the
+                    and is intended to be used       SmartMap, ComboMap, s5
+                    in adult patients eligible for   Series, and CORE Series of
+                    endovascular procedures.         systems. The Verrata PLUS
+                    The pressure guide wire          has a diameter of 0.014”
+                    has a diameter of 0.014"         (0.36 mm).
+                    (0.36 mm), a length of 185
+                    cm and is available in
+                    straight or pre-shaped tips.
+
+
+Indications For     The OmniWire pressure            The Verrata PLUS pressure
+Use                 guide wire is indicated for      guide wire is indicated for
+                    use to measure pressure in       use to measure pressure in
+                    blood vessels, including         blood vessels, including
+                    both coronary and                both coronary and
+                    peripheral vessels, during       peripheral vessels, during
+                    diagnostic angiography           diagnostic angiography
+                    and/or any interventional        and/or any interventional
+                    procedures. It can also be       procedures. Blood pressure
+                    used to facilitate the           measurements provide
+                    placement of catheters as        hemodynamic information
+                    well as other interventional     for the diagnosis and
+                    devices in coronary and          treatment of blood vessel
+                    peripheral vessels. Blood        disease.
+                    pressure measurements
+                    provide hemodynamic
+                    information for the
+                    diagnosis and treatment of
+                    blood vessel disease.
+Contraindications   The OmniWire pressure            The Verrata PLUS pressure
+                    guide wire is not intended       guide wire is not intended
+                    for use with atherectomy         for use with atherectomy
+                    devices or for crossing a        devices or for crossing a
+                    total vessel occlusion.          total vessel occlusion.
+Technical           Wire Diameter: 0.0145            Wire Diameter: 0.0145
+Specifications      Wire Length: 185 cm              Wire Length: 185 cm and
+                    Sterility Assurance Level        300cm
+                    (SAL): 10-6                      Sterility Assurance Level
+                                                     (SAL): 10-6
+
+
+                                                                       Page 2 of 3
+                                   Appendix 3: OmniWire Non-Confidential 510(k) Summary
+Summary of              Performance bench testing was completed as part of design verification to establish
+Non-Clinical Testing:   Substantial Equivalence with the predicate device, and that the subject device
+                        performs as intended. Tests were conducted to evaluate the following:
+                        • Guidewire Tensile Strength
+                        • Torque Strength
+                        • Rotational Accuracy
+                        • Kink Resistance
+                        • Conformance to Electrical safety standards
+                        • Electromagnetic Compatibility
+                        • GLP Animal Study
+                        Additionally, simulated-use testing was completed as part of design validation to
+                        demonstrate the subject device met user needs and the intended use.
+                        The following test was performed:
+                        • Signal Drift
+
+Summary of              No new clinical testing was completed, nor relied upon, in support of this Traditional
+Clinical Testing:       510(k) submission.
+
+Statement of            The OmniWire Guide Wire device described in this Traditional 510(k) submission is
+Equivalence:            substantially equivalent to the currently marketed predicate device, K161887, based
+                        on comparisons of the device classifications, technological characteristics, and
+                        indications for use. The subject device met the pre-determined requirements.
+
+
+
+
+                                                                                                   Page 3 of 3
+

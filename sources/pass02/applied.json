@@ -1,0 +1,746 @@
+[
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Resolute Onyx",
+  "field": "drug",
+  "new": "Zotarolimus",
+  "source": "FDA SSED P160043 \u2014 P160043 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Resolute Onyx",
+  "field": "drug_dose",
+  "new": "~1.6 \u00b5g/mm\u00b2; max 317 \u00b5g (4.0\u00d738 mm)",
+  "source": "FDA SSED P160043 \u2014 P160043 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Resolute Onyx",
+  "field": "polymer",
+  "new": "BioLinx (Parylene C primer)",
+  "source": "FDA SSED P160043 \u2014 P160043 p.3; https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Resolute Onyx",
+  "field": "platform_alloy",
+  "new": "Cobalt alloy shell (ASTM F562) + platinum-iridium core; single wire",
+  "source": "FDA SSED P160043 \u2014 P160043 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Resolute Onyx",
+  "field": "nominal_pressure_atm",
+  "new": "12 atm",
+  "source": "FDA SSED P160043 \u2014 P160043 p.3; https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Resolute Onyx",
+  "field": "rbp_atm",
+  "new": "18 atm (2.25\u20134.0 mm); 16 atm (4.5\u20135.0 mm RX)",
+  "source": "FDA SSED P160043 \u2014 P160043 p.3; https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Resolute Onyx",
+  "field": "guide_compat",
+  "new": "\u22655 Fr (min ID 1.42 mm / 0.056 in)",
+  "source": "FDA SSED P160043 \u2014 P160043 p.3; https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Onyx Frontier",
+  "field": "drug",
+  "new": "Zotarolimus",
+  "source": "Medtronic Onyx Frontier HCP product page (Ordering information / Product details) \u2014 MDT-OF p.web; https://www.medtronic.com/en-us/healthcare-professionals/products/cardiovascular/coronary-stents/onyx-frontier-drug-eluting-stent.html"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Onyx Frontier",
+  "field": "drug_dose",
+  "new": "51\u2013317 \u00b5g nominal by size",
+  "source": "Medtronic Onyx Frontier HCP product page (Ordering information / Product details) \u2014 MDT-OF p.web; https://www.medtronic.com/en-us/healthcare-professionals/products/cardiovascular/coronary-stents/onyx-frontier-drug-eluting-stent.html"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Onyx Frontier",
+  "field": "polymer",
+  "new": "BioLinx",
+  "source": "Medtronic Onyx Frontier HCP product page (Ordering information / Product details) \u2014 MDT-OF p.web; https://www.medtronic.com/en-us/healthcare-professionals/products/cardiovascular/coronary-stents/onyx-frontier-drug-eluting-stent.html"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Onyx Frontier",
+  "field": "platform_alloy",
+  "new": "Cobalt alloy shell + platinum-iridium core; single wire",
+  "source": "Medtronic Onyx Frontier HCP product page (Ordering information / Product details) \u2014 MDT-OF p.web; https://www.medtronic.com/en-us/healthcare-professionals/products/cardiovascular/coronary-stents/onyx-frontier-drug-eluting-stent.html"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Onyx Frontier",
+  "field": "max_expansion_mm",
+  "new": "3.50 (2.0\u20132.5); 4.00 (2.75\u20133.0); 5.00 (3.5\u20134.0); 6.00 (4.5\u20135.0)",
+  "source": "Medtronic Onyx Frontier HCP product page (Ordering information / Product details) \u2014 MDT-OF p.web; https://www.medtronic.com/en-us/healthcare-professionals/products/cardiovascular/coronary-stents/onyx-frontier-drug-eluting-stent.html"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "REBEL",
+  "field": "platform_alloy",
+  "new": "Platinum chromium (PtCr)",
+  "source": "FDA SSED P130030 \u2014 P130030 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130030B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "REBEL",
+  "field": "strut_thickness_um",
+  "new": "81 (2.25\u20133.50 mm); 86 (4.00\u20134.50 mm)",
+  "source": "FDA SSED P130030 \u2014 P130030 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130030B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "REBEL",
+  "field": "nominal_pressure_atm",
+  "new": "11 atm",
+  "source": "FDA SSED P130030 \u2014 P130030 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130030B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "REBEL",
+  "field": "rbp_atm",
+  "new": "18 atm",
+  "source": "FDA SSED P130030 \u2014 P130030 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130030B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "REBEL",
+  "field": "delivery_length_cm",
+  "new": "144 cm",
+  "source": "FDA SSED P130030 \u2014 P130030 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130030B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "drug",
+  "new": "Biolimus A9 (BA9)",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "polymer",
+  "new": "Polymer-free (abluminal BA9 on micro-structured surface)",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "strut_thickness_um",
+  "new": "119 (6-crown, 2.25\u20133.0 mm); 114 (9-crown, 3.5\u20134.0 mm)",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "platform_alloy",
+  "new": "316L stainless steel",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "diameters_mm",
+  "new": "2.25, 2.5, 2.75, 3, 3.5, 4 mm",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "lengths_mm",
+  "new": "8, 11, 14, 18, 24, 28 mm",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "nominal_pressure_atm",
+  "new": "7 atm",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "rbp_atm",
+  "new": "16 atm (6-crown); 14 atm (9-crown)",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "delivery_length_cm",
+  "new": "142 cm",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "guide_compat",
+  "new": "\u22656 Fr (min ID 0.070 in / 1.78 mm)",
+  "source": "FDA SSED P190020 \u2014 P190020 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "PK Papyrus",
+  "field": "covering_material",
+  "new": "Electrospun siloxane-based polyurethane (abluminal)",
+  "source": "FDA SSED H170004 \u2014 H170004 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf17/H170004B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "PK Papyrus",
+  "field": "platform_alloy",
+  "new": "L605 cobalt chromium, proBIO a-SiC:H coated",
+  "source": "FDA SSED H170004 \u2014 H170004 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf17/H170004B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "PK Papyrus",
+  "field": "diameters_mm",
+  "new": "2.5, 3, 3.5, 4, 4.5, 5 mm",
+  "source": "FDA SSED H170004 \u2014 H170004 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf17/H170004B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "PK Papyrus",
+  "field": "lengths_mm",
+  "new": "15, 20, 26 mm",
+  "source": "FDA SSED H170004 \u2014 H170004 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf17/H170004B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "PK Papyrus",
+  "field": "delivery_length_cm",
+  "new": "140 cm",
+  "source": "FDA SSED H170004 \u2014 H170004 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf17/H170004B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "PK Papyrus",
+  "field": "guide_compat",
+  "new": "Guide ID \u22650.056 in (1.42 mm); 0.014 in wire",
+  "source": "FDA SSED H170004 \u2014 H170004 p.3; https://www.accessdata.fda.gov/cdrh_docs/pdf17/H170004B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "AGENT",
+  "field": "drug",
+  "new": "Paclitaxel",
+  "source": "FDA SSED P230035 \u2014 P230035 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230035B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "AGENT",
+  "field": "coating_excipient",
+  "new": "Acetyl tributyl citrate (ATBC), 20% of coating by weight",
+  "source": "FDA SSED P230035 \u2014 P230035 p.4; https://www.accessdata.fda.gov/cdrh_docs/pdf23/P230035B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Twin-Pass",
+  "field": "inner_diameter_in",
+  "new": "Dual lumen: OTW \u22640.018 in wire; RX \u22640.014 in wire (Twin-Pass .023\")",
+  "source": "FDA 510(k) summary K062877 \u2014 K062877 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf6/K062877.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Twin-Pass",
+  "field": "marker_bands",
+  "new": "1 distal radiopaque marker band",
+  "source": "FDA 510(k) summary K062877 \u2014 K062877 p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf6/K062877.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Runthrough NS",
+  "field": "core_material",
+  "new": "Ni/Ti + stainless steel joined core",
+  "source": "FDA 510(k) summary K063695 \u2014 K063695 p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf6/K063695.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Runthrough NS",
+  "field": "coating",
+  "new": "Silicone and/or hydrophilic (by product code)",
+  "source": "FDA 510(k) summary K063695 \u2014 K063695 p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf6/K063695.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "HI-TORQUE PILOT",
+  "field": "coating",
+  "new": "Hydrophilic over polyurethane-covered distal section",
+  "source": "FDA 510(k) summary K101116 \u2014 K101116 p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf10/K101116.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Caravel",
+  "field": "tip_od_fr",
+  "new": "Distal OD 0.62 mm; proximal 0.85 mm (nominal)",
+  "source": "FDA 510(k) summary K152447 \u2014 K152447 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf15/K152447.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Corsair Pro",
+  "field": "shaft_od_fr",
+  "new": "Nominal OD 0.93 mm",
+  "source": "FDA 510(k) summary K161126 \u2014 K161126 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161126.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Corsair Pro",
+  "field": "marker_bands",
+  "new": "No marker (per comparison table)",
+  "source": "FDA 510(k) summary K161126 \u2014 K161126 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161126.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Refinity ST",
+  "field": "pullback_speed",
+  "new": "Imaging core travel up to 15 cm (telescoping section)",
+  "source": "FDA 510(k) summary K160583 \u2014 K160583 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160583.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "GuideLiner V3",
+  "field": "length_cm",
+  "new": "150 cm working length (125 cm SS pushrod)",
+  "source": "FDA 510(k) summary K172090 \u2014 K172090 p.4; https://www.accessdata.fda.gov/cdrh_docs/pdf17/K172090.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Mamba",
+  "field": "inner_diameter_in",
+  "new": "Accepts \u22640.014 in guidewires",
+  "source": "FDA 510(k) summary K190401 \u2014 K190401 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190401.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Navvus II",
+  "field": "physiology_indices",
+  "new": "FFR, resting Pd/Pa",
+  "source": "FDA 510(k) summary K190473 \u2014 K190473 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190473.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Navvus II",
+  "field": "wire_diameter_in",
+  "new": "Rides over 0.014 in wire; max profile 2.7 F (0.036 in) at sensor",
+  "source": "FDA 510(k) summary K190473 \u2014 K190473 p.4; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190473.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Gaia Next",
+  "field": "core_material",
+  "new": "Stainless steel",
+  "source": "FDA 510(k) summary K192599 \u2014 K192599 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K192599.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Gaia Next",
+  "field": "coating",
+  "new": "Hydrophilic, distal 40 cm",
+  "source": "FDA 510(k) summary K192599 \u2014 K192599 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K192599.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "OmniWire",
+  "field": "coating",
+  "new": "Hydrophilic distal 39 cm; proximal 146 cm coating",
+  "source": "FDA 510(k) summary K192886 \u2014 K192886 p.4; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K192886.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "COMET II",
+  "field": "physiology_indices",
+  "new": "FFR",
+  "source": "FDA 510(k) summary K193279 \u2014 K193279 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K193279.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "PressureWire X",
+  "field": "physiology_indices",
+  "new": "FFR",
+  "source": "FDA 510(k) summary K180558 \u2014 K180558 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf18/K180558.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Turnpike",
+  "field": "guidewire_compat_in",
+  "new": "0.014 in",
+  "source": "FDA 510(k) summary K212211 \u2014 K212211 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K212211.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "OptiCross HD",
+  "field": "frequency_mhz",
+  "new": "60 MHz",
+  "source": "FDA 510(k) summary K213593 \u2014 K213593 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213593.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "OptiCross HD",
+  "field": "pullback_speed",
+  "new": "Imaging core travel 15 cm (telescoping section)",
+  "source": "FDA 510(k) summary K213593 \u2014 K213593 p.5; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213593.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Dragonfly OpStar",
+  "field": "modality",
+  "new": "OCT (near-infrared, rotating fiber-optic core)",
+  "source": "FDA 510(k) summary K230411 \u2014 K230411 p.4; https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230411.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "NES Reprocessed Eagle Eye Platinum RX",
+  "field": "french_sizes",
+  "new": "3.5 Fr",
+  "source": "FDA 510(k) summary K223026 \u2014 K223026 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223026.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "NES Reprocessed Eagle Eye Platinum RX",
+  "field": "sheath_compat_fr",
+  "new": "5 Fr",
+  "source": "FDA 510(k) summary K223026 \u2014 K223026 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223026.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "NES Reprocessed Eagle Eye Platinum RX",
+  "field": "guidewire_compat_in",
+  "new": "0.014 in",
+  "source": "FDA 510(k) summary K223026 \u2014 K223026 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223026.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Vein360 Reprocessed Eagle Eye Platinum RX",
+  "field": "french_sizes",
+  "new": "3.5 Fr",
+  "source": "FDA 510(k) summary K232584 \u2014 K232584 p.7; https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232584.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Vein360 Reprocessed Eagle Eye Platinum RX",
+  "field": "sheath_compat_fr",
+  "new": "5 Fr",
+  "source": "FDA 510(k) summary K232584 \u2014 K232584 p.7; https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232584.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Vein360 Reprocessed Eagle Eye Platinum RX",
+  "field": "length_cm",
+  "new": "150 cm",
+  "source": "FDA 510(k) summary K232584 \u2014 K232584 p.7; https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232584.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Vein360 Reprocessed Eagle Eye Platinum RX",
+  "field": "guidewire_compat_in",
+  "new": "0.014 in",
+  "source": "FDA 510(k) summary K232584 \u2014 K232584 p.7; https://www.accessdata.fda.gov/cdrh_docs/pdf23/K232584.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Innovative Health Reprocessed Eagle Eye Platinum RX",
+  "field": "french_sizes",
+  "new": "3.5 Fr",
+  "source": "FDA 510(k) summary K210655 \u2014 K210655 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210655.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Innovative Health Reprocessed Eagle Eye Platinum RX",
+  "field": "guidewire_compat_in",
+  "new": "0.014 in",
+  "source": "FDA 510(k) summary K210655 \u2014 K210655 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210655.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Innovative Health Reprocessed Eagle Eye Platinum RX",
+  "field": "length_cm",
+  "new": "150 cm",
+  "source": "FDA 510(k) summary K210655 \u2014 K210655 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210655.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Innovative Health Reprocessed Eagle Eye Platinum RX",
+  "field": "catalog_numbers",
+  "new": "85900P (OEM item reprocessed)",
+  "source": "FDA 510(k) summary K210655 \u2014 K210655 p.6; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210655.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "INDIGO CAT RX",
+  "field": "mechanism",
+  "new": "Aspiration (Penumbra pump)",
+  "source": "FDA 510(k) summary K220683 \u2014 K220683 p.4; https://www.accessdata.fda.gov/cdrh_docs/pdf22/K220683.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "XIENCE Skypoint",
+  "field": "fda_submission",
+  "new": "P110019",
+  "source": "FDA PMA DB: P110019 supplements (e.g., S113 2021-05-13) trade name \"XIENCE Skypoint\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P110019"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "XIENCE Sierra",
+  "field": "fda_submission",
+  "new": "P110019",
+  "source": "FDA PMA DB: P110019 supplements (e.g., S096 2018-03-05) incl. \"Sierra\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P110019"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Orsiro Mission",
+  "field": "fda_submission",
+  "new": "P170030",
+  "source": "FDA PMA DB: P170030 S036/S046 \"Orsiro Mission\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P170030"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "MULTI-LINK 8",
+  "field": "fda_submission",
+  "new": "P020047",
+  "source": "FDA PMA DB: P020047 \"MULTI-LINK 8 and MULTI-LINK 8 LL\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P020047"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "PK Papyrus",
+  "field": "fda_submission",
+  "new": "H170004",
+  "source": "FDA HDE H170004 SSPB p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf17/H170004B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Diamondback 360 Coronary OAS",
+  "field": "fda_submission",
+  "new": "P130005",
+  "source": "FDA SSED P130005 p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf13/P130005B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "GuideLiner V3",
+  "field": "fda_submission",
+  "new": "K172090",
+  "source": "FDA 510(k) K172090 \"GuideLiner V3 Catheter\"; https://www.accessdata.fda.gov/cdrh_docs/pdf17/K172090.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Heartrail III",
+  "field": "fda_submission",
+  "new": "K113335",
+  "source": "FDA 510(k) K113335 \"HEARTRAIL III GUIDING CATHETER\"; https://www.accessdata.fda.gov/cdrh_docs/pdf11/K113335.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Gaia Next",
+  "field": "fda_submission",
+  "new": "K192599",
+  "source": "FDA 510(k) K192599 \"ASAHI Gaia Next\"; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K192599.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "HI-TORQUE PILOT",
+  "field": "fda_submission",
+  "new": "K101116",
+  "source": "FDA 510(k) K101116 \"HI-TORQUE PILOT 50 and 150\"; https://www.accessdata.fda.gov/cdrh_docs/pdf10/K101116.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Runthrough NS",
+  "field": "fda_submission",
+  "new": "K063695",
+  "source": "FDA 510(k) K063695 \"RUNTHROUGH NS\"; https://www.accessdata.fda.gov/cdrh_docs/pdf6/K063695.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "SION black",
+  "field": "fda_submission",
+  "new": "K173277",
+  "source": "FDA 510(k) K173277 \"ASAHI SION black\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K173277"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Guidezilla II",
+  "field": "fda_submission",
+  "new": "K163314",
+  "source": "FDA 510(k) K163314 \"Guidezilla II\"; https://www.accessdata.fda.gov/cdrh_docs/pdf16/K163314.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Mamba",
+  "field": "fda_submission",
+  "new": "K190401",
+  "source": "FDA 510(k) K190401 \"MAMBA and MAMBA Flex\"; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K190401.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Corsair Pro",
+  "field": "fda_submission",
+  "new": "K161126",
+  "source": "FDA 510(k) K161126 \"ASAHI Corsair Pro\"; https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161126.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Caravel",
+  "field": "fda_submission",
+  "new": "K152447",
+  "source": "FDA 510(k) K152447 \"ASAHI Caravel\"; https://www.accessdata.fda.gov/cdrh_docs/pdf15/K152447.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "OptiCross HD",
+  "field": "fda_submission",
+  "new": "K213593",
+  "source": "FDA 510(k) K213593 \"OptiCross HD\"; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213593.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Dragonfly OpStar",
+  "field": "fda_submission",
+  "new": "K230411",
+  "source": "FDA 510(k) K230411 \"Dragonfly OpStar Imaging Catheter\"; https://www.accessdata.fda.gov/cdrh_docs/pdf23/K230411.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "COMET II",
+  "field": "fda_submission",
+  "new": "K193279",
+  "source": "FDA 510(k) K193279 \"Comet II Pressure Guidewire\"; https://www.accessdata.fda.gov/cdrh_docs/pdf19/K193279.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "ROTAPRO",
+  "field": "fda_submission",
+  "new": "K220962",
+  "source": "FDA 510(k) K220962 \"ROTAPRO\" (also P900056 per GUDID); https://www.accessdata.fda.gov/cdrh_docs/pdf22/K220962.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "BioFreedom",
+  "field": "fda_submission",
+  "new": "P190020",
+  "source": "FDA SSED P190020 \u2014 P190020 p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf19/P190020B.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "INDIGO CAT RX",
+  "field": "fda_submission",
+  "new": "K220683",
+  "source": "FDA 510(k) summary K220683 \u2014 K220683 p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf22/K220683.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Innovative Health Reprocessed Eagle Eye Platinum RX",
+  "field": "fda_submission",
+  "new": "K210655",
+  "source": "FDA 510(k) summary K210655 \u2014 K210655 p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210655.pdf"
+ },
+ {
+  "pass": 2,
+  "table": "spec",
+  "model": "Telescope",
+  "field": "fda_submission",
+  "new": "K252390",
+  "source": "FDA 510(k) DB K183353 (2019) and K252390 (2025) \"Telescope Guide Extension Catheter\"; https://www.accessdata.fda.gov/cdrh_docs/pdf18/K183353.pdf"
+ }
+]

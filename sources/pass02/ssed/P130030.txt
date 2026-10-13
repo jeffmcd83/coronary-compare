@@ -1,0 +1,2055 @@
+ SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I. GENERAL INFORMATION
+
+       Device Generic Name:                  Stent, Coronary
+
+       Device Trade Name:                    REBEL™ Platinum Chromium Coronary Stent
+                                             System (Monorail® and Over-the-Wire) (REBEL
+                                             Stent System)
+
+       Device Procode:                       MAF
+
+       Applicant’s Name and Address:         Boston Scientific Corporation
+                                             One Scimed Place
+                                             Maple Grove, MN 55311
+
+       Date(s) of Panel Recommendation: None
+
+       Premarket Approval Application (PMA) Number: P130030
+
+       Date of FDA Notice of Approval:       June 27, 2014
+
+
+II. INDICATIONS FOR USE
+
+       The REBEL Platinum Chromium Coronary Stent System is indicated for improving
+       coronary luminal diameter in patients with de novo lesions ≤ 28 mm in length in native
+       coronary arteries with a reference vessel diameter (RVD) of ≥ 2.25 to ≤ 4.50 mm.
+
+III. CONTRAINDICATIONS
+
+   Use of the REBEL Stent System is contraindicated in patients with the following:
+
+   •   Known hypersensitivity to platinum, the platinum chromium alloy, or similar alloy types
+       such as stainless steel.
+   •   Known severe reaction to contrast agents that cannot be adequately premedicated prior to
+       the REBEL Stent placement procedure.
+
+   Coronary artery stenting is contraindicated for use in the following:
+
+   •   Patients who cannot receive recommended anti-platelet and/or anticoagulant therapy.
+   •   Patients judged to have a lesion that prevents complete inflation of an angioplasty balloon
+       or proper placement of the stent or delivery device.
+
+
+IV. WARNINGS AND PRECAUTIONS
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                 Page 1
+    The warnings and precautions can be found in the REBEL Platinum Chromium Coronary
+    Stent System labeling.
+
+V. DEVICE DESCRIPTION
+
+    The REBEL Stent System is a single-use device comprised of a balloon-expandable,
+    intracoronary REBEL stent pre-mounted on a rapid exchange, Monorail®, or Over-the-Wire
+    delivery catheter. The REBEL stent is made from a platinum chromium alloy (PtCr). The
+    stent is laser cut into a pattern which consists of serpentine rings connected by links and are
+    polished to a uniform rounded surface.
+
+    The characteristics of the REBEL Stent System are described in Table 1.
+
+Table 1: REBEL Platinum Chromium Coronary Stent System Product Description
+                                                                       REBEL
+                               REBEL
+                                                              Over-the-Wire Stent Delivery
+                    Monorail™ Stent Delivery System
+                                                                        System
+                                            Stent
+Available Stent
+                                             8*, 12, 16, 20, 24, 28, 32*
+Lengths (mm)
+Available Stent
+                                     2.25*, 2.50*, 2.75, 3.00, 3.50, 4.00, 4.50*
+Diameters (mm)
+Stent Material                           Platinum Chromium (PtCr) Alloy
+Stent Strut                 0.0032 inches (0.081 mm) for diameters 2.25 mm to 3.50 mm
+Thickness                 0.0034 inches (0.086 mm) for diameters 4.00 mm and 4.50 mm
+                                       Delivery System
+Effective Length                                       144 cm
+                    Single access port to inflation lumen. Y-Connector (Side arm for access to
+                    Guidewire exit port is located          balloon inflation/deflation lumen.
+Delivery System
+                    approximately 25 cm from tip.           Straight arm is continuous with shaft
+Ports
+                    Designed for guidewire ≤0.014           inner lumen). Designed for
+                    inches (0.36 mm).                       guidewire ≤0.014 inches (0.36 mm).
+                    A balloon, with two radiopaque balloon markers, nominally placed 0.4 mm
+Stent Delivery
+                    (0.016 inches) beyond the stent at each end.
+Balloon Inflation   Nominal Inflation Pressure: 11 atm (1117 kPa)
+Pressure            Rated Burst Inflation Pressure:18 atm (1827 kPa)
+                                                            3.4F (≤1.20 mm) proximal for 2.25
+                                                                     to 4.50 mm sizes
+Catheter Shaft           2.1 F (.0.70 mm) proximal          2.4F (≤0.85 mm) distal for 2.25 to
+Outer Diameter             2.7 F (0.95 mm) distal.                    2.75 mm sizes
+                                                            2.7F (≤0.95 mm) distal for 3.00 to
+                                                                      4.50 mm sizes
+Guide Catheter       ≥0.056 inches (1.42 mm) for 2.25 –
+Minimum Inner                  4.00 mm sizes
+                                                                  ≥0.066 inches (1.68 mm)
+Diameter              ≥0.066 inches (1.68 mm) for 4.50
+Requirement                       mm size
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                           Page 2
+* 32 mm length is not available in 2.25 mm and 2.50 mm diameter size. 8 mm length is not available in 4.50 mm diameter size.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                                           Page 3
+        The REBEL stent is available in four stent models across the range of reference vessel
+        diameters indicated:
+
+        •             Small Vessel (SV): 2.25 mm
+        •             Small Workhorse (SWH): 2.50 mm and 2.75 mm
+        •             Workhorse (WH): 3.00 mm and 3.50 mm
+        •             Large Vessel (LV): 4.00 mm and 4.50 mm
+
+        The commercial matrix is shown in Table 2 below:
+
+Table 2: REBEL Stent System US Commercial Matrix
+
+                                                                        Stent Length
+                                               8 mm      12 mm     16 mm 20 mm 24 mm            28 mm     32 mm
+ Balloon Diameter /
+
+
+
+
+                          SV      2.25 mm        X         X         X       X       X            X
+                                  2.50 mm        X         X         X       X       X            X
+    Stent Model
+
+
+
+
+                        SWH
+                                  2.75 mm        X         X         X       X       X            X           X
+                                  3.00 mm        X         X         X       X       X            X           X
+                         WH
+                                  3.50 mm        X         X         X       X       X            X           X
+                                  4.00 mm        X         X         X       X       X            X           X
+                          LV
+                                  4.50 mm                  X         X       X       X            X           X
+
+
+
+VI.                   ALTERNATIVE PRACTICES AND PROCEDURES
+
+                      There are several other alternatives for the correction of coronary artery disease: exercise,
+                      diet, smoking cessation, drug therapy, percutaneous coronary interventions (such as
+                      angioplasty and placement of bare metal stents, coated stents, and other drug eluting
+                      stents), and coronary artery bypass graft surgery (CABG). Each alternative has its own
+                      advantages and disadvantages. A patient should fully discuss these alternatives with
+                      his/her physician to select the method that best meets expectations and lifestyle.
+
+VII.                  MARKETING HISTORY
+
+                      The REBEL Stent System received CE Mark 05 February 2014. As of 31 May 2014,
+                      approximately 1,305 REBEL Stent Systems have been distributed outside the United
+                      States. Table 3 contains a list of countries where the REBEL Stent System is currently
+                      available. No products have been withdrawn from the market in any country for any
+                      reason
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                                  Page 4
+       The REBEL Stent System is a design iteration of the CE Marked OMEGA™ Platinum
+       Chromium Coronary Stent System and contains many of the same design elements and
+       materials. As of 31 October 2013, approximately 185,549 OMEGA Stent Systems have
+       been distributed outside the United States. Table 3 contains a list of countries where the
+       OMEGA Stent System is currently available. No products have been withdrawn from the
+       market in any country for any reason.
+
+Table 3: Countries with REBEL (R) or OMEGA (O) Stent System Commercial Availability
+    Albania (R,O)          Algeria (R,O)           Andorra (R,O)           Antigua/Barbuda
+                                                                           (R,O)
+    Argentina (O)          Armenia (R,O)           Aruba (R,O)             Australia (O)
+    Austria (R,O)          Azerbaijan (R,O)        Bahamas (R,O)           Bahrain (R,O)
+    Bangladesh (O)         Barbados (R,O)          Belgium (R,O)           Belize (R,O)
+    Belarus (O)            Bermuda (R,O)           Bolivia (O)             Bosnia (O)
+    Brazil (O)             Brunei (R,O)            Bulgaria (R,O)          Chile (R,O)
+    Colombia (O)           Costa Rica (O)          Croatia (R,O)           Cyprus (R,O)
+    Czech Republic (R,O)   Denmark (R,O)           Djibouti (R,O)          Dominican Republic
+                                                                           (R,O)
+    Dutch Antilles (R,O)   Ecuador (O)             Egypt (O)               El Salvador (R,O)
+    Estonia (R,O)          Finland (R,O)           France (R,O)            Georgia (R,O)
+    Germany (R,O)          Great Britain (R,O)     Greece (R,O)            Guatemala (O)
+    Guyana (R,O)           Haiti (R,O)             Honduras (R,O)          Hong Kong (O)
+    Hungary (R,O)          Iceland (R,O)           India (O)               Indonesia (O)
+     Israel (O)             Iraq (R,O)              Ireland (R,O)          Italy (R,O)
+    Jamaica (R,O)          Jordan (O)              Kenya (R,O)             Korea (O)
+    Kuwait (R,O)           Latvia (R,O)            Lebanon (R,O)           Libya (R,O)
+    Liechtenstein (R,O)    Lithuania (R,O)         Luxembourg (R,O)        Macedonia (O)
+    Macau (O)              Malaysia (O)            Malta (R,O)             Martinique (R,O)
+    Moldavia (R,O)         Morocco (R,O)           Myanmar (R,O)           Nepal (R,O)
+    Netherlands (R,O)      New Zealand (O)         Nicaragua (R,O)         Norway (R,O)
+    Oman (R,O)             Pakistan (O)            Palestinian Territory   Panama (O)
+                                                   (O)
+    Paraguay (O)           Peru (O)                Philippines (O)         Poland (R,O)
+    Puerto Rico (O)        Portugal (R,O)          Qatar (R,O)             Romania (R,O)
+    Russia (O)             Saudi Arabia (O)        Serbia (O)              Singapore (O)
+    Slovakia (R,O)         Sri Lanka (O)           Slovenia (R,O)          South Africa (O)
+    Spain (R,O)            Surinam (R,O)           Sweden (R,O)            Switzerland (R,O)
+    Syria (O)              Taiwan (O)              Thailand (O)            Trinidad/Tobago
+                                                                           (R,O)
+    Tunisia (R,O)          Turkey (O)              Ukraine (R,O)           United Arab Emirates
+                                                                           (R,O)
+    Venezuela (O)          Vietnam (O)             Yemen (R,O)             -
+
+
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+       Below is a list of the potential adverse effects (e.g., complications) associated with the
+       use of the REBEL Stent System.
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                   Page 5
+       • Abrupt closure
+       • Allergic reaction (including to medications, contrast, stent materials)
+       • Aneurysm (coronary)
+       • Angina
+       • Arrhythmias, including ventricular fibrillation and ventricular tachycardia
+       • Arteriovenous fistula
+       • Bleeding
+       • Cardiac tamponade
+       • Cardiogenic shock
+       • Cardiomyopathy
+       • Death
+       • Emboli (including air, tissue, thrombus, plaque, or device materials)
+       • Heart failure
+       • Hematoma
+       • Hemorrhage
+       • Hypotension/hypertension
+       • Infection, local and/or systemic
+       • Ischemia, myocardial
+       • Myocardial infarction
+       • Pain
+       • Pericardial effusion
+       • Pseudoaneurysm, femoral
+       • Pulmonary edema
+       • Renal insufficiency or failure
+       • Respiratory failure
+       • Restenosis of stented segment
+       • Shock
+       • Stent embolization
+       • Stent fracture
+       • Stent migration
+       • Stent thrombosis and/or vessel occlusion
+       • Stroke/cerebrovascular accident/transient ischemic attack
+       • Total occlusion of coronary artery
+       • Vessel spasm
+       • Vessel injury (including dissection, perforation, rupture or trauma)
+
+       For the specific adverse events that occurred in the clinical studies, please see Section X
+       below.
+
+IX. SUMMARY OF PRECLINICAL STUDIES
+
+       A. Laboratory Testing
+
+       1. Biocompatibility Studies
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                   Page 6
+        A series of biocompatibility tests were conducted to demonstrate that the components of
+        the REBEL Stent System are biocompatible. Testing was conducted separately for the
+        stent implant and the stent delivery system. Tests were conducted on ethylene oxide-
+        sterilized bare metal, platinum chromium alloy (PtCr) stents and balloon catheters. These
+        test articles were processed in a manner similar to the finished REBEL Stent System
+        product. There were some manufacturing differences that were determined not to impact
+        the biocompatibility of the final device.
+
+        All biocompatibility testing was conducted in accordance with:
+            • Guidance for Industry and FDA Staff: Non-Clinical Engineering Tests and
+               Recommended Labeling for Intravascular Stents and Associated Delivery
+               Systems Guidance, 18 April 2010
+            • Good Laboratory Practices Regulations (§21 CFR Part 58)
+            • ISO 10993-1, Biological Evaluation of Medical Devices: Evaluation and Testing
+
+        The tests summarized in Table 4 have been conducted in support of the REBEL stent
+        component as recommended for a permanent implantable device contacting circulating
+        blood for > 30 days.
+
+Table 4: Biological Evaluation Tests Performed on Stent
+ Test Performed /                Test Purpose                      Acceptance Criteria                Results
+  Applicable ISO
+10993 Part Number
+Cytotoxicity MEM        To determine the potential for      The test article meets test                Pass
+Elution / Part 5        cytotoxicity                        requirements if none of the cultures       Non
+                                                            treated with the test article show       Cytotoxic
+                                                            greater than Mild reactivity (Grade
+                                                            2).
+Sensitization Guinea    To evaluate the allergenic          Skin reaction scores received by the       Pass
+Pig Max / Part 10       potential or sensitizing            test group must be equal or less           Non-
+                        capacity of a test article.         than the scores received by the          Sensitizer
+                                                            negative control group.
+Irritation              To screen test article extracts     The requirements of the test are           Pass
+Intracutaneous          for potential irritation effects.   met if the difference between the       Non-Irritant
+Reactivity / Part 10                                        test article and the control mean
+                                                            score is 1.0 or less (negligible or
+                                                            slight).
+Acute Systemic          To screen test article extracts     Test is considered negative if none       Pass
+Toxicity / Part 11      for potential systemic toxic        of the animals injected with the test   Negative,
+                        effects.                            article show a significantly greater    Non-toxic
+                                                            biological reaction than the animals
+                                                            treated with the vehicle control.
+Material-Mediated       To determine the presence of        If no rabbit shows an individual          Pass
+Rabbit Pyrogenicity /   chemical pyrogens in extracts       rise in temperature of 0.5°C or           Non-
+Part 11                 of a test article causing a         more above baseline, the test article   Pyrogenic
+                        febrile response in rabbits.        meets the requirements of the test.
+Hemolysis Direct        To assess the hemolytic             Results are considered “pass” if the      Pass
+Contact / Part 4        activity of the test article when   hemolytic index of test article is        Non-
+                        in direct contact with blood.       5% or less.                             Hemolytic
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                            Page 7
+ Test Performed /               Test Purpose                       Acceptance Criteria               Results
+  Applicable ISO
+10993 Part Number
+Hemolysis Indirect     To assess the hemolytic              Results are considered “pass” if the       Pass
+Contact / Part 4       activity of a test article extract   hemolytic index of test article            Non-
+                       in contact with blood.               extract is 5% or less.                  Hemolytic
+Complement             Measurement of complement            The concentration of C3a and               Pass
+Activation / Part 4    activation indicates whether a       SC5b-9 in serum exposed to the         Negative for
+                       test article is capable of           positive control should be               C3a and
+                       inducing a complement-               significantly greater than those in      SC5b-9
+                       induced inflammatory immune          the corresponding untreated serum.        assays
+                       response in humans.                  The test article will be considered
+                                                            positive or negative based upon a
+                                                            statistical comparison to the
+                                                            positive control.
+In Vitro               To determine if the test article     Test article results should be             Pass
+Hemocompatibility      would adversely affect the           comparable to the results of the         Results
+Assay / Part 4         various cellular and non-            negative blood control or the          comparable
+                       cellular components of the           reference material controls.           to negative
+                       blood.                                                                        control
+Partial                To determine the time citrated       Results are considered “pass” if the       Pass
+Thromboplastin         plasma exposed to a test             average clotting time of the test        Results
+Time / Part 4          material takes to form a clot        article is at least 50% compared to    comparable
+                       when exposed to a suspension         that of the negative control.          to negative
+                       of phospholipid particles and                                                 control
+                       calcium chloride.
+Genotoxicity Ames      To evaluate the mutagenic            The test article is considered           Pass
+Assay / Part 3         potential of leachables from         negative if it does not cause           Non-
+                       the test article.                    increase in 2-fold the mean            Mutagenic
+                                                            revertant in all test strains of
+                                                            bacteria.
+Genotoxicity Mouse     To evaluate mutagenicity of          The test article is considered           Pass
+Lymphoma / Part 3      the test agents.                     negative if the test article-dosed      Non-
+                                                            cultures have a mutation frequency     Mutagenic
+                                                            (MF) of less than 1.8 fold higher
+                                                            than that of the concurrent negative
+                                                            control plates.
+Sub-chronic            To evaluate the potential for        Test is considered negative if the        Pass
+Toxicity,              local and systemic toxicity of       test article did not induce a          No systemic
+Implantation/ Part 6   a test article implanted             significantly greater biological        toxicity,
+& 11                   subcutaneously in rats for 13        reaction than the control article.     Non-Irritant
+                       weeks.
+Implantation - In      This test is to confirm there is     No significant differences in             Pass
+Vivo                   no abnormal thrombosis               vascular response between test          No stent-
+Thrombogenicity /      related to the stent.                article and control stents in stent-     related
+Part 4 & 6                                                  related mortality or luminal           mortality.
+                                                            thrombus.                              No luminal
+                                                                                                   thrombus.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                           Page 8
+  Test Performed /               Test Purpose                      Acceptance Criteria                Results
+  Applicable ISO
+10993 Part Number
+Implantation / Part 6   To evaluate the potential for a    Test is considered negative if the          Pass
+                        local irritant or toxic response   test article did not induce a            Non-Irritant
+                        to material(s) implanted in        significantly greater biological
+                        direct contact with                reaction than the control article.
+                        subcutaneous tissue of the
+                        rabbit.
+USP                     To determine the physical and      Non-volatile residue <15mg,                 Pass
+Physicochemical         chemical properties of an          residue on ignition <5mg (only
+Test for Plastics /     extract of a test material.        performed when Non-volatile
+Part 18                                                    residue is > 15 mg), heavy metals
+                                                           <1ppm and buffering capacity
+                                                           <10ml.
+
+
+    The tests summarized in Table 5 have been performed in support of the REBEL delivery
+    system catheter as recommended for externally communicating device contacting the
+    circulating blood with limited exposure of < 24 hours.
+
+Table 5: Biological Evaluation Tests Performed on Delivery System Catheter
+ Test Performed /               Test Purpose                     Acceptance Criteria                 Results
+Applicable EN ISO
+   10993 Part
+     Number
+Cytotoxicity MEM        To determine the potential        The test article meets test                Pass
+  Elution / Part 5      for cytotoxicity                  requirements if none of the cultures     Non-Toxic
+                                                          treated with the test article show
+                                                          greater than Mild reactivity (Grade
+                                                          2).
+Sensitization Guinea    To evaluate the allergenic        Skin reaction scores received by the        Pass
+ Pig Maximization /     potential or sensitizing          test group must be equal or less        Non-Sensitizer
+       Part 10          capacity of a test article.       than the scores received by the
+                                                          negative control group.
+     Irritation         To screen test article extracts The requirements of the test are met          Pass
+  Intracutaneous        for potential irritation effects. if the difference between the test       Non-Irritant
+Reactivity / Part 10                                      article and the control mean score is
+                                                          1.0 or less (negligible or slight).
+  Acute Systemic        To screen test article extracts Test is considered negative if none          Pass
+ Toxicity / Part 11     for potential systemic toxic      of the animals injected with the test    Non-Toxic
+                        effects.                          article show a significantly greater
+                                                          biological reaction than the animals
+                                                          treated with the vehicle control.
+Material-Mediated       To determine the presence of If no rabbit shows an individual rise            Pass
+Rabbit Pyrogenicity     chemical pyrogens in              in temperature of 0.5°C or more             Non-
+     / Part 11          extracts of a test article        above baseline, the test article          Pyrogenic
+                        causing a febrile response in meets the requirements of the test.
+                        rabbits.
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                            Page 9
+ Test Performed /              Test Purpose                    Acceptance Criteria                 Results
+Applicable EN ISO
+   10993 Part
+     Number
+ Hemolysis Direct      To assess the hemolytic          Results are considered “pass” if the       Pass
+  Contact / Part 4     activity of the test article     hemolytic index of test article is 5%      Non-
+                       when in direct contact with      or less.                                 Hemolytic
+                       blood.
+Hemolysis Indirect     To assess the hemolytic          Results are considered “pass” if the       Pass
+ Contact / Part 4      activity of a test article       hemolytic index of test article            Non-
+                       extract in contact with blood.   extract is 5% or less.                   Hemolytic
+
+   Complement          Measurement of complement        The concentration of C3a and                Pass
+ Activation / Part 4   activation indicates whether     SC5b-9 in serum exposed to the           Negative for
+                       a test article is capable of     positive control should be                C3a and
+                       inducing a complement-           significantly greater than those in     SC5b-9 assays
+                       induced inflammatory             the corresponding untreated serum.
+                       immune response in humans.       The test article will be considered
+                                                        positive or negative based upon a
+                                                        statistical comparison to the
+                                                        positive control.
+    In Vitro           To determine if the test         Test article results should be              Pass
+Hemocompatibility      article would adversely          comparable to the results of the           Results
+  Assay / Part 4       affect the various cellular      negative blood control or the           comparable to
+                       and non-cellular components      reference material controls.              negative
+                       of the blood.                                                               control
+      Partial          To determine the time            Results are considered “pass” if the        Pass
+  Thromboplastin       citrated plasma exposed to a     average clotting time of the test          Results
+   Time / Part 4       test material takes to form a    article is at least 50% compared to     comparable to
+                       clot when exposed to a           that of the negative control.             negative
+                       suspension of phospholipid                                                  control
+                       particles and calcium
+                       chloride.
+USP                    To determine the physical        Non-volatile residue <15mg,                 Pass
+Physicochemical        and chemical properties of an    residue on ignition <5mg (only
+Test for Plastics      extract of a test material.      performed when Non-volatile
+<661> / Part 18                                         residue is > 15 mg), heavy metals
+                                                        <1ppm and buffering capacity
+                                                        <10ml.
+
+    2. In Vitro Engineering Testing
+
+    In vitro engineering testing on the REBEL Stent System was conducted, as applicable, in
+    accordance with:
+
+        o FDA Guidance for Industry and Staff: Non-Clinical Engineering Tests and
+          Recommended Labeling for Intravascular Stents and Associated Delivery Systems, 18
+          April 2010
+        o FDA Guidance for Industry and Staff: Establishing Safety and Compatibility of
+          Passive Implants in the Magnetic Resonance (MR) Environment, August 2008
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                          Page 10
+   The in vitro engineering studies are summarized in Table 5. “Pass” denotes that the test
+   results met product specifications and/or the recommendation in the above-referenced
+   guidance documents.
+
+                   Table 5: Stent and Delivery Catheter Engineering Testing
+   In Vitro Test                         Summary of Results                                Results
+                                Material Characterization Testing
+ Material           Chemical analysis was conducted on the platinum chromium           Pass. This is a
+ Composition        alloy (PtCr) and is provided by the material supplier to           characterization
+                    confirm both chemical analysis and inclusion/impurity content      test.
+                    as provided by ASTM F138-00 “Standard Specification for
+                    Wrought 18 Chromium-14 Nickel-2.5 Molybdenum Stainless
+                    Steel Bar and Wire for Surgical Implants (UNS S31673:”
+ Stent Corrosion    Uncoated Element stents were tested to determine the               Pass. The
+ Resistance         corrosion susceptibility using cyclic potentiodynamic              results showed
+                    polarization per ASTM F2129-06,"Conducting Cyclic                  little to no
+                    Potentiodynamic Polarization Measurements."                        fretting or
+                    Galvanic Corrosion characterization was performed when the         crevice
+                    Uncoated Element stent was overlapped with a stent of              corrosion.
+                    different metal/metal alloy per ASTM G7 1-81, "Conducting
+                    and Evaluation Galvanic Corrosion Tests in Electrolytes."
+
+                    Fretting Corrosion and Crevice Corrosion was assessed on
+                    uncoated Element stents after pulsatile fatigue cycling. The
+                    corrosion series testing indicated that the corrosion resistance
+                    characteristics of the REBEL stent met product specification.
+ Dimensional        The purpose of this evaluation is to measure and inspect the        Pass. Products
+ Verification       stent to document that the stent dimensional specifications         were shown to
+                    meet the product design requirements, including un-expanded           meet their
+                    stent dimensions, expanded diameter, and length (see also               labeled
+                    Stent Delivery System Dimensional and Functional Attributes          dimensions
+                    testing). Results indicated that the product specifications were         within
+                    met for dimensional verification.                                   specifications.
+ Percent Surface    Stent surface coverage as a function of stent diameter was         Pass. The
+ Area               quantified for the stent. The percent surface area is determined   percent surface
+                    by dividing the measured total contact surface area of the stent   area is identical
+                    by the surface area of the artery based on deployed stent          to the approved
+                    measurements at the nominal stent diameter.                        PROMUS
+                                                                                       PREMIER
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                        Page 11
+   In Vitro Test                           Summary of Results                                  Results
+ Foreshortening       The foreshortening test determined the change in length of the       Pass. Testing
+                      stent between the catheter-mounted condition and the                 showed that
+                      condition in which the stent was expanded (deployed) to the          the length
+                      nominal diameter. Results indicated that the product                 change after
+                      specifications were met for foreshortening.                          expansion
+                                                                                           must be less
+                                                                                           than or equal
+                                                                                           to 20% of the
+                                                                                           crimped length
+                                                                                           or less than or
+                                                                                           equal to:
+                                                                                           2.0mm for
+                                                                                           diameters of
+                                                                                           2.25 through
+                                                                                           2.75mm,
+                                                                                           2.5mm for
+                                                                                           diameters of
+                                                                                           3.0 and
+                                                                                           3.5mm,
+                                                                                           3.0mm for
+                                                                                           4.0mm
+                                                                                           diameter, or
+                                                                                           4.0mm for
+                                                                                           4.5mm
+                                                                                           diameter;
+                                                                                           whichever
+                                                                                           imposes a
+                                                                                           tighter
+                                                                                           requirement.
+ Recoil for Balloon   The stent was evaluated for the amount of elastic recoil.            Pass. The recoil
+ Expandable Stents    Results indicated that the product specifications were met for       was less than
+                      recoil of the stent.                                                 5% for stents
+                                                                                           3.0mm
+                                                                                           diameter and
+                                                                                           larger. The
+                                                                                           recoil was less
+                                                                                           than 7% for
+                                                                                           those stents
+                                                                                           2.75mm and
+                                                                                           shorter.
+ Stent Integrity      The purpose of this testing is to verify the stent integrity post-   Pass. The stent
+ (Stent Over          stent deployment when expanded above unconstrained                   integrity was
+ Expansion)           diameter. The stents were examined and exhibited no                  shown to be
+                      structural damage after over expansion.                              acceptable at
+                                                                                           over expansion
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                           Page 12
+    In Vitro Test                           Summary of Results                                Results
+ Radial Stiffness     The stent was evaluated for the ability to resist collapse when     Pass. The stent
+ and Radial           subject to a radial loads.                                          was able to
+ Strength                                                                                 resist all
+ (Compression                                                                             clinically
+ Resistance)                                                                              relevant loads
+ Mechanical           Ultimate tensile strength, yield strength, and elongation testing   Pass. The
+ Properties           was performed on tubing (pre-processing) used to fabricate the      mechanical
+                      stents. Ultimate tensile strength, yield strength, and elongation   properties were
+                      testing on pre-processed tubing met product specification.          able to be
+                      Analysis of SEM images on stent components at various               characterized
+                      process stages determined that mechanical properties were not
+                      altered by processing.
+ Stress/Strain        Using Finite Element Analysis (FEA), stress and strain              Pass. The FEA
+ Analysis/Fatigue     analysis was performed on the stent to demonstrate acceptable       testing
+ Analysis (Finite     safety is maintained in stress loading environments, simulating     predicted no
+ Element Analysis)    nominal and overexpansion, and bending and radial                   fatigue failures
+                      conditions. The FEA evaluated the structural integrity of the       over a 10 year
+                      stent when subjected to the expected loading conditions             evaluation.
+                      generated in coronary arteries. The analysis took into account
+                      manufacturing, delivery, implantation, and clinical loading
+                      over the implant life, and predicted that fatigue failures will
+                      not occur over 400 million cycles (10-years) of loading.
+ Accelerated          The accelerated durability of the stent was evaluated through       Pass. Testing
+ Durability Testing   the stent platform performance in Overlapping Pulsatile             showed that the
+                      Fatigue on a Curve testing and determined that the structural       stent
+                      integrity is maintained following exposure to the pulsatile         maintained
+                      stresses and strains exceeding those typically experienced by a     structural
+                      human coronary artery for 10 years (400 million cycles).            integrity in an
+                                                                                          overlapped,
+                                                                                          bent
+                                                                                          configuration
+                                                                                          for 400 million
+                                                                                          cycles (10
+                                                                                          years).
+ Particulates         The system was evaluated for particulates after simulated use       Pass. Testing
+ Evaluation           through a tortuous vessel model. The product has particulate        showed that the
+ (Simulated Use)      counts that are similar to VeriFlex stent systems.                  device had an
+                                                                                          acceptably low
+                                                                                          amount of
+                                                                                          particulates
+                                                                                          generated after
+                                                                                          simulated use
+                                                                                          in a mock
+                                                                                          vessel.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                          Page 13
+   In Vitro Test                          Summary of Results                               Results
+ Magnetic           Non-clinical testing has demonstrated that the REBEL stent is      Pass. The
+ Resonance          MR Conditional for single and overlapped conditions up to 74       device met
+ Imaging (MRI)      mm. A patient with this device can be safely scanned in a          conditions to
+ Safety and         Magnetic Resonance system meeting the following conditions:        be labeled MR
+ Compatibility      • Static magnetic field of 3.0 and 1.5 Tesla only                  conditional.
+                    • Maximum spatial gradient magnetic field of 2200 gauss/cm
+                    (22 T/m)
+                    • Maximum Magnetic Resonance system reported, whole body
+                    averaged specific absorption rate (SAR) of <2 W/kg (Normal
+                    Operating Mode)
+
+                    Under the scan conditions defined above, the REBEL stent is
+                    expected to produce a maximum temperature rise of 2.6ºC
+                    after 15 minutes of continuous scanning. In non-clinical
+                    testing, the image artifact caused by the device extends
+                    approximately 8 mm from the REBEL stent when imaged with
+                    a spin echo pulse sequence and a 3.0 Tesla MRI system. The
+                    artifact does not obscure the device lumen.
+ Radiopacity        The radiopacity of the stent was assessed through porcine          Pass. The
+                    model evaluations of stent positioning, expansion, and             device is
+                    delivery system removal. The stent exhibits clinically             sufficiently
+                    acceptable radiopacity.                                            radiopaque to
+                                                                                       be viewed
+                                                                                       under
+                                                                                       fluoroscopic
+                                                                                       imaging.
+ Stent Axial        The ability of the stent to withstand axial length change after    Pass. The
+ Strength           being subjected to point-load force was tested. The stent          device has
+                    design minimizes the potential for longitudinal stent              sufficient axial
+                    deformation over the OMEGA stent by effectively increasing         strength to help
+                    axial strength at the proximal end.                                resist against
+                                                                                       longitudinal
+                                                                                       deformation.
+
+                    Delivery System Dimensional and Functional Attributes
+ Dimensional        The catheter effective length, overall length, crossing profile,      Pass. All
+ Verification       and inner diameter were evaluated and met product                  dimensions met
+                    specifications.                                                     specifications.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                       Page 14
+   In Vitro Test                            Summary of Results                               Results
+ Delivery,            The delivery, deployment and retraction of stent system was        Pass. The stent
+ Deployment and       assessed by testing system track, crossing profile, deflated       delivery system
+ Retraction           balloon profile, stent deployment, flexibility/kink, guidewire     successfully
+                      movement, torque strength, and balloon withdrawal from a           track, deploy,
+                      stent and into the guide catheter. Testing demonstrated that the   and retract
+                      stent system could be delivered to the target location,            through the
+                      deployed, and retracted, thus meeting required acceptance          ASTM F2394
+                      criteria.                                                          Figure X2.4
+                                                                                         track model
+                                                                                         without
+                                                                                         damage to
+                                                                                         ancillary
+                                                                                         devices
+                                                                                         (guidewire and
+                                                                                         guide catheter),
+                                                                                         delivery
+                                                                                         system, or the
+                                                                                         stent.
+ Balloon Rated        Stent systems were evaluated to demonstrate that the stent         Pass. The
+ Burst Pressure       system met rated (RBP) burst pressure. Results indicated that      device has a
+                      the product specifications were met and with 95% confidence        labeled RBP of
+                      that at least 99.9% of balloons will not experience loss of        18 ATM
+                      integrity at or below the rated burst pressure.
+ Balloon Fatigue      Stent systems across the range of stent/balloon lengths and        Pass. Testing
+                      diameters were evaluated for the ability to complete 10            showed that the
+                      pressurization cycles to Rated Burst Pressure (RBP). The           device can
+                      results indicated that, with 95% confidence, 90% of the            handle repeated
+                      catheters will not experience balloon, shaft, or proximal/distal   inflations to
+                      seal loss of integrity at or below the maximum recommended         RBP without
+                      rated balloon burst pressure.                                      damage to the
+                                                                                         balloon.
+ Stent Diameter vs.   Stent systems were evaluated to determine how the diameter         Pass. The
+ Balloon Pressure     of a deployed stent varies with applied balloon pressures. The     compliance
+                      stent sizing evaluations verify that the stent systems meet the    chart is
+                      labeled compliance values.                                         included in the
+                                                                                         labeling.
+ Balloon Inflation    Stent systems across the range of balloon lengths and              Pass. Inflation
+ and Deflation        diameters were evaluated for deflation and inflation times.        and deflation
+ Time                 Results indicated that the product specifications were met.        times increase
+                                                                                         as stent
+                                                                                         dimensions
+                                                                                         increase;
+                                                                                         however, all
+                                                                                         times were less
+                                                                                         than 30s
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                         Page 15
+    In Vitro Test                         Summary of Results                                Results
+ Catheter Bond       Stent delivery systems were evaluated to determine the            Pass. All tested
+ Strength            balloon bond strength. Results indicated that the product         samples were
+                     specifications were met or exceed for balloon bond strength.      well above the
+                                                                                       acceptable
+                                                                                       tensile strength
+                                                                                       of 1.4 lbf.
+ Tip Pull Test       Stent delivery system were tested to determine the tip bond       Pass. The
+                     strength. Results met balloon bond strength product               acceptance
+                     specifications.                                                   criteria for each
+                                                                                       unit was >0.3
+                                                                                       lbf (1.33 N).
+ Flexibility and     Stent delivery systems were evaluated to determine the ability Pass. At a
+ Kink Test           of the delivery system to withstand kinking. Results indicated 15mm radius of
+                     that the product specifications were met for flexibility and      curvature, the
+                     kink testing.                                                     device did not
+                                                                                       kink.
+ Torque Strength     Stent delivery systems were evaluated to determine strength of Pass. Testing
+                     the delivery system catheter when torsional forces were           showed that the
+                     applied. Results indicated that the product specifications were device can
+                     met for torque strength.                                          withstand
+                                                                                       torsional forces
+                                                                                       seen during
+                                                                                       use.
+ Catheter Coating    The acute coating integrity of the stent delivery system coating Pass. The
+ Integrity           was evaluated via the results of a series of acute in vitro tests coating had
+                     (baseline and simulated use). The test results demonstrate that acceptable
+                     the hydrophilic coating displays acceptable acute coating         integrity after
+                     integrity.                                                        simulated use.
+ Stent Securement    Stent systems were evaluated to assess the forces required to     Pass. Results
+ for Unsheathed      displace a stent from the delivery system (1) directly from the indicated that
+ Stents              delivery catheters, (2) after tracking and then through a         the stent will
+                     simulated lesion. Results indicated that the product              remain on the
+                     specifications were met for stent securement.                     delivery system
+                                                                                       when tracked
+                                                                                       across a lesion.
+ Non-Coaxial         Stent systems were evaluated for performance during               Pass. The
+ Withdrawal into a   withdrawal of a catheter with a mounted stent non-coaxially       results indicate
+ Simulated Guiding   into a simulated guide catheter tip following a repeated track    that the stent
+ Catheter            conditioning step. Results indicated that the product             can withdraw
+                     specifications were met for stent securement.                     back into a
+                                                                                       guide catheter
+                                                                                       if still mounted
+                                                                                       to the balloon.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                        Page 16
+   3. Packaging Testing
+
+   Packaging verification testing was performed to demonstrate that the design of the REBEL
+   Stent System packaging can withstand the hazards of the distribution environment and that
+   the sterility of the device is maintained throughout the labeled shelf life.
+
+   4. Shelf Life Testing
+
+   Performance testing was conducted following 3 years of aging for Monorail stent systems
+   and 2 years of aging for Over-the-Wire stent systems to demonstrate that the device and
+   packaging performs within product specifications for a labeled shelf life.
+
+   5. Sterilization
+
+   The REBEL Stent System is sterilized using ethylene oxide (EO) gas and has been validated
+   per AAMI / ANSI / ISO 11135-1:2007, Sterilization of health care products - Ethylene oxide
+   - Part 1: Requirements for the development, validation, and routine control of a sterilization
+   process for medical devices. Results from the sterilization studies show that the product
+   satisfies a minimum Sterility Assurance Level (SAL) of 10-6 and residual levels were within
+   acceptable ranges in accordance with ISO 10993­7:2008, Biological Evaluation of Medical
+   Devices - Part 7: Ethylene Oxide Sterilization Residuals.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                 Page 17
+   B. Animal Studies
+
+   . The versions of the devices (stent and delivery systems) used in the animal studies, the
+   Element, Bare Element and Element BMS were early design iterations of the OMEGA Stent
+   Systems used for the OMEGA clinical study; updates were made prior to the clinical study to
+   improve balloon and stent robustness. The REBEL Coronary Stent System is a design
+   iteration of the OMEGA Coronary Stent system used for the OMEGA clinical study. The
+   OMEGA and REBEL stents share identical primary stent designs, materials, and
+   manufacturing processes, however the REBEL SWH, WH, and LV models have additional
+   connectors at the proximal end to provide more robust performance with relation to axial
+   length change. The Element/OMEGA and REBEL delivery systems share shaft and balloon
+   designs, materials, and manufacturing processes, however the REBEL delivery system has an
+   updated shaft coating and bumper tip to enhance delivery and align with currently marketed
+   devices .
+
+   The objective of the animal studies were:
+
+   o To assess the safety and vascular compatibility of uncoated Element stents in comparison
+   to uncoated Liberté stents.
+   o To evaluate acute device performance of the Element stent and stent delivery system
+
+   Preclinical evaluations of the Element stent using the overlapping and single porcine
+   coronary artery stent models supported safety and vascular compatibility, with comparable
+   results to Liberté (VeriFLEX) in key safety parameters including early and late in-stent
+   healing. Stent and delivery system acute performance as assessed in the porcine model
+   demonstrated acceptable clinical performance. Studies were conducted in accordance with
+   §21 CFR 58 (Good Laboratory Practices).
+
+   The results support the conclusion that the stent system is safe based on comparison to a
+   commercially approved product, and is appropriate for commercial release. Summaries of the
+   study designs and results are included in Table 6.
+Table 6: Summary of Applicable Animal Studies
+                                         Total
+                           Stent Size    Drug        Drug
+                           Diameter       per       Loading
+                                                                                      Testing
+                               and      Stent /     Density               Evaluati
+Test and/or     Test                                            Vessel               Summary
+                             Length      Total     (µg/mm2)               on Time
+Study Name     Article                                         Location               and/or
+                           (mm) and     Carrier       and                  Points
+                                                                                     Objectives
+                          Number of       per     Formulatio
+                            Stent (n)    Stent    n (w% rx)
+                                         (µg)
+                            2.75 x 12                                                 Supports
+              TAXUS         (30 pairs                                                safety. No
+                                        61/638      1.0/8.8
+ GLP Safety   Element     histology, 9                                                 device
+                                                                LAD,
+  Overlap                 pairs SEM)                                       30, 90,     related
+                                                                LCX,
+   Study                    2.75 x 12                                     180 Days   mortality or
+                                                                RCA
+ 1133-024*    Uncoated      (30 pairs                                                morbidity.
+                                         N/A         N/A
+              Element     histology, 9                                                Vascular
+                          pairs SEM)                                                  response
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                    Page 18
+                                         Total
+                         Stent Size      Drug        Drug
+                         Diameter         per       Loading
+                                                                                          Testing
+                            and         Stent /     Density                Evaluati
+Test and/or     Test                                             Vessel                  Summary
+                           Length        Total     (µg/mm2)                on Time
+Study Name     Article                                          Location                  and/or
+                         (mm) and       Carrier       and                   Points
+                                                                                         Objectives
+                         Number of        per     Formulatio
+                          Stent (n)      Stent    n (w% rx)
+                                         (µg)
+                          2.75 x 12                                                     shows early
+               TAXUS
+                          (30 pairs                                                        and late
+               Liberté                  83/865      1.0/8.8
+                         histology, 9                                                      healing,
+               Control
+                         pairs SEM)                                                         vessel
+                          2.75 x 12                                                     stability and
+              Uncoated
+                          (30 pairs                                                     patency over
+               Liberté                   N/A         N/A
+                         histology, 9                                                    30, 90, and
+              Controls
+                         pairs SEM)                                                       180 days.
+                           3.00 x 8
+                           3.50 x 8
+              PROMUS                     43.0 /
+                          (50 pairs               100 / 1:4.9                             Supports
+               Element                    254
+                         histology, 9                                                    safety. No
+                         pairs SEM)                                                        device
+                           3.00 x 8                                                        related
+               Polymer     3.50 x 8                                                     mortality or
+                                         N/A /
+                Only      (43 pairs                  N/A                                 morbidity.
+                                          254
+GLP Safety     Element   histology, 9                                                     Vascular
+                                                                 LAD,      7, 30, 90,
+ Overlap                 pairs SEM)                                                       response
+                                                                 LCX,      180, 270
+  Study                    3.00 x 8                                                        shows
+                                                                 RCA         Days
+ 07-032G                   3.50 x 8                                                      acceptable
+              Uncoated                   N/A /
+                          (43 pairs                  N/A                                  healing,
+              Element                    N/A
+                         histology, 9                                                      vessel
+                         pairs SEM)                                                     stability and
+                           3.00 x 8                                                     patency over
+                                         36.5 /
+              Xience V     3.50 x 8                                                      30, 90, 180
+                                          241
+              (PROMUS     (46 pairs               100 / 1:4.9                               days.
+                                         52.5 /
+              )          histology, 9
+                                          347
+                         pairs SEM)
+                                                                                        Stent systems
+ Non-GLP                  3.0 x 8 (2)                            LAD,                   perform at or
+   Acute                  3.5 x 8 (1)                            LCX,                       above
+              Uncoated
+Performance              3.5 x 16 (3)    N/A         N/A         RCA,       Acute         acceptable
+              Element
+   Study                 4.0 x 16 (3)                           Thoracic                 level for all
+ 10-046N                 4.5 x 16 (3)                            Artery                 performance
+                                                                                           criteria.
+                                                                                        Stent systems
+                                                                                        perform at or
+ GLP Acute
+                         2.5 x 8 (5)                             LAD,                       above
+Performance   Uncoated
+                         3.0 x 8 (4)     N/A         N/A         LCX,       Acute         acceptable
+   Study      Element
+                         4.0 x 8 (5)                             RCA                     level for all
+  10-047G
+                                                                                        performance
+                                                                                           criteria.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                        Page 19
+                                              Total
+                              Stent Size      Drug          Drug
+                              Diameter         per         Loading
+                                                                                                    Testing
+                                 and         Stent /       Density                   Evaluati
+Test and/or        Test                                                   Vessel                   Summary
+                                Length        Total       (µg/mm2)                   on Time
+Study Name        Article                                                Location                   and/or
+                              (mm) and       Carrier         and                      Points
+                                                                                                   Objectives
+                              Number of        per       Formulatio
+                               Stent (n)      Stent      n (w% rx)
+                                              (µg)
+                                                                                                  Stent systems
+ Non-GLP                                                                                          perform at or
+   Acute                                                                    LAD,                      above
+                 Uncoated
+Performance                    2.25 x 8 (4)     N/A           N/A           LCX,        Acute       acceptable
+                  Element
+   Study                                                                    RCA                    level for all
+  11-112T                                                                                         performance
+                                                                                                     criteria.
+*Boston Scientific implemented an internal study numbering convention after the completion of the 1133-024
+study, and therefore, study 1133-024 is referenced by the contract research organization study number.
+
+
+
+
+X. SUMMARY OF PRIMARY CLINICAL STUDY(IES)
+
+    The applicant collected clinical data through the OMEGA clinical trial (OMEGA: A
+    Prospective, Multicenter Single-Arm Trial to Assess the OMEGA™ Coronary Stent System
+    for the Treatment of a Single De Novo Coronary Artery Lesion) and the NG PROMUS
+    clinical trial (NG PROMUS: A Prospective, Multicenter Trial to Assess the NG PROMUS
+    Everolimus-Eluting Platinum Chromium Coronary Stent System (NG PROMUS Stent
+    System) for the Treatment of Atherosclerotic Lesion(s)) to evaluate the safety and
+    effectiveness of the REBEL Coronary Stent System for improving coronary luminal diameter
+    in patients with de novo lesions ≤ 28 mm in length in native coronary arteries with a
+    reference vessel diameter (RVD) of ≥ 2.25 mm to ≤ 4.50 mm. The OMEGA clinical trial was
+    evaluated under IDE G110092. Although the OMEGA clinical trial assessed the OMEGA™
+    Coronary Stent System, the OMEGA and REBEL Coronary Stent Systems utilize the same
+    platinum chromium alloy. The REBEL Coronary Stent System differs from the OMEGA
+    Coronary Stent System in that the REBEL Stent System has supplementary proximal stent
+    connectors for increased axial strength, a short flexible stent delivery system tip, and a PTFE
+    coated proximal hypotube for improved stent deliverability. Given the similarities between
+    the OMEGA and REBEL Coronary Stent Systems and supportive bench and animal study
+    information, the findings from the OMEGA Clinical Trial are applicable to the REBEL Stent
+    System. The NG PROMUS Stent System is the same stent design as the REBEL Stent
+    System, however the NG PROMUS stent is coated with the Everolimus drug. Therefore,
+    data from these clinical trials were the basis for the PMA approval decision. Summaries of
+    the clinical trials are presented below.
+
+
+    A. OMEGA Clinical Trial
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                                   Page 20
+   A1. Study Design
+
+   The OMEGA Clinical Trial is a prospective, single-arm, multicenter study. Eligible patients
+   were to be ≥ 18 years of age and with left ventricular ejection fraction (LVEF) ≥ 30%.
+   Lesions were to be coverable by a single study stent and to have visually estimated stenosis ≥
+   50% and < 100% with Thrombolysis in Myocardial Infarction (TIMI) flow > 1. Patients
+   could have 1 target lesion treated. Patients with a single target lesion could also have 1 de
+   novo native coronary artery lesion within a different epicardial vessel (non-target lesion)
+   treated with a commercially-available treatment (e.g., stent, balloon angioplasty, excluding
+   brachytherapy) during the index procedure. The non-target lesion had to be treated before the
+   target lesion and the treatment had to be a clinical angiographic success (defined as visually
+   assessed stenosis < 50% [< 30% for stents] with TIMI 3 flow without prolonged chest pain or
+   electrocardiogram [ECG] changes consistent with MI) before the patient could be enrolled.
+   The protocol mandated antiplatelet therapy compliance in accordance with the 2007
+   ACC/AHA/SCAI Guidelines for PCI.
+
+   Baseline and post-procedure angiographic data were collected and assessed by quantitative
+   analysis at a designated core laboratory. An independent Clinical Events Committee
+   adjudicated major adverse clinical events and stent thrombosis.
+
+
+   A2. Clinical Inclusion and Exclusion Criteria, OMEGA
+   Subjects were eligible to participate in the study if they met the following inclusion criteria
+   (Table 7).
+
+Table 7: Inclusion Criteria, OMEGA
+
+Clinical          CI1. Subject must be at least 18 years of age.
+Inclusion         CI2. Subject (or legal guardian) indicates understanding of the trial requirements and
+Criteria               the treatment procedures and provides written informed consent before any trial-
+                       specific tests or procedures are performed.
+                  CI3. Subject is eligible for PCI.
+                  CI4. Subject has symptomatic coronary artery disease or documented silent ischemia.
+                  CI5. Subject is an acceptable candidate for coronary artery bypass grafting (CABG).
+                  CI6. Subject has a left ventricular ejection fraction (LVEF) ≥30% as measured within
+                       60 days prior to enrollment.
+                  CI7. Subject is willing to comply with all protocol-required follow-up evaluations.
+Angiographic      AI1. Target lesion must be a de novo lesion located in a native coronary artery with a
+Inclusion              visually estimated reference vessel diameter (RVD) ≥ 2.25 mm and ≤4.50 mm.
+Criteria          AI2. Target lesion length must measure (by visual estimate) as follows:
+                       o ≤28 mm for stent diameter lengths of 2.75 mm, 3.00 mm, 3.50 mm, 4.00
+                          mm and 4.50 mm
+                       o ≤ 24 mm for stent diameter lengths of 2.25 mm and 2.50 mm
+                  AI3. Target lesion must be in a major coronary artery or branch with visually
+                       estimated stenosis ≥50% and <100% with Thrombolysis in Myocardial
+                       Infarction (TIMI) flow >1
+                  AI4. Target lesion must be successfully pre-dilated.
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                       Page 21
+   Subjects were ineligible to participate in the study if they met any of the following exclusion criteria
+   (Table 8).
+
+Table 8: Exclusion Criteria, OMEGA
+Clinical             CE1. Subject has clinical symptoms and/or electrocardiogram (ECG) changes
+Exclusion                 consistent with acute MI.
+Criteria             CE2. Subject with unstable angina or recent MI (clinically diagnosed within 3 days)
+                          must have CK/CK-MB or troponin documented prior to the procedure and are
+                          excluded if any of the following criteria are met at the time of the index
+                          procedure:
+
+                           1. If CK-MB >2× upper limit of normal (ULN), the subject is excluded
+                              regardless of the CK Total.
+                           2. If CK Total >2× ULN, CK-MB must be drawn and the subject is excluded
+                              if CK-MB is abnormal.
+                           3. If CK/CK-MB results are not available at the time of the procedure, the
+                              subject is excluded if troponin >1× ULN and the subject has at least one
+                              of the following:
+                              o Subject has ischemic symptoms and ECG changes indicative of
+                                  ongoing ischemia (e.g., >1 mm ST segment elevation or depression in
+                                  consecutive leads or new left bundle branch block [LBBB])
+                              o Development of pathological Q-waves in the ECG or;
+                              o Imaging evidence of new loss of viable myocardium or new regional
+                                  wall motion abnormality
+
+                           Note: Subjects who do not have unstable angina or recent MI must still have
+                           CK/CK-MB drawn prior to the index procedure. However, the results for
+                           these subjects do not need to be available prior to the index procedure and
+                           there are no exclusion criteria based on these studies.
+
+                       CE3. Subject is receiving chronic (≥72 hours) anticoagulation therapy (e.g.,
+                             heparin, coumadin) for indications other than acute coronary syndrome.
+                       CE4. Subject has a platelet count <100,000 cells/mm3 or >700,000 cells/mm3.
+                       CE5. Subject has a white blood cell (WBC) count <3,000 cells/mm3.
+                       CE6. Subject has documented or suspected liver disease, including laboratory
+                             evidence of hepatitis.
+                       CE7. Subject is on dialysis or has known renal insufficiency (e.g. serum
+                             creatinine level >2.0 mg/dL).
+                       CE8. Subject has active peptic ulcer disease, an active gastrointestinal (GI)
+                             bleed, other bleeding diathesis or coagulopathy or will refuse transfusions.
+                       CE9. Subject has had a cerebrovascular accident (CVA) or transient ischemic
+                             attack (TIA) within the past 6 months, or has any permanent neurologic
+                             defect that may cause non-compliance with the protocol.
+                       CE10. Target vessel (including side branches) has been treated with any type of
+                             PCI (e.g., balloon angioplasty, stent, cutting balloon, atherectomy) within
+                             12 months prior to the index procedure.
+                       CE11. Target vessel has been treated within 10 mm proximal or distal to the target
+                             lesion (by visual estimate) with any type of PCI (e.g., balloon angioplasty,
+                             stent, cutting balloon, or atherectomy) at any time prior to the index
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                           Page 22
+Table 8: Exclusion Criteria, OMEGA
+                          procedure.
+                    CE12. Non-target vessel or side branch has been treated with any type of PCI
+                          (e.g., balloon angioplasty, stent, cutting balloon, atherectomy) within 1 day
+                          prior to the index procedure.
+
+                           Note: 1 lesion in a non-target vessel may be treated during the index
+                           procedure prior to the treatment of the target (study) lesion.
+
+                    CE13. Planned or actual target vessel treatment with an unapproved device,
+                          directional or rotational coronary atherectomy, laser, cutting balloon, or
+                          transluminal extraction catheter immediately prior to stent placement.
+                    CE14. Planned PCI or CABG after the index procedure.
+                    CE15. Subject previously treated at any time with coronary intravascular
+                          brachytherapy.
+                    CE16. Subject has known allergy to the study stent system or protocol-required
+                          concomitant medications (e.g., stainless steel, platinum, chromium, nickel,
+                          iron, thienopyridines and ASA) and contrast (that cannot be adequately
+                          premedicated).
+                    CE17. Subject has any other serious medical illness (e.g., cancer, congestive heart
+                          failure) that may reduce life expectancy to less than 12 months.
+                    CE18. Subject has current problems with substance abuse (e.g., alcohol, cocaine,
+                          heroin, etc.).
+                    CE19. Subject has a planned procedure that may cause non-compliance with the
+                          protocol or confound data interpretation.
+                    CE20. Subject is participating in another investigational drug or device clinical
+                          trial that has not reached its primary endpoint or intends to participate in
+                          another investigational drug or device clinical trial within 12 months after
+                          the index procedure.
+                    CE21. Subject is female of childbearing potential with a positive pregnancy test
+                          within 14 days before the index procedure, is lactating, or intends to
+                          become pregnant during the study.
+                    CE22. Subject has more than 1 target lesion, or more than 1 target lesion and 1
+                          non-target lesion, which will be treated during the index procedure.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                      Page 23
+Table 8: Exclusion Criteria, OMEGA
+Angiographic        AE1. Target lesion meets any of the following criteria:
+Exclusion                o Aorto-ostial location (i.e., lesion located within 5 mm of the ostium by
+Criteria (visual             visual estimate)
+estimate)                o Left main location
+                         o Located within 5 mm of the origin of the left anterior descending (LAD)
+                             coronary artery or left circumflex (LCx) coronary artery or RCA by
+                             visual estimate
+                         o Located within a saphenous vein graft or an arterial graft
+                         o Will be accessed via a saphenous vein graft or an arterial graft
+                         o Involves a side branch ≥2.0 mm in diameter by visual estimate
+                         o Involves a side branch <2.0 mm in diameter by visual estimate that has a
+                             clinically significant stenosis at the ostium
+                         o TIMI flow 0 (total occlusion) or TIMI flow 1 prior to guide wire crossing
+                         o Excessive tortuosity proximal to or within the lesion
+                         o Extreme angulation proximal to or within the lesion
+                         o Target lesion and/or target vessel proximal to the target lesion is
+                             moderately to severely calcified by visual estimate
+                         o Restenotic from previous intervention
+                         o Thrombus, or possible thrombus, present in the target vessel
+                         o Target lesion cannot be covered by a single study stent (unplanned bailout
+                             stenting is allowed)
+
+                    AE2. Non-target lesion to be treated during the index procedure meets any of the
+                         following criteria:
+                         o Located within the target vessel
+                         o Located within a bypass graft (venous or arterial)
+                         o Left main location
+                         o Chronic total occlusion
+                         o Involves a complex bifurcation (e.g., bifurcations requiring treatment
+                             with more than 1 stent)
+                         o Requires additional unplanned stents (treatment of the non-target lesion
+                             with more than one stent is permitted as long as the stents are initially
+                             planned)
+                         o Treatment not deemed a clinical angiographic success
+                         o Treatment not completed prior to treatment of target lesion
+
+                    AE3. Subject has unprotected left main coronary artery disease (>50% diameter
+                    stenosis).
+                    AE4. Subject has protected left main coronary artery disease and a target lesion in
+                    the LAD or LCx.
+                    AE5. Subject has an additional clinically significant lesion(s) in the target vessel for
+                    which an intervention within 12 months after the index procedure may be required.
+
+
+
+    A3. Follow-up Schedule, OMEGA
+    Enrolled patients underwent clinical follow-up in hospital and at 30 days, 9 months and 12
+    months after the index procedure. Final 12-month follow-up for the OMEGA trial was
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                          Page 24
+   completed on January 7, 2014. Follow-up included clinical assessments at 30 days, 9 and 12
+   months post-index procedure.
+
+   A4. Clinical Endpoints, OMEGA
+   Adverse events are collected throughout the study with a prespecified subset of events
+   adjudicated by an independent Clinical Events Committee.
+   The primary endpoint was the rate of target lesion failure (TLF), defined as any ischemia-
+   driven revascularization of the target lesion (TLR), myocardial infarction (MI; Q-wave and
+   non–Q-wave) related to the target vessel, or cardiac death, at 9 months post-index procedure.
+   The rate of the primary endpoint was compared to a predefined performance goal (PG) of
+   21.2%, which was calculated based on historical bare metal stent (BMS) results. The PG
+   equals the historical BMS 9-month TLF rate adjusted for differences in the non-Q-wave MI
+   definition (15.2%) + margin (6.0%). A one-group exact binomial test was used to test the
+   hypothesis that the primary endpoint rate in the OMEGA cohort is less than the PG.
+
+   A5. Accountability of PMA Cohort, OMEGA
+   A total of 328 patients were enrolled (the ITT analysis set) at 37 sites in the United States and
+   Europe in the OMEGA Trial. Clinical follow-up or death at 9-months was 98.2% (322/328).
+   Four patients were lost to follow-up and 2 patients missed their 9-month visit. Details of 9-
+   month follow-up compliance are provided in Table 9.
+
+   Clinical follow-up or death at 12-months was 97.6% (320/328). Seven patients were lost to
+   follow-up and 1 patient missed their 12-month visit.
+
+   Table 9: Subject Disposition, Clinical Follow-up Compliance Intent-to-Treat,
+   All Subjects (N=328)
+                                                                                      Subjects
+ Subjects enrolled (Intent-to-Treat analysis set)                                       328
+ Death ≤ 300 days with no 9-Month Clinical Follow-up Performed                            6
+ Eligible for 9-Month Clinical Follow-upa                                               322
+ 9-Month Clinical Follow-up Performedb                                            98.1% (316/322)
+     Office Visit                                                                       286
+     Telephone Contact                                                                   30
+ No 9-Month Clinical Follow-up Performed                                                  6
+     Prematurely Discontinued                                                             4
+         Death > 300 days                                                                 0
+         Withdrew Consent                                                                 0
+         Lost to Follow-up                                                                4
+         Adverse Event                                                                    0
+         Investigator Discretion                                                          0
+         Transplant or Removal of Target Organ                                            0
+         Other                                                                            0
+     Missed 9-Month Visit                                                                 2
+         With Later Follow-up Visit Performed                                             2
+         No Later Follow-up Visit Performed                                               0
+ 9-Month Clinical Follow-up or Deathc                                             98.2% (322/328)
+ 9-Month Clinical Follow-up Patient Accountabilityd                               96.3% (316/328)
+ Numbers are n or % (count/sample size).
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                   Page 25
+                                                                                         Subjects
+ a: Patients who died prior to completion of follow-up window and prior to completing a 9-month clinical
+ follow-up visit are considered censored and are excluded from calculation of proportion of patients who
+ completed clinical follow-up visit.
+ b: Based on patients eligible for 9-month clinical follow-up (excludes patients who died within 300 days
+ with no 9-month follow-up).
+ c: Includes patients who have died in both the numerator and the denominator; based on ITT analysis set.
+ d: All patients with 9-month follow-up out of all Intent-to-Treat patients.
+ Abbreviation: ITT=intent-to-treat
+
+    A6. Study Population and Baseline Parameters, OMEGA
+    Table 10 and Table 11 present demographics and baseline clinical characteristics for the ITT
+    analysis set (N=328). The ITT population was predominantly male (67.7%) with a history of
+    medically treated hyperlipidemia (70.8%) and hypertension (75.0%). Medically treated
+    diabetic subjects accounted for 17.4% of ITT subjects. Unstable angina was reported for
+    33.8% of subjects and 29.6% had a history of MI.
+
+Table 10: Baseline Demographics and General Medical History, ITT Analysis Set
+(N=328 Subjects)
+                                                                   OMEGA
+Parameter                                                                                [95% CI]
+                                                                    (N=328)
+Male                                                            67.7% (222/328)       [62.3%, 72.7%]
+                                                               65.46±11.23 (328)
+Age (yr)                                                                               [64.25, 66.68]
+                                                                 (32.00, 95.00)
+Ethnicity and Race
+  American Indian or Alaska native                                0.0% (0/328)          [0.0%, 1.1%]
+  Asian                                                           0.0% (0/328)          [0.0%, 1.1%]
+  Black, of African heritage                                      2.7% (9/328)          [1.3%, 5.1%]
+  Caucasian                                                     77.4% (254/328)       [72.5%, 81.8%]
+  Hispanic or Latino                                              0.6% (2/328)          [0.1%, 2.2%]
+  Native Hawaiian or other Pacific Islander                       0.0% (0/328)          [0.0%, 1.1%]
+  Other                                                           0.6% (2/328)          [0.1%, 2.2%]
+  Not disclosed                                                  18.6% (61/328)       [14.5%, 23.2%]
+Smoking, Ever                                                   66.1% (211/319)       [60.7%, 71.3%]
+  Current                                                        28.2% (90/319)       [23.3%, 33.5%]
+  Previous                                                      37.9% (121/319)       [32.6%, 43.5%]
+Medically Treated Diabetes                                       17.4% (57/328)       [13.4%, 21.9%]
+  Insulin Requiring                                              5.5% (18/328)          [3.3%, 8.5%]
+  Non-Insulin Requiring                                          11.9% (39/328)        [8.6%, 15.9%]
+Diabetes Treated with Diet Only                                  7.0% (23/328)         [4.5%, 10.3%]
+Hyperlipidemia Requiring Medication                             70.8% (230/325)       [65.5%, 75.7%]
+Hypertension Requiring Medication                               75.0% (243/324)       [69.9%, 79.6%]
+History of Bleeding Disorder                                      2.5% (8/326)          [1.1%, 4.8%]
+  Gastrointestinal                                                2.5% (8/326)          [1.1%, 4.8%]
+  Hematologic Dyscrasia                                           0.0% (0/326)          [0.0%, 1.1%]
+History of TIA or CVA                                            7.7% (25/326)         [5.0%, 11.1%]
+  History of TIA                                                 3.7% (12/326)          [1.9%, 6.3%]
+  History of CVA                                                 4.3% (14/326)          [2.4%, 7.1%]
+History of Renal Disease                                         4.3% (14/326)          [2.4%, 7.1%]
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                      Page 26
+                                                                   OMEGA
+Parameter                                                                               [95% CI]
+                                                                   (N=328)
+History of PVD                                                  6.4% (21/326)         [4.0%, 9.7%]
+Numbers are presented as mean±standard deviation (n) or % (count/sample size), or mean±SD (n)
+(minimum, maximum).
+Abbreviation: ITT=intent-to-treat
+Abbreviation: TIA=transient ischemic attack, CVA=cerebrovascular event, PVD=peripheral vascular
+disease
+
+Table 11: Cardiac History, ITT Analysis Set (N=328 Subjects)
+                                                                  OMEGA
+Parameter                                                                             [95% CI]
+                                                                   (N=328)
+Stable Angina                                                  55.5% (182/328)      [49.9%, 60.9%]
+    Angina Class (CCS)
+    1                                                           14.0% (46/328)      [10.5%, 18.3%]
+    2                                                           27.4% (90/328)      [22.7%, 32.6%]
+    3                                                           11.9% (39/328)       [8.6%, 15.9%]
+    4                                                            1.8% (6/328)         [0.7%, 3.9%]
+    Unknown                                                      0.3% (1/328)         [0.0%, 1.7%]
+Unstable Angina                                                33.8% (111/328)      [28.7%, 39.2%]
+    Braunwald Classification
+         IA                                                      0.9% (3/328)         [0.2%, 2.6%]
+         IB                                                     5.5% (18/328)         [3.3%, 8.5%]
+         IC                                                      0.3% (1/328)         [0.0%, 1.7%]
+         IIA                                                     0.3% (1/328)         [0.0%, 1.7%]
+         IIB                                                    18.3% (60/328)      [14.3%, 22.9%]
+         IIC                                                     0.3% (1/328)         [0.0%, 1.7%]
+         IIIA                                                    0.3% (1/328)         [0.0%, 1.7%]
+         IIIB                                                   5.5% (18/328)         [3.3%, 8.5%]
+         IIIC                                                    0.6% (2/328)         [0.1%, 2.2%]
+    Unknown                                                      1.8% (6/328)         [0.7%, 3.9%]
+No Angina                                                       10.7% (35/328)       [7.5%, 14.5%]
+Silent Ischemia                                                 19.9% (54/272)      [15.3%, 25.1%]
+Family History of CAD                                          43.4% (131/302)      [37.7%, 49.2%]
+Previous MI                                                     29.6% (94/324)      [24.7%, 34.9%]
+History of CHF                                                  6.4% (21/327)         [4.0%, 9.6%]
+    New York Heart Association Classification
+         I                                                        1.5% (5/327)        [0.5%, 3.5%]
+         II                                                     3.4% (11/327)         [1.7%, 5.9%]
+         III                                                      0.9% (3/327)        [0.2%, 2.7%]
+         IV                                                       0.3% (1/327)        [0.0%, 1.7%]
+    Unknown                                                       0.3% (1/327)        [0.0%, 1.7%]
+History of PCI                                                  29.1% (95/326)      [24.3%, 34.4%]
+History of CABG                                                 4.6% (15/327)         [2.6%, 7.5%]
+History of Arrhythmia                                           12.3% (40/326)       [8.9%, 16.3%]
+Left Ventricular Ejection Fraction (LVEF, %)                   58.50±9.25 (325)
+                                                                                    [57.50, 59.51]
+                                                                 (30.00, 88.00)
+    LVEF not Measured or not Known                                0.9% (3/328)       [0.2%, 2.6%]
+History of Multivessel Disease                                  28.5% (93/326)      [23.7%, 33.8%]
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                    Page 27
+                                                                   OMEGA
+Parameter                                                                               [95% CI]
+                                                                   (N=328)
+History of Left Main Disease                                     1.8% (6/327)         [0.7%, 4.0%]
+Numbers are presented as mean±standard deviation (n) or % (count/sample size), or mean±SD (n)
+(minimum, maximum).
+Abbreviation: ITT=intent-to-treat; CAD=coronary artery disease; MI=myocardial infarction;
+CHF=congestive heart failure; PCI=percutaneous coronary intervention; CABG=coronary artery bypass
+graft surgery; LVEF= Left Ventricular Ejection Fraction
+
+   A7. Safety and Effectiveness Results, OMEGA
+   The principal safety and effectiveness results through 9 months are summarized below and
+   presented in Tables 12 and 13.
+   o For the primary endpoint analysis, the ITT 9-month rate of target lesion failure was
+       11.5% (37/323) with a one-sided upper confidence bound of 14.79%, significantly less
+       than the performance goal of 21.2% (P<0.0001)
+   o Similar results were found when the primary endpoint was analyzed on a per protocol or
+       intent-to-treat basis
+   o There were 4 cardiac deaths (1.2%), 12 myocardial infarctions (3.7%), and 2 patients
+       experienced definite stent thrombosis (0.6%) through 9 months
+   o The technical success rate was 98.5% (332/337)
+   o The clinical procedural success rate was 95.4% (313/328)
+Table 12: Primary Endpoint: TLF at 9 Months
+                                      95%
+                                                                     Performance       1-sided P
+Population         OMEGA           Confidence        95% UCBa
+                                                                        Goalb            value
+                                    Interval
+ITTc
+                   11.5% (37/323)    [8.2%, 15.4%]       14.79%           21.2%         <0.0001
+(N=328)
+Per-protocol
+                   11.6% (37/320)    [8.3%, 15.6%]       14.93%           21.2%         <0.0001
+(N=325)
+P value is based on the exact binomial test.
+a: One-sided 95% Clopper-Pearson upper confidence bound
+b: Based on historical BMS results
+c: Primary analysis
+Abbreviations: ITT=intent-to-treat; TLF=target lesion failure (including any ischemia-driven
+revascularization of the target lesion, myocardial infarction [Q-wave and non–Q-wave] related to the
+target vessel, or cardiac death); UCB=upper confidence bound
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                   Page 28
+Table 13: Principal Effectiveness and Safety Results (9 Months), ITT Analysis Set
+                                                               OMEGA                  95% Confidence
+Parameter
+                                                               (N=328)                   Interval
+9-Month Clinical Endpoints
+All death, MI, TVR                                         12.9% (42/325)                [9.5%, 17.1%]
+    All death or MI                                        5.5% (18/325)                  [3.3%, 8.6%]
+     All death                                              1.8% (6/325)                  [0.7%, 4.0%]
+       Cardiac deatha                                       1.2% (4/325)                  [0.3%, 3.1%]
+       Non-cardiac death                                    0.6% (2/325)                  [0.1%, 2.2%]
+     MIa, b                                                3.7% (12/325)                  [1.9%, 6.4%]
+     TVRc                                                  8.6% (28/325)                 [5.8%, 12.2%]
+        TLRc                                               7.4% (24/325)                 [4.8%, 10.8%]
+        Non-TLR TVRc                                        1.8% (6/325)                  [0.7%, 4.0%]
+    Cardiac death or MI                                    4.9% (16/325)                  [2.8%, 7.9%]
+    TLF                                                    11.5% (37/323)                [8.2%, 15.4%]
+    TVF                                                    12.4% (40/323)                [9.0%, 16.5%]
+ARC stent thrombosis (definite/probable)d                   0.6% (2/318)                  [0.1%, 2.3%]
+Peri-procedural Endpoints
+Clinical procedural successe                              95.4% (313/328)               [92.6%, 97.4%]
+Technical successf                                        98.5% (332/337)               [96.6%, 99.5%]
+Numbers are % (counts/sample size)
+a: All events were related to the target vessel
+b: All MI were target vessel-related non-Q-wave MI
+c: All revascularizations were by PCI.
+d: All stent thromboses were determined to be ARC definite stent thromboses.
+e: Mean lesion diameter stenosis <30% in 2 near-orthogonal projections with TIMI 3 flow, as visually
+assessed by the physician, without the occurrence of in-hospital MI, TVR, or cardiac death
+f: Technical success is successful delivery and deployment of the study stent to the target vessel, without
+balloon rupture or stent embolization.
+Abbreviations: ARC=Academic Research Consortium; ITT=intent-to-treat; TLF=target lesion failure
+(including any ischemia-driven revascularization of the target lesion [TLR], myocardial infarction [MI;
+Q-wave and non–Q-wave] related to the target vessel, or cardiac death); TVF=target vessel failure (any
+ischemia-driven revascularization of the target vessel [TVR], MI related to the target vessel, or death
+related to the target vessel).
+
+    The principal safety and effectiveness results through 12 months are summarized in Table 14.
+    There were 4 cardiac deaths (1.2%), 13 myocardial infarctions (4.0%), and 2 patients
+    experienced definite stent thrombosis (0.6%) through 12 months post-index procedure. These
+    results support the continued safety and effectiveness of the OMEGA stent through 12
+    months of follow-up.
+
+
+ Table 14 Principal Effectiveness and Safety Results (12 Months), ITT Analysis Set
+                                                          OMEGA                95% Confidence
+ Parameter
+                                                          (N=328)                  Interval
+ 12-Month Clinical Endpoints
+ All death, MI, TVR                                    14.3% (46/322)           [10.7%, 18.6%]
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                           Page 29
+ Table 14 Principal Effectiveness and Safety Results (12 Months), ITT Analysis Set
+                                                               OMEGA                  95% Confidence
+ Parameter
+                                                               (N=328)                     Interval
+ All death or MI                                            5.9% (19/322)                [3.6%, 9.1%]
+ All death                                                   1.9% (6/322)                [0.7%, 4.0%]
+ Cardiac deatha                                              1.2% (4/322)                [0.3%, 3.1%]
+ Non-cardiac death                                           0.6% (2/322)                [0.1%, 2.2%]
+ MIa, b                                                     4.0% (13/322)                [2.2%, 6.8%]
+ TVRc                                                       9.9% (32/322)               [6.9%, 13.7%]
+ TLRc                                                       8.4% (27/322)               [5.6%, 12.0%]
+                  c
+ Non-TLR TVR                                                 2.2% (7/322)                [0.9%, 4.4%]
+ Cardiac death or MI                                        5.3% (17/322)                [3.1%, 8.3%]
+ TLF                                                       12.8% (41/320)               [9.4%, 17.0%]
+ TVF                                                       13.8% (44/320)              [10.2%, 18.0%]
+ ARC stent thrombosis (definite/probable)d                   0.6% (2/314)                [0.1%, 2.3%]
+ Numbers are % (counts/sample size)
+ a: All events were related to the target vessel
+ b: All MI were target vessel-related non-Q-wave MI
+ c: All revascularizations were by PCI.
+ d: All stent thromboses were determined to be ARC definite stent thromboses.
+ Abbreviations: ARC=Academic Research Consortium; ITT=intent-to-treat; TLF=target lesion failure
+ (including any ischemia-driven revascularization of the target lesion [TLR], myocardial infarction [MI;
+ Q-wave and non–Q-wave] related to the target vessel, or cardiac death); TVF=target vessel failure (any
+ ischemia-driven revascularization of the target vessel [TVR], MI related to the target vessel, or death
+ related to the target vessel).
+
+   A8. Subgroup Analyses, OMEGA
+
+   OMEGA data were evaluated retrospectively for possible gender-based differences in clinical
+   outcomes. OMEGA was not designed or powered to study safety or effectiveness of the
+   OMEGA Stent in gender-specific subgroups, so these analyses were performed post hoc and
+   are considered hypothesis-generating.
+
+   In the OMEGA ITT population, of the 328 enrolled patients, 222 patients were male (67.7%)
+   and 106 patients were female (32.3%).
+
+   In the United States, an estimated 15.4 million adults of 20 years and older (7.9% of men and
+   5.1% of women) suffer from coronary artery disease (CAD)1. However, it is estimated that
+   only about 33% of the annual PCIs are performed in women. In PCI clinical trials, women
+   represent only 25-35% of the enrolled populations, and there are relatively little gender-
+   specific data. The disproportionate enrollment distribution in this study may be partly
+   attributable to gender differences in pathophysiology, risk factors and symptoms which may
+   lead to under-diagnosis and under-referral of female patients with CAD2,3. Once diagnosed
+   and treated, poorer revascularization outcomes have been reported in women due to smaller
+   coronary arteries and increased prevalence of baseline comorbidities including advanced age,
+   diabetes, hypertension, and peripheral vascular disease compared with men.
+   In patients treated with the OMEGA stent, the 9-month rate of TLF was 12.3% in males and
+   9.6% in females. This post hoc analysis shows similar treatment effect between genders for
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                        Page 30
+    the primary endpoint of 9-month TLF and its components. This suggests that the overall
+    conclusions of the trial regarding both safety and effectiveness of the OMEGA stent can be
+    generalized to males and females.
+
+
+Table 15 OMEGA 9-Month TLF Results by Gender, Intent-to-Treat, All Patients (N=328)
+                  OMEGA
+                   Females        [95% CI]      OMEGA Males            [95% CI]
+Event              (N=106)                          (N=222)
+9-Month TLF     9.6% (10/104)  [4.7%, 17.0%]     12.3% (27/219)     [8.3%, 17.4%]
+This trial was not sized to determine the rate of low frequency events with a pre-specified precision. Numbers are %
+(count/sample size). 9-Month TLF is the proportion of patients who experience a target lesion failure (defined as any
+ischemia-driven revascularization of the target lesion [TLR], MI [Q-wave and non–Q wave] related to the target
+vessel, or cardiac death) up to 270 days post-procedure out of the population that have been followed for at least 240
+days or who have experienced a TLF up to 270 days post-procedure.
+
+    Table 16 shows OMEGA 9-Month clinical results for male and female patients. Given the
+    small number of patients enrolled, no conclusions can be drawn from these data.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                                    Page 31
+Table 16 9-Month Clinical Endpoints by Gender, Intent-to-Treat, All Patients
+                               OMEGA Female Patients            OMEGA Male Patients
+                                        (N=106)                         (N=222)
+Efficacy
+TVR, Overall                          7.6% (8/105)                   9.1% (20/220)
+ TLR, Overall                         6.7% (7/105)                   7.7% (17/220)
+  TLR, PCI                            6.7% (7/105)                   7.7% (17/220)
+  TLR, CABG                           0.0% (0/105)                    0.0% (0/220)
+ Non-TLR TVR, Overall                 2.9% (3/105)                    1.4% (3/220)
+  Non-TLR TVR, PCI                    2.9% (3/105)                    1.4% (3/220)
+  Non-TLR TVR, CABG                   0.0% (0/105)                    0.0% (0/220)
+Safety
+All Death                             1.0% (1/105)                    2.3% (5/220)
+Cardiac Death or MI                   3.8% (4/105)                   5.5% (12/220)
+ Cardiac Death                        0.0% (0/105)                    1.8% (4/220)
+ MI                                   3.8% (4/105)                    3.6% (8/220)
+  Q-wave MI                           0.0% (0/105)                    0.0% (0/220)
+  Non-Q-wave MI                       3.8% (4/105)                    3.6% (8/220)
+ARC Stent Thrombosis                  1.0% (1/104)                    0.5% (1/214)
+ Definite or Probable                 1.0% (1/104)                    0.5% (1/214)
+  Definite                            1.0% (1/104)                    0.5% (1/214)
+  Probable                            0.0% (0/104)                    0.0% (0/214)
+Peri-Procedural Endpoints
+Procedural Success                  95.3% (101/106)                 95.5% (212/222)
+                  a
+Technical Success                   99.1% (106/107)                 98.3% (226/230)
+a: denominator is number of study stents attempted
+Numbers are % (count/sample size).
+This trial was not sized to determine the rate of low frequency events with a pre-specified precision.
+Abbreviations: ARC=Academic Research Consortium; CABG=coronary artery bypass graft; MI=myocardial
+infarction; PCI=percutaneous coronary intervention; TLR=target lesion revascularization; TVR=target vessel
+revascularization.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                               Page 32
+B. NG PROMUS Clinical Trial
+
+   B.1. Study Design: NG PROMUS was a prospective, single arm, multicenter, observational
+   study designed to evaluate clinical and periprocedural angiographic and IVUS outcomes for
+   the Promus PREMIER Everolimus-Eluting Platinum Chromium Coronary Stent System in
+   the treatment of subjects with atherosclerotic lesions ≤34 mm in length (by visual estimate)
+   in native coronary arteries ≥2.50 mm to ≤4.00 mm in diameter (by visual estimate).
+
+   B2. Clinical Inclusion and Exclusion Criteria, NG PROMUS
+   Subjects were eligible to participate in the study if they met the following inclusion criteria
+   (Table 17).
+
+Table 15: Inclusion Criteria, NG PROMUS
+
+Clinical                CI1. Subject must be at least 18 years of age
+Inclusion               CI2. Subject (or legal guardian) understands the trial requirements and the treatment
+                        procedures and provides written informed consent before any trial-specific tests or
+Criteria                procedures are performed
+                        CI3. Subject is eligible for percutaneous coronary intervention (PCI)
+                        CI4. Subject has symptomatic coronary artery disease with objective evidence of
+                        ischemia or silent ischemia
+                        CI5. Subject is an acceptable candidate for coronary artery bypass grafting (CABG)
+                        CI6. Subject is willing to comply with all protocol-required follow-up evaluation
+
+
+Angiographic             AI1.      Target lesion(s) must be located in a native coronary artery with a visually
+Inclusion                estimated reference vessel diameter (RVD) ≥2.50 mm and ≤4.0 mm
+                         AI2.      Target lesion(s) length must be ≤34 mm (by visual estimate)
+Criteria                 AI3.      Target lesion(s) must have visually estimated stenosis ≥50% and <100% with
+                         thrombolysis in Myocardial Infarction (TIMI) flow >1 and one of the following
+                         (stenosis ≥70%, abnormal fractional flow reserve (FFR), abnormal stress test or
+                         imaging stress test, or elevated biomarkers) prior to procedure
+                         AI4.      Coronary anatomy is likely to allow delivery of a study device to the target
+                         lesions(s)
+                         AI5.      The first lesion treated must be successfully pre-dilated/pretreated
+                Note: Successful pre-dilatation/pretreatment refers to dilatation with a balloon catheter of
+                appropriate length and diameter, or pretreatment with directional or rotational coronary
+                atherectomy, laser or cutting/scoring balloon with no greater than 50% residual stenosis and no
+                dissection greater than National Heart, Lung, Blood Institute (NHLBI) type C.
+
+   Subjects were ineligible to participate in the study if they met any of the following exclusion
+   criteria (Table 18).
+Table 16: Exclusion Criteria, NG PROMUS
+
+Clinical                   CE1.     Subject has clinical symptoms and/or electrocardiogram (ECG) changes
+Exclusion                  consistent with acute ST elevation MI (STEMI)
+                           CE2.     Subject has cardiogenic shock, hemodynamic instability requiring inotropic
+Criteria                   or mechanical circulatory support, intractable ventricular arrhythmias, or ongoing
+                           intractable angina
+                           CE3.     Subject has received an organ transplant or is on a waiting list for an organ
+                           transplant
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                                Page 33
+Table 16: Exclusion Criteria, NG PROMUS
+                         CE4.      Subject is receiving or scheduled to receive chemotherapy within 30 days
+                         before or after the index procedure
+                         CE5.      Planned PCI (including staged procedures) or CABG after the index
+                         procedure
+                         CE6.      Subject previously treated at any time with intravascular brachytherapy
+                         CE7.      Subject has a known allergy to contrast (that cannot be adequately
+                         premedicated) and/or the trial stent system or protocol-required concomitant
+                         medications (e.g., platinum, platinum-chromium alloy, stainless steel, everolimus or
+                         structurally related compounds, polymer or individual components, all P2Y12
+                         inhibitors, or aspirin)
+                         CE8.      Subject has one of the following (as assessed prior to the index procedure):
+                         • Other serious medical illness (e.g., cancer, congestive heart failure) with
+                         estimated life expectancy of less than 24 months
+                         • Current problems with substance abuse (e.g., alcohol, cocaine, heroin, etc.)
+                         • Planned procedure that may cause non-compliance with the protocol or confound
+                         data interpretation
+                         CE9.      Subject is receiving chronic (≥72 hours) anticoagulation therapy (i.e.,
+                         heparin, coumadin) for indications other than acute coronary syndrome
+                         CE10. Subject has a platelet count <100,000 cells/mm3 or >700,000 cells/mm3
+                         CE11. Subject has a white blood cell (WBC) count < 3,000 cells/mm3
+                         CE12. Subject has documented or suspected liver disease, including laboratory
+                         evidence of hepatitis
+                         CE13. Subject is on dialysis or has baseline serum creatinine level >2.0 mg/dL
+                         (177μmol/L)
+                         CE14. Subject has a history of bleeding diathesis or coagulopathy or will refuse
+                         blood transfusions
+                         CE15. Subject has had a history of cerebrovascular accident (CVA) or transient
+                         ischemic attack (TIA) within the past 6 months
+                         CE16. Subject has an active peptic ulcer or active gastrointestinal (GI) bleeding
+                         CE17. Subject has signs or symptoms of active heart failure (i.e., NYHA class IV)
+                         at the time of the index procedure
+                         CE18. Subject is participating in another investigational drug or device clinical trial
+                         that has not reached its primary endpoint
+                         CE19. Subject intends to participate in another investigational drug or device
+                         clinical trial within 12 months after the index procedure
+                         CE20. Subject with known intention to procreate within 12 months after the index
+                         procedure (women of child-bearing potential who are sexually active must agree to
+                         use a reliable method of contraception from the time of screening through 12 months
+                         after the index procedure)
+                         CE21. Subject is a woman who is pregnant or nursing (a pregnancy test must be
+                         performed within 7 days prior to the index procedure in women of child-bearing
+                         potential)
+
+Angiographic             AE1.      Planned treatment of more than 3 lesions.
+Exclusion                AE2.      Planned treatment of lesions in more than 2 major epicardial vessels
+                         AE3.      Planned treatment of a single lesion with more than 1 stent
+Criteria (visual         AE4.      Subject has 2 target lesions in the same vessel that are separated by less than
+estimate)                15 mm (by visual estimate)
+                         AE5.      Target lesion(s) is located in the left main
+                         AE6.      Target lesion(s) is located within 3 mm of the origin of the left anterior
+                         descending (LAD) coronary artery or left circumflex (LCx) coronary artery by visual
+                         estimate.
+                         AE7.      Target lesion(s) is located within a saphenous vein graft or an arterial graft
+                         AE8.      Target lesion(s) will be accessed via a saphenous vein graft or arterial graft
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                                Page 34
+Table 16: Exclusion Criteria, NG PROMUS
+                         AE9.      Target lesion(s) with a TIMI flow 0 (total occlusion) or TIMI flow 1 prior to
+                         guide wire crossing
+                         AE10. Target lesion(s) treated during the index procedure that involves a complex
+                         bifurcation (e.g., bifurcation lesion requiring treatment with more than 1 stent)
+                         AE11. Target lesion(s) is restenotic from a previous stent implantation or study
+                         stent would overlap with a previous stent
+                         AE12. Subject has unprotected left main coronary artery disease (>50% diameter
+                         stenosis)
+                         AE13. Subject has been treated with any type of PCI (i.e., balloon angioplasty,
+                         stent, cutting balloon atherectomy) within 24 hours prior to the index procedure
+                         AE14. Thrombus, or possible thrombus, present in the target vessel (by visual
+                         estimate)
+
+   B3. Follow-up Schedule, NG PROMUS
+   Clinical follow-up by telephone at 30 days
+
+   B4. Clinical Endpoints, NG PROMUS
+   Adverse events are collected throughout the study with a prespecified subset of events
+   adjudicated by an independent Clinical Events Committee.
+   The Primary Endpoint is technical success rate, defined as successful delivery and
+   deployment of the study stent to the target lesion, without balloon rupture or stent
+   embolization, and post-procedure diameter stenosis of <30% assessed in 2 near-orthogonal
+   projections with TIMI 3 flow in the target lesion, as visually assessed by the physician
+
+   B5. Accountability of PMA Cohort, NG PROMUS
+   Table 19 shows subject disposition. There were 100 subjects enrolled (intent-to-treat [ITT]
+   analysis set) and implanted (as-treated analysis set) at 9 investigative centers in Australia,
+   New Zealand, and Singapore from 20-Nov-2012 to 12-Mar-2013.
+   Clinical follow-up at 30 days was 99.0% (98/99). One subject died before the 30-day follow-
+   up window and 1 subject missed the 30-day visit.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                              Page 35
+Table 17: Subject Disposition, Clinical Follow-up Compliance Intent-to-Treat,
+All Subjects (N=100)
+                                                                                                 Subjects
+ Subjects enrolled (Intent-to-Treat analysis set)                                                  100
+           Subjects treated with at least 1 study stent                                            100
+           Death ≤30 days with no 30-day clinical follow-up performed                                1
+           Eligible for 30-day clinical follow-upa                                                  99
+           30-Day clinical follow-up visit completedb                                          99.0% (98/99)
+                     Office Visit                                                                   11
+                     Telephone contact                                                              87
+           No 30-Day clinical follow-up performed                                                    1
+                     Premature discontinuation                                                       0
+                           Withdrew consent                                                          0
+                           Lost to follow-up                                                         0
+                           Adverse event                                                             0
+                           Investigator discretion                                                   0
+                           Other                                                                     0
+                           Death >30 days                                                            0
+                     Missed 30-day follow-up visit                                                   1
+           30-Day clinical follow-up or deathc                                                99.0% (99/100)
+ Numbers are n or % (count/sample size).
+ a: Patients who died prior to completion of follow-up window and prior to completing a 30-day clinical follow-up
+ visit are considered censored and are excluded from calculation of proportion of patients who completed clinical
+ follow-up visit.
+ b: Based on patients eligible for 30-day clinical follow-up (excludes deaths before 30 days)
+ c: Includes patients who have died in both the numerator and the denominator
+ Abbreviation: ITT=intent-to-treat
+
+    B6. Study Population and Baseline Parameters, NG PROMUS
+    Table 20 presents demographics and baseline clinical characteristics for the ITT analysis set
+    (N=100). The ITT population was predominantly male (85.0%) with a history of medically
+    treated hyperlipidemia (78.0%) and hypertension (70.0%). Medically treated diabetic
+    subjects accounted for 16.0% of ITT subjects. Unstable angina was reported for 25.0% of
+    subjects and 16.0% had a history of MI.
+
+Table 18: Baseline Demographics and General Medical History, ITT Analysis Set
+(N=100 Subjects)
+Parameter                                                                     NG PROMUS
+Male                                                                         85.0% (85/100)
+Age (years)                                                            61.72±9.73 (100) (38, 81)
+Weight (kg)                                                           87.94±19.85 (100) (50, 179)
+Ethnicity and Race
+Hispanic or Latino                                                             2.0% (2/100)
+Caucasian                                                                    72.0% (72/100)
+Asian                                                                        13.0% (13/100)
+Black, of African Heritage                                                     1.0% (1/100)
+Native Hawaiian or Other Pacific Islander                                      5.0% (5/100)
+American Indian or Alaska Native                                               0.0% (0/100)
+Other                                                                          6.0% (6/100)
+Not disclosed                                                                  1.0% (1/100)
+Medical History
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                              Page 36
+Parameter                                                                        NG PROMUS
+Smoking Status
+     Current                                                                     14.0% (14/100)
+     Previous                                                                    42.0% (42/100)
+     Never                                                                       44.0% (44/100)
+     Unknown                                                                      0.0% (0/100)
+Current diabetes mellitus                                                        18.0% (18/100)
+Diabetes treated with diet only                                                   6.0% (6/100)
+Diabetes (medically treated)                                                     16.0% (16/100)
+     Insulin                                                                      2.0% (2/100)
+     Oral medications (no insulin)                                               16.0% (16/100)
+     Injectable agent (other than insulin)                                        0.0% (0/100)
+Diabetes with treatment unknown                                                   0.0% (0/100)
+History of hyperlipidemia (medically treated)                                    78.0% (78/100)
+History of hypertension (medically treated)                                      70.0% (70/100)
+History of bleeding disorder                                                      0.0% (0/100)
+     Gastrointestinal                                                             0.0% (0/100)
+     Hematologic dyscrasia                                                        0.0% (0/100)
+Cardiac History
+Family history of coronary artery disease                                        51.0% (51/100)
+History of myocardial infarction                                                 16.0% (16/100)
+History of congestive heart failure                                               2.0% (2/100)
+Current Angina Status
+     Angina, stable                                                              51.0% (51/100)
+     Angina, unstable                                                            25.0% (25/100)
+     Angina, none                                                                21.0% (21/100)
+     Angina, unknown                                                              3.0% (3/100)
+Silent ischemia                                                                   6.0% (6/100)
+Previous percutaneous coronary intervention                                      23.0% (23/100)
+Previous coronary artery bypass graft                                             5.0% (5/100)
+History of arrhythmia                                                             6.0% (6/100)
+Left ventricular ejection fraction (%)                                    63.57±11.22 (49) (40.00, 90.00)
+History of multivessel disease                                                   32.0% (32/100)
+Neurologic History
+Transient ischemic attack                                                         1.0% (1/100)
+Cerebrovascular accident                                                          2.0% (2/100)
+Renal and Peripheral History
+History of renal disease                                                          1.0% (1/100)
+History of peripheral vascular disease                                            3.0% (3/100)
+Numbers are presented as mean±standard deviation (n) or % (count/sample size).
+Abbreviation: ITT=intent-to-treat
+
+    B7. Safety and Effectiveness Results, NG PROMUS
+    Principal safety and efficacy results through 30-Days are summarized below and in Table 21:
+    Technical success was 99.2% (118/119 lesions)
+        • Clinical procedural success was 99.0% (99/100)
+        • There was a single death, which was adjudicated by the CEC as a cardiac death.
+        • Through 30 days, the protocol MI rate was 9.0% (9/100) and the PLATINUM MI rate
+           was 1.0% (1/100); all of the MIs occurred in hospital and all were non–Q-wave MIs.
+        • There were no revascularizations and no stent thromboses.
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                             Page 37
+Table 19: NG PROMUS 30-Day Clinical Results, Intent-to-Treat Patients N= 100
+Parameter                                                    NG PROMUS (N=100)
+Primary endpoint (technical                                  99.2% (118/119 lesions)
+success)
+Clinical endpoints                             In-Hospital                             30 Days
+ All death, MI, TVR                            1.0% (1/100)                          2.0% (2/100)
+   All death or MI                             1.0% (1/100)                          2.0% (2/100)
+    All death                                  0.0% (0/100)                          1.0% (1/100)
+      Cardiac death                            0.0% (0/100)                          1.0% (1/100)
+      Non-cardiac death                        0.0% (0/100)                          0.0% (0/100)
+    MI                                         1.0% (1/100)                          1.0% (1/100)
+      Q-wave MI                                0.0% (0/100)                          0.0% (0/100)
+      Non-Q wave MI                            1.0% (1/100)                          1.0% (1/100)
+    TVR, overall                               0.0% (0/100)                          0.0% (0/100)
+      TLR, overall                             0.0% (0/100)                          0.0% (0/100)
+    Cardiac death, MI                          1.0% (1/100)                          2.0% (2/100)
+ TLF                                           1.0% (1/100)                          2.0% (2/100)
+ TVR                                           1.0% (1/100)                          2.0% (2/100)
+ ARC ST (definite/probable)                    0.0% (0/100)                          0.0% (0/100)
+Peri-procedural endpoints                                    NG PROMUS (N=100)
+ Clinical procedural success                                      99.0% (99/100)
+                    Quantitative coronary angiography (N=119 Lesions, N=127 Stents
+   Pre-procedure
+   Lesion length (mm)                                           16.05 ± 7.14 (119)
+   Reference vessel diameter                                     2.78 ± 0.45 (119)
+(mm)
+   MLD, in-lesion (mm)                                           0.85 ± 0.29 (119)
+   Diameter stenosis (%)                                        69.12 ± 9.69 (119)
+   Post-procedure
+   MLD, in-stent (mm)                                            2.69 ± 0.43 (119)
+   MLD, in-segment (mm)                                          2.31 ± 0.46 (119)
+   Acute gain, in-stent (mm)                                     1.84 ± 0.45 (119)
+   Acute gain, in segment (mm)                                   1.46 ± 0.47 (119)
+   Diameter stenosis, in-stent (%)                               3.86 ± 8.43 (119)
+   Diameter stenosis, in-segment                                18.14 ± 7.90 (119)
+(%)
+ Intravascular ultrasound
+   Incomplete stent apposition                                    12.9% (13/101)
+   Vessel area (mm2)                                     15.10 ± 4.34 (99) (7.57, 28.35)
+   Stent area (mm2)                                      7.83 ± 2.38 (101) (3.72,15.89)
+   Lumen area (mm2)                                      7.76 ± 2.25 (100) (3.72, 13.51)
+   Vessel volume (mm3)                               354.34 ± 181.60 (99) (98.40, 975.05)
+   Stent volume (mm3)                                185.30 ± 91.75 (101) (49.23, 460.78)
+   Lumen volume (mm3)                                182.62 ± 87.93 (100) (49.23, 459.36)
+   In-stent net volume obstruction                        0.00 ± 0.01 (100) (1.00, 0.12)
+(%)
+ Numbers are presented as % (count/sample size) or mean ± standard deviation (n). MLD=minimum lumen
+                                                 diameter
+*The MI rates shown in the table are based on the Platinum Trial MI definition. The Platinum definitions
+for MI were as follows:
+     • Peri-procedural Q-wave MI: Development of new pathological Q-waves in 2 or more leads with
+     post-procedure CK-MB levels >ULN. If Troponin was only available enzyme, it must be >ULN and
+     the baseline must have been <ULN.
+     • Per-procedural Non-Q-wave MI: Elevation of total CK levels >3x ULN without the presence of
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                                  Page 38
+     new Q-waves. If CK-MB is performed it must be >ULN. If Troponin was only available enzyme, it
+     must be >3x ULN, and the baseline must have been <ULN (there must also be one of the following:
+     ECG changes indicative of new ischemia, imaging evidence of new loss of myocardium or new
+     regional wall abnormality).
+     • Spontaneous MI definitions are the same as the peri-procedural, with the exception of requiring
+     CK-MB (or Troponin, if the only available enzyme) to be >2x ULN.
+The following MI definitions were also evaluated and adjudicated in the NG PROMUS Study protocol
+only:
+     • Peri-procedural Q-2ave MI: Development of new pathological Q-waves.
+     • Peri-procedural Non-Q-wave MI: Elevation of CK-MB levels >3x ULN, or if CKMB is not
+     performed total CK must be >2x ULN, or if Troponin was only available enzyme, it must be >3x ULN.
+     There must also be no evidence of pre-procedure biomarker elevations, or one of the following must be
+     true: ≥ 50% increase in cardiac biomarker result, or evidence that cardiac biomarker values were
+     decreasing prior to suspected MI.
+     • Spontaneous MI definition: Detection of rise and/or fall of CK-MG or Troponin with at least one
+     value above 99th percentile of ULN, together with evidence of myocardial ischemia and at least one of
+     the following: symptoms of ischemia, ECG changes indicative of new ischemia, development of new
+     pathological Q-waves, imaging evidence of new loss of myocardium or new regional wall abnormality.
+The MI rate in the NG PROMUS Study based on these MI definitions was 9.0% (9/100). All MIs were
+peri-procedural Non-Q wave events utilizing this more sensitive MI definition, and there were no additional
+clinical sequelae in these patients through 30 days follow-up.
+
+
+    C. Financial Disclosure
+
+    The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+    applicants who submit a marketing application to include certain information concerning the
+    compensation to, and financial interests and arrangement of, any clinical investigator
+    conducting clinical studies covered by the regulation. The pivotal clinical study included 37
+    principal investigators. None of the clinical investigators had disclosable financial
+    interests/arrangements as defined in sections 54.2(a), (b), (c), and (f). The information
+    provided does not raise any questions about the reliability of the data.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                                     Page 39
+XI.    PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       In accordance with the provisions of section 515(c)(2) of the act as amended by the Safe
+       Medical Devices Act of 1990, this PMA was not referred to the Cardiovascular Panel, an
+       FDA advisory committee, for review and recommendation because the information in the
+       PMA substantially duplicates information previously reviewed by this panel.
+
+XII.   CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+       The safety and effectiveness of the REBEL Platinum Chromium Coronary Stent System
+       are based on the results obtained from: evaluation of biocompatibility; in vitro engineering
+       testing; in vivo animal testing; sterilization information; shelf life testing; and clinical
+       studies. These studies revealed the following:
+
+       A. Safety and Effectiveness Conclusions
+
+          The biocompatibility and in vivo animal testing demonstrated that the acute and chronic
+          in vivo performance characteristics of the REBEL Stent System provide reasonable
+          assurance of safety and acceptability for clinical use.
+
+          The in vitro engineering testing conducted on the stent and delivery system
+          demonstrated that the performance characteristics met the product specifications.
+
+          The test results obtained from the sterilization testing demonstrated that the product can
+          be adequately sterilized and is acceptable for clinical use.
+
+          The shelf life testing has established acceptable performance for a labeled shelf life up to
+          3 years for Monorail stent systems and 2 years for Over-the-Wire stent systems.
+
+          The OMEGA clinical study evaluated the safety and efficacy of the OMEGA Coronary
+          Stent System for the treatment of subjects with a de novo atherosclerotic coronary artery
+          lesion ≤28 mm in length (by visual estimate) in a native coronary artery ≥2.25 mm to
+          ≤4.50 mm in diameter (by visual estimate). The primary endpoint was met as the rate of
+          9-month TLF with the intent-to-treat analysis set was 11.5% (37/323) with a one-sided
+          upper confidence bound of 14.79%, significantly less (P < 0.0001) than the prespecified
+          performance goal of 21.2%. There were four (4) cardiac deaths (1.2%), 12 myocardial
+          infarctions (3.7%), and two (2) patients experienced definite stent thrombosis (0.6%)
+          through 9 months.
+
+          The OMEGA trial met its primary endpoint, supporting the safety and effectiveness of
+          the OMEGA Coronary Stent System for the treatment of de novo atherosclerotic
+          coronary artery lesions ≤28 mm in length in a native coronary arteries ≥2.25 mm to
+          ≤4.50 mm in diameter. The 9 month TLF rate was 11.5% and the upper 1-sided 95%
+          confidence bound of 14.79% was less that the prespecified PG of 21.2% (p< 0.0001).
+          The objective of the NG PROMUS trial was to evaluate the impact of specific design
+          changes relative to the acute deliverability of the device. This confirmatory trial
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                     Page 40
+          consisted of clinical and peri-procedural angiographic and intravascular ultrasound
+          (IVUS) outcomes for the NG PROMUS Stent System in the treatment of subjects with
+          atherosclerotic lesion(s) ≤34 mm in length (by visual estimate) in native coronary
+          arteries ≥2.50 mm to ≤4.00 mm in diameter (by visual estimate).
+          The NG PROMUS trial met its primary endpoint, supporting the safety and efficacy of
+          the NG PROMUS Stent System for the treatment of subjects with atherosclerotic
+          lesion(s) ≤34 mm in length (by visual estimate) in native coronary arteries ≥2.50 mm to
+          ≤4.00 mm in diameter (by visual estimate). The lesion-based technical success, was
+          99.2% (118/119).
+
+       B. Benefit-Risk Conclusions
+
+          The probable benefits of the device are also based on data collected in a clinical
+          studies conducted to support PMA approval as described above.
+              o Device TLF was well inside the success margin.
+              o There were a low amount of safety events
+              o Technical Success for the stent design was 99.2%
+
+          Additional factors to be considered in determining probable risks and benefits for the
+          REBEL Coronary Stent System included:
+
+              o The data can be regarded as robust. The pivotal OMEGA study met its PG by
+                a considerable margin for the important clinical endpoint of TLF at 9 mos. In
+                addition, the performance of this bare metal stent (BMS) in terms of safety
+                profile and technical and procedural success rates are in line with
+                expectations. BMS have been in use for the treatment of ischemic coronary
+                syndromes for several years.
+
+              o The OMEGA trial was a well-designed prospective, single arm trial with a PG
+                (TLF at 9 months) which was based on analysis of BMS performance from
+                several prior well executed trials involving BMS. Only 4 patients out of 328
+                were lost to follow up. The NG PROMUS Trial was a well-executed trial with
+                one death but no patients lost to follow up.
+
+              o This study is not first of a kind for either the device being studied or the
+                design of the trial. The findings are in line with expectations when compared
+                with other studies involving other bare metal stents.
+
+              o With the caveat that women (1/3approx.) and sizeable US minority groups
+                (very few) were not well represented there is a reasonable expectation that this
+                stent device will perform as expected when applied to the wider population of
+                patients with coronary artery disease. Proportions of women and minorities in
+                the OMEGA trial are similar to the proportions seen in historical coronary
+                stent trials, as well as to the trials used to formulate the OMEGA Performance
+                Goal.
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                 Page 41
+               o Patients with symptomatic ischemic coronary syndromes may also be
+                 managed medically or by CABG (coronary artery bypass graft) surgery. Each
+                 strategy has its own set of pros and cons and for different subsets of patients
+                 with coronary artery disease, one or other of these options may have a
+                 particular advantage. Stents have the advantage of requiring significantly less
+                 recovery time in comparison to CABG and relative to medical management
+                 are more effective at controlling angina. Patients with established coronary
+                 disease, especially if advanced and symptomatic, are likely to eventually
+                 succumb to this disease. Terminal events are frequently the result of a
+                 myocardial infarction, congestive heart failure and/or a lethal arrhythmia.
+
+               o The risks associated with use of BMS are already well established. Patient
+                 tolerance of the stent device in these studies was good and in line with
+                 expectations.
+
+            In conclusion, given the available information above, the data support that for improving
+            coronary luminal diameter in patients with de novo lesions ≤ 28 mm in length in native
+            coronary arteries with a reference vessel diameter (RVD) of ≥ 2.25 to ≤ 4.50 mm, the
+            probable benefits outweigh the probable risks.
+
+      C.    Overall Conclusions
+
+            The clinical and preclinical testing support the reasonable assurance of safety and
+            effectiveness of this device when used in accordance with the indications for use.
+
+
+XIII. CDRH DECISION
+
+       CDRH issued an approval order on June 27, 2014.
+
+       The applicant’s manufacturing facilities have been inspected and found to be in
+       compliance with the device Quality System (QS) regulation (21 CFR 820).
+
+XIV. APPROVAL SPECIFICATIONS
+
+       Directions for use: See device labeling.
+
+       Hazards to Health from Use of the Device: See Indications, Contraindications,
+       Warnings, Precautions, and Adverse Events in the device labeling.
+
+       Post-approval Requirements and Restrictions: See approval order.
+
+XV.    REFERENCES
+       1.
+         Alan S. Go, Dariush Mozaffarian, Véronique L. Roger et al. Heart Disease and Stroke
+       Statistics--2014 Update: A Report From the American Heart Association. Circulation.
+       014;129:e28-e292.
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                      Page 42
+       2.
+          Shaw LJ, Bairey Merz CN, Pepine CJ, et al. Insights from the NHLBI-Sponsored Women’s
+       Ischemia Syndrome Evaluation (WISE)Study: Part I: gender differences in traditional and novel
+       risk factors, symptom evaluation, and gender-optimized diagnostic strategies. J Am Coll Cardiol.
+       2006; 47(3):S4-S20.
+       3.
+          Lori Mosca, Emelia J. Benjamin, Kathy Berra et al. Effectiveness-Based Guidelines for the
+       Prevention of Cardiovascular Disease in Women--2011 Update: A Guideline From the American
+       Heart Association. Circulation. 2011;123:1243-1262.
+
+
+
+
+PMA P130030: FDA Summary of Safety and Effectiveness Data                                      Page 43
+

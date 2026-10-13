@@ -1,0 +1,521 @@
+                                                       February 9, 2022
+
+
+Vascular Solutions LLC
+Rebecca Astrup
+Sr. Regulatory Product Specialist
+6464 Sycamore Court N
+Maple Grove, Minnesota 55369
+
+
+Re: K212211
+    Trade/Device Name: Turnpike catheter, Turnpike Spiral catheter, Turnpike LP catheter, Turnpike Gold
+                         catheter, GuideLiner V3 catheter, TrapLiner catheter
+    Regulation Number: 21 CFR 870.1250
+    Regulation Name: Percutaneous catheter
+    Regulatory Class: Class II
+    Product Code: DQY
+    Dated: July 14, 2021
+    Received: July 15, 2021
+
+Dear Rebecca Astrup:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.04.31
+Silver Spring, MD 20993
+www.fda.gov
+2K212211 - Rebecca Astrup                                                                            Page
+
+
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+                                                Lydia S. Digitally signed by
+                                                         Lydia S. Glaw -S
+
+                                                Glaw -S Date:  2022.02.09
+                                                         16:41:21 -05'00'
+                                                Lydia Glaw
+                                                Assistant Director
+                                                DHT2C: Division of Coronary
+                                                  and Peripheral Intervention Devices
+                                                OHT2: Office of Cardiovascular Devices
+                                                Office of Product Evaluation and Quality
+                                                Center for Devices and Radiological Health
+
+Enclosure
+                                                                                       K212211
+                                                                                     Page 1 of 8
+
+
+
+
+510(k) Summary
+[As required by 21 CFR 807.92]
+Date Prepared: February 9, 2022
+510(k) Number: K212211
+
+
+
+
+ Submitter’s Name / Contact Person
+ Manufacturer                                    Contact Person
+ Vascular Solutions LLC                          Becky Astrup
+ 6464 Sycamore Court North                       Sr. Regulatory Product Specialist
+ Minneapolis, MN 55369 USA                       Tel: 763-762-2601
+ Establishment Registration # 2134812            Fax: 763-251-0363
+
+
+
+
+ General Information
+ Trade Name                Turnpike catheter
+                           Turnpike Spiral catheter
+                           Turnpike LP catheter
+                           Turnpike Gold catheter
+                           GuideLiner V3 catheter
+                           TrapLiner catheter
+
+ Common / Usual Name       Catheter
+
+ Classification Name       21 CFR 870.1250, DQY, Percutaneous catheter, Class II
+
+ Predicate Device          K171933, Asahi Corsair Pro microcatheter (Asahi Intecc Co., LTD)
+
+ Reference Devices         K191560, Turnpike catheter (Vascular Solutions LLC)
+                           K172090, GuideLiner V3 catheter (Vascular Solutions LLC)
+                           K161901, TrapLiner catheter (Vascular Solutions LLC)
+                                                                                                     K212211
+                                                                                                   Page 2 of 8
+
+
+
+
+Device Description
+
+Turnpike catheters:
+
+The Turnpike catheters are single lumen catheters designed for use in the coronary and peripheral
+vasculature. The catheter shaft is constructed of two polymer layers that encapsulate a braid and a dual-
+layer coil. The distal 60 cm of the Turnpike catheters are hydrophilic coated, and all models are
+compatible with 0.014" guidewires and 5F guide catheters. The turnpike catheters are available in four
+configurations: Turnpike, Turnpike Spiral, Turnpike Gold, and Turnpike LP.
+
+GuideLiner V3 catheters:
+
+The GuideLiner V3 catheter is a rapid-exchange guide extension catheter designed for use in the coronary
+and peripheral vasculature. It is available in five sizes – 5F, 5.5F, 6F, 7F, and 8F. All sizes of the
+GuideLiner V3 catheter have a 150 cm working length, consisting of a 125 cm long stainless steel
+pushwire shaft followed distally by a 25 cm long full-round, silicone-wiped guide extension segment. The
+distal 17 cm of the 125 cm pushwire shaft is covered with a semicircular shaped polymer that meets the
+proximal end of the full-round guide extension segment.
+
+TrapLiner catheters:
+
+The TrapLiner catheter is a rapid-exchange guide extension catheter with a trapping balloon on the distal
+end of the pushrod. The stainless steel hypotube pushrod is covered on the distal end by a semi-circular
+polymer (‘half-pipe’) and transitions to a hydrophilic coated full-round polymer guide extension section.
+There are two radiopaque marker bands on the guide extension segment, one on the distal tip and one on
+the collar. The Nylon trapping balloon (3.1 mm diameter) is located proximal to the half-pipe and has a
+single radiopaque gold marker under the proximal end of the balloon. The balloon is reflowed, and an
+adhesive is applied on each end. The TrapLiner catheter has an over-molded Nylon hub on the proximal
+end to facilitate balloon inflation.
+
+
+
+Intended Use
+
+All devices are intended to be used to access discrete regions of the coronary and/or peripheral
+vasculature. The indications for use are as follows.
+
+Turnpike catheters:
+
+The Turnpike catheters are intended to be used to access discrete regions of the coronary and/or
+peripheral vasculature. They may be used to facilitate placement and exchange of guidewires, to
+subselectively infuse/deliver diagnostic and therapeutic agents, and to assist in crossing de novo coronary
+chronic total occlusions (CTO).
+
+GuideLiner V3 catheters:
+
+GuideLiner catheters are intended to be used in conjunction with guide catheters to access discrete
+regions of the coronary and/ or peripheral vasculature, to facilitate placement of interventional devices,
+and to assist in crossing de novo coronary chronic total occlusions (CTO).
+                                                                                                     K212211
+                                                                                                   Page 3 of 8
+
+
+
+
+TrapLiner catheters:
+
+The TrapLiner catheter is intended for use in conjunction with guide catheters to access discrete regions
+of the coronary and/or peripheral vasculature, to facilitate placement of interventional devices, to
+facilitate the exchange of an interventional device while maintaining the position of a guidewire within
+the vasculature, and to assist in crossing de novo coronary chronic total occlusions (CTO).
+
+
+
+Technological Characteristics Comparison
+
+The Turnpike Catheter, GuideLiner V3 Catheter, TrapLiner Catheter, and Corsair Pro Microcatheter have
+the same intended use. The Turnpike Catheter, GuideLiner V3 Catheter, TrapLiner Catheter, and Corsair
+Pro Microcatheter are both manufactured with a polymer layers and include a coil segment with a
+radiopaque tip and a lumen compatible with 0.014” guidewires.
+
+The tables below compare the technological characteristics of each subject device with the predicate
+device. The Turnpike, GuideLiner V3, and TrapLiner catheters are substantially equivalent to the
+predicate device with respect to indications for use and technological characteristics. Furthermore, the
+Turnpike, GuideLiner V3, and TrapLiner catheters are identical in design and technological
+characteristics to each reference device.
+
+                                                                                   Predicate Device
+                                           Subject Device
+                                                                         Asahi Corsair Pro microcatheter
+                                         Turnpike Catheter
+                                                                                       (K171933)
+     Product Classification                        21 CFR 870.1250 Percutaneous Catheter
+            Product Code                                             DQY
+  Intended Use/Indications                                               This product is intended to provide
+                                                                          support to facilitate the placement
+                                The Turnpike catheters are intended       of guidewires in the coronary and
+                                to be used to access discrete regions    peripheral vasculatures, and can be
+                                  of the coronary and/or peripheral      used to exchange one guidewire for
+                                  vasculature. They may be used to                      another.
+                                facilitate placement and exchange of       This product is also intended to
+                                    guidewires, to subselectively          assist in the delivery of contrast
+                                    infuse/deliver diagnostic and        media into the coronary, peripheral,
+                                 therapeutic agents, and to assist in    and abdominal vasculatures, and to
+                                 crossing de novo coronary chronic       assist in crossing de novo coronary
+                                        total occlusions (CTO).            chronic total occlusions (CTO).
+                                                                          This device should not be used in
+                                                                                 the neurovasculature.
+       Device Description                Single lumen guidewire support catheter with radiopaque tip
+     Anatomical Location                             Coronary and Peripheral Vasculature
+  Guidewire Compatibility                                          ≤ 0.014"
+          Guide Catheter
+                                                                     ≥5F
+            Compatibility
+         Working Length                                        135 cm, 150 cm
+          Coating Length                                            60 cm
+       Proximal Shaft OD                       0.038”                                   0.037”
+          Distal Shaft OD                  0.029” – 0.038”                              0.034”
+                                                                                                 K212211
+                                                                                               Page 4 of 8
+
+
+
+
+                                                                           Predicate Device
+                                      Subject Device
+                                                                  Asahi Corsair Pro microcatheter
+                                    Turnpike Catheter
+                                                                              (K171933)
+          Distal Tip OD               0.021” – 0.028”                           0.017”
+              Materials     Materials compatible with ISO 10993, commonly used for the manufacture
+                                                       of medical devices.
+            Sterilization                           Ethylene Oxide, SAL 10-6
+
+                                                                                Predicate Device
+                                    Subject Device
+                                                                      Asahi Corsair Pro microcatheter
+                                GuideLiner V3 Catheter
+                                                                                    (K171933)
+  Product Classification                       21 CFR 870.1250 Percutaneous Catheter
+         Product Code                                             DQY
+                                                                      This product is intended to provide
+                                                                     support to facilitate the placement of
+                                                                         guidewires in the coronary and
+                            GuideLiner catheters are intended
+                                                                      peripheral vasculatures, and can be
+                              to be used in conjunction with
+                                                                      used to exchange one guidewire for
+                             guide catheters to access discrete
+                                                                                     another.
+                              regions of the coronary and/ or
+                                                                    This product is also intended to assist
+Intended Use/Indications    peripheral vasculature, to facilitate
+                                                                     in the delivery of contrast media into
+                                placement of interventional
+                                                                          the coronary, peripheral, and
+                             devices, and to assist in crossing
+                                                                     abdominal vasculatures, and to assist
+                              de novo coronary chronic total
+                                                                     in crossing de novo coronary chronic
+                                     occlusions (CTO).
+                                                                             total occlusions (CTO).
+                                                                     This device should not be used in the
+                                                                                neurovasculature.
+                               Single lumen rapid exchange              Single lumen guidewire support
+     Device Description
+                                catheter with radiopaque tip               catheter with radiopaque tip
+   Anatomical Location                           Coronary and Peripheral Vasculature
+Guidewire Compatibility                                         ≤ 0.014"
+                                5 Fr: ID ≥0.056" (1.42 mm)
+                               5.5 Fr: ID ≥0.066" (1.68 mm)
+         Guide Catheter                                                                ≥5F
+                                6 Fr: ID ≥0.070" (1.78 mm)
+          Compatibility
+                                7 Fr: ID ≥0.078" (1.98 mm)
+                                8 Fr: ID ≥0.088" (2.24 mm)
+       Working Length                      150 cm                                135 cm, 150 cm
+       Coating Length                       25 cm                                     60 cm
+             Shaft ID                  0.046” – 0.071”                          0.018” (0.45 mm)
+                                                                                Proximal: 0.037”
+               Shaft OD                0.053” – 0.085”
+                                                                                  Distal: 0.034”
+                            Materials compatible with ISO 10993, commonly used for the manufacture
+              Materials
+                                                          of medical devices.
+            Sterilization                             Ethylene Oxide, SAL 10-6
+                                                                                                      K212211
+                                                                                                    Page 5 of 8
+
+
+
+
+                                                                                     Predicate Device
+                                           Subject Device
+                                                                           Asahi Corsair Pro microcatheter
+                                         TrapLiner Catheter
+                                                                                         (K171933)
+     Product Classification                          21 CFR 870.1250 Percutaneous Catheter
+            Product Code                                              DQY
+                                                                           This product is intended to provide
+                                  The TrapLiner catheter is intended
+                                                                          support to facilitate the placement of
+                                   for use in conjunction with guide
+                                                                             guidewires in the coronary and
+                                  catheters to access discrete regions
+                                                                           peripheral vasculatures, and can be
+                                   of the coronary and/or peripheral
+                                                                           used to exchange one guidewire for
+                                  vasculature, to facilitate placement
+                                                                                          another.
+                                      of interventional devices, to
+                                                                             This product is also intended to
+  Intended Use/Indications            facilitate the exchange of an
+                                                                             assist in the delivery of contrast
+                                       interventional device while
+                                                                           media into the coronary, peripheral,
+                                      maintaining the position of a
+                                                                           and abdominal vasculatures, and to
+                                   guidewire within the vasculature,
+                                                                           assist in crossing de novo coronary
+                                   and to assist in crossing de novo
+                                                                             chronic total occlusions (CTO).
+                                   coronary chronic total occlusions
+                                                                          This device should not be used in the
+                                                  (CTO).
+                                                                                     neurovasculature.
+                                   Rapid-exchange guide extension            Single lumen guidewire support
+         Device Description
+                                     catheter with trapping balloon            catheter with radiopaque tip
+     Anatomical Location                               Coronary and Peripheral Vasculature
+  Guidewire Compatibility                                            ≤ 0.014"
+                                      6 Fr: ID ≥0.070" (1.78 mm)
+            Guide Catheter                                                                  ≥5F
+                                      7 Fr: ID ≥0.078" (1.98 mm)
+             Compatibility
+                                      8 Fr: ID ≥0.088" (2.24 mm)
+           Working Length                         150 cm                              135 cm, 150 cm
+           Coating Length                         11.5 cm                                  60 cm
+                                  Materials compatible with ISO 10993, commonly used for the manufacture
+                    Materials
+                                                                of medical devices.
+                  Sterilization                              Ethylene Oxide, SAL 10-6
+
+Questions related to clinical performance have been evaluated for the subject devices through design
+verification and validation testing, including an IDE clinical study.
+
+Performance Data
+
+No physical changes have been made to the subject devices compared to the reference devices; therefore,
+comparisons of bench, biocompatibility, packaging, and sterilization testing are not necessary. Clinical
+testing has been performed to evaluate the technological differences when comparing the subject devices
+to the predicate device for the CTO indication.
+
+
+Clinical Tests:
+
+A prospective, multi-center, single-arm study of 150 subjects was performed to evaluate the safety and
+effectiveness of Vascular Solutions’ specialized guidewires, microcatheters, and guide extensions in
+patients undergoing CTO-PCI. The objective of the study was to evaluate angiographic confirmation of
+placement of any guidewire beyond the CTO, in the true vessel lumen, in patients undergoing CTO PCI
+in which at least one study guidewire and one Turnpike catheter were used.
+                                                                                                  K212211
+                                                                                                Page 6 of 8
+
+
+
+
+Device Use
+A total of 566 study-guidewires (55% of the total number of guidewires used; used in all 150 subjects)
+and 457 non-study guidewires (45% of the total; used on 112 subjects) were used in the CTO-PCI Study.
+A detailed breakdown of study device wire use is provided in the following table.
+
+                                        Guidewire Device Usage
+                      Guidewire        Number (%) of Subjects with Device Used
+                       Spectre                      129 (86.0%)
+                       Raider                       102 (68.0%)
+                       Warrior                       35 (23.3%)
+                       Bandit                        68 (45.3%)
+                        R350                         39 (26.0%)
+
+
+At least one Turnpike catheter and one study guidewire were used in all cases, and a GuideLiner catheter
+or TrapLiner catheter was used in all cases where a guide extension was required (64% of cases). A
+breakdown of Turnpike catheter use by model is provided in the following table.
+
+                                  Turnpike Catheter Device Usage
+                      Catheter       Number (%) of Subjects with Device Used
+                       Turnpike                     33 (22.0%)
+                    Turnpike Spiral                 94 (62.7%)
+                    Turnpike Gold                    1 (0.7%)
+                     Turnpike LP                    85 (56.7%)
+
+
+Study device procedural technique is provided in the following table.
+
+
+                                    Procedural Technique – n (%)
+                                    Wire escalation                     86 (57.3%)
+                                   Dissection/re-entry                  23 (15.3%)
+                                 Wire externalization                   21 (14.0%)
+                                         Safety                         15 (10.0%)
+                              Stabilization and/or support               7 (4.7%)
+                                       Delivery                          5 (3.3%)
+                                     Reverse CART                        4 (2.7%)
+                                       Crossing                          2 (1.3%)
+                                    Not specified                        2 (1.3%)
+                                  CTO RCA and RPL                        1 (0.7%)
+                                    Donor vessel                         1 (0.7%)
+                                       Knuckled                          1 (0.7%)
+                                       Workhorse                         1 (0.7%)
+                                                                                                     K212211
+                                                                                                   Page 7 of 8
+
+
+
+
+Primary Endpoint
+
+The primary endpoint for the study was defined as procedure success through discharge or 24 hours post-
+procedure, whichever came first. Procedure success was defined as angiographic visualization of any
+guidewire in a position either distal or proximal to the occlusion depending on the route of access, and
+absence of in-hospital MACE (cardiac death, target lesion revascularization, or post-procedural MI
+defined as CK-MB ≥ 3x ULN).
+
+Summary of Primary Endpoint Analysis
+
+The study primary endpoint result (75.3%) met the predetermined performance goal.
+
+
+                                                                                Study Results
+    Category
+                                                                                   % (n/N)
+    Overall Primary Endpoint Met                                               75.3% (113/150)
+    Components of Primary Endpoint
+    Angiographic Visualization of any guidewire distal/proximal to
+                                                                               94.7% (142/150)
+    CTO in the true vessel lumen
+    Absence of in-hospital MACE                                                80.7% (121/150)
+
+
+Secondary Endpoint
+
+The secondary endpoints include:
+
+     Frequency of successful recanalization (defined as angiographic confirmation of crossing CTO and
+      restoring blood flow to the affected area).
+     Frequency of MACE through discharge or 24 hours post-procedure, whichever comes first (in-
+      hospital follow-up), and at 30 days post-procedure (MACE components are also reported separately).
+     Frequency of clinically significant perforation (defined as any perforation resulting in hemodynamic
+      instability and/or requiring intervention including pericardiocentesis, embolization, prolonged balloon
+      occlusion, stent graft, or comparable therapy).
+     Procedural success according to crossing technique.
+     Technical success.
+                                                                                                      K212211
+                                                                                                    Page 8 of 8
+
+
+
+
+Summary of Secondary Endpoint Analysis
+
+                                                                                   Study Results
+ Parameter
+                                                                                      % (n/N)
+ Successful recanalization                                                          140 (93.3%)
+ MACE                                                                                29 (19.3%)
+     In-Hospital                                                                     29 (19.3%)
+     30-Day                                                                           0 (0.0%)
+ Clinically Significant Perforations                                                 16 (10.7%)
+ Procedure Success by Crossing Technique
+     Antegrade                                                                  69 (85.2%) (69/81)
+     Retrograde                                                                   1 (50.0%) (1/2)
+     Combined Antegrade and Retrograde                                          43 (64.2%) (43/67)
+ Technical Success                                                                 140 (93.3%)
+MACE includes all MIs defined as CK-MB ≥ 3x ULN.
+
+
+
+In a multicenter, prospective registration trial, procedural success was achieved in a high lesion
+complexity patient population (e.g. 94.7% severely calcified lesions) using contemporary technique and
+application of dedicated CTO guidewires, microcatheters and guide catheter extensions. No new safety or
+effectiveness issues were raised during the study. These results demonstrate that the subject catheters are
+suitable for their intended use to assist in crossing or assisting in crossing de novo coronary chronic total
+occlusions (CTO). The clinical data raised no new questions of safety and effectiveness compared to the
+predicate devices, supporting that the subject catheters with the expanded indication are substantially
+equivalent to the predicate devices.
+
+
+Conclusion
+The Turnpike Catheter, GuideLiner V3 Catheter, and TrapLiner Catheter are substantially equivalent to
+the predicate device.
+

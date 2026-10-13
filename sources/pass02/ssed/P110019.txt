@@ -1,0 +1,2086 @@
+        SUMMARY OF SAFETY AND EFFECTIVENESS DATA
+                         (SSED)
+
+I.            GENERAL INFORMATION
+
+Device Generic Name:                    Drug Eluting Coronary Stent System (NIQ)
+
+Device Trade Name:                      XIENCE PRIMETM Everolimus Eluting Coronary Stent
+                                        System
+
+                                        XIENCE PRIME Tm LL Everolimus Eluting Coronary
+                                        Stent System
+
+Applicant's Name and Address:           Abbott Vascular
+                                        3200 Lakeside Drive
+                                        Santa Clara, CA 95054
+
+Date of Panel Recommendation: None
+
+Premarket Approval Application
+(PMA) Number:                  P110019
+
+Date of FDA Notice of Approval:         November 1, 2011
+
+Expedited:                             Not Applicable
+
+
+II.           INDICATIONS FOR USE
+
+The XIENCE PRIME stent system is indicated for improving coronary luminal diameter in
+patients with symptomatic heart disease due to de novo native coronary artery lesions (length
+< 32 mm) with reference vessel diameters of 2.25 mm to < 4.25 mm.
+
+
+III.          CONTRAINDICATIONS
+
+The XIENCE PRIME stent system is contraindicated for use in patients:
+
+       * Who cannot receive anti-platelet and/or anti-coagulant therapy
+       * With lesions that prevent complete angioplasty balloon inflation or proper placement
+         of the stent or stent delivery system
+       * With hypersensitivity or contraindication to everolimus or structurally-related
+         compounds, cobalt, chromium, nickel, tungsten, acrylic, and fluoropolymers
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                          Page 1 of 46
+IV.           WARNINGS AND PRECAUTIONS
+
+The warnings and precautions can be found in the XIENCE PRIME and XIENCE PRIME
+LL Everolimus Eluting Coronary Stent System labeling.
+
+V.            DEVICE DESCRIPTION
+
+The XIENCE PRIME family of stent systems includes:
+
+      *   The XIENCE PRIME Everolimus Eluting Coronary Stent System (stent diameters
+          2.25, 2.5,2.75, 3.0, 3.5, 4.0 mm, stent lengths 8, 12, 15, 18, 23 mm)
+
+      *   XIENCE PRIME LL Everolimus Eluting Coronary Stent System (stent diameters
+          2.25, 2.5,2.75, 3.0, 3.5, 4.0 mm, stent lengths 28, 33, 38 mm) Everolimus Eluting
+          Coronary Stent Systems
+
+Hereafter the XIENCE PRIME family of stent systems is referred to as the XIENCE PRIME
+stent or XIENCE PRIME stent system. The XIENCE PRIME stent systems are device/drug
+combination products consisting of a drug-coated stent and a balloon expandable delivery
+system. The stent is coated with a formulation containing everolimus, the active ingredient,
+embedded in a non-erodible polymer, which is identical to the XIENCE Ve Everolimus
+Eluting Coronary Stent System (XIENCE V EECSS) approved in P070015.
+
+The device component consists of medical grade L-605 cobalt chromium (CoCr) drug-coated
+stent mounted onto the XIENCE PRIME stent delivery system. The device component
+characteristics are summarized in Table 1.
+
+
+
+
+The 2.25 mm stent diameter for XIENCE PRIME LL is only available in the 28 mm stent length.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                     Page 2 of 46
+Table 1           XIENCE PRIME and XIENCE PRIME LL Product Description
+                               XIENCE PRIME EECSS                                 XIENCE PRIME LL EECSS
+   Available Stent                 8,12,15,18,23                                         28,33,38
+    Lengths (mm)                   8, 12, 15, 18, 23                                     28, 33, 38
+   Available Stent
+   Diameters (mm)              2.25, 2.5, 2.75, 3.0, 3.5, 4.0                         2.25*, 2.75, 3.0, 3.5, 4.0
+    Stent Material                     A medical grade L-605 Cobalt Chromium (CoCr) alloy
+
+                                       Stent                                    Stent Surface Target
+                                        eint        Diameters (mm)             Length Area    Drug
+                                      Design                                           (cm2) Amount
+
+                                       Small       2.25, 2.5, 2.75, 3.0           8     0.3972         40
+                                       Small       2.25, 2.5, 2.75, 3.0          12     0.6048     .   60
+                                       Small       2.25, 2.5, 2.75, 3.0          15     0.7431         74
+                                       Small       2.25, 2.5, 2.75, 3.0          18     0.8815         88
+                                       Small      2.25, 2.5, 2.75, 3.0           23      1.0891        109
+                                       Small      2.25, 2.5, 2.75, 3.0           28      1.3658        137
+  Drug Component                       Small         2.5, 2.75, 3.0              33      1.5734        157
+                                      Small             2.5, 2.75, 3.0           38     1.8501         185
+                                     Medium                3.5, 4.0              8      0.4979         50
+                                     Medium                3.5, 4.0              12     0.7466         75
+                                     Medium                3.5,4.0               15     0.9124          91
+                                     Medium                3.5,4.0               18      1.1612        116
+                                     Medium                3.5, 4.0              23     1.4099         141
+                                     Medium                3.5,4.0               28     1.7415         174
+                                     Medium                3.5, 4.0              33     1.9903         199
+                                     Medium                3.5, 4.0              38     2.3219         232
+  Delivery System
+  Working Length                                                      143 cm
+  Delivery System        Single access port to inflation lumen; guide wire exit notch is located 25.5 cm from
+       Design                                   tip; designed for guide wires 5 0.014".
+   Stent Delivery        A compliant, tapered balloon, with two radiopaque markers located on the catheter
+   System Balloon                  shaft to indicate balloon positioning and expanded stent length
+                                           Rated Burst Pressure (RBP): 18 atm (1824 kPa)
+                                       Stent Diameter (mm)                     In Vitro Stent Nominal
+                                                                                  Pressure (atm)
+                                                 2.25
+  Balloon Inflation                              2.5
+      Pressure
+                                                 2.75                                     8
+                                                  3.0                                     10
+                                                  3.5                                     10
+
+                                                  4.0                         10
+  Guiding Catheter
+   Inner Diameter                                      > 5F (0.056")
+Catheter Shaft Outer                          Distal:       0.034" (0.86 mm)
+      Diameter                                Proximal:     0.031" (0.79 mm)
+* The 2.25 mm diameter stent for XIENCE PRIME LL is only available in the 28 mm stent length.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                                    Page 3 of 46
+A.     Device Component Description
+
+The XIENCE PRIME stent system consists of the coated Cobalt Chromium (CoCr) alloy
+stent mounted on a delivery system. The XIENCE PRIME stent uses the identical stent and
+balloon materials, and the identical drug coating formulation and drug dose density
+(100ug/cm 2) as the XIENCE V Everolimus Eluting Coronary Stent System (P070015 and
+supplements). The XIENCE PRIME stent design is similar to that of the XIENCE V stent
+with regard to the Multi-Link Vision Coronary Stent System (P020047 and supplements)
+stent design in strut thickness and similar metal to artery ratios that, when expanded, allows
+for similar drug dosing to the vessel. The XIENCE PRIME stent design has been slightly
+modified from that of the XIENCE V stent design in order to accommodate design
+improvements while not affecting the overall structural integrity of the design. These
+modifications include longer cell length and a modified proximal end ring.
+
+The XIENCE PRIME stent delivery system utilizes the same principle of operations as other
+Abbott Vascular Rapid Exchange (RX) stent systems and dilatation catheters. The XIENCE
+PRIME stent delivery system materials are similar to those used in the XIENCE V EECSS
+and the Voyager NC Coronary Dilatation Catheter (DCD) (P810046/S226).
+
+
+B.     Drug Component Description
+
+Identical to the XIENCE V stent, the XIENCE PRIME and XIENCE PRIME LL Everolimus
+Eluting Coronary Stents (XIENCE PRIME stent) are coated with everolimus (active
+ingredient), embedded in a non-erodible polymer (inactive ingredient).
+
+
+B 1.   Everolimus
+
+Everolimus is the active pharmaceutical ingredient in the XIENCE PRIME stent. It is a novel
+semi-synthetic macrolide immunosuppressant, synthesized by chemical modification of
+rapamycin (INN: sirolimus). The everolimus chemical name is 40-O-(2-hydroxyethyl)­
+rapamycin and the chemical structure is shown in Figure 1 below.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                          Page 4 of 46
+                               0
+
+                          NC
+
+
+
+
+                                                  0       0              OH
+                                    N
+
+                               0          0   0                tC   0,        0
+
+                                     OH
+
+
+
+
+                    Figure 1       Chemical Structure of Everolimus
+
+
+B2.    Inactive Ingredients
+
+The XIENCE PRIME stent contains inactive ingredients, including poly n-butyl methacrylate
+(PBMA), a polymer that adheres to the stent and drug coating, and PVDF-HFP, which is
+comprised of vinylidene fluoride and hexafluoropropylene monomers as the drug matrix
+layer containing everolimus. PBMA is a homopolymer with a molecular weight (Mw) of
+264,000 to 376,000 dalton. PVDF-HFP is a non-erodible semi-crystalline random copolymer
+with a molecular weight (Mw) of 254,000 to 293,000 dalton. The drug matrix copolymer is
+mixed with everolimus (83%/17% w/w polymer/everolimus ratio) and applied to the entire
+PBMA-coated stent surface. The drug load is 100 ig/cm 2 . No topcoat layer is used. The
+polymer chemical structures are shown in Figure 2a and 2b below.
+
+
+
+                                                  CH
+                                    -- CH 2-C­
+                                                  I
+
+
+
+                                                      (OH2)3
+                                                       CH3
+       Figure 2a      Chemical Structure of Poly (n-butyl methacrylate) (PBMA)
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                         Page 5 of 46
+                                                         F
+                                                   F2    C     J
+                            LCH2-CF2
+                                              n          CF3- m
+
+
+       Figure 2b      Formula for Vinylidene Fluoride and Hexafluoropropylene
+                                      Copolymer (PVDF-HFP)
+
+
+The product matrix, including nominal dosages of everolimus in each XIENCE PRIME stent
+is described in Table 2. The nominal everolimus content is based on stent design and length.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                       Page 6 of 46
+Table 2      XIENCE PRIME and XIENCE PRIME LL EECSS Product Matrix and
+             Everolimus Content
+    XIENCE          Nominal         Nominal
+   PRIMETM         Expanded        Unexpanded       Eomimus
+ US and Japan                                       Eeoiu
+  Commerciapal   Stent Diameter    Stent Length     Co   ig)
+  Commercial          (m                  m)Content      (gg)
+         Par
+     Part #    ~      (mm)             (mm)
+   1011730-08          2.25             8                40
+   1011730-12          2.25            12                60
+   1011730-15          2.25            15                74
+   1011730-18          2.25            18                88
+  1011730-23           2.25            23               109
+   1011730-28          2.25            28               137
+   1011731-08           2.5             8               40
+   1011731-12           2.5            12                60
+   1011731-15           2.5            15                74
+   1011731-18           2.5            18                88
+   1011731-23           2.5            23               109
+  1011731-28            2.5            28               137
+  1011731-33            2.5            33               157
+  1011731-38            2.5            38               185
+  1011732-08           2.75             8               40
+  1011732-12           2.75            12               60
+  1011732-15           2.75            15               74
+  1011732-18           2.75            18                88
+  1011732-23           2.75            23               109
+  1011732-28           2.75            28               137
+  1011732-33           2.75            33               157
+  1011732-38           2.75            38               185
+  1011733-08            3.0             8               40
+  1011733-12            3.0            12               60
+  1011733-15            3.0            15               74
+  1011733-18            3.0            18               88
+  1011733-23            3.0            23               109
+  1011733-28            3.0            28               137
+  1011733-33            3.0            33               157
+  1011733-38            3.0            38               185
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data       Page 7 of 46
+Table 2           XIENCE PRIME and XIENCE PRIME LL EECSS Product Matrix and
+                  Everolimus Content (cont'd)
+   XIENCE               Nominal         Nominal
+   PRIME TM            Expanded       Unexpanded            E ominus
+ US and Japan        Stent Diameter   Stent Length          Coet(g
+  Commercial              (mm)Content                             (g)
+       Part   #
+
+     1011734-08           3.5                   8                 50
+     1011734-12           3.5                  12                 75
+     1011734-15           3.5                  15                 91
+     1011734-18           3.5                  18                116
+     1011734-23           3.5                  23                141
+     1011734-28           3.5                  28                174
+     1011734-33           3.5                  33                199
+     1011734-38           3.5                  38                232
+     1011735-08           4.0                   8                 50
+     1011735-12           4.0                  12                 75
+     1011735-15           4.0                  15                 91
+     1011735-18           4.0                  18                116
+     1011735-23           4.0                  23                141
+     1011735-28           4.0                 .28                174
+     1011735-33           4.0                  33                199
+     1011735-38           4.0                  38                232
+
+
+C.        Mechanism of Action
+
+The mechanism by which the XIENCE PRIME stent inhibits neointimal growth as seen in
+preclinical and clinical studies has not been established. At the cellular level, everolimus
+inhibits growth factor-stimulated cell proliferation. At the molecular level, everolimus forms
+a complex with the cytoplasmic protein FKBP-12 (FK 506 Binding Protein). This complex
+binds to and interferes with FRAP (FKBP- 12 Rapamycin Associated Protein), also known as
+mTOR (mammalian Target Of Rapamycin), leading to inhibition of cell metabolism, growth
+and proliferation by arresting the cell cycle at the late G1 stage.
+
+
+VI.           ALTERNATIVE PRACTICES AND PROCEDURES
+
+There are several other alternatives for the treatment of patients with coronary artery disease
+including exercise, diet, drug therapy, percutaneous coronary interventions (i.e., balloon
+angioplasty, atherectomy, bare metal stents, coated stents, and other drug-eluting stents), and
+coronary artery bypass grafting (CABG) surgery. Each alternative has its own advantages
+and disadvantages. A patient should fully discuss these alternatives with his/her physician to
+select the method that best meets expectations and lifestyle.
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                          Page 8 of 46
+VII.          MARKETING HISTORY
+
+The XIENCE PRIME and XIENCE PRIME LL Everolimus Eluting Coronary Stent System
+is commercially available in the following countries:
+
+Afghanistan              France             Luxembourg           Serbia
+Albania                  French Polynesia   Macedonia            Singapore
+Algeria                  French Guyana      Malaysia             Slovakia
+Aruba                    Georgia            Malta                Slovenia
+Australia                Germany            Martinique           South Korea
+Austria                  Greece             Mauritius            Spain
+Bahamas                  Guadeloupe         Morocco              Sri Lanka
+Bahrain                  Guatemala          Myanmar              Suriname
+Bangladesh               Guyana             Netherlands          Sweden
+Barbados                 Honduras           New Caledonia        Switzerland
+Belgium                  Hong Kong          New Zealand          Syria
+Belize                   Hungary            Nicaragua            Thailand
+Bermuda                  Iceland            Niederl. Antill.     Trinidad and Tobago
+Bolivia                  India              Nigeria              Tunisia
+Brazil                   Indonesia          Norway               Turkey
+British Virgin Islands   Iran               Oman                 Uganda
+Brunei                   Iraq               Pakistan             Ukraine
+Bulgaria                 Ireland            Panama               United Arab Emirates.
+Cambodia                 Israel             Paraguay             United Kingdom
+Cayman Islands           Italy              Philippines          Uruguay
+Chile                    Jamaica            Poland               Vietnam
+Colombia                 Jordan             Portugal             Zimbabwe
+Cyprus                   Kenya              Qatar
+Czech Republic           Kosovo             Rep. of Armenia
+Denmark                  Kuwait             Rep. of Yemen
+Dominican Republic       Latvia             R6union
+Egypt                    Lebanon            Romania
+El Salvador              Libya              Russian Federation
+Estonia                  Liechtenstein      San Marino
+Finland                  Lithuania          Saudi Arabia
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                     Page 9 of 46
+The XIENCE PRIME and XIENCE PRIME LL EECSS have not been withdrawn from
+marketing in any country for any reason.
+
+As of September 30, 2011, 472,860 XIENCE PRIME TM and XIENCE PRIME TM LL
+Everolimus Eluting Coronary Stent Systems have been distributed outside of the United
+States.
+
+
+VIII.      POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+Below is a list of the potential adverse effects (e.g., complications) associated with the use of
+the XIENCE PRIME and XIENCE PRIME LL Everolimus Eluting Coronary Stent System.
+
+Adverse events (in alphabetical order) which may be associated with percutaneous coronary
+and treatment procedures, where coronary stents are used in native coronary arteries include,
+but are not limited to:
+
+   *    Abrupt closure
+   *    Access site pain, hematoma, or hemorrhage
+   *    Acute myocardial infarction
+   *    Allergic reaction or hypersensitivity to contrast agent or cobalt, chromium, nickel,
+        tungsten, acrylic, and fluoropolymers; and drug reactions to antiplatelet drugs or
+        contrast agent
+   *    Aneurysm
+   *    Arterial perforation and injury to the coronary artery
+   *    Arterial rupture
+   *    Arteriovenous fistula
+   *    Arrhythmias, atrial and ventricular
+   *    Bleeding complications, which may require transfusion
+   *    Cardiac tamponade
+   *    Coronary artery spasm
+   *    Coronary, or stent embolism
+   *    Coronary or stent thrombosis
+   *    Death
+   *    Dissection of the coronary artery
+   *    Distal emboli (air, tissue or thrombotic)
+   *    Emergent or non-emergent coronary artery bypass graft surgery
+   *    Fever
+   *    Hypotension and/or hypertension
+   *    Infection and pain at insertion site
+   *    Injury to the coronary artery
+   *    Ischemia (myocardial)
+   *    Myocardial infarction (MI)
+   *    Nausea and vomiting
+   *    Palpitations
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                          Page 10 of 46
+   *   Peripheral ischemia (due to vascular injury)
+   *   Pseudoaneurysm
+   *   Renal failure
+   *   Restenosis of the stented segment of the artery
+   *   Shock/pulmonary edema
+   *   Stroke/cerebrovascular accident (CVA)
+   *   Total occlusion of coronary artery
+   *   Unstable or stable angina pectoris
+   *   Vascular complications, including at the entry site, which may require vessel repair
+   *   Vessel dissection
+
+Everolimus is approved in the United States under the name of Zortress by Novartis
+Pharmaceuticals for the prophylaxis of organ rejection in adult kidney transplant recipients at
+low-moderate immunologic risk, at the dose of 1.5 mg/day when taken by mouth. Outside the
+United States, Zortress is sold under the brand name Certican in more than 70 countries.
+Everolimus is also approved in the United States under the name of Afinitor for the treatment
+of patients with advanced renal cell carcinoma (cancer) after failure of treatment with
+sunitinib or sorafenib, at doses of 5 to 20 mg/day when taken by mouth. The amount of drug
+that circulates in the bloodstream following implantation of a XIENCE PRIME stent is
+several folds lower than that obtained with oral doses (1.5 mg to 20 mg/day).
+
+The following list includes the known risks of everolimus at the oral doses listed above:
+
+   *   Abdominal pain
+   *   Acne
+   *   Anemia
+   *   Anorexia
+   *   Asthenia
+   *   Coagulopathy
+   *   Cough
+   *   Diarrhea
+   *   Dyspnea
+   *   Dysgeusia
+   *   Dry skin
+   *   Edema peripheral
+   *   Epistaxis
+   *   Fatigue
+   *   Headache
+   *   Hemolysis
+   *   Hypercholesterolemia
+   *   Hyperglycemia
+   *   Hyperlipidemia
+   *   Hypertension
+   *   Hypertriglyceridemia
+   *   Hypogonadism male
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                        Page 11 of 46
+    * Infections: wound infection, urinary tract infection, pneumonia, pyelonephritis, sepsis
+      and other viral, bacterial, and fungal 'infections
+    * Increased serum creatinine
+    * Leukopenia or lymphopenia
+    * Pruritus
+    * Pyrexia
+    * Liver function test abnormality
+    * Lung and breathing problems
+    * Lymphocele
+    * Mucosal inflammation
+    * Myalgia
+    * Nausea
+    * Non-infectious pneumonitis
+    * Pain in extremity
+    * Rash
+    * Renal tubular necrosis
+    * Stomatitis
+    * Surgical wound complication
+    * Thrombocytopenia
+    * Venous thromboembolism
+    * Vomiting
+
+There may be other potential adverse events that are unforeseen at this time.
+
+For the specific adverse events that occurred in the clinical studies, please see Section X.
+below.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                          Page 12 of 46
+IX.        SUMMARY OF PRECLINICAL STUDIES
+
+A series of non-clinical laboratory studies related to the XIENCE PRIME and XIENCE
+PRIME LL product were performed. Studies included those performed on the bare metal
+stent system (Multi-Link family - ML8, VISION and MINI VISION), the combination
+product XIENCE V or the finished combination product (XIENCE PRIME and XIENCE
+PRIME LL Stent Systems). Leveraging data from testing performed on the Multi-Link
+family is appropriate because the stent materials and manufacturing process are identical to
+the XIENCE PRIME for testing where it is appropriate to test bare metal stents.
+
+
+A.     Laboratory Studies
+
+
+Al.    Biocompatibility Studies
+
+A series of GLP biocompatibility tests were conducted to demonstrate the components of the
+XIENCE PRIME and XIENCE PRIME LL Everolimus Eluting Coronary Stent System are
+non-toxic.
+
+All biocompatibility testing was conducted in accordance with one or more of the following
+general regulations and guidance documents:
+
+           *   Guidance for Industry and FDA Staff - Non-Clinical Engineering Tests and
+               Recommended Labeling for Intravascular Stents and Associated Delivery
+               Systems (April 18, 2010)
+           *   Good Laboratory Practices Regulations (21 CFR § 58)
+           *   ISO 10993, Biological Evaluation of Medical Devices
+           *   USP <85> Bacterial Endotoxin Test
+           *   USP <87/88> Biological Reactivity Tests
+           *   USP <161> Transfusion and Infusion Assemblies and Similar Medical
+               Devices
+
+Table 3 describes the biocompatibility testing.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                       Page 13 of 46
+Table 3             Biocompatibility Test Summary
+        Test Name                Description of Test                   Test Article and Results
+Cytotoxicity                ISO 10993-5 USP:                  * Composite sample of XIENCE PRIME
+                            Cytotoxicity ISO Elution Test     stent and delivery system: Pass (non­
+                            (MEM Extract)                     cytotoxic)
+                                                              * XIENCE V stent: Pass (non-cytotoxic
+                                                              below toxicity threshold of everolimus)
+                                                              * Polymer-only coated stent: Pass (non­
+                                                              cytotoxic)
+Sensitization               ISO 10993-10: Maximization        * Composite sample of XIENCE PRIME
+                            Test for Delayed                  stent and delivery system: Pass (non­
+                            Hypersensitivity (ISO)            sensitizing)
+                                                              * XIENCE V stent: Pass (non-sensitizing
+                                                              below toxicity threshold of everolimus)
+                                                              *Polymer-only coated stent: Pass (non­
+                                                              sensitizing)
+Intracutaneous              ISO 10993-10 USP:                 * Composite sample of XIENCE PRIME
+Reactivity                  Intracutaneous (Intradermal)      stent and delivery system: Pass (non­
+                            Reactivity Test (ISO)             irritating)
+                                                              *XIENCE V stent: Pass (non-irritating
+                                                              below toxicity threshold of everolimus)
+                                                              *Polymer-only coated stent: Pass (non­
+                                                              irritating)
+Systemic Toxicity           ISO 10993-11 USP: ISO             * Composite sample of XIENCE PRIME
+                            Acute Systemic Toxicity           stent and delivery system: Pass (non-toxic)
+                            USP <88>: Systemic Injection      * Polymer-only coated stent: Pass (non­
+                            Test (Mouse Injection)            toxic)
+Hemocompatibility/          ISO 10993-4: Hemolysis Test       Composite sample of XIENCE PRIME
+Hemolysis*                  - Extraction Method               stent and delivery system: Pass (non­
+                                                              hemolytic)
+                            ISO 10993-4: Hemolysis,           * XIENCE V stent: Pass (non-hemolytic)
+                            Direct Contact (Rabbit Red
+                            Blood Cells)
+                            ISO 10993-4: Hemolysis,           * XIENCE V stent: Pass (non-hemolytic)
+                            Indirect Contact (Rabbit Red
+                            Blood Cells)
+Complement Activation       ISO 10993-4: Complement           XIENCE PRIME stent: Pass
+                            Activation Test (C3a and          XIENCE PRIME delivery system: Pass
+                            SC5b-9)
+Pyrogenicity                ISO 10993-11 USP: LAL             Composite sample of XIENCE PRIME
+                            Bacterial Endotoxins Test for     stent and delivery system: Pass (non­
+                            Medical Devices -                 pyrogenic)
+                            Chromogenic Method
+                            ISO 10993-11: Systemic            Composite sample of XIENCE PRIME
+                            Toxicity (Material Mediated       stent and delivery system: Pass (non­
+                            Rabbit)                           pyrogenic)
+
+Implantation                ISO 10993-6: 90-day (Rabbit,      * 2.6X XIENCE V stent: Pass
+                            Intramuscular)
+                            Sub-chronic Toxicity (fulfilled
+                            through 90-day implant)
+                            USP <88> 7-day (Rabbit,           * Polymer-only coated stent: Pass
+                            Intramuscular)
+
+Genotoxicity                ISO 10993-3: Bacterial            (2.6X XIENCE V stent: Pass (non-
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                    Page 14 of 46
+                         Reverse Mutation Assay         mutagenic)
+                         (Ames test)
+                         ISO 10993-3: In Vitro          * 2.6X XIENCE V stent: Pass (non-
+                         Chromosomal Aberration         mutagenic)
+                         (Chinese Hamster Ovary
+                         cells)
+                         ISO 10993-3: Clastogenicity    (2.6X XIENCE V stent: Pass (non­
+                         in Mammalian Cells             mutagenic)
+                         (CHO/HGPRT forward
+                         mutation)
+                         ISO 10993-3: Mammalian         * 2.6X XIENCE V stent: Pass (non­
+                         Erythrocyte Micronucleus       mutagenic)
+                         Test
+Reproductive Toxicity    ISO 10993-3: Reproductive      * XIENCE V stent: Pass (non-teratogenic)
+(Teratology)             and Developmental Toxicity
+Carcinogenicity          ISO 10993-3: Carcinogenicity   (XIENCE V stent: Pass (non­
+                                                        carcinogenic)
+
+
+A2.     In Vitro Engineering Testing
+
+In vitro engineering testing, in accordance with FDA "Guidancefor and FDA Staff-Non-
+ClinicalTests andRecommended Labelingfor IntravascularStents andAssociated Delivery
+Systems," April 2010, was conducted on the XIENCE PRIME Stent except where the testing
+could be leveraged from the MULTI-LINK VISION, MULTI-LINK MINI VISION, or
+MULTI-LINK 8 stents, approved in P020047, P020047/S003, and P020047/017 respectively,
+or the XIENCE V stent, approved in P070017. Supplementary in vitro engineering tests were
+also performed on the XIENCE PRIME delivery systems containing the XIENCE PRIME
+stent mounted on a delivery catheter. This testing is summarized in Table 4. "Pass" denotes
+that the test results met product specifications and/or the recommendations in the above-
+referenced guidance document.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                             Page 15 of 46
+Table 4       In Vitm Engineering Studies
+      Test                              Test Description                                                  Results
+Material Characterization Testing
+Material Analysis       Evaluations were conducted on the stent tubing provided by the material            PASS
+                        supplier prior to any processing to confirm chemical analysis, grain size,
+                        and inclusion content per relevant ASTM standards (F90, A751, E1086,
+                        F1479. E1019, E112, F138, F2527, E45). In addition, SEM analysis was
+                        conducted on bare metal stents to identify and analyze trace contaminants
+                        which may be present on the stent.
+Material Properties:    Tensile strength and elongation testing was performed on the stent tubing          PASS
+Tensile Strength and    prior to any processing. The tensile strength and elongation met acceptance
+Elongation              criteria.
+Corrosion Testing       Initial pitting corrosion testing conducted on the MULTI-LINK VISION               PASS
+                        stents (P020047) is leveraged to support the approval of the XIENCE
+                        PRIME Stent System. In addition, corrosion testing was conducted on
+                        MULTI-LINK 8 stents (P020047/SO17) following 400 million cycles (ten
+                        year equivalent) of radial fatigue in an overlapped 15 mm static bend. The
+                        corrosion testing was conducted according to ASTM F2129 "Standard Test
+                        Method for Conducting Cyclic Potentiodynamic Measurements to
+                        Determine the Corrosion Susceptibility of Small Implant Devices" to
+                        demonstrate that the finished stents exhibit acceptable corrosion resistance.
+                        All MULTI-LINK VISION and MULTI-LINK 8 stents tested exceeded the
+                        minimum acceptance criteria for rest potential and breakdown potential and
+                        therefore exhibited acceptable pitting corrosion resistance.
+
+                        Both bare metal and polymer-only coated XIENCE V stents were tested
+                        according to ASTM F2129 to demonstrate that the finished stents exhibit
+                        acceptable corrosion resistance.
+
+                        Since the XIENCE PRIME stent is similar in design to the MULTI-LINK
+                        VISION and XIENCE V stents, identical to the MULTI-LINK 8 stent, and
+                        has the identical material and manufacturing processes as all three stents,
+                        the corrosion test results can be leveraged in support of the XIENCE
+                        PRIME Stent System.
+Fretting Corrosion      XIENCE PRIME stents were evaluated following 400 million cycles (10                PASS
+                        year equivalent) of radial fatigue testing in an overlapped 15mm static bend
+                        to detennine the potential for fretting corrosion. The results met all
+                        acceptance criteria and indicated that the stents possess a high resistance to
+                        fretting corrosion.
+Galvanic Corrosion      Testing was conducted on marketed stainless steel (MULTI-LINK TETRA)               PASS
+                        and CoCr (MULTI-LINK VISION) overlapped in a passive manner, and
+                        overlapped in an active manner (with disruption of the oxide layer) to
+                        determine the potential for galvanic corrosion. The results met the
+                        acceptance criteria and indicated a high resistance to galvanic corrosion.
+Stent Dimensional and Functional Attributes
+Stent Dimensional       Measurements were taken of the bare metal stent strut width, thickness, and        PASS
+Inspection              length. All stents met product specifications.
+Stent Percent Surface   Determines the metal-to-artery ratio of the nominal XIENCE PRIME stent             PASS
+Area                    using a theoretical calculation that divides the total vessel contact metal
+                        surface area of the stent by the theoretical surface area of the vessel at the
+                        desired diameter. Metal to artery percentage ratios were calculated for each
+                        stent diameter, with the highest surface to artery ratio (17%) occurring at
+                        the smallest stent diameter (2.25 mm).
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                        Page 16 of 46
+Table 4              In Vito Engineering Studies
+      Test                                     Test Description                                               Results
+Stent Uniformity of       Determines the uniformity of expansion along the stent length. XIENCE                 PASS
+Expansion Test            PRIME units were inflated to either nominal or post-dilated inner
+                          diameters, deflated, and diameter measurements were taken at various
+                          points along the stent length. Measurements were averaged and all
+                          XIENCE PRIME stents met product specifications.
+Stent Percent Length      Determines the difference in stent length pre-and post-expansion to either            PASS
+Change                    nominal or post-dilated inner diameters. All stents met product
+(Foreshortening) Test     specifications.
+Stent Percent Recoil      Quantifies the amount of recoil of the stent after balloon expansion. The             PASS
+Test                      system was inflated to either nominal or post-dilated diameters and
+                          measurements were taken of the stent diameter at various locations along
+                          the stent length. The system was then deflated and the same measurements
+                          taken. The percent recoil is calculated by subtracting the average stent
+                          inner diameter (ID) without the balloon from the average stent ID with the
+                          balloon, dividing by the average stent ID with the balloon and multiplying
+                          by 100. All XIENCE PRIME stents met product specifications.
+Radial Stiffness          Radial stiffness was evaluated on the XIENCE PRIME stent for                           For
+                          information only.                                                                characterization
+                                                                                                                 only
+Stent Radial (Hoop)       Testing was conducted to determine the radial strength of the stent under             PASS
+Strength Test             compression force. Stents were expanded to either nominal or post-dilated
+                          diameters, placed in an Instron tester, and subjected to incrementally
+                          increasing compression forces. The pressure at which deformation is no
+                          longer completely reversible was recorded. All XIENCE PRIME stents
+                          met product specifications.
+Finite Element            An in-depth analysis of the stent was conducted to ensure that the implant            PASS
+Analysis (FEA)            conditions to which the stent will be subjected would not result in failure
+                          due to fatigue. The FEA evaluated the structural integrity of the stent when
+                          subjected to the expected loading conditions generated in coronary arteries.
+                          The analysis took into account manufacturing, delivery, implantation and
+                          clinical loading over the implant life, and predicted that fatigue failures of
+                          the XIENCE PRIME stent will not likely occur.
+Accelerated               Testing was conducted to demonstrate structural durability of the XIENCE              PASS
+Structural Fatigue        PRIME stent under expected in vivo cyclic loading conditions for an
+                          equivalent of 10 years (-400 million cycles) in an overlapped configuration
+                          on a static bend with a radius of 15 mm.
+
+                          The stents were expanded to the largest intended diameter, and were
+                          dynamically cycled in a simulated vessel for 400 million cycles. Following
+                          cycling, stents were visually inspected under 40X magnification. No signs
+                          of strut cracking or breaking were detected.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                          Page 17 of 46
+Table 4        In Vitr Engineering Studies
+      Test                               Test Description                                              Results
+Magnetic Resonance   Nonclinical testing has demonstrated that the XIENCE PRIME stent, in               PASS
+Imaging (MRI)        single and in overlapped configurations up to 71 mm in length, is MR
+                     Conditional. It can be scanned safely under the following conditions:
+
+                     *   Static magnetic field of 1.5 or 3 Tesla
+                     *   Spatial gradient field of 2500 Gauss/cm or less
+                     *   Maximum whole-body-averaged specific absorption rate (SAR) of 2.0
+                         W/kg (normal operating mode) for up to 15 minutes of scanning for
+                         each sequence
+
+                     The XIENCE PRIME stent should not migrate in this MRI environment.
+                     Nonclinical testing at field strengths greater than 3 Tesla has not been
+                     performed to evaluate stent migration or heating. MRI at 1.5 or 3 Tesla may
+                     be performed immediately following the implantation of the XIENCE
+                     PRIME stent.
+
+                     Stent heating was derived by using the measured nonclinical, in vitro
+                     temperature rises in a
+                     GE Excite 3 Tesla scanner and in a GE 1.5 Tesla coil in combination with
+                     the local specific absorption rates (SARs) in a digitized human heart model.
+                     The maximum whole body averaged SAR was determined by validated
+                     calculation. At overlapped lengths of up to 71 mm, the XIENCE PRIME
+                     stent produced a nonclinical maximum local temperature rise of 3.3'C at a
+                     maximum whole body averaged SAR of 2.0 W/kg (normal operating mode)
+                     for 15 minutes. These calculations do not take into consideration the
+                     cooling effects of blood flow.
+
+                     The effects of MRI on overlapped stents greater than 71 mm in length or
+                     stents with fractured struts are unknown.
+
+                     As demonstrated in nonclinical testing, an image artifact can be present
+                     when scanning the XIENCE PRIME stent. MR image quality may be
+                     compromised if the area of interest is in the exact same area, or relatively
+                     close to, the position of the XIENCE PRIME stent. Therefore, it may be
+                     necessary to optimize the MR imaging parameters for the presence of
+                     XIENCE PRIME stent.
+
+                     It is suggested that patients register the conditions under which the implant
+                     can safely be scanned with the MedicAlert Foundation
+                     (www.medicalert.org) or an equivalent organization
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                     Page 18 of 46
+Table 4           In Vitm Engineering Studies
+      Test                                  Test Description                                             Results
+Radiopacity            Confirms that the XIENCE PRIME stent is adequately visible under                   PASS
+                       fluoroscopic imaging equipment. Testing indicated that visibility of the
+                       XIENCE PRIME stent is comparable to that of the MULTI-LINK VISION
+                       and MULTILINK MINI VISION under fluoroscopy.
+Delivery System Dimensional and Functional Attributes
+Catheter Dimensional   The following characteristics were tested to conform to the applicable             PASS
+Measurements           specifications:
+                       Tip Length, Tip Seal Length, Tip Unsealed Length, Proximal Unsealed
+                       Balloon Shaft, Total Catheter Length & Distal Catheter Length, Guide Wire
+                       Lumen Dimensions (Tip Inner Diameter (ID) & Distal Shaft Junction Notch
+                       ID), Stent Placement, Balloon Shoulder to Marker Alignment, Balloon
+                       Working Length, Proximal Shaft Marker Locations (Femoral Marker &
+                       Brachial Marker), Delivery System Outer Diameters (Distal Shaft OD, Mid
+                       Shaft OD, Proximal Shaft OD, Tip Entry OD, Guide Wire Notch OD). All
+                       XIENCE PRIME Stent Systems met product specifications.
+Delivery,              Design validations demonstrate that the XIENCE PRIME Stent System                  PASS
+Deployment, and        meets the user needs.
+Retraction
+Balloon Rated Burst    Statistically demonstrates with 95% confidence, at least 99.9% of the              PASS
+Pressure               XIENCE PRIME Stent Systems will not rupture below the rated burst
+                       pressure (RBP) and to demonstrate that at a 95% confidence level, at least
+                       99% of the XIENCE PRIME Stent Systems will not rupture below the
+                       maximum labeled compliance (MLC) pressure. All XIENCE PRIME Stent
+                       Systems met product specifications and confidence/reliability limits.
+Unconstrained          Statistically demonstrates with 95% confidence, at least 90% of the                PASS
+Balloon Fatigue        XIENCE PRIME Stent Systems will sustain 10 repeated inflations to the
+                       rated burst pressure inside the stent. All XIENCE PRIME Stent Systems
+                       met product specifications.
+Stent Diameter vs.     Determines how the diameter of a deployed balloon varies with applied              PASS
+Balloon Pressure       balloon pressures. All XIENCE PRIME Stent Systems met product
+(Compliance)           specifications.
+Soft Tip Tensile       Determines the tensile strength of the soft tip. All XIENCE PRIME Stent            PASS
+                       Systems met product specifications.
+Distal Delivery        Determines the tensile strength of the distal portion of the delivery system.      PASS
+System Tensile         All XIENCE PRIME Stent Systems met product specifications.
+Proximal Adaptation    Determines the tensile strength of the proximal adaptation of the delivery         PASS
+Tensile Strength       system. All XIENCE PRIME Stent Systems met product specifications.
+Delivery System        Determines the crimped stent outer diameter. Measurements were taken at            PASS
+Crossing Profile ­     various locations along the length of the stent and averaged to calculate the
+Crimped Stent Outer    mean outer diameter. All XIENCE PRIME Stent Systems met product
+Diameter               specifications.
+Delivery System        Determines the amount of time required to inflate or deflate the delivery          PASS
+Balloon                catheter balloon. Inflation times were tested for information only. All
+Inflation/Deflation    XIENCE PRIME Stent Systems met product specifications for deflation
+Times                  times.
+Stent Dislodgement     Determines the amount of force required to displace a stent in both distal         PASS
+                       and proximal direction from its original, crimped position on the delivery
+                       system balloon after a pre-conditioning step where the system is tracked
+                       through a tortuous artery model. All XIENCE PRIME Stent Systems met
+                       product specifications.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                       Page 19 of 46
+Table 4            In Vitr Engineering Studies
+      Test                                   Test Description                                             Results
+Delivery System         Statistically demonstrates that with 95% confidence, at least 99% of the           PASS
+Guiding Catheter        XIENCE PRIME Stent Systems can be successfully retracted back into a
+Pullback                5F guiding catheter after tracking through a simulated tortuous model prior
+                        to the deployment of the stent. All XIENCE PRIME Stent Systems met
+                        product specifications and confidence/reliability limits.
+Delivery System         Evaluates the ease of preparing the XIENCE PRIME Stent System using                PASS
+Preparation             the aspiration method. All XIENCE PRIME Stent Systems met product
+                        specifications.
+Delivery System         Verifies that irreversible. collapse of the inner member does not occur at or      PASS
+Inner Member            below 325 psi. All XIENCE PRIME Stent Systems met product
+Collapse                specifications.
+Delivery System         Determines the pressure integrity of the catheter shaft proximal to the            PASS
+Shaft Pressure          delivery system balloon. All XIENCE PRIME Stent Systems met product
+(Proximal Adaption      specifications.
+Pressure Integrity &
+Catheter Body
+Pressure Integrity).
+Delivery System         Determines the coefficient of frictions along the hydrophilic coated portion       PASS
+Coating Friction        of the XIENCE PRIME catheter using an aorta lined fixture. All XIENCE
+(Hydrophilic)           PRIME Stent Systems met product specifications.
+Delivery System         Determines the percent adhesion of the hydrophilic coating to the XIENCE           PASS
+Coating Dry             PRIME catheter. The percent coating adhesion is determined by
+Adhesion                subtracting the percent coating removed from 100. All XIENCE PRIME
+(Hydrophilic)           Stent Systems met product specifications.
+Catheter Kink and       Determines the radius of curvature at which the delivery system kinks. All         PASS
+Flexibility Test        XIENCE PRIME Stent Systems met product specifications.
+Catheter Torque Test    Determines the minimum number of rotations to break joints and/or                  PASS
+- Turns to Failure      materials or to lose functional integrity of the delivery system. All XIENCE
+                        PRIME Stent Systems met product specifications.
+
+
+A3.     Coating Characterization Testing
+
+The coating Characterization testing conducted on the XIENCE PRIME stent is summarized
+in Table 5.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                        Page 20 of 46
+Table 5        Coating Characterization Testing
+       Test                            Test Description                                                  Results
+Stent Coating Durability
+Coating Physical        Characterizes various aspects of the coated stent including:                      PASS
+Structure and                * the coating thickness along the length of the stent and the drug
+Chemical Properties               density and its distribution in the stent coating,
+                             * the cross section of the coated stent struts,
+                             * the content uniformity along the length of the stent,
+                             * adhesion of the coating to the delivery system balloon, and
+                             * physical microstructure.
+Coating Adhesion        Evaluates adhesion properties between the coating and the metal stent             PASS
+                        with shear stress analysis using a Nano-Scratch Tester
+Coating Surface         Determines the stent coating surface integrity of the XIENCE PRIME                PASS
+Integrity               stent after tracking through a tortuosity fixture, expansion, and post-
+                        dilated to RBP. Defect quantities and sizes were recorded: The
+                        compromised coating area was calculated as a percentage of entire coated
+                        stent surface. All stents met product specifications.
+Coating Integrity       Evaluates the stent coating surface integrity of the XIENCE PRIME stent           PASS
+after Balloon           after balloon rupture within the stent. The stents were compared to
+Rupture                 control stents expanded to nominal diameter.
+Accelerated Coating     Testing was conducted to demonstrate coating durability of the XIENCE             PASS
+Fatigue                 PRIME stent under expected in vivo cyclic loading conditions for an
+                        equivalent of 10 years (-400 million cycles) in an overlapped
+                        configuration on a static bend with a radius of 15 mm.
+
+                        The stents were deployed and post-dilated to the largest intended
+                        diameter. The drug was eluted from the coating. The stents were
+                        evaluated under SEM and then loaded into tubing and the fatigue tester.
+                        The stents were dynamically cycled within simulated vessel conditions
+                        for 400 million cycles. The stents were removed and visually inspected
+                        under SEM for changes to coating morphology in the documented
+                        anomalies that were captured prior to fatigue testing. All XIENCE
+                        PRIME stents met product specifications and confidence/reliability
+                        limits.
+Particulate Matter:     Determines the particulate matter after navigating simulated, challenging         PASS
+Regulatory Tracking     vasculature followed by deployment in a 15 mm radius bend. The
+Method                  XIENCE PRIME system was tracked through a simulated tortuous artery
+(Particulates: Stents   model and the stent was deployed unconstrained to RBP inside simulated
+on a bend)              vasculature. Water was drawn through the vasculature and the particle
+                        quantities and sizes were counted and recorded. All stents met product
+                        specifications.
+Particulate Matter:     Determines the particulate matter generated during deployment and over            PASS
+Beaker Method           expansion of the XIENCE PRIME stent in a beaker of water. The distal
+(Over Expansion)        end (balloon and stent) was inserted into glassware filled with clean
+                        water. The stents were deployed and post-dilated to the maximum stent
+                        diameter. After agitation, aliquots of the water were withdrawn and the
+                        particle quantities and sizes were counted and recorded. All stents met
+                        product specifications.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                         Page 21 of 46
+           Test                                    Test Description                                          Results
+Particulate Matter:     Determines the particulate matter after navigating simulated, challenging             PASS
+Tracking on a Bend      vasculature followed by deployment of two stents in an overlapped
+Method (Overlap         configuration. The XIENCE PRIME system was tracked through
+Configuration)          tortuous artery model and the stent was deployed constrained to RBP on
+                        a bend of the tortuous path. A second stent was then deployed,
+                        overlapping the first. Water was drawn through the vasculature and the
+                        particle quantities and sizes were counted and recorded. All stents met
+                        product specifications.
+Embolic Fatigue         Investigates the embolic particle size and count from the XIENCE                      PASS
+(Overlap                PRIME stent during an accelerated radial fatigue test. The test was
+Configuration)          performed under an accelerated pulsatile pressure loading with
+                        physiologic displacements for an equivalent of 10 years (-400 million
+                        cycles). The stents were tested on a static bend with a radius of 15 mm in
+                        an overlapped configuration by overlapping two stents of the same size
+                        with an.overlapped length of 4 mm. Particle quantities and sizes were
+                        recorded from each pair of stents through the testing duration.
+
+
+
+A4.        Chemistry, Manufacturing & Controls (CMC) Testing
+
+Where applicable, International Conference on Harmonization (ICH) Guidelines were
+followed for the testing routinely performed on the XIENCE PRIME stent as part of CMC.
+This testing is summarized in Table 6. Information to support the stability of the XIENCE V
+stent is summarized separately in Section IX.A5 Stability/Shelf Life.
+
+
+Table 6             XIENCE PRIME Stent Release Testing
+       Test                                   Test Description
+Appearance                A visual inspection is conducted to verify that the XIENCE PRIME meets product
+                          appearance specifications.
+Identity                  Assays are conducted to verify the identity of the drug substance, everolimus, on
+                          the XIENCE PRIME stent using two different methods
+Total Content             Assay is conducted to quantitatively verify that the total amount of drug on the
+                          XIENCE PRIME stent met specification for finished good release.
+Content Uniformity        Multiple stents are tested to verify that the uniformity of the drug content between
+                          individual stents was within specifications established for finished good release.
+Degradation Products      Assays are conducted to quantitatively verify the amount and type of degradation
+                          products on the XIENCE PRIME stent.
+USP <85> Bacterial        The amount of bacterial endotoxins is verified to be within the specification limits
+Endotoxins Test           established for finished good release.
+Sterility Biological      Release of each lot of XIENCE PRIME stents is based on verification that the
+Indicator                 individual lot complied with validated sterilization cycle parameters and satisfies
+                          the requirement for labeling the finished goods as steile.
+Drug Release              The in vitro drug release profile of the drug substance, everolimus, is measured on
+                          the XIENCE PRIME stent. The product meets specifications established for
+                          finished good release.
+Residual Solvents         The amount of residual solvent is verified to be within the specification limits
+                          established for finished good release.
+Particulate               Particulate levels are verified to meet product specifications.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                        Page 22 of 46
+AS.    Stability/Shelf Life
+
+A formal stability study was conducted to establish a shelf life / expiration date for the
+XIENCE PRIME Stent System. Testing included appearance, total content, drug release,
+degradation products, oxygen content, molecular weight and polydispersity, bubble leak test
+(packaging integrity), endotoxin (pyrogen), particulates, and butylated hydroxytoluene
+(BHT) content. Testing to establish container closure integrity was conducted to ensure
+sterility was maintained during the shelf life of the product. Functional testing of the stent
+system was conducted on aged product. The data generated to-date support a shelf life of 9
+months.
+
+
+A6.    Sterilization
+
+The XIENCE PRIME Stent System is sterilized using ethylene oxide (EO) sterilization. The
+cycle is validated per the ISO 11135-1: 2007 Medical Devices - Validation and Routine
+Control of Ethylene Oxide Sterilization. Results obtained from the sterilization studies show
+that the product satisfies a minimum Sterility Assurance Level (SAL) of 10-6. In addition,
+the amount of bacterial. endotoxins was verified to be within the specification limits.
+
+
+B.     In Vivo Animal Studies
+
+
+B1.    In Vivo Pharmacokinetics
+
+One in vivo PK study was carried out in an animal model to evaluate the PK profile of the
+drug from the XIENCE PRIME stent system and to assess the bioequivalence between the
+XIENCE PRIME stent system and the XIENCE V Stent System by comparing their drug
+release profiles through biostatistic analysis.
+
+A summary of the performed PK study to support product safety is included in Table 4.
+
+
+B2.    Drug Interactions
+
+Formal drug interaction studies have not been conducted with the XIENCE PRIME stent.
+Everolimus is extensively metabolized by cytochrome P450 3A4 (CYP3A) isozyme in the
+gut wall and liver and is a substrate for the countertransporter Pglycoprotein. Therefore,
+absorption and subsequent elimination of everolimus may be influenced by drugs that affect
+these pathways. Coadministration of strong CYP3A inhibitors (such as ketoconazole,
+itraconazole, ritonavir) and inducers (such as rifampicin, rifabutin) should be avoided.,
+Coadministration of moderate CYP3A inhibitors (such as erythromycin, fluconazole, calcium
+channel blockers) and inducers (such as carbamazepine, phenobarbital, phenytoin) should be
+accompanied byeverolimus therapeutic drug monitoring. The pharmacokinetic interaction
+between orally administered everolimus and concomitantly administered drugs is described
+in the XIENCE PRIME stent system Instructions, for Use.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                        Page 23 of 46
+B3.    Animal Safety Studies
+
+Detailed arterial histopathology and histomorphometry are not obtainable through human
+clinical trials, so a series of animal studies were conducted to evaluate safety, efficacy (proof
+of concept dosing), and overall product performance.
+
+The two in vivo safety studies, conducted in the porcine coronary model at 28 and 180 days,
+demonstrate the safety of the XIENCE PRIME stent system and an overall comparability to
+the XIENCE V Stent System. The 28 and 180 day time points were selected as key time
+points to evaluate drug effect and vascular healing following stent implantation.
+
+Summaries of the major animal studies performed to support product safety are included in
+Table 7.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                          Page 24 of 46
+Table 7        GLP Animal Studies for the XIENCE PRIME Stent System Findings
+ Study #       Stent Design      Animal Model     # of Stents   Follow-up           Endpoints
+                                        (n)                      Duration
+R0061003   Test Article:        Farm Swine (12)   Test: 12      28 days       *   Chronic vascular
+  KBP      XIENCE PRIME         (LAD, LCX,        (XIENCE                         response
+           (3.0 x 12 mm, 100    RCA)              PRIME                       *   Quantitative
+           ig/cm2)              I stent/vessel;   =12)                            Coronary
+           Control:             2 or 3            Control: 23                     Angiography
+           * XIENCE V (3.0      stents/animal     (XIENCE                     *   Histological &
+                x 12 mm, 100                      V = 11,                         histomorphometric
+                ig/cm 2                           MULTI-                          evaluations.
+           *    MULTI-LINK                        LINK                        *   Evaluation of
+                VISION (3.0 x                     VISION                          degree of
+                12 mm)                            =12)                            endothelialization
+           GLP: Yes                                                               by SEM
+R0061002   Test Article:        Yucatan Swine     Test: 12      180 days      *   Quantitative
+  KBP      XIENCE PRIME         (12)              (XIENCE                         Coronary
+           (3.0 x 12 mm, 100    (LAD, LCX,        PRIME =                         Angiography
+           gg/cm 2)             RCA)              12.                         *   Histological &
+           Controls:            1 stent/vessel;   Control: 24                     histomorphometric
+           * ,XIENCE V (3.0     3 stents/animal   (XIENCE                         evaluations
+               x 12 mm, 100                       V = 12,                     *   Evaluation of
+                gg/cm 2)                          MULTI-                          degree of
+           * MULTI-LINK                           LINK                            endothelialization
+                VISION (3.0 x                     VISION =                        by SEM
+                12 mm)                            12)                         *   Chronic vascular
+           GLP: yes                                                               response
+R0061106   Test Article:        Yucatan Swine     Test: 69      0.125,1,      *   In vivo
+  MJL      XIENCE PRIME         (8)               XIENCE        3, 7, 14,         pharmacokinetics
+           (3.0 x 12 mm, 100    Farm Swine (16)   PRIME         28, 60, 90,   *   Bioequivalence
+            Ig/cm 2)            (LAD, LCX,                      120, 180,         between XIENCE
+           GLP: yes             RCA)                            240, 300          V and XIENCE
+                                1 stent/vessel                  days              PRIME
+                                2 or 3
+                                stents/animal
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                              Page 25 of 46
+X.            SUMMARY OF CLINICAL STUDIES
+
+The XIENCE PRIME Stent System safety and effectiveness is derived from the SPIRIT
+PRIME clinical trial that was conducted under IDE #G090068. The SPIRIT PRIME clinical
+trial was designed to demonstrate the safety and effectiveness of the XIENCE PRIME family
+of stent systems in improving coronary luminal diameter in subjects with symptomatic heart
+disease due to a maximum of two de novo native coronary artery lesions, each in a different
+epicardial vessel. This global trial consists of two separate arms, the Core Size Registry and
+the Long Lesion Registry. One-year results are presented here and yearly follow-up for
+clinical parameters through 5 years is ongoing. Given the substantial similarities between the
+XIENCE PRIME and XIENCE V stent systems, clinical trials previously conducted on the
+XIENCE V stent are also relevant and included in the Instructions For Use (IFU). For
+additional details on the SPIRIT family of trials, see the SSED for P070015
+(http://www.accessdata.fda.gov/cdrh docs/pdf7/P070015b.pdf).
+
+
+A. Study Design
+
+The SPIRIT PRIME clinical trial is a prospective, nonrandomized, open-label, multicenter study
+consisting of two separate arms, the Core Size Registry (stent diameters 2.25, 2.5, 3.0, 3.5, 4.0
+mm with stent lengths 8, 18, and 28" mm) and the Long Lesion Registry (stent diameters, 2.5, 3.0,
+3.5, 4.0 mm with stent lengths 33 and 38 mm) in 505 subjects at up to 75 global sites. For
+clinical trial design purposes, the 28 mm length stent is included in the Core Size Registry
+because the historical data on XIENCE V used to develop the comparative performance goal
+includes stent lengths up to 28 mm. The Long Lesion Registry only includes subjects with at
+least one 33 and 38 mm length stents as there were limited data on these stent lengths from
+which to develop a comparative performance goal.
+
+Each subject was to receive treatment in up to two de novo native coronary lesions, each
+lesion in a different epicardial vessel. Subjects in the Core Size Registry were allowed to
+have: one target lesion treated with the core size XIENCE PRIME stent systems (stent
+diameters 2.25-4.0 mm with stent lengths 8, 18, 28 mm) or two target lesions in separate
+epicardial vessels, treated with two core size XIENCE PRIME stent systems (stent diameters
+2.25-4.0 mm with stent lengths 8, 18, 28 mm).
+
+Subjects in the Long Lesion Registry were allowed to have: one target lesion treated with the
+XIENCE PRIME stent system (stent diameters 2.5-4.0 mm with stent lengths 33 or 38 mm)
+or two target lesions in separate epicardial vessels, treated with two XIENCE PRIME stent
+system (stent diameters 2.5-4.0 mm with stent lengths 33 or 38 mm) or one XIENCE PRIME
+stent system (stent diameters 2.5-4.0 mm with stent lengths 33 or 38 mm) and one XIENCE
+PRIME stent system (stent diameters 2.25-4.0 mm with stent lengths 8, 18, 28 mm). All
+subjects in the Long Lesion Registry were required to be treated with at least one XIENCE
+
+ The 28 mm length stent was studied in the XIENCE PRIME Core Size Registry. The results of the Core Size Registry are
+  presented in Table 10.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                             Page 26 of 46
+PRIME stent of 33 or 38 mm in length. For both the Core Size Registry and Long Lesion
+Registry, planned overlap was not allowed, however overlap was allowed in case of bailout
+stenting.
+
+The primary endpoint is target lesion failure (TLF) at one year, a composite endpoint of
+cardiac death, target vessel myocardial infarction (TV-MI), and clinically indicated target
+lesion revascularization (CI-TLR). The primary endpoint rates of TLF at 1 year (per protocol
+and per ARC definitions) were compared to a set of pre-specified performance goals (PGs)
+for both Core Size Registry and Long Lesion Registry as shown below.
+
+The PG for the Core Size Registry was developed utilizing historical data from the SPIRIT
+III trial, while the PG for the Long Lesion Registry was developed based on a regression
+analysis conducted on the historical data from the pooled SPIRIT II and III trials. Although
+the SPIRIT PRIME trial defined TLF based on the ARC definition of MI, the historical
+SPIRIT .11 and III trials used to develop the initial PG were based on the per protocol
+definition of MI. In order to provide a comparison of outcomes using the same definitions
+for both the treatment arms and PGs, two subsequent analyses, with PGs developed using the
+same definitions (per protocol and per ARC), were developed and are presented in rows 2
+and 3 of the table below.
+
+                            Table 8 Analyses of the Primary Endpoint
+
+   TLF                                       Core Size Registry*        Long Lesion Registry**
+   Primary Endpoint                          Performance Goal           Performance Goal
+   TLF
+   Cardiac Death,                                     9.2%1                          19.2%'
+   ARC-Defined TV-MI, CI-TLR
+   TLF
+   Cardiac death,                                     9.2%'                          19.2%1
+   Protocol-DefinedTV-MI, CI-TLR
+  TLF
+  Cardiac death,                                      15.3%2                        26.0%2
+  ARC-Defined TV-MI, CI-TLR
+     Performance goal developed based on per protocol-defined MI.
+   2 Performance goal developed based on per ARC-defined
+                                                            MI.
+   * The Core Size Registry includes 2.25 - 4.0 mm stent diameters, 8, 18, 28 mm lengths
+   ** The Long Lesion Registry includes 2.5 - 4.0 mm stent diameters, 33 and 38 mm stent lengths
+
+
+
+The primary analysis of the SPIRIT PRIME data was performed on the Full Analysis Set
+(FAS) population which was defined as the subjects who received the XIENCE PRIME stent.
+The Intent to Treat (ITT) population was defined as the subjects enrolled into the study,
+regardless of the treatment actually received; this population excludes de-registered subjects.
+
+The clinical trial design for SPIRIT PRIME is summarized in Table 9.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                   Page 27 of 46
+Table 9        SPIRIT PRIME Clinical Trial Design
+                                                                  SPIRIT PRIME
+             Study Type/Design                               *    Prospective
+                                                             *    Two-arm
+                                                             *    Open-label
+                                                             *    Multi-center
+                                                             * Registry
+       Number of Subjects Enrolled                                 Total 529
+                                                            Core Size Registry 419
+                                                           Long Lesion Registry 110
+                 Treatment                  Maximum of two de novo coronary lesions, each in a different
+                                                               epicardial vessel.
+                 Lesion Size                             XIENCE PRIME, Core Size
+                                                        RVD: >2.25 mm and S 4.25 mm
+                                                           Lesion Length: < 22 mm
+
+                                                          XIENCE PRIME, Long Lesion
+                                                           RVD: > 2.5 mm and < 4.25 mm
+                                                       Lesion Length: > 22 mm and 5 32 mm
+                 Stent Sizes                                      Core Size Registry
+                                                    Stent diameter: 2.25, 2.5, 3.0, 3.5, and 4.0mm
+                                                           Stent Lengths: 8, 18, and 28 mm
+
+                                                                 Long Lesion Registry
+                                                      Stent diameter: 2.5, 3.0, 3.5, and 4.0 mm
+                                                              Stent Length: 33 and 38 mm
+    Post-procedure Antiplatelet Therapy       Clopidogrel 12 months minimum (or ticlopidine per site
+                                                             standard), aspirin indefinitely
+             Primary Endpoint                Target lesion failure (TLF) defined as the composite rate of
+                                             cardiac death, target vessel myocardial infarction (TV-MI)
+                                             and clinically indicated target lesion revascularization (CI­
+                                                                     TLR) at lyear.
+            Co-Primary Endpoint                                          None
+          Major Secondary Endpoint                                       None
+             Clinical Follow-up                               30 days, 180 days, 1-5 years
+           Angiographic Follow-up                                        None
+              IVUS Follow-up                                             None
+                 PK Study                                                None
+                   Status                                           One year reported
+
+
+1. Clinical Inclusion/Exclusion Criteria
+
+Enrollment in the SPIRIT PRIME clinical trial was limited to subjects who met the eligibility
+criteria and who provided a signed informed consent form prior to enrollment. Subjects had
+to be at least 18 years old, with evidence of myocardial ischemia based on the presence of
+angina, silent ischemia, a positive functional study or reversible ECG changes consistent with
+ischemia. Female subjects with childbearing potential had to have a negative pregnancy test
+within 7 days of the index procedure.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                              Page 28 of 46
+Angiographic Inclusion Criteria
+
+   * One or two de novo target lesions each in a different epicardial vessel.
+   * If there are two target lesions, both lesions must satisfy the angiographic eligibility
+     criteria for that registry.
+   * Multiple focal de novo lesions in a target vessel that can be covered by a single stent
+     are allowed.
+   * The target lesioni(s) must be located in a major artery or branch with a visually
+     estimated diameter stenosis of 50% and < 100% with a TIMI flow of 1.
+   * Target lesion(s) must be located in a native coronary artery with vessel diameter by
+     visual estimation of:
+     * > 2.25 mm and < 4.25 mm for treatment by the core size XIENCE PRIME stent
+     * 2.5 mm and < 4.25 mm for treatment by the XIENCE PRIME LL stent
+   * Target lesion(s) must be located in a native coronary artery with length by visual
+     estimation of:
+     * < 22 mm for treatment by the core size XIENCE PRIME stent
+     * >22 mm and <32 mm for treatment by the XIENCE PRIME LL stent
+
+
+Angiographic Exclusion Criteria
+
+All angiographic exclusion criteria are based on visual estimation.
+
+   *    Target lesion located within an arterial or saphenous vein graft or distal to a diseased
+        (vessel irregularity per angiogram and > 20% stenosed lesion) arterial or saphenous
+        vein graft.
+   *    Target lesion involving a bifurcation with a side branch 2 mm in diameter and/or
+        ostial lesion > 40% stenosed or side branch requiring protection guide wire, or side
+        branch requiring predilatation.
+   *    Target lesion with total occlusion (TIMI flow 0), prior to crossing with wire.
+   *    Another lesion requiring revascularization is located in the same epicardial vessel of
+        the target lesion.
+   *    Restenotic target lesion.
+   *    Aorto-ostial target lesion (within 3 mm of the aorta junction).
+   *    Target lesion is in a left main location.
+   *    Target lesion located within 2 mm of the origin of the LAD or LCX.
+   *    Extreme angulation ( 900) or excessive tortuosity ( two 450 angles) proximal to or
+        within the target lesion.
+   *    Heavy calcification proximal to or within the target lesion.
+   *    Target vessel contains thrombus as indicated in the angiographic images.
+   *    Target lesion has a high probability that a procedure other than pre-dilatation and
+        stenting will be required at the time of index procedure for treatment of the target
+        vessel (e.g. atherectomy, cutting balloon).
+    *   Target vessel was previously treated with any type of PCI (e.g. balloon angioplasty,
+        stent, cutting balloon, atherectomy) < 9 months prior to index procedure.
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                          Page 29 of 46
+    * Non-target vessel was previously treated with any type of PCI < 90 days prior to the
+      index procedure.
+    * Additional clinically significant lesion(s) (e.g. %DS 50%) in a target vessel or side
+      branch for which PCI may be required < 90 days after the index procedure.
+
+
+2. Follow-up Schedule
+
+All subjects will be followed up to five years. All subjects were required to have a hospital
+or office follow-up visit at 30 days and 1year. There was the option for an office or
+telephone follow-up visits at 180 days and 2-5 years.
+
+
+3. Stent Thrombosis Definitions
+
+Stent Thrombosis (ST) was defined in the protocol as clinical presentation of acute coronary
+syndrome with angiographic appearance of thrombus within or adjacent to a previously
+treated target lesion. In the absence of angiography, any unexplained death, or acute MI (ST
+segment elevation or new Q-wave in the distribution of the target lesion within 30 days.
+Stent thrombosis was categorized as acute (< Iday), subacute (> Iday < 30 days) and late (>
+30 days).
+
+Stent thrombosis was defined by ARC criteria as:
+
+    * Definite (angiographic confirmation with at least one of the following: acute onset of
+      ischemic symptoms at rest, new ischemic changes suggestive of acute ischemia,
+      typical rise and fall of cardiac biomarkers, or non-occlusive or occlusive thrombus)
+    * Probable (any unexplained death within the first 30 days or, irrespective of the time
+      after the index procedure, any MI related to documented acute ischemia in the
+      territory of the stent without angiographic confirmation), and
+    * Possible (any unexplained death from 30 days to end of trial follow-up).
+
+Timing:
+
+    * Acute ST: 0 to 24 hours post stent implantation
+    * Subacute ST: > 24 hours - 30 days post stent implantation
+    * Late ST: 30 days to 1year post stent implantation
+    * Very late ST: > 1 year post stent implantation
+
+Level of probability:
+
+    * Definite ST - considered to have occurred by either angiographic or pathologic
+      confirmation.
+    * Probable ST - considered to have occurred after intracoronary stenting in the
+      following cases:
+       1. Any unexplained death within the first 30 days.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                        Page 30 of 46
+       2. Irrespective of the time after the index procedure, any MI which is related to
+          documented acute ischemia in the territory of the implanted stent without
+          angiographic confirmation of ST and in the absence of any other obvious cause.
+     * Possible ST - considered to have occurred with any unexplained death following 30
+       days after the intracoronary stenting until the end of trial follow-up.
+
+
+4. Clinical Endpoints
+
+The SPIRIT PRIME clinical trial primary endpoint was TLF at 1 year, defined as the
+composite of:
+
+          1. Cardiac death
+          2. Target Vessel Myocardial Infarction (TV-MI)
+          3. Clinically-indicated Target Lesion Revascularization (TLR).
+
+Other key secondary endpoints to examine the safety and efficacy included the following:
+
+    *     Acute Success: (combined clinical and angiographic)
+    *     Clinical Device. Success (Lesion basis)
+    *     Clinical Procedural Success (Subject basis)
+    *     Procedure time (from insertion to withdrawal of guide catheter)
+    *     Clinical Endpoint in hospital and at each clinical follow-up time point (30 days, 180
+          days, 1,2,3,4 and 5 years):
+          * All Death (Cardiac, Vascular, Non-cardiovascular)
+          * TV-MI - Q-wave and non Q-wave (defined as MI not clearly attributable to a non-
+              target vessel)
+          * Non-target vessel MI (Q-wave, Non Q-wave)
+          * CI-TLR
+          * Clinically indicated Target Vessel Revascularization (TVR = TLR and non-TLR
+              in TV)
+          * All TLR (CI and non-CI)
+          * All TVR (CI and non-Cl)
+          * All Coronary Revascularization (TVR and non-TVR)
+          * Cardiac Death/All MI
+          * Cardiac Death/All MI/CI-TLR
+          * All Death/All MI/All Coronary Revascularization
+          * Stent Thrombosis (per protocol and per ARC)
+
+
+
+
+ All data presented as definite + probable only.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                        Page 31 of 46
+B. Accountability of Subjects
+
+SPIRIT PRIME Core Size Registry: The Core Size Registry analysis population had a total
+of 419 subjects. The ITT population consisted of 415 subjects, as four subjects were de-
+registered. The FAS population (only subjects receiving a XIENCE PRIME stent with stent
+diameters 2.25 - 4.0 and stent lengths 8, 18, 28 mm) consisted of 413 subjects. Only subjects
+with available cardiac enzyme data in window (between 8 hours post-procedure and hospital
+discharge) were included in the main data analysis of the primary and secondary endpoints in
+the FAS and ITT, resulting in a population of 401. The 401 subjects in the FAS population
+received a total of 484 XIENCE PRIME stent with stent diameters 2.25 - 4.0 and stent
+lengths 8, 18, 28 mm. Of the 401 subjects 88.3% (354/401) of these subjects were single
+target lesion subjects and 11.7% (47/401) were dual target lesion subjects.
+
+SPIRIT PRIME Long Lesion Registry: The Long Lesion Registry analysis population had
+a total of 110 subjects. The ITT population consisted of 110 subjects and the FAS population
+(only subjects receiving at least one XIENCE PRIME stent with stent diameters 2.5 - 4.0 mm
+and stent lengths 33 and 38 mm) consisted of 107 subjects. Only subjects with available
+cardiac enzyme data in window (between 8 hours post-procedure and hospital discharge)
+were included in the main data analysis of the primary and secondary endpoints in the FAS
+and ITT, resulting in an ITT population of 106 and a FAS population of 104. The 104
+subjects in the FAS population received a total of 105 XIENCE PRIME stent with stent
+diameters 2.5 - 4.0 mm and stent lengths 33 and 38 mm and 46 XIENCE PRIME stent with
+stent diameters 2.25 - 4.0 and stent lengths 8, 18, 28 mm. Of the 104 subjects, 80.8%
+(84/104) were single target lesion subjects and 19.2% (20/104) were dual target lesion
+subjects.
+
+
+C. Study Population Demographics and Baseline Parameters
+
+SPIRIT PRIME Core Size Registry: In the Core Size Registry, the mean age was 62.70 +
+ 10.23 years, 70.3% (282/401) were male, 29.7% (119/401) were female and 92.3% (346/375)
+were white. The average body mass index (BMI) was 30.86 ± 5.83 kg/m 2 and 50.3%
+(192/382) of subjects were obese, with a BMI > 30. Regarding medical risk factors in the
+Core Size Registry, 19.2% (77/401) were tobacco users, 76.6% (307/401) were hypertensive
+requiring medication, and 80.3% (322/401) were hypercholesterolemic requiring medication.
+There were 11.1% (44/397) of subjects having had a prior cardiac intervention on the target
+vessel and 23.0% (91/395) had a prior MI. In addition, there were 45.6% (183/401) of
+subjects with stable angina and 24.9% (100/401) of subjects with unstable angina.
+Furthermore, the Core Size Registry consisted of 34.9% (140/401) diabetics, 29.9%
+(120/401) diabetics requiring medication and 3.5% (14/401) diabetics requiring diet and
+exercise only.
+
+SPIRIT PRIME Long Lesion Registry: In the Long Lesion Registry, the mean age was
+63.46 ± 9.44 years, 62.5% (65/104) were male, 37.5% (39/104) were female and 91.7%
+(88/96) were white. The average body mass index (BMI) was 30.67 ± 5.84 kg/m 2, and
+49.5% (50/101) of subjects were obese, with a BMI > 30. Regarding medical risk factors in
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                      Page 32 of 46
+the Long Lesion Registry, 26.9% (28/104) were tobacco users, 75.0% (78/104) were
+hypertensive requiring medication, and 80.8% (84/104) were hypercholesterolemic requiring
+medication. There were 11.8% (12/102) of subjects having had a prior cardiac intervention
+on the target vessel and 22.5% (23/102) had a prior MI. In addition, there were 49.0%
+(51/104) of subjects with stable angina and 23.1% (24/104) of subjects with unstable angina.
+Furthermore, the Long Lesion Registry consisted of 35.6% (37/104) diabetics, 31.7%
+(33/104) diabetics requiring medication and 1.9% (2/104) diabetics requiring diet and
+exercise only.
+
+
+D. Safety and Effectiveness Results
+
+The results are presented in Table 10 (Primary endpoint), Table 11 (Core Size Registry
+Clinical Results), and Table 12 (Long Lesion Registry Clinical Results). The primary
+endpoints and the components are presented in Figure 3 and Figure 4 for the Core Size
+Registry and in Figure 5 and Figure 6 for the Long Lesion Registry. These analyses are
+based on the Full Analysis Set (FAS). The FAS population is defined as subjects who have
+received at least one XIENCE PRIME stent including bailout. SPIRIT PRIME Core Size
+and Long Lesion Registries met all pre-specified PGs with statistical significance. The
+observed TLF rate at one year was 4.5% (18/399) (per protocol defined MI) and 6.5%
+(26/399) (per ARC defined MI) in the Core Size Registry, and 7.7% (8/104) (per protocol
+defined MI) and 12.5% (13/104) (per ARC defined MI) in the Long Lesion Registry
+respectively.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                      Page 33 of 46
+Table 10 SPIRIT PRIME Primary Endpoint Results
+
+Core Size Registry*                     XIENCE PRIME
+                                            (N41              Performance
+                                                                   olP-Valuie'
+                                             (N=4011)              Goal
+1 Year TLF
+Cardiac Death,                            6.5% (26/399)           9.2%§              0.0338
+ARC-Defined TV-MI, CI-TLR
+I Year TLF
+Cardiac Death,                            4.5% (18/399)           9.2%               0.0003
+Protocol-DefinedTV-MI, CI-TLR
+1Year TLF
+Cardiac Death,                            6.5% (26/399)           15.3%'            <0.0001
+ARC-Defined TV-MI, CI-TLR
+
+Long Lesion Registry7G                  XI ENCE PRIME Performance
+                                                                                   P-Value1
+                                                (N=104)Goal
+1Year TLF                                12.5% (13/104)           19.2%§            0.0484
+Cardiac Death,
+ARC-Defined TV-MI, CI-TLR
+1 Year TLF
+Cardiac Death,                            7.7% (8/104)            19.2%§            0.0009
+Protocol-DefinedTV-MI, CI-TLR)
+1 Year TLF                               12.5% (13/104)          26.0%#             0.0006
+Cardiac Death,
+ARC-Defined TV-MI, CI-TLR
+Notes:
+- N is the total number of subjects.
+- Population for SPIRIT PRIME consists of those subjects who were treated with at least one
+   PRIME stent and had cardiac enzyme data between 8 hour post index procedure and hospital
+   discharge.
+- TLF includes cardiac death, target vessel MI and clinically indicated TLR.
+- Time Frame includes follow-up window (365 + 28 days).
+1 One-sided p-value against pre-specified performed goals, to be compared at a 0.05 significance
+   level.
+   Performance Goal developed based on per-protocol definition MI.
+* Performance Goal developed based on per-ARC definition MI.
+* The Core Size Registry includes 2.25 - 4.0 mm stent diameters, 8, 18, 28 mm lengths
+** The Long Lesion Registry includes 2.5 - 4.0 mm stent diameters, 33 and 38 mm stent lengths
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                     Page 34 of 46
+Table 11         SPIRIT PRIME Core Size Registry Clinical Results*
+                                               OUTCOMES AT 1YEAR
+                                                               Core Size Registry
+                                                                    (N=401)
+COMPOSITE EFFECTIVENESS & SAFETY
+ TLF (per protocol)                                                 4.5% (18/399)
+ TLF (per ARC)                                                      6.5% (26/399)
+EFFECTIVENESS
+CI-TLR                                                              2.5% (10/399)
+CI-TLR, CABG                                                        0.3% (1/399)
+CI-TLR, PCI                                                         2.5% (10/399)
+CI-TVR                                                              4.5% (18/399)
+SAFETY
+All Death                                                            0.8% (3/399)
+                                        Cardiac Death                0.3% (1/399)
+                                    Non-Cardiac Death                0.5% (2/399)
+Target Vessel MI (per protocol)                                      1.8% (7/399)
+                          Target Vessel QMI (per protocol)           0.3% (1/399)
+                        Target Vessel NQMI (per protocol)            1.5% (6/399)
+All MI (per protocol)                                                1.8% (7/399)
+                                        QMI (per-protocol)           0.3% (1/399)
+                                      NQMI (per protocol)            1.5% (6/399)
+Target Vessel MI (per ARC)                                          4.0% (16/399)
+                             Target Vessel QMI (per ARC)             0.3% (1/399)
+                           Target Vessel NQMI (per ARC)             3.8% (15/399)
+All MI (per ARC)                                                    4.5% (18/399)
+                                           QMI (per ARC)             0.3% (1/399)
+                                         NQMI (per ARC)             4.3% (17/399)
+Cardiac Death or All protocol MI                                     2.0% (8/399)
+Cardiac Death or All ARC MI                                     -   4.8% (19/399)
+ARC Definite + Probable Stent Thrombosis
+                                 Cumulative through 1 year            0.5% (2/399)
+                             Acute/Subacute (0 - 30 days)             0.5% (2/401)
+                                    Late (31 days - 1 year)           0.0% (0/399)
+Notes:
+   TLF is defined as a hierarchical composite of cardiac death, Target Vessel MI, and
+   clinically-indicated TLR.
+- Population for SPIRIT PRIME Core Size Registry consists of those subjects who were
+   treated with at least one PRIME stent and had cardiac enzyme data between 8hour post
+   index procedure and hospital discharge.
+- ARC: Academic Research Consortium
+* The Core Size Registry includes 2.25 - 4.0 mm stent diameters, 8, 18, 28 mm lengths
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                 Page 35 of 46
+          20 -       PRIMECSR                                             10­
+          616-                                                             8 ­
+
+           12-                                                             6­
+
+                                                       4.5%         co4
+ _jL4                                                               M2­
+                                                                                                                   0.3%
+           0                                                               0    1
+                 0   60     120   180   240   300   360       420               0   60-   120   180   240   300 360 420
+
+
+           20C                                                            10 ­
+           OR
+
+
+ -         16-                                                             8­
+
+     0 12-                                                                 6 ­
+                                                                    14­
+            8-
+     -                                                                                                             2.5%
+                          41.7%                                            2
+           o-                                   ----                       0                                 ---- r ----I
+                 0   60 120 180 240 300 360                   420               0   60 120 180 240 300 360 420
+                       Day Post Index Procedure                                      Day Post Index Procedure
+Figure 3                    Core Size Registry Primary endpoint-TLF at 1 year per protocol (A) and
+                            its components of cardiac death (B), TV-MI per protocol (C) and CI-TLR
+                            (D)
+
+
+          20 -       PRIME CSR                            A               10-                                      B
+
+
+
+           8                                           6.5%               4 ­
+
+     -j    4                                                        In     2 ­
+                                                                    -0
+                                                                                                                   0.3%
+
+                 0   60     120   180   240   300   360       420               0   60    120   180   240   300 360 420
+
+
+           20-                                            C               10-                                      D
+           16-                                                             8­
+           12-                                                             6 ­
+           8-                                                              4
+                                                       4.0%         5                                              2.5%
+           4                                                               2
+
+                 0   60 120 180 240 300 360 420                                 0   60 120 180 240 300 360 420
+                      Day Post Index Procedure                                       Day Post Index Procedure
+Figure 4                    Core Size Registry-Primary endpoint-TLF at 1 year per ARC (A) and its
+                            components of cardiac death (B), TV-MI per protocol (C) and CI-TLR
+                            (D)
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                                              Page 36 of 46
+Table 12         SPIRIT PRIME Long Lesion Registry Clinical Results*
+                                              (kIOTCOMES AT 1 YEA R
+                                       -LoticgLesio6n                       1 egistry
+                                                                     (N=I 04)
+COMPOSITE EFFECTIVENESS & SAFETY.......i)........
+  TLF (per protocol)                                               7.7% (8/104)
+  TLF (per ARC)                                                   12.5% (13/104)
+EFFECTIVENESS
+CI-TLR                                                             2.9% (3/104)
+CI-TLR, CABG                                                       0.0% (0/104)
+CI-TLR, PCI                                                        2.9% (3/104)
+CI-TVR                                                             4.8% (5/104)
+SAFETY
+All Death                                                          1.0% (1/104)
+                                         Cardiac Death             0.0% (0/104)
+                                     Non-Cardiac Death             1.0% (1/104)
+Target Vessel MI (per protocol)                                    4.8% (5/104)
+                          Target Vessel QMI (per protocol)         1.9% (2/104)
+                        Target Vessel NQMI (per protocol)          2.9% (3/104)
+All MI (per protocol)                                              4.8% (5/104)
+                                        QMI (per protocol)         1.9% (2/104)
+                                      NQMI (per protocol)          2.9% (3/104)
+Target Vessel MI (per ARC)                                        10.6% (11/104)
+                             Target Vessel QMI (per ARC)           1.9% (2/104)
+                           Target Vessel NQMI (per ARC)           18.7% (9/104)
+All MI (per ARC)                                                  10.6% (11/104)
+QMI (per ARC)                                                      1.9% (2/104)
+Cardiac Death or All protocol MI                                   4.8% (5/104)
+Cardiac Death or All ARC MI                                       10.6% (11/104)
+ARC Definite + Probable Stent Thrombosis
+                                 Cumulative through 1year            0.0% (0/104)
+                             Acute/Subacute ( 0 - 30 days)           0.0% (0/104)
+                                    Late (31 days - 1 year)          0.0% (0/104)
+Notes:
+- TLF is defined as a hierarchical composite of cardiac death, Target Vessel MI, and
+   clinically-indicated TLR.
+- Population for SPIRIT PRIME Core Size Registry consists of those subjects who were
+   treated with at least one PRIME stent and had cardiac enzyme data between 8 hour post
+   index procedure and hospital discharge.
+- ARC: Academic Research Consortium
+* The Long Lesion Registry includes 2.5 - 4.0 mm stent diameters, 33 and 38 mm stent
+   lengths
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                       .          Page 37 of 46
+       20 --        PRIME LLR                                   A             10­
+       16 -                                                                   8 ­
+
+       12-                                                                    6 ­
+                    a.                      ~7.70/
+       8-                                         r                           4­
+ u4                                                                           22
+                                                                                                                               0.0%
+       0                 1       1                    I              1        0         1        1
+                0   60          120   180   240   300     360   420                 0       60       120   180   240   300   360     420
+
+
+       20-                                                      C             10                                               D
+ -     16-                                                                    8 -
+ o                                                                        F
+ 6 12-                                                                        6 -
+           a.
+           8­
+                                                           48%                4                                                2.9%
+           4-                                                                 2
+ 1-        0                                 I        I              I        0
+                0    60         120   180   240   300     360       420             0       60       120   180   240   300   360     420
+                             Day Post Index Procedure                                        Day Post Index Procedure
+Figure 5                       Long Lesion Registry Primary endpoint-TLF at 1 year per protocol (A)
+                               and its components of cardiac death (B), TV-MI per protocol (C) and CI­
+                               TLR (D)
+
+
+       20 -         PRIME LLR                                   A             10-                                              B
+      *16-8
+                                                            12.5%         1
+                                                                          0
+
+
+
+
+       -                                                                       0                                                   0.0%
+                0    60         120   180   240   300     360       420             0       60       120   180   240   300   360     420
+
+
+       0                                                                      10                                               D
+                              20-J
+       16                                                                      8­
+       12-                                                 10-6%          W 6­
+                                8-                                             4-                                                  2.9%
+           4-                                                                  2­
+           0                                                                   0
+                0    60         120   180   240   300     360       420             0       60       120   180   240   300   360      420
+                             Day Post Index Procedure                                        Day Post Index Procedure
+
+Figure 6                       Long Lesion Registry Primary endpoint-TLF at 1 year per ARC (A) and
+                               its components of cardiac death (B), TV-MI per protocol (C) and CI-TLR
+                               (D)
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                                                                     Page 38 of 46
+Geriatric Use: The XIENCE PRIME clinical trial did not have an upper age limit. Among
+the 401 patients in the SPIRIT PRIME Core Size Registry, 167 were older than age 65 and
+234 were age 65 or younger. Among the 104 patients in the SPIRIT PRIME Long Lesion
+Registry, 48 patients were older than age 65 and 56 were age 65 or younger. A post hoc
+analysis showed no clinically significant differences in clinical endpoints between patients
+older than age 65 compared to those age 65 years or younger.
+
+
+X.         Gender-Based Analysis
+
+Abbott Vascular performed a post hoc evaluation of the SPIRIT PRIME clinical trial for
+possible sex-based differences in baseline characteristics and clinical outcomes, as well as for
+any interaction between treatment and sex/gender. The SPIRIT PRIME trial was not
+designed or powered to study safety or effectiveness differences between sexes, so these
+analyses are considered exploratory without definitive conclusions.
+
+In the Core Size Registry, 119/401 (29.7%) subjects were female and 282/401 (70.3%) were
+male. In the Long Lesion Registry, 39/104 (37.5%) subjects were female and 65/104 (62.5%)
+were male. In comparison, the prevalence of coronary artery disease (CAD) is estimated at
+9.2 million in males and 8.4 million in females for adults age 20 and older the United States
+(i.e., the CAD population is estimated to be 52.2% males and 47.7% females). The
+disproportionate enrollment distribution in this trial may be partly attributable to gender
+differences in symptoms and pathophysiology, which may lead to under-diagnosis and under-
+referral of female patients with CAD. The gender proportions enrolled in this trial are similar
+to other drug-eluting stent trials. 1,2
+
+Table 13 presents the baseline demographics, risk factors, and angiographic characteristics
+by gender for subjects in the Core Size Registry. As is consistent with previous literature,
+female patients at baseline were numerically older and had a higher BMI. Additionally, more
+females than males had hypertension requiring medication and diabetes mellitus. Table 14
+presents the baseline demographics, risk factors, and angiographic characteristics by gender
+for subjects in the Long Lesion Registry
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                         Page 39 of 46
+    Table 13                  Demographics, Risk Factors, and Baseline Angiographic Characteristics
+                              for SPIRIT PRIME Core Size Registry Subjects *
+                                                                                  Male                        Female                       Total
+SubjectJLesion Characteristics                                                  (N=282)                       (N=119)                     (N=401)
+                                                                                (M=315)                       (M=1 32)                    (M=447)          P-Value
+Baseline Demographics, Mean ± SD (n)
+   Age (year)                                                            61.63 ± 10.37 (282)          65.23 ± 9.47 (119)         62.70 ± 10.23 (401)       0.00091
+Baseline Risk Factors, % (No./total)
+   All Diabetes                                                             31.9% (90/282)              42.0% (50/119)                34.9% (140/401)      0.06632
+   Diabetes Treated with Insulin                                            7.4% (21/282)               14.3% (17/119)                 9.5% (38/401)       0.04002
+   Current Tobacco Use                                                      19.1% (54/282)              19.3% (23/119)                 19.2% (77/401)      1.00002
+   Hypertension Requiring Medication                                       73.4% (207/282)             84.0% (100/119)                76.6% (307/401)      0.02782
+   Hypercholesterolemia Requiring Medication                               80.9% (228/282)              79.0% (94/119)                80.3% (322/401)      0.68152
+   Stable Angina                                                           44.0% (124/282)              49.6% (59/119)                45.6% (183/401)      0.32442
+   Unstable Angina                                                         25.2% (71/282)               24.4% (29/119)                24.9% (100/401)      0.90012
+   Prior MI                                                                25.0% (69/276)               18.5% (22/119)                 23.0% (91/395)      0.19272
+Target Vessel, % (No./total)
+   LAD                                                                     44.1% (139/315)              46.2% (61/132)                44.7% (200/447)      0.75452
+
+   Circumflex or Ramus                                                     2.3.8% (75/315)              25.8% (34/132)                24.4% (,109/447)     0.71742
+   RCA                                                                     31.7% (100/315)              28.0% (37/132)                30.6% (137/447)      0.50012
+   LMCA                                                                      0.0% (0/315)                0.0% (0/132)                   0.0% (0/447)             NA
+Pre-Procedure QCA Analysis, Mean ± SD (m)
+   Lesion Length (mm)                                                     13.91 ± 5.10 (315)          13.06 ± 4.75 (132)          13.66 ± 5.01 (447)       0.09401
+   Pre-Procedure RVD (mm)                                                 2.76 ± 0.48 (315)            2.63     0.45 (132)            2.72 ± 0.48 (447)    0.00671
+   Pre-Procedure MLD (mm)                                                 0.82 ± 0.40 (315)            0.81 ± 0.26 (132)              0.81 ±0.36 (447)     0.73521
+   Pre-Procedure Percent Diameter Stenosis (%DS)                         70.01 ± 12.87 (315)          68.58 ± 8.53 (132)         69.59 ± 11.76 (447)       0.16761
+
+ Subjects with Cardiac Enzyme Data in Window
+
+1From T-test.
+2 From Fisher's exact test.
+
+Note: All p-values displayed are two-tailed and not from formal hypothesis testing and are displayed for descriptive purposes only.
+
+Note: N is the total number of subjects.
+
+Note: M is the total number of target lesions.
+
+Note: This table contains only subjects with post index procedure cardiac enzyme data in window (between 8 hours post index procedure and hospital discharge).
+
+
+
+
+    PMA P110019: FDA Summary of Safety and Effectiveness Data                                                                                 Page 40 of 46
+    Table 14                   Demographics, Risk Factors, and Baseline Angiographic Characteristics
+                               for SPIRIT PRIME Long Lesion Registry Subjects*
+                                                                                    Male                     Fenmale                       Total
+Subject/Lesion Characteristics                                                    (N=65)                     (N=39)                      (N=104)
+                                                                                  (M,80)                     (M=44)                      (M= 124)          P-Value
+Baseline Demographics,.Mean ±SD (n)
+   Age (year)                                                               63.64 ± 9.97 (65)          63.15 ± 8.60 (39)          63.46 ± 9.44 (104)       0.79271
+Baseline Risk Factors, % (No.Itotal)
+   All Diabetes                                                               32.3% (21/65)              41.0% (16/39)                35.6% (37/104)       0.40272
+    Diabetes Treated with Insulin                                               9.2% (6/65)               10.3% (4/39)                9.6% (10/104)        1.00002
+   Current Tobacco Use                                                        26.2% (17/65)              28.2% (11/39)                26.9% (28/104)       0.82322
+   Hypertension Requiring Medication                                          76.9% (50/65)              71.8% (28/39)                75.0% (78/104)       0.64182
+   Hypercholesterolemia Requiring Medication                                  81.5% (53/65)              79.5% (31/39)                80.8% (84/104)       0.80232
+   Stable Angina                                                              43.1% (28/65)              59.0% (23/39)                49.0% (51/104)       0.15632
+   Unstable Angina                                                            27.7% (18/65)               15.4% (6/39)                23.1% (24/104)       0.22892
+   Prior MI                                                                   25.0% (16/64)               18.4% (7/38)                22.5% (23/102)       0.47532
+Target Vessel, % (No./total)
+   LAD                                                                        41.3% (33/80)              40.9% (18/44)                41.1% (51/124)       1.00002
+   Circumflex or Ramus                                                        27.5% (22/80)               18.2% (8/44)                24.2% (30/124)       0.28032
+   RCA                                                                        31.3% (25/80)              40.9% (18/44)                34.7% (43/124)       0.32612
+   LMCA                                                                         0.0% (0/80)               0.0% (0/44)                  0.0% (0/124)          NA
+Pre-Procedure QCA Analysis, Mean ±SD (m)
+   Lesion Length (mm)                                                       26.62 ± 7.89 (80)          25.17 ± 6.83 (44)          26.10 ± 7.53 (124)       0.2872'
+   Pre-Procedure RVD (mm)                                                    2.80 ± 0.46 (80)           2.66 ± 0.40 (44)          2.75 ± 0.44 (124)        0.0864'
+   Pre-Procedure MLD (mm)                                                    0.75 ± 0.28 (80)           0.79 ± 0.31 (44)          0.77 ± 0.29 (124)        0.5067'
+   Pre-Procedure Percent Diameter Stenosis (%DS)                            72.05 ± 8.74 (80)          68.76 ± 9.60 (44)          70.88 ± 9.15 (124)       0.0632'
+
+  Subjects with Cardiac Enzyme data in Window
+
+1From T-test.
+
+2 From Fisher's exact test.
+Note: All p-values displayed are two-tailed and not from formal hypothesis testing and are displayed for descriptive purposes only.
+
+Note: N is the total number of subjects.
+
+Note: M is the total number oftarget lesions.
+
+Note: This table contains only subjects with post index procedure cardiac enzyme data in window (between 8 hours post index procedure and hospital discharge).
+
+
+
+
+    PMA P110019: FDA Summary of Safety and Effectiveness Data                                                                                Page 41 of 46
+    A post hoc analysis was conducted on the composite primary safety and effectiveness
+    endpoint of TLF, per protocol and per ARC, to assess for heterogeneity of treatment effect
+    across sex/gender (using Fisher's Exact Test). Table 15 and Table 16 present the clinical
+    results for the Core Size Registry and Long Lesion Registry respectively. Due to the modest
+    sample size (Core Size Registry 282 males vs. 119 females and Long Lesion Registry 65
+    males vs. 39 females), these analyses and interpretation are limited.
+
+
+    Table 15                Clinical Results for All Female and All Male Subgroups in the SPIRIT
+                            PRIME Core Size Registry through 1 year*
+
+SPIRIT PRIME                                                                  Male,                Female                  Total
+                                                                             (N-282)               (N=119)                (N"401)       P-Value
+
+All Death                                                                 1.1% (3/280)          0.0% (0/119)           0.8% (3/399)      0.5576
+Cardiac Death                                                             0.4% (1/280)          0.0% (0/119)           0.3% (1/399)      1.0000
+Non-Cardiac Death                                                         0.7% (2/280)          0.0% (0/119)           0.5% (2/399)      1.0000
+Target Vessel MI per Protocol                                             1.8% (5/280)           1.7% (2/119)          1.8% (7/399)      1.0000
+Cardiac Death or Target Vessel MI per Protocol                            2.1% (6/280)           1.7% (2/119)          2.0% (8/399)      1.0000
+Target Vessel MI per ARC                                                  3.2% (9/280)          5.9% (7/119)          4.0% (16/399)      0.2639
+Cardiac Death or Target Vessel MI per ARC                                3.6% (10/280)          5.9% (7/119)          4.3% (17/399)      0.2906
+Major Bleeding Complication                                               2.9% (8/280)           1.7% (2/119)          2.5% (10/399)     0.7298
+Stent Thrombosis
+      Protocol defined                                                    0.7% (2/280)          0.0% (0/119)           0.5% (2/399)      1.0000
+    ARC definite + probable                                               0.7% (2/280)          0.0% (0/119)           0.5% (2/399)      1.0000
+TLF
+      per Protocol                                                       5.4% (15/280)          2.5% (3/119)          4.5% (18/399)      0.2941
+      per ARC                                                            6.4% (18/280)          6.7% (8/119)           6.5% (26/399)     1.0000
+Ischemia-Driven TLR                                                       3.2% (9/280)          0.8% (1/119)           2.5% (10/399)     0.2931
+Ischemia-Driven TVR, non TL                                               2.9% (8/280)          2.5% (3/119)           2.8% (11/399)     1.0000
+
+  Subjects with Cardiac Enzyme data inWindow
+1From Fishers exact test.
+Note: All p-values displayed are two-tailed and not from formal hypothesis testing and are displayed for descriptive purposes only.
+Note: Subjects are only counted once for each type of event ineach time period.
+Note: N is the total number of subjects.
+Note: This table contains only subjects with post index procedure cardiac enzyme data inwindow (between 8 hours post index procedure and hospital
+discharge).
+
+
+
+
+   PMA P110019: FDA Summary of Safety and Effectiveness Data                                                                     Page 42 of 46      q7
+    Table 16                 Clinical Results for All Female and All Male Subgroups in the SPIRIT
+                             PRIME Long Lesion Registry through 1 year*
+
+          PRIME                                                                MPIRIT
+                                                                               Male                Female                  Total
+                                                                              (N65)                 (N=39)             : (N=104)         PValue
+
+All Death                                                                  1.5% (1/65)           0.0% (0/39)           1.0% (1/104)       1.0000
+Cardiac Death                                                              0.0% (0/65)           0.0% (0/39)           0.0% (0/104)        NA
+Non-Cardiac Death                                                          1.5% (1/65)           0.0% (0/39)           1.0% (1/104)       1.0000
+Target Vessel MI per Protocol                                              4.6% (3/65)           5.1% (2/39)           4.8% (5/104)       1.0000
+Cardiac Death or Target Vessel MI per Protocol                            4.6% (3/65)            5.1% (2/39)           4.8% (5/104)       1.0000
+Target Vessel MI per ARC                                                  13.8% (9/65)           5.1% (2/39)          10.6% (11/104)     0.2024
+Cardiac Death or Target Vessel MI per ARC                                 13.8% (9/65)           5.1% (2/39)          10.6% (11/104)     0.2024
+Major Bleeding Complication                                                1.6% (1/63)           2.6% (1/39)           2.0% (2/102)       1.0000
+Stent Thrombosis
+      Protocol defined                                                    0.0% (0/65)            0.0% (0/39)           0.0% (0/104)        NA
+    ARC definite + probable                                               0.0% (0/65)            0.0% (0/39)           0.0% (0/104)        NA
+TLF
+      per Protocol                                                        9.2% (6/65)            5.1% (2/39)           7.7% (8/104)      0.7069
+      per ARC                                                            16.9% (11/65)          5.1% (2/39)           12.5% (13/104)     0.1242
+Ischemia-Driven TLR                                                       4.6% (3/65)           0.0% (0/39)            2.9% (3/104)      0.2900
+Ischemia-Driven TVR, non TL                                               3.1% (2/65)           2.6% (1/39)            2.9% (3/104)      1.0000
+
+ Subjects with Cardiac Enzyme data inWindow
+1From Fisher's exact test.
+Note: All p-values displayed are two-tailed and not from formal hypothesis testing and are displayed for descriptive purposes only.
+Note: Subjects are only counted once for each type of event ineach time period.
+Note: N is the total number of subjects.
+Note: This table contains only subjects with post index procedure cardiac enzyme data inwindow (between 8hours post index procedure and hospital
+discharge).
+
+
+
+
+   XII.              PANEL MEETING RECOMMENDATION AND FDA'S POST-PANEL
+                     ACTION
+
+   In accordance with the provisions of section 515(c)(2) of the Act as amended by the Safe
+   Medical Devices Act of 1990, this PMA was not referred to the Circulatory System Devices
+   Panel, an FDA advisory committee, for review and recommendation because the information
+   in the PMA substantially duplicates information previously reviewed by this panel.
+
+
+
+
+   PMA P110019: FDA Summary of Safety and Effectiveness Data,                                                                    Page 43 of 46
+XIII.       CONCLUSIONS DRAWN FR                   PRECLINICAL AND CLINICAL
+            STUDIES
+
+
+The safety and effectiveness of the Xience Prime Everolimus Eluting Coronary Stent System
+are based on the results obtained from: evaluation of biocompatibility; in vitro engineering
+testing; coating characterization; chemistry, manufacturing and controls information; in vivo
+animal testing; sterilization information; stability testing; and clinical studies. These tests
+revealed the following:
+
+
+A. Safety Conclusions
+
+The biocompatibility testing, in vivo pharmacokinetics evaluation and in vivo animal testing
+conducted on the XIENCE PRIME stent system demonstrate that the acute and chronic in
+vivo performance characteristics of the product provide reasonable assurance of safety and
+acceptability for clinical use.
+
+The in vitro engineering testing conducted on the stent and delivery systems or appropriately
+leveraged from the XIENCE V stent demonstrated that the performance characteristics met
+the product specifications and the coating characterization testing adequately described the
+important attributes of the everolimus/polymer coating. The chemistry, manufacturing, and
+controls information ensures that product meeting specifications will be released.
+
+The test results obtained from the sterilization testing demonstrated that the product can be
+adequately sterilized and is acceptable for clinical use. The stability testing and functional
+shelf life testing demonstrated that the product can be labeled with a shelf life of 9 months.
+
+
+B. Effectiveness Conclusions
+
+The SPIRIT PRIME clinical trial consisted of two cohorts, the Core Size Registry and the
+Long Lesion Registry. The results of the SPIRIT PRIME clinical trial showed that the
+primary composite endpoint of target lesion failure (TLF, defined as cardiac death, target
+vessel myocardial infarction (TV-MI), and clinically indicated target lesion revascularization
+(CI-TLR)) at one year was 6.5%, with an upper limit of the one-sided 95% confidence
+interval of 8.9%, which met the prespecified performance goal of < 9.2% (p<0.0338) for the
+Core Size Registry. The rate of TLF at one year in the Long Lesion Registry was 12.5%,
+with an upper limit of the one-sided 95% confidence interval of 19.1%, which met the
+prespecified performance goal of < 19.2% (p<0.0484) for the LLR. Both major secondary
+endpoints were also met. The composite endpoint of TLF contains both safety and
+effectiveness components.
+
+The SPIRIT PRIME trial demonstrated that the XIENCE PRIME Everolimus Eluting
+Coronary Stent System provides a reasonable assurance of safety and effectiveness when
+used in accordance with the instructions for use.
+
+C. Overall Conclusions
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                         Page 44 of 46
+XIV. CDRH DECISION
+
+CDRH issued an approval order on November 1, 2011. The final conditions of approval cited
+in the approval order are described below.
+
+       1. Continued.Follow-up ofPremarket Cohort:You must conduct a post-approval
+          study to continue follow-up of the premarket cohorts, consisting of 500 patients
+          (Core Size Registry -400 participants; Long Lesion Registry-100 participants).
+          You should collect clinical outcomes through 5 years post-procedure on at least
+          80% of patients enrolled (excluding those discontinued due to death) in the
+          SPIRIT PRIME clinical trial. This study will be conducted as per protocol
+          submitted with the revised statistical analysis plan provided in Amendment 3 of
+          the PMA. A comparison of primary and secondary endpoints of the CSR and the
+          XIENCE V arm of the SPIRIT II,III, and IV trials (pooled data), will be provided.
+          For the LLR cohort, the comparison endpoints will be made with the SPIRIT IV
+          overlapping cohort due to lack of overlapping data in SPIRIT II and SPIRIT III
+          and unavailability of the 33 and 38mm XIENCE V stents.
+
+
+       2. The issue of the optimal duration of dual antiplatelet therapy following PCI with
+          drug-eluting stents (DES) remains a critical question that is currently being studied
+          in the DAPT trial. FDA acknowledges that you are participating in this trial to
+          address a condition of approval for the Xience V DES (P070015). As the duration
+          of dual antiplatelet therapy is also relevant for the Xience Prime EECS, you must
+          fulfill your commitment to the condition of PMA approval for P070015. When
+          appropriate or as requested by FDA, you should submit PMA supplements to the
+          Xience PRIME PMA (P110019) requesting approval to update your IFU to
+          include the data collected in the DAPT trial. If you do not fulfill the condition of
+          approval for P070015, you must conduct or participate in a separate clinical trial
+          that will develop data to study the duration of dual antiplatelet therapy following
+          implantation of the Xience PRIME DES and subsequently submit PMA
+          supplements to this PMA requesting approval to include these data in an IFU
+          update.
+
+
+
+       3. Within 12 months of PMA approval, you should submit a PMA supplement
+          requesting approval to tighten the in-process coating weight gain specifications or
+          implementing procedures to re-coat stents with less than 95% coating weight gain
+          upon in-process inspection.
+
+The applicant's manufacturing facilities were inspected and found to be in compliance with
+the device Quality System (QS) regulation (21 CFR 820).
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                        Page 45 of 46
+XV.        APPROVAL SPECIFICATIONS
+
+Directions of use: See device labeling.
+
+Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+Precautions, and Adverse Events in the device labeling.
+
+Post-approval Requirements and Restrictions: See approval order.
+
+
+
+XVI.    REFERENCES
+
+1. Lansky AJ, Costa RA, Mooney M, et al. Gender-Based Outcomes After Paclitaxel-
+   Eluting Stent Implantation in Patients With Coronary Artery Disease. J Am Coll Cardiol
+   2005 45: 1180-5.
+2. Solinas E, Nikolsky E, Lansky AJ, et al. Gender-Specific Outcomes After Sirolimus-
+   Eluting Stent Implantation. JAm Coll Cardiol 2007;50:2111-6.
+
+
+
+
+PMA P110019: FDA Summary of Safety and Effectiveness Data                    Page 46 of 46
+

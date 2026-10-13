@@ -1,0 +1,2353 @@
+     SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I.     GENERAL INFORMATION
+
+       Device Generic Name:                  Drug-Eluting Coronary Stent System
+
+       Device Trade Name:                    Resolute Onyx Zotarolimus-Eluting Coronary Stent
+                                             System
+
+       Device Procode:                       NIQ
+
+       Applicant’s Name and Address:         Medtronic, Inc.
+                                             3576 Unocal Place
+                                             Santa Rosa, CA 95403
+                                             USA
+
+       Date(s) of Panel Recommendation: None
+
+       Premarket Approval Application (PMA) Number: P160043
+
+       Date of FDA Notice of Approval:       April 28, 2017
+
+
+II.    INDICATIONS FOR USE
+
+       The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is indicated for
+       improving coronary luminal diameters in patients, including those with diabetes mellitus,
+       with symptomatic ischemic heart disease due to de novo lesions of length ≤ 35 mm in
+       native coronary arteries with reference vessel diameters of 2.25 mm to 5.0 mm.
+
+III.   CONTRAINDICATIONS
+
+       The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is contraindicated for
+       use in:
+              •   Patients with known hypersensitivity or allergies to aspirin, heparin,
+                  bivalirudin, clopidogrel, prasugrel, ticagrelor, ticlopidine, drugs such as
+                  zotarolimus, tacrolimus, sirolimus, everolimus, or similar drugs or any other
+                  analogue or derivative.
+              •   Patients with a known hypersensitivity to the cobalt-based alloy (cobalt,
+                  nickel, chromium, and molybdenum) or platinum-iridium alloy.
+              •   Patients with a known hypersensitivity to the BioLinx polymer or its
+                  individual components
+       Coronary artery stenting is contraindicated for use in:
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                Page 1
+                     •   Patients in whom anti-platelet and/or anticoagulation therapy is
+                         contraindicated.
+                     •   Patients who are judged to have a lesion that prevents complete inflation of an
+                         angioplasty balloon or proper placement of the stent or stent delivery system.
+
+IV.      WARNINGS AND PRECAUTIONS
+
+         The warnings and precautions can be found in the Resolute Onyx Zotarolimus-Eluting
+         Coronary Stent System labeling.
+
+V.       DEVICE DESCRIPTION
+
+         The Medtronic Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System (Resolute
+         Onyx™ system) is a device/drug combination product comprised of the following device
+         components:
+                     •   A Resolute Onyx™ Coronary Stent and delivery system. The delivery system
+                         is available in a rapid exchange (RX) and an over-the-wire (OTW)
+                         configuration.
+                     •   A drug/polymer coating component, which consists of a formulation of
+                         zotarolimus contained in a BioLinx polymer.
+         The characteristics of the Resolute Onyx™ product are described in Table 1.
+
+             Table 1: Device Component Description and Nominal Dimensions
+                                       Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System
+                                           Rapid Exchange and Over-the-Wire Delivery Systems
+      Component
+                               Stent Design 1     Stent Design 2    Stent Design 3       Stent Design 4
+                               (Small Vessel)    (Medium Vessel)    (Large Vessel)    (Extra Large Vessel )
+Available Stent Diameters
+                            2.25, 2.5                 2.75, 3.0              3.5, 4.0                (RX Only) – 4.5, 5.0
+(mm)
+
+Available Stent             8, 12, 15, 18, 22, 26,    8, 12, 15, 18, 22,     8, 12, 15, 18, 22,      (RX Only) – 12, 15, 18,
+Lengths (mm)                30, 34, 38                26, 30, 34, 38         26, 30, 34, 38          22, 26, 30
+
+                            A continuous sinusoid pattern stent manufactured from a composite metal material, consisting of a
+Stent Material and
+                            cobalt-based alloy shell conforming to ASTM F562 and a platinum-iridium alloy core conforming
+Geometry
+                            to ASTM B684.
+
+                            A coating of polymers loaded with zotarolimus in a formulation applied to the entire surface of the
+Drug Component              stent at a dose of approximately 1.6 µg/mm2 which results in a maximum nominal drug content of
+                            317 µg on the stent with the largest surface area (4.0 x 38 mm).
+
+Delivery System Working
+                            140 cm
+Length
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                          Page 2
+             Table 1: Device Component Description and Nominal Dimensions
+                                        Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System
+                                            Rapid Exchange and Over-the-Wire Delivery Systems
+      Component
+                                Stent Design 1     Stent Design 2    Stent Design 3       Stent Design 4
+                                (Small Vessel)    (Medium Vessel)    (Large Vessel)    (Extra Large Vessel )
+
+                             Single access port to the inflation lumen. A guidewire exit port is located approximately 25 cm
+                    RX
+Delivery System              from the tip. Designed for guidewire less than or equal to 0.014 inch (0.36 mm).
+Luer Adapter
+                             Y-Connector with side arm for access to balloon inflation/deflation lumen. Straight arm is
+Ports
+                    OTW      continuous with shaft inner lumen designed for guidewire less than or equal to 0.014 inch
+                             (0.36 mm).
+
+                             Single-layer Pebax balloon, wrapped over an inner member tubing with 2 radiopaque marker bands
+Stent Delivery Balloon
+                             to locate the stent edges.
+
+                             Nominal Inflation Pressure: 12 ATM (1216 kPa)
+Balloon Inflation Pressure   Rated Burst Pressure: 2.25-4.0mm = 18 ATM (1824 kPa), RX only: 4.5-5.0mm = 16 ATM
+                             (1621kPa)
+
+Minimum Guide Catheter
+                             5 F (1.42 mm, 0.056 in)
+Inner Diameter
+
+                             Proximal Shaft OD, 2.25-5.0mm: 2.1 F (0.69 mm)
+                    RX       Distal Shaft OD, 2.25-4.0mm: 2.7 F (0.91 mm)
+Catheter Shaft               Distal Shaft OD, 4.5 and 5.0mm: 3.2 F (1.07 mm)
+Outer Diameter
+                             Proximal Shaft OD: 3.4 F (1.12 mm)
+                    OTW
+                             Distal Shaft OD: 2.7 F (0.91 mm)
+
+
+
+         A. Device Component Description
+         The Medtronic Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System (Resolute
+         Onyx™ system) consists of a balloon-expandable, intracoronary, drug-eluting stent
+         (DES) premounted on a stent delivery system (RX or OTW). The Resolute Onyx™
+         coronary stent is manufactured from a composite material of cobalt alloy and platinum-
+         iridium alloy and is formed from a single wire bent into a continuous sinusoid pattern and
+         then laser fused back onto itself. The Resolute Onyx™ cornary stent is coated with a
+         Parylene C primer, a Biolinx polymer, and the active pharmaceutical ingredient (API),
+         zotarolimus with a nominal drug dose density of approximately 1.6 µg/mm2. The stents
+         are available in multiple lengths and diameters. The delivery system has two radiopaque
+         markers to aid in the placement of the stent during fluoroscopy and is compatible with
+         0.014-inch (0.36-mm) guidewires and 1.42-mm (5-Fr/0.056-in) minimum inner diameter
+         guide catheters. The stent is crimped on various sizes of delivery catheter balloons, which
+         range from 2.25 mm to 5.0 mm. See Table 1, above, for full list of diameter ranges
+         available on each delivery system (RX and OTW).
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                           Page 3
+      B. Drug Component Description
+      The drug coating of the Resolute Onyx™ System consists of the drug zotarolimus (the
+      active ingredient) and BioLinx® polymer system (the inactive ingredient).
+      B1.    Active Ingredient: Zotarolimus
+      The active pharmaceutical ingredient utilized in Resolute Onyx™ is zotarolimus. It is a
+      tetrazole-containing macrocyclic immunosuppressant.
+      The Chemical name of zotarolimus is: [3S-[3R*[S*(1R*,3S*,4R*)],6S*,
+      7E,9S*,10S*,12S*,14R*,15E,17E,19E, 21R* ,23R*, 26S*,27S*,34aR*]]-
+      9,10,12,13,14,21,22,23,24,25,26,27, 32,33,34,34a-hexadecahydro-9,27-dihydroxy-3-[2-
+      [3-methoxy-4-(1H-tetrazoyl-1-yl)cyclohexyl]-1-methylethyl]-10,21-dimethoxy-
+      6,8,12,14,20,26-hexamethyl-23,27-epoxy-3H-pyrido[2,1-c]
+      [1,4]oxaazacyclohentriacontine-1,5,11,28,29(4H,6H,31H)-pentone.
+
+
+      The chemical structure of zotarolimus is shown in Figure 1.
+                            N   N
+                        N       N
+
+
+                                                                                                                  CH3
+                                O                                                  CH3        CH3            O
+                                                                         4
+                                CH3                             3             5                     9                       O
+                                             H3C                                   6          8              10
+                                                                                         7                             11
+                                                            O2                O                   OH              12
+                                                                                                  H3C
+                                                                1                                                      13
+
+                                                  N                 O                                             14
+                                                                                                        15
+                                             29                      CH3                                           CH3
+                                    O                                                        17   16
+                                             28       O         O
+                                                                                   19 18
+                                    HO        27
+                                                 O                       21       20
+                                H3 C                       23       22            CH3
+                                        26
+                                             25       24
+
+
+                     Figure 1: Chemical Structure of Zotarolimus
+
+      Zotarolimus has extremely low water solubility and is a lipophilic compound that is
+      freely soluble in Propylene glycol, Acetone, Toluene, Acetonitrile, Ethanol, Benzyl
+      alcohol and DMSO. The molecular formula of zotarolimus is C52H79N5O12 and its
+      molecular weight is 966.2.
+      Zotarolimus does not have any ionizable group(s) in the physiological pH range;
+      therefore, its solubility is expected to be unaltered in this range.
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                                       Page 4
+      B2.      Inactive Ingredient
+      Biolinx Polymer
+      Resolute Onyx™ coronary stent is covered with a coating that consists of a blend of the
+      drug zotarolimus and the Biolinx polymer system. BioLinx is a blend of the Medtronic
+      proprietary components C10 and C19, and PVP (polyvinyl pyrrolidone).
+      The structural formula of the BioLinx polymer subunits is show in Figure 2.
+
+
+
+
+                Figure 2: Chemical Structure of Biolinx Polymer Sub-units
+
+
+Table 2: Resolute OnyxTM Zotarolimus-Eluting Coronary Stent System Product Matrix and
+                             Nominal Zotarolimus Content
+
+                                                      Nominal
+                                        Nominal                      Nominal        Nominal
+                     Product Number                 Unexpanded
+ Product Number                        Expanded                     Zotarolimus    Zotarolimus
+                      Resolute Onyx                 Stent Length
+ Resolute Onyx RX                     Stent ID RX                   Content RX    Content OTW
+                          OTW                       RX & OTW
+                                         (mm)                           (µg)           (µg)
+                                                       (mm)
+RONYX22508UX        RONYX22508W           2.25                          51               51
+RONYX25008UX        RONYX25008W           2.5                           51               51
+RONYX27508UX        RONYX27508W           2.75                          67               67
+                                                         8
+RONYX30008UX        RONYX30008W           3.0                           67               67
+RONYX35008UX        RONYX35008W           3.5                           77               77
+RONYX40008UX        RONYX40008W           4.0                           77               77
+RONYX22512UX        RONYX22512W           2.25                          70               70
+RONYX25012UX        RONYX25012W           2.5                           70               70
+RONYX27512UX        RONYX27512W           2.75                          94               94
+RONYX30012UX        RONYX30012W           3.0                           94               94
+                                                         12
+RONYX35012UX        RONYX35012W           3.5                           108             108
+RONYX40012UX        RONYX40012W           4.0                           108             108
+RONYX45012UX        Not Available         4.5                           132         Not Available
+RONYX50012UX        Not Available         5.0                           132         Not Available
+RONYX22515UX        RONYX22515W           2.25                          85               85
+RONYX25015UX        RONYX25015W           2.5                           85               85
+RONYX27515UX        RONYX27515W           2.75                          117             117
+RONYX30015UX        RONYX30015W           3.0                           117             117
+                                                         15
+RONYX35015UX        RONYX35015W           3.5                           132             132
+RONYX40015UX        RONYX40015W           4.0                           132             132
+RONYX45015UX        Not Available         4.5                           158         Not Available
+RONYX50015UX        Not Available         5.0                           158         Not Available
+RONYX22518UX        RONYX22518W           2.25                          104             104
+                                                         18
+RONYX25018UX        RONYX25018W           2.5                           104             104
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                              Page 5
+Table 2: Resolute OnyxTM Zotarolimus-Eluting Coronary Stent System Product Matrix and
+                             Nominal Zotarolimus Content
+
+                                                      Nominal
+                                        Nominal                     Nominal        Nominal
+                     Product Number                 Unexpanded
+ Product Number                        Expanded                    Zotarolimus    Zotarolimus
+                      Resolute Onyx                 Stent Length
+ Resolute Onyx RX                     Stent ID RX                  Content RX    Content OTW
+                          OTW                       RX & OTW
+                                         (mm)                          (µg)           (µg)
+                                                       (mm)
+RONYX27518UX        RONYX27518W          2.75                          140            140
+RONYX30018UX        RONYX30018W          3.0                           140            140
+RONYX35018UX        RONYX35018W          3.5                           156            156
+RONYX40018UX        RONYX40018W          4.0                           156            156
+RONYX45018UX        Not Available        4.5                           188        Not Available
+RONYX50018UX        Not Available        5.0                           188        Not Available
+RONYX22522UX        RONYX22522W          2.25                          127            127
+RONYX25022UX        RONYX25022W          2.5                           127            127
+RONYX27522UX        RONYX27522W          2.75                          171            171
+RONYX30022UX        RONYX30022W          3.0                           171            171
+                                                         22
+RONYX35022UX        RONYX35022W          3.5                           186            186
+RONYX40022UX        RONYX40022W          4.0                           186            186
+RONYX45022UX        Not Available        4.5                           227        Not Available
+RONYX50022UX        Not Available        5.0                           227        Not Available
+RONYX22526UX        RONYX22526W          2.25                          146            146
+RONYX25026UX        RONYX25026W          2.5                           146            146
+RONYX27526UX        RONYX27526W          2.75                          198            198
+RONYX30026UX        RONYX30026W          3.0                           198            198
+                                                         26
+RONYX35026UX        RONYX35026W          3.5                           221            221
+RONYX40026UX        RONYX40026W          4.0                           221            221
+RONYX45026UX        Not Available        4.5                           265        Not Available
+RONYX50026UX        Not Available        5.0                           265        Not Available
+RONYX22530UX        RONYX22530W          2.25                          168            168
+RONYX25030UX        RONYX25030W          2.5                           168            168
+RONYX27530UX        RONYX27530W          2.75                          225            225
+RONYX30030UX        RONYX30030W          3.0                           225            225
+                                                         30
+RONYX35030UX        RONYX35030W          3.5                           252            252
+RONYX40030UX        RONYX40030W          4.0                           252            252
+RONYX45030UX        Not Available        4.5                           304        Not Available
+RONYX50030UX        Not Available        5.0                           304        Not Available
+RONYX22534UX        RONYX22534W          2.25                          187            187
+RONYX25034UX        RONYX25034W          2.5                           187            187
+RONYX27534UX        RONYX27534W          2.75                          257            257
+                                                         34
+RONYX30034UX        RONYX30034W          3.0                           257            257
+RONYX35034UX        RONYX35034W          3.5                           282            282
+RONYX40034UX        RONYX40034W          4.0                           282            282
+RONYX22538UX        RONYX22538W          2.25                          206            206
+RONYX25038UX        RONYX25038W          2.5                           206            206
+RONYX27538UX        RONYX27538W          2.75                          284            284
+                                                         38
+RONYX30038UX        RONYX30038W          3.0                           284            284
+RONYX35038UX        RONYX35038W          3.5                           317            317
+RONYX40038UX        RONYX40038W          4.0                           317            317
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                            Page 6
+       C. Mechanism of Action
+       In vitro, zotarolimus inhibited growth factor-induced proliferation of human coronary
+       artery smooth muscle cells, and also demonstrated binding affinity with FKBP-12
+       (binding protein). The suggested mechanism of action of zotarolimus is to bind to
+       FKBP12, leading to the formation of a trimeric complex with the protein kinase mTOR
+       (mammalian target of rapamycin), inhibiting its activity. Inhibition of mTOR activity
+       leads to inhibition of cell cycle progression from the G1 to the S phase. Table 2, above,
+       lists the nominal drug content present on each product included in the Resolute Onyx™
+       matrix.
+
+VI.    ALTERNATIVE PRACTICES AND PROCEDURES
+
+       There are several other alternatives for the correction of coronary artery disease including
+       exercise, diet, smoking cessation counseling, drug therapy, percutaneous coronary
+       interventions (such as balloon angioplasty, atherectomy, and replacement with bare metal
+       stents, coated stents, and other drug eluting stents), and coronary artery bypass surgery
+       (CABG). Each alternative has its own advantages and disadvantages. A patient should
+       fully discuss these alternatives with his/her physician to select the method that best meets
+       expectations and lifestyle.
+
+VII.   MARKETING HISTORY
+
+The Resolute OnyxTM Zotarolimus-Eluting Coronary Stent System is commercially available in
+the following countries:
+       Algeria                 El Salvador               Kyrgyzstan                 Romania
+      Argentina                  Estonia                    Latvia             Russian Federation
+      Armenia                    Finland                  Lebanon                 Saudi Arabia
+      Australia                  France                   Lithuania                 Singapore
+       Austria                  Germany                   Malaysia                   Slovakia
+     Azerbaijan                  Greece                    Mexico                    Slovenia
+       Bahrain                 Guatemala                  Morocco                 South Africa
+     Bangladesh                 Honduras                  Namibia                     Spain
+      Belgium                  Hong Kong                    Nepal                   Sri Lanka
+       Bolivia                  Hungary                 Netherlands                  Sweden
+      Botswana                   Iceland                New Zealand                Switzerland
+  Brunei Darussalam                India                   Norway                   Tajikistan
+      Bulgaria                      Iran                    Oman                    Tanzania
+      Colombia                   Ireland                  Pakistan                  Thailand
+     Costa Rica                    Israel                  Panama             Trinidad And Tobago
+       Croatia                      Italy                 Paraguay                   Tunisia
+   Czech Republic                 Jordan                 Philippines                  Turkey
+      Denmark                  Kazakhstan                  Poland             United Arab Emirates
+  Dominican Republic              Kenya                   Portugal              United Kingdom
+      Ecuador               Korea, Republic Of              Qatar                  Venezuela
+        Egypt                    Kuwait                   Reunion                     Yemen
+
+The device has not been withdrawn from marketing for any reason related to its safety or
+effectiveness.
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                  Page 7
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+      Below is a list of the potential adverse effects (e.g., complications) associated with the
+      use of the device. Adverse events (in alphabetical order) which may be associated with
+      coronary stent use in native coronary arteries include, but are not limited to:
+             •   Abrupt vessel closure
+             •   Access site pain, hematoma, or hemorrhage
+             •   Allergic reaction (to contrast, antiplatelet therapy, stent material, or drug and
+                 polymer coating)
+             •   Aneurysm, pseudoaneurysm, or arteriovenous fistula (AVF)
+             •   Arrhythmias, including ventricular fibrillation
+             •   Balloon rupture
+             •   Bleeding
+             •   Cardiac tamponade
+             •   Coronary artery occlusion, perforation, rupture, or dissection
+             •   Coronary artery spasm
+             •   Death
+             •   Embolism (air, tissue, device, or thrombus)
+             •   Emergency surgery: peripheral vascular or coronary bypass
+             •   Failure to deliver the stent
+             •   Hemorrhage requiring transfusion
+             •   Hypotension/hypertension
+             •   Incomplete stent apposition
+             •   Infection or fever
+             •   Myocardial Infarction (MI)
+             •   Pericarditis
+             •   Peripheral ischemia/peripheral nerve injury
+             •   Renal failure
+             •   Restenosis of the stented artery
+             •   Shock/pulmonary edema
+             •   Stable or unstable angina
+             •   Stent deformation, collapse, or fracture
+             •   Stent migration or embolization
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                 Page 8
+               •   Stent misplacement
+               •   Stroke/transient ischemic attack
+               •   Thrombosis (acute, subacute, or late)
+       Adverse events that have been associated with the intravenous injection of zotarolimus in
+       humans include but are not limited to:
+               •   Anemia
+               •   Diarrhea
+               •   Dry Skin
+               •   Headache
+               •   Hematuria
+               •   Infection
+               •   Injection site reaction
+               •   Pain (abdominal, arthralgia, injection site)
+               •   Rash
+Potential adverse events related to BioLinx polymer include but are not limited to:
+               •   Allergic reaction
+               •   Focal inflammation at the site of stent implantation
+               •   Restenosis of the stented artery
+
+       For the specific adverse events that occurred in the RESOLUTE ONYX Core (2.25 mm –
+       4.0 mm) Clinical Study, please see Section X below.
+
+IX.    SUMMARY OF NONCLINICAL STUDIES
+
+       A series of non-clinical laboratory studies related to the Resolute Onyx™ system were
+       performed. Studies included those performed on the bare metal stent (Onyx or Integrity
+       stent mounted on the respective delivery system), the coated stent alone, the polymer-
+       only coated stent alone, or the finished combination products. These evaluations included
+       animal studies, in vivo pharmacokinetics, biocompatibility studies, in vitro engineering
+       tests, coating characterization, chemistry, manufacturing, and controls (CMC) testing,
+       sterilization, stability and shelf life.
+       A. Laboratory Studies
+           A1. Biocompatibility
+           A biocompatibility evaluation was conducted to ensure the Resolute Onyx™
+           Zotarolimus-Eluting Coronary Stent System met the requirements of the international
+           standard ISO 10993-1 (Biological Evaluation of Medical Devices) and that its
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                              Page 9
+               associated materials, manufacturing processes, and sterilization resulted in a safe and
+               biocompatible product.
+               Biological evaluation of the Resolute Onyx™ product took into account the chemical
+               characteristics of the product materials and the nature and duration of their exposure
+               in the body. The tests described in this section were selected in accordance with the
+               guidance provided in ISO 10993-1 and were performed in compliance with Good
+               Laboratory Practices (GLP), which are contained in Medtronic’s biocompatibility
+               testing guidelines and satisfy the requirements of international guidelines for blood
+               contact/implant materials.
+               The Resolute Onyx™ coronary stent utilizes the identical stent drug/polymer coating
+               and coating application process as the commercially approved Resolute and Resolute
+               Integrity coronary stents (P110013); therefore the biocompatibility testing previously
+               performed on the drug/polymer component of the Resolute and Resolute Integrity
+               coronary stents is representative of the Resolute Onyx™ product. The principal
+               material difference between the Resolute Onyx™ coronary stent and the Resolute
+               Integrity coronary stent is the stent wire material. The Resolute Onyx™ coronary
+               stent is manufactured from a composite wire which has an outer shell and an inner
+               core. The outer shell of the stent, which is in contact with the vessel, is of the
+               identical cobalt alloy used for the predicate Resolute Integrity stent while the inner
+               core material is a Platinum – Iridium alloy. Accordingly, biocompatibility evaluation
+               for the Resolute Onyx™ product was performed with non-coated, bare-metal stents.
+               Table 3 outlines the biocompatibility testing performed to support the
+               biologicalsafety of the Resolute Onyx™ bare metal stent and the Resolute Onyx™
+               RX delivery system. Table 4 outlines the biocompatibility testing performed to
+               support the biological safety of the drug/polymer coating. Table 5 outlines the
+               biocompatibility testing performed to support the biological safety of the Resolute
+               Onyx OTW delivery system.
+
+Table 3: Summary of Resolute Onyx™ Biological Safety Evaluation of Onyx Bare™ Metal
+                           Stent and RX Delivery System
+
+  Test Name per ISO
+                                           Test Description              Test Article       Result
+       10993-01
+                          MHLW Cytotoxicity using the Colony Assay          S, DS            PASS
+Cytotoxicity
+                          ISO Direct Contact Cytotoxicity                   S, DS            PASS
+Sensitization             ISO Maximization Sensitization                    S, DS            PASS
+Intracutaneous Reactivity ISO Intracutaneous Reactivity                     S, DS            PASS
+                          MHLW Acute Systemic Toxicity                        S              PASS
+Systemic Toxicity (Acute) ISO Acute Systemic Toxicity                        DS              PASS
+                          USP Material Mediated Pyrogen                     S, DS            PASS
+Subacute/Subchronic       4 Week Systemic Toxicity                            S              PASS
+Toxicity                  13 Week Systemic Toxicity                           S              PASS
+                          In-vitro Bacterial Reverse Mutation                 S              PASS
+Genotoxicity              In-vitro Chromosomal Aberration                     S              PASS
+                          In-vivo Mouse Peripheral Blood Micronucleus         S              PASS
+                          ASTM In-vitro Hemolysis, Direct and Indirect      S, DS            PASS
+Haemocompatibility
+                          C3a & SC5b-9 Complement Activation                S, DS            PASS
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                    Page 10
+Table 3: Summary of Resolute Onyx™ Biological Safety Evaluation of Onyx Bare™ Metal
+                           Stent and RX Delivery System
+
+ Test Name per ISO
+                                          Test Description               Test Article       Result
+      10993-01
+                          In-vivo Thromboresistance                         S, DS           PASS
+S = Stent Testing DS = Delivery System Testing
+
+
+
+
+   Table 4: Summary of Previous Resolute Stent Testing (Supports Biological Safety of
+                                Drug/Polymer Coating)
+
+    Test Category per
+                                                      Test Description                  Results
+        10993-01
+
+                                 MHLW Cytotoxicity using the Colony Assay               PASS
+        Cytotoxicity
+                                 ISO Direct Contact Cytotoxicity                        PASS
+                                 ISO Maximization Sensitization                         PASS
+        Sensitization
+                                 Murine Local Lymph Node Assay                          PASS
+Intracutaneous Reactivity ISO Intracutaneous Reactivity                                 PASS
+                                 MHLW Acute Systemic Toxicity                           PASS
+    Systemic Toxicity
+                                 ISO Acute Systemic Toxicity                            PASS
+         (Acute)
+                                 USP Material Mediated Pyrogen                          PASS
+  Subacute/Subchronic            4wk & 13wk Systemic Toxicity following
+                                                                                        PASS
+       Toxicity                  Subcutaneous Implantation
+                                 In-vitro Bacterial Reverse Mutation                    PASS
+       Genotoxicity              In-vitro Chromosomal Aberration                        PASS
+                                 In-vivo Mouse Peripheral Blood Micronucleus            PASS
+        Implantation             12wk Muscle Implant                                    PASS
+                                 ASTM In-vitro Hemolysis, Direct and Indirect           PASS
+    Hemocompatibility            C3a & SC5b-9 Complement activation                     PASS
+                                 In-vivo Thromboresistance                              PASS
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                    Page 11
+  Table 5: Summary of Supportive Biological Safety Evaluation from Resolute Integrity
+                               OTW Delivery System
+
+  Test Category per                      Test Description                          Results
+    ISO 10993-01
+     Cytotoxicity         MHLW Cytotoxicity using the Colony Assay                    PASS
+                          MHLW Sensitization                                          PASS
+     Sensitization
+                          Murine Local Lymph Node Assay                               PASS
+    Intracutaneous        ISO Intracutaneous Reactivity
+                                                                                      PASS
+      Reactivity
+   Systemic Toxicity      ISO Acute Systemic Toxicity                                 PASS
+        (Acute)           USP Material Mediated Pyrogen                               PASS
+                          ASTM In-vitro Hemolysis, Indirect                           PASS
+  Haemocompatibility
+                          C3a & SC5b-9 Complement Activation                          PASS
+
+          A2. In-Vitro Testing
+          In vitro engineering testing has been completed in accordance with the following:
+               •   FDA Guidance: Non-Clinical Engineering Tests and Recommended Labeling
+                   for Intravascular Stents and Associated Delivery Systems, April 2010
+               •   Guidance for Industry and Staff: Non-Clinical Tests and Recommended
+                   Labeling for Intravascular Stents and Associated Delivery Systems, 13
+                   January 2005 and
+               •   FDA recommendation
+               •   21CFR §814.20(b)(6)(i),
+               •   21 CFR §820.30(f),
+               •   21 CFR§210/211
+          Testing was conducted on devices representative of Resolute Onyx™ (both RX and
+          OTW delivery systems), except in cases in which testing could be leveraged from
+          Resolute Integrity.
+          The in-vitro engineering studies, which support the performance of Resolute Onyx™,
+          are provided in Table 6. “Pass” denotes that the test results met product specifications
+          and/or the recommendations in the above-referenced guidance documents.
+
+              Table 6: In Vitro Testing Supporting the Performance of Resolute Onyx
+
+       Test                              Description of Test                           Results
+
+                                  Material Characterization
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                Page 12
+               Table 6: In Vitro Testing Supporting the Performance of Resolute Onyx
+
+        Test                              Description of Test                          Results
+                     This test verified that stents are produced from material
+       Material
+                     that conforms to the chemical composition requirements            PASS
+Composition (Stent)
+                     of ASTM F562 and B684.
+       Material
+                     This test verified that the delivery system materials were
+    Composition                                                                        PASS
+                     documented.
+ (Delivery System)
+                     This test evaluated whether galvanic coupling Resolute
+                     Onyx with 316L stainless steel may promote accelerated
+ Stent Corrosion – corrosion of either stent. The testing conducted with
+                                                                                       PASS
+      Galvanic       consideration of methods described in ASTM G71. Stents
+                     were tested after simulated use by tracking through a
+                     tracking fixture based on ASTM F2394-04.
+                     This test determined the relative susceptibility of the stent
+                     to localized corrosion. Testing was conducted with
+                     consideration of the methods described in ASTM F2129.
+ Stent Corrosion –
+                     Testing was conducted on as-manufactured stents as well           PASS
+   Pitting Crevice
+                     as post-fatigue stents. As-manufactured stents were tested
+                     after simulated use by tracking through a tracking fixture
+                     based on ASTM F2394-04.
+                     This test evaluated the risk of stent failure caused by
+  Stent Corrosion -
+                     fretting corrosion of the Resolute Onyx stent with                PASS
+       Fretting
+                     overlapped stents.
+                     This test confirmed that the materials for Resolute Onyx
+                     on the Delivery System that come in direct contact with
+                     the drug meet the acceptance criteria for USP
+  Physicochemical physicochemical testing for plastics. The test assessed the
+                                                                                       PASS
+ Testing of Plastics physical and chemical properties of the materials by
+                     evaluating an extraction of the plastic material. Samples
+                     were tested for non-volatile residue, residue on ignition,
+                     heavy metals, and buffering capacity per USP <661>.
+                          Stent Dimensional and Functional Testing
+                     This test quantified the cell perimeter within a stent. Cell
+   Cell Perimeter    perimeter gives an indication of maximum side branch              PASS
+                     opening possible.
+                     This test quantified the maximum inscribed circle
+                     diameter of the cells. Maximum inscribed circle diameter
+  Inscribed Circle                                                                     PASS
+                     is used to characterize the ease of side branch access with
+                     a guidewire or a secondary device.
+   Deployed Stent This test demonstrated that the stent length is consistent
+                                                                                       PASS
+        Length       with labeling when deployed at nominal pressure.
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                Page 13
+               Table 6: In Vitro Testing Supporting the Performance of Resolute Onyx
+
+        Test                              Description of Test                          Results
+                     This test measured the change in stent length from the
+Stent Foreshortening
+                     catheter-loaded condition to deployment at nominal
+     at Nominal                                                                        PASS
+                     pressure. Testing was conducted with consideration of the
+      Diameter
+                     methods described in ASTM F2081.
+                     This test determined the change in length as a function of
+Stent Foreshortening
+                     stent inner diameter. Testing was performed at maximum
+    at Maximum                                                                         PASS
+                     labeled diameter. Testing was conducted with
+      Diameter
+                     consideration of the methods described in ASTM F2081.
+                     The metal to artery ratio relates the amount of vessel wall
+   Metal to Artery
+                     that is supported by the stent to the amount that is not for      PASS
+        Ratio
+                     all stent diameters.
+                     This test verified that the stent crossing profiles of
+   Stent Crossing    Resolute Onyx is consistent with label claims. Testing was
+                                                                                       PASS
+        Profile      conducted with considerations of the methods described in
+                     ASTM F2081. All samples met product specifications.
+  Strut Thickness Strut thickness was quantified on the Resolute Onyx stent.           PASS
+                     This test determined if the stress and strain experienced by
+                     the stent when expanded from the undeployed diameter to
+   Stent Integrity                                                                     PASS
+                     the final maximum deployed diameter can result in
+                     fractures.
+                     This test evaluated the risk of stent failure caused cyclical
+ Accelerated Stent loading of Resolute Onyx stents deployed in an
+                                                                                       PASS
+     Durability      overlapped configuration on a 1.5cm radius bend after a
+                     simulated 10 year period.
+                     This test evaluated the force required to deform a stent
+  Stent Distortion after catching a post dilation balloon catheter while               PASS
+                     attempting to cross the stent.
+                     This test quantified the elastic recoil of the stent. Testing
+    Stent Recoil     was conducted with consideration of the methods                   PASS
+                     described in ASTM F2079.
+                     This test determined the stents resistance characteristics
+    Stent Radial
+                     when exposed to radial loading. Both the diameter and             PASS
+      Stiffness
+                     the loading force were captured for this evaluation.
+    Stent Radial     This test determined the change in stent diameter as a
+   Strength (Stent   function of circumferential pressure equivalent to                PASS
+ Crush Resistance) expected in-vivo loading.
+                     This test measured the force required to remove a stent
+   Stent Retention                                                                     PASS
+                     proximally and distally from a balloon.
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                Page 14
+               Table 6: In Vitro Testing Supporting the Performance of Resolute Onyx
+
+        Test                              Description of Test                          Results
+                    This test characterized the interaction of the stent during
+                    MR Imaging with respect to:
+                      -Force Displacement
+                      -Torque Displacement
+  MRI Safety and
+                      -RF Induced Heating
+Compatibility (MRI                                                                     PASS
+                      -Image Artifact Generation
+    Conditional)
+                    Where appropriate testing was conducted at 1.5 and/or 3.0
+                    Tesla on single and overlapped with consideration of the
+                    methods described in ASTM guidelines F2052, F2213,
+                    F2119, F2182 as appropriate.
+                    This test characterized the stent inner diameter as a
+    Compliance                                                                         PASS
+                    function of balloon inflation pressure.
+                    This test analyzed each stent design using finite element
+                    analysis model. The stress analysis identified critical
+FEA (Finite Element
+                    stress locations and magnitudes and the fatigue analysis           PASS
+      Analysis)
+                    plotted the calculated stresses on a combined Goodman
+                    and Gerber diagram.
+                    This test quantified the stent inner diameter, when
+      Stent ID                                                                         PASS
+                    deployed to Nominal pressures, along the stent length.
+                    This test quantified the maximum difference in stent ID
+   Stent ID Delta   along the length of the stent, when deployed at Nominal            PASS
+                    pressure.
+                    This test characterized the gap between the proximal
+Stent to Markerband
+                    marker band the proximal longest crown, as well as the
+ Gap (proximal and                                                                     PASS
+                    distal marker band and the distal longest crown of the
+        distal)
+                    stent.
+                    This test characterized the distance between the end of the
+ Balloon Overhang stent to the end of the balloon working length on both               PASS
+                    proximal and distal ends.
+                   Delivery System Dimensional and Functional Testing
+   Balloon Bond     This test demonstrated that each delivery system met the
+                                                                                       PASS
+       Tensile      design requirements for balloon bond tensile.
+                    This test demonstrated that each delivery system met the
+Balloon Bond Yield                                                                     PASS
+                    design requirements for balloon bond yield.
+  Exchange Joint This test demonstrated that the delivery system met the
+                                                                                       PASS
+       Tensile      design requirements for exchange join tensile.
+  Hypotube Bond This test demonstrated that the delivery system met the
+                                                                                       PASS
+       Tensile      design requirements for hypotube bond tensile.
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                Page 15
+               Table 6: In Vitro Testing Supporting the Performance of Resolute Onyx
+
+        Test                              Description of Test                          Results
+                      This test demonstrated that the delivery system met the
+ Stiffening Wire to
+                      design requirements for stiffening wire to hypotube              PASS
+ Hypotube Tensile
+                      tensile.
+  Luer to hypotube This test demonstrated that the delivery system meets the
+                                                                                       PASS
+       Tensile        design requirements for luer to hypotube tensile.
+ Catheter Effective
+                      This test measured the length of the catheter from the
+  Length (Catheter                                                                     PASS
+                      distal tip to the strain relief.
+Tip to Strain Relief)
+   Exchange Joint This test measured the distance from the balloon bond to
+                                                                                       PASS
+      Distance        the exchange joint for the delivery systems.
+    Distal Shaft to   This test measured the distance from the balloon bond to
+                                                                                       PASS
+  Marker Distance the distal end of the distal exit marker.
+                      This test demonstrated the repeatability of successful
+  Balloon Fatigue unconstrained balloon inflation to the rated burst pressure          PASS
+                      (RBP).
+                      This test demonstrated that the catheter can conform to a
+  Kink Resistance                                                                      PASS
+                      minimum radius without kinking.
+  Catheter Torque This test demonstrated the number of rotations the
+                                                                                       PASS
+       Strength       catheter can withstand prior to fracture
+ Balloon Deflation This test characterized the inflation time to RBP and the
+                                                                                       PASS
+ and Inflation Time time required for the product to deflate from RBP.
+Hydrophilic Coating
+                      This test evaluated the hydrophilic coating presence and
+Presence and Visual                                                                    PASS
+                      the condition of coating pre- and post- tracking.
+      Integrity
+Maximum Catheter
+Profile:
+   -Distal Tubing
+   OD
+   -Tip Seal OD
+   -Balloon Bond
+                      This test verified that the crossing profile of the delivery
+   OD                                                                                  PASS
+                      system is consistent with the labeling.
+   -Exchange Joint
+   OD
+   -Hypotube Bond
+   OD
+   -Proximal Shaft
+   OD
+  Stent Movement This test characterized the ability of the stent to resist
+       (Lesion        shifting/dislodgement while passing through a simulated          PASS
+    Crossability)     lesion.
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                Page 16
+               Table 6: In Vitro Testing Supporting the Performance of Resolute Onyx
+
+        Test                              Description of Test                          Results
+                     This test evaluated stent dislodgement by reverse motion
+                     when the stent is withdrawn into a guide catheter with a
+      Pull Back                                                                        PASS
+                     minimum guide catheter inner diameter in accordance
+                     with labeling.
+                     This test demonstrated that the delivery system (with
+                     mounted stent) does not experience loss of integrity of
+                     balloon, shaft, proximal adapter or proximal/distal seal at
+Rated Burst Pressure
+                     or below the pressure required to expand the stent to the         PASS
+        (RBP)
+                     Rated Burst Pressure (RBP). The results demonstrated
+                     with 95% confidence that at least 99.9% of devices would
+                     not rupture below the rated burst pressure.
+ Compatibility with
+                     This test demonstrated the ability of the delivery system to
+       existing
+                     be prepared and tracked through a tortuous path and
+ catheterization lab                                                                   PASS
+                     simulated vessel. Retraction forces of the delivery system
+   accessories and
+                     post deployment from the stent were also measured.
+      equipment
+                     This test assessed the ability to track a balloon dilation
+ Compatibility with
+                     catheter, while the stent delivery system is in position,
+       existing
+                     through a 6F guide, a tortuous path and deploy/inflate in a
+ catheterization lab                                                                   PASS
+                     vessel. Tracking and Retraction forces of the balloon
+   accessories and
+                     dilation catheter as it passes the stent delivery system pre-
+  equipment (KBT)
+                     and post- deployment were recorded.
+                            OTW specific Delivery System Testing
+Maximum Catheter
+        Profile      This test verified that the crossing profile of the delivery
+   - Proximal Shaft system for Resolute Onyx OTW is consistent with label              PASS
+  OD- Trans Bond claims.
+         OD
+   Transition Bond This test demonstrated that the delivery system meets the
+                                                                                       PASS
+        Tensile      design requirements for Transition Bond tensile.
+                     This test demonstrated that the delivery system meets the
+ Bifurcate/Proximal
+                     design requirements for Bifurcate/Proximal Shaft Bond             PASS
+Shaft Bond Tensile
+                     tensile.
+                     This test demonstrated that the delivery system meets the
+   Proximal/Distal
+                     design requirements for Proximal/Distal Inner Shaft               PASS
+ Inner Shaft Tensile
+                     tensile.
+
+           A3. Coating Characterization and Analytical Testing
+           The coating characterization testing conducted includes the tests summarized in
+           Table 7.
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                Page 17
+                     Table 7: Coating Characterization and Analytical Testing
+
+           Test                                      Description of Test
+                            This test characterizes the stent coating integrity after being
+Chronic Coating
+                            subjected to simulated 10 years of heated radial fatigue post tracking
+Durability
+                            and deployment in an overlapped configuration.
+                            This test quantified particulate matter after a single stent had been
+System Particulate          tracked through a tortuous fixture and deployed in a bent
+                            configuration.
+                            This test quantified particulate matter after 2 stents had been tracked
+System Particulate
+                            through a tortuous fixture and deployed in a bent and overlapped
+(Simulated Use)
+                            configuration (simulated use).
+SEM Surface Imaging
+(coated stent):
+                        This test visually assessed the coating integrity of a crimped stent
+    • Pre-Deploy
+                        and a single stent deployed to maximum labeled diameter in a mock
+    • Track & Deploy at vessel after tracking through a tortuous fixture (simulated use)
+       maximum labeled
+       diameter
+                        This test quantified particulate matter after deployment of a single
+                        stent in an aqueous solution in 2 configurations:
+Coating Durability
+                        -to nominal (baseline)
+                        -to maximum labeled diameter (over expansion)
+                        This test measured the uniformity of the drug content along the
+Drug Dose Density
+                        length of the finished Resolute Onyx stent un-tracked.
+
+           A4. Analytical (CMC) Release Testing
+           Where applicable, International Conference on Harmonization (ICH) Guidelines are
+           followed for the testing routinely performed on the Resolute Onyx stents as part of
+           CMC. This testing is summarized in Table 8. All testing met the specifications
+           established for finished goods release. Information to support the stability of the
+           Resolute Onyx stent is summarized separately in Section B6 – Stability.
+
+                            Table 8: Analytical Release (CMC) Testing
+
+           Test                                       Description of Test
+Determination of Total
+                           The objective of this test is to identify and quantify zotarolimus in
+Drug Content (Potency and
+                           the Resolute Onyx stent.
+Content Uniformity)
+Determination of Total
+                           The objective of this test is to quantify degradants or impurities on
+Drug Degradants and
+                           the finished Resolute stents.
+Impurities
+Determination of Butylated The objective of this test is to quantify the BHT content of the
+Hydroxytoluene (BHT)       finished Resolute stent
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                 Page 18
+                            Table 8: Analytical Release (CMC) Testing
+
+            Test                                       Description of Test
+Determination of Residual The objective of this test is to quantify the residual solvents, used in
+Solvents                  manufacturing of finished Resolute stents,
+                          The objective of this test is to characterize the in vitro elution profile
+Elution Testing
+                          of Resolute stents.
+                          The objective of this test is to use the light obscuration particle
+                          count method for the determination of particulate matter on
+Particulate Testing       Coronary Stent Systems that have been tracked, deployed and
+                          expanded to rated burst pressure (RBP), simulating clinical
+                          procedure.
+
+           A5. Sterilization
+           The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System (RX and OTW) is
+           sterilized using ethylene oxide sterilization, and has been validated per AAMI/ISO
+           11135-1:2007 “Sterilization of health care products-Ethylene Oxide – Part
+           1:Requirements for development, validation and routine control of a sterilization process
+           for medical devices” and EN556-1:2002 “Sterilization of Medical Devices –
+           Requirements for medical devices to be designated STERILE – Part 1: Requirements for
+           terminally sterilized medical devices”. Results obtained from the sterilization studies
+           show that the product satisfies a minimum Sterility Assurance Level (SAL) of 10-6.
+
+           A6. Stability and Shelf Life
+           Manufacturing site-specific aging and stability studies were conducted to establish an
+           expiration date for the Resolute Onyx™ product. Appropriate engineering tests were
+           performed on aged product to ensure that Resolute Onyx™ product performed
+           acceptably. Testing in support of package integrity of the stent systems was also
+           conducted on aged product. Stability testing included evaluation of drug identity, drug
+           content, degradants/impurities, related substances/BHT, elution, particulates, sterility,
+           BET, drug content uniformity and residual solvents. The data generated from the in vitro
+           shelf life studies, coupled with the data generated from the stability studies supports a
+           24-month label claim and associated shelf life for the product.
+
+       B. Animal Studies
+
+           B1. Preclinical Testing
+           Three GLP Preclinical studies were performed to support the deliverability, deployment,
+           and safety of the Resolute Onyx product in a porcine coronary artery model. All animal
+           testing was performed in compliance with the Good Laboratory Practice regulations., as
+           set forth in 21 CFR Part 58, These were multi-site studies and selected phases at the test
+           sites were monitored to ensure GLP compliance. Table 9 provides a summary of the
+           preclinical studies conducted for the Resolute Onyx™ product.
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                  Page 19
+                    Table 9: Summary of Resolute Onyx™ Preclinical Testing
+
+                                                  Test and
+                  No. of Type of                                                 Major
+  Study ID                       Duration         Control       Stent Size
+                 Animals Animals                                                Endpoints
+                                                   Article
+                                                    Test:
+                                                 Medtronic
+                                                  Resolute
+                                                 Onyx Drug        3.0 x 18         Acute
+                                                Eluting Stent   mm; single     Performance,
+   FS222
+                                                   System           stent      Angiographic
+5 Day Safety              Yucatan
+                                                  Control:       implants      Performance,
+ Study and         22       mini      5 Days
+                                                 Medtronic        3.0 x 12    Morphometric
+    Acute                  Swine
+                                                  Integrity         mm;          Analysis,
+Deliverability
+                                                 Bare Metal     overlapping   Histopathology,
+                                                Stent on the     implants     SEM Analysis
+                                                 MicroTrac
+                                                  RX Stent
+                                                   System
+                                                    Test:
+                                                 Medtronic
+                                                  Resolute
+                                                 Onyx Drug        3.0 x 18
+                                                Eluting Stent   mm; single     Angiographic
+                                                   System           stent      Performance,
+   FS223                  Yucatan
+                                                  Control:       implants     Morphometric
+  28 Day           24       mini      28 days
+                                                 Medtronic        3.0 x 12       Analysis,
+Safety Study               Swine
+                                                  Integrity         mm;       Histopathology,
+                                                 Bare Metal     overlapping   SEM Analysis
+                                                Stent on the     implants
+                                                 MicroTrac
+                                                  RX Stent
+                                                   System
+                                                    Test:        3.0 x 18      Angiographic
+                                                 Medtronic      mm; single     Performance,
+   FS224                  Yucatan
+                                                  Resolute         stent      Morphometric
+  90 Day           23       mini     90 Days
+                                                 Onyx Drug       implants        Analysis,
+Safety Study               Swine
+                                                Eluting Stent    3.0 x 12     Histopathology,
+                                                   System          mm;        SEM Analysis
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                           Page 20
+                  Table 9: Summary of Resolute Onyx™ Preclinical Testing
+
+                                                   Test and
+               No. of Type of                                                       Major
+ Study ID                     Duration             Control        Stent Size
+              Animals Animals                                                      Endpoints
+                                                    Article
+                                                   Control:      overlapping
+                                                  Medtronic       implants
+                                                  Integrity
+                                                 Bare Metal
+                                                 Stent on the
+                                                 MicroTrac
+                                                  RX Stent
+                                                   System
+
+         B2. In Vivo Pharmacokinetics
+         No new in vivo pharmacokinetic studies were performed on the Resolute Onyx™
+         product as the in-vivo Pharmacokinetics data (provided in support of the commercial
+         Resolute Integrity product) are directly applicable to the Resolute Onyx™ product.
+         Pharmacokinetic data on the Resolute Integrity product can be found in the Resolute
+         Integrity (P110013) SSED.
+
+X.    SUMMARY OF PRIMARY CLINICAL STUDIES
+
+      The applicant performed a clinical study in the United States to establish a reasonable
+      assurance of safety and effectiveness of percutaneous coronary intervention with the
+      Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System for improving coronary
+      luminal diameters in patients, including those with diabetes mellitus, with symptomatic
+      ischemic heart disease due to de novo lesions of length ≤ 35 mm in native coronary
+      arteries with reference vessel diameters of 2.25 mm to 5.0 mm under IDE G140178. Data
+      from this clinical study, in conjunction with data generated in the Global RESOLUTE
+      Clinical Trial Program were the basis for the PMA approval decision. A summary of the
+      clinical study is presented below.
+
+      A. Study Design
+
+         Patients were treated between July 7, 2015 and November 4, 2015. The database for
+         this PMA reflected data collected through August 19, 2016 and included 75 patients.
+         There were eleven enrolling investigational sites.
+
+         The Medtronic RESOLUTE ONYX Core (2.25 mm – 4.0 mm) Clinical Study was a
+         single arm, open label, multi-center trial enrolling at least 75 subjects with ischemic
+         heart disease attributable to stenotic lesions of the native coronary arteries that are
+         amenable to percutaneous treatment with stenting. Subjects were to receive treatment
+         of one or two lesions with stent diameters 2.25 mm - 4.0 mm, one lesion per target
+         vessel, for a maximum of two target vessels. Only one lesion was to be treated in a
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                              Page 21
+         single target vessel. All treatment with the study stents was to be performed during a
+         single index procedure.
+
+         If a subject became unstable before a study stent was attempted (stent introduced into
+         guide catheter), the subject was not to be enrolled, or followed, and would not be
+         included in the primary analysis of this trial. Another subject was to be enrolled to
+         replace this subject for the primary analysis. If treatment with the Resolute Onyx stent
+         was attempted (stent introduced into guide catheter) but not implanted, the subject
+         would be considered part of the Intention-to-Treat population (ITT), followed through
+         the 8 month endpoint, and included in the primary analysis of this trial. After the 8
+         month follow up, these subjects would exit the study.
+
+         1. Clinical Inclusion and Exclusion Criteria
+             Enrollment in the RESOLUTE ONYX Core (2.25 mm – 4.0 mm) Clinical Study
+             study was limited to patients who met the following Key Inclusion Criteria:
+                    •       Must be an acceptable candidate for percutaneous coronary
+                            intervention (PCI), stenting, and emergent coronary artery bypass
+                            graft (CABG) surgery
+                    •       Must have clinical evidence of ischemic heart disease, stable or
+                            unstable angina, and/or a positive functional study
+                    •       Must require treatment of either
+                            o a single target lesion amenable to treatment OR
+                            o two target lesions located in separate target vessels
+                    •       Target lesion(s) must be de novo lesion(s) in native coronary
+                            artery(ies)
+             Patients were not permitted to enroll in the RESOLUTE ONYX Core (2.25 mm –
+             4.0 mm) Clinical Study if they met any of the following Key Exclusion Criteria:
+                    •       Known hypersensitivity or contraindication to aspirin, heparin and
+                            bivalirudin, thienopyridines, cobalt, nickel, platinum, iridium,
+                            chromium, molybdenum, polymer coatings (e.g. BioLinx) or a
+                            sensitivity to contrast media, which cannot be adequately pre-
+                            medicated
+                    •       History of an allergic reaction or significant sensitivity to drugs
+                            such as zotarolimus, rapamycin, tacrolimus, everolimus, or any
+                            other analogue or derivative
+                    •       History of a stroke or transient ischemic attack (TIA) within the
+                            prior 6 months
+                    •       Active peptic ulcer or upper gastrointestinal (GI) bleeding within
+                            the prior 6 months
+                    •       History of bleeding diathesis or coagulopathy or will refuse blood
+                            transfusions
+                    •       Concurrent medical condition with a life expectancy of less than
+                            12 months
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                              Page 22
+                    •      Currently participating in an investigational drug or another device
+                           trial that has not completed the primary endpoint
+                    •      Documented left ventricular ejection fraction (LVEF) < 30% at the
+                           most recent evaluation
+         2. Follow-up Schedule
+            All patients were scheduled for follow up contacts at 30 days (± 5 days), 6
+            months (± 14 days), and then annually (1, 2, and 3 years ± 30 days)
+            postoperatively. All patients were to return for angiographic assessment at 8
+            months (± 14 days) including IVUS assessment if participating in the IVUS
+            subset. The key timepoints are shown in Table 10.
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                             Page 23
+                    Table 10: Schedule of Treatments and Assessments
+
+               Index Hospitalization                         Follow-up Assessments
+               Screening/Pre-                         30 Day,   8    12          24, 36
+                 procedure                            6 Month Month Month        Months
+                      Prior to
+                                        Post-
+   Event             procedure Proced.
+                                       proced.1       Subject Clinic Subject    Subject
+              Screen  within:
+                                                      Contact2 Visit Contact2   Contact2
+                     7    72
+                    days hours
+Informed
+Consent         X
+signed
+
+Medical and
+cardiac         X
+history
+
+Angina          X                          X             X      X       X            X
+Pregnancy            X
+   3
+Creatinine           X
+
+
+WBC6 with
+                     X
+Plts
+
+
+12 lead                                   X
+                     X                 Within 24
+ECG6
+                                        hours
+                                            X
+                                       1st: >3hrs
+CK4,6 and
+                           X           2nd: >4 hrs
+Troponin
+                                       after 1st, <
+                                         24 hrs
+QCA6                              X                             X
+       5,6
+IVUS                              X                             X
+
+AE6                                                                                X
+                                  X        X             X      X       X
+monitoring                                                                      SAEs6 only
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                         Page 24
+               X
+Antiplatelet Within
+                                                            X             X           X           X               X
+medications   24
+             hours
+
+  1. End of procedure is defined as removal of the guide catheter
+  2. Subject contact includes phone call, email or clinic visit
+  3. For women of childbearing potential only
+  4. If it is not standard hospital practice to measure CK values, CK-MB values are sufficient. All subjects should have
+     Troponin values.
+  5. IVUS subset only
+  6. Definitions: WBC (White Blood Cell), ECG (Electrocardiogram), CK (Creatine Kinase), QCA (Quantitative Coronary
+     Angiography), IVUS (Intravascular Ultrasound), AE (Adverse Event), SAE (Serious Adverse Event).
+             3. Clinical Endpoints
+
+                  Primary Endpoint(s)
+                  In-stent late lumen loss (LL) at 8-months post-procedure as measured by
+                  quantitative coronary angiography (QCA).
+                  Key Secondary Endpoint(s)
+                  Secondary endpoints of the trial include the following:
+                  Clinical Endpoints:
+                           •         Acute Success (Device, Lesion, Procedure)
+                           •         The following secondary endpoints will be assessed at hospital
+                                     discharge, 30 days, 6 months, 8 months and 12 months post-
+                                     procedure, and annually thereafter through year 3:
+                                             Cardiac Death
+                                                  Target Vessel Myocardial Infarction (TVMI)
+                                                  Cardiac Death and TVMI
+                                                  Target Lesion Revascularization (TLR)
+                                                  Major Adverse Cardiac Event (MACE)
+                                                        •    Defined as death, myocardial infarction (Q
+                                                             wave and non-Q wave), emergent coronary
+                                                             bypass surgery, or clinically-driven repeat target
+                                                             lesion revascularization by percutaneous or
+                                                             surgical methods
+                                                  Target Lesion Failure (TLF)
+                                                  Target Vessel Failure (TVF)
+                                                  Stent Thrombosis (ST)
+                  Angiographic Endpoints at 8 Months:
+                           •         In-segment Late Lumen Loss (LL)
+                           •         Binary Angiographic Restenosis (BAR)
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                      Page 25
+                       •       Percent Diameter Stenosis (%DS)
+
+               Intravascular Ultrasound (IVUS) Endpoints at 8 Months:
+                    •      Incomplete stent apposition, categorized as persistent or late
+Neointimal hyperplastic volume and percent volume obstruction (%VO)
+
+       B. Accountability of PMA Cohort
+
+           At the time of the database lock for this study, 74 subjects were eligible for the eight (8)
+           month post-procedure quantitative coronary angiography (QCA) assessment. Figure 3
+           provides an overview of the subject accountability for this study through the 8-month
+           Follow-Up visit.
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                     Page 26
+                                           75 Resolute Onyx patients
+      0 subjects withdrew prior to                                          0 subjects died prior to 30-day
+             30-day contact                                                             contact
+
+
+                                                                            5 subjects had 30-day contact
+        0 subjects had no 30-day           75 subjects eligible for 30
+                                                 days contact              outside of window (30±5 days)
+                 contact
+
+
+                                                                           70 subjects had 30-day contact
+                                                                           in window (30±5 days)
+
+
+      0 subjects withdrew prior to 6                                       0 subjects died prior to 6 months
+             months contact                                                             contact
+
+
+
+       0 subjects had no 6 month            75 subjects eligible for 6      1 subject had 6 month contact
+                contact                          month contact                   outside of window
+                                                                                   (6 m±14 days)
+
+
+                                                                              74 subjects had 6 months
+                                                                                 contact in window
+                                                                                   (6m±14 days)
+
+
+
+
+                                       Continue to next page for 8 month
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                        Page 27
+                                   75 Resolute Onyx subjects
+
+
+    0 subjects withdrew prior                                     1 subject died prior to 8 month
+       to 8 month contact                                                     contact
+
+
+
+    0 subjects had no 8 month       74 subjects eligible for 8
+                                         month contact            3 subjects had 8 month contact
+             contact
+                                                                        outside of window
+                                                                          (240±14 days)
+
+
+
+                                     71 subjects had 8 month
+                                        contact in window
+                                          (240±14 days)
+
+
+
+ Figure 3: RESOLUTE ONYX Core (2.25 mm -4.0 mm) Clinical Study Subject Accountability out to
+                               240 Days Post-Procedure
+
+
+       C. Study Population Demographics and Baseline Parameters
+
+           The demographics of the study population are typical for a PCI study performed in
+           the US.
+
+           The mean age was 66 years with 73.3% (55/75) of subjects being males. Of the
+           subjects enrolled, 32.0% (24/75) had diabetes mellitus, 16.0% (12/75) were current
+           smokers, 23.0% (17/74) had prior MI, 40.0% (30/75) had prior PCI, 73.3% (55/75)
+           had hypertension, and 85.3% (64/75) reported hyperlipidemia. Baseline lesion
+           characteristics include 49.3% (37/75) of subjects with LAD lesions, a mean lesion
+           length of 14.28 ± 6.68 mm, and 85.9% (73/85) ACC/AHA type B2/C lesions. The
+           mean RVD was 2.57 ± 0.48mm and the percentage diameter stenosis was 62.98 ±
+           10.75%.
+
+       D. Safety and Effectiveness Results
+
+           1. Safety Results
+              The analysis of safety was based on the Primary cohort of 75 subjects available
+              for the 8-month evaluation. There were no Unanticipated Adverse Device Effects
+              (UADE), nor any device failures or malfunctions reported through 8 months.
+              Adverse effects are reported in Table 11 to Table 14.
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                 Page 28
+             Adverse effects that occurred in the PMA clinical study:
+
+                    Table 11: All Site Reported Adverse Events by Type
+                                                                        RESOLUTE ONYX
+                                                                             Core
+                                                                         (N=75 Subjects)
+Events                                                                      %(m/n)1
+Any Adverse Event                                                         88.0% (66/75)
+BLOOD AND LYMPHATIC SYSTEM DISORDERS                                       4.0% (3/75)
+ ANAEMIA                                                                   4.0% (3/75)
+ COAGULOPATHY                                                              1.3% (1/75)
+ THROMBOCYTOPENIA                                                          2.7% (2/75)
+CARDIAC DISORDERS                                                         34.7% (26/75)
+ ACUTE MYOCARDIAL INFARCTION                                               4.0% (3/75)
+ ANGINA PECTORIS                                                           9.3% (7/75)
+ ANGINA UNSTABLE                                                           1.3% (1/75)
+ ARRHYTHMIA                                                                2.7% (2/75)
+ ATRIAL FIBRILLATION                                                       5.3% (4/75)
+ ATRIAL FLUTTER                                                            1.3% (1/75)
+ BRADYCARDIA                                                               1.3% (1/75)
+ CARDIAC FAILURE CONGESTIVE                                                1.3% (1/75)
+ CARDIAC FLUTTER                                                           1.3% (1/75)
+ CORONARY ARTERY DISEASE                                                   5.3% (4/75)
+ CORONARY ARTERY DISSECTION                                                2.7% (2/75)
+ CORONARY ARTERY PERFORATION                                               1.3% (1/75)
+ CORONARY ARTERY STENOSIS                                                  1.3% (1/75)
+ CORONARY ARTERY THROMBOSIS                                                1.3% (1/75)
+ IN-STENT CORONARY ARTERY RESTENOSIS                                       2.7% (2/75)
+ MYOCARDIAL INFARCTION                                                     2.7% (2/75)
+ MYOCARDIAL ISCHAEMIA                                                      1.3% (1/75)
+ PALPITATIONS                                                              1.3% (1/75)
+ SINUS BRADYCARDIA                                                         1.3% (1/75)
+ SUPRAVENTRICULAR EXTRASYSTOLES                                            1.3% (1/75)
+ SUPRAVENTRICULAR TACHYCARDIA                                              2.7% (2/75)
+CONGENITAL, FAMILIAL AND GENETIC DISORDERS                                 1.3% (1/75)
+ HYDROCELE                                                                 1.3% (1/75)
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                         Page 29
+                  Table 11: All Site Reported Adverse Events by Type
+                                                                  RESOLUTE ONYX
+                                                                       Core
+                                                                   (N=75 Subjects)
+Events                                                                %(m/n)1
+EAR AND LABYRINTH DISORDERS                                             1.3% (1/75)
+ DEAFNESS                                                               1.3% (1/75)
+ENDOCRINE DISORDERS                                                     1.3% (1/75)
+ THYROID DISORDER                                                       1.3% (1/75)
+GASTROINTESTINAL DISORDERS                                             22.7% (17/75)
+ ABDOMINAL DISTENSION                                                   1.3% (1/75)
+ ABDOMINAL PAIN                                                         2.7% (2/75)
+ ABDOMINAL PAIN UPPER                                                   2.7% (2/75)
+ CONSTIPATION                                                           2.7% (2/75)
+ DIARRHOEA                                                              4.0% (3/75)
+ DYSPEPSIA                                                              1.3% (1/75)
+ EPIGASTRIC DISCOMFORT                                                  1.3% (1/75)
+ GASTRITIS                                                              1.3% (1/75)
+ GASTROOESOPHAGEAL REFLUX DISEASE                                       1.3% (1/75)
+ INGUINAL HERNIA                                                        1.3% (1/75)
+ NAUSEA                                                                 6.7% (5/75)
+ PARAESTHESIA ORAL                                                      1.3% (1/75)
+ RECTAL HAEMORRHAGE                                                     1.3% (1/75)
+ VOMITING                                                               2.7% (2/75)
+GENERAL DISORDERS AND ADMINISTRATION SITE                              34.7% (26/75)
+CONDITIONS
+ CHEST DISCOMFORT                                                       2.7% (2/75)
+ CHEST PAIN                                                            21.3% (16/75)
+ FATIGUE                                                                5.3% (4/75)
+ NON-CARDIAC CHEST PAIN                                                 1.3% (1/75)
+ OEDEMA PERIPHERAL                                                      2.7% (2/75)
+ PAIN                                                                   1.3% (1/75)
+ PUNCTURE SITE HAEMORRHAGE                                              1.3% (1/75)
+ PUNCTURE SITE REACTION                                                 2.7% (2/75)
+ VESSEL PUNCTURE SITE PAIN                                              1.3% (1/75)
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                      Page 30
+                  Table 11: All Site Reported Adverse Events by Type
+                                                                  RESOLUTE ONYX
+                                                                       Core
+                                                                   (N=75 Subjects)
+Events                                                                %(m/n)1
+HEPATOBILIARY DISORDERS                                                 2.7% (2/75)
+ BILE DUCT STONE                                                        1.3% (1/75)
+ CHOLECYSTITIS                                                          1.3% (1/75)
+INFECTIONS AND INFESTATIONS                                            24.0% (18/75)
+ BRONCHITIS                                                             2.7% (2/75)
+ CELLULITIS                                                             4.0% (3/75)
+ FOLLICULITIS                                                           2.7% (2/75)
+ HERPES ZOSTER                                                          1.3% (1/75)
+ INFLUENZA                                                              1.3% (1/75)
+ PNEUMONIA                                                              2.7% (2/75)
+ SEPSIS                                                                 1.3% (1/75)
+ SINUSITIS                                                              1.3% (1/75)
+ UPPER RESPIRATORY TRACT INFECTION                                      6.7% (5/75)
+ URINARY TRACT INFECTION                                                1.3% (1/75)
+ VIRAL INFECTION                                                        1.3% (1/75)
+INJURY, POISONING AND PROCEDURAL COMPLICATIONS                         16.0% (12/75)
+  BACK INJURY                                                           1.3% (1/75)
+ CONTUSION                                                              4.0% (3/75)
+ FALL                                                                   2.7% (2/75)
+ HEAD INJURY                                                            1.3% (1/75)
+ IN-STENT ARTERIAL RESTENOSIS                                           4.0% (3/75)
+ LACERATION                                                             1.3% (1/75)
+ POST PROCEDURAL HAEMATOMA                                              1.3% (1/75)
+INVESTIGATIONS                                                         20.0% (15/75)
+  BLOOD CHOLESTEROL INCREASED                                           1.3% (1/75)
+ BLOOD POTASSIUM INCREASED                                              1.3% (1/75)
+ CARDIAC ENZYMES INCREASED                                             10.7% (8/75)
+ LIVER FUNCTION TEST ABNORMAL                                           1.3% (1/75)
+ OCCULT BLOOD POSITIVE                                                  1.3% (1/75)
+ TRANSAMINASES INCREASED                                                1.3% (1/75)
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                      Page 31
+                  Table 11: All Site Reported Adverse Events by Type
+                                                                  RESOLUTE ONYX
+                                                                       Core
+                                                                   (N=75 Subjects)
+Events                                                                %(m/n)1
+ TROPONIN I INCREASED                                                   1.3% (1/75)
+ TROPONIN INCREASED                                                     1.3% (1/75)
+MUSCULOSKELETAL AND CONNECTIVE TISSUE                                  22.7% (17/75)
+DISORDERS
+ BACK PAIN                                                             10.7% (8/75)
+ EXOSTOSIS                                                              1.3% (1/75)
+ GROIN PAIN                                                             2.7% (2/75)
+ LIMB DISCOMFORT                                                        1.3% (1/75)
+ MUSCULOSKELETAL CHEST PAIN                                             1.3% (1/75)
+ MYALGIA                                                                4.0% (3/75)
+ NECK PAIN                                                              2.7% (2/75)
+ OSTEOARTHRITIS                                                         1.3% (1/75)
+ PAIN IN EXTREMITY                                                      2.7% (2/75)
+ PAIN IN JAW                                                            1.3% (1/75)
+NEOPLASMS BENIGN, MALIGNANT AND UNSPECIFIED                             4.0% (3/75)
+(INCL CYSTS AND POLYPS)
+  BENIGN NEOPLASM OF THYROID GLAND                                      1.3% (1/75)
+ HEPATIC CANCER METASTATIC                                              1.3% (1/75)
+ LUNG NEOPLASM MALIGNANT                                                1.3% (1/75)
+ SKIN PAPILLOMA                                                         1.3% (1/75)
+NERVOUS SYSTEM DISORDERS                                               13.3% (10/75)
+ DIABETIC NEUROPATHY                                                    1.3% (1/75)
+ DIZZINESS                                                              6.7% (5/75)
+ HEADACHE                                                               2.7% (2/75)
+ HYPOAESTHESIA                                                          1.3% (1/75)
+ SCIATICA                                                               1.3% (1/75)
+ SYNCOPE                                                                1.3% (1/75)
+PSYCHIATRIC DISORDERS                                                   1.3% (1/75)
+ PANIC ATTACK                                                           1.3% (1/75)
+RENAL AND URINARY DISORDERS                                             4.0% (3/75)
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                      Page 32
+                  Table 11: All Site Reported Adverse Events by Type
+                                                                  RESOLUTE ONYX
+                                                                       Core
+                                                                   (N=75 Subjects)
+Events                                                                %(m/n)1
+ HAEMATURIA                                                             1.3% (1/75)
+ URINARY RETENTION                                                      2.7% (2/75)
+REPRODUCTIVE SYSTEM AND BREAST DISORDERS                                5.3% (4/75)
+ BENIGN PROSTATIC HYPERPLASIA                                           1.3% (1/75)
+ BREAST MASS                                                            1.3% (1/75)
+ BREAST PAIN                                                            1.3% (1/75)
+ PROSTATIC CALCIFICATION                                                1.3% (1/75)
+ PROSTATITIS                                                            1.3% (1/75)
+ VAGINAL HAEMORRHAGE                                                    1.3% (1/75)
+RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS                        26.7% (20/75)
+ CHRONIC OBSTRUCTIVE PULMONARY DISEASE                                  2.7% (2/75)
+ COUGH                                                                  2.7% (2/75)
+ DYSPNOEA                                                              20.0% (15/75)
+ DYSPNOEA EXERTIONAL                                                    2.7% (2/75)
+ EPISTAXIS                                                              1.3% (1/75)
+ HAEMOPTYSIS                                                            2.7% (2/75)
+ PHARYNGOLARYNGEAL PAIN                                                 1.3% (1/75)
+ RESPIRATORY FAILURE                                                    1.3% (1/75)
+ SLEEP APNOEA SYNDROME                                                  1.3% (1/75)
+SKIN AND SUBCUTANEOUS TISSUE DISORDERS                                  2.7% (2/75)
+ DERMAL CYST                                                            1.3% (1/75)
+ RASH                                                                   1.3% (1/75)
+ SKIN IRRITATION                                                        1.3% (1/75)
+SURGICAL AND MEDICAL PROCEDURES                                         1.3% (1/75)
+ THERAPEUTIC EMBOLISATION                                               1.3% (1/75)
+VASCULAR DISORDERS                                                     25.3% (19/75)
+ HAEMATOMA                                                              1.3% (1/75)
+ HYPERTENSION                                                           9.3% (7/75)
+ HYPOTENSION                                                            6.7% (5/75)
+ ILIAC ARTERY STENOSIS                                                  1.3% (1/75)
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                      Page 33
+                           Table 11: All Site Reported Adverse Events by Type
+                                                                                                    RESOLUTE ONYX
+                                                                                                         Core
+                                                                                                     (N=75 Subjects)
+Events                                                                                                  %(m/n)1
+    INTERMITTENT CLAUDICATION                                                                              1.3% (1/75)
+    ORTHOSTATIC HYPOTENSION                                                                                1.3% (1/75)
+    PERIPHERAL ARTERIAL OCCLUSIVE DISEASE                                                                  2.7% (2/75)
+    PERIPHERAL VASCULAR DISORDER                                                                           1.3% (1/75)
+    RAYNAUD'S PHENOMENON                                                                                   1.3% (1/75)
+    SHOCK HAEMORRHAGIC                                                                                     1.3% (1/75)
+1
+ Numerator (m) is the number of subjects with the specific classification, denominator (n) is the number of subjects in the study
+group with known values, and percentage (%) was calculated as 100 × (m/n)
+
+
+
+
+                      Table 12: All Site Reported Serious Adverse Events by Type
+                                                                                            RESOLUTE ONYX Core
+                                                                                               (N=75 Subjects)
+Events                                                                                            %(m/n)1
+Any Serious Adverse Events                                                                           36.0% (27/75)
+BLOOD AND LYMPHATIC SYSTEM DISORDERS                                                                  2.7% (2/75)
+ ANAEMIA                                                                                              2.7% (2/75)
+    COAGULOPATHY                                                                                      1.3% (1/75)
+    THROMBOCYTOPENIA                                                                                  1.3% (1/75)
+CARDIAC DISORDERS                                                                                    20.0% (15/75)
+ ACUTE MYOCARDIAL INFARCTION                                                                          4.0% (3/75)
+    ANGINA PECTORIS                                                                                   2.7% (2/75)
+    ANGINA UNSTABLE                                                                                   1.3% (1/75)
+    ATRIAL FLUTTER                                                                                    1.3% (1/75)
+    BRADYCARDIA                                                                                       1.3% (1/75)
+    CARDIAC FAILURE CONGESTIVE                                                                        1.3% (1/75)
+    CORONARY ARTERY DISEASE                                                                           5.3% (4/75)
+    CORONARY ARTERY PERFORATION                                                                       1.3% (1/75)
+    CORONARY ARTERY STENOSIS                                                                          1.3% (1/75)
+    CORONARY ARTERY THROMBOSIS                                                                        1.3% (1/75)
+    IN-STENT CORONARY ARTERY RESTENOSIS                                                               2.7% (2/75)
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                            Page 34
+              Table 12: All Site Reported Serious Adverse Events by Type
+                                                             RESOLUTE ONYX Core
+                                                                (N=75 Subjects)
+Events                                                             %(m/n)1
+ MYOCARDIAL INFARCTION                                              1.3% (1/75)
+ SUPRAVENTRICULAR EXTRASYSTOLES                                     1.3% (1/75)
+ SUPRAVENTRICULAR TACHYCARDIA                                       2.7% (2/75)
+ENDOCRINE DISORDERS                                                 1.3% (1/75)
+ THYROID DISORDER                                                   1.3% (1/75)
+GASTROINTESTINAL DISORDERS                                          2.7% (2/75)
+ INGUINAL HERNIA                                                    1.3% (1/75)
+ RECTAL HAEMORRHAGE                                                 1.3% (1/75)
+GENERAL DISORDERS AND ADMINISTRATION SITE                           9.3% (7/75)
+CONDITIONS
+ CHEST PAIN                                                         8.0% (6/75)
+ PUNCTURE SITE HAEMORRHAGE                                          1.3% (1/75)
+HEPATOBILIARY DISORDERS                                             1.3% (1/75)
+ BILE DUCT STONE                                                    1.3% (1/75)
+INFECTIONS AND INFESTATIONS                                         2.7% (2/75)
+  CELLULITIS                                                        1.3% (1/75)
+ PNEUMONIA                                                          1.3% (1/75)
+INJURY, POISONING AND PROCEDURAL                                    5.3% (4/75)
+COMPLICATIONS
+ FALL                                                               1.3% (1/75)
+ IN-STENT ARTERIAL RESTENOSIS                                       4.0% (3/75)
+INVESTIGATIONS                                                      2.7% (2/75)
+  CARDIAC ENZYMES INCREASED                                         1.3% (1/75)
+ LIVER FUNCTION TEST ABNORMAL                                       1.3% (1/75)
+MUSCULOSKELETAL AND CONNECTIVE TISSUE                               2.7% (2/75)
+DISORDERS
+ BACK PAIN                                                          1.3% (1/75)
+ OSTEOARTHRITIS                                                     1.3% (1/75)
+NEOPLASMS BENIGN, MALIGNANT AND UNSPECIFIED                         2.7% (2/75)
+(INCL CYSTS AND POLYPS)
+  BENIGN NEOPLASM OF THYROID GLAND                                  1.3% (1/75)
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                     Page 35
+                      Table 12: All Site Reported Serious Adverse Events by Type
+                                                                                            RESOLUTE ONYX Core
+                                                                                               (N=75 Subjects)
+Events                                                                                            %(m/n)1
+    HEPATIC CANCER METASTATIC                                                                         1.3% (1/75)
+    LUNG NEOPLASM MALIGNANT                                                                           1.3% (1/75)
+RESPIRATORY, THORACIC AND MEDIASTINAL                                                                 1.3% (1/75)
+DISORDERS
+    CHRONIC OBSTRUCTIVE PULMONARY DISEASE                                                             1.3% (1/75)
+    DYSPNOEA                                                                                          1.3% (1/75)
+    HAEMOPTYSIS                                                                                       1.3% (1/75)
+    RESPIRATORY FAILURE                                                                               1.3% (1/75)
+SURGICAL AND MEDICAL PROCEDURES                                                                       1.3% (1/75)
+    THERAPEUTIC EMBOLISATION                                                                          1.3% (1/75)
+VASCULAR DISORDERS                                                                                    6.7% (5/75)
+    HYPOTENSION                                                                                       1.3% (1/75)
+    ORTHOSTATIC HYPOTENSION                                                                           1.3% (1/75)
+    PERIPHERAL ARTERIAL OCCLUSIVE DISEASE                                                             2.7% (2/75)
+    SHOCK HAEMORRHAGIC                                                                                1.3% (1/75)
+1
+ Numerator (m) is the number of subjects with the specific classification, denominator (n) is the number of subjects in the study
+group with known values, and percentage (%) was calculated as 100 × (m/n)
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                            Page 36
+                                Table 13: Stent Thrombosis (ARC Definition)
+                                                                                            RESOLUTE ONYX Core
+                                                                                               (N=75 Subjects)
+Stent Thrombosis to 240 days                                                                      %(m/n)1
+Stent Thrombosis Related to Non Target Lesions to 240 Days                                             0.0% (0/75)
+    Early (0 to 30 Days)                                                                               0.0% (0/75)
+    Late (31 to 240 Days)                                                                              0.0% (0/75)
+Overall Stent Thrombosis to 240 Days
+    Definite ST                                                                                        1.3% (1/75)
+    Probable ST                                                                                        0.0% (0/75)
+    Definite + Probable ST                                                                             1.3% (1/75)
+Early (0 to 30 Days)
+    Definite ST                                                                                        1.3% (1/75)
+    Probable ST                                                                                        0.0% (0/75)
+    Definite + Probable ST                                                                             1.3% (1/75)
+Late (31 to 240 Days)
+    Definite ST                                                                                        0.0% (0/75)
+    Probable ST                                                                                        0.0% (0/75)
+1
+ ARC (Academic Research Consortium) – consensus definition for implementation in DES clinical trials created by academic,
+FDA and industry representatives.
+    Definite + Probable ST                                                                             0.0% (0/75)
+1
+ Numerator (m) is the number of subjects with the specific classification, denominator (n) is the number of subjects in the study
+group with known values, and percentage (%) was calculated as 100 × (m/n)
+
+
+               2. Efficacy Results
+                  The analysis of efficacy was based on the 75 evaluable patients at the 8-month
+                  time point. The primary endpoint of in-stent Late Lumen Loss (LL) at 8-months
+                  post-procedure as measured by quantitative coronary angiography (QCA)
+                  demonstrated non-inferiority (p < 0.001) and subsequent superiority (p = 0.029),
+                  when compared to the historical control in-stent late loss value from the
+                  RESOLUTE US Angio/IVUS Sub-study for the ITT population. Key outcomes
+                  for this study are presented below in Table 15 to Table 17.
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                             Page 37
+       Table 14: RESOLUTE ONYX Core (2.25 mm – 4.0 mm) Clinical Study – Primary
+                                Endpoint Analysis
+Primary              Historical
+Endpoint RESOLUTE Control
+– In-stent ONYX Core Resolute Difference: Upper
+Late         (N=75    (N=100    Resolute One-
+Lumen       Subjects Subjects Onyx Core sided    Non-       Non-
+Loss at 8     N=85    N=104 - Historical 95% Inferiority Inferiority Superiority
+month       Lesions) Lesions) Control1     CI2  Margin     P value    P value3
+Primary Analysis – with available data
+           0.24 ± 0.05    0.36 ±
+– ITT set                              -0.14                            -0.02         0.20           < 0.001            0.029
+              (73)       0.05 (93)
+                  0.24 ± 0.05         0.35 ±
+– PP set                                                 -0.14          -0.01         0.20           < 0.001            0.036
+                     (70)            0.05 (89)
+Secondary Analysis – with multiple imputation
+                                       0.36 ±
+– ITT set         0.23 ± 0.05                            -0.15          -0.03         0.20           < 0.001            0.023
+                                        0.05
+                                       0.35 ±
+– PP set          0.23 ± 0.05                            -0.15          -0.02         0.20           < 0.001            0.028
+                                        0.05
+1
+  The Resolute Onyx Core measure non-inferiority of 8-month in-stent late lumen loss compared to 8-month in-
+stent late lumen loss of the historical control
+All target lesions are included in the analysis. The treatment differences have been adjusted with propensity score quintile.
+2
+  The CI is adjusted to propensity score, based on lesion-length, baseline RVD, age, sex, diabetes, history of MI and worst
+Canadian Cardiovascular Society Angina Class as the independent variables.
+3
+  Superiority test is performed after non-inferiority is demonstrated.
+
+
+
+
+    Table 15: RESOLUTE ONYX Core (2.25 mm – 4.0 mm) Clinical Study– Principal Safety
+                                and Effectiveness
+                                                                                   RESOLUTE ONYX Core
+                                                                                 (N=75 Subjects N=85 Lesions)
+                                                                                                           1
+                                                                                                %(m/n)
+Clinical Outcomes (In-hospital)
+                                       2
+Target Lesion Failure (TLF)                                                                    4.0% (3/75)
+                                       3
+Target Vessel Failure (TVF)                                                                    4.0% (3/75)
+          4
+MACE                                                                                           4.0% (3/75)
+Cardiac Death or Target Vessel MI (TVMI) 5                                                     2.7% (2/75)
+Death or TVMI                                                                                  2.7% (2/75)
+Death                                                                                          0.0% (0/75)
+  Cardiac Death                                                                                0.0% (0/75)
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                              Page 38
+ Table 15: RESOLUTE ONYX Core (2.25 mm – 4.0 mm) Clinical Study– Principal Safety
+                             and Effectiveness
+                                                     RESOLUTE ONYX Core
+                                                   (N=75 Subjects N=85 Lesions)
+                                                                     1
+                                                             %(m/n)
+  Non Cardiac Death                                         0.0% (0/75)
+TVMI (Extended historical definition) 6                     2.7% (2/75)
+Clinically Driven TLR7                                      1.3% (1/75)
+Clinically Driven TVR8                                      1.3% (1/75)
+Stent Thrombosis (ARC) Definite/Probable                    1.3% (1/75)
+Clinical Outcomes (to 6 months)
+                              2
+Target Lesion Failure (TLF)                                 5.3% (4/75)
+                              3
+Target Vessel Failure (TVF)                                 8.0% (6/75)
+      4
+MACE                                                        8.0% (6/75)
+Cardiac Death or Target Vessel MI (TVMI) 5                  2.7% (2/75)
+Death or TVMI                                               4.0% (3/75)
+Death                                                       1.3% (1/75)
+  Cardiac Death                                             0.0% (0/75)
+  Non Cardiac Death                                         1.3% (1/75)
+TVMI (Extended historical definition) 6                     2.7% (2/75)
+Clinically Driven TLR7                                      2.7% (2/75)
+Clinically Driven TVR8                                      5.3% (4/75)
+Stent Thrombosis (ARC) Definite/Probable                    1.3% (1/75)
+Clinical Outcomes (8 months)
+                              2
+Target Lesion Failure (TLF)                                 6.7% (5/75)
+                              3
+Target Vessel Failure (TVF)                                 12.0% (9/75)
+      4
+MACE                                                        9.3% (7/75)
+Cardiac Death or Target Vessel MI (TVMI) 5                  2.7% (2/75)
+Death or TVMI                                               4.0% (3/75)
+Death                                                       1.3% (1/75)
+  Cardiac Death                                             0.0% (0/75)
+  Non Cardiac Death                                         1.3% (1/75)
+TVMI (Extended historical definition) 6                     2.7% (2/75)
+Clinically Driven TLR7                                      4.0% (3/75)
+Clinically Driven TVR8                                      9.3% (7/75)
+Stent Thrombosis (ARC) Definite/Probable9                   1.3% (1/75)
+  Early Thrombosis (<=30 days)                              1.3% (1/75)
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                  Page 39
+ Table 15: RESOLUTE ONYX Core (2.25 mm – 4.0 mm) Clinical Study– Principal Safety
+                             and Effectiveness
+                                                     RESOLUTE ONYX Core
+                                                   (N=75 Subjects N=85 Lesions)
+                                                                        1
+                                                                %(m/n)
+  Late Thrombosis (31-240 days)                                0.0% (0/75)
+Angiography (8 months)
+Percent Diameter Stenosis (% DS)
+  In-stent
+     n                                                              73
+Mean±SD                                                       15.70 ± 16.65
+Median (1Q, 3Q)                                             14.86(5.33, 22.24)
+Min, Max                                                      -21.18, 82.89
+In-segment
+n                                                                   73
+Mean±SD                                                        25.50 ± 14.26
+Median (1Q, 3Q)                                             22.06(17.42, 29.64)
+Min, Max                                                        4.99, 82.89
+Minimal Lumen Diameter (mm)
+In-stent
+n                                                                   73
+Mean±SD                                                        2.13 ± 0.55
+Median (1Q, 3Q)                                              2.14(1.80, 2.45)
+Min, Max                                                        0.45, 3.69
+In-segment
+n                                                                   73
+Mean±SD                                                        1.89 ± 0.49
+Median (1Q, 3Q)                                              1.91(1.59, 2.20)
+Min, Max                                                        0.45, 3.10
+Late Luminal Loss (mm)
+In-stent
+n                                                                   73
+Mean±SD                                                        0.24 ± 0.39
+Median (1Q, 3Q)                                              0.20(0.03, 0.37)
+Min, Max                                                        -0.49, 2.06
+In-segment
+n                                                                   73
+Mean±SD                                                         0.15 ± 0.38
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                         Page 40
+ Table 15: RESOLUTE ONYX Core (2.25 mm – 4.0 mm) Clinical Study– Principal Safety
+                             and Effectiveness
+                                                       RESOLUTE ONYX Core
+                                                     (N=75 Subjects N=85 Lesions)
+                                                                        1
+                                                                %(m/n)
+Median (1Q, 3Q)                                             0.11(-0.03, 0.29)
+Min, Max                                                       -0.65, 1.88
+In-Stent Binary Angiographic Restenosis (BAR) Rate            5.5% (4/73)
+In-Segment Binary Angiographic Restenosis (BAR)               8.2% (6/73)
+Rate
+IVUS (8 months)
+Incomplete stent apposition
+  Persistent                                                  10.0% (2/20)
+  Late                                                         0.0% (0/20)
+Neointimal hyperplastic volume (mm3 )
+  n                                                                17
+  Mean±SD (N)                                                  9.88 ± 9.38
+  Median (Q1,Q3)                                            6.80(2.20, 18.10)
+  Min, Max                                                     0.00, 27.20
+Percent volume obstruction
+  n                                                                17
+  Mean±SD (N)                                                 6.88 ± 8.00
+  Median (Q1,Q3)                                            4.52(1.48, 8.79)
+  Min, Max                                                    0.00, 31.38
+Effectiveness Measures
+                 10
+Lesion Success                                              100.0% (85/85)
+Device Success11                                            100.0% (85/85)
+                      12
+Procedure Success                                            96.0% (72/75)
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                       Page 41
+    Table 15: RESOLUTE ONYX Core (2.25 mm – 4.0 mm) Clinical Study– Principal Safety
+                                and Effectiveness
+                                                                                   RESOLUTE ONYX Core
+                                                                                 (N=75 Subjects N=85 Lesions)
+                                                                                                           1
+                                                                                                %(m/n)
+Notes
+8-month timeframe includes follow-up window (240 days ± 14 days).
+1
+  Numerator (m) is the number of Subjects with the specific classification, denominator (n) is the number of Subjects in the study
+     group with known values, and percentage (%) was calculated as 100 × (m/n)
+2
+  Target Lesion Failure (TLF) is defined as any Cardiac Death, Clinically Driven Target Lesion Revascularization by PCI or
+     CABG or Target Vessel MI.
+3
+  Target Vessel Failure (TVF) is defined as any Cardiac Death, Clinically Driven Target Vessel Revascularization by PCI or
+     CABG or Target Vessel MI.
+ 4
+   Major adverse cardiac events (MACE) is defined as composite of death, MI (Q wave and non-Q wave), emergent bypass
+     surgery, or clinically driven target lesion revascularization (repeat PTCA or CABG).
+5
+  Cardiac death/TVMI is defined as Cardiac Death or Myocardial Infarction not clearly attributable to a non-target vessel.
+6
+  TVMI is composed of both Q wave and non-Q wave MI which are not clearly attributable to a non-target vessel.
+7
+  Target Lesion Revascularization (TLR) is defined as a clinically-driven repeat intervention of the target lesion by PCI or CABG
+8
+  Target Vessel Revascularization (TVR) is defined as any clinically-driven repeat intervention of the target vessel by PCI or
+     CABG.
+9
+ ARC defined Stent Thrombosis.
+Academic Research Consortium (ARC) stent thrombosis is defined as follows.
+           1. Definite ST is considered to have occurred after intracoronary stenting by either angiographic or pathologic
+               confirmation of stent thrombosis.
+           2. Probable ST is considered to have occurred after intracoronary stenting in the following cases: Any unexplained
+               death within the first 30 days following stent implantation. Irrespective of the time after the index procedure, any
+               MI which is related to documented acute ischemia in the territory of the implanted stent without angiographic
+               confirmation of ST and in the absence of any other obvious cause
+10
+   The attainment of < 30% residual stenosis by QCA (or < 20% by visual assessment) AND TIMI flow 3 after the procedure,
+    using any percutaneous method.
+11
+   The attainment of < 30% residual stenosis by QCA (or < 20% by visual assessment) AND TIMI flow 3 after the procedure,
+    using the assigned device only.
+12
+   The attainment of < 30% residual stenosis by QCA (or < 20% by visual assessment) AND TIMI flow 3 after the procedure,
+    using any percutaneous method without the occurrence of MACE during the hospital stay.
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                               Page 42
+  Table 16: RESOLUTE ONYX Core (2.25 mm – 4.0 mm) Clinical Study – ARC Defined
+                Definite/Probable Stent Thrombosis through 8 Months
+                                                                        Resolute ONYX™
+                                                                   (N=75 Subjects N=85 Lesions)
+                                                                                      1
+                                                                             %(m/n)
+Stent Thrombosis                                                          1.3% (1/75)
+Early Thrombosis (<=30 days)                                              1.3% (1/75)
+Late Thrombosis (31-240 days)                                             0.0% (0/75)
+Notes
+N = The total number of subjects enrolled.
+Numbers are % (Count/Number of Eligible Subjects).
+Subjects are only counted once for each time period.
+8-month timeframe includes follow-up window (240 days ± 14days).
+
+
+             3. Subgroup Analyses
+                The RESOLUTE ONYX Core (2.5 mm – 4.0 mm) Clinical Study did not include
+                prespecified subgroup analyses.
+
+             4. Pediatric Extrapolation
+                In this premarket application, existing clinical data was not leveraged to support
+                approval of a pediatric patient population.
+
+         E. Financial Disclosure
+
+             The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+             applicants who submit a marketing application to include certain information
+             concerning the compensation to, and financial interests and arrangement of, any
+             clinical investigator conducting clinical studies covered by the regulation. The
+             pivotal clinical study included 89 investigators of which none were full-time or part-
+             time employees of the sponsor and one (1) had disclosable financial
+             interests/arrangements as defined in 21 CFR 54.2(a), (b), (c) and (f) and described
+             below:
+
+                  •    Compensation to the investigator for conducting the study where the value
+                       could be influenced by the outcome of the study: none
+                  •    Significant payment of other sorts: one (1)
+                  •    Proprietary interest in the product tested held by the investigator: none
+                  •    Significant equity interest held by investigator in sponsor of covered study:
+                       none
+
+             The applicant has adequately disclosed the financial interest/arrangements with
+             clinical investigators. Statistical analyses were conducted by FDA to determine
+             whether the financial interests/arrangements had any impact on the clinical study
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                         Page 43
+         outcome. The information provided does not raise any questions about the reliability
+         of the data.
+
+XI.   SUMMARY OF SUPPLEMENTAL CLINICAL INFORMATION
+
+      The Resolute Onyx™ stent is an iterative design update to the Resolute Integrity stent,
+      utilizing the same continuous sinusoid manufacturing technology with slight
+      modifications incorporated to provide a lower crossing profile. The following clinical
+      studies were performed on the Resolute MicroTrac or Resolute Integrity Stent, however
+      given the similarities between the Resolute stent system and the Resolute Onyx™ stent
+      system, the findings from the RESOLUTE clinical studies are applicable to the Resolute
+      Onyx™ stent system.
+
+      Additional safety and effectiveness information for the Resolute Onyx™ stent system
+      was derived from the Global RESOLUTE Clinical Trial Program, which consists of the
+      following clinical trials – the RESOLUTE United States Clinical Trial (R-US), the
+      RESOLUTE All-Comers Clinical Trial (R-AC), the RESOLUTE International Study (R-
+      Int), the RESOLUTE First-in-Man (FIM) Clinical Trial, and the RESOLUTE Japan
+      Clinical Trial (R-J). These five studies have evaluated the performance of the Resolute
+      stent, Medtronic’s first generation stent in the product family, in improving coronary
+      luminal diameters in patients, including those with diabetes mellitus, with symptomatic
+      ischemic heart disease due to de novo lesions of length ≤ 35 mm in native coronary
+      arteries with reference vessel diameters of 2.25 mm to 4.2 mm. Key elements of these
+      studies are summarized below and in Table 18. The Resolute 38 mm Length Group was
+      derived from subjects enrolled in the R-US and the RESOLUTE Asia study (R-Asia). In
+      addition, the RESOLUTE INTEGRITY US Post Market Study, a prospective, multi-
+      center evaluation of the procedural and clinical outcomes of subjects who were treated
+      with the Resolute Integrity Zotarolimus-Eluting Coronary Stent System, Medtronic’s
+      second generation stent in this product family, was designed to assess the safety and
+      efficacy of the Resolute Integrity Stent for the treatment of de novo lesions in native
+      coronary arteries with a reference vessel diameter (RVD) of 2.25 mm to 4.2 mm in two
+      groups of patients, specifically those patients receiving stents ≤ 30 mm in length, referred
+      to as the Primary Enrollment Group (PEG) and those patients who receive extended
+      length stents (34 mm or 38 mm) referred to as the Extended Length (XL) Sub-study.
+      Resolute MicroTrac and Resolute Integrity were simultaneously approved under
+      P110013. Please refer to the SSED for P110013 for more details regarding the clinical
+      data collected for the Resolute MicroTrac and Resolute Integrity, which is summarized in
+      Table 18.
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                               Page 44
+                                   Table 17: RESOLUTE and RESOLUTE INTEGRITY Clinical Trials Overview
+                                                                                                                                           RESOLUTE INTEGRITY US Post-
+                                              Global RESOLUTE Clinical Trial Program
+                                                                                                                                                       Market Study
+                                                                                                                                            RESOLUTE             RESOLUTE
+                                                                                                      RESOLUTE          RESOLUTE Asia
+             RESOLUTE US*           RESOLUTE AC1         RESOLUTE Int2       RESOLUTE FIM3                                                INTEGRITY US         INTEGRITY US
+                                                                                                        Japan             38 mm Cohort
+                                                                                                                                                (PEG)           (XL Sub-study)
+              Prospective          Prospective          Prospective         Prospective         Prospective         Prospective     Prospective        Prospective
+              Multi-center         Multi-center         Multi-center        Multi-center        Multi-center        Multi-center    Multi-center       Multi-center
+              Non-randomized       Randomized           Non-randomized  Non-randomized          Non-randomized      Non-randomized  Non-randomized  Non-randomized
+              Historical            (1:1 Resolute vs.  Single-arm            Single-arm          Single-arm                           Post approval      Post approval
+Study Type     controlled trial*      Xience V®)          Observational       Historical          Historical
+                                    Two-arm, non-         study                controlled trial     controlled trial
+                                      inferiority trial   Real World          PK Assessment
+                                    Real World            subject population
+                                      subject population
+             Total: 1516
+             -    2.25–3.5 mm
+                  Main Study -
+                  1242 subjects
+             -    2.25 mm
+                  Cohort -150
+                  subjects
+             -    2.25–3.5 mm
+                  Angio/IVUS
+                  sub-study -
+                  100 subjects
+             -    4.0 mm Sub-
+Number of         study - 60        Total: 2292
+Subjects          subjects        (Resolute: 1140,          Total: 2349           Total: 139           Total: 100             Total: 109      Total:230           Total: 56
+Enrolled     -    38 mm Sub-     Xience V®: 1152)
+                  study -114
+                  subjects (38
+                  mm Sub-study
+                  total patient
+                  population was
+                  223 with 114
+                  from
+                  RESOLUTE
+                  US and 109
+                  from
+                  RESOLUTE
+                  Asia)
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                           Page 45
+                                 Table 17: RESOLUTE and RESOLUTE INTEGRITY Clinical Trials Overview
+                                                                                                                                            RESOLUTE INTEGRITY US Post-
+                                             Global RESOLUTE Clinical Trial Program
+                                                                                                                                                        Market Study
+                                                                                                                                             RESOLUTE             RESOLUTE
+                                                                                                   RESOLUTE         RESOLUTE Asia
+               RESOLUTE US* RESOLUTE AC1 RESOLUTE Int2 RESOLUTE FIM3                                                                      INTEGRITY US          INTEGRITY US
+                                                                                                      Japan           38 mm Cohort
+                                                                                                                                                 (PEG)           (XL Sub-study)
+               Single or two de  No limitation to  No limitation to  Single de novo         Single or two de  Single or two de  Single target           . Single target
+                novo lesions         number of           number of           lesion              novo lesions         novo lesions         lesion or two        lesion or two
+                located in           lesion(s)/          lesion(s)/         Lesion length       located in           located in           target lesions       target lesions
+                separate target      vessel(s) treated   vessel(s) treated   from 14 to 27 mm separate coronary       separate target      located in separate located in separate
+                vessels              or lesion length    or lesion length   Target vessel with arteries              vessels              target vessels       target vessels
+               Lesion(s) length  Target vessel with  Target vessel with RVD between 2.5  Lesion(s) length  Lesion(s) length PEG:                         XL:
+                ≤27 mm for the       RVD between         RVD between         and 3.5 mm          ≤27 mm               ≤35 mm                Target lesion       Target lesion
+                Primary              2.25 to 4.0 mm      2.25 to 4.0 mm                         Target vessel with  Target vessel        ≤27 mm               ≤ 35 mm treated or
+                Enrollment                                                                       RVD between 2.5 with RVD                 Target vessel with   lesion length
+                Group, ≤35 mm                                                                    to 3.5 mm            between 3.0 to       RVD between         Target vessel with
+Lesion          for the 38 mm                                                                                         4.0 mm               2.25 to 4.2 mm       RVD between
+Criteria        Length Group                                                                                         Patients may                              2.25 to 4.2 mm.
+               Target vessel with                                                                                    have received
+                RVD between                                                                                           treatment of up to
+                2.25 to 4.2 mm                                                                                        two lesions
+                                                                                                                      second lesion
+                                                                                                                      RVD (2.25 to 4.2
+                                                                                                                      mm), if the
+                                                                                                                      lesions were
+                                                                                                                      located in
+                                                                                                                      separate target
+                                                                                                                      vessels.
+              Stent diameter:      Stent diameter:     Stent diameter:     Stent diameter:     Stent diameter:      Stent diameter:      Stent diameter:      Stent diameter:
+              2.25 – 4.0 mm        2.25 – 4.0 mm       2.25 – 4.0 mm       2.5 – 3.5 mm        2.5 – 3.5 mm         3.0 – 4.0 mm         2.25 – 4.0 mm        3.0 – 4.0 mm
+              Stent length:        Stent length:       Stent length:       Stent length:       Stent length:                             Stent length:        Stent Length:
+              8 – 30 mm for the 8 – 30 mm              8 – 38 mm           8 – 30 mm           8 – 30 mm            Stent Length: 38     8 – 30 mm            34-38 mm
+Stent Sizes
+              Primary Enrollment                                                                                    mm
+(Resolute)
+              Group, 38 mm for
+              the 38 mm Length
+              Group
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                     Page 46
+                                  Table 17: RESOLUTE and RESOLUTE INTEGRITY Clinical Trials Overview
+                                                                                                                                               RESOLUTE INTEGRITY US Post-
+                                              Global RESOLUTE Clinical Trial Program
+                                                                                                                                                          Market Study
+                                                                                                                                                RESOLUTE             RESOLUTE
+                                                                                                      RESOLUTE         RESOLUTE Asia
+              RESOLUTE US* RESOLUTE AC1 RESOLUTE Int2 RESOLUTE FIM3                                                                          INTEGRITY US          INTEGRITY US
+                                                                                                         Japan           38 mm Cohort
+                                                                                                                                                    (PEG)           (XL Sub-study)
+             Resolute Stent on    Resolute Stent on    Resolute Stent on    Resolute Stent on     Resolute Stent on   Resolute Stent on Resolute Integrity       Resolute Integrity
+             the Rapid Exchange the Rapid Exchange the Rapid Exchange the Rapid Exchange the Rapid Exchange the Rapid                       Stent on the Rapid Stent on the Rapid
+Product
+             Sprint Delivery      Sprint Delivery      Sprint Delivery      AV100 Delivery        Sprint Delivery     Exchange Sprint       Exchange             Exchange MicroTrac
+Used
+             System               System               System               System                System              Delivery System       MicroTrac Delivery Delivery System
+                                                                                                                                            System
+             Aspirin indefinitely Aspirin indefinitely Aspirin indefinitely Aspirin indefinitely Aspirin indefinitely Aspirin indefinitely Aspirin indefinitely Aspirin indefinitely
+Post-        and clopidogrel /    and clopidogrel /    and clopidogrel /    and clopidogrel /     and clopidogrel /   and clopidogrel /     and clopidogrel /    and clopidogrel /
+procedure    ticlopidine for ≥ 6 ticlopidine for ≥ 6 ticlopidine for ≥ 6 ticlopidine ≥ 6          ticlopidine for ≥ 6 ticlopidine,for ≥ 6 ticlopidine for ≥ 6    ticlopidine for ≥ 6
+Antiplatelet months in all        months in all        months in all        months                months in all       months in all         months in all        months in all
+Therapy      subjects, up to 12   subjects, up to 12   subjects, up to 12                         subjects, up to 12  subjects, up to 12 subjects, up to 12      subjects, up to 12
+             months if tolerated months if tolerated months if tolerated                          months if tolerated months if tolerated months if tolerated months if tolerated
+             2.25 mm - 3.5 mm 30 days and 12           30 days, 6 months, 30 days: clinical       30 days and 12      30 days, 6, 9         30 days (Contact); 6 30 days (Contact); 6
+             Main Study: 30       months: clinical     1-3 years: clinical  4 (30 subject         months: clinical    (Clinical Visit), 12, months (Contact);    months (Contact);
+             days and 9 months: 13 months (455         or telephone         subset) and 9         8 months:           18  months  then      12 months  (Clinic   12 months (Clinic
+             clinical; 6, 12 and  subject subset):                          months (100 subject angiographic/IVUS annually at 2 - 5         Visit with 12-lead   Visit with 12-lead
+             18 months, 2-5       angiographic                              subset): clinical and 6, 9 and 18 months  years**               ECG)   and 2 years:  ECG) and 2 years:
+             years: telephone                                               angiographic/IVUS                                               (Contact)            (Contact) 3-5 years
+                                  6 months and 2-5                                                and 2-5 years:                                                 (contact)
+             4.0 mm Sub-study: years: telephone                             6 months and 1-5      telephone
+             8 months: clinical                                             years: telephone
+             and angiographic; 6,
+             12 and 18 months,
+             2-5 years: telephone
+Follow-up    2.25 mm - 3.5 mm
+             Angio/IVUS Sub-
+             study: 8 months:
+             clinical and
+             angiographic/
+             IVUS;6, 12 and 18
+             months, 2-5 years:
+             telephone
+             38 mm Length Sub-
+             study: 30 days (R-
+             US) and 9 months
+             clinical visits
+             (preferred) or
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                       Page 47
+                                      Table 17: RESOLUTE and RESOLUTE INTEGRITY Clinical Trials Overview
+                                                                                                                                       RESOLUTE INTEGRITY US Post-
+                                             Global RESOLUTE Clinical Trial Program
+                                                                                                                                                Market Study
+                                                                                                                                        RESOLUTE          RESOLUTE
+                                                                                                RESOLUTE          RESOLUTE Asia
+              RESOLUTE US*             RESOLUTE AC1   RESOLUTE Int2       RESOLUTE FIM3                                               INTEGRITY US      INTEGRITY US
+                                                                                                  Japan            38 mm Cohort
+                                                                                                                                          (PEG)          (XL Sub-study)
+             patient contact 30
+             days (R-Asia), 6,
+             12, 18 months then
+             annually at 2, 3, 4, 5
+             years **
+               60-month follow-up 60-month follow-up 36-month follow-up 60-month follow-up 60-month follow-up 48-month follow- 24-month follow-up Enrollment complete
+               is complete.            is complete       is complete         complete           is complete          up is complete  is complete         as of 27 October
+Status         551 subjects                                                                                                                              2015
+               qualified for 18-
+               month follow-up
+* The RESOLUTE US trial is composed of four studies. The 2.5 mm - 3.5 mm subset of the Main Study, the 2.25 mm – 3.5 mm Angio/IVUS Sub-study, the 38 mm Length Sub-study, and
+the 4.0mm Sub-study have historical control designs. The 2.25 mm Subset outcomes were compared to a performance goal.
+1
+  The term ‘AC’ refers to All-Comers.
+2
+  The term ‘Int’ refers to International.
+3
+  The term ‘FIM’ refers to First-In-Man.
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                                   Page 48
+XII.   PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+       Medical Devices Act of 1990, this PMA was not referred to the Circulatory Systems
+       Devices Panel, an FDA advisory committee, for review and recommendation because the
+       information in the PMA substantially duplicates information previously reviewed by this
+       panel.
+
+XIII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+       The safety and effectiveness of Resolute Onyx is based on the results obtained from
+       biocompatibility, in vivo pharmacokinetics (generated on the Resolute product); in vitro
+       engineering testing; coating characterization; chemistry, manufacturing and controls
+       information; in vivo animal testing; sterilization and stability testing; and clinical studies.
+       These test results revealed the following:
+
+       A. Effectiveness Conclusions
+
+           The primary endpoint of in-stent late lumen loss at 8 months was compared to a
+           historical control value derived from the RESOLUTE US Angio/IVUS Sub-Study
+           with propensity score adjustment. The propensity score adjusted one-sided 95%
+           confidence interval was -0.02 mm, which was less than the pre-specified non-
+           inferiority margin (0.20 mm); therefore non-inferiority has been demonstrated (p<
+           0.001). After non-inferiority was demonstrated, pre-specified superiority was further
+           evaluated; since the propensity score adjusted one-sided 95% CI was less than 0 mm,
+           superiority was also met (p = 0.029).
+
+       B. Safety Conclusions
+
+           The risks of the device are based on non-clinical laboratory and animal studies as well
+           as data collected in a clinical study conducted to support PMA approval as described
+           above. The biocompatibility, in vivo pharmacokinetics (data generated on the
+           Resolute product), and in vivo performance characteristics of the product provide
+           reasonable assurance of safety and acceptability for clinical use.
+
+           The clinical outcomes in subjects of the RESOLUTE ONYX Core (2.25 mm – 4.0
+           mm) Clinical Study suggest that use of the Resolute Onyx stent is associated with low
+           adverse event rates consistent with the 9 month clinical outcomes of the RESOLUTE
+           US 2.25-3.5 mm Angio/IVUS Sub-study that evaluated a similar patient population
+           with mandated angiographic follow up at 8 months.
+           The results from the RESOLUTE ONYX Core (2.25 mm - 4.0mm) Clinical Study
+           demonstrate that the Resolute Onyx product provides reasonable assurance of safety
+           and effectiveness when used as indicated in accordance with the Instructions for Use
+           (IFU).
+
+       C. Benefit-Risk Determination
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                                    Page 49
+         The probable benefits of the device are based on data collected in clinical studies
+         conducted to support PMA approval as described above. The Resolute Onyx™
+         coronary stent has been shown to be beneficial for improving luminal diameter in
+         patients with symptomatic coronary artery disease. The primary end point of in-stent
+         Late Lumen Loss (LL) at 8-months post-procedure as measured by quantitative
+         coronary angiography (QCA) demonstrated not only non-inferiority (p < 0.001), but
+         also superiority (p = 0.029) when compared to the historical control in-stent late loss
+         value from the RESOLUTE US Angio/IVUS Sub-study.
+
+         Additional factors to be considered in determining probable risks and benefits for the
+         Resolute Onyx™ stent system include characterization of the disease, availability of
+         anternative treatments, quality of the study design and conduct, robustness of analysis
+         of study results and risk mitigations. Coronary artery disease (CAD) can be
+         accompanied by symptomatic chest pain or silent ischemia which affects patient’s
+         quality of life. CAD is treatable, but if left untreated, the condition can progress to
+         further stenosis within the arteries, increased symptoms and the need for
+         revascularization. Available treatments for CAD include medical therapy,
+         percutaneous coronary intervention (PCI) and coronary artery bypass graft (CABG)
+         surgery. When treatment for coronary artery disease beyond medications and lifestyle
+         changes is warranted, patients often choose stent deployment over surgical
+         revascularization due to shorter recovery times and the less invasive nature of
+         percutaneous coronary intervention. The risks associated with use of drug eluting
+         stents are already well established, and in comparison to medical therapy, PCI has
+         been shown to reduce the incidence of angina. Patient tolerance of the stent device in
+         the RESOLUTE ONYX Core study are in line with expectations. The study did not
+         exclude any typical patient subgroups that would be expected to benefit from
+         treatment. The patients treated in the RESOLUTE ONYX Core study represent a
+         standard PCI population, and the results can be applied to the general population of
+         patients with coronary artery disease.
+
+         1. Patient Perspectives
+            This submission did not include specific information on patient perspectives for
+            this device.
+
+         In summary, given the available information, the data support the conclusion that for
+         improving coronary luminal diameters in patients, including those with diabetes
+         mellitus, with symptomatic ischemic heart disease due to de novo lesions of length ≤
+         35 mm in native coronary arteries with reference vessel diameter of 2.25 mm to 5.0
+         mm, the probable benefits of the Resolute Onyx™ Zotarolimus-Eluting Stent System
+         outweigh the probable risks.
+
+      D. Overall Conclusions
+
+         The data in this application support the reasonable assurance of safety and
+         effectiveness of the Resolute Onyx™ Zotarolimus-Eluting Coronary Stent
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                              Page 50
+         System when used in accordance with the indications for use.
+
+XIV. CDRH DECISION
+
+      CDRH issued an approval order on April 28, 2017. The final conditions of approval cited
+      in the approval order are described below.
+
+      1. ODE Lead PMA Post-Approval Study – Continued Follow-up of RESOLUTE
+         ONYX Core (2.25mm-4.00mm) Clinical Study. The Office of Device Evaluation
+         (ODE) will have the lead for this clinical study, which was initiated prior to device
+         approval. The RESOLUTE ONYX Core (2.25mm-4.00mm) Clinical Study
+         (G1401078/S001) is an open-label, single-arm, multi-center study which enrolled 75
+         patients and was designed to assess the safety and effectiveness of the Resolute Onyx
+         Zotarolimus Eluting Coronary Stent System (Core Sizes) through 3 years post-index
+         procedure. The primary endpoint is in-stent late lumen loss (LLL) at 8 months.
+         Medtronic must collect and report clinical outcomes to FDA through 3 years post-
+         procedure on patients enrolled in the RESOLUTE ONYX Core (2.25mm-4.00mm)
+         Clinical Study.
+
+      2. ODE Lead PMA Post-Approval Study – RESOLUTE ONYX Post-Approval Study
+         (PAS). The Office of Device Evaluation (ODE) will have the lead for this clinical
+         study, which was initiated prior to device approval under G140178/S008. The
+         RESOLUTE ONYX PAS is a single arm, non-investigational, open-label multi-center
+         study intended to evaluate the safety and effectiveness of the Resolute Onyx
+         Zotarolimus Eluting Coronary Stent Systems in a real world, more-comers
+         population. The study will enroll 510 study subjects: 410 study subjects will be
+         enrolled in the Main Study cohort (2.00-4.00mm) and 100 subjects will be enrolled in
+         an Extra-Large (XLV) sub-study (4.50-5.00mm) cohort. The study will be conducted
+         in up to 25 US sites (representing at least 50% of total enrollment) and up to 5 OUS
+         sites (maximum of 50 study subjects in the Main Study cohort and 49 subjects in the
+         in XLV sub-study cohort). The primary endpoint for all study subjects enrolled in the
+         RESOLUTE ONYX PAS is Target Lesion Failure (TLF) at 12 months, defined as
+         Cardiac Death, Target Vessel Myocardial Infarction or Target Lesion
+         Revascularization. The Main Study cohort will have a performance goal (PG) of
+         13.2%. The XLV sub-study cohort does not have a formal hypothesis but descriptive
+         statistics will be provided. Medtronic must collect and report clinical outcomes to
+         FDA through 3 years post-procedure on patients enrolled in the RESOLUTE ONYX
+         PAS.
+
+      3. The following non-clinical information will be submitted in annual drug stability
+         reports: Long-term and accelerated stability studies will be completed on three
+         production-scale batches of the approved finished product (according to the formal
+         stability protocol) through the expiration dating period. All products included in these
+         studies will be manufactured according to the US in-process inspection for coating
+         weight tolerance. A minimum of one batch per year should be placed into the long-
+         term stability program.
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                              Page 51
+   The applicant’s manufacturing facilities have been inspected and found to be in compliance
+   with the device Quality System (QS) regulation (21 CFR 820).
+
+XV.   APPROVAL SPECIFICATIONS
+
+      Directions for use: See device labeling.
+
+      Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+      Precautions, and Adverse Events in the device labeling.
+
+      Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+PMA P160043: FDA Summary of Safety and Effectiveness Data                            Page 52
+

@@ -1,0 +1,2476 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I.     GENERAL INFORMATION
+
+       Device Generic Name:                   Stent, Coronary
+
+       Device Trade Name:                     Orsiro Sirolimus Eluting Coronary Stent System
+                                              (Orsiro Stent System)
+
+       Device Procode:                        NIQ
+
+       Applicant’s Name and Address:          BIOTRONIK, Inc.
+                                              6024 Jean Road
+                                              Lake Oswego, OR 97035
+
+       Date(s) of Panel Recommendation: N/A
+
+       Premarket Approval Application (PMA) Number:          P170030
+
+       Date of FDA Notice of Approval: February 22, 2019
+
+II.    INDICATIONS FOR USE
+
+       Orsiro is indicated for improving coronary luminal diameter in patients, including those
+       with diabetes mellitus, with symptomatic heart disease, stable angina, unstable angina, non-
+       ST elevation myocardial infarction or documented silent ischemia due to atherosclerotic
+       lesions in the native coronary arteries with a reference vessel diameter of 2.25 mm to 4.0
+       mm and a lesion length of ≤ 36 mm.
+
+III.   CONTRAINDICATIONS
+
+       Orsiro is contraindicated for use in patients with:
+          •   A known hypersensitivity or allergy to the stent and/or stent coating materials such
+              as amorphous silicon carbide, PLLA polymer, L-605 cobalt chromium alloy
+              (including the major elements cobalt, chromium, tungsten and nickel), sirolimus or
+              its derivatives.
+       Coronary artery stenting is contraindicated for use in the following patients:
+          •   Patients who have contraindications for antiplatelet and/or anticoagulation therapy.
+          •   Patients who are judged to have a lesion that would be likely to prevent complete
+              inflation of an angioplasty balloon or proper placement of the stent or delivery
+              device.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                Page 1
+IV.   WARNINGS AND PRECAUTIONS
+
+      The warnings and precautions can be found in the Orsiro Stent System labeling.
+
+V.    DEVICE DESCRIPTION
+
+      A. Device Component Description
+
+         The Orsiro Stent System consists of a balloon-expandable drug-eluting stent pre-
+         mounted on a fast-exchange delivery system (Figure 1). The stent is intended as a
+         permanent implant. It is made from a cobalt chromium alloy (L-605), covered with a
+         thin layer of amorphous silicon carbide (proBIO™), and further coated with
+         BIOlute™, a bioabsorbable drug matrix consisting of a drug substance (i.e.,
+         sirolimus) and a polymer (i.e., PLLA).
+         The delivery system is a fast-exchange percutaneous transluminal coronary
+         angioplasty (PTCA) catheter with a usable length of 140 cm and has two radiopaque
+         markers to facilitate in the placement of the stent during fluoroscopy. Orsiro is
+         compatible with 0.014 inch (0.36 mm) guidewires and guiding catheters with a
+         minimum inner diameter of 0.056 inch (1.42 mm). The stent is crimped on various
+         sizes of delivery catheter balloons, which range from 2.25 mm to 4.0 mm.
+
+
+
+
+                Figure 1: Orsiro Sirolimus Eluting Coronary Stent System
+
+
+         There are two different stent designs: small (2.25 - 3.0 mm in diameter) and medium
+         (3.5 - 4.0 mm in diameter). See Table 1 below.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                              Page 2
+                                          Table 1: Stent Parameters
+
+                                    Stent Length (mm)
+             Maximum
+             Labeled     Nominal
+ Stent       Diameter    Stent
+                                    9      13      15   18    22      26     30     35     40
+ Design      for Post-   Diameter
+             dilation    (mm)
+             (mm)
+                         Ø2.25                                         
+             Ø max=      Ø2.5                                                      
+ Small
+             3.5 mm      Ø2.75                                                     
+                         Ø3.0                                                      
+             Ø max=      Ø3.5                                                      
+ Medium
+             4.5 mm      Ø4.0                                                      
+
+
+
+         B. Drug Component Description
+            Orsiro is circumferentially coated with a bioabsorbable coating. The Orsiro stent
+            drug matrix is composed of a drug substance (sirolimus) and a bioabsorbable polymer
+            carrier (poly-L-lactide (PLLA)).
+            1. Active Ingredient: Sirolimus
+
+                The active pharmaceutical ingredient utilized in Orsiro is sirolimus. Orsiro stents
+                have a drug load of 1.4 μg/mm2 of stent surface.
+                The sirolimus chemical name is:
+                23,27-Epoxy-3H-pyrido[2,1-c][1,4]oxaazacyclohentriacontine, rapamycin deriv.;
+                (-)-Rapamycin
+
+                The molecular formula of sirolimus is C51H79NO13 and its molecular weight is
+                914.2 g/mol. The chemical structure of sirolimus is shown in Figure 2.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                 Page 3
+                        Figure 2: Chemical Structure of Sirolimus
+
+
+      The total nominal drug load of sirolimus per stent length/design is shown in Table 2.
+
+        Table 2: Total Nominal Drug Load of Sirolimus per Stent Length/Design
+                     Stent design    Stent length (mm)   Total drug load (µg)
+                        Small                                    55
+                                             9
+                      Medium                                     70
+                        Small                                    80
+                                            13
+                      Medium                                     95
+                        Small                                    93
+                                            15
+                      Medium                                     113
+                        Small                                    109
+                                            18
+                      Medium                                     131
+                        Small                                    134
+                                            22
+                      Medium                                     162
+                        Small                                    159
+                                            26
+                      Medium                                     193
+                        Small                                    184
+                                            30
+                      Medium                                     224
+                        Small                                    213
+                                            35
+                      Medium                                     261
+                        Small                                    247
+                                            40
+                      Medium                                     298
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                             Page 4
+         2. Inactive Ingredient: poly-L-lactide (PLLA)
+            The PLLA is a high molecular weight bioabsorbable polymer, which acts as a
+            drug carrier and provides a controlled release of sirolimus from the stent. The
+            chemical name of PLLA is S,S-1,4-Dioxane-2,5-dione, 3,6-dimethyl-, cis-
+            homopolymer and the chemical structure of the polymer is shown in Figure 3.
+
+
+
+
+                          Figure 3: Chemical Structure of PLLA
+
+      C. Mechanism of Action
+         Sirolimus is a drug with potent anti-proliferative, anti-inflammatory and
+         immunosuppressive effects. It acts by binding to the cytosolic receptor FK506-
+         binding-protein-12 (FKBP-12).
+         The complex that is formed between sirolimus and FKBP-12 inhibits the activation of
+         mammalian target of rapamycin (mTOR), which in turn causes cell cycle arrest
+         (progression from phase G1 to S). In detail, the sirolimus-FKBP-12-mTOR complex
+         inhibits the 70-kD S6 protein kinase p70S6K (the eukaryotic initiation factor binding
+         protein eIF-4E-BP) and cell cycle progression through upregulation of p27kip1 (a
+         cyclin dependent kinase inhibitor), which in turn inhibits the cell cycle controlling
+         cyclin-dependent kinases (CDK) such as the CDK4 and CDK2.
+         A typical target cell is the activated T-lymphocyte, which undergoes G1 to S phase
+         progression in response to antigenic and cytokine T-cell growth-promoting
+         stimulation (Interleukin IL-2, IL-4, IL-7 and IL-15). In parallel, sirolimus inhibits
+         antibody production.
+         Other target cells are the smooth muscle cells (SMC) and the endothelial cells.
+         Sirolimus inhibits the proliferation and the migration of SMCs and shows an
+         antiproliferative effect on endothelial cells. Sirolimus also inhibits several phases of
+         the restenosis cascade such as inflammation, neointimal hyperplasia formation, total
+         protein and collagen synthesis.
+
+VI.   ALTERNATIVE PRACTICES AND PROCEDURES
+
+      There are multiple alternative options available to treat coronary artery disease, which may
+      include: exercise, diet, smoking cessation, drug therapy, percutaneous coronary
+      interventions (such as angioplasty and placement of bare metal stents, drug eluting stents,
+      etc.), and coronary artery bypass graft surgery (CABG). A patient should fully discuss
+      available alternatives with his/her physician to determine which method(s) are appropriate
+      to best meet their clinical needs and lifestyle.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                Page 5
+VII.   MARKETING HISTORY
+
+       The Orsiro Stent System has been market released outside the United States (OUS) since
+       2011 with more than 1.5 million units sold worldwide through the end of 2018. In this
+       time period, 1,204 complaints have been received resulting in an overall complaint rate
+       of 0.077%. A list of countries where the Orsiro Stent System is distributed is provided in
+       Table 3.
+
+
+            Table 3: List of Countries Where Orsiro Stent System is Distributed
+
+
+                  Australia      Sri Lanka        Lebanon          Colombia
+
+                  Bangladesh     Taiwan           Macedonia        Cuba
+
+                                                                   Dominican
+                  Hong Kong      Thailand         Montenegro       Republic
+
+                  India          Vietnam          Russia           Guatemala
+
+                  Indonesia      Japan            Saudi Arabia     Mexico
+
+                                 Bosnia and
+                  Malaysia       Herzegovina      Serbia           Panama
+
+                  Myanmar        Egypt            Tajikistan       Paraguay
+
+                  New Zealand    Iran             Turkey           Peru
+
+                  Pakistan       Israel           Turkmenistan     Venezuela
+
+                  Philippines    Jordan           Uzbekistan       Morocco
+
+                  Singapore      Kazakhstan       Argentina        France
+
+                  South Korea    Kyrgyzstan       Brazil           Switzerland
+
+                  Germany        Spain            Netherlands      Italy
+
+                  Poland         Belgium          Czech Republic   Austria
+
+                  Bulgaria       Croatia          Denmark          Estonia
+
+                  Finland        United Kingdom   Greece           Hungary
+
+                  Cyprus         Latvia           Portugal         Romania
+
+                  Slovakia       Sweden           Slovenia         Syria
+
+                  Costa Rica
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                               Page 6
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+      Below is a list of the potential adverse effects (e.g., complications) associated with the use
+      of the Orsiro Stent System. Adverse events (in alphabetical order) which may be associated
+      with coronary stent use in native coronary arteries include, but are not limited to:
+      • Abrupt closure of coronary artery or stent
+      • Access site bleeding or hemorrhage
+      • Access site hematoma, pain
+      • Acute pulmonary edema
+      • Allergic reactions to contrast media, antiplatelets, anticoagulants, amorphous silicon
+          carbide, L-605 cobalt chromium alloy, PLLA polymer matrix, sirolimus or sirolimus
+          derivatives
+      • Aneurysm formation
+      • Angina
+      • Arteriovenous fistula formation
+      • Arrhythmias, including atrial fibrillation, bradycardia, palpitations, ventricular
+          fibrillation, ventricular tachycardia
+      • Cardiac perforation
+      • Cardiac tamponade
+      • Cardiogenic shock
+      • Congestive heart failure
+      • Coronary artery rupture or spasm
+      • Death
+      • Delivery system balloon rupture or pinhole, inflation or deflation difficulties
+      • Dissection
+      • Distal embolization (air, tissue debris and thrombus)
+      • Embolization of catheter material
+      • Emergency cardiac surgery
+      • Failure to deliver stent to intended site
+      • Femoral nerve injury
+      • Hemorrhage requiring transfusion or other treatment
+      • Hypotension/hypertension
+      • Inadequate apposition or compression of stent/s
+      • Infection and sepsis
+      • Myocardial infarction (MI) or ischemia
+      • Perforation or dissection of coronary artery or aorta
+      • Pericardial effusion
+      • Peripheral ischemia
+      • Peripheral nerve injury
+      • Permanent (stroke) or reversible (TIA) neurologic event
+      • Pseudoaneurysm
+      • Renal failure
+      • Respiratory insufficiency or failure
+      • Restenosis of treated artery (greater than 50% of obstruction)
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                 Page 7
+      •   Restenosis, thrombosis or occlusion of vessel
+      •   Retroperitoneal hematoma
+      •   Stent collapse
+      •   Stent deformation
+      •   Stent dislodgement from the delivery system
+      •   Stent embolization
+      •   Stent fracture
+      •   Stent migration
+      •   Stent misplacement
+      •   Stent thrombosis or occlusion
+      •   Vasospasm
+      •   Vessel dissection or perforation
+      •   Withdrawal difficulties
+
+      Potential adverse events related to oral administration of sirolimus include, but are not
+      limited to:
+      • Abnormal liver function tests
+      • Anemia
+      • Arthralgia
+      • Diarrhea
+      • Hypercholesterolemia
+      • Hypersensitivity (including anaphylactic/anaphylactoid type reactions)
+      • Hypertriglyceridemia
+      • Hypokalemia
+      • Infections
+      • Interstitial lung disease
+      • Thrombocytopenia
+      • Leukopenia
+      • Lymphoma and other malignancies
+
+      There may be other potential adverse events that are unforeseen at this time. For the
+      specific adverse events that occurred in the clinical studies, please see Section X below.
+
+IX.   SUMMARY OF NON-CLINICAL STUDIES
+      A. In Vitro Bench Testing
+         In vitro bench testing was performed to assess the functional characteristics of the
+         Orsiro Stent System. Testing was conducted according to the guidelines provided in
+         the Food and Drug Administration (FDA) Guidance for Industry and FDA Staff -
+         Non-clinical Tests and Recommended Labeling for Intravascular Stents and
+         Associated Delivery Systems (April 18, 2010) and Coronary Drug-Eluting Stents –
+         Non-clinical and Clinical Studies – Draft Guidance for Industry and Food and Drug
+         Administration Staff (March 26, 2008).
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                             Page 8
+             Additionally, testing followed updated guidelines provided in Select Updates for
+             Non-Clinical Engineering Tests and Recommended Labeling for Intravascular
+             Stents and Associated Delivery Systems - Guidance for Industry and Food and Drug
+             Administration Staff (August 18, 2015).
+             Table 4 below summarizes the engineering testing performed on the Orsiro Stent
+             System. The test results are supportive of the device safety and effectiveness.
+
+
+             Table 4: Non-Clinical Engineering Tests of Stent and Delivery System
+
+Test Performed      Test Purpose                                     Acceptance Criteria                   Result
+Material Identification & Characterization
+Identification of   To identify and list all components and their    All materials need to be identified. Pass
+Delivery System     respective materials used in the construction of
+Materials           the delivery system.
+Identification of   To identify and list all materials used in the   All materials need to be identified. Pass
+Stent Materials     construction of the stent body.
+Characterization    Characterization of the bare metal stent         Characterization only.                Pass
+of Stent Raw        material according to raw material
+Material            specification.
+Identification of   To identify and list all materials used for the a- All materials need to be identified. Pass
+DES-coating         SiC:H coating and BIOlute coating.
+Materials
+Characterization    Characterization of the PLLA according to        Characterization only.                Pass
+of Polymer          raw material specification extended by testing
+(PLLA)              for elemental impurities according to ICH
+                    Q3D.
+Characterization    Characterization of the sirolimus according to   Characterization only.                Pass
+of Drug             raw material specification extended by testing
+Substance           for elemental impurities according to ICH
+                    Q3D.
+Characterization    Characterization of the sirolimus following     Characterization only.                 Pass
+of Drug             change to manufacturing process (upscale of
+Substance           batch size) according to raw material
+(manufacturing      specification extended by testing for elemental
+process changed)    impurities according to ICH Q3D.
+Characterization    Characterization of the solvents used in         Characterization only.                Pass
+of Solvents         manufacturing according to raw material
+                    specification.
+Identification of   To identify the design and all materials used    All materials need to be identified. Pass
+Packaging           for the packaging.
+Materials &
+Transfer of
+Packaging
+Validation
+Characterization    Characterization of the BHT according to raw     Characterization only.                Pass
+of butylated        material specification extended by testing for
+hydroxytoluene      elemental impurities according to ICH Q3D.
+(BHT)
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                                 Page 9
+Test Performed      Test Purpose                                       Acceptance Criteria                   Result
+Surface             Characterization of the stent surface and a-       •   Homogeneity of a-SiC:H            Pass
+Characterization    SiC:H coating.                                         coating at different surface
+                                                                           positions of stent.
+                                                                       •    Characterization of chemical
+                                                                           composition of a-SiC:H
+                                                                           coating.
+Stent Corrosion     To determine resistance to galvanic and pitting •      Demonstrate sufficient            Pass
+Resistance          corrosion potential.                                   resistance to galvanic
+                                                                           corrosion by a calculated
+                                                                           penetration depth ≤ 0.001
+                                                                           mm/year.
+                                                                       •   Demonstrate sufficient
+                                                                           resistance to pitting corrosion
+                                                                           as determined by ASTM
+                                                                           F2129.
+Stent Dimensional and Functional Attributes
+Stent              To inspect and measure the stent body         Must meet specifications for strut          Pass
+Dimensional        dimensions before placement onto the delivery dimensions.
+Verification –     system.
+Unexpanded
+Stent (Bare stent)
+Percent Surface     To determine the surface coverage of the bare      Stent to artery ratio at NP for all   Pass
+Area of the Stent   stent in the vessel. Calculation has been          sizes: ≥11%.
+(Bare tent)         performed for all stent sizes.
+Percent Surface     To determine the surface coverage of the           Covered stent to artery ratio at NP
+Area of the Stent   Polymer/Drug coated stent in the vessel.           for all sizes: ≥12%.
+(Polymer/Drug       Calculation has been performed for all stent
+coated)             sizes.
+Foreshortening      To determine the foreshortening of the stent.      Expansion to NP: ≤5%.                 Pass
+Recoil for          To determine the amount of elastic recoil after    Elastic Recoil: ≤ 7% after            Pass
+Balloon             deployment to determine the diameter of the        deployment to NP.
+Expandable          stent in its deployed state.
+Stents
+Stent Integrity     To determine the ability of the stent              Stent Coating Integrity: no flaking, Pass
+                    surface/coating to resist damage due to            delamination or other defects are
+                    loading, tracking, and deployment.                 permitted, according to ASTM
+                                                                       F2743-11.
+Radial Stiffness    To determine the load/deformation                  Characterization only.                Pass
+& Radial            characteristics of the stent while a radial load
+Strength            was applied.
+Stress / Strain     To determine the stent durability due to worst     The fatigue safety factor shall be    Pass
+and Fatigue         case physiological loads and configuration by      greater or equal than one (≥1).
+Analysis            means of a Finite Element Analysis.
+(Overlapped)        Calculation of safety factor (SF).
+Accelerated         To determine the long-term integrity of the        No failure due to fatigue after 10    Pass
+Durability          stent under cyclical loading conditions in an      years of simulated cyclical
+Testing             overlapping and bent configuration.                loading.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                                    Page 10
+Test Performed   Test Purpose                                     Acceptance Criteria                  Result
+Magnetic         To determine the effect of Magnetic              •   The conditions in which the      Pass
+Resonance        Resonance on the position and temperature of         device can be used safely in
+Imaging (MRI)    the Orsiro stent. Also to determine the extent       1.5 T and 3.0 T systems must
+Safety and       of image artifact during MRI.                        be defined;
+Compatibility
+                                                                  •   Displacement force and
+                                                                      torque: ASTM F2052 – 06;
+                                                                  •   Image Artifact:
+                                                                      Characterization only;
+                                                                  •   RF Heating: CEM43 (≤6°C
+                                                                      for 15 minutes).
+Radiopacity      To determine X-ray visibility (Bare Stent &      X-ray density shall be comparable    Pass
+                 Delivery System).                                to commercially available control
+                                                                  devices of similar size.
+Delivery System Dimensional and Functional Attributes
+Dimensional      To inspect the physical and dimensional          •   Usable length 140 cm;            Pass
+Verification     properties of the Stent System.
+                                                                  •   Shaft markers: brachial
+                                                                      marker: 920 mm; femoral
+                                                                      marker: 1020 mm;
+                                                                  •   Compatible with 0.014 inches
+                                                                      (0.36 mm) guidewire;
+                                                                      compatible with 0.056 inches
+                                                                      (1.42 mm) guide catheter;
+                                                                  •   x-ray markers beyond the
+                                                                      stent at each end < 0.18 mm
+                                                                      (Diameter 2.25 to 3.00 mm),
+                                                                      < 0.20 mm;
+                                                                  •   Catheter shaft outer diameter:
+                                                                      Proximal (Hypotube): 2.0 F
+                                                                      (0.67 mm), Distal for device
+                                                                      sizes of 2.25 mm – 3.5 mm:
+                                                                      2.7F (0.91 mm), Distal for
+                                                                      device size of 4.00 mm: 3.0F
+                                                                      (0.99 mm);
+                                                                  •   Maximum Crossing Profile:
+                                                                      For Stent Length 9 – 30 mm
+                                                                      Ø 2.25 mm: 1.02 mm
+                                                                      Ø 2.50 mm: 1.02 mm
+                                                                      Ø 2.75 mm: 1.04 mm
+                                                                      Ø 3.00 mm: 1.05 mm
+                                                                      Ø 3.50 mm: 1.18 mm
+                                                                      Ø 4.00 mm: 1.18 mm
+
+                                                                      For Stent Length 35 – 40 mm
+                                                                      Ø 2.25 mm: 1.02 mm
+                                                                      Ø 2.50 mm: 1.02 mm
+                                                                      Ø 2.75 mm: 1.04 mm
+                                                                      Ø 3.00 mm: 1.08 mm
+                                                                      Ø 3.50 mm: 1.19 mm
+                                                                      Ø 4.00 mm: 1.20 mm
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                              Page 11
+Test Performed     Test Purpose                                     Acceptance Criteria                   Result
+Delivery,          To evaluate the performance of the stent         The delivery system should allow      Pass
+Deployment and     system and if the delivery system can reliably   a safe and reliable delivery of the
+Retraction         deliver the stent to the intended location.      stent to the intended location
+                                                                    according to the IFU and the stent
+                                                                    should not be adversely affected
+                                                                    by the guiding catheter, both
+                                                                    during deployment and
+                                                                    withdrawal.
+Deflated Balloon To evaluate the largest deflated balloon          Deflated balloon system can be        Pass
+Profile          diameter after stent deployment.                  safely withdrawn into the
+                                                                   recommended guide catheter size.
+Rated Burst        To determine the rated burst pressure (RBP) of  RBP   for all sizes ≥ 16.0 atm. with Pass
+Pressure (RBP)     the balloon when used with the stent.           95%   confidence,   at least 99.9% of
+                                                                   balloons will not experience loss
+                                                                   of integrity at or below the rated
+                                                                   burst pressure.
+Balloon Fatigue    To determine the ability of the balloon to      The balloon must resist 10            Pass
+                   withstand repeated inflation/ deflation cycles. pressurization cycles to RBP. With
+                                                                   95% confidence, 90% of the
+                                                                   catheters have no deformation or
+                                                                   loss of pressure due to failure of
+                                                                   the balloon, the shaft, the proximal
+                                                                   or distal welding.
+Balloon            To determine the relationship between the        The stent sizing results must verify Pass
+Compliance         stent diameter and the balloon inflation         that the stent systems meet the
+                   pressure.                                        labeled compliance values.
+Balloon Inflation To determine the balloon inflation and            Meet product specification across     Pass
+/ Deflation Time deflation time.                                    the range of stent diameters and
+                                                                    lengths.
+Catheter Bond      To determine the bond strength of the joint(s)   Catheter Bond Strength and Tip        Pass
+Strength and Tip   and/or fixed connections, including the distal   Pull Strength must meet the
+Pull Test          tip of the delivery system.                      requirements according to ISO
+                                                                    10555-1.
+Flexibility and    To evaluate the flexibility and resistance to    The system shall neither kink nor     Pass
+Kink Test          kink of the stent system.                        the function be compromised.
+Torque Strength    To demonstrate that the delivery system can      The function of the rotated system    Pass
+                   withstand torsional forces that are typical of   shall not be compromised after 1
+                   clinical use.                                    rotation.
+Coating Integrity To evaluate the ability of catheters (delivery    Characterization only.                Pass
+                  systems, balloon catheters) with coating to
+                  resist damage due to loading, tracking,
+                  deployment and delivery system withdrawal.
+Stent securement To determine the force that will dislodge the      Stent retention force after pre-    Pass
+for unsheathed   stent from the delivery system after               conditioning in distal and proximal
+stents           conditioning.                                      direction meets the product
+                                                                    specification.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                                 Page 12
+        B. Drug Coating Characterization Testing
+           The drug coating characterization testing conducted on the Orsiro stent coating is
+           summarized in Table 5.
+
+                           Table 5: Drug Coating Characterization Testing
+Test Performed      Test Purpose                                      Acceptance Criteria               Results
+Drug Coating        The coating integrity of the stent coating was    Characterization only.            Pass
+Integrity           assessed via a series of acute in vitro tests
+                    performed on the coated stent (baseline and
+                    simulated use).
+Particulate         Particulate testing included assessment of      Characterization only.              Pass
+Evaluation          baseline particulate (including overexpansion),
+                    simulated use particulate on the stent and
+                    delivery system.
+Chronic             Particulate evaluation and coating integrity      Characterization only             Pass
+Particulate         assessment of stents in bent overlapped
+Evaluation and      configuration after exposure to pulsatile
+Coating Integrity   stresses and strains.
+Chemical            Chemical identification of 90% of total           Characterization only.            Pass
+Identification of   particles on gold-coated filters with particles
+Particulates        recovered after acute stent testing.
+Physical          Analysis of microstructure of the coating           Characterization only.            Pass
+Microstructure of surface and cross sections by means of
+the Coating       scanning electron microscopy.
+Coating             Verification of the abluminal / sidewall          Coating thickness along the entire Pass
+Thickness and       coating thickness uniformity along the stent.     stent length < 25 μm.
+Uniformity
+In Vitro            To establish the degradation profile of the       Characterization only.            Pass
+Degradation of      polymer coating and characterize the
+the Polymer         intermediate degradants.
+Coating
+Coating             Coating adhesion and coating cohesion testing     Characterization only.            Pass
+Adhesion and        has been performed to assess the adhesive and
+Cohesion            cohesive properties of the stent coating.
+Physical Drug /     To identify drug/polymer interactions by          Characterization only.            Pass
+Polymer             comparative differential scanning calorimetry
+Interaction         (DSC) measurements of pure PLLA and
+                    PLLA/Sirolimus/BHT coated films.
+Characterization    Characterization of the polymer properties on     Characterization only.            Pass
+of Polymer          the final stent (molar mass averages of the
+(PLLA)              number (Mn) or weight (Mw), the
+                    polydispersity index (PDI), and crystallinity)
+Characterization    Testing is conducted to quantitatively verify     •   Elemental impurities per ICH Pass
+of the Final        the amount of elemental impurities and                Q3D or
+Product –           residual monomer remain below acceptable              EMEA/CHMP/SWP/4446/20
+Elemental           levels established for the finished product.          00;
+Impurities and                                                        •   Residual L-lactide per ASTM
+Residual                                                                  F1925-09.
+Monomer L-
+lactide
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                               Page 13
+Test Performed      Test Purpose                                       Acceptance Criteria                  Results
+Drug/Polymer        Testing is conducted to verify homogeneous         Characterization only.               Pass
+Distribution        drug distribution within the coating along the
+along Stent         stent length.
+Length
+Sirolimus and       Analysis of the homogeneity of the            •        Maximum deviation of ±           Pass
+BHT Content         distribution of the drug substance sirolimus           20% of the sirolimus
+Uniformity over     and the presence of antioxidant BHT along the          content/stent mass for
+Stent Length        length of the Orsiro drug-eluting stent.               individual stent segments
+                                                                           related to the mean sirolimus
+                                                                           content/stent mass of all
+                                                                           segments;
+                                                                       •   BHT greater than limit of
+                                                                           quantitation in each stent
+                                                                           segment.
+Drug loading        Analysis of the homogeneity of the                 Characterization only.               Pass
+density             distribution of the drug substance sirolimus
+                    along the length of the Orsiro drug-eluting
+                    stent.
+
+        C. Chemistry Manufacturing Control (CMC) Release Testing
+           Where applicable, International Conference on Harmonization (ICH) guidelines were
+           followed for the testing routinely performed on the Orsiro stents as part of CMC.
+           This testing is summarized in Table 6.
+
+                Table 6: Chemistry Manufacturing Control (CMC) Release Testing
+Test Performed       Test Purpose                                                               Acceptance Criteria
+Drug Identity        To verify the identity of the drug substance in the finished stent.        According to internal
+                                                                                                specifications
+BHT Identity         To verify the identity of butylated hydroxytoluene in the finished         According to internal
+                     stent.                                                                     specifications
+BHT Content          Testing is conducted to verify that the amount of BHT is within the        According to internal
+                     specifications established for the finished product.                       specifications
+Drug Content         Testing is conducted to verify that the amount of the drug substance       According to internal
+                     is within the specifications established for the finished product.         specifications
+Content              To verify the uniformity of the drug content between individual            According to internal
+Uniformity           stents is within the specifications established for the finished stent     specifications
+Impurities and       Testing is conducted to verify that the amount of impurities and       According to internal
+Degradation          degradation products are within the specifications established for the specifications
+Products             finished product.
+Drug Release         Testing is conducted to verify that the in vitro release of the drug       According to internal
+                     substance is within the specifications established for the finished        specifications
+                     product.
+Residual Solvents    Testing is conducted to quantitatively verify the amount of                According to internal
+                     chloroform remaining is within the specification established for the       specifications
+                     finished product.
+Particulates         To verify that particulate counts are below acceptable levels for the      According to internal
+                     finished product                                                           specifications
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                                   Page 14
+         Test Performed       Test Purpose                                                               Acceptance Criteria
+        Molecular Weight      To verify the weight average molecular weight and polydispersity           According to internal
+        and PDI               index of the polymer in the drug coating                                   specifications
+        Bacterial             To verify that endotoxin levels are within specifications established      According to internal
+        Endotoxins            for the finished product                                                   specifications
+         Sterility            To verify the sterility of the finished product                            According to internal
+                                                                                                         specifications
+
+                 D. Biocompatibility
+
+                      As per ISO 10993, the stent and delivery system separately were subjected to the
+                      biocompatibility tests identified in Table 7.
+
+                                       Table 7: Summary Biocompatibility Testing
+
+      Test Performed                                  Test Purpose                               Stent      Delivery        Results
+                                                                                                               S.
+Cytotoxicity                  To determine potential for cytotoxicity of the test article         X            X         Non-cytotoxic
+(ISO 10993-5)                 extract
+Sensitization                 To evaluate the allergenic potential or potential for               X            X        Non-sensitizing
+(Magnusson/Kligman)           sensitization of the test article extracts
+(ISO 10993-10)
+Irritation / Intracutaneous   To screen test article extracts for potential to produce            X            X          Non-irritant
+Reactivity                    irritation
+(ISO 10993-10)
+Acute Systemic Toxicity       To screen test article extracts for potential systemic toxic        X            X          Non-toxic
+(ISO 10993-11)                effects
+Material Mediated             To evaluate the potential of the test article extract to produce    X            X        Non-pyrogenic
+Pyrogenicity                  a pyrogenic response
+(ISO 10993-11)
+Hemolysis                     To assess the potential hemolytic activity of the test article      X            X        Non-hemolytic
+(ISO 10993-4)                 in direct and indirect contact with rabbit blood
+Complement Activation         To measure the potential complement activation as a result          X            X            Not a
+(C3a & SC5b-9)                of human plasma exposure to the test article                                               complement
+                                                                                                                           activator
+(ISO 10993-4)
+Genotoxicity – Bacterial      To evaluate the potential of the test article extracts to induce    X        Justification Non-mutagenic
+Reverse Mutation Assay        gene mutations                                                                 provided
+
+(ISO 10993-3)
+Genotoxicity - Mouse          To investigate the potential of the test article extracts to        X        Justification Non-mutagenic
+Lymphoma Assay                induce mutations (gene mutations and chromosomal                               provided
+
+(ISO 10993-3)                 damage)
+Genotoxicity – In vivo        To investigate the potential of the test article extracts to        X        Justification Non-mutagenic
+Micronucleus Assay            induce clastogenic effects                                                     provided
+
+(ISO 10993-3)
+
+
+
+
+       PMA P170030: FDA Summary of Safety and Effectiveness Data                                                       Page 15
+     Test Performed                              Test Purpose                          Stent   Delivery        Results
+                                                                                                  S.
+Implantation Short Term   To determine the local tissue effects after test article      X        n/a         Non-irritant
+(14 days)                 implantation
+(ISO 10993-6)
+Implantation Long Term    To determine the local tissue effects after test article      X        n/a         Non-irritant
+(90, 180 days)            implantation
+(ISO 10993-6)
+Chemical Characterization and Toxicological Risk Assessment
+Gas chromatography–mass To identify possible volatile, semi-volatile and nonvolatile    X         X          Extractables /
+spectrometry (GC-MS);     substances released from the test article via multiple                           leachables not of
+Liquid chromatography–    instrumental methods and the subsequent toxicological                              toxicological
+mass spectrometry (LC-    evaluation of these substances.                                                     concern for
+MS); Inductively coupled                                                                                       applicable
+plasma- mass spectrometry                                                                                      endpoints
+(ICP-MS)
+(ISO 10993-18)
+
+                   Chronic and sub-chronic systemic toxicity testing on the Orsiro stent was omitted based
+                   on a chemical characterization and toxicological risk assessment, which showed no
+                   toxicological concern for these endpoints. Carcinogenicity assessment was based on
+                   the negative results of genotoxicity testing as well as chemical characterization and
+                   toxicological risk assessment, which showed no toxicological concern for this
+                   endpoint.
+
+                   Thrombogenicity of the delivery system and stent was assessed in the large animal
+                   Good Laboratory Practice (GLP) safety studies (as described in Section G below). In
+                   addition to the implantation assessments per ISO 10993-6, the implantation endpoint
+                   was also assessed in the large animal GLP safety studies.
+                   A toxicological risk assessment was conducted on the degradants from the stent PLLA
+                   coating and was found to be acceptable.
+                   Genotoxicity testing on the delivery system was omitted as the delivery system
+                   materials have been used in FDA approved devices in contact with circulating blood.
+
+               E. Sterilization
+
+                   The Orsiro Stent System is sterilized with ethylene oxide (EtO) gas to a sterility
+                   assurance level (SAL) of 1x10-6. The sterilization processes are in compliance with
+                   ISO 11135:2014. The sterilization processes and the worst case representative product at
+                   BIOTRONIK AG (Bülach) are re-reviewed and/or re-qualified yearly.
+
+               F. Packaging and Product Shelf Life
+
+                   Packaging verification testing was performed to demonstrate that the design of the
+                   Orsiro Stent System packaging can withstand the hazards of the distribution
+                   environment and that the sterility of the device is maintained throughout the labeled
+
+
+
+       PMA P170030: FDA Summary of Safety and Effectiveness Data                                          Page 16
+         shelf life. BIOTRONIK has conducted bench testing after aging of the devices
+         according to FDA’s drug eluting stent (DES) guidance in order to support a 24-month
+         shelf life at 25 °C. The 24-month shelf life claim is based on data acquired from an
+         18-month real time and 6-month accelerated stability for drug properties, 12-month
+         real time for particulate matter, packaging integrity and sterility, 2-year real time for
+         polymer coating properties, 2-year real time data for packaging, and 92-day
+         accelerated aging for the relevant engineering attributes of the stent and delivery
+         system.
+
+      G. Animal Studies
+         An extensive series of animal studies has been conducted to evaluate the overall safety
+         and acute performance of the Orsiro Stent System. The majority of the animal studies
+         utilized earlier iterations of the Orsiro Stent manufactured from a previous version of the
+         BIOlute Coating formulation. The in vivo animal studies included implantation of the
+         earlier iteration of Orsiro Stent into study animals to evaluate its safety and acute
+         performance covering follow-up time points from 3 days to 6 years.
+         An additional recent animal study utilizing the final finished iteration of the Orsiro Stent
+         manufactured from the final BIOlute coating formulation was conducted in the PMA
+         phase. The in vivo animal studies included implantation of the final iteration of the
+         Orsiro Stents into study animals to evaluate its safety, pharmacokinetics, and polymer
+         degradation covering follow-up time points from 1 day to 3 years.
+
+         To assess the safety, acute performance and certain biocompatibility endpoints of the
+         Orsiro stent and delivery system, the animal studies were conducted to evaluate the
+         inflammation, neointimal proliferation, endothelialization, necrosis, thrombogenicity,
+         embolism, pharmacokinetics, polymer degradation, device deliverability and
+         radiopacity. The animal studies also included overdose and overlap evaluations, and an
+         endothelialization study. For all safety studies, stents were implanted in the coronary and
+         internal thoracic arteries, and angiography, gross evaluation, quantitative
+         histomorphometry, histopathology, quantitative analysis were performed. All Orsiro
+         stents that were successfully implanted remained structurally intact for the duration of
+         implantation.
+
+         All animal studies were conducted using healthy pigs and rabbits and were performed in
+         accordance with the Good Laboratory Practice (GLP) for Non-clinical Laboratory Studies
+         requirements outlined in 21 CFR Part 58, unless otherwise stated in Table 8. The results
+         of the animal studies support the safety and performance of the device. A description of
+         the studies and results is provided in Table 8.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                  Page 17
+                   Table 8: Summary of Animal Testing Conducted on Orsiro Stent System
+   Study Type        # of Stents               Testing Summary                           Acceptance Criteria
+  Overall Safety       N=50        In three safety studies, stents were            Safety of the subject stent shall
+   Assessment                      implanted in coronary and mammary               be ensured, which is confirmed
+     (GLP)                         arteries of Yucatan miniature swine.            by the study pathologist.
+                                   Histological analysis was performed at 28,      The safety assessment is based on
+                                   90, 180 days, 1, 2, 3, 4, 5 and 6 years.        but not restricted to
+                                   The pathologist concluded that the overall      inflammation, endothelialization,
+                                   safety profile of the Orsiro stent, as          necrosis and thrombus formation.
+                                   assessed by histopathology, was similar to
+                                   that seen with the bare metal stent PRO-
+                                   Kinetic Energy at all time points evaluated.
+GLP Safety Study       N=29        Stents were implanted in the coronary           Study focus is the collection of
+                                   arteries of Yucatan miniature swine for         histology data to assess safety of
+                                   safety evaluation after 28, 90 and 180 days     the subject device. Based on the
+                                   of implantation by angiography,                 pathologist’s judgement, the
+                                   histomorphometry and histopathology.            subject device shall not show any
+                                   Based on the comparison of the results to       severe safety issues.
+                                   the acceptance criteria, the subject device
+                                   fulfills the predetermined specifications for
+                                   this safety study. The results show that the
+                                   device design meets its intended purpose.
+   GLP Safety          N=11        The test is performed to demonstrate a          No severe safety issues of the
+ Study: Overdose                   safety margin with regard to higher drug        subject device overdose may
+      Arm                          and polymer dosages. The safety of              occur after 28d follow-up in
+                                   overdose stents, nominal dose stents, the       comparison to the subject device
+                                   bare metal stent PRO-Kinetic Energy and         (nominal dose). The safety
+                                   PRO-Kinetic Energy with polymer coating         assessment is based on but not
+                                   only were assessed by angiography,              restricted to: inflammation,
+                                   histomorphometry and histopathology at          endothelialization, necrosis and
+                                   28 days after implantation.                     thrombus formation.
+                                   The overdose group fulfills the
+                                   predetermined acceptance criteria for safety
+                                   28 days after implantation.
+  GLP Safety of        N=18        Stents were implanted in coronary arteries      Based on the pathologist’s
+   Overlapping        (9 pairs)    of Yucatan miniature swine. The purpose of      judgment, the overlap sections
+  Stents Study I                   this preclinical study was to evaluate the      shall not show any severe safety
+                                   safety of overlapping subject devices at 28     issues. The safety assessment is
+                                   days. The safety assessment was focused on      based on but not restricted to:
+                                   histopathology, macroscopic evaluation of       inflammation, endothelialization,
+                                   the myocardium, histomorphometry,               thrombus formation and stent
+                                   angiography and X-ray analysis.                 integrity.
+                                   Based on the comparison of the results to
+                                   the acceptance criteria subject devices
+                                   fulfill the predetermined specifications for
+                                   the overlap study. The results show that the
+                                   device design meets its intended purpose.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                                  Page 18
+  Study Type       # of Stents               Testing Summary                           Acceptance Criteria
+ GLP Safety of       N=24        Stents were implanted in coronary arteries      Safety of overlapping Orsiro
+  Overlapping      (12 pairs)    of Yucatan miniature swine. The purpose of      stents at 180 days based on the
+ Stents Study II                 this preclinical study was to evaluate the      judgment of the study
+                                 safety of overlapping Orsiro stents at 180      pathologist. The safety
+                                 days. The safety assessment focused on          assessment is based on but not
+                                 histopathology, macroscopic evaluation of       restricted to: inflammation,
+                                 the myocardium, histomorphometry,               endothelialization, necrosis,
+                                 angiography and X-ray analysis.                 thrombus formation and
+                                 Based on the comparison of the results to       evaluation of stent integrity.
+                                 the acceptance criteria, Orsiro products
+                                 fulfill the predetermined specifications for
+                                 safety of overlapping stents in the porcine
+                                 model. The results show that the device
+                                 meets its intended purpose.
+    Non-GLP          N=34        The purpose of this study was to                No acceptance criteria were
+ Pharmacokinetic                 characterize sirolimus pharmacokinetics of      applicable. For characterization
+  Study (Short-                  the Orsiro. Stents were implanted in            only.
+      term)                      coronary arteries of hybrid farm pigs.
+                                 Pharmacokinetic evaluation of tissue,
+                                 organs and drug remaining on stent was
+                                 performed at 1, 3, 8, 28 and 90 days. Whole
+                                 blood sirolimus concentrations were
+                                 measured at 5, 15 minutes, 0.5, 1, 2, 4,
+                                 6 hours, 1, 3, 8 and 14 days. Sirolimus was
+                                 quantified by HPLC-MS/MS.
+       GLP           N=49        Orsiro stents were implanted in the             No acceptance criteria were
+ Pharmacokinetic                 coronary arteries of Yucatan miniature pigs.    applicable. For characterization
+  Study (Long-                   The remaining amount of sirolimus on            only.
+      term)                      stent, and sirolimus concentrations in
+                                 vessels and organs were measured at 28, 60,
+                                 90, 180, 270, 360, 720, and 1080 days after
+                                 implantation. Blood samples were collected
+                                 for analysis of sirolimus concentrations
+                                 before implantation and after 1, 4 hours, 1,
+                                 3, 5, 7, 14, 21, 28, 60, 90, 180, 270, 360,
+                                 and 720 days. Sirolimus was quantified by
+                                 standard tandem mass spectrometry HPLC-
+                                 MS/MS.
+  Evaluation of      N=104       The purpose of the analyses was to              No acceptance criterion was
+     Coating                     characterize the polymer coating within a       applicable. For characterization
+  Degradation                    similar timeframe to the three safety and the   only.
+   (non-GLP)                     long-term pharmacokinetic studies. The
+                                 polymer coating was evaluated by
+                                 histology, confocal Raman microscopy and
+                                 gel permeation chromatography.
+                                 Polymer degradation profiles were
+                                 characterized after stent implantation.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                                Page 19
+   Study Type       # of Stents                Testing Summary                           Acceptance Criteria
+GLP Endotheliali-      N=7        Orsiro stents were implanted in iliac arteries   Analysis and comparison of the
+  zation Study                    of New Zealand White rabbits. 28 days            extent of re-endothelialization 28
+                                  after implantation endothelialization was        days after implantation of Orsiro
+                                  evaluated using scanning electron                and approved DES. The above
+                                  microscopy.                                      strut re-endothelialization rate of
+                                  Based on the comparison of the results to        Orsiro shall be non-inferior
+                                  the acceptance criteria, Orsiro products         compared to the approved DES.
+                                  fulfill the predetermined specifications for
+                                  endothelialization in the rabbit model. The
+                                  device design meets its intended purpose.
+  GLP Subacute         N=9        Orsiro stents and the bare metal stent PRO-      The subacute thrombosis risk at 3
+ Thrombogenicity                  Kinetic Energy were implanted into               days shall be non-inferior
+     Study                        coronary arteries of hybrid farm pigs. The       compared to PRO-Kinetic Energy
+                                  presence of thrombus formation,                  based on the study pathologist’s
+                                  inflammation and endothelial coverage            judgment.
+                                  were evaluated at 3 days using scanning
+                                  electron microscopy analysis and light
+                                  microscopy.
+                                  Based on the comparison of the results to
+                                  the acceptance criteria, Orsiro products
+                                  fulfill the predetermined specifications for
+                                  subacute thrombogenicity.
+  Evaluation of       N=393       The evaluation was performed in 5 porcine        The deliverability was judged by
+  Deliverability                  studies.                                         the interventionalist.
+     (GLP)                        All test articles functioned as expected.
+                                  Based on the comparison of the results to
+                                  the acceptance criteria, Orsiro products
+                                  fulfill the predetermined specifications for
+                                  deliverability in the porcine model.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                                   Page 20
+    Study Type           # of Stents                   Testing Summary                              Acceptance Criteria
+   GLP Chronic             N=372        The purpose of this test was to evaluate the         Characterization of
+   Study for the                        local biological response and myocardial             pharmacokinetics and polymer
+   Evaluation of                        changes, and, to characterize the drug               degradation. No occurrence of
+    Myocardial                          release and the polymer degradation of the           marked myocardial changes
+     Changes,                           Orsiro Stent, in order to develop an in              according to the pathologist.
+ Pharmacokinetics,                      vitro/in vivo correlation (IVIVC) in a
+     Polymer                            porcine model (Yucatan miniature pig). The
+  Degradation and                       final follow-up will be at 3 years.
+  Local Biological                      • Histopathological examination of
+    Response*                                myocardium sections was performed at
+                                             1 day, 3, 7, 14, 28, 42, 60, 90, 180, 270
+                                             and 365 days, to evaluate relevant
+                                             changes in the myocardium associated
+                                             with the downstream vasculature.
+                                        • Histopathological evaluation of stented
+                                             arteries for local biological response
+                                             was conducted in one animal at 2-year
+                                             timepoint. There is a pending
+                                             evaluation for local biological response
+                                             of stented coronary arteries in one
+                                             animal at 3-year timepoint.
+                                        • Pharmacokinetics was evaluated for
+                                             three different Orsiro stent
+                                             formulations (slow, nominal, fast drug
+                                             release) of coronary artery implants up
+                                             to 1-year timepoint.
+                                        • Polymer degradation of the thoracic
+                                             and coronary stents explanted from the
+                                             animal was analyzed for molecular
+                                             weight by Gel Permeation
+                                             Chromatography at 1 day, 3, 7, 14, 28,
+                                             42, 60, 90, 180, 270 and 365 days.
+                                             There is a pending polymer
+                                             degradation analysis at 3-year
+                                             timepoint.
+
+
+*Several iterations (slow, nominal, fast drug release) of the Orsiro stents have been evaluated, including the final iteration of
+Orsiro stent manufactured from the final BIOlute coating formulation; a total of 161 Orsiro stents manufactured from the final
+coating formulation were used.
+
+
+
+
+PMA P170030: FDA Summary of Safety and Effectiveness Data                                                               Page 21
+X.       SUMMARY OF PRIMARY CLINICAL STUDIES
+
+         The applicant performed a clinical study (BIOFLOW-V) to establish a reasonable
+         assurance of safety and effectiveness of improving coronary luminal diameter in patients,
+         including those with diabetes mellitus, with symptomatic heart disease, stable angina,
+         unstable angina, non-ST elevation myocardial infarction or documented silent ischemia
+         due to atherosclerotic lesions in the native coronary arteries with a reference vessel
+         diameter of 2.25 mm to 4.0 mm and a lesion length of ≤ 36 mm in the United States (US)
+         under investigational device exemption (IDE) # G140078. Data from this clinical study,
+         as well as pooled data from previously conducted outside the United States (OUS)
+         clinical trials (BIOFLOW-II and BIOFLOW-IV) (Table 9), were the basis for the PMA
+         approval decision. These three clinical studies utilized earlier iterations of the Orsiro
+         Stent manufactured from a previous version of the BIOlute Coating formulation. A
+         summary of the pivotal clinical study (BIOFLOW-V) is presented below. Please also see
+         Section XI below for further information for BIOFLOW-II and BIOFLOW-IV clinical
+         trials.
+         A. Study Design
+
+            Patients were treated between May 8, 2015 and March 31, 2016. The database for
+            this Premarket approval (PMA) reflected data collected through May 23, 2017 and
+            included 1334 patients. There were 90 investigational sites.
+
+            The BIOFLOW-V study is a prospective, international, multicenter, randomized
+            controlled trial (RCT) designed to evaluate the safety and effectiveness of the Orsiro
+            Sirolimus Eluting Coronary Stent System compared to the Xience Everolimus-
+            Eluting Coronary Stent System for the treatment of atherosclerotic lesions ≤ 36 mm
+            in length in native coronary arteries of 2.25 mm to 4.0 mm in diameter (by visual
+            estimate) i. The Xience DES is a legally marketed alternative with similar indications
+            for use.
+
+            The BIOFLOW-V study was designed to test the hypothesis that the rate of 12-month
+            target lesion failure (TLF) in patients treated with an Orsiro stent was non-inferior to
+            the rate of 12-month TLF in patients treated with a Xience stent. TLF is defined as
+            all cardiac death, target vessel Q-wave or non–Q-wave myocardial infarction (MI), or
+            clinically driven target lesion revascularization (TLR). The analysis of the primary
+            endpoint of 12-month TLF was a non-inferiority analysis combining data from
+            BIOFLOW-V patients with data from historical BIOFLOW-II and BIOFLOW-IV
+            patients employing a Bayesian approach.
+
+             Table 9: Overview of the Clinical Studies of the Orsiro Stent System
+
+ Study                                                                               BIOFLOW-IV
+                      BIOFLOW-V RCT*            BIOFLOW-II RCT                                     PK*
+                                                                              RCT
+                                                Evaluation of safety   Evaluation of safety  Measurement of
+                     Evaluation of safety and
+                                                and effectiveness in   and effectiveness in    whole blood
+ Purpose              effectiveness in native
+                                                  native de novo         native de novo         sirolimus
+                     de novo and PTCA only
+                                                 coronary lesions       coronary lesions    concentrations and
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                 Page 22
+ Study                                                                                         BIOFLOW-IV
+                          BIOFLOW-V RCT*              BIOFLOW-II RCT                                               PK*
+                                                                                        RCT
+                            restenotic coronary                                                           determination of PK
+                                  lesions                                                                      parameters
+
+
+                                                          Prospective,             Prospective,
+                                Prospective,
+                                                          randomized,              randomized,                Prospective,
+                          randomized, controlled,
+                                                       controlled, multi-        controlled, multi-         multicenter, non-
+ Study Design                 multi-center non-
+                                                     center non-inferiority    center non-inferiority     randomized PK sub-
+                            inferiority to Xience
+                                                            to Xience                to Xience                    study
+                                 IDE* Trial
+                                                        Regulatory trial          Regulatory trial
+ Devices                   2:1 Orsiro vs. Xience     2:1 Orsiro vs. Xience     2:1 Orsiro vs. Xience             Orsiro
+                                                     9-month Late Lumen
+ Primary Endpoint             12-month TLF*                                       12-month TVF*                    N/A
+                                                               Loss
+                             TLF: cardiac death,      TLF: cardiac death,        TLF: cardiac death,
+                          target vessel Q-wave or    target vessel Q-wave       target vessel Q-wave
+ Secondary/ Long-             non-Q wave MI*,         or non-Q wave MI,          or non-Q wave MI,
+                                                                                                                   N/A
+ term Endpoints            clinically driven TLR*      emergent CABG,             emergent CABG,
+                            (including CABG*);          clinically driven      clinically driven TLR;
+                                     ST*                    TLR; ST                       ST
+                                  1334                       452                       575
+ Number of Patients
+                               Orsiro: 884                Orsiro: 298               Orsiro: 385                 21 Orsiro
+ (ITT*)
+                               Xience: 450                Xience: 154               Xience: 190
+                           ≤ 3 de novo/ PTCA*
+                            restenotic lesions/ 2     1-2 de novo lesions                    ≤ 2 de novo lesions
+ Target lesion
+                               target vessels           Native arteries                        Native arteries
+ criteria
+                               Native arteries       50 to <100% stenosis                   50 to <100% stenosis
+                           50 to <100% stenosis
+ Lesion criteria:
+ Vessel Diameter
+                             RVD* 2.25 - 4.0            RVD 2.25 - 4.0                         RVD 2.5 – 3.75
+ (by visual
+ estimate), mm
+ Lesion criteria:
+ Lesion Length (by
+                                 LL* ≤ 36                   LL ≤ 26                                LL ≤ 26
+ visual estimate),
+ mm
+                                                         1, 6, 9 and 12
+                            1, 6 and 12 months,
+ Follow-up                                                  months,                 1, 6 and 12 months, annually 2-5 years
+                            annually 2-5 years
+                                                       annually 2-5 years
+         *Definitions: RCT, random controlled trial; PK, pharmacokinetics; ITT, intention to treat; IDE, investigational
+         device exemption; TLF, target lesion failure; TVF, target vessel failure; TLR, target vessel revascularization; MI,
+         myocardial infarction; CABG, coronary artery bypass grafting; ST, stent thrombosis; PTCA, percutaneous
+         transluminal coronary angioplasty; RVD, reference vessel diameter; and LL, late loss.
+
+              A total of 1,334 patients (884 Orsiro and 450 Xience) were randomized at 90 clinical
+              sites in 13 countries in North America, Europe, Israel and the Asia-Pacific regions.
+              Of the 1,334 patients included in the intent-to-treat (ITT) analysis set, a total of 1260
+              patients (833 Orsiro and 427 Xience) were evaluable for the 12 month primary
+              endpoint ii. The follow-up schedule includes clinical assessments at 30 days, 6, 12
+              months and 2, 3, 4 and 5 years post index procedure.
+
+              The study utilized an independent angiographic core laboratory and an independent
+              clinical events committee (CEC) to evaluate and adjudicate study primary endpoint
+              data. The core laboratories and CEC were composed of experts in their field.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                                Page 23
+           1. Clinical and Angiographic Inclusion and Exclusion Criteria
+
+                Enrollment in the BIOFLOW-V study was limited to patients who met the
+                following inclusion criteria provided in Table 10.
+
+                           Table 10: Inclusion Criteria, BIOFLOW-V
+
+    Clinical         •   Subject is ≥18 years or the minimum age required for legal adult consent in the
+    Inclusion            country of enrollment.
+    Criteria         •   Subject is an acceptable candidate for Percutaneous coronary intervention (PCI).
+                     •   Subject is an acceptable candidate for CABG.
+                     •   Subject has clinical evidence of ischemic heart disease, stable or unstable angina
+                         pectoris or documented silent ischemia.
+                     •   Subject is eligible for dual anti-platelet therapy treatment with aspirin plus either,
+                         clopidogrel, prasugrel, ticagrelor or ticlopidine.
+                     •   Subject has provided written informed consent.
+                     •   Subject is willing to comply with study follow-up requirements.
+                     •   Subject has up to three target lesions in up to two separate target vessels (two target
+    Angiographic
+    Inclusion            lesions in one vessel and one target lesion in a separate vessel).
+    Criteria
+                     •   Target lesion must be de novo or restenotic lesion in native coronary artery;
+                         restenotic lesion must have been treated with a standard PTCA only.
+
+                     •   Target lesion must be in major coronary artery or branch (target vessel).
+                     •   Target lesion must have angiographic evidence of ≥ 50% and < 100% stenosis (by
+                         operator visual estimate). If the target lesion is < 70% stenosed, there should be
+                         clinical evidence of ischemia such as a positive functional study (e.g. exercise
+                         treadmill test, thallium stress test, single photon emission computed tomography
+                         (SPECT), or stress echo), cardiac computed tomography (CT),
+                         electrocardiography, fractional flow reserve, or post infarct angina.
+                     •   Target vessel must have a Thrombolysis in Myocardial Infarction (TIMI) flow > 1.
+                     •   Target lesion must be ≤ 36 mm in length by operator visual estimate.
+                     •   Target vessel must have a reference vessel diameter of 2.25–4.0 mm by operator
+                         visual estimate
+                     •   Target lesion must be amenable to treatment with a maximum of two overlapping
+                         stents.
+
+
+                Patients were not permitted to enroll in the BIOFLOW-V study if they met any of
+                the following exclusion criteria listed in Table 11:
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                     Page 24
+                        Table 11: Exclusion Criteria, BIOFLOW-V
+
+ Clinical      •   Subject has clinical symptoms and/or ECG changes consistent with acute ST-segment
+ Exclusion         elevation myocardial infarction (STEMI) within 72 hours prior to the index procedure.
+ Criteria
+                       o    Note: Hemodynamically stable non-STEMI (NSTEMI) subjects are eligible
+                            for study enrollment.
+               •   Subject is hemodynamically unstable.
+               •   Subject is pregnant and/or breastfeeding or intends to become pregnant during the
+                   duration of the study.
+               •   Subject has a known allergy to contrast medium that cannot be adequately pre-
+                   medicated, or any known allergy to thienopyridine, aspirin, both heparin and
+                   bivalirudin, L-605 cobalt-chromium (Co-Cr) alloy or one of its major elements
+                   (cobalt, chromium, tungsten and nickel), acrylic, fluoropolymers, silicon carbide,
+                   PLLA, sirolimus or everolimus.
+               •   Revascularization of any target vessel within 9 months prior to the index procedure or
+                   previous PCI of any non-target vessel within 30 days prior to the index procedure.
+               •   Planned treatment of a lesion not meeting angiographic inclusion and exclusion
+                   criteria during the index procedure or after the index procedure.
+               •   Planned surgery within 6 months of index procedure unless dual antiplatelet therapy
+                   can be maintained throughout the peri-surgical period.
+               •   History of a stroke or transient ischemic attack (TIA) within 6 months prior to the
+                   index procedure.
+               •   Subjects with active bleeding disorders, active coagulopathy, or any other reason, who
+                   are ineligible for DAPT.
+               •   Subject will refuse blood transfusions.
+
+               •   Subject has documented left ventricular ejection fraction (LVEF) < 30% as evaluated
+                   by angiography, echocardiogram, radionuclide ventriculography or any non-invasive
+                   imaging method within 90 days prior to the index procedure.
+               •   Subject is dialysis-dependent.
+
+               •   Subject has impaired renal function (i.e., blood creatinine > 2.5 mg/dL or 221 μmol/L
+                   determined within 7 days prior to the index procedure).
+               •   Subject has leukopenia (i.e. < 3,000 white blood cells/mm3), thrombocytopenia (i.e. <
+                   100,000 platelets/mm3) or thrombocytosis (i.e. > 700,000 platelet/mm3).
+               •   Subject is receiving oral or intravenous immunosuppressive therapy (inhaled steroids
+                   are permitted) or has known life-limiting immunosuppressive or autoimmune disease
+                   (e.g., human immunodeficiency virus, systemic lupus erythematosus; diabetes
+                   mellitus is permitted).
+               •   Subject is receiving chronic anticoagulation (e.g. coumadin, dabigatran, apixaban,
+                   rivaroxaban or any other agent).
+               •   Subject has life expectancy of < 1 year.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                               Page 25
+                  •   Subject is participating in another investigational (medical device or drug) clinical
+                      study. Subjects may be concurrently enrolled in a post-market study, as long as the
+                      post-market study device, drug or protocol does not interfere with the investigational
+                      treatment or protocol of this study.
+                  •   In the investigator’s opinion, subject will not be able to comply with the follow-up
+                      requirements.
+
+ Angiographic     •   Target lesion is located within a saphenous vein graft or arterial graft.
+ Exclusion        •   Target lesion is a restenotic lesion that was previously treated with a bare metal or
+ Criteria             drug eluting stent (in-stent restenosis).
+ (Visual
+ Estimate)        •   Target lesion has any of the following characteristics:
+                          o    Lesion location is within the left main coronary artery, or within 3 mm of the
+                               origin of the left anterior descending (LAD) or left circumflex (LCX).
+                          o    Involves a side branch of > 2.0 mm in diameter.
+                          o   Note: Lesions within 3 mm of the origin of the right coronary artery may be
+                              treated.
+                  •   Target vessel/lesion is excessively tortuous/angulated or is severely calcified, that
+                      would prevent complete inflation of an angioplasty balloon. This assessment should
+                      be based on visual estimation.
+                  •   Target vessel has angiographic evidence of thrombus.
+                  •   Target lesion is totally occluded (100% stenosis).
+
+                  •   Target vessel was treated with brachytherapy any time prior to the index procedure.
+
+          2. Follow-up Schedule, BIOFLOW-V
+
+                Following enrollment/baseline and the index procedure, all randomized subjects
+                had planned follow-up visits at 1 month, 6 months and 12 months and will be
+                followed annually up to 5 years post index procedure. Dual antiplatelet therapy
+                (DAPT) was recommended for a minimum of 6 months and highly recommended
+                for 12 months in subjects not at a high risk of bleeding. Aspirin therapy was
+                recommended for the duration of study participation. The study primary endpoint
+                follow-up was completed on May 10, 2017 after all evaluable subjects completed
+                a 12-month follow-up visit.
+
+          3. Clinical Endpoints
+
+                3 (i) Primary Endpoint
+
+                The primary endpoint for the BIOFLOW-V study was TLF rate at 12 months post
+                index procedure. TLF is defined as all cardiac death, target vessel Q-wave or
+                non–Q-wave MI, or clinically driven target lesion revascularization (TLR).
+
+                All clinical data was analyzed based upon the pre-defined analysis populations.
+                The primary endpoint, TLF, was evaluated on an intent-to-treat basis.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                   Page 26
+             Non-inferiority of the Orsiro stent compared to the Xience stent in the
+             BIOFLOW-V study was assessed using a Bayesian approach employing
+             hierarchical models to formally incorporate data from the BIOFLOW-II and
+             BIOFLOW-IV trials. This approach used Binomial analysis for the presence of a
+             TLF event and a Bayesian model that allowed for bias between the TLF event
+             rates of the BIOFLOW-II and BIOFLOW-IV trials and the TLF event rates of the
+             BIOFLOW-V trial in both the Orsiro and Xience groups.
+
+             The assumptions for this analysis were:
+              • True 12-month TLF rate = 7.0% in both treatment groups (𝜋𝜋𝑋𝑋𝑉𝑉 = 𝜋𝜋𝑂𝑂𝑉𝑉 ).
+              • Power = 89%.
+              • Absolute non-inferiority margin = 3.85% (relative non-inferiority margin =
+                  55%).
+              • The results of the BIOFLOW-IV data were discounted by 20% and the
+                  BIOFLOW-II data by 30%.
+              • Standard deviation of the bias terms between the odds of BIOFLOW-II TLF
+                  12-month rates and odds of BIOFLOW-V 12-month rates = 0.3.
+              • Standard deviation of the bias terms between the odds of BIOFLOW-IV
+                  TLF 12-month rates and odds of BIOFLOW-V 12-month rates = 0.3.
+              • Non-inferiority assessment was assessed using the posterior probability of
+                  the alternative hypothesis as specified above, where 𝜋𝜋 ∗ = 0.975
+
+             A Kaplan-Meier survival analysis was also performed as a supporting analysis to
+             evaluate the time to first failure for all subjects in the intention-to-treat
+             population.
+
+             3 (ii) Secondary Endpoints
+
+             The secondary endpoints in the BIOFLOW-V study were analyzed using
+             frequentist methods. For each endpoint, the proportion and sample size were
+             calculated and reported for the Orsiro group and for the Xience group. Fisher’s
+             exact test was used to test the difference between the groups. Analyses of
+             secondary endpoints were carried out on the ITT, Modified ITT and PP (Per
+             Protocol) analysis sets for BIOFLOW-V. There was no direct imputation of
+             missing data.
+
+             Secondary Endpoints included the following measures:
+
+             •   Device success
+             •   Lesion success
+             •   Procedure success
+
+             BIOFLOW-V utilized the % residual stenosis, as assessed by the investigator, for
+             evaluating angiographic success for the aforementioned secondary endpoints. If
+             investigator assessment of % residual stenosis was not available, the in-stent final
+             % diameter stenosis, as assessed by the angiographic core-laboratory was used.
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                   Page 27
+             For the analysis of procedure success, the primary analysis definition of major
+             adverse cardiac event (MACE) was used. Treatment group difference (Orsiro
+             minus Xience) in the success rates and the two-sided 95% confidence intervals of
+             the difference are presented.
+
+             The following secondary clinical endpoints were evaluated prior to discharge, at
+             1-, 6- and 12-months and will be evaluated annually thereafter through 5 years of
+             follow-up:
+
+             •   Death
+             •   Protocol-defined MI
+             •   Cardiac death or protocol-defined MI
+             •   MACE and individual MACE components
+             •   TLF and individual TLF components
+             •   TVF and individual TVF components
+             •   Stent thrombosis according to Academic Research Consortium (ARC) criteria
+
+             Included in the analysis are subjects experiencing the event or subjects with
+             adequate follow-up (e.g., at least 23 days for the 1-month time point, at least 166
+             days for the 6-month time point, and at least 330 days for the 12-month time
+             point).
+
+             3 (iii) Exploratory Analyses
+
+             In addition to the secondary endpoint assessments, pre-specified covariates were
+             examined to determine potential relationships with the primary study endpoint or
+             its components.
+
+             Subgroups for the primary endpoint (TLF at 12-Months) using Bayesian analysis
+             for the BIOFLOW-V study included:
+
+             •   Reference vessel diameter ≤ 2.75 mm versus RVD > 2.75 mm: Subjects with
+                 at least one target lesion ≤ 2.75 mm were classified with the small vessel
+                 subgroup.
+             •   Subjects > 75 years of age versus subjects ≤ 75 years of age
+             •   Women versus men
+             •   Subjects with diabetes versus subjects without diabetes
+             •   Lesion length >26 mm versus lesion length ≤ 26 mm in length: subjects with
+                 at least one target lesion >26 mm were included with the long lesion group.
+             •   Single stents versus overlapping stents for lesion lengths > 26 mm
+             •   Subjects with baseline acute coronary syndrome (ACS) versus subject without
+                 ACS: ACS was defined as subjects with unstable angina or Braunwald Class
+                 IIB or any elevated cardiac enzymes at baseline.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                   Page 28
+                   Treatment group difference (Orsiro minus Xience) in the primary endpoint rate
+                   and the two-sided 95% credible interval of the difference are presented within
+                   each subgroup. Only BIOFLOW-V data were included in these analyses. A test of
+                   interaction on the primary endpoint was performed to formally assess
+                   heterogeneity of treatment effect on the primary endpoint across subgroups was
+                   performed. The purpose of these analyses was not to formally assess non-
+                   inferiority within each subgroup, but simply to assess consistency of results across
+                   the various subgroups. Subjects with an event or with appropriate follow-up were
+                   included in these analyses.
+
+         B. Accountability of PMA Cohort: BIOFLOW-V RCT Study
+
+              A total of 1,334 patients (884 Orsiro and 450 Xience) were randomized at 90 clinical
+              sites in 13 countries in North America, Europe, Israel and the Asia-Pacific regions
+              from May 8, 2015 to March 31, 2016. There were 665 subjects enrolled from North
+              America (among them 6 from Canada) and 669 from the other countries listed. Of the
+              1,334 patients included in the intent-to-treat (ITT) analysis set, a total of 1260
+              patients (833 Orsiro and 427 Xience) were evaluable for the 12 month primary
+              endpoint.
+
+              At the time of database lock, of the 1334 patients enrolled in the BIOFLOW-V study
+              (intent to treat population), 97.1% (1295/1334) of patients were actively enrolled at
+              the time of the 12-month primary endpoint study visit. Of these, 1257 subjects
+              completed a 12-month study visit. Seventeen subjects withdrew consent and eight
+              were lost to follow up (Table 12).
+
+
+                  Table 12: BIOFLOW-V RCT Subject Disposition, ITT Analysis Set
+                                                           Orsiro                     Xience                     Total
+ Number of Subjects Randomized                              884                        450                       1334
+ Number of Subjects Active at
+                                                     97.3% (860/884)             96.7% (435/450)         97.1% (1295/1334)
+ 12-Monthsa
+ Follow-up Compliance at 12-Monthsb                  97.2% (836/860)             96.8% (421/435)         97.1% (1257/1295)
+ No 12-Month Follow-up Performedc                          48                          29                       77
+     Prematurely Discontinued                              24                          15                       39
+          Withdrew Consent                                 10                           7                       17
+          Death                                             7                           6                       13
+          Lost to Follow-up                                 6                           2                        8
+          Other Reasonsd                                    1                           0                        1
+     Missed 12-Month Visit                                 24                          14                       38
+ Primary Endpoint Evaluable
+ Subjects:e At least 330 days of follow-             94.2% (833/884)             94.9% (427/450)         94.5% (1260/1334)
+ up or an endpoint event
+Numbers are n or % (count/sample size).
+a: Subjects who were actively enrolled and had not been exited from the study.
+b: Subjects who completed the 12-month visit out of the number of subjects that were actively enrolled at 12 months.
+c: Subjects with early exit or missed 12-month visit.
+d: Site discontinued ITT subject in error as no study stent was implanted.
+e. Subjects that had follow-up through 330 days or an event prior to 360 days.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                                  Page 29
+       C. Study Population Demographics and Baseline Parameters
+
+              Table 13 and Table 14 present the baseline demographics and baseline risk factors
+              respectively for the ITT population (N=1334) at the time of the enrollment/baseline
+              visit. The demographics of the study population are typical for a coronary stent study
+              performed in the US.
+
+                  Table 13: Baseline Demographics, BIOFLOW-V ITT population
+                                                             Orsiro             Xience          All Subjects
+     Demographics
+                                                       (N = 884 Subjects) (N = 450 Subjects) (N = 1334 Subjects)
+     Age (years)1
+        Mean±SD (N)                                     64.5±10.32 (884)     64.6±10.67 (450)    64.5±10.44 (1334)
+        Median (Q1,Q3)                                   65.0 (57.0,72.0)     65.0 (57.0,73.0)     65.0 (57.0,72.0)
+        Range (min,max)                                      (34,90)              (29,89)              (29,90)
+     Female Sex                                         25.34% (224/884)     27.11% (122/450)    25.94% (346/1334)
+     Race
+        American Indian or Alaska Native                 0.00% (0/884)        0.00% (0/450)        0.00% (0/1334)
+        Asian                                            3.28% (29/884)       2.89% (13/450)      3.15% (42/1334)
+        Black or African American                        2.71% (24/884)       2.89% (13/450)      2.77% (37/1334)
+        Native Hawaiian or other Pacific Islander        0.11% (1/884)        0.44% (2/450)        0.22% (3/1334)
+        White                                           89.59% (792/884)     90.22% (406/450)    89.81% (1198/1334)
+        Other                                            1.24% (11/884)       0.22% (1/450)       0.90% (12/1334)
+        Did not provide response                         3.05% (27/884)       3.33% (15/450)      3.15% (42/1334)
+     Ethnicity
+        Hispanic or Latino                               3.96% (35/884)       2.89% (13/450)      3.60% (48/1334)
+        Non-Hispanic or non-Latino                      91.86% (812/884)     92.67% (417/450)    92.13% (1229/1334)
+        Did not provide response                      4.19% (37/884)        4.44% (20/450)        4.27% (57/1334)
+            1Age is presented as a whole number as only the year of birth was allowed to be collected for OUS
+
+            subjects due to data privacy laws.
+
+    Table 14: Baseline Medical History and Risk Factors - BIOFLOW-V ITT population
+                                                          Orsiro                  Xience              All Subjects
+   Medical History and Risk Factors
+                                                    (N = 884 Subjects)      (N = 450 Subjects)    (N = 1334 Subjects)
+   History of MI                                    27.39% (238/869)        25.90% (115/444)       26.88% (353/1313)
+   History of Stroke or TIA                          5.54% (49/884)          4.46% (20/448)         5.18% (69/1332)
+   Smoking Habits
+     Never Smoked                                   38.80% (343/884)        40.22% (181/450)       39.28% (524/1334)
+     Ex-Smoker                                      37.56% (332/884)        37.11% (167/450)       37.41% (499/1334)
+     Current Smoker                                 23.64% (209/884)        22.67% (102/450)       23.31% (311/1334)
+   Renal Disease                                     7.93% (70/883)          7.56% (34/450)        7.80% (104/1333)
+   Hepatic Disease                                   1.58% (14/884)          2.22% (10/450)         1.80% (24/1334)
+   Respiratory Disease                              13.49% (119/882)         11.36% (51/449)       12.77% (170/1331)
+   Hypertension                                     79.73% (696/873)        80.45% (354/440)      79.97% (1050/1313)
+   Hyperlipidemia                                   78.89% (695/881)        82.41% (370/449)      80.08% (1065/1330)
+   Diabetes                                         33.98% (300/883)        36.97% (166/449)       34.98% (466/1332)
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                             Page 30
+                                                              Orsiro                    Xience                  All Subjects
+   Medical History and Risk Factors
+                                                        (N = 884 Subjects)        (N = 450 Subjects)        (N = 1334 Subjects)
+    Treatment
+     Insulin1                                            10.42% (92/883)           11.14% (50/449)           10.66% (142/1332)
+     Oral Agents1                                       25.93% (229/883)           27.62% (124/449)          26.50% (353/1332)
+     Diet Alone                                           1.36% (12/883)            3.12% (14/449)             1.95% (26/1332)
+     No Treatment                                         1.47% (13/883)             0.89% (4/449)             1.28% (17/1332)
+   Congestive Heart Failure                               7.72% (68/881)            6.47% (29/448)             7.30% (97/1329)
+    NYHA Class
+     NYHA I                                               1.48% (13/881)             0.89% (4/448)             1.28% (17/1329)
+     NYHA II                                              3.29% (29/881)            3.13% (14/448)             3.24% (43/1329)
+     NYHA III                                             1.59% (14/881)             1.34% (6/448)             1.50% (20/1329)
+     NYHA IV                                              0.23% (2/881)              0.22% (1/448)             0.23% (3/1329)
+     Unknown                                              1.14% (10/881)             0.89% (4/448)             1.05% (14/1329)
+   Peripheral Vascular Disease                            8.56% (75/876)            7.16% (32/447)            8.09% (107/1323)
+   History of Cancer                                     10.10% (89/881)           13.33% (60/450)           11.19% (149/1331)
+   Previous Coronary Revascularization                  41.05% (360/877)           37.08% (165/445)          39.71% (525/1322)
+     History of PCI                                     36.83% (323/877)           33.03% (147/445)          35.55% (470/1322)
+     History of CABG                                      7.07% (62/877)            5.17% (23/445)             6.43% (85/1322)
+            1
+                A total of seventy-four subjects received both Insulin and oral agents for the treatment of diabetes at baseline.
+
+            The majority of subjects reported current or past smoking history, concurrent
+            diagnoses of hypertension and hyperlipidemia. Prevalence of diabetes was similar and
+            consistent with recent prospective trials.
+
+            As presented in Table 15 below, baseline ischemic status was similar between the two
+            study groups with no significant differences in the distribution of ischemic symptoms
+            or the presence of elevated cardiac enzymes at baseline. Overall, one half of the
+            subjects presented with acute coronary syndrome. Table 16 presents the baseline
+            lesion characteristics.
+
+           Table 15: Ischemic Status at Baseline – BIOFLOW-V – ITT Population
+                                                                Orsiro                    Xience                 All Subjects
+   Ischemic Status
+                                                          (N = 884 Subjects)        (N = 450 Subjects)       (N = 1334 Subjects)
+   Ischemic Status
+     Stable Angina                                         48.42% (428/884)         47.44% (213/449)          48.09% (641/1333)
+     Unstable Angina                                       39.25% (347/884)         38.98% (175/449)          39.16% (522/1333)
+     Documented Silent Ischemia                            12.33% (109/884)          13.59% (61/449)          12.75% (170/1333)
+   CCS Classification1
+     I                                                      7.92% (70/884)            5.57% (25/449)           7.13% (95/1333)
+     II                                                    21.27% (188/884)         23.39% (105/449)          21.98% (293/1333)
+     III                                                   16.52% (146/884)          16.70% (75/449)          16.58% (221/1333)
+     IV                                                     2.71% (24/884)             1.78% (8/449)           2.40% (32/1333)
+   Braunwald Classification2
+     IA                                                     2.49% (22/884)            2.67% (12/449)           2.55% (34/1333)
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                                         Page 31
+                                                                Orsiro                    Xience                 All Subjects
+   Ischemic Status
+                                                          (N = 884 Subjects)        (N = 450 Subjects)       (N = 1334 Subjects)
+       IIA                                                  2.49% (22/884)            2.23% (10/449)           2.40% (32/1333)
+       IIIA                                                 1.92% (17/884)            2.00% (9/449)            1.95% (26/1333)
+       IB                                                   7.92% (70/884)            8.46% (38/449)           8.10% (108/1333)
+       IIB                                                  5.54% (49/884)            6.01% (27/449)           5.70% (76/1333)
+       IIIB-Tneg                                            7.58% (67/884)            6.68% (30/449)           7.28% (97/1333)
+       IIIB-Tpos                                            9.73% (86/884)           10.02% (45/449)           9.83% (131/1333)
+       IC                                                     0.11% (1/884)           0.00% (0/449)             0.08% (1/1333)
+       IIC                                                    0.90% (8/884)           0.22% (1/449)             0.68% (9/1333)
+       IIIC                                                   0.57% (5/884)           0.67% (3/449)             0.60% (8/1333)
+   Baseline Cardiac Enzymes3
+       CK above Normal Range                               12.08% (87/720)           14.32% (53/370)          12.84% (140/1090)
+       CKMB above Normal Range                             10.86% (66/608)           14.61% (45/308)           12.12% (111/916)
+       Troponin above Normal Range                         33.65% (178/529)          33.45% (93/278)           33.58% (271/807)
+   Acute coronary syndrome4                                51.36% (454/884)         49.56% (223/450)          50.75% (677/1334)
+   1
+     Canadian Cardiovascular Society (CCS) classification was used for stable angina subjects only.
+   2
+     Braunwald classification was used for unstable angina subjects only.
+   3
+     Denominators for baseline cardiac enzymes include all subjects with reported values for the specific enzyme. Creatine kinase–MB
+   isoenzyme (CK-MB), or troponin if CK-MB was not available, were required. Creatine kinase (CK) was optional.
+   4
+     Acute coronary syndrome was defined as subjects with unstable angina or any elevated cardiac enzymes at baseline (any pre-procedure CK,
+   CKMB or Troponin above normal range).
+
+
+              Table 16: Baseline Lesion Characteristics - BIOFLOW-V ITT Population
+                                                     Orsiro                       Xience                  All Subjects
+              Measure-
+                                              (N = 884 Subjects            (N = 450 Subjects          (N = 1334 Subjects
+              QCA* Analysis
+                                         N = 1051 Lesions)      N = 561 Lesions)      N = 1612 Lesions)
+            Number of Target
+            Lesions (per subject)
+               Mean±SD* (N)               1.19±0.43 (881)        1.26±0.50 (447)       1.21±0.46 (1328)
+            Vessel Location
+               RCA*                      32.45% (341/1051)      32.80% (184/561)      32.57% (525/1612)
+               LAD*                      41.01% (431/1051)      41.18% (231/561)      41.07% (662/1612)
+               LCX*                      26.55% (279/1051)      26.02% (146/561)      26.36% (425/1612)
+            ACC/AHA* Lesion
+            Characterization
+               B2/C                      72.60% (763/1051)      75.94% (426/561)     73.76% (1189/1612)
+            Calcification
+               Moderate or severe        23.98% (252/1051)      26.74% (150/561)      24.94% (402/1612)
+            Bifurcation Lesion           14.84% (156/1051)      14.97% (84/561)       14.89% (240/1612)
+            Lesion Length, mm
+               Mean±SD (N)               13.28±7.58 (1044)      13.20±7.70 (555)      13.26±7.62 (1599)
+            Pre-procedure
+            Reference Vessel
+            Diameter (mm)
+            (proximal-distal)
+               Mean±SD (N)                2.59±0.54 (1041)       2.60±0.58 (558)       2.59±0.56 (1599)
+            Minimal Lumen
+            Diameter (mm)
+               Mean±SD (N)                1.14±0.40 (1043)       1.14±0.41 (552)       1.14±0.40 (1595)
+         *Definitions: QCA, quantitative coronary angiography; RCA, right coronary arteries; LAD, left anterior
+         descending; LCX, left circumflex; ACC/AHA, American College of Cardiology and the American Heart
+         Association; SD, standard deviation.
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                                         Page 32
+      D. Safety and Effectiveness Results
+
+          1. Safety and Effectiveness Results
+
+              The analysis of safety and effectiveness was based on the primary endpoint and
+              secondary endpoints outcomes.
+
+              Primary Endpoint
+
+              •    The BIOFLOW-V, BIOFLOW-II and BIOFLOW-IV combined ITT
+                   population had a Bayesian estimate of the mean 12-month TLF of 6.32% in
+                   the Orsiro group compared to 8.90% in the Xience group (difference -2.58%,
+                   95% Credible Interval of -5.47% to 0.13%). The posterior probability that the
+                   difference in the rate of 12-month TLF between Orsiro and Xience was less
+                   than the pre-specified margin of 3.85% is 100.0%, which is greater than
+                   97.5% pre-specified criteria for success, demonstrating non-inferiority of
+                   Orsiro versus Xience with regards to 12-month TLF (Table 17).
+
+Table 17: Primary Endpoint - TLF at 12 Months: Bayesian Analysis - BIOFLOW-V - ITT
+                                     Population
+
+                                                                                       Posterior
+      Bayesian Analysis
+                                            Orsiro        Xience          Rate        Probability
+      BIOFLOW-V, BIOFLOW-IV,
+                                            N=1466        N=742        Difference    Non-inferiority
+      BIOFLOW-II
+                                                                                     Margin = 3.85%
+      Target-lesion failure at 12 Months,
+      Posterior Mean (estimate of SD), %,   6.3 ± 0.8     8.9 ± 1.2    -2.6 ± 1.4
+                                                                                        100.0%
+      95% Credible Interval (Lower,         (4.9, 7.9)   (6.7, 11.4)   (-5.5, 0.1)
+      Upper)
+
+              •    Given the primary hypothesis of non-inferiority was met, a post-hoc Bayesian
+                   superiority analysis was performed. The superiority hypothesis was evaluated
+                   by computing the posterior probability of the superiority alternative
+                   hypothesis and compared against the same threshold that was pre-specified for
+                   the non-inferiority test (97.5%). When assessed on BIOFLOW-V ITT subjects
+                   incorporating BIOFLOW-II and BIOFLOW-IV Bayesian analysis
+                   populations, the Bayesian posterior probability that Orsiro is superior to
+                   Xience with respect to 12-month TLF was 96.90%, which is below the
+                   pre-specified threshold of 97.5%.
+
+              •    The 12-month TLF rate was principally driven by a higher rate of target vessel
+                   MI observed in the Xience group (TV-MI rate of 4.69% in the Orsiro group
+                   compared to 8.25% in the Xience group, p=0.0155). The rates of cardiac death
+                   and clinically-driven revascularization were similar, but numerically lower in
+                   the Orsiro group as compared to the Xience group.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                             Page 33
+             •   As a secondary analysis of the primary endpoint, a frequentist analysis was
+                 performed on the BIOFLOW-V ITT population evaluating the 12-month TLF
+                 rate and its components. The primary endpoint rate of 12-month TLF was
+                 significantly lower in the Orsiro group compared to the Xience group: 6.24%
+                 (52/833) compared to 9.60% (41/427) (p=0.0399).
+
+             •   The observed TLF rate supports the safety and effectiveness of the Orsiro
+                 Stent System in treating coronary atherosclerotic lesions.
+
+             Secondary Endpoints
+
+             •   BIOFLOW-V ITT lesion and device success rates were high and were similar
+                 in both study groups. Procedural success was higher in the Orsiro group
+                 (93.87%) as compared to the Xience group (90.11%). This was principally
+                 driven by a higher rate of in-hospital MI observed in the Xience group
+                 (in-hospital target vessel MI rate of 3.85% in the Orsiro group compared to
+                 6.68% in the Xience group).
+
+             •   Death: The BIOFLOW-V rates of all-cause death and cardiac death were
+                 numerically lower among Orsiro ITT subjects compared to Xience ITT
+                 subjects at all time points through 12 months.
+
+             •   Target Vessel MI: Among BIOFLOW-V ITT subjects, lower rates of
+                 protocol-defined target-vessel MI with Orsiro compared to Xience were
+                 observed at all time points through 12 months. At 1 month, the rate of
+                 protocol-defined target vessel MI was 4.10% (36/878) in the Orsiro group and
+                 6.70% (30/448) in the Xience group. At 12 months, the rate was 4.69%
+                 (39/831) in the Orsiro group compared to 8.25% (35/424) in the Xience group.
+
+             •   Clinically-driven TLR: At 12 months, the rate of clinically-driven TLR was
+                 2.04% (17/832) in the Orsiro group and 2.37% (10/422) in the Xience group
+
+             •   Stent thrombosis: The rates of definite/probable stent thrombosis were low
+                 (acute, sub-acute, early, late or cumulative) and were similar in the two groups
+                 (Definite/Probable 12-month 0.48% [4/831] in Orsiro vs. 0.71% [3/422] in
+                 Xience). A lower rate of any ARC (definite/probable/possible) late stent
+                 thrombosis was observed in the Orsiro group (0.12% [1/830]) as compared to
+                 the Xience group (0.94% [4/424]).
+
+             •   The results of the secondary endpoints at 12 months support the safety and
+                 effectiveness of the Orsiro stent.
+
+             Adverse effects that occurred in the PMA clinical study:
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                  Page 34
+                  Adverse events (AE) that occurred in the PMA clinical study are reported in
+                  Table 18 and Table 19. Only categories of adverse events occurring at a rate of
+                  ≥1.0% in either treatment group are reported.
+                  No unanticipated adverse device effects (UADEs) have been reported during the
+                  course of the BIOFLOW-V study. There have been 2750 adverse events,
+                  including 912 serious adverse events. Overall rates of device/procedure-related
+                  AEs were similar across the study groups. The frequency and nature of adverse
+                  events observed in the BIOFLOW-V trial were similar to those observed for other
+                  drug-eluting stents approved in the United States.
+
+                         Table 18: All Site Reported Adverse Events by Type
+                                                Orsiro              Xience           All Subjects
+ Adverse Events to 360 Days                    (N = 884            (N = 450
+                                                                                  (N = 1334 Subjects)
+                                               Subjects)           Subjects)
+ Any Adverse Event                         73.64% (651/884)    73.78% (332/450)   73.69% (983/1334)
+ Blood and lymphatic system disorders       3.62% (32/884)      4.00% (18/450)     3.75% (50/1334)
+   Anemia                                    1.36% (12/884)     1.11% (5/450)      1.27% (17/1334)
+   Increased tendency to bruise              1.36% (12/884)     1.56% (7/450)      1.42% (19/1334)
+ Cardiac disorders                         28.39% (251/884)    30.89% (139/450)   29.24% (390/1334)
+   Acute myocardial infarction               1.24% (11/884)     2.00% (9/450)      1.50% (20/1334)
+   Angina pectoris                          10.52% (93/884)    12.44% (56/450)    11.17% (149/1334)
+   Angina unstable                           3.73% (33/884)     2.89% (13/450)     3.45% (46/1334)
+   Atrial fibrillation                       3.05% (27/884)     2.22% (10/450)     2.77% (37/1334)
+   Bradycardia                               1.13% (10/884)     1.33% (6/450)      1.20% (16/1334)
+   Cardiac failure congestive                1.02% (9/884)      1.33% (6/450)      1.12% (15/1334)
+   Coronary artery disease                   1.58% (14/884)     2.22% (10/450)     1.80% (24/1334)
+   Coronary artery dissection                3.51% (31/884)     5.56% (25/450)     4.20% (56/1334)
+   Coronary artery stenosis                  2.26% (20/884)     2.44% (11/450)     2.32% (31/1334)
+   Myocardial infarction                     0.57% (5/884)      1.33% (6/450)      0.82% (11/1334)
+   Palpitations                              1.58% (14/884)     1.33% (6/450)      1.50% (20/1334)
+ Eye disorders                              1.24% (11/884)      1.56% (7/450)      1.35% (18/1334)
+ Gastrointestinal disorders                 9.73% (86/884)      9.11% (41/450)     9.52% (127/1334)
+   Abdominal pain                            1.02% (9/884)      0.67% (3/450)      0.90% (12/1334)
+   Diarrhoea                                 0.57% (5/884)      1.56% (7/450)      0.90% (12/1334)
+   Gastrointestinal haemorrhage              1.36% (12/884)     0.22% (1/450)      0.97% (13/1334)
+    Nausea                                   1.02% (9/884)      1.33% (6/450)      1.12% (15/1334)
+ General disorders and administration
+                                           24.21% (214/884)    23.56% (106/450)   23.99% (320/1334)
+ site conditions
+    Asthenia                                 1.02% (9/884)      1.78% (8/450)      1.27% (17/1334)
+   Catheter site haematoma                   1.47% (13/884)     1.56% (7/450)      1.50% (20/1334)
+   Chest pain                                3.05% (27/884)     1.11% (5/450)      2.40% (32/1334)
+   Fatigue                                   2.94% (26/884)     4.67% (21/450)     3.52% (47/1334)
+   Non-cardiac chest pain                   12.90% (114/884)   12.22% (55/450)    12.67% (169/1334)
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                       Page 35
+                                                Orsiro             Xience           All Subjects
+ Adverse Events to 360 Days                    (N = 884           (N = 450
+                                                                                 (N = 1334 Subjects)
+                                               Subjects)         Subjects)
+   Oedema peripheral                        1.13% (10/884)     1.56% (7/450)      1.27% (17/1334)
+   Vascular stent restenosis                0.79% (7/884)      1.11% (5/450)      0.90% (12/1334)
+ Infections and infestations                8.71% (77/884)     7.11% (32/450)     8.17% (109/1334)
+   Pneumonia                                1.47% (13/884)     0.89% (4/450)      1.27% (17/1334)
+    Urinary tract infection                 1.24% (11/884)     1.11% (5/450)      1.20% (16/1334)
+ Injury, poisoning and procedural
+                                            4.41% (39/884)     6.22% (28/450)     5.02% (67/1334)
+ complications
+ Investigations                            22.74% (201/884)   23.78% (107/450)   23.09% (308/1334)
+    Blood creatine phosphokinase MB
+                                            0.79% (7/884)      1.33% (6/450)      0.97% (13/1334)
+ increased
+    Myocardial necrosis marker increased   19.34% (171/884)   20.00% (90/450)    19.57% (261/1334)
+   Troponin increased                       1.02% (9/884)      1.11% (5/450)      1.05% (14/1334)
+ Metabolism and nutrition disorders         3.17% (28/884)     2.00% (9/450)      2.77% (37/1334)
+ Musculoskeletal and connective tissue
+                                            8.94% (79/884)    13.33% (60/450)    10.42% (139/1334)
+ disorders
+   Arthralgia                               0.57% (5/884)      1.56% (7/450)      0.90% (12/1334)
+   Back pain                                1.36% (12/884)     2.44% (11/450)     1.72% (23/1334)
+   Myalgia                                  1.58% (14/884)     1.78% (8/450)      1.65% (22/1334)
+   Pain in extremity                        1.24% (11/884)     1.11% (5/450)      1.20% (16/1334)
+ Neoplasms benign, malignant and
+                                            2.15% (19/884)     3.33% (15/450)     2.55% (34/1334)
+ unspecified (incl. cysts and polyps)
+ Nervous system disorders                   9.95% (88/884)     9.33% (42/450)     9.75% (130/1334)
+   Dizziness                                3.51% (31/884)     3.11% (14/450)     3.37% (45/1334)
+   Headache                                 2.15% (19/884)     1.56% (7/450)      1.95% (26/1334)
+   Syncope                                  1.47% (13/884)     1.11% (5/450)      1.35% (18/1334)
+ Psychiatric disorders                      1.02% (9/884)      1.56% (7/450)      1.20% (16/1334)
+ Renal and urinary disorders                3.51% (31/884)     2.89% (13/450)     3.30% (44/1334)
+   Acute kidney injury                      1.13% (10/884)     0.67% (3/450)      0.97% (13/1334)
+   Haematuria                               0.57% (5/884)      1.11% (5/450)      0.75% (10/1334)
+ Respiratory, thoracic and mediastinal
+                                           15.61% (138/884)   12.22% (55/450)    14.47% (193/1334)
+ disorders
+   Cough                                    1.36% (12/884)     0.22% (1/450)      0.97% (13/1334)
+   Dyspnoea exertional                      1.92% (17/884)     1.56% (7/450)      1.80% (24/1334)
+   Dyspnoea                                 8.03% (71/884)     6.67% (30/450)     7.57% (101/1334)
+   Epistaxis                                1.24% (11/884)     1.33% (6/450)      1.27% (17/1334)
+ Skin and subcutaneous tissue disorders     3.73% (33/884)     2.89% (13/450)     3.45% (46/1334)
+   Dermatitis allergic                      1.47% (13/884)     1.33% (6/450)      1.42% (19/1334)
+ Vascular disorders                         8.71% (77/884)     6.67% (30/450)     8.02% (107/1334)
+   Hypertension                             2.60% (23/884)     2.00% (9/450)      2.40% (32/1334)
+   Hypotension                              2.04% (18/884)     1.78% (8/450)      1.95% (26/1334)
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                      Page 36
+                Table 19: All Serious Site Reported Adverse Events by Type
+                                                      Orsiro                 Xience         All Subjects
+ Serious Adverse Events to 360 Days                                         (N = 450         (N = 1334
+                                                 (N = 884 Subjects)
+                                                                           Subjects)         Subjects)
+ Any Serious Adverse Event                       34.73% (307/884)     35.78% (161/450)   35.08% (468/1334)
+ Blood and lymphatic system disorders             1.13% (10/884)         1.11% (5/450)    1.12% (15/1334)
+ Cardiac disorders                               15.84% (140/884)      18.44% (83/450)   16.72% (223/1334)
+   Acute myocardial infarction                     1.02% (9/884)         1.56% (7/450)    1.20% (16/1334)
+   Angina pectoris                                5.09% (45/884)        4.44% (20/450)    4.87% (65/1334)
+   Angina unstable                                3.05% (27/884)        2.67% (12/450)    2.92% (39/1334)
+   Atrial fibrillation                            1.47% (13/884)         1.33% (6/450)    1.42% (19/1334)
+   Coronary artery disease                         0.68% (6/884)         1.33% (6/450)    0.90% (12/1334)
+   Coronary artery dissection                     2.49% (22/884)        4.67% (21/450)    3.22% (43/1334)
+   Coronary artery stenosis                       2.04% (18/884)        2.22% (10/450)    2.10% (28/1334)
+ Gastrointestinal disorders                       3.96% (35/884)        2.44% (11/450)    3.45% (46/1334)
+   Gastrointestinal haemorrhage                    1.02% (9/884)         0.22% (1/450)    0.75% (10/1334)
+ General disorders and administration site
+                                                  8.82% (78/884)       7.56% (34/450)    8.40% (112/1334)
+ conditions
+   Chest pain                                     1.58% (14/884)        0.22% (1/450)     1.12% (15/1334)
+   Non-cardiac chest pain                         6.56% (58/884)       4.89% (22/450)     6.00% (80/1334)
+   Vascular stent restenosis                       0.68% (6/884)        1.11% (5/450)     0.82% (11/1334)
+ Infections and infestations                      3.62% (32/884)       4.44% (20/450)     3.90% (52/1334)
+ Injury, poisoning and procedural
+                                                  1.58% (14/884)       2.22% (10/450)     1.80% (24/1334)
+ complications
+ Investigations                                    1.02% (9/884)       0.44% (2/450)      0.82% (11/1334)
+ Musculoskeletal and connective tissue
+                                                  1.81% (16/884)       3.56% (16/450)     2.40% (32/1334)
+ disorders
+ Neoplasms benign, malignant and
+                                                  1.36% (12/884)       2.22% (10/450)     1.65% (22/1334)
+ unspecified (incl. cysts and polyps)
+ Nervous system disorders                         2.49% (22/884)       3.11% (14/450)     2.70% (36/1334)
+ Renal and urinary disorders                      1.81% (16/884)        1.11% (5/450)     1.57% (21/1334)
+ Respiratory, thoracic and mediastinal
+                                                  4.07% (36/884)       2.89% (13/450)     3.67% (49/1334)
+ disorders
+   Dyspnoea                                       1.58% (14/884)       0.89% (4/450)      1.35% (18/1334)
+ Vascular disorders                               2.60% (23/884)       2.00% (9/450)      2.40% (32/1334)
+
+
+          2. Additional Analyses of Safety and Effectiveness Results
+
+               A ‘frequentist’ analysis of the key safety and effectiveness outcomes for the
+               BIOFLOW-V ITT cohort of 1334 patients is presented below in Table 20.
+
+               Table 20: Safety and Effectiveness Endpoints – ITT Population
+                                                                       Orsiro          Xience
+         BIOFLOW-V
+                                                                      (N = 884)      (N = 450)
+         Target-lesion failure                                     6.2% (52/833)   9.6% (41/427)
+           Cardiac death                                            0.1% (1/831)    0.7% (3/425)
+           Target-vessel myocardial infarction                     4.7% (39/831)   8.3% (35/424)
+            Clinically-driven target-lesion revascularization      2.0% (17/832)   2.4% (10/422)
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                              Page 37
+                                                                   Orsiro          Xience
+         BIOFLOW-V
+                                                                  (N = 884)      (N = 450)
+         Death from any cause                                   0.8% (7/837)    1.4% (6/428)
+         Any myocardial infarction                             4.9% (41/832)   8.7% (37/425)
+           Q-wave                                               0.1% (1/831)    1.0% (4/422)
+           Non-Q-wave                                          4.8% (40/831)   8.0% (34/425)
+         Cardiac death or any myocardial infarction            5.0% (42/833)    9.1% (39/427)
+         Major adverse cardiac events                          7.0% (59/839)   10.3% (44/429)
+         Target-vessel failure                                 7.2% (60/834)   10.5% (45/427)
+           Cardiac Death                                        0.1% (1/831)     0.7% (3/425)
+           Target-vessel myocardial infarction                 4.7% (39/831)    8.3% (35/424)
+           Clinically-driven target-vessel revascularization   3.2% (27/833)    3.6% (15/422)
+         ARC Stent Thrombosis                                  0.5% (4/831)     1.2% (5/424)
+          Definite/Probable                                    0.5% (4/831)     0.7% (3/422)
+          Definite                                             0.5% (4/831)     0.7% (3/422)
+          Probable                                             0.0% (0/830)     0.0% (0/422)
+
+
+          3. Subgroup Analyses
+
+              To assess the consistency of the treatment effect, the primary endpoint was
+              analyzed among BIOFLOW-V ITT subjects using Bayesian analysis in subgroups
+              defined according to pre-specified factors: vessel diameter (RVD ≤ 2.75 mm vs.
+              RVD > 2.75 mm), age (> 75 years vs. ≤ 75 years), gender (male vs. female),
+              diabetes (diabetics vs. non-diabetics), lesion length (> 26 mm vs. ≤ 26 mm),
+              overlapping stents vs. single stent in lesions > 26 mm in length and acute
+              coronary syndrome status (unstable angina or elevated cardiac enzymes at
+              baseline vs. none). Consistency was assessed using a test of interaction at the 0.15
+              level of significance.
+
+              Among BIOFLOW-V ITT subjects, results were consistent across all subgroups.
+              Numerically lower 12-month TLF rates were observed for the Orsiro stent
+              compared to the Xience stent in each of the subgroups with the exception of the
+              subgroup of subjects older than 75 years. None of the interactions were significant
+              (p for interaction < 0.15). Any numerical trends should be interpreted with caution
+              due to the smaller number of subjects within subgroups.
+
+              Primary Endpoint Evaluation in the Diabetes Sub-group
+              An additional post hoc analysis of the diabetes subgroups was conducted
+              according to the same statistical methods used for the primary endpoint analysis.
+              The subjects included in this analysis were the subgroup of those included in the
+              primary analysis of the primary endpoint that were identified by site investigators
+              as having baseline diabetes on the electronic case report forms.
+              The analysis populations in the subgroup analyses were:
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                           Page 38
+             •   BIOFLOW-V Intent-to-Treat (ITT) diabetes subgroup: 466 subjects
+                 (300 Orsiro, 166 Xience);
+             •   BIOFLOW-IV Bayesian Analysis diabetes subgroup: 166 subjects
+                 (110 Orsiro, 56 Xience); and
+             •   BIOFLOW-II Bayesian Analysis diabetes subgroup: 120 subjects (78 Orsiro,
+                 42 Xience).
+             For the purpose of a sensitivity analysis of the primary Bayesian estimate of
+             12-month TLF, the BIOFLOW-II and BIOFLOW–IV ITT diabetic subgroups
+             were used (including subjects regardless of subjects satisfying BIOFLOW-V
+             eligibility criteria) instead of the corresponding Bayesian analysis of the diabetes
+             subgroup populations.
+             Of the 1334 subjects in the BIOFLOW-V ITT population, 466 (34.9%) were
+             identified as having diabetes at baseline and were included in the BIOFLOW-V
+             diabetes subgroup.
+             Overall, subjects in the BIOFLOW-V ITT diabetes subgroup had a mean±SD age
+             of 64.7±9.5 years; 71.7% of subjects were male and 86.7% of subjects were
+             white. Medical history (% of subjects) included hypertension (87.4%),
+             hyperlipidemia (85.3%), renal disease (9.5%), smoking (20.2% current/40.1%
+             former), prior myocardial infarction (MI) (28.3%), prior percutaneous coronary
+             artery intervention (PCI) (40.6%), and prior coronary artery bypass graft (CABG)
+             (8.0%). At baseline, 45.1% of subjects had stable angina and 50.6% of subjects
+             had acute coronary syndrome. At baseline, 30.5% of diabetic subjects were taking
+             insulin. There were no statistically significant differences between the Orsiro and
+             Xience groups with respect to any demographics, medical history or risk factors.
+
+             The primary analysis of the 12-month TLF rate was a Bayesian non-inferiority
+             analysis using data from BIOFLOW-V subjects and the prior studies,
+             BIOFLOW-II and BIOFLOW-IV. The primary analysis was carried out on all
+             BIOFLOW-V ITT subjects with baseline diabetes who experienced TLF within
+             360 days of follow-up or at least 330 days of follow-up, and on the diabetes
+             subgroups of the Bayesian analysis populations for BIOFLOW-II and
+             BIOFLOW-IV. A total combined Bayesian analysis population of 719 subjects
+             (468 Orsiro subjects and 251 Xience subjects) was included in the analysis of
+             12-month TLF rate. Among diabetic subjects, the Bayesian estimate of the mean
+             12-month TLF rate was 6.94% in the Orsiro group compared to 9.06% in the
+             Xience group (difference of -2.12%, 95% credible interval of -6.97% to 2.32%).
+             The posterior probability that the difference in the rate of 12-month TLF between
+             Orsiro and Xience is less than the margin of 3.85% is 99.61%, demonstrating
+             non-inferiority of Orsiro versus Xience with regards to 12-month TLF.
+             A frequentist analysis was performed on 12-month TLF and its components using
+             only BIOFLOW-V data. Among BIOFLOW-V ITT diabetic subjects, the
+             12-month TLF rate was 6.43% in the Orsiro group compared to 9.80% in the
+             Xience group (difference of -3.38% [95% confidence interval (CI): -9.57% to
+             1.77%]; p=0.255 for superiority). A lower rate of target vessel MI was observed
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                   Page 39
+             in the Orsiro group but was not statistically significant: 4.30% compared to 7.95%
+             (difference of -3.65% [95% CI: -9.37% to 0.89%]; p=0.127).
+             A sensitivity analysis was performed by including all BIOFLOW-II and
+             BIOFLOW-IV randomized subjects with baseline diabetes who had sufficient
+             follow-up data (at least 330 days of follow-up or experienced TLF within
+             360 days post-procedure) whether or not the subjects satisfied the BIOFLOW-V
+             inclusion/exclusion criteria. The Bayesian estimate of mean 12-month TLF in this
+             population was 7.11% in the Orsiro group compared to 8.96% in the Xience
+             group (difference of -1.85%, 95% credible interval of -6.70% to 2.58%) with a
+             posterior probability of non-inferiority of 99.44%.
+             A second sensitivity analysis included the assessment of the 12-month TLF rate
+             among the Bayesian ITT population of the 3 trials using the ARC definition for
+             the target vessel MI component of TLF was performed. When the definition of
+             TLF was extended to include ARC-defined target vessel MI, the Bayesian
+             estimate of mean 12-month TLF was 11.81% in the Orsiro group compared to
+             15.81% in the Xience group (difference of -4.00%, 95% credible interval of -
+             10.17% to 1.83%) with a posterior probability of non-inferiority of 99.67%. The
+             rate of 12-month ARC-defined target vessel MI was 9.61% (27/281) in the Orsiro
+             group compared to 13.91% (21/151) in the Xience group (difference of -4.30%,
+             95% CI of -11.35% to 1.82%). Similarly, the rate of 12-month TLF in the
+             frequentist analysis was 11.70% (33/282) in the Orsiro group compared to
+             15.69% (24/153) in the Xience group (difference of -3.98%, 95% CI of -11.33%
+             to 2.53%).
+
+             Overall rates of the primary endpoint and its components observed for Orsiro
+             were similar to those observed for the comparator Xience within and between
+             diabetic and non-diabetic cohorts. The overall 12-month TLF rate in the insulin-
+             dependent diabetic cohort was 8.13% (10/123) for Orsiro and 13.16% (10/76) for
+             Xience, with a mean difference of -5.03% and 95%CI [-15.11%, 3.49%]. Non-
+             diabetics had a 12-month TLF rate of 6.02% (60/997) in Orsiro, versus 8.16%
+             (40/490) in Xience, with a mean difference of -2.15%, 95% CI [-5.20%, 0.54%].
+             Medically-treated diabetic patients had a 12-month TLF rate of 7.22% (32/443)
+             for Orsiro compared to 7.69% (18/234) for Xience, with a mean difference of -
+             0.47%, 95% CI [-5.09%, 3.47%].
+
+             Results for measures of acute success and for rates of clinical endpoints
+             (including death, MI, composites of cardiac death/MI, MACE, TVF and their
+             components, and stent thrombosis) were similar in the Orsiro and Xience groups
+             among diabetic subjects.
+             The results of the Bayesian analysis in the BIOFLOW-V ITT diabetes subgroup
+             demonstrated the non-inferiority of Orsiro versus Xience with regard to 12-month
+             TLF rate. These results support the non-inferiority in safety and effectiveness of
+             the Orsiro stent compared to the Xience stent in a population of subjects with
+             baseline diabetes undergoing percutaneous coronary intervention.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                 Page 40
+          4. Pediatric Extrapolation
+             In this premarket application, existing clinical data was not leveraged to support
+             approval of a pediatric patient population.
+
+      E. Financial Disclosure
+
+          The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+          applicants who submit a marketing application to include certain information
+          concerning the compensation to, and financial interests and arrangement of, any
+          clinical investigator conducting clinical studies covered by the regulation. The
+          BIOFLOW-V pivotal clinical study included 512 investigators of which none were
+          full-time or part-time employees of the sponsor and eight had disclosable financial
+          interests/arrangements as defined in 21 CFR 54.2(a), (b), (c) and (f) and described
+          below:
+
+          •   Compensation to the investigator for conducting the study where the value could
+              be influenced by the outcome of the study: 0
+          •   Significant payment of other sorts: 8
+          •   Proprietary interest in the product tested held by the investigator: 0
+          •   Significant equity interest held by investigator in sponsor of covered study: 0
+
+          The applicant has adequately disclosed the financial interest/arrangements with
+          clinical investigators. Statistical analyses were conducted by FDA to determine
+          whether the financial interests/arrangements had any impact on the clinical study
+          outcome. The information provided does not raise any questions about the reliability
+          of the data.
+
+
+XI.   SUMMARY OF SUPPLEMENTAL CLINICAL INFORMATION
+
+      A. BIOFLOW-II Clinical Trial
+         Primary Objective: The primary objective of the BIOFLOW-II trial was to
+         evaluate the angiographic efficacy of the Orsiro Sirolimus Eluting Coronary Stent
+         System compared to the Xience Prime Everolimus-Eluting Coronary Stent System
+         for the treatment of atherosclerotic lesions ≤ 26 mm in length by visual estimate in
+         native coronary arteries of 2.25 mm to 4.00 mm in diameter (by visual estimate).
+
+          Design: Patients aged 18 years or older with stable or unstable angina pectoris,
+          silent ischemia, or clinical evidence of myocardial ischemia undergoing planned
+          stent implantation in a single de novo native coronary lesion were eligible for
+          enrollment. Angiographic inclusion criteria included a reference vessel diameter
+          between 2.25 and 4.0 mm with lesion length ≤ 26 mm by visual estimation.
+          Principal angiographic exclusions included chronic total occlusions, bifurcations
+          involving a side branch with diameter >2.0 mm, bypass graft stenoses and in-stent
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                  Page 41
+          restenosis. Further exclusion criteria included thrombus in the target vessel,
+          unprotected left main coronary artery disease (stenosis > 50%), evidence of
+          myocardial infarction within 72 hours prior to the index procedure, heavily
+          calcified lesions, ostial target lesions within 5.0 mm of vessel origin, and target
+          lesions in or supplied by an arterial or venous bypass graft were also excluded. The
+          protocol recommended antiplatelet therapy for a minimum of 6 months unless
+          contraindicated.
+
+          The BIOFLOW-II study was designed to test the hypothesis that the in-stent late
+          lumen loss at 9 months in patients treated with the Orsiro Stent was non-inferior to
+          the in-stent late lumen loss at 9 months in patients treated with the Xience Prime
+          control.
+
+          A total of 452 patients (298 Orsiro and 154 Xience Prime) were randomized and
+          enrolled at 24 clinical sites in Europe. Of the 452 patients included in the intent-to-
+          treat analysis set, a total of 438 (288 Orsiro and 150 Xience Prime) completed the
+          9-month follow-up visit. Angiography was completed for 85% of patients (383
+          total; 252 Orsiro and 131 Xience Prime) for evaluation of the 9-month primary
+          endpoint. A total of 435 patients (287 Orsiro and 148 Xience Prime) were
+          evaluable at the 12-month (379 days) interval. Follow-up included clinical
+          assessments at 30 days, 6, 9, 12 months and 2, 3, 4 and 5 years post index
+          procedure. An OCT substudy was performed at 6 of 24 sites in 65 patients at
+          baseline and an intravascular ultrasound (IVUS) substudy was performed at 5 of
+          24 sites in 66 patients at baseline.
+
+          Demographics: Patients were well-matched for baseline demographics. Average
+          age was 62.7±10.4 and 64.8±9.2 in the Orsiro and Xience Prime groups,
+          respectively. Approximately 78.2% of patients in the Orsiro Stent group and 74.7%
+          of patients in the Xience Prime Stent group were male, and 28.2% of patients in the
+          Orsiro group and 28.6% in the Xience Prime group had diabetes.
+
+          Baseline lesion characteristics: Mean reference vessel diameter (RVD) was
+          2.78±0.49 mm and 2.75±0.49 mm for the Orsiro and Xience Prime, respectively.
+          The percent diameter stenosis was 66.7±14.3 and 65.3±14.5 for the Orsiro and
+          Xience Prime, respectively.
+
+          Results: The mean in-stent late lumen loss at 9 months was 0.10±0.32 mm for
+          Orsiro as compared to 0.11±0.29 mm for the Xience Prime™ (Table 21). The non-
+          inferiority hypothesis was confirmed with a p value <0.0001. At 12 months, the
+          TLF Kaplan Meier estimate was 6.5% (95% CI [4.2%, 10.0%]) in the Orsiro group
+          compared to 8.0% (95% CI [4.6%, 13.7%]) in the Xience Prime™ group (Table 22).
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                     Page 42
+ Table 21: BIOFLOW-II Primary Endpoint – Late Lumen Loss - Angiographic Follow-Up
+                               Results at 9 Months
+
+                                                                                                       Difference
+      Angiographic                          Orsiro                 Xience
+      Outcomes                                                                                                                 p
+                                           (n=278                 (n=149                 Estimate (95% CI)
+                                                                                                                             Value
+                                           lesions)               lesions)
+      Late lumen loss, mm (Mean±SD)
+         In-stent                         0.10±0.32              0.11±0.29              0.0006 (−0.06 to .07)                 0.98
+         In-segment                       0.09±0.35              0.09±0.33               0.007 (−0.07 to 0.08)                0.86
+Mean±SD or counts (%) are reported for each randomized arm. Two-sided p values from superiority tests, differences, odds
+ratios, and 95% CIs are based on models; differences are the mean of the Orsiro arm minus the mean of the Xience arm.
+Continuous and categorical outcomes were analyzed at lesion level with mixed effects linear regression models or mixed
+effects logistic regression models that account for the nonindependence of multiple lesions within patients. Late loss is defined
+as minimal lumen diameter at the baseline post procedure minus minimal lumen diameter at 9 months of follow-up. CI
+indicates confidence interval.
+
+          Table 22: BIOFLOW-II Kaplan-Meier Estimates of Endpoints at 12 Months,
+                                Intent-to-Treat Patients
+
+                                                                          Orsiro                           Xience
+        Endpoints
+                                                                         (n=298)                          (n=154)
+        EFFICACY
+          Target lesion failure (TLF)                                        6.5%                           8.0%
+             Cardiac death                                                   0.7%                           0.7%
+             Clinically indicated TLR                                        3.5%                           4.7%
+             TV MI                                                           2.7%                           2.6%
+          Target vessel failure (TVF)                                        9.3%                          10.1%
+             Cardiac death                                                   0.7%                           0.7%
+             Clinically indicated TVR                                        6.6%                           6.7%
+             TV MI                                                           2.7%                           2.6%
+        SAFETY
+          Death                                                              1.0%                           0.7%
+          Cardiac death or MI                                                3.7%                           3.3%
+             Cardiac death                                                   0.7%                           0.7%
+             MI*                                                             3.1%                           2.6%
+               TV MI                                                         2.7%                           2.6%
+          Definite Stent Thrombosis                                          0.0%                           0.0%
+          Probable Stent Thrombosis                                          0.0%                           0.0%
+Number of events (Kaplan–Meier–based incidence rates [%]) are reported. No coronary artery bypass grafting
+revascularization events were reported. Target lesion failure is the composite of cardiac death, target-vessel myocardial
+infarction, coronary artery bypass grafting, or clinically driven TLR. Target vessel failure is the composite of cardiac death,
+target-vessel myocardial infarction, coronary artery bypass grafting, or clinically driven TVR. CI indicates confidence
+interval; MI, myocardial infarction; TLR, target-lesion revascularization; TV, target vessel; and TVR, target-vessel
+revascularization.
+*Event rates for myocardial infarction in the table are reported according to the Joint European Society of Cardiology
+(ESC)/American College of Cardiology (ACC)/American Heart Association (AHA)/World Heart Federation (WHF) Task
+Force universal definition of myocardial infarction.
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                                   Page 43
+      B. BIOFLOW-IV Clinical Trial
+         Primary Objective: The primary objective of the BIOFLOW-IV trial was to
+         evaluate the safety and effectiveness of the Orsiro Sirolimus Eluting Coronary
+         Stent System compared to the Xience Prime™ or Xience Xpedition™ Everolimus-
+         Eluting Coronary Stent System for the treatment of patients with up to two de novo
+         atherosclerotic coronary artery lesions with lesion length ≤26 mm and vessel
+         diameters ≥ 2.50 mm and ≤ 3.75 mm by visual estimate.
+
+          Design: Eligible patients aged 18 years to ≤ 80 years old with ischemic heart
+          disease undergoing planned stent implantation in a single de novo native coronary
+          lesion in up to two coronary arteries were eligible for enrollment. Angiographic
+          inclusion criteria included a reference vessel diameter between 2.5 and 3.75 mm
+          with lesion length ≤ 26 mm by visual estimation and TIMI flow ≥ 2. Principal
+          angiographic exclusions included target lesions in the left main, lesions located in
+          or supplied by an arterial or venous bypass graft, heavy calcification, and
+          bifurcations involving a side branch with diameter >2.0 mm. Multiple focal
+          stenosis were considered a single lesion if they could be completely covered with a
+          single stent. Clinical exclusion criteria included patients with recent (<72 hours)
+          ST-segment elevation myocardial infarction, left ventricular ejection fraction
+          <30%, those currently on immunosuppressive therapy, impaired renal function,
+          target vessel(s) or side branch treated with any type of PCI within 12 months prior
+          to the index procedure, target lesion requiring any treatment with a device other
+          than a pre-dilatation balloon prior to stent placement, planned intervention of the
+          target vessel after the index procedure, three-vessel coronary artery disease at time
+          of procedure, and those unlikely to adhere to dual antiplatelet therapy (DAPT) were
+          also excluded. The protocol recommended antiplatelet therapy for a minimum of 6
+          months and highly recommended for 12 months for patients who were not at a high
+          risk of bleeding.
+
+          The BIOFLOW-IV study was designed to test the hypothesis that the rate of 12-
+          month TVF in patients treated with the Orsiro Stent was non-inferior to the rate of
+          12-month TVF in patients treated with the Xience control. TVF was defined as the
+          composite rate of any clinically-driven revascularization of the target vessel, target
+          vessel Q-wave or non-Q-wave myocardial infarction, emergent CABG, or cardiac
+          death. The analysis of the primary endpoint of 12-month TVF was evaluated for all
+          patients who were randomized to a study stent.
+
+          A total of 579 patients (387 Orsiro and 192 Xience) were randomized and enrolled
+          at 46 clinical sites in Japan, Europe, and Australia. Of the 579 patients enrolled,
+          575 patients (385 Orsiro and 190 Xience) were included in the intent-to-treat
+          analysis set. A total of 557 patients (374 Orsiro and 183 Xience) were evaluable for
+          the 12-month primary endpoint. Follow-up included clinical assessments at 30
+          days, 6, 12 months and 2, 3, 4 and 5 years post index procedure.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                    Page 44
+          Demographics: The average patient age was 64.8±9.6 and 64.4±9.8 in the Orsiro
+          and Xience groups, respectively. Approximately 72.7% of patients in the Orsiro
+          Stent group and 76.8% of patients in the Xience Stent group were male, and 30.4%
+          of patients in the Orsiro group and 31.1% in the Xience group had diabetes.
+
+          Baseline lesion characteristics: Average lesion length was 13.7±6.1 mm and
+          13.4±6.3 mm for the Orsiro and Xience Stent groups, respectively. Mean lesion
+          diameter stenosis was 66.3% and 65.2% for the Orsiro and Xience groups,
+          respectively.
+
+          Results: The 12-month TVF rate in the ITT population, based on the MI Universal
+          Definition, was 5.1% in the Orsiro group compared to 6.6% in the Xience group,
+          with a difference of -1.5% [95% CI: -5.7%, 2.7%] and the primary endpoint was
+          met (p=0.0003, for non-inferiority) (Table 23).
+
+Table 23: BIOFLOW-IV, Kaplan Meier Estimates of Secondary Endpoints at 12 Months.
+
+                                                       Orsiro N=385          Xience N=190
+                            Endpoints
+                                                        Rate, % (n)           Rate, % (n)
+        TVF (MI Universal Definition)                    5.5% (19)             7.5% (12)
+        TVF (MI Extended Historical Definition)          4.0% (13)             4.9% (7)
+           Clinically driven (CD) TVR                    3.7% (12)             3.9% (5)
+        TLF (MI Universal Definition)                    4.2% (14)             5.4% (8)
+        TLF (MI Extended Historical Definition)           2.6% (8)             2.8% (3)
+           TLR (CD)                                       2.1% (6)             1.8% (1)
+           MI (Universal Definition)                     3.7% (14)             3.2% (6)
+           MI (Extended Historical Definition)            1.8% (7)             0.5% (1)
+        Death (all-cause)                                 1.6% (6)             2.9% (4)
+        Death (Cardiac)                                   0.0% (0)             0.5% (1)
+        Death (Non-cardiac)                               1.6% (6)             2.4% (3)
+        Stent thrombosis (Definite/Probable)              0.8% (3)             0.0% (0)
+
+
+XII.   PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+       Medical Devices Act of 1990, this PMA was not referred to the Circulatory Systems
+       Devices Panel, an FDA advisory committee, for review and recommendation because the
+       information in the PMA substantially duplicates information previously reviewed by this
+       panel.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                 Page 45
+XIII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+      The principal safety and effectiveness information for the Orsiro Sirolimus Eluting
+      Coronary Stent System is derived from preclinical studies and from the BIOFLOW-V
+      clinical trial. The risks of the device are based on non-clinical laboratory and animal
+      studies as well as data collected in a clinical study conducted to support PMA approval as
+      described above.
+      Non-clinical testing performed during the design and development of the Orsiro
+      Sirolimus Eluting Coronary Stent System confirmed the product design characteristics,
+      specifications, and intended use.
+      The in vitro engineering testing conducted on the stent and delivery system demonstrated
+      that the performance characteristics met the product specifications. The biocompatibility
+      evaluation and in vivo animal studies demonstrated that the acute and chronic in vivo
+      performance characteristics of the Orsiro Sirolimus Eluting Coronary Stent System
+      provide reasonable assurance of safety and acceptability for clinical use. The test results
+      obtained from the sterilization testing demonstrated that the product can be adequately
+      sterilized and is acceptable for clinical use. The shelf life testing has established
+      acceptable performance for the labeled shelf life of two years.
+
+      A. Effectiveness Conclusions
+
+          The BIOFLOW-V multi-center randomized controlled clinical trial evaluated the
+          safety and effectiveness of the Orsiro Sirolimus Eluting Coronary Stent System
+          compared to the Xience stent system.
+
+          The primary endpoint was TLF at 12 months, defined as the composite of
+          cardiovascular death, target vessel-related MI or clinically-driven TLR.
+
+          For the analysis of the primary endpoint, the trial employed a Bayesian design to
+          incorporate data from two prior randomized trials (the BIOFLOW-II and BIOFLOW-
+          IV trials), which reduced the sample size needed for the trial. The pooled analysis
+          included 2208 subjects. The study statistical plan included a 12-month TLF target
+          rate of 7.0% and pre-specified a 3.85% non-inferiority margin, with 97.5% posterior
+          probability success criteria.
+
+          The 12-month Bayesian population TLF rate estimate was 6.3 ± 0.8% for Orsiro
+          versus 8.9 ± 1.2% for Xience, which resulted in a mean estimate difference of -2.6±
+          1.4%, 95% Credible Interval (-5.5% to 0.1%) and a posterior probability of 100.0%.
+
+          Therefore, the primary endpoint was met, with the treatment difference demonstrating
+          unequivocal non-inferiority of Orsiro to Xience, which exceeded the pre-defined
+          97.5% criteria for success.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                   Page 46
+      B. Safety Conclusions
+
+          The risks of the device are based on non-clinical laboratory and animal studies as well
+          as data collected in a clinical study conducted to support PMA approval as described
+          above. The biocompatibility, in vivo pharmacokinetics, and in vivo performance
+          characteristics of the product provide reasonable assurance of safety and acceptability
+          for clinical use.
+
+          As noted above, the primary endpoint of the BIOFLOW-V study was met, and the
+          study satisfactorily demonstrated the safety of the Orsiro Sirolimus Eluting Coronary
+          Stent System. Individual components of the TLF composite rates of cardiac death,
+          target-vessel myocardial infarction and ischemia-driven TLR at 12 months were
+          0.1%, 4.7%, and 2.0%, respectively in the Orsiro BIOFLOW-V ITT population as
+          compared to with 0.7%, 8.3% and 2.4% in the Xience. In addition, the 12-month rate
+          of definite/probable stent thrombosis according to ARC definitions for the
+          BIOFLOW-V ITT cohort was 0.5% in Orsiro versus 0.7% for Xience.
+
+          No UADEs occurred during the BIOFLOW-V study. There have been 2750 adverse
+          events, including 912 serious adverse events reported for the BIOFLOW-V study
+          through 360 days. Overall rates of device/procedure-related AEs were similar across
+          the study groups. The overall adverse event profile and frequency of events observed
+          was similar to those previously reported for US-marketed drug eluting stents.
+
+          Long-term evaluations at 2, 3, 4 and 5 years require additional data collection and
+          analysis due to the small number of evaluations completed. However, available data
+          from BIOFLOW-II iii, iv and BIOSCIENCE v trials, as well as the SCAAR vi registry
+          support long-term safety of the Orsiro Sirolimus Eluting Coronary Stent System.
+
+      C. Benefit-Risk Determination
+
+          The probable benefits of the Orsiro Sirolimus Eluting Coronary Stent System are
+          based on data collected in the clinical study conducted in support of PMA approval as
+          described above.
+
+          The Orsiro Sirolimus Eluting Coronary Stent System has been shown to be beneficial
+          for improving luminal diameter in patients with symptomatic coronary artery disease.
+          In the pivotal IDE BIOFLOW-V trial, Orsiro demonstrated unequivocal non-
+          inferiority compared with the approved Xience stent system for TLF at 12-months, a
+          meaningful and clinically important assessment of both safety and effectiveness.
+
+          The patients treated in the BIOFLOW-V study represent a standard PCI population,
+          and the results can be applied to the general population of patients with coronary
+          artery disease.
+
+          These benefits outweigh the risks when used as intended according to the Instructions
+          for Use, as determined by the product risk analysis. No new risks were identified in
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                  Page 47
+          the BIOFLOW-V study and the overall risks were similar to those observed for other
+          US marketed drug-eluting stents.
+
+          1. Patient Perspectives
+             This submission did not include specific information on patient perspectives for
+             this device.
+
+          In summary, the available data support the conclusion that the probable benefits
+          outweigh the risks for the use of Orsiro Sirolimus Eluting Coronary Stent System for
+          improving coronary luminal diameter in patients, including those with diabetes
+          mellitus, with symptomatic heart disease, stable angina, unstable angina, non-ST
+          elevation MI or documented silent ischemia due to atherosclerotic lesions in native
+          coronary arteries with a reference vessel diameter of 2.25 mm to 4.0 mm and a lesion
+          length of ≤ 36 mm.
+
+      D. Overall Conclusions
+
+          The data in this application support the reasonable assurance of safety and effectiveness
+          of this device when used in accordance with the indications for use. Although the
+          majority of clinical and non-clinical studies used earlier iterations of the Orsiro Stent
+          manufactured from a previous version of the BIOlute Coating formulation, the results are
+          reasonably representative of the performance of the approved version of the Orsiro stent
+          to support marketing along with the conditions of approval described below.
+
+
+XIV. CDRH DECISION
+
+      CDRH issued an approval order on February 22, 2019. The final conditions of approval
+      cited in the approval order are described below.
+
+      1. You will conduct an additional real time in vitro polymer degradation study (3 lots
+         and 6 samples/lot) on the Orsiro stent system, produced according to the approved
+         manufacturing conditions, using different raw material batches (e.g., different lots of
+         polymer and solvent). The degradation study will include characterizing the mass
+         loss, molecular weight change and degradation products with sufficient time points
+         covering all stages of the degradation process.
+
+      2. You will conduct a real time in vitro degradation study monitoring the polymer
+         characteristics during the full degradation process for each incoming lot of solvent
+         until alternative measures are approved.
+      3. You will conduct a post-approval study (PAS) to confirm that the clinical
+         performance of the Orsiro stent, produced according to the approved manufacturing
+         conditions, is similar to the clinical performance observed for the Orsiro stent studied
+         in the IDE pivotal trial. The PAS will be a single-arm study, and the primary
+         endpoint will be Target Lesion Failure (TLF) at 1-year, defined as Cardiac Death,
+         Target Vessel Myocardial Infarction or Target Lesion Revascularization. The study
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                    Page 48
+              will enroll at least 500 on-label subjects, and the TLF rate will be compared with a
+              statistically valid performance goal that is based on the TLF rate observed in patients
+              treated with Orsiro stents in the BIOFLOW V pivotal trial. You will collect and
+              report clinical outcomes to FDA through at least 5 years post-procedure on patients
+              enrolled in the Biotronik ORSIRO PAS.
+         3.4.You will continue follow-up of the BIOFLOW-V Clinical Study, which was initiated
+             prior to device approval. The BIOFLOW-V study (G140078) is a prospective,
+             international, multicenter, randomized controlled trial (RCT) designed to evaluate the
+             safety and effectiveness of the Orsiro Sirolimus Eluting Coronary Stent System
+             compared to the Xience Everolimus-Eluting Coronary Stent System for the treatment
+             of atherosclerotic lesions ≤36 mm in length in native coronary arteries of 2.25 mm to
+             4.0 mm in diameter (by visual estimate). The BIOFLOW-V study was designed to
+             test the hypothesis that the rate of 12-month target lesion failure (TLF) in patients
+             treated with an Orsiro stent was non-inferior to the rate of 12-month TLF in patients
+             treated with a Xience stent. You will collect and annually report clinical outcomes to
+             FDA through 5 years post-procedure on patients enrolled in the BIOFLOW-V
+             Clinical Study.
+
+         The applicant’s manufacturing facilities have been inspected and found to be in compliance
+         with the device Quality System (QS) regulation (21 CFR 820).
+
+XV.      APPROVAL SPECIFICATIONS
+
+         Directions for use: See device labeling.
+
+         Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+         Precautions, and Adverse Events in the device labeling.
+
+         Post-approval Requirements and Restrictions: See approval order.
+
+XVI. REFERENCES
+i Doros G, Massaro JM, Kandzari DE et al. Rationale of a Novel Study Design for the BIOFLOW V Study, a Prospective,
+
+Randomized, Multicenter Study to Assess the Safety and Efficacy of the Orsiro Sirolimus-Eluting Coronary Stent System
+Incorporating Historical Data and Utilizing a Bayesian Approach. Am Heart J. 2017 Aug 05;
+http://www.ahjonline.com/article/S0002-8703(17)30221-1/fulltext..
+
+ii Kandzari DE, Mauri L, Koolen JJ et al. Ultrathin Bioresorbable Polymer Sirolimus-Eluting Stents versus Thin Durable Polymer
+
+Everolimus-Eluting Stents in Patients Undergoing Coronary Revascularisation (BIOFLOW V): a randomised trial. Lancet. 2017
+Aug 26. http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32249-3/fulltext.
+
+iii
+  Haude, M, Lefévre, T, Witzenbichler, B, et al. CRT-226 Two Year Safety And Clinical Performance Of The Drug Eluting
+Orsiro Stent In The Treatment Of Subjects With Single De Novo Coronary Artery Lesions-II (BIOFLOW-II) JACC Cardiovasc
+Interv. 2015 Feb;8(2): S1.
+
+iv Lefèvre, T. et al. Comparison of a novel biodegradable polymer sirolimus-eluting stent with a durable polymer everolimus-
+
+eluting stent: 5-year outcomes of the randomized BIOFLOW-II trial. J Am Coll Cardiol Intv; 11:995–1002.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                               Page 49
+v Zbinden, R, Piccolo, R, Heg, D, et al. Ultrathin Strut Biodegradable Polymer Sirolimus-Eluting Stent Versus Durable-Polymer
+
+Everolimus-Eluting Stent for Percutaneous Coronary Revascularization: 2-Year Results of the BIOSCIENCE Trial. J Am Heart
+Assoc. 2016 Mar 15;5(3): e003255.
+
+vi Different stents in SCAAR. Swedish Coronary Angiography and Angioplasty Registry. 2017 Jan 11.
+
+http://www.ucr.uu.se/swedeheart/forskning-scaar/in-english/stent-reports.
+
+
+
+
+PMA P170030: Summary of Safety and Effectiveness Data                                                             Page 50
+

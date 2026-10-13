@@ -6,7 +6,8 @@ def get(q):
     except Exception: return []
 out=[];per={}
 for r in rows:
-    m=r['model'];ids={x for p in cats[m] for x in p if x and len(x)>=5}
+    m=r['model'];ids={x for p in cats.get(m,[]) for x in p if x and len(x)>=5}
+    if not ids: per[m]=0;continue
     base=re.sub(r'^(NES|Vein360) Reprocessed ','',m).split(' RX')[0]
     qs=['product_description:"%s"'%base]+['pma_numbers:%s'%s if s.startswith('P') else 'k_numbers:%s'%s for s in r['fda_submission'].split(', ') if s]
     seen={}
@@ -16,7 +17,7 @@ for r in rows:
     hits=[]
     for x in seen.values():
         txt=(x.get('code_info','')+' '+x.get('product_description',''))
-        mt=sorted(i for i in ids if re.search(r'(?<![A-Za-z0-9])'+re.escape(i)+r'(?![A-Za-z0-9])',txt))
+        mt=sorted(i for i in ids if (i in txt) and re.search(r'(?<![A-Za-z0-9])'+re.escape(i)+r'(?![A-Za-z0-9])',txt))
         if mt: hits.append((x,mt))
     for x,mt in hits:
         out.append({'manufacturer':r['manufacturer'],'model':m,'category':r['category'],'recall_number':x.get('product_res_number',''),'event':x.get('res_event_number',''),

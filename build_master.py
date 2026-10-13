@@ -14,7 +14,7 @@ rows=[];prov={};devs={}
 MMX=re.compile(r'(\d+(?:\.\d+)?)\s*(?:mm)?\s*[xX×]\s*(\d+(?:\.\d+)?)\s*(?:mm)?')
 for fam,(fn,brx,inc,exc) in F.items():
     R=[r for r in json.load(open(f'raw/udi/{fn}.json')) if re.search(brx,r.get('brand_name',''))]
-    CO={'Cougar':'MEDTRONIC','Wolverine Cutting Balloon':'BOSTON','Mamba':'BOSTON','GRAFTMASTER RX':'ABBOTT'}
+    CO={'Cougar':'MEDTRONIC','Wolverine Cutting Balloon':'BOSTON','Mamba':'BOSTON','GRAFTMASTER RX':'ABBOTT VASCULAR'}
     if fam in CO: R=[r for r in R if CO[fam] in r.get('company_name','').upper()]
     if inc: R=[r for r in R if re.search(inc,(r.get('device_description') or '')+' '+r.get('brand_name','')+' '+json.dumps(r.get('device_sizes')))]
     if exc: R=[r for r in R if not re.search(exc,(r.get('device_description') or '')+' '+r.get('brand_name',''))]
@@ -67,13 +67,13 @@ for fam,(fn,brx,inc,exc) in F.items():
         else: p[k]=gsrc
     rows.append(o);prov[fam]=p;devs[fam]=R
 json.dump(prov,open('provenance.json','w'),indent=0)
-json.dump({k:[(r.get('catalog_number'),r.get('version_or_model_number')) for r in v] for k,v in devs.items()},open('raw/catalogs.json','w'))
-SPEC={'DES':['drug','drug_dose','polymer','strut_thickness_um','platform_alloy','crossing_profile_in','max_expansion_mm'],
-'BMS':['platform_alloy','strut_thickness_um','crossing_profile_in'],'Covered stent':['covering_material','platform_alloy','crossing_profile_in'],
+json.dump({k:[(r.get('catalog_number'),r.get('version_or_model_number'))+tuple(i['id'] for i in r.get('identifiers',[])) for r in v] for k,v in devs.items()},open('raw/catalogs.json','w'))
+SPEC={'DES':['drug','drug_dose','polymer','strut_thickness_um','platform_alloy','crossing_profile_in','max_expansion_mm','nominal_pressure_atm','rbp_atm','delivery_length_cm','guide_compat'],
+'BMS':['platform_alloy','strut_thickness_um','crossing_profile_in','nominal_pressure_atm','rbp_atm','delivery_length_cm'],'Covered stent':['covering_material','platform_alloy','crossing_profile_in','delivery_length_cm','guide_compat'],
 'DCB':['drug','coating_excipient','drug_dose'],'Balloon':['balloon_type','compliance','nominal_pressure_atm','rbp_atm','crossing_profile_in','tip_profile_in','shaft_length_cm'],
 'Guide catheter':['curves','inner_diameter_in','side_holes'],'Guidewire':['tip_load_gf','core_material','coating','wire_use'],
 'Microcatheter':['tip_od_fr','shaft_od_fr','inner_diameter_in','marker_bands'],'Guide extension':['inner_diameter_in','outer_diameter_in','guide_compat_fr'],
-'Atherectomy & IVL':['mechanism','pulses_or_runs'],'Imaging & physiology':['modality','frequency_mhz','pullback_speed','physiology_indices'],
+'Atherectomy & IVL':['mechanism','pulses_or_runs','rbp_atm'],'Imaging & physiology':['modality','frequency_mhz','pullback_speed','physiology_indices'],
 'Thrombectomy':['mechanism','aspiration_lumen_in']}
 allspec=[];[allspec.append(x) for v in SPEC.values() for x in v if x not in allspec]
 # conservative name-derived values
@@ -92,9 +92,10 @@ for o in rows:
     if o['category']=='Imaging & physiology':
         mod='IVUS (solid-state)' if 'Eagle' in m else 'IVUS (rotational)' if m in('Refinity ST','OptiCross HD') else 'OCT' if 'Dragonfly' in m else 'Pressure wire' if m in('OmniWire','PressureWire X','COMET II') else 'Pressure microcatheter' if 'Navvus' in m else ''
         if mod: setv('modality',mod,'GUDID brand name / FDA product code '+o['product_code'])
+exec(open('pass02_apply.py').read())
 FIELDS=['category','manufacturer','model','reprocessed','n_skus','catalog_numbers','fda_submission','product_code','diameters_mm','lengths_mm','french_sizes','length_cm','wire_diameter_in','guidewire_compat_in','sheath_compat_fr','burr_sizes_mm','inner_diameter_mm']+[x for x in allspec if x!='inner_diameter_mm']
 FIELDS=list(dict.fromkeys(FIELDS))
 with open('coronary-specs-verified.csv','w',newline='') as f:
     w=csv.DictWriter(f,FIELDS);w.writeheader();[w.writerow({k:r.get(k,'') for k in FIELDS}) for r in rows]
 json.dump(SPEC,open('spec_by_cat.json','w'))
-for r in rows: print(r['category'][:12],'|',r['model'][:30],'|',r['manufacturer'][:25],r['n_skus'],r['fda_submission'][:30],r['diameters_mm'][:40],r['french_sizes'][:30],r['length_cm'][:30],r['wire_diameter_in'][:20])
+for r in rows: r={k:r.get(k,'') for k in FIELDS};print(r['category'][:12],'|',r['model'][:30],'|',r['manufacturer'][:25],r['n_skus'],r['fda_submission'][:30],r['diameters_mm'][:40],r['french_sizes'][:30],r['length_cm'][:30],r['wire_diameter_in'][:20])

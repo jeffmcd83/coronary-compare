@@ -1,0 +1,1120 @@
+                SUMMARY OF SAFETY AND EFFECTIVENESS DATA
+
+
+      I.     GENERAL INFORMATION
+
+             Device Generic Name:          Coronary Stent System
+
+             Device Trade Name:            DriverTM Over-The-Wire, Rapid Exchange and Multi-
+                                           Exchange Coronary Stent System
+6%-
+             Applicant's Name and Address:        Medtronic Vascular
+                                                  3576 Unocal Place
+                                                  Santa Rosa, CA 95403
+                                                  USA
+
+             Date(s) of Panel Recommendation:     None
+
+             Premarket Approval Application (PMA) Number: PO30009
+
+             Date of Notice of Approval to Applicant:     October 1,2003
+
+
+      11.    INDICATIONS FOR USE
+
+             The Medtronic DriverTMOver-The-Wire, Rapid Exchange, and Multi-Exchange Coronary
+             Stent Systems (hereinafter called the DriverTMCoronary Stent System) are indicated for
+             improving coronary luminal diameter in patients with symptomatic ischemic heart disease
+             due to discrete de novo or restenotic lesions with reference vessel diameters of 3.0 - 4.0
+             mm and 5 30 mm in length using direct stenting or pre-dilatation. Outcome beyond 270
+             days for thispermanent implant is unknown at present.             >
+
+
+
+
+      111.   DEVICE DESCRIPTION
+
+             The Medtronic DriverTMCoronary Stent System is comprised of two components: the
+             Stent and the Delivery System. The DriverTMstent is identical despite which delivery
+             system it is mounted on.
+
+             The DriverTMstent consists of a series of 1.O mm segments that are constructed from a
+             continuous toroid ring manufactured from a Co-Ni-Cr-Mo alloy conforming to ASTM F
+             562-00. The ring is formed into alternating upper and lower crowns with 10 radiused
+             crowns per end connected by axial struts for a total of 20 crowns and 20 axial struts in a
+             zigzag pattern.
+The use of a new alloy facilitates the implementation of thinner struts without affecting
+the radial strength or radiopacity of the stent. Unlike 3 16L stainless steel, the new alloy
+does not contain significant levels of iron (1 .O percent by weight maximum), thereby
+enhancing MRI compatibility. In addition, the radiopacity of the Co-Ni-Cr-Mo alloy is
+greater than that of 3 16L stainless steel, due primarily to increased levels of molybdenum.
+ As such, the radiopacity of 3 16L stainless steel stents is maintained with the Co-Ni-Cr-
+Mo alloy stents even with thinner stent struts
+
+The stent is mounted on one of three delivery systems. Each delivery system provides a
+means for delivering the stent through the coronary vasculature and, once in the desired
+location, expands the stent through balloon inflation. The three delivery systems
+available with the DriverTMstent are the Over-The-Wire (OTW), Rapid Exchange (RX)
+and Multi Exchange (MX) Delivery System.
+
+All delivery systems have a minimal amount of working length extending beyond the
+stent on each side. The inner lumen of the catheter is designed to accommodate a
+maximum guidewire diameter of 0.0 14 inches.
+
+Table 1 provides the product labeling specifications for the Medtronic DriverTMCoronary
+Stent and the three Delivery Systems
+
+
+   Table 1: Product Labeling Specifications for the Medtronic DriverTMCoronary
+   Stent Svsterns
+                                                                         Nominal       Rated
+                                                                         Pressure      Burst
+                                                                          (atm)       Pressure
+                                                             Inner                     (atm)
+                                                           Diameter
+                                                           (inches)
+Medtronic DriverTM      Over-the-   3.0      9           .056           9            16
+Over-the- Wire          Wire        3.5       12
+Coronary StenGystem                 4.0       15
+                                              18
+                                             24
+                                             30
+Medtronic DriverTM      Rapid       3 .O     9           .056                        16
+Rapid Exchange          Exchange    3.5       12
+Coronary Stent System               4.0       15
+                                              18
+                                              24
+                                              30
+Medtronic DriverTM      Multi-      3.0       9          .064                        16
+Multi-Exchange MX       Exchange    3.5       12
+Coronary Stent System               4.0       15
+                                              18
+                                              24
+                                              30
+IV.        CONTRAINDICATIONS, WARNINGS AND PRECAUTIONS
+
+           Contraindications
+
+           The Driver Coronary Stent System is contraindicated for use in:
+                      Patients in whom antiplatelet and/or anticoagulation therapy is
+                      contraindicated.
+                      Patients who are judged to have a lesion that prevents complete inflation of
+                      an angioplasty balloon.
+k
+           Warnings and Precautions
+
+           A list of warnings and precautions can be found in the device labeling.
+
+
+    V.     ALTERNATIVE PRACTICES AND PROCEDURES
+
+           Patients with early coronary artery disease receive exercise, diet, and drug therapy as
+           appropriate. If the disease progresses, alternative practices specific to the treatment of
+           coronary artery disease include: percutaneous transluminal coronary angioplasty (PTCA),
+           drug therapy (e.g., thrombolytic agents, antiplatelet agents, and anticoagulant agents),
+           Coronary Artery Bypass Graft Surgery (CABG), and stenting with other commercially
+           available stents.
+
+    VI.    MARKETING HISTORY
+
+           The Driver Coronary Stent System has been approved for commercial distribution in the
+           European Union, Canada, China, Australia and Singapore. The Driver Coronary Stent
+           System has not been withdrawn from marketing for any reason relating to the safety and
+           effectivenesuf the device.                                      *
+
+
+
+    VII.   SUMMARY OF PRECLINICAL STUDIES
+
+           Biocompatibility
+
+           All biocompatibility testing was performed in accordance with;
+
+           0      Guidance for the Submission of Research and Marketing Applications for
+           Interventional Cardiology Devices; published by the Interventional Cardiology Devices
+           Branch, Division of Cardiovascular, Respiratory and Neurology Devices, Office of
+           Device Evaluation in May 1995.
+           0       IS0 10993, Biological Evaluation of Medical Devices
+        The following biocompatibility tests were conducted and passed on the DriverTM
+        Coronary Stent System:
+
+  Biocompa d i t y Testing on ( I-Ni-Cr-Mo alloy (DriverTMStent)
+Component    Biological Effect     Test                         Criterion                     Results
+Stent Raw    Cytotoxicity          L929 MEM Elution Test-       01-2293-GI                    Pass
+Material                           IS0                          Results must indicate a
+                                                                grade of 2 or lower.
+             Sensitization         Skin Sensitization Kligman   01-2293-GI1                   Pass
+                                   Maximization test-IS0        No dermal inflammatory
+                                                                response greater than the
+                                                                control.
+ k           Irritation            Intracutaneous Injection     01-2293-GS                    Pass
+                                   Test-IS0                     No greater adverse
+                                                                reactions or responses
+                                                                when compared to the
+                                                       ~~
+                                                                controls.
+             Systemic Toxicity     System Injection test-IS0    0 1-2293-G9                   Pass
+                                                                No greater adverse
+                                                                reactions or responses
+                                                                when compared to the
+                                                                controls.
+             Mutagenicity /        Rodent Bone Marrow           01-2293437                    Pass
+             Genotoxicity          Micronucleus Assay-IS0       The test article must not
+                                                                induce a significant
+                                                                increase in the number of
+                                                                micronucleated cells when
+                                                                compared to controls.
+                                   Chromosomal Aberration       0 1-229346                    Pass
+                                   Assay-IS0                    The test article must not
+                                                                induce a significant
+                                                                increase in reversion in
+                                                                the genomes of the
+                                                                organisms tested, when
+                                                                compared to controls.
+                                   S. typhimurium/ E.coli       01-2293-G5                    Pass
+                          e        Reverse Mutation Assay-      Test article extraEts must
+                                   IS0                          not be considered
+                                                                mutagenic when
+                                                                compared to controls.
+             Implantation /        Biocompatibility Implant     0052D640 P1056                Pass
+             Subchronic toxicity   Study                        No capsule formation or
+                                                                other adverse reaction to
+                                                                the implanted test article.
+             Hemocompatibility     C3a Complement Activation     01-2293-G3                   Pass
+                                   Assay                         The test article must not
+                                                                 induce complement
+                                                                 activation when compared
+                                                                 to controls.
+                                  Unactivated Partial           0 1-2293-G4                   Pass
+                                  Thromboplastin Time           The test article must not
+                                  Assay-IS0                     significantly effect the
+                                                                clotting time of human
+                                                                plasma when compared to
+                                                                controls.
+                                   ~~~~
+
+
+
+
+                                  In Vitro Hemocompatibility    01-2293-G2                    Pass
+                                  Assay-IS0                     The test article must not
+                                                                adversely effect selected
+                                                                hematological parameters
+                                                                of human blood when
+                                                                compared to controls.
+Bc          Pyrogenicity          Rabbit Pyrogen Test           0 1-2293-G 10                 Pass
+                                  (Material Mediated)-IS0       No single animal must
+                                                                exhibit an increase of
+                                                                0.5"C or more above its
+                                                                baseline temperature.
+            Hemocompatibil ity    C3a Complement Activation     01T 10878 01                  Pass
+                                  Assay                         The test article must not
+                                                                induce complement
+                                                                activation when compared
+                                                                to controls.
+            Implantation /        IS0 Muscle Implantation, in   OIC 12404 00                   Pass
+            Subchronic toxicity   3 Rabbits (6 weeks),          No capsule formation or
+                                  whistopathology               other adverse reaction to
+                                                                the implanted test article.
+
+
+
+
+Component   Type                  Test                          Criterion                             Res uIts
+Stent and   Cytotoxicity          L929 MEM Elution Test-        OIC 11441 00                          Pass
+Delivery                          IS0                           Results must indicate a grade of
+System                                                          2 or lower.
+            Sensitization         IS0 Sensitization Study in    01C 11441 00                          Pass
+                                  the Guinea Pig                No dermal inflammatory
+                                                                response at the test sites greater
+                                                                than that seen in the control.
+            Irritation            I S 0 Acute Intracutaneous    01C 11441 00                          Pass
+                                  Reactivity Study in the       No adverse reactions or
+                                  Rabbit                        responses when compared to
+                                                                the controls.
+            Systemic Toxicity     IS0 Acute Systemic            01C 11441 00                          Pass
+                                  Toxicity                      No greater adverse reactions or
+                                  in the Mouse                  responses when compared to
+                                                                the controls.
+              Mutagenicity I       Genotoxicity: Bacterial     01C 12359 00                           Pass
+              Genotoxicity         Reverse Mutation (Ames)     The test article must not induce
+                                   Test, Salmonella and E. colia significant increase in
+                                   Strains                     reversion in the genomes of the
+                                                               organisms tested, when
+                                                               compared to controls.
+                                                               Test article extracts must not be
+                                                               considered mutagenic when
+                                                               compared to controls.
+               Hemocompatibility   Hemolysis                   01C 11441 00                           Pass
+                                                               The mean hemolytic index must
+                                                               be 2% or less.
+k                                  White Blood Cell            01T 10878 00                           Pass
+                                   Morphology Study -In vitro The number of while cells with
+                                                               morphological abnormalities
+                                                               must be -3%.
+               Hemocompatibility   Plasma Recalcification Time 01T 10878 00                           Pass
+                                   Coagulation Study (With     The test article must not exhibit
+                                   Protocol Amendment I, 11 & a significant difference in
+                                   III)                        recalcification times and effects
+                                   voo20-000                   on fibrin clot formations when
+                                                               comoared to the control.
+               Pyrogenicity        I S 0 Rabbit Pyrogen Study  OIC 11441 00                           Pass
+                                   (Material Mediated)         No single animal must exhibit
+                                                               an increase of 0.5"c or more
+                                                               above its baseline temperature.
+
+
+    Biocompa bility Testing on 1   ! Multi-Exchange Delivery System
+Component      Type                Test                           Criterion                           Resu I ts
+Delivery       Cytotoxicity        L929 MEM Elution Test-         02T0757800                          Pass
+System                             IS0                            Results must indicate a grade of
+                                                                  2 or lower.
+               Hemocompatibility   Hemolysis                      02T0757800                          Pass
+                                                                  The mean hemolytic index must
+                                                                  be 2% or less.
+                                                                  02T0626800      --
+                                                                  The test article must not induce
+                                   C3a Complement Activation      complement activation when          Pass
+                                                                  compared to controls.
+                                                                  02T0626800
+                                   Plasma Recalcification         The test article must not exhibit
+                                                                  a significant difference in         Pass
+                                                                  recalcification times when
+                                                                  compared to the control.
+
+                                                                  02T0692000
+                                   Thromboresistance              Test articles are evaluated for
+                                                                  the presence of thrombus as         Pass
+                                                                  comoared to the controls.
+
+
+
+
+                                                                                                                  13
+    Irritation           IS0 Acute Intracutaneous    02T0626800                           Pass
+                         Reactivity                  02T0692000                           Pass
+                                                     No greater adverse reactions or
+                                                     responses when compared to
+                                                     the controls.
+    Systemic Toxicity    IS0 Acute System Toxicity   02T0626800                           Pass
+                                                     02T0692000                           Pass
+                                                     No greater adverse reactions or
+                                                     responses when compared to
+                                                     the controls.
+    Genotoxicity         Ames                        02T0626800                           Pass
+                                                     02T0692000                           Pass
+                                                     Test article extracts must not be
+                                                     considered mutagenic.
+    Physicochemical       Physicochemical (aq)       02T0757800                           Pass
+                                                     Non-volatile residue: < 15mg
+                                                     Residue on Ignition: <5mg
+                                                     Heavy Metals: 5 lppm
+                                                     Buffering Capacity: <lorn1
+                          Physicochemical (Non-aq)   02T0757800                           Pass
+                                                     No acceptance criteria have
+                                                     been determined. For
+                                                     characterization onlv.
+    Sensitization         IS0 Sensitization          02T0332300                           Pass
+                                                     02T0692000                           Pass
+                                                     96T0594800                           Pass
+                                                     97C0609000                           Pass
+                                                     OOC 10 14200                         Pass
+                                                     No dermal inflammatory
+                                                     response at the test sites greater
+                                                      than that seen in the control.
+
+The Medtronic DriverTMStent Delivery System successhlly passed all the above
+referenced biocompatibility testing. The DriverTMOver-The-Wire Delivery System was
+not tested since the materials found in it are identical to the materials found in the two
+systems (Rapid Exchange and Multi-Exchange) which passed all tests noted above.
+                                                                      ->
+
+
+
+Sterilization
+The DriverTMStent System will be sterilized using Electron Beam sterilization and has
+been validated per AAMIhSO 11 137: Sterilization of health care products - Requirements
+for validation and routine control - Radiation sterilization.
+
+Results obtained from the sterilization studies show that the device satisfies a minimum
+Sterility Assurance Level (S.A.L.) of
+
+In Vitro Testing
+
+In vitro bench testing of the Medtronic DriverTM Stent Delivery Systems was conducted
+in accordance with the FDA ODE “Guidance for the Submission of Research and
+Marketing Applications for Interventional Cardiology Devices: PTCA Catheters,
+Atherectomy Catheters, Lasers, Intravascular Stents”, May 1995. The relevant tests
+outlined in the guidance were conducted to demonstrate the functional performance
+characteristics of the device.
+
+The following is a brief summary of the bench testing conducted on the device:
+
+Material Analysis (stent)
+This study was conducted to verify that DriverTMstents are produced from material that
+conforms to the chemical composition requirements of ASTM F562-00, “Standard
+Specification for Wrought Cobalt-35 Nickel-20 Chromium- 10 Molybdenum Alloy for
+Surgical Implant Applications”. Data for this test was collected from Co-Ni-Cr-Mo alloy
+tubes as processing of this material into a completed stent does not change the overall
+composition of the material. The material used to manufacture the DriverTMstent
+conformed to ASTM F562-00.
+
+Scanning Electron Microscopy (SEM)
+SEM analysis was conducted at 200x magnification to identify trace contaminants that
+may be present on the DriverTMstent surface. No foreign material was observed on any
+of the production lot stents tested. Several small particles inherent to the base stent
+material were observed on the surface, which most probably were exposed during stent
+electropolishing during the manufacturing procedure.
+
+Mechanical Properties
+This testing was conducted to characterize the following mechanical properties of
+annealed Co-Ni-Cr-Mo alloy: 0.2% offset yield strength, ultimate tensile strength, percent
+elongation, and reduction of area. Five (5) tensile bars were machined from barstock
+conforming to ASTM F562-00. The bars were then vacuum annealed to product an
+ASTM grain size of 8.5 in the gage sections. The bars were tensile tested to failure while
+engineering stress and strain were continuously recorded. The offset yield strength,
+ultimate tensile strength, percent elongation, and percent reduction of area for the
+DriverTMstent material are in conformance with ASTM F562-00.
+                                                                  *
+Corrosion
+This test was conducted to evaluate the relative susceptibility to localized corrosion of
+finished Driver stent components. The analysis was based upon ASTM G61 ,“Standard
+Test Method for Conducting Cyclic Potentiodynamic Polarization Measurements for
+Localized Corrosion Susceptibility of Iron, Nickel, or Cobalt-Based Alloys”. The results
+indicated that the DriverTMstent possesses a high resistance to the onset of localized
+corrosion.
+
+Stent Free-area
+The Percent Free-Area is a value calculated using Driver stent nominal dimensional
+values and is based in the ratio of stent area to the area of the vessel. Metal to artery
+percentage ratios ranged from 15.4% to 20.5% for 3.0mm to 4.0mm stent, respectively.
+     Length Change vs. Diameter
+     This test was performed to determine the change in length as a function of stent internal
+     diameter. The testing was performed on complete stent delivery systems that had been
+     subjected to all manufacturing and sterilization procedures. Each stent was measured for
+     initial length while still on the delivery system, then deployed to nominal pressure of 9
+     ATM and measured after removal from the delivery system. Length change ranged from
+     -3% to +4% and met the acceptance criteria.
+
+     Stent Uniformity
+     This test was conducted to demonstrate that the deployed internal diameter of the Driver
+     stent is consistent with labeling. The testing was performed on complete stent delivery
+rk   systems that had been subjected to all manufacturing and sterilization procedures. Each
+     stent was deployed to nominal pressure of 9ATM. The stent inner diameter was
+     measured at each end. All Driver stents met the uniformity expansion specification of +/-
+     10% from nominal labeled diameter to 9ATM. The results indicated that the Driver stent
+     expands uniformly at all diameters and maintains this uniformity upon withdrawal of the
+     balloon.
+
+     Radial Strength
+     This test is conducted to determine and graphically represent the change in stent internal
+     diameter as a function of circumferential pressure and to determine the pressure at which
+     deformation is no longer completely reversible for the Driver stent. Fifteen (15) 3.0mm
+     and fifteen (1 5 ) 4.0mm stents were subjected to all stent-manufacturing procedures. The
+     stents were deployed to nominal pressure and removed from the delivery system. The
+     stents were placed into a sleeve approximately lmm larger then the stent diameter. A
+     vacuum was then applied and outer diameter measurements taken at various pressures.
+     All samples maintained a minimum of at least 50 percent of the original stent diameter
+     after a 254mm Hg pressure was radially applied. All samples met the acceptance criteria.
+
+     Bent Radial Fatigue Testing
+     This test was conducted to determine the radial fatigue integrity on a bend of a Driver
+     stent under afcelerated cycling designed to test expected in vivo conditions. Eighty-two
+     (82) Driver stents were deployed up to a maximum of 5.lmm in distendable tubing and
+     attached to fatigue equipment that underwent a 0.005” distention. There were no stent
+     failures noted after 420 million cycles which is equivalent to 10 years in vivo.
+
+     Stent Recoil
+     This test was conducted to quantify the amount of elastic recoil. Fifteen (15) stent
+     delivery systems of each length and diameter (excluding 30 12 and 40 12) were subjected
+     to all manufacturing and sterilization procedures. The stent delivery system was inflated
+     to nominal pressure (9ATM) and the stent was removed allowing for recoil to occur. The
+     inner diameter at each end of the stent was recorded. Recoil was calculated subtracting
+     the recoiled stent inner diameter from the pre-recoil inner diameter. Average recoil
+     ranged from 0.002 to 0.004 inches. All stents met the acceptance criteria after balloon
+     inflation to nominal pressure.
+     MRI
+     Driver Stents were tested to ensure they did not react to a magnetic field in such a manner
+     that might pose a clinical issue. The stents should neither deflect nor produce appreciable
+     susceptibility image artifacts in the presence of a magnetic field.
+
+     Testing for image artifacts created by the Driver stents in a 1.5 Tesla magnetic field
+     produced minimal artifact susceptibility. This result was expected in the light of the lack
+     of iron in the material composition. The mean deflection angle measured for the Driver
+     stent in association with testing performed using a 3.0 Tesla field was 3".
+
+     In conclusion, the Driver stents tested did not cause distortion of the magnetic field
+e,   during the MRI procedure. If an implant deflects less than 45", then the magnetically
+     induced deflection force is less than the force on the implant due to gravity. Accordingly,
+     since the stents tested had a mean deflection of 3", a negligible risk of stent movement in
+     a 3.0 Tesla MRI field was indicated.
+
+     Stent Expansion
+     This test is conducted to determine if the plastic deformation experienced by the stent
+     when expanded from the compressed profile to the final maximum deployed diameter can
+     produce crack initiation for the Driver stent. Fifteen (15) samples from each length and
+     diameter (excluding the 30 12 and 40 12) were deployed to their largest possible diameters
+     by inflating each delivery system to balloon failure. Each stent was examined at 45X
+     magnification for potential cracks. All samples met the acceptance criteria with no
+     visible cracks or notches.
+
+     Dimensional Verification (stent)
+     This test is conducted to verify that dimensional and visual specifications for the Driver
+     stent can be achieved. Fifteen (1 5 ) samples from each length within 3.0 and 3.5mm
+     diameters were measured with a toolmaker's microscope. All samples met the
+     dimensional specifications.
+
+     Maximum Pressure (burst test)                                      t
+
+
+
+     This test is conducted to demonstrate that the delivery system (with mounted stent) will
+     not experience balloon, shaft, proximal adaptation or proximal/distal seal loss of integrity
+     at or below the pressure required to expand the stent to its labeled diameter. Stent
+     delivery systems that had been subjected to all manufacturing and sterilization procedures
+     were pressurized to 9Opsi with pressure held for 15 seconds and released for 3 seconds.
+     The cycle was then repeated, increasing inflation pressure by 15psi each cycle until
+     failure. The shaft of all delivery systems remained intact throughout the test and resulted
+     in a labeled rated burst pressure of 16 ATM.
+
+     Stent Diameter vs. Pressure (stent compliance)
+     This test is conducted to quantify the stent inner diameter as a function of balloon
+     inflation pressure. Each delivery system was inflated to 6ATM and the outer diameter at
+     the distal and proximal point of the stent was measured. This was repeated at 1ATM
+     increments. Once the OD measurement was taken at 9ATM, the system was deflated, the
+
+
+
+                                                                                                    1 '3
+    stent was removed and the inner diameter was measured. The stent was placed back on
+    the balloon and continued 1ATM increments until balloon failure. All stent delivery
+    system met the acceptance criteria requirements.
+
+    Bond Strength
+    This test was performed to provide data to support the bond strength specifications for the
+    Driver Stent Delivery Systems. All bonds were trimmed to manageable lengths and
+    loaded into the tensile tester and pulled to failure. All samples met the acceptance
+    criteria.
+
+    Diameter and Profile
+a   This test was conducted to provide dimensional data for the tip, balloon bond, distal shaft,
+    intermediate shaft, and proximal shaft of the Driver Coronary Stent System. All catheter
+    diameters and profiles met all acceptance criteria.
+
+    Balloon Deflatibility
+    This test is conducted to provide assurance that the deflated delivery system balloons will
+    not interfere with the Driver deployed stent in vivo. Complete stent delivery systems
+    were inflated to nominal pressure (9ATM) with a replica vessel placed over the
+    premounted stent. The stent delivery system was then deflated and vacuum was drawn,
+    allowing the stent to release from the delivery system. All samples passed the acceptance
+    requirement of either gravity or vessel release.
+
+    Balloon Deflation Time
+    This test is conducted to quantify the deflation time of the Driver stent delivery system.
+    The complete stent delivery systems were inflated to 9 ATM. Simultaneously, a vacuum
+    was pulled and a timer started. The amount of time to deflate the balloon from nominal
+    pressures was recorded. The results indicated that all Driver Coronary Stent Systems
+    could be deflated within a clinically acceptable time.
+
+    Balloon Fatigue
+    This report Symmarizes the testing done to satisfy all regulatory requirements for balloon
+    fatigue on the Driver Coronary Stent System. The stent delivery systems were repeatedly
+    inflated to demonstrate the balloon could sustain multiple repeated inflations. The stent
+    delivery systems were capable of at least 20 inflations to rated burst pressure.
+
+    Crossing Profile
+    This test is conducted to verify the crossing profile as per label claims and to discuss the
+    clinical relevance of this test. The stent delivery systems are inserted through a crossing
+    profile block until the smallest block that the stent could pass through was determined.
+    All samples passed through the 0.056” hole gauge with a maximum observed crossing
+    profile of 0.049”.
+
+    Tortuous Path
+    Stent retention is evaluated using a test which involves tracking the device back and forth
+    five times through a track fixture that has four bends of varying tortuosity. After tracking,
+        the force required to remove the stent from the delivery system is measured and the initial
+        peak force observed during testing is recorded. Devices are required to meet a pre-
+        determined retention force with a 95% confidence and 95% reliability.
+
+        In vivo (animal) studies
+        Medtronic has conducted six GLP animal studies utilizing the Driver Coronary Stent
+        Systems in accordance with 2 1 CFR 0 58. These studies evaluated safety, efficacy and
+        overall device performance; summaries of these studies are included in the following
+        table:
+
+hmrr ry of GLP Studies Perform d
+Study             Stent Design           # of      # of    FOIIOW-UP
+                                                                                   Endpoints
+  #             (Delivery System)       Animals   Stents   Duration
+FS62     3.04.5mm* dia. x 18mm Ingth.                                  Acute delivery, mechanical
+         (OTW and RX Delivery              8        19     28-days     performance, and chronic
+         Systems) Control = S7                                         vascular response.
+FS65     3.0-3.5mm dia. x 18mm Ingth.                                  Acute delivery and deployment
+         (OTW Delivery System)                                         performance, angiographic
+         Control = S7                      6        16     28-days     estimates of in-stent restenosis at
+                                                                       sacrifice and histomorphometric
+                                                                       analysis of histology.
+FS66     3.0-3.5mm dia. x 18mm Ingth.                                  Acute delivery and deployment
+         (OTW Delivery System)                                         performance, angiographic
+         Control = S7                      4        10      90-days    estimates of in-stent restenosis at
+                                                                       sacrifice and histomorphometric
+                                                                       analvsis of histolow.
+FS67     3.0-3.5mm dia. x 18mm Ingth.                                  Acute delivery and deployment
+         (OTW Delivery System)                                         performance, angiographic
+         Control = S7                      6        16     180-days    estimates of in-stent restenosis at
+                                                                       sacrifice and histomorphometric
+                                                                       analysis of histology.
+FS8 1    3.0-3.5mm dia. x 18mm Ingth.                                  Acute delivery and deployment
+         (OTW Delivery System)                                         performance, angiographic
+         Control = S7                      6               180-days    estimaes of in-stent restenosis at
+                                                                       sacrifice and histomorphometric
+                                                                       analysis of histology.
+FS87     3.5mm dia. x 18mm Ingth.                                      Acute delivery and mechanical
+         (OTW and RX Delivery                                          performance of Over-the-Wire
+                                           1                 Acute
+         Systems)                                                      and Rapid Exchange stent
+         Control = S7                                                  systems.
+
+* The 4.5mm Driver stent was included in this pre-clinical study but is not part of this PMA
+Application
+ VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+             The Medtronic Driver DeNovo and Restenotic Registry enrolled 298 patients in a non-
+             randomized, multi-center study. These patients form the basis of the observed events
+             reported in the following section.
+
+             Driver DeNovo and Restenotic Registry
+
+             A total of 298 patients were enrolled in a multi-center registry to evaluate the safety and
+             efficacy of the Medtronic Driver Coronary Stent System for treatment of symptomatic
+             coronary artery disease.
+rk
+             The primary endpoint of MACE at 180 days was compared to an objective performance
+             criterion (OPC) of 15% based on a pooled MACE rate derived by pooling the data from
+             the Bard XT Stent EXTRA RCT, Medtronic Micro Stent I1 SMART RCT, and Medtronic
+             BeStent I (BEST) & BeStent I1 Registries.
+
+             Adverse events reported during the first six and nine months are shown in the table
+             below. A total of 25 of 298 patients (8.4%) who received the Medtronic Driver stent
+             experienced one or more adverse events during the nine months of follow-up.
+
+             A total of 4 of the 298 (1.3%) patients who received the Driver stent died during the
+             clinical study. These out-of-hospital deaths were all non-cardiac related: one secondary
+             to ovarian cancer at 43 days post-procedure, one secondary to a brain tumor at 136 days
+             post-procedure, one due to acute respiratory failure at 242 days post-procedure and one
+             non-specified cancer death at 268 days post-procedure. There were no instances of stent
+             thrombosis during the first 270 days. The incidence of vascular complications was 3.4%
+             (10/298). The rate of bleeding complications was 2.3% (7/298).
+
+             There were no (0/298) delivery or device failures reported.
+
+                        Prjpcipal Adverse Events Through 180 & 270-Days
+                                      Driver DeNovo and Restenotic Registry
+                                      %, (Number) [95% confidence interval]
+
+
+
+     I.
+      omplication"
+     Adverse Event§
+                                         Medtronic Driver Stent (N=298) Medtronic Driver Stent (N=298)
+                                               180-Day Results
+                                              7.7% (23)[5.0%,11.4%]
+                                                                              270-Day Results
+                                                                               8.4% (25)[5.5%,12.1%]
+          In-Hospital                          5.7% (17)[3.4%,9.0%]            5.7% (17)[3.4%,9.O%]
+       Out-of-Hospital                          2.0% (6)[0.7%,4.3%]             2.7% (8){1.2%,5.2%]
+     MACE                                      5.7% (17)[3.4%,9.0%]           10.1% (30) [6.9%,14.1%]
+        In-Hospital                             1.7% (5)[O.5%,3.9%)             I.7% (5)[0.5°h,3.9%)
+       Out-of-Hospital                         4.0% (12)[2.1%,6.9%]           8.4% (25) [5.5%,12.1%]
+                                                0.7% (2)[0.1%,2.4%]            1.3% (4) [0.4%, 3.4%]**
+          In-Hospital                           0.0% (0)[0.0%,1.2%]             0.0% (0)[0.0%,1.2%]
+                                                  0.7% (2)[0.1%,2.4%]               1.3% (4) [0.4%,3.4%]**
+                                                  0.0% (0)[0.0%,1.2%]                0.0% (0)[0.0%,1.2%]
+        I n-Hospital                              0.0% (0)[0.0%,1.2%]                0.0% (O)[O.O%, 1.2%]
+        Out-of-Hospital                           0.0% (O)[O.O%, 1.2%]               0.0% (0)[0.0%,1.2%]
+ Non Q-wave MI                                    1.7% (5)[0.5%,3.9%]                1.7% (5)[0.5%,3.9%]
+    In-Hospital                                   1.7% (5)[0.5% ,3.9%]               1.7% (5)[0.5%,3.9%]
+                                                  0.0% (0)[0.0%,1.2%]                0.0% (0)[0.0%,1.2%]
+                                                 3.4% (10) [1.6%,6.1%]             7.0% (21) [4.4%, 10.6%)
+      In Hospital -PTCA                           0.0% (0)[0.0%,1.2%]                0.0% (0)[0.0%,1.2%]
+      In Hospital-CABG                            0.0% (0)[0.0%,1.2%]                0.0% (0)[0.00/0,1.2%]
+      Out-of-Hospital PTCA                        2.7% (8)[1.2%,5.2%]               6.4% (19) [3.9%, 9.8%]
+dI    Out-of-HosDital CABG                        0.7% (2) [0.1%,2.4%]               0.7% (2) [0.1%,2.4%]
+-Emergent CABG                                    0.0% (0)[0.0%,1.2%]                0.0% (O)[O.O%, 1.2%]
+      In-Hospital                                 0.0% (0)[0.0%,1.2%]                0.0% (0)[0.0%,1.2%]
+     Out-of-Hospital                              0.0% (0)[0.0%,1.2%]                0.0% (0)[0.0%,1.2%]
+  Stent Thrombosis                                0.0% (0)[0.0%,1.2%]                0.0% (0)[0.0%,1.2%]
+      In-Hospital                                 0.0% (0)[0.0%,1.2%]                0.0% (0)[0.0%,1.2%]
+     Out-of-Hospital                              0.0% (0)[0.0%,1.2%]                0.0% (0)[0.0%,1.2%]
+  Bleeding (procedural transfusion)               2.3% (7)[0.9%,4.8%]                2.3% (7)[0.9%,4.8%]
+      In-Hospital                                 2.0% (6)[0.7%,4.3%]                2.0% (6)[0.7%,4.3%]
+     Out-of-Hostital                              0.3% (1)[0.0%,1.9%]                0.3% (1)[0.0%,1.9%]
+  CVA                                             0.3% (1)[0.0%,1.9%,1               0.3% (1)[0.0%,1.9%]
+      In-Hospital                                 0.0% (0)[0.0%,1.2%]                0.0% (O)[O.O%, 1.2%]
+     Out-of-Hospital                              0.3% (1)[0.0%,1.9%]                0.3% (1)[0.0%,1.9%]
+  Vascular Complications                         3.4% (10)[1.6%,6.1Oh]               3.4% (10)[1.6%,6.1°/o]
+      In-Hospital                                 2.7% (8)[1.2%,5.2%]                 2.7% (8)[1.2%,5.2%]
+     Out-of-Hospital                              0.7% (2)[0.1%,2.4%]                 0.7% (2)[0.1%,2.4%]
+  Stent Delivery Failures                        0.0% (0) [O.O%, 1.2%]               0.0% (0) [O.O%, 1.2%]
+
+     *Complications are based on patient totals. Seven patients had multiple adverse events: one patient hac
+     3 vascular complications, four patients had 2 vascular complications), one patient had 1 non-Q MI and 1
+     bleeding. complication), and one patient had1 non-Q MI and 1 vascular complication.
+
+     'Adverse Event= Death, Q or Non-Q wave MI, Emergent CABG, Stent Thrombosis, CVA, Bleeding
+     Complications, and Vaucular Complications.                             *
+
+     **All four deaths were non-cardiac.
+     Definitions for the terms used in Table 2 are found in the footnotes to Table 3.
+
+
+     Potential adverse events that may be associated with the use of a coronary stent in native
+     coronary arteries (including those listed in Table 2) are listed below in order of severity:
+
+             e        Death
+             e        Emergency Coronary Artery Bypass Graft Surgery (CABG)
+             e        Stroke/Cerebrovascular Accidents
+             e        Cardiac tamponade
+             e        Stent thrombosis or occlusion
+             e        Total occlusion of coronary artery
+             e        Acute myocardial infarction
+             Restenosis of stented segments
+             Perforation
+             Arrhythmias, including ventricular fibrillation & ventricular tachycardia
+             Dissection
+             Emboli, distal (air, tissue or thrombotic emboli)    ,
+
+             Stent embolization
+             Hemorrhage requiring transfusion
+             Pseudoaneurysm, femoral
+             Spasm
+             Myocardial ischemia
+             HypotensiodHypertension
+             Allergic reaction to drugskontrast mediudstent material
+             Peripheral ischemia
+             Peripheral nerve injury
+             Infection and pain at the insertion site
+             Hematoma
+
+IX.   SUMMARY OF CLINICAL STUDIES
+
+      Purpose
+
+      The purpose of the Driver Registry was to evaluate the safety and efficacy of the
+      Medtronic Driver stent for the treatment of single de novo or restenotic post-PTCA (non-
+      stented) lesions in native coronary arteries.
+
+      Conclusions
+      The Driver Registry demonstrated the 1SO-day and 270-day safety and efficacy of the
+      Driver stent for treatment of patients with de novo or restenotic lesions in native coronary
+      arteries.
+
+      Design      e                                                     -?-
+
+
+
+
+      A prospective, multi-center non-randomized study was conducted in 23 North American
+      clinical sites enrolling 298 patients. Patients were 18 years of age or older with clinical
+      evidence of ischemic heart disease or a positive functional study undergoing elective
+      treatment for a single de novo or restenotic (post PTCA, non-stented) lesion in a native
+      coronary artery. Eligible patients had visually estimated stenosis 2 50% and < 100% in a
+      lesion I  30 mm in length located in a major coronary artery or major side branch 2 3.0
+      mm and 54.0 mm in diameter.
+
+      The primary endpoint in the Driver De Novo and Restenotic Registry was Major Adverse
+      Cardiac Event (MACE) rate defined as the composite of death, Q wave and non-Q wave
+      myocardial infarction, emergent bypass surgery, or target lesion revascularization (TLR)
+      at 180 days. The primary endpoint was analyzed on an intent-to-treat basis, defined as
+      patients who had the study device introduced into the guide catheter after determination
+     that the subject and the target lesion met all inclusion criteria and none of the exclusion
+     criteria.
+
+     The primary endpoint of MACE at 180 days was compared to an objective performance
+     criterion (OPC) of 15% plus delta of 6%, based on a pooled MACE rate derived from the
+     Bard XT Stent EXTRA RCT, Medtronic Micro Stent I1 SMART RCT, and Medtronic
+     BeStent I (BEST) & BeStent I1 Registries. These studies had a range of 12.1% to 15.7%
+     for MACE at 6 months compared to the Driver Registry 6 month MACE rate of 5.7%
+     (1 7/298).
+
+     Secondary endpoints, (including acute success, target vessel failure (TVF) in hospital, at
+6,   14, 30, 180 and 270 days, clinically driven target lesion revascularization (TLR) at 180
+     and 270 days, binary angiographic restenosis (2 50% in-stent diameter stenosis) at 180
+     days in the 101 patient subset, late loss at 180 days and ischemic, bleeding and vascular
+     complications) were analyzed on a per-protocol evaluable basis, defined as patients who
+     had successful procedures and were available for follow-up.
+
+     All patients received the hospital’s standard anti-coagulation/anti-platelet regimen for
+     coronary stent implantation. The ACT was kept at therapeutic levels for Percutaneous
+     Coronary Intervention per the hospital standard.
+
+     Demographics
+
+     Of the 298 patients enrolled, baseline demographics and clinical characteristics showed a
+     mean age of 62.6 years (range 26 to 88 years), 68.1% (203/298) were men, 27.6%
+     (82/297) had a history of diabetes mellitus, 75.9% (221/291) had hyperlipidemia
+     requiring treatment, 28.8% (83/288) were current smokers and 68.4% (20 1/294) had
+     hypertension requiring treatment.
+
+     Methods
+
+     Patients in tliw Driver DeNovo and Restenotic Registry underwent-balloon angioplasty
+     (1 :1 balloon to artery ratio) after which a stent of the appropriate length and diameter was
+     selected and deployed. The Medtronic Driver Coronary Stent System could be
+     repressurized up to 16 atm to further dilate the stent to assure complete apposition of the
+     stent to the artery wall. If needed, further inflations were performed with a non-compliant
+     balloon with a balloon-to-artery ratio of 1:1.
+
+     The anticoagulation regimen administered to 100% of the patients included 325 mg/day
+     of aspirin for at least 14 days; plus either ticlopidine, 250 mg b.i.d. or clopidogrel 75 mg
+     q.d for 14 days. Glycoprotein IIbIIIa platelet inhibitors were administered to 32.6%
+     (97/298) of the patients during the index procedure.
+
+     Clinical or telephone follow-up was conducted in-hospital, and at 14, 30, 180 and 270
+     days post-procedure. A subset of 27.8% (83/298) patients underwent follow-up
+     angiography at the 180 day clinical follow-up. Data monitoring was conducted by
+     Medtronic personnel. Angiographic films were analyzed and revascularizations were
+     adjudicated by an independent Angiographic Core Laboratory. An independent Clinical
+     Events Committee adjudicated all other primary endpoints and Major Adverse Cardiac
+     Events.
+
+     Results
+
+     The Driver Registry 180 day TVF rate was 5.0% (15/298) and the TVF rate at 270 days
+     was 9.7% (29/298). Adverse events for both time points are listed in the table found in
+     that section and the Principal Safety and Effectiveness results are presented in the table
+     below.
+k;
+     The primary endpoint of MACE at 180 days was compared to an objective performance
+     criterion (OPC), based on a pooled MACE rate derived from previous
+     AVE/Medtronic/USCI-Bard trials, of 15% plus delta of 6%. Specifically, the OPC of
+     15% as derived by pooling the data from the Bard XT Stent EXTRA RCT, Medtronic
+     Micro Stent I1 SMART RCT, and Medtronic BeStent I (BEST) & BeStent I1 Registries.
+
+     A test of the null hypothesis that the observed Driver MACE rate of 5.7% (17/298) is
+     greater or equal to 21% (15% OPC + delta of 6%), provided an Exact Test (one-sided) p-
+     value less than 0.0001, leading to a rejection of this null hypothesis and signifying
+     equivalency with the OPC rate (Le., Driver MACE rate significantly less than 21%). In a
+     test for superiority, the Driver MACE rate was significantly less than the OPC of 15%
+     itself (p=O.0082).
+
+     Gender Bias
+     No gender bias was noted in The DriverTMRegistry. Of the total patients enrolled, 68.1%
+     (203/298) were male. This compares quite closely with the percentage of male patients
+     enrolled in a competitive trial, (GDT Vision, where 68.2% (182/267) of the patient
+     population were male. These percentages reflect the percentage of males in the US
+     cardiac population as a whole.
+                                                                        >
+                 rlr
+ Efficacy Measures                                                                         Medtronic DriverTMStent (N=298)
+ Post-Procedure In-Stent Minimal Lumen Diameter (mm)
+   MeankSD (N)                                                                                          2.90k0.42 (284)
+   Range (min,max)                                                                                  (1.52,4.12)[2.85 , 2.943
+ Procedure In-Stent Percent Diameter Stenosis (% DS)
+ 1 Mean+SD(N)
+          . ,                                                          3.05+10.50 (284)
+    Range (min,max)                                               (-32.31,41.12)[1.83,4.27]
+ Binary Restenosis Rate                                                  15.7% (13/83)
+ TLR-free at 180 Days*                                              96.2% [94.7%, 97.7%]
+ TLR-free at 270 Days*                                              91.2% [86.5%, 95.8%)
+4TVR-free at 180 Days*                                              95.5% [93.5%, 96.9%]
+ TVR-free at 270 Days*                                              90.0% [85.1%, 95.0%]
+ TVF-free at 180 Days*                                              92.8% [90.8%, 94.8%]
+ TVF-free at 270 Days*                                              88.3% [83.1%, 93.6%]
+ Safety Measures & Other Clinical Events                      Medtronic DriverTMStent (N=298]
+  Device Success                                                100.0% (298)[98.8%, loo%]
+  Procedure Success                                              98.3% (293)[96.1%,99.5%]
+  In-Hospital MACE (Death, QMI,NQMI, TLR, Emergent CABG)             1.7% (5)[0.5%, 3.9%]
+  Out-of-HosDital MACE (Death. QMI. NQMI. TLR. Emeraent CABG)        2.0% (6~0.7%.4 . 3 ~
+  MACE to 180 days (Death, QMI, NQMI, TLR, Emergent CABG)           5.7% (17)[3.4%, 9.0%]
+  MACE to 270 davs (Death, QMI. NQMI. TLR. Emerclent CABG)         10.1% (30) r6.9%.14.1%1
+ 'TLR rate at 180 days                                              3.4% (10) [ I .6%,6.1%]
+  TLR rate at 270 days                                             7.0% (21) [4.4%, 10.6%)
+  TVR rate at 180 days                                                1.7% (5)[0.5%,3.9%]
+  TVR rate at 270 days                                               2.3% (7)[0.9%, 4.8%]
+  TVF rate at 180 days                                             6.7% (20) [4.1%, 10.2%]
+  TVF rate at 270 days                                             9.7% (29) [6.6%, 13.7%]
+  Bleeding Complications                                             2.3% (7)[0.9% ,4.8%]
+  CVA                                                                0.3% (1)[0.0%,1.9%]
+  Vascular Complications                                             3.4% ( 10)[ 1.6%,6.1%]
+  Stent Thrombosis                                                   0.0% (0)[0.0%,1.2%]
+ MACE: Major Adverse Cardiac Event (includes death, MI, and emergent CABG or target lesion revascularization).
+                                                                                                            -
+ TLR free: No target lesion reescularization.
+ TVR free: No target vessel revascularization.
+ TVF free: No death, any MI or target vessel revascularization.
+ Binary restenosis: 50% or greater in-stent diameter stenosis at the follow-up angiogram.
+ Stent Thrombosis: Stent thrombosis was defined as total thrombotic stent occlusion documentedby angiography.
+ In-hospital major clinical event: death, MI, emergent CABG, repeat target lesion revascularization,stent thrombosis, or stroke prior to
+  discharge, as determined by the independent Clinical Events Commitlee.
+  Out-of-hospital major clinical event: death, MI, emergent CABG, repeat target lesion revascularization,stent thrombosis, or stroke after
+  discharge, as determined by the independent Clinical Events Committee.
+  Vascular complications; may include pseudoaneurysm, arteriovenous fistula, peripheral ischemidnerve injury or vascular event requiring
+  transfusion or surgical repair.
+  Bleeding complications: transfusions due to blood loss resulting from the percutaneous revascularizationprocedure.
+  CVA: sudden onset of vertigo, numbness, dysphasia, weakens, visual field defects, dysarthria or other focal neurological deficits due to
+  vascular lesions of the brain, such as hemorrhage, embolism, thrombosis, or rupturing aneurysm, that persists greater than 24 hours.
+  Device success: Attainment of <30%in-stent residual stenosis using the randomizedtreatment strategy only.
+  Procedure success: 4 0 % stenosis in-stent (or in-lesion if no in-stent measurement available) and freedom from in-hospital major adverst
+  cardiac events (death, MI, emergent CABG, or repeat target lesion revascularization).
+  *Survival estimates by Kaplan-Meier method; Standard Error estimates by Greenwood formula
+    PREDICT Trial
+
+    Based on acceptable performance in de novo lesions and the similarities in design and
+    manufacture of the DriverTMCoronary Stent System to the Medtronic S670TMand
+    Medtronic S7 Coronary Stent Systems, the following study, which evaluated direct
+    stenting using the Medtronic S670 Coronary Stent, also supports the suitability of direct
+    stenting for delivery of the Medtronic DriverTMCoronary Stent System,
+
+    The PREDICT Trial was a prospective, multi-center study using the S670TMOTW
+    Coronary System randomized to either direct stenting or standard predilatation
+    deployment technique. The study was conducted at 37 North American clinical sites and
+e   included a total of four hundred (400) randomized patients and sixteen (1 6) roll-in
+    patients with de novo native coronary artery lesions. A clinical events committee
+    adjudicated all major clinical events and clinically driven TLR.
+
+    Primary Endpoint
+
+    The primary endpoint in the PREDICT Trial was Major Adverse Cardiac Event (MACE)
+    rate defined as the composite of death, Q wave and non-Q wave myocardial infarction,
+    emergent coronary artery bypass surgery, or target lesion revascularization (TLR) at 14
+    days.
+
+    Patients Studied
+
+    The 399 patients (65.7% male) treated ranged in age from 29 to 87 years with an average
+    of 64 f 1 1.6 (mean rf: SD) years. All patients presented with angina or a positive
+    functional study and were undergoing elective single de novo lesion treatment in a native
+    coronary artery. Eligible patients had visually estimated stenosis 5 15 mm in length in a
+    major coronary artery or major side branch 2 3.0 mm and 1 4 . 0 mm in diameter. One
+    patient withdrew consent after randomization but before investigational treatment was
+    attempted.
+                                                                      >
+
+
+    Methods
+
+    Patients in the PREDICT Trial were randomized to either direct stenting (without
+    predilatation) or standard pre-dilatation by balloon angioplasty (1 :1 balloon to artery
+    ratio) after which a stent system(s) of the appropriate length and diameter was selected
+    and deployed. The Medtronic AVE S670TMOTW stent delivery system could be
+    repressurized up to 16 atm to further dilate the stent to assure complete apposition of the
+    stent to the artery wall. If needed, further inflations were performed with a non-compliant
+    balloon with a balloon-to-artery ratio of 1:1. Clinical follow-up was conducted up to 6
+    months.
+
+    The anticoagulation regimen administered to 97% (389/399) of the patients at discharge
+    was 325 mg aspirin and either 500 mg ticlopidine or 300 mg clopidogrel. The follow-up
+
+
+
+
+                                                                                                  ab
+    regimen administered to 83% (3331399) of the patients was 325 mg/day ASA for at least
+    six month; ticlopidine 250 mg twice a day or clopidogrel75 mg daily.
+
+    Clinical follow-up intervals for all treated PREDICT patients were 14 days, 30 days and 6
+    months. All patients underwent angiographic follow-up at 6 months for the PREDICT
+    Trial. The study randomization was successful, as both treatment groups were
+    demographically equivalent. All treated randomized patients were included in the intent-
+    to-treat efficacy analysis. The principal effectiveness and safety for the PREDICT Trial
+    for direct stenting versus predilatation are shown in the table below.
+
+    Conclusions
+e
+    The success rate for the direct stenting arm was 92.0% (1 85/201). The sixteen patients
+    who crossed over to the pre-dilatation arm were treated successfully. There were no
+    statistically significant differences between the two arms with respect to Major Adverse
+    Cardiac Events.
+                                   Principal Effectiveness and Safety Results PREDICT Trial
+                                      S670 PREDICT Patients Treated (N = 399)
+                                         Direct Stenting        Pre-Dilatation      All Randomized'
+                                       (N=198 Patients,      (N=201 Patients,       (N=399 Patients.       Relatie Risk            Difference
+Efficacy Measures                       N=201 Lesions)        N=203 Lesions)         N=404 Lesions)          [95% C.I.]           195% C.I.]     P-value
+Primary Dedce Success                 92.0% (185 1201)       96.6% (196 I203)       94.3% (381 1404)      0.95 [0.91.1.00]    -4.5% [-9.0%.0.0%]   0.056
+Secondary Deuce Success               99.5% (200 I201)       99.0% (200 I 2 0 2 )   69.3% (400 1403)      1.00 [0.99.1.02]    0.5% [-1.2%,2.2%]     1 000
+Procedure Success                     93.9% (186 I198)       92.5% (185 /ZOO)       93.2% (371 I398)      1.02 [0.96.1.07]    1.4% [-3.5%,6.4%]     0 691
+Post-Procedure In-Lesion Minimal Lumen Diameter (MLD. in mm)
+   MeanfSD (N)                          2.54f0.55 (199)       2.56f0.50 (199)        2.55f0.52 (398)            N/A            0.02 [-0.12.0.09]    0 739
+   Range (min,max)                         (134.429)             (1.37.4.01)           (1.34.4.29)
+Post-Procedure In-Lesion Percent Diameter Stenosis (% DS)
+
+
+
+'  MeantSD (N)
+   Range (min.max)
+                                      18.9%f9.8%(199)
+                                          (1.5%.55.6%)
+Post-ProcedureIn-Stent Minimal Lumen Diameter (MLD. in mm)
+   MeanfSD (N)
+   Range (min.max)
+                                        2.92f0.43 (199)
+                                           (1.84.4.30)
+                                                           18.3%t11.1% (199)
+                                                              (-27.7%.54.2%)
+
+                                                              2.98f0.42 (199)
+                                                                  (2.10.4.34)
+                                                                                    18.6%f10.5%(398)
+                                                                                     (-2 7.7%,55.6%)
+
+                                                                                     2.95f0.43 (398)
+                                                                                       (1.84.4.34)
+                                                                                                                NIA
+
+
+
+                                                                                                                NIA
+                                                                                                                              0.6% [-1.5%.26%]
+
+
+                                                                                                                               0.06 [-0.14.0.03]
+                                                                                                                                                    0 585
+
+
+                                                                                                                                                    0 185
+
+Post-Procedure In-Stent Percent Diameter Stenosis (% DS)
+   MeanfSD (N)                         5.9%f9.4% (199)       4.5%+9.3%(199)         5.2%f9.4% (398)              NIA          1.4% [-0.5%.3.2%]     0 150
+   Range (min.max)                      (-24.1%.35.8%)        (-34.7%.27.0%)         (34.7%.35.8%)
+In-Lesion Acute Gain (mm)
+   MeantSD (N)                           1.6OfO.60 (199)       1.66tO.58(199)        1.63f0.59 (398)             N/A           0 06 [-0 18.0 061    0 302
+   Range (min.max)                         (0.11.3.74)            (0.06,2.97)          (0.06,3.74)
+In-Stent Acute Gain (mm)
+   MeanfSD (N)                           1.98f0.53 (199)      2 08k0.52 (199)        2 03f0 53 (398)             N/A           0 10 [-o 20.0 00)    0 056
+   Range (min,max)                         (0 77.3.74)            (0.34.3.59)           (0.34,3.74)
+In-Lesion Binary Restenosis Rate        26 5% (43 I 162)      25 8% (42 / 163)       26 2% (85 I 325)            NIA          0 8% [a8%,10 3%]      0 900
+In-Stent Binary Restenosis Rate         20.4% (33 I 162)      20 9% (34 / 163)       20 6% (67 / 325)            N/A          0 5% [-9.3%.8 3%]     1 000
+TLR-free to 180 dayst                         80.2%                 82.6%                 81.5%           0.97 [0.78.1.21] -2.4% [-20.0%.15.3%]     0 846
+TVR-free to 180 dayst                         79.3%                 79.3%                 79.3%           1.00 [0.80.1.26] 0.0% [-18.1%.18.1%]      0 643
+NF-free to 180 dayst                          72.9%                 72.5%                 72.7%           1.01 [0.77.1.32] 0.4% [-19.4%.20.1%]      0 677
+MACE-free to 180 dayst                        73.8%                 74.5%                 74.1%           0.99 10.76.1.291 0 . 7 % I-20.2%.18.9%1   0.770
+Safety Measures and Other Clinical Events
+In-Hospital MACE                         5.6% (11 I198)        7.0% (14 I201)        6.3% (25 I399)       0.80 I0.37.1 711    -1.4% [-6.2%.33x1     0.681
+Out-of-Hospital MACE to 14 days           0.5% (1 I198)         0.5% (1 I201)         0.5% (2 / 399)      1.02 (0.06.16 171   0.0% [-1.4%.1.4%]     1.000
+MACE to 14 days                          6.1% (12 / 198)       7.5% (15 I201)        6.8% (27 1399)       0.81 [0.39.1.69]    -1.4% [-6.3%.35%]     0.691
+Out4Hospital MACE to 180 days           13.1% (26 / 198)      13.9% (28 I201)        13.5% (54 I399)      0.94 [0.57.1.55]    0 . 8 % [-7.5%.59%]   0.884
+MACE to 180 days                        18 7% (37 / 198)      19.4% (39 I201)        19.0% (76 I 399)     0.96 [0.64.1.44]    -0.7% [-8.4%.7O%]     0.899
+Abrupt Closure lo 180 days                0.0% (0 / 198)        1.5% (3 I201)         0.8% (3 / 399)        0.00[-,-I         -1.5% [3.2%.0.2%]     0.248
+Subacute Closure I o 180 days             0.0% (0 I 198)        0.5% (1 I201)         0.3% (1 I 3 9 9 )     0.00[--.-]        0.5% [-1.5%,0 5%)     1,000
+Stent Thrombosis to 180 days              0.5% (1 I198)         0.5% (1 I201)         0.5% (2 / 399)      1.02 [0.06.16.17]    0.0% [-1.4%.1.4%]    1.om
+CVA to 180 days                           0.0% (0 / 198)        0.0% (0 / 201)        0.0% (0 I399)          -  [-,-I              0.0% [--.-I       N/A
+Bleeding Complications to 180 days        1.5% (3 / 198)        1 .O% (2 I 201)       1.3% (5 / 399)      1.52 [0.26.8.91]     0.5% [-1.7%.2.7%]    0.684
+Vascular Complications l o 180 days      7.1% (14 / 198)        4.0% (8I201)         5.5% (22 I399)       1.78 10.77.4.091     3.1% I-1.4%.7.6%1    0.194
+                                                                                                                 r
+f . One patient withdrew consent ajier randomization but before the investigational treatment was attempted and was deregistered.
+Primary Device Success = The attainment of a <50% residual in-stent (or in-lesion in the absence of in-stent) stenosis (by QCA) of
+      the target site using the assigned treatment strategy alone, (Le. only the Medtronic AVE S670TMstent without pre-dilatation if
+      so randomized) during the index catheterization. If QCA was not available, the visual estimate of diameter stenosis was used.
+       Post-dilatation with a high pressure or larger balloon was considered part of the treatment strategy for both arms, but tracked
+      as to frequency. The need for pre-dilatation in patients randomized to direct stenting arm was considered a primary device
+      failure and use of other brands of stents besides the Medtronic AVE S670".
+Secondary Device Success = The attainment of a <50% residual in-stent (or in-lesion in the absence of in-stent) stenosis (by QCA)
+      of the target site using any strategy (including stent withdrawal, pre-dilatation or pre-treatment with another device, and a
+      repeat attempt at stent implantation). If QCA was not available, the visual estimate of diameter stenosis was used. Post-
+      dilatation with a high pressure or larger balloon was considered part of the treatment strategy for both arms, but tracked as to
+      frequency.
+Procedure Success = The attainment of a 4 0 % in-stent (or in-lesion in the absence of in-stent) residual stenosis (by QCA) at the
+      target site using any strategy and freedom from Major Adverse Cardiac Events prior to hospital discharge. If QCA was not
+      available, the visual estimate of diameter stenosis was used.
+In-Hospital MACE = Death, Q wave or non-Q wave MI, emergent CABG, or target lesion revascularization prior to discharge as
+      determined by the independent Clinical Events Committee.
+Out-of-Hospital MACE = Death, Q wave or non-Q wave MI, emergent CABG. or target lesion revascularization from hospital
+      discharge through the 180-day contact, as determined by the independent Clinical Events Committee..
+TLR-free = No target lesion revascularization.
+  TVR-free = No target vessel revascularization.
+  TVF-free = No death, MI, or target vessel revascularization.
+  Footnotes are continued on the following page.
+  MACE-free = No death, MI, emergent CABG, or target lesion revascularization.
+  Abrupt Closure = Occurrence of new severely reduced flow (TIMI grade 0 or 1) within the target vessel that persisted and required
+       rescue by a non-assigned treatment strategy, or resulted in MI or death.
+  Subacute Closure = Abrupt closure that occurred after the index procedure was completed and within 30 days of the index
+       procedure.
+  Stent Thrombosis = Angiographic thrombus or subacute closure within the stented vessel, or any death not attributed to a non-
+       cardiac cause in the absence of documented angiographic stent patency within the first 30 days.
+  CVA =Acute neurological deficits recorded by the clinical sites that persisted >24 hours.
+  Bleeding Complications = Defined as transfusions of blood products due to blood loss from the percutaneous revascularization
+       procedure.
+  Vascular Complications = Defined as hematoma >4 cm, false aneurysm, AV fistula, retroperitoneal bleed, peripheral
+I
+       ischemialnerve injury. procedure related transfusion or vascular surgical repair.
+rAcute Gain = Acute gain was defined as the immediate dimensional change in minimal luminal diameter (in mm) that occurred as a
+  result of the procedure, measured by quantitative coronary angiography based on data interpolated from two orthogonal views at
+  baseline and after the final oost dilatation.
+
+
+
+
+ X.        CONCLUSIONS DRAWN FROM THE STUDIES
+
+           Pre-clinical Studies
+           The Medtronic DriverTM Stent Delivery System successfully passed all relevant
+           biocompatibility testing conducted in accordance with IS0 10993: Biological Evaluation
+           of Medical Devices. Furthermore, in vivo studies showed the radiopacity of the Driver
+           stent to be equivalent to stainless steel controls; other characteristics such as deliverability
+           and acute performance were rated fair to excellent. Histomorphometric analysis at 28, 90,
+           and 180-days show the DriverTMStent is statistically equivalent to the stainless steel
+           control.
+
+           In Vitro Testing
+           The Medtronic DriverTMStent Delivery System successfully passed all in vitro testing as
+           required per the FDA guidance document, “Guidance for the Submission of Research and
+           Marketing Applications for Interventional Cardiology Devices: PTCA Catheters,
+           Atherectomy Catheters, Lasers, Intravascular Stents”, May 1994.
+                                                                                                  P
+
+
+
+           Clinical Study
+           The 298-patient Medtronic DriverTMDe Novo and Restenotic Registry successfully
+           demonstrated the safety and effectiveness of the DriverTMStent Delivery System in
+           patients followed to 270 days. A comparison of the MACE rate at 180 days to the OPC
+           of 15% demonstrated non-inferiority of the DriverTM Coronary Stent System to the OPC.
+
+           The 399-patient PREDICT trial performed direct stent in de novo lesions using the
+           approved Medtronic S670TMstent. Due to the similarities in design and manufacture of
+           the Medtronic S670TMand S7 stents, both of which are approved for direct stenting, the
+           PREDICT trial supports direct stenting in de novo lesions for the DriverTMstent.
+
+           Conclusions Drawn from all Studies
+           The in vitro and in vivo non-clinical laboratory studies, together with the clinical
+           investigation, provide valid scientific evidence and reasonable assurance that the
+      Medtronic DriverTMStent System is safe and effective for its intended use in the
+      treatment of patients presenting with symptomatic ischemic heart disease due to single de
+      novo or restenotic lesions (no greater than 30 mm in length) in native coronary arteries
+      with reference vessel diameters ranging from 3.0 mm to 4.0 mm.
+
+
+XI.   PANEL RECOMMENDATION
+
+      Pursuant to section 515 (c) (2) of the Federal Food, Drug and Cosmetic Act as amended
+      by the Safe Medical Devices Act of 1990, this PMA was not referred to the Circulatory
+      System Devices Panel, an FDA advisory panel, for review and recommendation because
+&     the information in the PMA substantially duplicated information previously reviewed by
+      this panel and raises no new issues of safety or effectiveness related to coronary stents.
+
+
+MI.   CDRH DECISION
+
+         The applicant's manufacturing facilities were inspected and found to be in compliance
+         with the Quality System Regulation (2 1 CFR 820). FDA issued an approval order on
+         October 1. 2003.
+
+
+XIII. APPROVAL SPECIFICATIONS
+
+      Directions for use:
+      See the labeling.
+
+      Hazards to Health from Use of the Device:
+      See Indications, Contraindications, Warnings, Precautions and Adverse Events in the
+      labeling.
+
+      Postapprov&Requirements and Restrictions:                          ?-
+
+
+
+
+      See approval order.
+

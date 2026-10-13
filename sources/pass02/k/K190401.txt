@@ -1,0 +1,235 @@
+                                                          0DUFK
+
+
+Boston Scientific Corporation
+Kevin Catalano
+Sr. Regulatory Affairs Specialist
+Three Scimed Place
+Maple Grove, Minnesota 55311
+
+Re: K190401
+    Trade/Device Name: MAMBA and MAMBA Flex Microcatheters
+    Regulation Number: 21 CFR 870.1250
+    Regulation Name: Percutaneous Catheter
+    Regulatory Class: Class II
+    Product Code: DQY
+    Dated: February 15, 2019
+    Received: February 19, 2019
+
+Dear Kevin Catalano:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.03.07
+Silver Spring, MD 20993
+www.fda.gov
+K190401 - Kevin Catalano                                                                             Page 2
+
+
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+                                                                 Digitally signed by
+                                                Lydia S.         Lydia S. Glaw -S
+                                                                 Date: 2019.03.15
+                                                Glaw -S          16:24:23 -04'00'
+                                         IRU    Bram D. Zuckerman, M.D.
+                                                Director
+                                                Division of Cardiovascular Devices
+                                                Office of Device Evaluation
+                                                Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2020
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K190401
+
+Device Name
+MAMBA and MAMBA Flex Microcatheters
+
+
+
+Indications for Use (Describe)
+The MAMBA and MAMBA Flex Microcatheters are intended to provide support to facilitate the placement of
+guidewires in the coronary vasculature, and can be used to exchange one guidewire for another.
+The microcatheters are also intended to assist in the delivery of contrast media into the coronary vasculature.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (7/17)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                        K190401
+                                                      Page 1 of 3
+
+
+                           510(k) Summary
+                            per 21 CFR §807.92
+
+Sponsor:           Boston Scientific Corporation
+                   300 Boston Scientific Way
+                   Marlborough, Massachusetts 01752
+                   USA
+
+Contact Name and   Kevin Catalano
+Information        Three Scimed Place
+                   Maple Grove, MN 55311-1566
+                   Phone: 763-494-2413
+                   Fax: 763-494-2222
+                   e-mail: kevin.catalano@bsci.com
+
+Prepared           15 February 2019
+
+Proprietary Name   MAMBA™ and MAMBA™ Flex
+                   Microcatheters
+
+Common Name        Percutaneous Catheter
+
+Product Code       DQY
+
+Classification     Class II, 21 CFR Part 870.1250
+
+                   MAMBA™ and MAMBA™ Flex
+Predicate Device
+                   Microcatheters
+                   K171452 (21 Aug 2017)
+
+                   Acuity Pro Guide catheter
+Reference Device
+                   K171612 (30 Jun 2017)
+                                                                                       K190401
+                                                                                     Page 2 of 3
+
+
+
+Device Description
+
+The MAMBATM and MAMBATM Flex devices (referred to as the “MAMBA Microcatheters”) are
+designed to provide a platform for the user to exchange guidewires without losing their position in
+the vasculature.
+
+The MAMBA device is available in a 135cm length, while MAMBA Flex is available in 135cm and
+150cm lengths.
+
+The MAMBA Flex models have a smaller outer diameter and a more flexible distal portion than the
+MAMBA device.
+
+Marks on the proximal portion of the catheter shaft and a radiopaque marker at the distal tip
+facilitate placement of the device.
+
+The device's inner lumen permits the use of 0.014 in./0.36 mm or smaller guidewires. The shaft
+consists of a coil which allows the device to be torqued to assist in advancement. The distal portion
+of the shaft is coated hydrophilic coating to assist in advancement.
+
+The proximal end has a single luer hub for flushing or injecting through the inner lumen and is for
+guide wire lumen access during a guidewire exchange.
+
+The MAMBA Microcatheters are to be used in patients where vessel conditions require additional
+wire support to reach the lesion and will deliver radiopaque media and therapeutic agents to
+selected sites in coronary vasculature.
+
+Indications for Use / Intended Use
+
+The MAMBATM and MAMBATM Flex Microcatheters are intended to provide support to facilitate the
+placement of guidewires in the coronary vasculature, and can be used to exchange one guidewire
+for another.
+
+The microcatheters are also intended to assist in the delivery of contrast media into the coronary
+vasculature.
+
+Comparison of Technological Characteristics
+
+The MAMBA Microcatheters incorporate substantially equivalent design, packaging, fundamental
+technology, manufacturing processes, sterilization process and intended use as those featured in
+the predicate, MAMBA Microcatheters, K171452.
+                                                                                       K190401
+                                                                                     Page 3 of 3
+
+
+
+Non-clinical Performance Data
+
+Determination of substantial equivalence is based on an assessment of non-clinical performance
+bench testing data.
+
+Bench Testing:
+
+Bench testing was performed to evaluate physical integrity, functionality and performance of the
+MAMBA Microcatheters. Performance criteria includes: dimensional requirements, delivery and
+retraction, wire movement, shaft and manifold torque, wire lumen burst, tip bond, guidewire
+exchange, shaft flex and shaft kink, and dye flow.
+
+The results of these tests provide reasonable assurance that the proposed device has been
+designed and tested to assure conformance to the requirements for its intended use. No new
+safety or performance issues were raised during the testing; therefore, this device is considered to
+be substantially equivalent to the predicate device.
+
+Conclusion
+
+Based on the indications for use, technological characteristics, performance testing, the MAMBA
+Microcatheters have been shown to be appropriate for their intended use and are considered to be
+substantially equivalent to MAMBA Microcatheters, K171452.
+

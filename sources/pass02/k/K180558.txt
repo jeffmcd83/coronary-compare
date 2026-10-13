@@ -1,0 +1,306 @@
+                                            March 28, 2018
+
+
+St. Jude Medical (now part of Abbott Medical)
+Josh Johnson
+Regulatory Affairs Specialist
+One St. Jude Medical Drive
+St. Paul, Minnesota 55117
+
+Re: K180558
+    Trade/Device Name: PressureWire™ X
+    Regulation Number: 21 CFR 870.2870
+    Regulation Name: Catheter tip pressure transducer
+    Regulatory Class: Class II
+    Product Code: DXO, DQX, DRG
+    Dated: February 26, 2018
+    Received: March 1, 2018
+
+Dear Josh Johnson:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. The general controls provisions of the Act include requirements for annual
+registration, listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding
+and adulteration. Please note: CDRH does not evaluate information related to contract liability warranties.
+We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820);
+and if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR
+1000-1050.
+Page 2 - Josh Johnson                                                                          K180558
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's
+Office of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+
+                                                  Sincerely,
+
+
+
+                                            for
+                                                  Bram D. Zuckerman, M.D.
+                                                  Director
+                                                  Division of Cardiovascular Devices
+                                                  Office of Device Evaluation
+                                                  Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2020
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K180558
+
+Device Name
+PressureWire™ X
+
+
+
+Indications for Use (Describe)
+The PressureWire™ X guidewire is indicated to direct a catheter through a blood vessel and to measure physiological
+parameters in the heart and in the coronary and peripheral blood vessels. Physiological parameters include blood pressure.
+The PressureWire™ X guidewire can also measure blood temperature.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (7/17)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                 510(k) Summary                                 K180558
+                                                                                              Page 1 of 3
+
+ 510(k) Number:           K180558
+ Date Prepared:           March 27, 2018
+                          St. Jude Medical
+ Submitter Name &
+                          One St. Jude Medical Dr.
+ Address:
+                          St. Paul, MN 55117
+                          Josh Johnson
+                          Regulatory Affairs Specialist
+ Contact Person:          Phone (651) 756-3767
+                          Fax (651) 756-3301
+                          josh.johnson@abbott.com
+                          Marlene Peterson
+                          Regulatory Affairs Manager
+ Alternative Contact
+                          Phone (651) 756-3268
+ Person:
+                          Fax (651) 756-3301
+                          marlene.peterson@abbott.com
+ Proprietary Name:        PressureWire™ X
+ Common/Usual
+                          PressureWire
+ Name:
+ Product Classification   Primary: DXO
+ Code:                    Secondary: DQX & DRG
+                          870.2870, Catheter tip pressure transducer
+ Product Regulation
+                          870.1330 – Wire, Guide, Catheter
+ Number and Name:
+                          870.2910 – Transmitters and Receivers, Physiological Signal, Radiofrequency
+ Device Class:            II
+ Predicate Device:        PressureWire™ X (K161171 )
+                          The PressureWire™ X guidewire has an integrated sensor element at the tip to enable
+                          measurements of physiological parameters. The wire is introduced into the patient’s
+                          blood vessel. A torque device is used to steer the wire and sensor into the required
+                          position for pressure measurements according to standard clinical practice.
+ Device Description:      PressureWire™ X guidewire is available in two different lengths.
+
+                          The guidewire is uniquely paired with a specific connection cable or with a specific
+                          transmitter. Both PressureWire™ X guidewire connection configurations connect to a
+                          diagnostic computer or a catheter laboratory hemodynamic recording system.
+                          The PressureWire™ guidewire is designed to fit inside a percutaneous catheter for the
+                          purpose of directing the catheter through a vessel. The signal output from the sensor is
+ Intended Use:            transmitted to associated equipment for analysis, calculations, and display of
+                          physiological parameters or indices based on pressure or temperature, e.g. Fractional
+                          Flow Reserve (FFR).
+                          The PressureWire™ X guidewire is indicated to direct a catheter through a blood vessel
+                          and to measure physiological parameters in the heart and in the coronary and peripheral
+ Indications for Use:
+                          blood vessels. Physiological parameters include blood pressure. The PressureWire™ X
+                          guidewire can also measure blood temperature.
+                          A minor design modification was made to the pressure sensor jacket component of the
+                          PressureWire™ X guidewire. Specifically, the sensor jacket design changed from a one-
+ Comparison of            window to a three-window jacket design, and the window length was extended. The
+ Subject to Predicate     sensor jacket is located near the distal tip of the PressureWire™ X, and functions to
+ Device:                  protect the pressure sensor. The openings in the sensor jacket, or windows, function to
+                          allow fluid flow to the sensor. There were no other changes to the device or IFU.
+
+
+
+
+Special 510(k) PressureWireTM X                                                                        Page 1 of 3
+                      The intended use, indications for use, and technological characteristics of the
+                      PressureWire™ X device that is subject to this Special 510(K) submission are the same
+                      as the predicate, and are summarized in the following table:
+
+                                              PressureWire™ X                        PressureWire™ X
+                                           (Subject Device, K180558)             (Predicate Device, K161171)
+                       Proprietary
+                                      PressureWire™ X                       PressureWire™ X
+                       Name:
+                       Common
+                                      PressureWire                          PressureWire
+                       Name:
+                       Product
+                                      Primary: DXO                          Primary: DXO
+                       Classific-
+                                      Secondary: DQX & DRG                  Secondary: DQX & DRG
+                       ation Code:
+                                      Primary: 870.2870, Catheter tip       Primary: 870.2870, Catheter tip
+                       Product        pressure transducer                   pressure transducer
+                       Regulation     Secondary: 870.1330, catheter         Secondary: 870.1330, catheter
+                       Number &       guide wire and 870.2910               guide wire and 870.2910
+                       Name:          radiofrequency physiological          radiofrequency physiological
+                                      signal transmitters and receivers     signal transmitters and receivers
+                       Device
+                                      II                                    II
+                       Class:
+                                      The PressureWire™ X guidewire         The PressureWire™ X guidewire
+                                      has an integrated sensor element      has an integrated sensor element
+                                      at the tip to enable measurements     at the tip to enable measurements
+                                      of physiological parameters. The      of physiological parameters. The
+                                      wire is introduced into the           wire is introduced into the
+                                      patient’s blood vessel. A torque      patient’s blood vessel. A torque
+                                      device is used to steer the wire      device is used to steer the wire
+                                      and sensor into the required          and sensor into the required
+                                      position for pressure                 position for pressure
+                                      measurements according to             measurements according to
+                                      standard clinical practice.           standard clinical practice.
+                       Device
+                                      PressureWire™ X guidewire is          PressureWire™ X guidewire is
+                       Description:
+                                      available in two different lengths.   available in two different lengths.
+
+                                      The guidewire is uniquely paired      The guidewire is uniquely paired
+                                      with a specific connection cable      with a specific connection cable
+                                      or with a specific transmitter.       or with a specific transmitter.
+                                      Both PressureWire™ X                  Both PressureWire™ X
+                                      guidewire connection                  guidewire connection
+                                      configurations connect to a           configurations connect to a
+                                      diagnostic computer or a catheter     diagnostic computer or a catheter
+                                      laboratory hemodynamic                laboratory hemodynamic
+                                      recording system.                     recording system.
+                                      The PressureWire™ guidewire is        The PressureWire™ guidewire is
+                                      designed to fit inside a              designed to fit inside a
+                                      percutaneous catheter for the         percutaneous catheter for the
+                                      purpose of directing the catheter     purpose of directing the catheter
+                                      through a vessel. The signal          through a vessel. The signal
+                       Intended
+                                      output from the sensor is             output from the sensor is
+                       Use:
+                                      transmitted to associated             transmitted to associated
+                                      equipment for analysis,               equipment for analysis,
+                                      calculations, and display of          calculations, and display of
+                                      physiological parameters or           physiological parameters or
+                                      indices based on pressure or          indices based on pressure or
+
+
+
+Special 510(k) PressureWireTM X                                                                      Page 2 of 3
+                                       temperature, e.g. Fractional Flow      temperature, e.g. Fractional Flow
+                                       Reserve (FFR).                         Reserve (FFR).
+                                       The PressureWire™ X guidewire          The PressureWire™ X guidewire
+                                       is indicated to direct a catheter      is indicated to direct a catheter
+                                       through a blood vessel and to          through a blood vessel and to
+                                       measure physiological parameters       measure physiological
+                         Indications   in the heart and in the coronary       parameters in the heart and in the
+                         for Use:      and peripheral blood vessels.          coronary and peripheral blood
+                                       Physiological parameters include       vessels. Physiological parameters
+                                       blood pressure. The                    include blood pressure. The
+                                       PressureWire™ X guidewire can          PressureWire™ X guidewire can
+                                       also measure blood temperature.        also measure blood temperature.
+                                       This guidewire is contraindicated      This guidewire is contraindicated
+                         Contra-
+                                       for use in the cerebral                for use in the cerebral
+                         indications:
+                                       vasculature.                           vasculature.
+                                                                              Operating Pressure: -30 to +300
+                                        Operating Pressure: -30 to +300
+                                                                              mmHg
+                                        mmHg
+                                                                              Temp. Performance
+                         Technical      Temp. Performance
+                                                                              Specification:
+                         Specifi-       Specification:
+                                                                              34 - 42oC
+                         cations        34 - 42oC
+                                                                              Radio Frequency Range:
+                                        Radio Frequency Range:
+                                                                              2.4000 – 2.4835 GHz (ISM-
+                                        2.4000 – 2.4835 GHz (ISM-band)
+                                                                              band)
+                       Performance bench testing was completed as part of design verification to demonstrate
+                       safety and effectiveness, and that the subject device performed as intended. Tests were
+                       conducted to evaluate the following:
+                            • Guidewire Tensile Strength
+                            • Torque Strength
+                            • Fatigue Resistance
+ Summary on Non-
+                            • Fracture Resistance
+ Clinical Testing
+                            • Signal Quality in Severe Bend
+                            • Signal Quality during Pullback Procedure
+                       Additionally, simulated-use testing was completed as part of design validation to
+                       demonstrate the subject device met user needs and the intended use. The following test
+                       was performed:
+                            • Signal Drift
+ Summary of Clinical   No new clinical testing was completed, nor relied upon, in support of this Special
+ Testing:              510(k) submission.
+                       The PressureWire™ X device described in this Special 510(k) submission is
+                       substantially equivalent to the currently-marketed predicate device, K161171, based on
+ Statement of
+                       comparisons of the device classifications, technological characteristics, intended use,
+ Equivalence:
+                       and indications for use. The subject device met the pre-determined requirements, and
+                       raised no new safety or effectiveness concerns.
+
+
+
+
+Special 510(k) PressureWireTM X                                                                      Page 3 of 3
+

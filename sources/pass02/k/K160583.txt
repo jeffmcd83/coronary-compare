@@ -1,0 +1,576 @@
+     DEPARTMENT OF HEALTH & HUMAN SERVICES                                    Public Health Service
+
+
+                                                                              Food and Drug Administration
+                                                                              10903 New Hampshire Avenue
+                                                                              Document Control Center - WO66-G609
+                                    October 26, 2016                          Silver Spring, MD 20993-0002
+
+
+
+
+Volcano Corporation
+Brian Park
+Regulatory Affairs Specialist
+3721 Valley Centre Drive Suite 500
+San Diego, California 92130
+
+Re: K160583
+    Trade/Device Name: REFINITY Rotational Intravascular Ultrasound (IVUS) Catheter
+                         REFINITY Short Tip Rotational Intravascular Ultrasound (IVUS)
+                         Catheter
+    Regulation Number: 21 CFR 870.1200
+    Regulation Name: Diagnostic Intravascular Catheter
+    Regulatory Class: Class II
+    Product Code: OBJ, DQO
+    Dated: September 21, 2016
+    Received: September 22, 2016
+
+Dear Brian Park:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must comply
+with all the Act's requirements, including, but not limited to: registration and listing (21 CFR
+Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-
+related adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in
+Page 2 - Brian Park
+
+the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041
+or (301) 796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note
+the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+You may obtain other general information on your responsibilities under the Act from the
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301)
+796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+
+                                                 Sincerely yours,
+
+
+
+
+                                                 Bram D. Zuckerman, M.D.
+                                                 Director
+                                                 Division of Cardiovascular Devices
+                                                 Office of Device Evaluation
+                                                 Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: January 31, 2017
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K160583
+
+Device Name
+REFINITY Rotational Intravascular Ultrasound (IVUS) Catheter
+REFINITY Short Tip Rotational Intravascular Ultrasound (IVUS) Catheter
+
+Indications for Use (Describe)
+
+The REFINITY (or REFINITY ST) Rotational IVUS Catheter (REFINITY or REFINITY ST catheter) is intended for the
+intravascular ultrasound examination of coronary arteries. Intravascular ultrasound imaging is indicated in patients who
+are candidates for transluminal interventional procedures. REFINITY (or REFINITY ST) catheters are designed for use as
+an adjunct to conventional angiographic procedures to provide an image of the vessel lumen and wall structures.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/14)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                                                                K160583
+                                                                                                              Page 1 of 8
+                                                                                                               K160583
+
+
+
+
+                                                  x 510(k) SUMMARY
+          The 510(k) Summary is submitted as required by section 807.92(a)
+----------------------------------------------------------------------------------------------------------------------------
+
+ SPONSOR:                        VolcanoCorporation
+                                  2870KilgoreRoad
+                                  RanchoCordova,CA95670
+                                  
+ CONTACT/SUBMITTER:              BrianPark      
+                                  RegulatoryAffairsSpecialist
+                                  VolcanoCorporation
+                                  3721ValleyCentreDr.Suite500
+                                  SanDiego,CA92130
+                                  Tel:(858)720Ͳ4176
+                                  Fax:(858)481Ͳ1027
+                                  
+ DATEOFSUBMISSION:             March28,2016
+                                  
+ DEVICE:                         RefinityRotationalIntravascularUltrasound(IVUS)Catheter
+                                  RefinityShortTipRotationalIntravascularUltrasound(IVUS)Catheter
+                                  
+ TradeName:                     RefinityRotationalIVUSCatheter
+                                  RefinityShortTipRotationalIVUSCatheter
+                                  
+ CommonName:                    IVUSImagingCatheter
+                                  
+ Classification:                 ClassIIDevice
+                                  21CFRPart870.1200IntravascularUltrasoundCatheter(OBJ)
+                                  21CFRPart870.1200IntravascularUltrasoundCatheter(DQO)
+                                  
+ PREDICATEDEVICE:               VolcanoRevolution®45MHzRotationalIntravascularIVUSImaging
+                                  Catheter
+                                  ModelNumber:89000
+                                  ProductCode:OBJ
+                                  K080891,ClearedonMay12,2008
+                                  
+                                  SecondaryPredicate
+                                  VolcanoEagleEye®PlatinumShortTipCatheter
+                                  ModelNumber:85900PST
+                                  ProductCode:OBJ,ITX
+                                  K120697,ClearedonApril5,2012
+                                  
+
+
+
+
+3721 Valley Centre Drive, Suite 500 | San Diego, CA 92130 | www.volcanocorp.com
+                                                                                          K160583
+                                                                                        Page 2 of 8
+                                                                                         K160583
+
+
+
+ DEVICEDESCRIPTION:    TheRefinityandRefinityShortTip(ST)RotationalIVUSImaging
+                         Catheterconsistsoftwomainassemblies:theimagingcoreandthe
+                         catheterbody.Thecatheterbodyiscomprisedoffoursections:adistal
+                         sectionwitha.014”compatiblerapidexchangeguidewirelumenand
+                         clearimagingwindow,amidͲshaftsection,abraidedproximalshaft,
+                         andatelescopingsection.
+                         
+                         Thedistal,mid,andproximalsectionscomprisetheusablelengthor
+                         workinglengthofthecatheter.Thetelescopingsectionremains
+                         outsideoftheguidingcatheter.Thetelescopingsectionallowsthe
+                         imagingcoretobeadvancedandretractedforupto15cmoflinear
+                         movement.Thecorrespondingmovementofthetransduceroccurs
+                         fromtheproximalendoftheguidewireexitporttotheproximalendof
+                         thewindowportionofthedistalsection.
+                         
+                         TheimagingcoreiscomposedofahiͲtorque,flexible,rotatingdrive
+                         cablewithadistaloutwardlookingultrasonictransducer.An
+                         electromechanicalconnectorinterfaceattheproximalendmakesthe
+                         connectiontothepatientinterfacemodule(PIM).ThePIMͲcatheter
+                         interfaceconsistsofanintegratedmechanicaldriveassemblyand
+                         electricalconnection.
+                         
+                         AflushingportwithaoneͲwayvalveisusedtodisplacetheairinitially
+                         presentwithinthecatheter.Thecathetermustbeflushedwithsterile
+                         heparinizednormalsalinepriortouse,asthisprovidestheacoustic
+                         couplingmediarequiredforultrasonicimaging.TheoneͲwayvalve
+                         helpsretainsalineinthecatheterduringuse.
+                         
+                         Thecatheterbodyhasadistalguidewirelumenwithaproximalexit
+                         portlocated15.5mm(fortheshorttipmodel)or22mm(forthe
+                         standardtipmodel)fromthedistalend.Oneradiopaque(RO)marker
+                         bandisembedded0.5cmfromthetip.Inaddition,insertiondepth
+                         indicatorsarelocatedonthecatheterbodyat90cmand100cm.The
+                         catheterispackagedwithasterilePIMcover,3ccand10ccsyringes,
+                         and13inextensiontubingwitha3Ͳwaystopcock.
+                         
+                         ThecatheterisforusewiththeVolcanos5®andCORE®imagingsystems
+                         withsoftwareV3.x.x.
+                         
+ INDICATIONSFORUSE:   TheREFINITY(orREFINITYST)RotationalIVUSCatheter(REFINITYor
+                         REFINITYST)isintendedfortheintravascularultrasoundexaminationof
+                         coronaryarteries.Intravascularultrasoundimagingisindicatedin
+                         patientswhoarecandidatesfortransluminalinterventionalprocedures.
+                         REFINITY(orREFINITYST)cathetersaredesignedforuseasanadjunct
+                         toconventionalangiographicprocedurestoprovideanimageofthe
+                         vessellumenandwallstructures.
+
+
+
+
+3721 Valley Centre Drive, Suite 500 | San Diego, CA 92130 | www.volcanocorp.com
+                                                                                        K160583
+                                                                                      Page 3 of 8
+
+
+
+
+                      
+                      Thestatement,“REFINITY(orREFINITYST)cathetersaredesignedfor
+                      useasanadjuncttoconventionalangiographicprocedurestoprovide
+                      animageofthevessellumenandwallstructures.”isbeingaddedtothe
+                      IndicationsforUseinordertoclarifythatthedeviceisnotintendedto
+                      beusedasastandalonedevicebutneedstobeplacedinthe
+                      vasculatureunderstandardangiographicguidance.Thisisa
+                      clarificationtotheIndicationsforUseandnotanexpansionofitsuseor
+                      asubstantivechange.
+                      
+ COMPARISONOF       Themodifieddeviceissubstantiallyequivalenttothecurrently
+ CHARACTERISTICS:    marketedRevolutiondevice.BothdevicesarerotationalIVUSimaging
+                      catheters.Infact,theproposedRefinityhastheidenticalultrasound
+                      transducerandrotationaldrivemechanismasthepredicateRevolution
+                      anddiffersintheouterpolymershaftdesign,hydrophiliccoatingand
+                      sterilepouchdesign.Theworkinglengthsareidenticalforboththe
+                      predicateandmodifieddevicesbuttheshaftofthemodifieddeviceis
+                      smallerindiameterthanthepredicate.Theindicationsforuseare
+                      identicalforbothdevices.
+                      
+                      TheoutermaterialsoftheRefinitydifferfromtheRevolution.In
+                      general,thedistalpatientcontactingportionoftheRevolutioncatheter
+                      ismadeoftubingmadeofsingleandblendedlow,mediumandhigh
+                      densitypolyethylenes.Thedistalpatientcontactingportionofthe
+                      Refinityismadeoftubingmadeofsingleandblendedpolyethylene,
+                      polyetherblockamideandpolyimidematerials.TheRefinitytubing
+                      materialsallowforsmallerouterdiameters.Intheproximalportionof
+                      thecathetertheRevolutionhasaproximalshaftmadeof
+                      polyetherimideandsecondarytelescopemadeofpolyimidewhichthe
+                      Refinityreplaceswithashaftmadeofbraidedstainlesssteelin
+                      polyimidesandwichedbetweenaninnerlayerofblended
+                      polytetrafluoroethylene(PTFE)andpolyimideandanouterlayerof
+                      polyetherblockamide.
+                      
+                      TheRevolutioniscoatedwithasiliconebasedlubriciouscoatingwhile
+                      theRefinityiscoatedwithahydrophiliccoating.
+                      
+                      Finally,theRevolutionispackagedinapouchthatismadeofmylarfilm
+                      andTyvek®whiletheRefinityispackagedinapouchthatismadeofa
+                      strongernylon/lowdensitypolyethylene/highdensitypolyethylenefilm
+                      andTyvek®.
+                      
+ PERFORMANCEDATA:   NonͲclinicaldevicetestingwasconductedtoconfirmtheperformance
+                      ofthedevice.Benchtestingwasconductedagainstknownstandardsor
+                      theproductspecificationandevaluatedthefollowing:
+                      
+
+
+
+
+3721 Valley Centre Drive, Suite 500 | San Diego, CA 92130 | www.volcanocorp.com
+                                                                                       K160583
+                                                                                     Page 4 of 8
+
+                                                                                       K160583
+
+
+                         x   VisualInspection:Samplecatheterswerevisuallyinspectedfor
+                             defectssuchascracks,kinksorotherdamagevisibletothe
+                             unaidedeyeandforextraneoussurfacematterusing10X
+                             magnification.Acceptancecriteria:Novisualdefects.
+                         x   DimensionalVerification:Tubinglengthsandouterdiameters
+                             weremeasured.Acceptancecriteria:Alldimensionsmust
+                             meetproductspecifications.
+                         x   CatheterPrep:Samplecatheterswerepreppedforuseby
+                             flushingthelumenwithsterilesaline.Acceptancecriteria:
+                             Samplesneedtomeetproductspecificationsforflushingand
+                             leaks.
+                         x   TensileStrength:Allbondjointswerepulltestedtoassesstheir
+                             tensilestrengths.Acceptancecriteria:Bondjointtensile
+                             strengthsmustmeetproductspecifications.
+                         x   MonorailTearStrength:TheRefinityincludesamonorailrapid
+                             exchangeguidewirelumenthatallowsthecathetertobe
+                             passedoveraguidewirefordeliveryandplacementwithina
+                             vessel.Theamountofforceneededtotearthroughtheentire
+                             lengthoftheguidewirelumenwasmeasuredonsample
+                             catheters.Acceptancecriteria:Thetearstrengthoftheguide
+                             wirelumenmustmeetproductspecifications.
+                         x   GuideWireMovement:Themonorailguidewirelumenis
+                             designedtoaccommodatea0.014”guidewire.The
+                             compatibilityoftheRefnity’sguidewirelumenwastestedon
+                             samplecatheters.Acceptancecriteria:Samplecathetersmust
+                             meetproductspecificationsinregardstomovementovera
+                             0.014”guidewire.
+                         x   Torsion:Inclinicaluse,usersmaytorqueortwisttheshaftof
+                             theRefinitycatheter.ThetorsionalstrengthoftheRefinitywas
+                             tested.Acceptancecriteria:Samplecathetersmustmeet
+                             productspecificationsinregardstominimumturnstofailure.
+                         x   TheRefinityhasatelescopingsectionthatallowstheuserto
+                             pullbacktheimagingcoreupto15cminlengthinorderto
+                             imagetheinsideofavessel.Theamountofforceneededto
+                             operatethetelescopeafterinitialopeningwasmeasured.
+                             Acceptancecriteria:Samplecathetersmustmeettheproduct
+                             specificationforthemaximumforceneededtooperatethe
+                             telescopeafteritsinitialopening.
+                         x   ForcetoOverextendtheTelescope:Theforcetocompletely
+                             pulloutthetelescopesectionoftheRefinitycatheterwas
+                             measured.Acceptancecriteria:Theamountofforcerequired
+                             tocompletelypullthetelescopesectionoutofthecatheter
+                             mustmeetproductspecifications.
+                         x   Particulate:SincethedistalportionoftheRefinitycatheteris
+                             coatedwithahydrophiliccoating,particulatetestingis
+                             performedtoverifytheintegrityofthecoating.Thecatheteris
+
+
+
+3721 Valley Centre Drive, Suite 500 | San Diego, CA 92130 | www.volcanocorp.com
+                                                                                       K160583
+                                                                                     Page 5 of 8
+
+
+
+
+                             preppedandplacedintoawaterfilledtubeconnectedtoalight
+                             obscurationliquidparticlecounter.Areservoirofwateris
+                             connectedtotheproximalendofthewaterfilledtubewhere
+                             thecatheterisintroducedtoprovideaconstantsupplyofwater
+                             duringthetest.Theparticlecounterdraws10mlofwater
+                             surroundingthecatheterintoameasurementchamberand
+                             automaticallycountsthenumberofparticlesthatareш10μm,
+                             ш25μmandш50μminsize.Thetesterdoesthisatotalof5
+                             timessothattheparticlesinatotalof50mlofwaterare
+                             tested.Acceptancecriteria:Thenumberofparticlescounted
+                             mustmeetproductspecificationsperUSP788.
+                         x   Adhesion:SincethedistalportionoftheRefinitycatheteris
+                             coatedwithahydrophiliccoating,theintegrityofthecoatingis
+                             testingwithanadhesiontest.Theadhesiontestusesadhesive
+                             tapewhichisappliedtothecoatedsectionofthecatheter.The
+                             adhesivetapeisthenquicklypulledfromthecatheterand
+                             checkedtoseeifanycoatinghasbeenremoved.Acceptance
+                             criteria:Adhesionmustmeetproductspecifications.
+                         x   Friction:SincethedistalportionoftheRefinitycatheteris
+                             coatedwithahydrophiliccoating,thelubricityofthecoatingis
+                             testedwithafrictiontest.Apigaortaiscutopenandtwo
+                             piecesaremountedtometalplateswiththeinsidesurfaceof
+                             theaortafacingup.Themetalplatesaremountedonthe
+                             lowerhydraulicjawsofaforcetester.Samplecathetersare
+                             clampedbetweentheaortictissuesontheplates.Thetopend
+                             ofthecatheterisclampedintheupperclampsoftheforce
+                             tester.Theplatesandtestsampleareplacedinawatertank.
+                             Theforcetesterisactivatedandpullsthetestcatheterthrough
+                             theaortictissuemountedonthemetalplatesataspeedof
+                             12”/minute.Thefrictionalforceexperiencedbythecatheteras
+                             itispulledthroughthetissuemountedontheplatesis
+                             automaticallyrecordedbytheforcetester.Acceptancecriteria:
+                             Thefrictionalforcemeasuredmustmeetproduct
+                             specifications.
+                         x   NURD(NonͲUniformRotationalDistortion):TheRefinity
+                             includesarotatingIVUStransducerthatprovidesimagesinside
+                             avessel.TheNURDtestverifiesthatthedrivecablerotates
+                             smoothlyatauniformspeedwhileinasimulatedtortuous
+                             path.Duringthetest,thetransducerisplacedinafixtureand
+                             imagesarecapturedthatallowtheangularseparationbetween
+                             diametricallyopposedobjectstobemeasured.Acceptance
+                             criteria:Theangularseparationbetweendiametrically
+                             opposedobjectsmustmeetproductspecifications.
+                         x   RapidDeployment:ThebaselinecapacitanceoftheRefinity
+                             catheterismeasured.Thecatheteristhenplacedinatest
+                             fixture.Thefixturepullsbackthetelescopesectionineachtest
+
+
+
+3721 Valley Centre Drive, Suite 500 | San Diego, CA 92130 | www.volcanocorp.com
+                                                                                       K160583
+                                                                                     Page 6 of 8
+
+                                                                                      K160583
+
+
+
+                             sampleinauniformfashion.Afterthepullbackisperformed
+                             thecatheterisremovedfromthefixtureandthecapacitanceis
+                             reͲmeasured.Acceptancecriteria:Thecapacitancedifference
+                             mustmeetproductspecifications.
+                         x   TortuousPullback:TheRefinitycatheterisflushedandthen
+                             trackedovera0.014”wirethroughatortuouspathfixture.
+                             Onceinplace,thecatheterisattachedtoaPatientInterface
+                             Module(PIM)thatisattachedtoaVolcanoimagingsystem.
+                             Theimagingsystemdisplaysthecatheterserialnumberandthe
+                             PIMissettoapullbackspeedof1mm/sec.ThePIMisturned
+                             ontostartimagingfromthecatheter.Acatheterimageis
+                             verifiedandthenthePIMisactivatedtostartapullback.The
+                             PIMpullsbacktheimagingcorealengthof15cmthroughthe
+                             tortuouspathwiththecatheterimaging.Afterpullingbackthe
+                             imagingcore15cm,thePIMautomaticallystops.Theimaging
+                             coreispushedbacktoitsdistalstartingpositionwithinthe
+                             tortuouspathfixture.Acceptancecriteria:Thedevicemust
+                             continuetoimageperproductspecifications.
+                         x   ImageLifeͲAcceptancecriteria:Thecathetermuststillimage
+                             aftercompletionoftheRapidDeploymentandTortuous
+                             Pullbacktests.
+                         x   DrillThrough:SincethetransducerelementoftheRefinity
+                             catheterrotates,inaworstcasesituation,ifthetransduceris
+                             rotatingandtheuserpushesthetelescopeforwardandthe
+                             distalportionofthecathetershaftiskinked,thetransducer
+                             coulddrillthroughthewallofthecatheterandpotentially
+                             damagetheinsideofthevesselwall.Thedrillthroughtest
+                             involvessimulatingthisworstcasesituation.Thecatheter’s
+                             telescopeispulledbackcompletelyandthecatheterisflushed.
+                             Theacousticwindowportionofthedistalendofthecatheteris
+                             benttoa90°angle.Thebentdistalsectionisplacedinatest
+                             fixturethatmaintainsthe90°bend.Thecatheterisconnected
+                             toaPIMandisturnedontorotatethetransducer.The
+                             rotatingtransducerismanuallyadvancedtothebendandis
+                             manuallypushedupagainstthekinkedtubingtoseeifitcanbe
+                             pushedthroughtheshaftlikeadrill.Thecatheterisallowedto
+                             imageforamaximumof30minutesoruntilthecatheterstops
+                             imaging.Acceptancecriteria:Devicemustmeetproduct
+                             specificationsinregardstoDrillThrough.
+                         x   GuideCatheterCompatibility:Samplecathetersareinsertedin
+                             a5FGuideCatheterwithaninnerdiameterof0.056”.
+                             Acceptancecriteria:Refinitycathetersmustmeetproduct
+                             specificationsinregardstoGuideCathetercompatibility.
+                         x   ImageAssessment:Fiveindependentenduserreviewersand
+                             oneinternalreviewerviewedsidebysideIVUSpullbackvideos
+                             ofthesamevesseltakenwiththeRevolutionandRefinity
+
+
+
+3721 Valley Centre Drive, Suite 500 | San Diego, CA 92130 | www.volcanocorp.com
+                                                                                      K160583
+                                                                                    Page 7 of 8
+
+                                                                                      K160583
+
+
+                             Catheters.Thereviewersdidnotknowwhichpullbackwas
+                             fromtheRevolutionCatheterandwhichwasfromtheRefinity
+                             Catheter.Eachreviewercomparedatotaloffifteensetsofside
+                             bysidepullbackvideos.Thereviewerscomparedthepullback
+                             imagesandratedtheaxialresolution,lateralresolution,NURD,
+                             depthofimagepenetrationandoverallimageaesthetics.
+                             Acceptancecriteria:Resultsmustmeettheacceptancecriteria
+                             asstatedinthetestprotocol.
+                         x   Acousticemissions:Acousticemissiontestingwasperformed
+                             onfiveRefinitycathetersinaccordancewitha2008FDA
+                             document,“InformationforManufacturersSeekingMarket
+                             ClearanceofDiagnosticUltrasoundSystemsandTransducers”.
+                             Acceptancecriteria:AsdefinedperTrack3oftheFDA
+                             requirementsdocument.
+                         x   Thermaldissipation:Thermaldissipationtestingwas
+                             performedinaccordancewithEN60601Ͳ2Ͳ37usingaJtype
+                             thermocouplebecausetheJtypeismoreflexibleandsuitable
+                             forwrappingaroundtheverysmalldiameterofthecatheter
+                             sheathsurroundingtheimagingtransducerandatissue
+                             mimickingphantom.Acceptancecriteria:Asdefinedinthetest
+                             protocol.
+                         x   BͲModeTesting:SixparametersthatarerelevanttoBͲmode
+                             performanceweremeasured.Also,qualitativevisualimage
+                             brightnessandintegritywereassessedbythreesignal
+                             processingengineers.Acceptancecriteria:Asdefinedinthe
+                             testprotocol.
+                         x   Biocompatibilitytesting:Biocompatibilityoftherawmaterials
+                             intheRefinitycatheterwereassessedperISO10993.
+                             Acceptancecriteria:Per10993andtestprotocols.
+                             Cytotoxicity:Comparedtopositiveandnegativecontrols,test
+                             articlemustbenonͲcytotoxic.
+                             Sensitization:Agradeof0at24and48hours.
+                             IntracutaneousReactivity:PrimaryIrritationIndexshouldbe0Ͳ
+                             0.4(negligible).Differencebetweenthemeanscoreofthetest
+                             articleandcontrolislessthan1.0.
+                             AcuteSystemicToxicity:Nodeathsorevidenceofsystemic
+                             toxicity
+                             MaterialMediatedPyrogen:Temperatureriseof<3.4°C
+                             USPLimulusAmebocyteLysate(LAL):Endotoxin<20EU/device
+                             andSpikerecoverybetween50%Ͳ200%
+                             InVitroHemolysis(DirectContact):HemolyticIndexof0%–2%
+                             InVitroHemolysis(Extract):HemolyticIndexof0%Ͳ2%
+                             Plasma:Theaveragerecalcificationtimeoftheplasmaafter
+                             exposuretotheRefinitymustbeequivalenttothetimesforthe
+                             negativeandplasmacontrolsand>50%ofthenegativecontrol
+
+
+
+
+3721 Valley Centre Drive, Suite 500 | San Diego, CA 92130 | www.volcanocorp.com
+                                                                                         K160583
+                                                                                       Page 8 of 8
+
+                                                                                        K160583
+
+
+                                C3aComplementActivation:Thetestarticleiscomparedto
+                                positiveandnegativecontrols
+                                SC5bͲ9ComplementActivation:Thetestarticleiscomparedto
+                                positiveandnegativecontrols
+                                Thromboresistance:No,orminimalthrombosis.No,orsmall
+                                amountsofthrombusandvesselremainspatent.
+                                PlateletandLeukocyteCounts:NormalHumanRangesof
+                                Leukocytecount=3.4Ͳ8.7x103/μLandPlateletcount=116Ͳ
+                                329x103/μL
+                                LatexElisaforAntigenicProtein(LEAP)Test:ReportingLimit=
+                                0.03μg/ml
+                        
+                        CompletionofthesetestsconcludesthattheRefinityRotationalIVUS
+                        Catheterissubstantiallyequivalenttothecurrentlymarketed
+                        Revolution45MHzRotationalIVUSImagingCatheter.
+                        
+ ConsensusStandards   TheRefinityRotationalIVUSCathetercomplieswiththefollowing
+                        consensusstandards:
+                        
+                        TheISO10993seriesofbiocompatibilitystandardsincluding
+                        ISO10993Ͳ1:2009BiologicalevaluationofmedicaldevicesͲPart1:
+                        Evaluationandtestingwithinariskmanagementprocess
+                        
+                        ISO10993Ͳ5:2009BiologicalevaluationofmedicaldevicesͲPart5:
+                        Testsforinvitrocytotoxicity
+                        
+                        ISO10993Ͳ7:2008BiologicalevaluationofmedicaldevicesͲPart7:
+                        Ethyleneoxidesterilizationresiduals
+                        
+                        ISO10993Ͳ10:2010BiologicalevaluationofmedicaldevicesͲͲPart10:
+                        Testsforirritationandskinsensitization
+                        
+                        ISO10993Ͳ11:2006BiologicalevaluationofmedicaldevicesͲPart11:
+                        Testsforsystemictoxicity
+                        
+                        IEC60601Ͳ2Ͳ37:2007MedicalelectricalequipmentͲPart2Ͳ37:
+                        Particularrequirementsforthebasicsafetyandessentialperformance
+                        ofultrasonicmedicaldiagnosticandmonitoringequipment
+                        
+                        ISO14971:2007MedicaldevicesͲApplicationofriskmanagementto
+                        medicaldevices
+                        
+ Conclusion            CompletionofallperformancetestsconcludesthattheRefinity
+                        RotationalIVUSCatheterissubstantiallyequivalenttothecurrently
+                        marketedRevolution45MHzRotationalIVUSImagingCatheter.
+                        
+
+
+
+3721 Valley Centre Drive, Suite 500 | San Diego, CA 92130 | www.volcanocorp.com
+

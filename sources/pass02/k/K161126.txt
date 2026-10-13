@@ -1,0 +1,236 @@
+     DEPARTMENT OF HEALTH & HUMAN SERVICES                                    Public Health Service
+
+
+                                                                              Food and Drug Administration
+                                                                              10903 New Hampshire Avenue
+                                                                              Document Control Center - WO66-G609
+                                                                              Silver Spring, MD 20993-0002
+                                 August 25, 2016
+
+ASAHI Intecc Co., Ltd.
+Ə&DQGDFH&HGHUPDQ
+Senior Regulatory Affairs Consultant
+Cardiomed Device Consultants, LLC
+5523 Research Park Drive, Suite 205
+Baltimore, MD 21228
+
+Re: K161126
+    Trade/Device Name: ASAHI Corsair Pro
+    Regulation Number: 21 CFR 870.1250
+    Regulation Name: Percutaneous Catheter
+    Regulatory Class: Class II
+    Product Code: DQY
+    Dated: July 26, 2016
+    Received: July 27, 2016
+
+Dear Candace Cederman:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must comply
+with all the Act's requirements, including, but not limited to: registration and listing (21 CFR
+Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-
+related adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in
+Page 2 - Candace Cederman
+
+the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041
+or (301) 796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note
+the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+You may obtain other general information on your responsibilities under the Act from the
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301)
+796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+
+                                                 Sincerely yours,
+
+
+
+
+                                                 Bram D. Zuckerman, M.D.
+                                                 Director
+                                                 Division of Cardiovascular Devices
+                                                 Office of Device Evaluation
+                                                 Center for Devices and Radiological Health
+
+Enclosure
+K161126
+
+
+
+
+          Page 114
+                                                                         K161126 Page 1 of 3
+
+
+
+
+                   1703 Wakita-cho, Moriyama-ku, Nagoya, Aichi 463-0024 Japan
+                             Tel. +81-52-768-1211 Fax. +81-52-768-1221
+          Branch offices: Tokyo, Nagoya, Osaka, Hong Kong, Amsterdam, Singapore, Beijing
+                   Research Facilities and Factories: Osaka, Seto, Thailand, Hanoi
+                                        510(k) Summary
+                                  [as required by 21 CFR 807.92(c)]
+
+                                ASAHI Corsair Pro Microcatheter
+
+                                          510(k) 161126
+
+ DATE PREPARED:                July 26, 2016
+ APPLICANT                     ASAHI Intecc Co., Ltd.
+                               1703 Wakita-cho, Moriyama-ku
+                               Nagoya, Aichi 463-0024, Japan
+ CONTACT                       Yoshi Terai
+                               President/CEO
+                               ASAHI INTECC USA, Inc.
+                               2500 Red Hill Avenue, Suite 210
+                               Santa Ana, CA 92705
+                               Tel: (949) 756-8252, FAX: (949) 756-8165
+                               e-mail: ASAHI.ra-fda@ASAHI-intecc.com
+ TRADE NAME:                   ASAHI Corsair Pro
+ DEVICE CLASSIFICATION:        Class 2 per 21 CFR §870.1250
+ CLASSIFICATION NAME:          Percutaneous Catheter
+ PRODUCT CODE                  DQY- Catheter, Percutaneous
+ PREDICATE DEVICES:            ASAHI Corsair Microcatheter (K151103, K083127)
+
+
+INTENDED USE/INDICATIONS FOR USE
+
+The ASAHI Corsair Pro is intended to provide support to facilitate the placement of guide wires in
+the coronary and peripheral vasculature, and can be used to exchange one guide wire for another.
+The ASAHI Corsair Pro is also intended to assist in the delivery of contrast media into the
+coronary, peripheral, and abdominal vasculature. This device should not be used in
+neurovasculature.
+
+DESCRIPTION:
+
+The ASAHI Corsair Pro consists of a distal tip and a shaft tube that are inserted into a vascular
+connector for catheter control and infusion of contrast media. The device has a hydrophilic coating
+on the outer surface of the shaft tube to provide a smooth transition in blood vessels. The distal
+tip of the Corsair Pro has a tapered shape and is designed to have increased flexibility towards
+the distal end. The inner lumen of the catheter is PTFE for the purposes of a smooth transition
+and exchange of guidewires.
+
+
+
+
+                                                                                             000014
+                                                                              K161126 Page 2 of 3
+
+
+
+The microcatheter also contains wires to reinforce the distal tip and shaft tube to allow the
+physician greater control of the device during interventional procedures.
+
+COMPARISON WITH PREDICATE DEVICES:
+
+Comparisons of the ASAHI Corsair Pro and predicate device show that the technological
+characteristics of the Subject device such as the components, design, materials, sterilization
+method, shelf life and operating principle are identical or similar to currently marketed predicate
+devices. The minor differences between the Subject and predicate devices do not raise any new
+questions of safety or effectiveness.
+
+The intended use/indications between the Subject Device and its primary predicate are identical
+except of last sentence has been added for clarity.
+
+ Name of Device                   ASAHI Corsair Pro               ASAHI Corsair Microcatheter
+ 510(k)                            Current Application                 K083127, K151103
+ Indications for Use       The ASAHI Corsair Pro is The                     ASAHI        Corsair
+                           intended to provide support to Microcatheter is intended to
+                           facilitate the placement of guide provide support to facilitate the
+                           wires in the coronary and placement of Guide wires in the
+                           peripheral vasculature, and can coronary            and     peripheral
+                           be used to exchange one guide vasculature and can be used to
+                           wire for another. The ASAHI exchange one guide wire for
+                           Corsair Pro is also intended to another.
+                           assist in the delivery of contrast The Corsair Microcatheter is
+                           media       into    the  coronary, also intended to assist in the
+                           peripheral,       and   abdominal delivery of contrast media into
+                           vasculature. This device should the coronary, peripheral, and
+                           not be used in neurovasculature. abdominal vasculature.
+ Sterilization                          Provided sterile via Ethylene Oxide to SAL10-6
+ Target body location                               Peripheral, Coronary
+ Shelf Life                                                 3 Years
+ Overall Length                      135 cm/ 150 cm                  90 cm / 135 cm/ 150 cm
+ Nominal OD                               0.93 mm                            0.93 mm
+ Coating Length                                             600 mm
+ Coating material                                         Hydrophilic
+ Marker?                                     No                                Yes
+ Single use                                                   Yes
+
+NON CLINICAL TESTING / PERFORMANCE DATA:
+
+Non clinical laboratory testing was performed on the ASAHI Corsair Pro to determine substantial
+equivalence. The following testing/assessments were performed:
+ • Appearance/Dimensions
+ • Radio-Detectability
+ • Slide Durability
+ • Kink Resistance
+ • Force at Break
+ • Flexibility
+ • Torque Transmission
+ • Liquid Leakage under Pressure
+
+
+
+
+                                                                                                    000015
+                                                                        K161126 Page 3 of 3
+
+
+
+•   Leak and Damage under High Static Pressure
+•   Air Leakage
+•   Corrosion Resistance
+•   Torque Durability
+
+The in vitro bench tests demonstrated that the ASAHI Corsair Pro met all acceptance criteria and
+performed similarly to the predicate devices. Performance data demonstrate that the device
+functions as intended, and is substantially equivalent to the predicate devices.
+
+BIOCOMPATIBILITY:
+
+The ASAHI Corsair Pro was compared to the predicate devices. All of materials used for the
+ASAHI Corsair Pro are identical to the ASAHI Corsair Microcatheter predicate except that there
+is no marker in the Subject device.
+
+CONCLUSION:
+
+The ASAHI Corsair Pro has identical intended use, similar indications, and the same or similar
+technological characteristics such as components, design, materials, sterilization method, shelf
+life, performance, and operating principles as the predicate devices. Performance data
+demonstrates that the device functions as intended.
+
+Therefore, the ASAHI Corsair Pro is substantially equivalent to the predicate devices.
+
+
+
+
+                                                                                          000016
+

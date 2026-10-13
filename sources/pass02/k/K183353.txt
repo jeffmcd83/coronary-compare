@@ -1,0 +1,209 @@
+                                                     0DUFK
+
+
+
+
+Medtronic Inc.
+Elaine Gullane
+Principal Regulatory Affairs Specialist
+Parkmore Business Park West
+Galway, Ireland
+
+Re: K183353
+    Trade/Device Name: Telescope™ Guide Extension Catheter
+    Regulation Number: 21 CFR 870.1250
+    Regulation Name: Percutaneous Catheter
+    Regulatory Class: Class II
+    Product Code: DQY
+    Dated: February 20, 2019
+    Received: February 22, 2019
+
+Dear Elaine Gullane:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+K183353 - Elaine Gullane                                                                              Page 2
+
+
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good
+manufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820)
+for devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-
+1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice
+(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn
+(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and
+Consumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website
+(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone
+(1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+                                                                    Digitally signed by
+                                                 Lydia S.           Lydia S. Glaw -S
+                                                                    Date: 2019.03.22
+                                                 Glaw -S            12:09:56 -04'00'
+                                           IRU   Bram D. Zuckerman, M.D.
+                                                 Director
+                                                 Division of Cardiovascular Devices
+                                                 Office of Device Evaluation
+                                                 Center for Devices and Radiological Health
+
+Enclosure
+          88
+.
+                                       K183353
+
+
+
+
+510(k) Summary per 21 CRF 807.92
+Date Prepared:    30th November 2018
+
+Applicant:        Medtronic Ireland
+                  Parkmore Business Park West
+                  Galway
+                  Ireland
+
+Official          Elaine Gullane
+Correspondent:    Principal Regulatory Affairs Specialist
+                  Medtronic Ireland
+                  Parkmore Business Park West
+                  Galway
+                  Ireland
+                  Phone: (353) 91 708682
+                  Fax: (353) 91 708672
+                  Email: elaine.gullane@medtronic.com
+
+Proprietary       Telescope™ Guide Extension Catheter
+Name:
+
+Common            Guide Catheter
+Name:
+
+Device            Class II
+Classification:
+
+Regulation        21 CFR 870.1250
+Number:
+
+Classification    Percutaneous catheter
+Name:
+
+Product Code:     DQY
+Device              The Telescope guide extension catheter is a single-lumen rapid exchange
+Description:        catheter. The guide extension catheter is designed to act as an extension to
+                    a traditional guide catheter and to facilitate the delivery of interventional
+                    devices into the vasculature. The guide extension catheter is intended to be
+                    used within the coronary and/or peripheral vasculature to provide support.
+
+                    The Telescope™ Guide Extension Catheter is offered in sizes compatible
+                    with 6F and 7F guide catheters as indicated by the product model numbers
+                    below.
+                                       Size            Product Model Number
+                                        6F                    TELE6F
+                                        7F                    TELE7F
+
+Indications For     Telescope™ Guide Extension Catheter is intended to be used in conjunction
+Use:                with guide catheters to access discrete regions of the coronary and/or
+                    peripheral vasculature, and to facilitate placement of interventional devices.
+
+Substantially       GuideLiner V3 Catheter (K172090, cleared October 20, 2017).
+Equivalent
+Device:
+
+Summary of         The following outlines the differences and similarities between the subject
+Technological      device - Telescope™ Guide Extension Catheter and the predicate device -
+Differences to the GuideLiner V3 Catheter:
+Predicate Device:      • Similar Intended Use
+                       • Similar Device Design Component/Construction
+                       • Different device materials
+                       • Similar Packaging
+                       • Similar Sterilization Method
+                   Medtronic’s Telescope™ Guide Extension Catheter is substantially
+                   equivalent to the predicate device based on similarities in intended use and
+                   technological characteristics. The testing performed demonstrates that the
+                   technological differences in the new device do not raise new questions of
+                   safety and effectiveness.
+
+Summary of Non- The technological differences between the subject and predicate devices
+Clinical Data:  have been evaluated through biocompatibility and design verification tests
+                to provide evidence of substantial equivalence for the Telescope™ Guide
+                Extension Catheter. The Telescope™ Guide Extension Catheter is
+                substantially equivalent to the specified predicate devices based on
+                comparisons of the device functionality, technological characteristics, and
+                indications for use. The device design has been verified through the
+                following:
+                 Design Verification/In-Vitro Bench Testing
+                 The Design Verification Testing included in-vitro bench testing and
+                 included:
+
+                    •   Simulated Use
+                    •   Deliverability
+                    •   Tip compression
+                    •   Pushwire Integrity
+                    •   Torque
+                    •   Lumen Patency
+                    •   Maximum outer diameter
+                    •   Catheter effective length
+                    •   Kink resistance
+                    •   Tensile Strength
+                    •   Coating Integrity
+                    •   Coating Particulate
+
+                 Biocompatibility Testing
+                 The following Biocompatibility Testing was completed on the Telescope™
+                 device in compliance with the requirements of ISO 10993-1: 2009/ Cor 1:
+                 2010- Biological evaluation of medical devices - Part 1: Evaluation and
+                 testing within a risk management process.
+                     • Cytotoxicity
+                     • Acute Systemic Toxicity
+                     • Material Mediated Pyrogenicity
+                     • ASTM Hemolysis
+                     • Complement Activation
+                     • Partial thromboplastin time
+                     • In-vivo Thromboresistance
+                     • Irritation / Intracutaneous Reactivity
+                     • Sensitization
+
+                 No new safety or effectiveness issues were raised during the testing.
+                 Therefore, the Telescope™ Guide Extension Catheter is substantially
+                 equivalent to the predicate device.
+
+Summary of       No clinical investigation has been performed for this device.
+Clinical Data:
+Sterilization   The Telescope™ Guide Extension Catheter will be sterilized and validated
+Validation:     for EtO sterilization in accordance with ISO11135 and EN556 to achieve a
+                minimum Sterility Assurance Level (SAL) of 10-6.
+Conclusion:     The data provided in this 510(k) premarket notification demonstrated that
+                the subject device Telescope™ Guide Extension Catheter is substantially
+                equivalent to the predicate device.
+

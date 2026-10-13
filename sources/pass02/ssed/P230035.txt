@@ -1,0 +1,2321 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+
+
+      GENERAL INFORMATION
+
+       Device Generic Name:                             Drug-eluting percutaneous
+                                                        transluminal coronary angioplasty
+                                                        catheter
+
+       Device Trade Name:                               AGENT™ Paclitaxel-Coated Balloon
+                                                        Catheter
+
+       Device Procode:                                  OOB
+                                                        Boston Scientific Corporation
+       Applicant’s Name and Address                     One Scimed Place
+                                                        Maple Grove, MN 55311
+       Date(s) of Panel Recommendation:                 None
+
+       Premarket Approval Application (PMA)             P230035
+       Number:
+
+       Date of FDA Notice of Approval:                  February 29, 2024
+
+       Breakthrough Device:                             Granted breakthrough device status
+                                                        on January 22, 2021 because the
+                                                        combination product and proposed
+                                                        indication for use met the criteria
+                                                        outlined in FDA Guidance Document
+                                                        "Breakthrough Devices Program."
+
+
+        INDICATIONS FOR USE
+
+        The AGENT™ Paclitaxel-Coated Balloon Catheter is intended to be used after
+        appropriate vessel preparation in adult patients undergoing percutaneous coronary
+        intervention (PCI) in coronary arteries 2.0 mm to 4.0 mm in diameter and lesions up to
+        26 mm in length for the purpose of improving myocardial perfusion when treating in-
+        stent restenosis (ISR).
+
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                   Page 1 of 49
+        CONTRAINDICATIONS
+
+        Use of the AGENT™ Drug-Coated Balloon Catheter is contraindicated in the following:
+
+        x   Use in the supra-aortic/cerebrovascular arteries.
+        x   Unprotected native left main coronary artery disease.
+        x   Coronary artery spasm in the absence of a significant stenosis.
+        x   Patients with known hypersensitivity to paclitaxel (or structurally-related
+            compounds).
+        x   Patients who cannot receive recommended antiplatelet and/or anticoagulant therapy.
+        x   Pregnant or breast-feeding women or women who are intending to become pregnant,
+            or men intending to father children.
+
+        WARNINGS AND PRECAUTIONS
+
+        The warnings and precautions can be found in the AGENTTM Paclitaxel-Coated Balloon
+        Catheter labeling.
+
+        DEVICE DESCRIPTION
+
+        The AGENTTM Paclitaxel-Coated Balloon Catheter (hereafter referred to as AGENT
+        Drug-Coated Balloon (DCB), AGENT Balloon Catheter, or AGENT DCB) is a monorail,
+        semi-compliant percutaneous coronary intervention (PCI) catheter; the balloon portion of
+        the device is coated with a TransPax™ coating (paclitaxel as the active pharmaceutical
+        ingredient and acetyl tributyl citrate (ATBC) as the excipient). The AGENT Drug-Coated
+        Balloon, see Figure 1, is designed to inhibit restenosis by delivering drug to the diseased
+        arterial tissue. The distal section of the catheter is dual lumen and coaxial.
+
+        The outer lumen is used for inflation of the balloon to conform to the vessel wall, and the
+        LQQHUOXPHQSHUPLWVWKHXVHRIJXLGHZLUHVLQ PP WRIDFLOLWDWHDGYDQFHPHQW
+        of the catheter. The proximal section of the catheter is a single-lumen, stainless steel
+        hypotube with a single luer port hub for inflation/deflation of the balloon during drug
+        delivery. The semi-compliant balloon is designed to provide an inflatable segment of
+        known diameter and length at recommended pressures. The balloon is available in
+        diameters of 2.0-4.0 mm and in lengths of 12-30 mm. A balloon protector is placed over
+        the drug-coated balloon to maintain a low profile and to protect the balloon and drug
+        coating. A mandrel is placed into the inner lumen to protect the patency of the catheter
+        during storage. The catheter tip is tapered to facilitate advancement of the catheter to the
+        treatment area and through the stenosis. The shaft is coated with a hydrophilic coating
+        (ZGlide™), which is present from the guidewire port to just proximal to the balloon. The
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                     Page 2 of 49
+        effective length of the catheter is 144 cm. Marks on the proximal portion of the catheter
+        shaft indicate the exit of the balloon catheter tip out of the guide catheter (one mark at 90
+        cm and two marks at 100 cm). Two radiopaque marker bands, in conjunction with
+        fluoroscopy, aid in positioning the AGENT Drug-Coated Balloon.
+
+
+
+
+                     Figure 1: AGENT Paclitaxel-Coated Balloon Catheter
+
+        The AGENT DCB’s catheter is identical to the cleared Emerge™ PTCA Balloon
+        Catheter System (K163174). The coating used on the AGENT DCB’s balloon, including
+        its drug dose density, is the identical TransPax drug coating as used on the Ranger™
+        DCB (P190019).
+
+        Mechanism of Action
+
+        AGENT DCB provides mechanical expansion of a diseased vessel (primary mode of
+        action) while transferring a pharmacological agent (i.e., paclitaxel) to inhibit neointimal
+        proliferation of the vessel wall.
+
+        DRUG COATING DESCRIPTION
+        The drug coating for the AGENT balloon catheter consists of paclitaxel (the active
+        pharmaceutical ingredient) and acetyl tributyl citrate (the inactive ingredient).
+
+        Drug Substance – Paclitaxel (PTx)
+
+        The active pharmaceutical ingredient in the proprietary AGENT balloon coating is
+        paclitaxel [CAS no. 33069-62-4]. Paclitaxel as an active substance is well described in
+        scientific literature and is used in both medicinal products (drug products) and
+        combination products (device/drug products). The principal mechanism by which
+        paclitaxel inhibits neointimal growth is through the stabilization of microtubules by
+        preventing depolymerization during the final G2/M phase of cell division.
+
+        The chemical name of paclitaxel LV%HQ]HQHSURSDQRLFDFLGȕ-(benzoylamino) - Į-
+        hydroxy -, 6, 12b – bis (acetyloxy) - 12-(benzoyloxy) - 2a,3,4,4a,5,6,9,10,11,12,12a,12b-
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                      Page 3 of 49
+        dodecahydro-4,11- dihydroxy-4a,8,13,13-tetramethyl-5-oxo-7,11 methano-1H-
+        cyclodeca[3,4]benz[1,2-b]oxet-9-yl ester, [2aR->DĮȕDȕȕĮ Į5 ȕ6 
+        ĮĮDĮEĮ@@
+
+        Paclitaxel is a diterpenoid with a characteristic taxane skeleton of 20 carbon atoms, a
+        molecular weight of 853.91 g/mol and a molecular formula of C47H51NO14 (Figure 2). It
+        is highly lipophilic and insoluble in water, but freely soluble in polar solvents such as
+        methanol, ethanol, chloroform, ethyl acetate and dimethyl sulfoxide.
+
+
+
+
+                             Figure 2: Paclitaxel Chemical Structure
+
+        Excipient – Acetyl Tributyl Citrate
+
+        The inactive ingredient in the AGENT DCB coating is acetyl tributyl citrate (ATBC),
+        which constitutes 20% of the coating formulation by weight. ATBC has no
+        pharmacological effect and serves as an excipient in the DCB coating, designed to
+        enhance coating integrity and facilitate drug coating transfer to the treated lesion vessel.
+
+        ATBC is a carboxylic acid ester with a molecular weight of 402.48 g/mol. It is a
+        colorless, slightly viscous, liquid. ATBC is an excipient used for various commercially
+        available products, including oral tablets (up to 18 mg per tablet / capsule) and in aqueous
+        pharmaceutical coatings, controlled release systems, transdermal patches, and drug
+        coated balloons for peripheral indications (e.g., BSC’s Ranger™ device). The chemical
+        structure of acetyl tributyl citrate is shown in Figure 3.
+
+
+
+
+                               Figure 3: ATBC Chemical Structure
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                      Page 4 of 49
+        DRUG DOSE
+        7KHQRPLQDOGUXJGRVHGHQVLW\RQWKH$*(17'&%LVȝJPPðof cylindrical balloon
+        surface. The target drug content for every balloon size is defined by the product of the
+        calculated cylindrical balloon surface area (A) and the nominal drug dose density, as
+        shown in the following equation:
+
+                               7DUJHW'UXJ&RQWHQW  ȝJPPð [$ PPð
+
+        AGENT balloons have diameters ranging from 2.00 mm to 4.00 mm and lengths of
+        12 mm to 30 mm. An overview of the AGENT DCB product matrix, including their
+        respective total drug amount, is provided in Table 1.
+
+                        Table 1: Nominal Drug Content Per Balloon Size
+
+                   Diameter                  Drug Dose by Balloon Length
+                    (mm)          12 mm          15 mm        20 mm        30 mm
+                     2.00          ȝJ        ȝJ       ȝJ       ȝJ
+                     2.25          ȝJ        ȝJ       ȝJ       ȝJ
+                     2.50          ȝJ        ȝJ       ȝJ       ȝJ
+                     2.75          ȝJ        ȝJ       ȝJ       ȝJ
+                     3.00          ȝJ        ȝJ       ȝJ       ȝJ
+                     3.50          ȝJ        ȝJ       ȝJ       ȝJ
+                     4.00          ȝJ        ȝJ       ȝJ       ȝJ
+
+
+        ALTERNATIVE PRACTICES AND PROCEDURES
+
+        There are several other alternative therapeutic options for treatment of coronary in-stent
+        restenosis, including:
+
+       x   Medical therapy and risk factor modification (e.g., diet, exercise, smoking cessation)
+       x   Coronary artery bypass graft (CABG) surgery
+       x   Vascular brachytherapy
+       x   Plain old balloon angioplasty (POBA; i.e., angioplasty with a balloon with no drug
+           coating)
+       x   Additional stent
+       Each alternative has its own advantages and disadvantages. A patient should fully discuss
+       these alternatives with his/her physician to select the method that best meets expectations
+       and lifestyle.
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                    Page 5 of 49
+        MARKETING HISTORY
+
+        The AGENT Drug-Coated Balloon has been commercially available for distribution in
+        the European Union (EU) since receiving CE Mark in July 2014. Since that time, the
+        AGENT device has been commercially available in the countries identified in Table 2.
+        During this time, the device has not been withdrawn from marketing for any reason
+        related to its safety or effectiveness.
+
+                               Table 2: List of Approved Countries
+         Afghanistan                 Algeria                 Andorra         Antigua and Barbuda
+          Argentina                 Armenia                   Aruba               Australia
+           Austria                 Azerbaijan                Bahamas              Bahrain
+          Barbados                  Belgium                   Belize              Bermuda
+         Bonaire Saba          Bosnia-Herzegovina             Brunei              Bulgaria
+          Cambodia               Cayman Islands               Chile               Colombia
+          Costa Rica                 Croatia                 Curacao               Cyprus
+        Czech Republic              Denmark             Dominican Republic     Dutch Antilles
+           Ecuador                   Egypt                 El Salvador             Estonia
+           Finland                   France                  Georgia              Germany
+         Great Britain               Greece                 Guatemala              Guyana
+             Haiti                  Honduras               Hong Kong              Hungary
+           Iceland                    India                 Indonesia               Iraq
+           Ireland                   Israel                    Italy              Jamacia
+            Japan                    Jordan                   Kenya                Kosovo
+           Kuwait                  Kyrgyzstan                 Latvia              Lebanon
+            Libya                 Liechtenstein             Lithuania           Luxembourg
+            Macau                  Macedonia                 Malaysia              Malta
+          Martinique                Mauritius                Mexico               Moldova
+          Mongolia                Montenegro                 Morocco              Myanmar
+           Namibia                   Nepal                 Netherlands          New Zealand
+           Norway                    Oman                    Panama               Pakistan
+          Paraguay                    Peru                  Philippines            Poland
+           Portugal                  Qatar                   Romania               Russia
+         Saudi Arabia              Singapore              Saint Maarten           Slovakia
+           Slovenia               South Africa             South Korea             Spain
+            Sudan                   Suriname                 Sweden              Switzerland
+           Taiwan                  Tajikistan                Thailand        Trinidad and Tobago
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                        Page 6 of 49
+            Tunisia                  Turkey               Turkmenistan       United Arab Emirates
+            Uruguay                 Uzbekistan              Vietnam                Palestine
+            Yemen
+
+
+        POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+        Below is a list of the potential adverse effects (e.g., complications) associated with the
+        use of the AGENT DCB or the angioplasty procedure.
+
+        x   Additional, possibly surgical, intervention
+        x   Allergy (drug coating and its components, device, medications, contrast)
+        x   Arrhythmia including conduction system disorder
+        x   Bleeding (including hemorrhage or hematoma possibly requiring transfusion or
+            additional intervention)
+        x   Cerebrovascular accident (stroke) / transient ischemic attack (TIA)
+        x   Death
+        x   Embolism (tissue, plaque, thrombus, device, drug coating)
+        x   Fever/inflammation
+        x   Hemodynamic instability
+        x   Hypotension/hypertension (shock)
+        x   Kidney injury/failure
+        x   Myocardial ischemia/infarction
+        x   Organ insufficiency/failure (heart, liver, lungs)
+        x   Pain (anginal, non-anginal)
+        x   Pericardial effusion/cardiac tamponade
+        x   Radiation injury
+        x   Sepsis/infection
+        x   Slow flow/no reflow
+        x   Vessel injury (spasm, dissection, perforation, rupture, arteriovenous fistula,
+            aneurysm)
+        x   Vessel occlusion (abrupt closure, slow flow / no reflow, thrombosis, restenosis)
+
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                        Page 7 of 49
+       Potential adverse events not captured above, that have been associated with administration
+       of paclitaxel at systemic doses, include the following:
+
+        x   Abnormal liver enzymes
+        x   Allergic / immunologic reaction to drug (paclitaxel or structurally-related
+            compounds)
+        x   Alopecia
+        x   Anemia
+        x   Blood product transfusion
+        x   Gastrointestinal symptoms
+        x   Hematologic dyscrasia (including leukopenia, neutropenia, thrombocytopenia)
+        x   Hepatic enzyme changes
+        x   Histologic changes in vessel wall, including inflammation, cellular damage or
+            necrosis
+        x   Myalgia/arthralgia
+        x   Peripheral neuropathy
+
+        SUMMARY OF NONCLINICAL STUDIES
+
+            LABORATORY STUDIES
+            A series of non-clinical laboratory studies related to the product were performed to
+            evaluate the device, including: biocompatibility studies, bench testing, coating
+            characterization testing, chemistry, manufacturing and controls (CMC) testing,
+            sterilization testing, packaging/shelf life testing, and Good Laboratory Practice (GLP)
+            animal studies. A summary for each of the evaluations is provided below.
+
+            i. Biocompatibility
+
+                Biocompatibility testing of the AGENT Paclitaxel-Coated Balloon Catheter
+                (AGENT DCB) was conducted in accordance with ISO 10993-1 Biological
+                Evaluation of Medical Devices – Part 1: Evaluation and Testing within a Risk
+                Management Process, FDA Guidance – Use of International Standard ISO
+                10993-1 – Guidances for Industry and Food and Drug Administration Staff.
+                Testing was completed separately on three separate test articles:
+                1) the final, drug-coated AGENT balloon catheter,
+                2) the bare (no drug or excipient) AGENT balloon catheters, and
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                     Page 8 of 49
+                 3) on the isolated AGENT Drug-Coated Balloon only (with no catheter).
+
+
+                 Multiple test articles were used in order to ensure that any potential effects of the
+                 drug coating component on biocompatibility could be differentiated from any
+                 potential effects of the device component.
+
+
+                 The results of the biocompatibility studies conducted are summarized in Table 3.
+
+                             Table 3: Summary of Biocompatibility Testing
+
+                                Applicable ISO          Test Article
+         Test Name                                                                     Result(s)
+                                 Standard(s)       1         2         3
+ Cytotoxicity Study Using                          ¥         ¥         ¥
+                                 ISO 10993-5                                         Non-cytotoxic
+ the ISO Elution Method
+ Cytotoxicity Study Using                                              ¥
+                                 ISO 10993-5                                         Non-cytotoxic
+ the Direct Contact Method
+ ISO Guinea Pig                                    ¥         ¥         ¥
+ Maximization                    ISO 10993-10                                        Non-sensitizer
+ Sensitization Test
+ ISO Intracutaneous                                ¥         ¥         ¥
+ Reactivity Study in             ISO 10993-10                                         Non-irritant
+ Rabbits
+ ISO Acute Systemic                                ¥         ¥         ¥
+                                 ISO 10993-11                                          Non-toxic
+ Toxicity Study in Mice
+ USP Rabbit Pyrogen                                ¥         ¥         ¥
+                                 ISO 10993-11                                        Non-pyrogenic
+ Study, Materials Mediated
+ ASTM Hemolysis Study –                            ¥         ¥         ¥
+                                 ISO 10993-4                                         Non-hemolytic
+ Direct Method
+ ASTM Hemolysis Study –                            ¥         ¥         ¥
+                                 ISO 10993-4                                         Non-hemolytic
+ Extract
+ Partial Thromboplastin                            ¥
+                                 ISO 10993-4                                        Met requirements
+ Time
+ Platelet and Leukocyte                            ¥
+                                 ISO 10993-4                                        Met requirements
+ Count
+ Complement Activation                             ¥         ¥         ¥
+                                 ISO 10993-4                                   Not a complement activator
+ (SC5b-9 Assay)
+
+
+
+                 This biocompatibility assessment concluded the AGENT DCB demonstrated
+                 acceptable biological risk under its intended use.
+
+                 The Thrombogenicity, Implantation, and Sub-chronic/Chronic Toxicity endpoints,
+                 per ISO 10993-4, -6, and -11, respectively, were leveraged from the GLP animal
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                       Page 9 of 49
+                 safety study using the final AGENT drug coated balloon catheter. The outcomes
+                 related to these endpoints were found to be acceptable.
+
+                 Chemical characterization per ISO 10993-18 (Exhaustive Extraction and Analysis
+                 by GC/MS, LC/MS, ICP/MS) and associated toxicological risk assessments were
+                 performed. These studies supported the acceptable biological risk for the AGENT
+                 DCB for endpoints of Sub-chronic/Chronic Toxicity, Genotoxicity, and
+                 Carcinogenicity.
+
+            ii. Bench Testing
+
+                 A summary of the in vitro engineering studies to support the AGENT Paclitaxel-
+                 Coated Balloon Catheter is provided in Table 4. All testing was completed in
+                 accordance with national and international standards and FDA guidance
+                 documents, as applicable, to support the approved indication.
+
+                               Table 4: Summary of Bench Testing
+                                           Testing Objective                   Acceptance
+              Test                                                                               Test Results
+                                                                                Criteria
+                               Demonstrate accurate dimensions,
+                               including crossing profile, effective         Compatible with
+  Dimensional and Functional
+                               length, balloon length, and guidewire             labeled            Pass
+  Attributes
+                               compatibility, on the product label and         dimensions
+                               compatible with accessory devices.
+                               To ensure catheter/ balloon burst pressures   >14 atm (2.0-3.0
+  Rated Burst Pressure         are above the labeled pressure range.         mm) and >12 atm        Pass
+                                                                               (3.5-4 mm)
+                               Measure the balloon to supply accurate         Characterize for
+                               compliance chart.                              development of     Acceptable
+  Balloon Compliance
+                                                                                the balloon      Outcomes
+                                                                             compliance curve
+                               To ensure balloon can inflate and deflate       Characterize      Acceptable
+  Balloon Inflation and
+                               to achieve labeled balloon diameter            inflation time;    outcomes;
+  Deflation Time
+                               without delays to procedure.                   VGHIODWion       Pass
+                               Repeat inflations to ensure freedom from      Must be able to
+  Balloon Fatigue              leakage and damage on multiple                  withstand 10         Pass
+                               inflations.                                   repeat inflations
+                               To ensure all bonds present on the balloon      -22.2N,
+  Tensile Strength             catheter withstands certain tensile forces     depending on          Pass
+                               without fractures.                                 bond
+                               Catheter is wrapped around challenging
+                               radii mandrels till kink and confirmed          Characterize      Acceptable
+  Flexibility and Shaft Kink
+                               catheter can perform as intended wire                             Outcomes
+                               movement or inflation/deflation.
+  Torque Strength              To ensure catheter withstands rotational        Characterize      Acceptable
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                            Page 10 of 49
+                                   forces without fractures.                                             Outcomes
+                                   Assures that the catheter can advance to           The device can
+                                   the target lesion, deploy, and withdraw              be prepared,
+  Balloon Preparation,             without any damage.                                    tracked,
+                                                                                                               Pass
+  Delivery, and Retraction                                                             deployed, and
+                                                                                     retracted with no
+                                                                                          damage
+                                   To ensure radiopaque markerbands are              Must be visible
+  Radiopacity                      visible under fluoroscopy to aid in the                                     Pass
+                                   placement of the balloon.
+                                   To show that the hydrophilic coating                Characterize      Acceptable
+  Hydrophilic coating integrity
+                                   remains largely intact after simulated use                            Outcomes
+
+
+            iii. Coating Characterization Testing
+
+                 Analytical and characterization testing was performed to evaluate characteristics
+                 of the AGENT DCB drug coating. A summary of the test and test description is
+                 located within Table 5.
+
+                    Table 5: Summary of AGENT DCB Coating Characterization
+             Test                                  Description                                  Test Results
+ Particulate Quantitation         Characterize the total counts and sizes of               Acceptable Outcomes
+ (Simulated Use)                  particulates generated from AGENT DCB in
+                                  simulated use conditions
+ Particulate Identity and         Characterize chemical identification and                 Acceptable Outcomes
+ Crystallinity Characterization   crystallinity of particulates
+ Drug Coating Thickness           Characterize coating thickness of the balloon            Acceptable Outcomes
+                                  at multiple locations along the length and
+                                  circumference of the balloon
+ Drug Coating                     Measure the uniformity of drug content of                Acceptable Outcomes
+ Circumferential Uniformity       multiple circumferential segments of finished
+                                  AGENT DCB
+ Drug Coating Longitudinal        Measure the uniformity of drug content of                Acceptable Outcomes
+ Uniformity                       multiple longitudinal segments, depending on
+                                  balloon length, of finished AGENT DCB
+ Drug Coating Durability          Durability and any performance impact to                 Acceptable Outcomes
+                                  durability, is manifested in an assessment of
+                                  drug content. Cohesion and adhesion of the
+                                  coating is assessed in the measurement of
+                                  drug content after the following steps:
+                                  1. Insertion through a guide catheter
+                                  2.Track through simulated anatomy
+ Drug Coating Crystallinity       Characterize degree of crystallinity of the drug         Acceptable Outcomes
+ Characterization                 coating
+ Drug Coating Integrity           Characterize drug coating Integrity including            Acceptable Outcomes
+                                  quantification of coated area after the
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                    Page 11 of 49
+                                following steps:
+                                   1. Insertion through a guide catheter
+                                   2.Track through simulated anatomy
+
+
+
+            iv. Chemistry, Manufacturing and Controls (CMC) Testing
+
+                    The established requirements for ongoing AGENT DCB release batch and
+                    stability testing are summarized in Table 6.
+
+                         Table 6: AGENT DCB CMC Testing Requirements
+                Test                              Description                           Acceptance Criteria
+ Appearance                    Packaging securement and appearance of the           Must meet visual standard
+                               balloon coating appearance is evaluated by
+                               visual inspection
+ Drug Identity                 The identity of the drug substance, paclitaxel, is   Identity must be confirmed
+                               confirmed by HPLC analysis and its UV
+                               spectrum
+ Drug Content Assay            Paclitaxel content is quantified by high             Drug content mean value
+                               performance liquid chromatography (HPLC) to          should be 90.0 – 110.0% of
+                               ensure product contains the labeled dose             label claim
+ Drug Content Uniformity       Paclitaxel content is quantified by HPLC to          USP <905>
+                               ensure individual devices contain the labeled
+                               dose
+ Drug Degradants and           The levels of drug degradants and impurities are     ICH Q3B(R2)
+ Impurities                    quantified by HPLC to ensure they remain
+                               within acceptable levels
+ Residual Acetone Content      The residual acetone from the manufacturing          Residual acetone levels must
+                               process is quantified by gas chromatography –        be within limits
+                               flame ionization detector (GC-FID) to ensure it
+                               remains within acceptable levels
+ Drug Release                  The released paclitaxel is quantified by HPLC        The drug release at multiple
+                               to ensure it is within limits                        timepoints must be within
+                                                                                    limits.
+ Device Sterility              The sterility of the single-use device is            USP <71>
+                               evaluated per USP <71>
+ Endotoxins                    Endotoxin levels are evaluated per AAMI ST72         AAMI ST72
+                               to ensure they are within established safety
+                               guidelines
+ Particulates                  Device particulate matter is evaluated using         Particulate sizes and counts
+                               light obscuration particle counting procedures       must be within limits
+                               documented in USP <788>.
+
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                 Page 12 of 49
+            v. Sterilization
+
+                The AGENT Paclitaxel-Coated Balloon Catheter device is sterilized using the
+                BSC2000-2 100% ethylene oxide (EO) sterilization cycle. The BSC2000-2 cycle
+                is an all-in-one process, a type of dynamic sterilization cycle in which
+                conditioning and aeration as well as sterilization occur in the sterilizer chamber.
+                This cycle is validated and controlled in accordance with ISO 11135:2014
+                (Sterilization of Health Care Products - Ethylene Oxide - Requirements for
+                Development, Validation and Routine Control of Sterilization Process for Medical
+                Devices) to provide a Sterility Assurance Level (SAL) of at least 10-6.
+
+                The amount of bacterial endotoxin was verified to be within the ANSI/AAMI
+                ST72 specification limit.
+
+           vi. Packaging
+
+                Packaging verification testing was performed to demonstrate that the AGENT
+                DCB packaging can withstand the hazards of distribution and the environment,
+                and that the sterility of the device is maintained throughout the labeled shelf life.
+                Package integrity testing included a visual assessment, bubble leak testing, and
+                seal strength testing. Testing was conducted at baseline, aged, challenge
+                sterilization, and distribution conditions.
+
+           vii. Shelf Life
+
+                Shelf-life studies evaluating the effects of aging on the mechanical properties of
+                the catheter, packaging, and the stability of the drug were conducted to establish a
+                shelf life/expiration date for the AGENT DCB product. The data generated
+                support a 24-month shelf life for the AGENT DCB device and the product is
+                labeled accordingly.
+
+        ANIMAL STUDIES
+        The following in vivo animal testing was conducted in a porcine coronary artery model to
+        evaluate the safety of the AGENT DCB. Two animal studies were conducted in
+        accordance with 21 CFR 58 (Good Laboratory Practices) and one animal study was not
+        conducted in accordance with 21 CFR 58.
+       x   One GLP pharmacokinetic (PK) study was completed evaluating drug content in blood
+           (time points from 0.5 hours to 14 days), treated coronary arterial tissue, and
+           downstream myocardium/organ specimens (time points from 1 hours to 144 days) in a
+           naive, non-ISR coronary artery swine model.
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                     Page 13 of 49
+       x   One non-GLP PK study was completed evaluating drug content in blood (time points
+           from 0.5 hours to 28 days), treated coronary arterial tissue, and downstream
+           myocardium/organ specimens (time points from 1 to 28 days) in an in-stent restenosis
+           coronary artery swine model.
+       x   One GLP safety and safety margin study was completed (time points from 4 to 180
+           days) providing evidence of drug delivery, tissue response, and safety in a non-injured
+           coronary artery swine model.
+        In addition to the principal endpoints noted for each study, all animals were carefully
+        evaluated for general health (i.e., vital signs, behavior, nutritional condition, gait, etc.)
+        and clinical responses to treatment.
+        A list and description of the animal studies conducted is presented in Table 7.
+
+             Table 7: Summary of Animal Safety, Safety Margin, and PK Studies
+                    Number      Local
+                                          Balloon                                                     Endpoints
+     Study ID       & Animal    Drug                     Time Points         Major Endpoints
+                                           Size                                                         Met
+                      Type      Dose
+                                                        Tissue
+                                                        1 hour,
+                                                                           Quantitative
+                                                        1/7/14/28/         Angiography;
+       GLP           n=18                               60/90/144 days
+                                         3.0 & 3.5                         Clinical Health;
+ Pharmacokinetics   Domestic      1x                    Blood                                            Yes
+                                         x 15 mm                           Arterial, Non-Target
+    (19-020G)        Swine
+                                                        Baseline,          Tissue, and Blood
+                                                        10/30 minutes,     Levels
+                                                        1/8/12/16 hours,
+                                                        1/3/7/14 days
+                                                        Tissue             Quantitative
+                                                        1/7/28 days        Angiography;
+     Non-GLP
+                      n=3                               Blood              Clinical Health;
+ Pharmacokinetics                        3.0 & 3.5
+    ISR Model       Domestic      1x                                       Arterial, Non- Target         Yes
+                                         x 15 mm        Baseline,
+                     Swine                              10/30 minutes,     Tissue, and Blood
+    (19-026N)
+                                                        1/8/12/16 hours,   Levels;
+                                                        1/3/7/14/28 days   Acute Performance
+                                                                           Quantitative
+   GLP Safety,                                                             Angiography;
+  Safety Margin,     n=24
+   and Vascular                          3.0 & 3.5      4/30/90/180        Clinical Safety;
+                    Domestic    1x, 3x                                                                   Yes
+     Response                            x 20 mm        days               Histology;
+                     Swine
+    (18-095G)                                                              Morphometric and
+                                                                           Morphologic Analysis
+
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                              Page 14 of 49
+        The preclinical studies conducted demonstrate and confirm the safety of the AGENT
+        DCB. The GLP safety evaluation study (18-095G) of the AGENT DCB demonstrated
+        favorable safety parameters as defined by the following:
+        x   Successful delivery of the device to the target treatment location without major
+            procedural or device related complications, such as acute thrombosis, major bleeding,
+            or flow-limiting dissection.
+        x   No morbidity or mortality device-related complications during the treatment
+            procedures and in-life phases of the experiments.
+        x   No major angiographic differences observed between test and control treatment
+            groups. No major vessel abnormalities were reported. Angiographic flow and stenosis
+            were similar across treatment arms (1X, 3X, and Uncoated Balloon).
+        x   The histological morphometric assessments of the treated iliofemoral arteries were
+            generally comparable across treatment arms (1X, 3X, and Uncoated Balloon)
+            including external elastic lamina, internal elastic lamina, lumen, medial, and
+            neointimal areas, neointimal thickness and percent stenosis. There were no incidences
+            of thrombotic occlusion or aneurysmal formation out to 180 days.
+        x   Comparable histological indicators of vessel wall healing such as: injury,
+            inflammation, and fibrosis with the test articles (1X, 3X) when compared to control
+            tissue sections. The extent of endothelial coverage as determined by light microscopy
+            in tissue sections were comparable between arms with endothelization nearly
+            complete by 30 days and no abnormal findings on any endothelial surface.
+        x   Downstream non-target tissues, including myocardium and organs, showed no
+            clinically relevant evidence of adverse effects such as embolization-associated
+            ischemia, thrombosis, or systemic organ toxicity.
+        x   Acute performance data demonstrated acceptable clinical safety (including no
+            thrombus formation) and device performance.
+
+       The preclinical pharmacokinetic studies (19-020G and 19-026N) demonstrated effective
+       drug delivery and uptake into the arterial tissues at the therapeutic dose density (2.0
+       μg/mm2) with no evidence of drug toxicity demonstrated as follows:
+        x   Arterial paclitaxel concentrations were highest at the early time points, notably at day
+            1 post-procedure, and decreased to low but detectable levels through 144 days in the
+            GLP de novo PK study. Pharmacokinetic parameters of arterial tissue demonstrated a
+            Cmax of 162.8 ng/mg (19-020G model).
+        x   Blood paclitaxel concentrations reached their maximum at the earliest time points,
+            within hours post-device deployment, followed by a rapid elimination profile,
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                   Page 15 of 49
+            reaching levels below quantification by 3 days post-procedure in the GLP de novo PK
+            study.
+        x   Paclitaxel was detected at low levels in distal tissues and organs, including the distal
+            myocardium, sub-adjacent myocardium, and lungs, out to 90 days. Detectable levels
+            out to 14 days were also present in the spleen and liver. The presence of paclitaxel in
+            major organs or muscles was not associated with any clinically relevant adverse
+            clinical reactions. Systemic concentrations in non-target tissues exhibited much lower
+            paclitaxel concentrations relative to the treated arteries at the earlier time points and
+            further decreased to non-detectable or almost non-detectable levels over 144 days.
+            Results indicate limited systemic and non-target tissue drug exposure to paclitaxel
+            with treatment using AGENT DCB.
+        x   The PK profiles of AGENT DCB in treated vessel, blood, and downstream tissues
+            and organs were similar between the de novo and in-stent restenosis animal models.
+            Based on this data, the de novo model was found to be sufficient to represent and
+            predict the paclitaxel PK profiles and arterial concentrations in an in-stent restenosis
+            model.
+
+        Pharmacokinetic data demonstrated localization of paclitaxel with limited systemic and
+        non-target tissue exposure. Histopathology data demonstrated an acceptable drug dose
+        DQGHPEROLFORDGVDIHW\PDUJLQIRUWKHLQWHQGHGWKHUDSHXWLFGRVHRIȝJPP2 and
+        range of allowable balloon sizes.
+
+        SUMMARY OF PRIMARY CLINICAL STUDY
+
+        The applicant performed a clinical study, AGENT IDE Study, to establish a reasonable
+        assurance of safety and effectiveness of the AGENT Paclitaxel-Coated Balloon Catheter
+        in patients with in-stent restenosis (ISR) of a previously treated lesion of up to 26 mm in
+        length (by visual estimate) in a native coronary artery 2.0 mm to 4.0 mm in diameter. The
+        study was conducted in the US under IDE # G200100. Data from this clinical study were
+        the basis for the PMA approval decision. A summary of the clinical study is presented
+        below.
+
+            STUDY DESIGN
+            Patients were treated between May 2021 and August 2022. The database for this
+            PMA reflected data collected through October 18, 2023 and included 600 patients.
+            There were 40 investigational sites, all in the United States (US).
+
+            The AGENT IDE clinical study was a prospective, multicenter, 2:1 randomized
+            (AGENT DCB to "plain old balloon angioplasty” (POBA)), controlled, single-blind,
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                    Page 16 of 49
+             superiority trial to assess the safety and effectiveness of the AGENT DCB as
+             compared to POBA in patients with ISR.
+
+             The AGENT IDE Study used an adaptive group-sequential design with an initial
+             planned enrollment of 480 patients, and one formal interim analysis on the 1-year
+             data after randomization of the first 90% of subjects, with the expectation that the
+             first 40% of randomized patients would have 1-year follow up at that time. The
+             interim analysis was prespecified to be performed by the Data Monitoring Committee
+             (DMC) for potential sample size re-estimation of up to 600 patients. Due to rapid
+             enrollment in the trial, no subjects had completed 1-year follow-up for the interim
+             analysis at the time of the planned interim analysis; therefore, the DMC
+             recommended to continue enrollment to the maximum of 600 patients. To determine
+             final sample size for the primary endpoint analysis, the sponsor and FDA agreed the
+             DMC would perform an interim analysis on the first 40% of patients (n=192) with 1-
+             year data when those data were available using the prespecified adaptive design
+             strategy. Based on this interim analysis, the DMC’s recommendation was to evaluate
+             the primary endpoint on the first 480 patients, which was consistent with the initial
+             planned sample for the trial.
+
+             The primary endpoint of 1-year target lesion failure (TLF) was analyzed based on the
+             primary endpoint cohort (N=480). The primary endpoint analysis was also performed
+             on the total enrollment cohort (N=600). Results for both are presented within this
+             SSED. All other data, including the additional clinical endpoints presented below, are
+             based on the total enrollment cohort (N=600).
+
+             1. Clinical Inclusion and Exclusion Criteria
+
+                    Enrollment in the AGENT IDE Study was limited to patients who met the
+                    following clinical and angiographic inclusion criteria (Table 8):
+                                        Table 8: Inclusion Criteria
+ Clinical            CI1.   Subject must be at least 18 years of age.
+ Inclusion           CI2.   Subject (or legal guardian) understands the trial requirements and the treatment
+ Criteria                   procedures, and provides written informed consent before any trial-specific tests or
+                            procedures are performed.
+                     CI3.   Subject is eligible for percutaneous coronary intervention (PCI).
+                     CI4.   Subject is willing to comply with all protocol-required follow-up evaluation.
+                     CI5.   Women of child-bearing potential must agree to use a reliable method of
+                            contraception from the time of screening through 12 months after the index
+                            procedure.
+ Angiographic        AI1.   In-stent restenosis in a lesion previously treated with either a drug-eluting stent or
+ Inclusion                  bare metal stent, located in a native coronary artery with a visually estimated
+ Criteria (visual           UHIHUHQFHYHVVHOGLDPHWHU 59' !PPDQGPP
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                    Page 17 of 49
+ estimate)        AI2.    Target lesion length must be < 26 mm (by visual estimate) and must be covered by
+                          only one balloon.
+                  AI3.    Target lesion must have visually estimated stenosis > 50% and < 100% in
+                          symptomatic patients (>70% and <100% in asymptomatic patients) prior to lesion
+                          pre-dilation.
+                  AI4.     Target lesion must be successfully pre-dilated.
+                  Note: Successful predilation/pretreatment refers to dilation with a balloon catheter of
+                        appropriate length and diameter, or pretreatment with directional or rotational coronary
+                        atherectomy, laser or cutting/scoring balloon with no greater than 50% residual stenosis
+                        and no dissection greater than National Heart, Lung, Blood Institute (NHLBI) type C.
+                        Thrombolysis in Myocardial Infarction (TIMI) grade flow in the target lesion must be
+                        >2.
+                  AI5.    If a non-target lesion is treated, it must be treated first and must be deemed a success.
+                  Note: Successful treatment of a non-target lesion is defined DVDUHVLGXDOVWHQRVLVRILQ
+                        2 near-orthogonal projections with TIMI 3 flow, as visually assessed by the physician,
+                        without the occurrence of prolonged chest pain or ECG changes consistent with MI.
+
+
+
+                Patients were not permitted to enroll in the AGENT IDE Study if they met any of
+                the following exclusion criteria (Table 9):
+
+                                      Table 91: Exclusion Criteria
+ Clinical         CE1.     Subject has other serious medical illness (e.g., cancer, congestive heart failure) that
+ Exclusion                 may reduce life expectancy to less than 24 months.
+ Criteria         CE2.     Subject has current problems with substance abuse (e.g., alcohol, cocaine, heroin,
+                           etc.).
+                  CE3.     Subject has planned procedure that may cause non-compliance with the protocol or
+                           confound data interpretation.
+                  CE4.     Subject is participating in another investigational drug or device clinical study that
+                           has not reached its primary endpoint.
+                  CE5.     Subject intends to participate in another investigational drug or device clinical study
+                           within 12 months after the index procedure.
+                  CE6.     Woman who is pregnant or nursing. (A pregnancy test must be performed within 7
+                           days prior to the index procedure, except for women who definitely do not have child-
+                           bearing potential.)
+                  CE7.     Left ventricular ejection fraction known to be < 25%.
+                  CE8.     Patient had PCI or other coronary interventions within the last 30 days.
+                  CE9.     Planned PCI or CABG after the index procedure.
+                  CE10.    STEMI or QWMI <72h prior to the index procedure.
+                  CE11.    Cardiogenic shock (SBP < 80 mmHg requiring inotropes, IABP or fluid support).
+                  CE12.    Known allergies against paclitaxel or other components of the used medical devices.
+                  CE13.    Known hypersensitivity or contraindication for contrast dye that in the opinion of the
+                           investigator cannot be adequately pre-medicated.
+                  CE14.    Intolerance to antiplatelet drugs, anticoagulants required for procedure.
+                  CE15.    Platelet count <100k/mm3 (risk of bleeding) or >700k/mm3.
+                  CE16.    6XEMHFWZLWKUHQDOLQVXIILFLHQF\ FUHDWLQLQHPJGO RUIDLOXUH GLDO\VLV
+                           dependent).
+                  CE17.    Subject has suspected or proven COVID-19 at present or within the past 4 weeks with
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                  Page 18 of 49
+                             resolution of symptoms.
+ Angiographic        AE1. Target lesion is located within a bifurcation with planned treatment of side branch
+ Exclusion                 vessel.
+ Criteria (visual    AE2. Target lesion is located within a saphenous vein or arterial graft.
+ estimate)
+                     AE3. Thrombus present in the target vessel.
+                     AE4. >50% stenosis of an additional lesion proximal or clinically significant distal (>2.0 mm
+                           RVD) to the target lesion.
+                     AE5. Subject with unprotected left main coronary artery disease (>50% diameter stenosis).
+
+
+
+            2. Follow-up Schedule
+
+                    All patients were scheduled to return for follow-up examinations at hospital
+                    discharge, 30 days, 6 months, 1 year, and then annually between 2 and 5 years
+                    post-procedure. Adverse events and complications were recorded at all visits.
+                    Patients who were enrolled but who did not receive treatment were to be followed
+                    through 12 months only.
+
+                    Pre-procedure, patients were assessed for quality of life (using the EQ-5D
+                    questionnaire), medical history, angina, cardiac enzymes, cardiac rhythm (using
+                    ECG), kidney function (using serum creatinine), use of antiplatelet medications,
+                    and complete blood count including platelets. Post-procedure, the objective
+                    parameters measured during the study included quality of life, angina, cardiac
+                    enzymes (pre-discharge only), cardiac rhythm, and use of antiplatelet
+                    medications. Adverse events and clinical endpoints were recorded at all visits.
+                    The schedule of pre-procedure and post-procedure evaluations is included in
+                    Table 10 below.
+
+                    Table 10: AGENT IDE Study Follow-up Schedule
+
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                  Page 19 of 49
+                The key timepoints are shown below in the tables summarizing safety and
+                effectiveness.
+            3. Clinical Endpoints
+
+                The primary endpoint, which included components for both safety and
+                effectiveness, is the 1-year rate of target lesion failure (TLF) defined as a
+                composite of:
+
+                 x   Any ischemia-driven target lesion revascularization (TLR).
+
+                 x   Myocardial infarction (MI; Q-wave and non–Q-wave) related to the target
+                     vessel.
+
+                 x   Cardiac death.
+
+                Myocardial infarction included both peri-procedural MI and spontaneous MI.
+                Peri-procedural MI (within 48 hours of the index procedure) was defined per the
+                SCAI definitionError! Bookmark not defined. and spontaneous MI (more than 48 hours
+                after the index procedure) per 4th Universal definitionError! Bookmark not defined..
+
+                As agreed upon with FDA prior to unblinding, in order to account for potential
+                heterogeneity in outcomes related to the use of multiple enzymes and ULNs, a
+                unified ULN for cTn-I (ULN = 0.045 ng/ml) and a unified ULN for cTn-T (ULN
+                = 0.022 ng/ml) were used to identify potential PPMI events.
+
+                With regards to safety, additional endpoints were measured, including all cause
+                death, cardiac death, MI, and stent thrombosis per Academic Research
+                Consortium (ARC) definitions.
+
+                With regards to effectiveness, additional endpoints included clinical procedural
+                success rate, technical success rate, target lesion revascularization (TLR), target
+                vessel revascularization (TVR), and change in quality of life.
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                     Page 20 of 49
+                With regard to success/failure criteria, the study was considered a success if the
+                AGENT DCB was shown to be superior to the POBA control for the primary
+                endpoint of TLF at one year.
+
+                A z-test with unpooled variance for the difference of two proportions was to be
+                used to test the hypothesis of superiority of the AGENT DCB over POBA in the
+                12-month clinical endpoint:
+
+                H0: TLFDCB 7/)POBA
+
+                H1: TLFDCB < TLFPOBA
+
+                where TLFDCB and TLFPOBA are the TLF rates through 12 months for the DCB
+                and POBA arms, respectively.
+
+                The primary analysis set for the primary endpoint was the intent to treat (ITT)
+                analysis set.
+
+            ACCOUNTABILITY OF FULL COHORT
+            At the time of database lock, of 600 patients enrolled in the PMA study, 95.8%
+            (389/406) of AGENT DCB and 95.9% (186/194) of POBA subjects were eligible for
+            analysis at the completion of the primary endpoint, the 12 month post-procedure visit
+            (Table 11). Figure 4 shows the AGENT IDE Study randomization and enrollment
+            process and follow-up schedule.
+
+                Table 11: AGENT IDE Subject Disposition Table, ITT (N=600)
+
+             Patient Disposition                         POBA        AGENT               Total
+ Intent-to-Treat Analysis Set                             194           406               600
+ 'HDWKGD\VZLWKQR-month clinical
+                                                           8             17               25
+ follow-up performed
+                                                          95.9%        95.8%             95.8%
+ Eligible for 12-month clinical follow-upa
+                                                        (186/194)    (389/406)         (575/600)
+                                                          94.6%        95.9%             95.5%
+ 12-month clinical follow-up performedb
+                                                        (176/186)    (373/389)         (549/575)
+    Office visit                                          135           275               410
+    Telephone contact                                      41            98               139
+ 12-month clinical follow-up not performed                 10            16               26
+    Prematurely discontinued                               3             7                10
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                    Page 21 of 49
+              Patient Disposition                           POBA               AGENT                 Total
+       Patient withdrew consent                                2                    7                   9
+       Lost to follow-up                                       0                    0                   0
+       Investigator discretion                                 1                    0                   1
+     Missed 12-month visit; no later follow-
+                                                               7                    9                  16
+     up visit performed
+                                                            94.8%                96.1%               95.7%
+ 12-month clinical follow-up or deathc
+                                                          (184/194)            (390/406)           (574/600)
+ Numbers are counts of subjects or % (Count/Sample Size).
+ a. Subjects who died prior to completion of follow-up window and prior to completing a 12-month clinical follow-
+ up visit are considered censored and are excluded from calculation of proportion of subjects who completed
+ clinical follow-up visit.
+ b. Based on subjects eligible for 12-month clinical follow-up (excludes subjects who died within 395 days with no
+ 12-month follow-up).
+ c. Includes subjects who have died in both the numerator and the denominator; based on Intent-to-Treat analysis
+ set.
+
+
+
+
+   Figure 4: AGENT IDE Study Enrollment and Randomization Process and Follow-up
+                                                   Schedule
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                Page 22 of 49
+             STUDY POPULATION DEMOGRAPHICS AND BASELINE PARAMETERS
+             The demographics of the study population are typical for an interventional
+             cardiovascular study performed in the US. Table 12 presents demographics for the
+             ITT analysis set. AGENT and POBA treatment arms were well-balanced with no
+             significant differences in any demographic parameters. Combining both treatment
+             arms, patient mean age was 68.3 years, 26.2% of patients were female, and 75.3% of
+             patients were white.
+
+             Given lower enrollment of racial and ethnic minorities and female patients as
+             compared to the general coronary artery disease population in the US, a post approval
+             surveillance study will be initiated for an all-comers patient population with specific
+             focus and analyses for these underrepresented groups. See Section XIV below for
+             details on the post-approval surveillance study.
+
+                                     Table 12: Demographics, ITT (N=600)
+                                                   POBA                       AGENT
+ Demographics                                                                                         P-value
+                                                   N=194                       N=406
+ Age (years)                                67.90 ± 9.68 (194)          68.42 ± 9.79 (406)              0.54
+    75                                       28.4% (55/194)              26.8% (109/406)               0.70
+ Sex
+  Female                                      27.3% (53/194)              25.6% (104/406)               0.66
+  Male                                       72.7% (141/194)              74.4% (302/406)               0.66
+ Race†
+  American Indian or Alaska
+                                               0.5% (1/194)                 0.0% (0/406)                0.32
+  Native
+  Asian                                        3.1% (6/194)                 2.2% (9/406)                0.58
+  Black or African American                    5.2% (10/194)               7.9% (32/406)                0.22
+  Native Hawaiian or Other
+                                               0.5% (1/194)                 0.2% (1/406)                0.54
+  Pacific Islander
+  White                                      76.3% (148/194)              74.9% (304/406)               0.71
+  Other                                         1.5% (3/194)               3.9% (16/406)                0.12
+  Not Disclosed                                9.3% (18/194)               5.7% (23/406)                0.10
+ Ethnicity†
+  Hispanic or Latino                            4.6% (9/194)               6.4% (26/406)                0.39
+ Numbers are presented as % (count/sample size) or mean ± standard deviation (n).
+ P-values are 2-sided and from Student's t Test for continuous variables and the Chi-square or Fisher’s Exact (*)
+ Test for discrete variables. The p values have not been adjusted for multiplicity.
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                 Page 23 of 49
+                                                    POBA                        AGENT
+ Demographics                                                                                     P-value
+                                                    N=194                        N=406
+ †
+  A subject may be identified in multiple ethnicity and race categories.
+
+
+Tables 13 and 14 show the baseline clinical characteristics and cardiac history of the patient
+population. Approximately 50% of patients had diabetes, 50% had a history of MI, and 37%
+presented with unstable angina or recent MI. In general, baseline clinical characteristics were
+comparable between the Agent DCB and POBA control groups.
+                         Table 132: Baseline Clinical Characteristics, ITT (N=600)
+                                                    POBA                        AGENT
+ Baseline Characteristic                                                                          P-value
+                                                    N=194                        N=406
+ Physical Assessment
+     Height (cm)                             171.98 ± 9.83 (191)           172.12 ± 10.55 (396)     0.88
+     Weight (kg)                             89.65 ± 21.67 (193)           89.07 ± 18.48 (404)      0.74
+     Body Mass Index‡ (kg/m2)                30.10 ± 5.85 (191)             30.01 ± 5.53 (396)      0.86
+ Medical History
+     Smoking, Ever                            57.7% (112/194)               57.6% (234/406)         0.98
+      Current                                   9.8% (19/194)                10.3% (42/406)         0.83
+      Previous                                 47.9% (93/194)               47.3% (192/406)         0.88
+     Smoking History Unknown                     0.0% (0/194)                 1.7% (7/406)         0.10
+     Diabetes Mellitus                         50.0% (97/194)               51.0% (206/404)         0.82
+     Medically Treated                         46.4% (90/194)               44.3% (179/404)         0.63
+     Insulin or Other Injectables              25.3% (49/194)                23.0% (93/404)         0.55
+     Hyperlipidemia                           94.8% (184/194)               94.6% (382/404)         0.88
+     Hypertension                             95.9% (186/194)               94.6% (383/405)         0.49
+     Bleeding Disorder                           2.6% (5/193)                 2.3% (9/399)         0.78
+     Peripheral Vascular Disease               16.1% (31/192)                19.5% (78/401)         0.33
+     Chronic Obstructive
+                                               10.3% (20/194)                 9.7% (39/403)         0.81
+     Pulmonary Disease
+     History of Stroke or TIA                   9.8% (19/194)                14.2% (57/402)         0.13
+     History of Renal Disease                  16.6% (32/193)                18.4% (74/402)         0.59
+     Prior COVID-19 Infection                  13.3% (23/173)                13.0% (49/376)         0.93
+  COVID-19 Vaccination              84.7% (138/163)        87.2% (287/329)                          0.43
+ Numbers are presented as % (count/sample size) or mean ± standard deviation (n).
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                             Page 24 of 49
+                                                       POBA                       AGENT
+     Baseline Characteristic                                                                              P-value
+                                                       N=194                       N=406
+     P-values are 2-sided and from Student's t Test for continuous variables and the Chi-square or Fisher’s Exact (*)
+     Test for discrete variables. The p values have not been adjusted for multiplicity.
+     ‡
+       The body mass index is the weight in kilograms divided by the square of the height in meters.
+     Abbreviation: ITT=intent-to-treat; TIA=transient ischemic attack
+
+
+
+                       Table 143: Cardiac History and Baseline Status, ITT (N=600)
+Cardiac History                                  POBA                       AGENT                         P-value
+                                                 N=194                       N=406
+Family History of CAD                      99.5% (193/194)              99.8% (405/406)                     0.54
+Prior MI                                    50.0% (95/190)              49.7% (198/398)                     0.95
+Prior CABG                                  28.6% (55/192)              30.8% (124/403)                     0.60
+History of Heart Failure                    21.4% (41/192)               22.9% (92/401)                     0.66
+NYHA Classification                                                                                         0.56
+   I – No Symptoms                            3.6% (7/192)                2.0% (8/401)                      0.27
+   II – Mild Symptoms                        7.3% (14/192)                8.0% (32/401)                     0.77
+   III – Limited Activity                    5.2% (10/192)                4.7% (19/401)                     0.80
+   IV – Severe Limitations                    0.0% (0/192)                0.0% (0/401)                     Undef
+   Unknown                                   5.2% (10/192)                8.2% (33/401)                     0.18
+History of Arrhythmia                       18.2% (35/192)               21.9% (88/401)                     0.30
+Indication for Procedure
+ Recent MI                                   6.2% (12/194)               5.2% (21/406)                      0.61
+ Unstable angina                            31.4% (61/194)             31.5% (128/406)                      0.98
+ Stable angina                             51.5% (100/194)             55.4% (225/406)                      0.37
+ Silent ischemia                              2.6% (5/194)                1.7% (7/406)                      0.54
+ Other indication                            8.2% (16/194)               6.2% (25/406)                      0.34
+LVEF Measurement (%)                      54.23 ± 9.89 (189)          54.05 ± 10.56 (393)                   0.84
+History of Multivessel Disease             78.4% (149/190)             79.3% (317/400)                      0.82
+History of Left Main Disease                20.7% (39/188)              22.6% (89/394)                      0.62
+Numbers are presented as % (count/sample size) or mean ± standard deviation (n).
+P-Values are 2-sided and from Student’s t Test for continuous variables and the Chi-square or Fisher’s Exact (*) Test for
+discrete variables. The p values have not been adjusted for multiplicity.
+The Mantel-Haenszel (MH) tests use non-missing data and exclude the 'Unknown' category. For NYHA classification, the
+MH test is performed on all subjects with congestive heart failure.
+Note: Recent MI is defined as MIs that occurred within 2 weeks prior to the index procedure. Patients with STEMI fewer than
+72 hours prior were excluded.
+
+
+
+
+    AGENT™ Paclitaxel-Coated Balloon Catheter
+    P230035: FDA Summary of Safety and Effectiveness Data                                                 Page 25 of 49
+Cardiac History                                POBA                      AGENT                       P-value
+                                               N=194                      N=406
+Abbreviation: CABG=coronary angiography bypass graft; CAD=coronary artery disease; CCS=Canadian Cardiovascular
+Society; ITT=intent-to-treat; LVEF=left ventricular ejection fraction; NYHA=New York Heart Association; MI=myocardial
+infarction; Undef=undefined.
+
+
+                  Table 15 presents baseline lesion characteristics as determined by core laboratory
+                  quantitative coronary angiography (QCA). Most characteristics were similar between
+                  arms, including the presence of multiple-layer in-stent restenosis (AGENT 43.3%
+                  versus POBA 42.3%), mean reference vessel diameter (2.7 ± 0.5 mm in both arms),
+                  and lesion length (AGENT 12.8 ± 6.3 mm vs. POBA 11.8 ± 6.6 mm). Some
+                  differences are noted for various lesion characteristics, including certain ISR patterns
+                  and ulceration, but the sample sizes are low and these differences were not likely to
+                  influence the outcome of the study.
+
+    Table 15: Baseline Target Lesion Characteristics as Determined by the Angiographic Core
+                                           Laboratory, ITT (N=600)
+     Target Lesion Characteristic                   POBA                       AGENT                  P-value
+                                                 N=194 Lesions,             N=407 Lesions,
+                                                 N=194 Subjects             N=406 Subjects
+     Single Stent Layer†                         57.7% (112/194)           56.7% (230/406)             0.80
+                            †
+     Multiple Stent Layer                        42.3% (82/194)            43.3% (176/406)             0.80
+     Target Lesion Vessel
+       LAD                                       35.6% (69/194)            34.7% (141/406)             0.84
+       LCx                                       24.2% (47/194)             24.1% (98/406)             0.98
+       RCA                                       35.6% (69/194)            38.4% (156/406)             0.49
+       LM                                          4.6% (9/194)              2.7% (11/406)             0.22
+     Lesion Location
+       Proximal                                  32.0% (62/194)            31.5% (128/406)             0.92
+       Mid                                       40.2% (78/194)            44.1% (179/406)             0.37
+       Distal                                    12.4% (24/194)             11.1% (45/406)             0.64
+       Ostial                                    15.5% (30/194)             13.3% (54/406)             0.48
+     Minimal Lumen Diameter (mm)                 0.92 ± 0.40 (191)         0.95 ± 0.36 (405)           0.35
+     Mean Lumen Diameter (mm)                    2.27 ± 0.58 (189)         2.31 ± 0.50 (399)           0.39
+     % Diameter Stenosis (mm)                  66.41 ± 12.76 (191)        64.98 ± 12.05 (405)          0.19
+     Mehran ISR Pattern
+       1A (articulation)                           0.0% (0/189)              0.0% (0/403)             Undef
+       1B (margin)                                 1.1% (2/189)              1.0% (4/403)              1.00
+
+
+    AGENT™ Paclitaxel-Coated Balloon Catheter
+    P230035: FDA Summary of Safety and Effectiveness Data                                            Page 26 of 49
+ Target Lesion Characteristic                     POBA                        AGENT                   P-value
+                                               N=194 Lesions,              N=407 Lesions,
+                                               N=194 Subjects              N=406 Subjects
+  1C (focal)                                   44.4% (84/189)              36.7% (148/403)              0.07
+  1D (multifocal)                                1.1% (2/189)                0.7% (3/403)               0.66
+  2 (intrastent)                               47.1% (89/189)              57.1% (230/403)              0.02
+  3 (proliferative)                              4.8% (9/189)               4.0% (16/403)               0.66
+  4 (total occlusion)                            1.6% (3/189)                0.5% (2/403)               0.33
+ Tortuosity, Any                                 0.0% (0/192)                0.7% (3/405)               0.55
+  Moderate                                       0.0% (0/192)                0.7% (3/405)               0.55
+  Severe                                         0.0% (0/192)                0.0% (0/405)              Undef
+ Calcification, Any                            12.5% (13/104)              12.6% (28/222)               0.98
+  Moderate                                       2.9% (3/104)               5.0% (11/222)               0.56
+  Severe                                        9.6% (10/104)               7.7% (17/222)               0.55
+ Ulceration                                      1.5% (3/194)                0.0% (0/406)               0.03
+ Aneurysm                                        0.5% (1/194)                0.0% (0/406)               0.32
+ Pre-Procedure TIMI Flow
+  0                                              3.1% (6/192)                2.0% (8/405)               0.39
+  1                                              1.6% (3/192)                0.5% (2/405)               0.33
+  2                                              4.2% (8/192)               5.2% (21/405)               0.59
+  3                                            91.1% (175/192)             92.3% (374/405)              0.61
+ Lesion Preparation (Pretreatment) †
+    Target lesion successfully dilated          100% (194/194)               99.5% (405/407)           1.00
+ Numbers are presented as % (count/sample size) or mean ± standard deviation (n).
+ P-values are two-sided and from Student's t Test for continuous variables and Chi-square or Fisher’s Exact (*)
+ Test for discrete variables. The p values have not been adjusted for multiplicity.
+ †
+   Site-reported values.
+ Abbreviations: ITT=intent-to-treat, MLD=minimum lumen diameter; TIMI= Thrombolysis In Myocardial
+ Infarction; LAD=left anterior descending; LCx=left circumfex; LMCA=left main coronary artery; NA=not
+ applicable; RCA=right coronary artery; Undef=undefined
+
+
+Table 16 presents procedural characteristics. AGENT and POBA treatment groups were well-
+balanced with no significant differences in procedural characteristics. Mean procedure time was
+55.2 minutes, 87.2 % of patients had only the target lesion treated and 12.8% had both target plus
+one non-target lesion treated. Only one study device was allowed for the AGENT DCB arm,
+hence the slight difference in number of study devices used (3.6% of subjects in the POBA arm
+had 2 study devices used). Similarly, one target lesion was allowable in the study, though one
+patient had 2 target lesions treated, which was considered a protocol deviation. The use of
+cutting balloons was similar in lesions treated with AGENT DCB as compared to lesions treated
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                Page 27 of 49
+   with POBA (25.1% vs. 23.7%). Intravascular imaging was performed in approximately 74% of
+   patients during the procedure.
+                             Table 16: Procedural Characteristics, ITT (N=600)
+
+Measure                                                            POBA                  AGENT                  P-value
+                                                                N=194 Lesions,            N=407†
+                                                                N=194 Subjects            Lesions,
+                                                                                       N=406 Subjects
+Urgency of intervention
+ Elective                                                      90.2% (175/194) 89.7% (364/406)                    0.83
+ Urgent / Emergent                                              9.8% (19/194)     10.3% (42/406)                  0.83
+                                                                 53.15 ± 27.06     56.19 ± 29.81
+Procedure Time (min)                                                                                              0.23
+                                                                     (193)             (402)
+Target Lesions Treated by Subject                              1.00 ± 0.00 (194) 1.00 ± 0.05 (406)                0.49
+ 1 Target Lesion Treated                                       100% (194/194) 99.8% (405/406)                    
+ 2 Target Lesions Treated                                        0.0% (0/194)      0.2% (1/406)†                 
+Study Device (POBA or AGENT) Usage by
+Subject in Target Lesion
+ 0 Study Devices                                                  0.0% (0/194)          0.2% (1/406)‡            
+ 1 Study Device                                                 95.4% (185/194)        99.8% (405/406)          
+ 2 Study Devices                                                  3.6% (7/194)           0.0% (0/406)           
+ 3 Study Devices                                                  1.0% (2/194)           0.0% (0/406)            
+Subjects with Only Target Lesion Treated                        86.6% (168/194)        87.4% (355/406)            0.77
+Subjects with Both Target & Non-Target Lesions
+                                                                13.4% (26/194)          12.6% (51/406)            0.77
+Treated
+Cutting Balloon Use                                             23.7% (46/194)         25.1% (102/407)            0.72
+Intravascular Imaging During Procedure                          76.8% (149/194)        72.4% (294/406)            0.25
+Post-Procedure
+ Hospital Length of Stay (days)                                0.72 ± 1.75 (194) 0.59 ± 0.93 (406)                0.24
+Numbers are presented as % (count/sample size) or mean ± standard deviation (n).
+P-values are two-sided and from Student's t Test for continuous variables and the Chi-square or Fisher’s Exact (*) Test for
+discrete variables. The p values have not been adjusted for multiplicity
+†
+ One patient in the DCB arm had two target lesions treated with DCB that was counted as a protocol deviation.
+‡
+ Study balloon rupture in the DCB arm causing perforation. This was counted as a device deficiency
+
+                 Use of dual antiplatelet therapy (DAPT; aspirin plus a P2Y12 inhibitor) pre-procedure,
+                 at hospital discharge, 30-day, 6-month, and 1-year follow-up time points is shown in
+                 Table 17. The percentage of subjects on DAPT was similar between the two
+                 treatment groups at each time point.
+
+             Table 17: Dual Antiplatelet Medication Usage Through 1 Year, ITT (N=600)
+            Medication                         POBA                AGENT           P-value
+                                               N=194                N=406
+            DAPT (Aspirin and one of Clopidogrel, Ticlopidine, Prasugrel or Ticagrelor)
+
+
+   AGENT™ Paclitaxel-Coated Balloon Catheter
+   P230035: FDA Summary of Safety and Effectiveness Data                                                  Page 28 of 49
+       Medication                                 POBA                  AGENT               P-value
+                                                  N=194                  N=406
+        Prior Regimen or Loading
+                                             77.8% (151/194)        73.4% (298/406)           0.24
+       Dose
+        Discharge                            95.4% (185/194)        95.8% (389/406)           0.80
+        30 Days                              90.5% (172/190)        91.3% (365/400)           0.77
+        6 Months                             83.2% (158/190)        85.7% (335/391)           0.43
+        12 Months                            77.8% (137/176)        79.6% (297/373)           0.63
+       Numbers are % (count/sample size). P-values are from two-sided from Chi-square test. The p
+       values have not been adjusted for multiplicity
+
+
+            SAFETY AND EFFECTIVENESS RESULTS
+            The primary analysis of safety and effectiveness was based on the ITT cohort of the
+            initial 480 patients available for the 12-month evaluation of target lesion failure.
+
+            The study primary endpoint was met. AGENT DCB was superior to POBA as the
+            one-sided upper 97.5% confidence bound for the difference in 1-year TLF was less
+            than zero in the ITT population. Specifically, 18.2% subjects treated with AGENT
+            and 29.3% of the POBA treated subjects in the ITT population experienced TLF by 1
+            year. Per-protocol analysis was also performed, and the result was identical. Table 18
+            shows the primary endpoint of 1-year TLF for the primary endpoint analysis cohort
+            (N=480).
+
+                           Table 18: Primary Endpoint Results, N=480
+
+                                                                                One-sided       One-sided
+ 12-Month          POBA              AGENT                 Difference
+                                                                                 97.5%          P-value for
+   TLF             N=159              N=321                [95% CI]               UCB           superiority
+                   29.3%              18.2%                  -11.1%
+ ITT                                                                               -2.6%             0.0051
+                  (44/150)           (55/302)           [-19.6%, -2.6%]
+
+
+
+            Primary Endpoint Analysis: Full Cohort (N=600): 12-Month TLF
+
+            The primary endpoint analysis was also performed on the total enrollment cohort
+            (N=600) after that data became available. As shown in Table 19, the rate of 1-year
+            TLF was 18.2% in patients treated with AGENT and 29.0% of patients treated with
+            POBA in the ITT population. These data demonstrate very similar outcomes to the
+            initial 480-patient analysis presented above. Per-protocol analysis was also
+            performed, and the result was again identical.
+
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                               Page 29 of 49
+                   Table 19: Primary Endpoint Results, Full Cohort (N=600)
+
+                                                                                      One-
+        12-Month            POBA             AGENT             Difference             sided
+          TLF               N=194             N=406            [95% CI]              97.5%
+                                                                                      UCB
+                            29.0%             18.2%               -10.8%
+      ITT                                                                            -3.3%
+                           (54/186)          (71/390)        [-18.4%, -3.3%]
+
+
+            Time-to-event event curves (Kaplan-Meier analysis) to 1 year for target lesion failure
+            are shown below in Figure 5 for the full 600 patient cohort. The estimated event rate
+            was 17.9 % for AGENT and 28.6% for POBA.
+
+
+
+
+             Figure 5: Kaplan-Meier Event Curve for TLF to 12 Months, N=600
+                Values are presented as cumulative event rate ± 1.5 standard error
+
+            1. Safety Results
+                The analysis of safety was based on the ITT cohort of 582 patients available for the
+                12-month evaluation. The key safety outcomes for this study are presented below
+                in Table 20. Adverse effects are reported in Table 21.
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                   Page 30 of 49
+                Safety endpoints adjudicated by the CEC included death (all-cause and cardiac
+                death), MI, and ISR stent thrombosis. Rates of death were comparable across
+                treatment groups. Rates of MI at 12 months numerically favored the AGENT
+                DCB over POBA (7.4% AGENT vs 12.2% POBA). None of the subjects in the
+                AGENT arm experienced definite/probable ISR stent thrombosis compared to 6
+                subjects in the POBA arm (0.0% versus 3.2%). Table 20 below presents a
+                summary of the safety-related endpoints adjudicated by the CEC at all currently
+                available timepoints.
+
+             Table 20: Summary of CEC-Adjudicated Safety Endpoints (N=600)
+
+       Event                                                   POBA              DCB
+                                                              (N=194)           (N=406)
+                                    In-Hospital Safety Events
+        Death                                               0.0% (0/194)      0.0% (0/406)
+        MI                                                  2.6% (5/194)      1.5% (6/406)
+       ARC ISR Stent Thrombosis Related to Target            0% (0/194)       0.0% (0/406)
+       Lesion
+                                         Events to 30 Days
+        Death                                              0.0% (0/194)      0.5% (2/406)
+         Cardiac Death                                     0.0% (0/194)      0.2% (1/406)
+         Non-Cardiac Death                                 0.0% (0/194)      0.2% (1/406)
+       MI                                                  2.6% (5/194)      2.0% (8/406)
+       ARC ISR Stent Thrombosis Related to Target           0% (0/194)       0.0% (0/406)
+       Lesion
+                                        Events to 6 Months
+       Death                                               0.5% (1/194)      1.7% (7/404)
+        Cardiac Death                                      0.5% (1/194)      1.5% (6/404)
+        Non-Cardiac Death                                  0.0% (0/194)      0.2% (1/404)
+       MI                                                 8.2% (16/194) 4.2% (17/404)
+       ARC ISR Stent Thrombosis Related to Target          2.1% (4/194)      0.0% (0/404)
+       Lesion
+                                       Events to 12 Months
+       Death                                               3.7% (7/189)     4.1% (16/393)
+         Cardiac Death                                     1.6% (3/189)     2.8% (11/393)
+         Non-Cardiac Death                                 2.1% (4/189)      1.3% (5/393)
+       MI                                                12.2% (23/189) 7.4% (29/393)
+       ARC ISR Stent Thrombosis Related to Target          3.7% (7/189)      0.3% (1/393)
+       Lesion
+       5DWHVSUHVHQWHGLQFOXGHGHILQLWH, probable, and possible stent thrombosis events
+
+
+        There were a total of 623 serious adverse events reported in 226 patients in the AGENT
+        DCB group, compared to a total of 306 serious adverse events reported in 113 patients in
+        the POBA control group through 12 months of follow up. The frequency and nature of
+        adverse events observed in the AGENT DCB group were similar to those observed for
+        the POBA control group.
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                 Page 31 of 49
+       When evaluating all adverse events, including non-serious adverse events, a numerical
+       increase was observed for Acute Kidney Injury in the DCB arm as compared to POBA
+       (6.7% vs 3.1%). However, most observations were non-serious, the event rates in both
+       arms were low compared to known rates of acute kidney injury after PCI procedures, and
+       the observed difference was likely due to chance.
+
+       Serious adverse events that occurred in the AGENT IDE Study with an event rate >1% are
+       presented in Table 21. A serious adverse event either resulted in death, was life-
+       threatening, required inpatient hospitalization or caused prolongation of existing
+       hospitalization, resulted in persistent or significant disability/incapacity, or required
+       intervention to prevent permanent impairment of damage. Adverse events were reported
+       by sites and coded using MedDRA preferred terms. Only categories of adverse events
+       occurring at a rate of >1% in either treatment group are reported. Thus, the listed events
+       may not add up to the total amount in each group or overall.
+
+
+     Table 21: Serious Adverse Events Through 1 Year with Event Rate >1% (N=600)
+                                                                           POBA                         DCB
+                   Serious Adverse Event
+                                                                       (N=194 Subjects)            (N=406 Subjects)
+                                                                               Percent of     Event        Percent of
+ MedDRA System      MedDRA High-Level        MedDRA                Events
+                                                                              Subjects with      s       Subjects with
+ Organ Class        Group Term               Preferred Term         (n)
+                                                                               Event (n/N)     (n)        Event (n/N)
+ Total             Total                     Total                  306     58.2% (113/194)    623     55.7% (226/406)
+ Cardiac disorders Total                     Total                  132     38.7% (75/194)     238     35.0% (142/406)
+                   Coronary artery           Total                   98     33.0% (64/194)     153     28.8% (117/406)
+                   disorders                 Angina unstable         36      12.9% (25/194)     43       8.6% (35/406)
+                                             Angina pectoris         28      11.9% (23/194)     43       9.9% (40/406)
+                                             Acute myocardial
+                                                                     16      7.2% (14/194)     25      5.2% (21/406)
+                                             infarction
+                                             Coronary artery
+                                                                     12      5.7% (11/194)     21      5.2% (21/406)
+                                             disease
+                                             Myocardial
+                                                                     2       1.0% (2/194)       7       1.7% (7/406)
+                                             infarction
+                                             Acute coronary
+                                                                     2       1.0% (2/194)       5       1.2% (5/406)
+                                             syndrome
+                    Heart failures           Total                   20      7.7% (15/194)     35      5.9% (24/406)
+                                             Cardiac failure         2        1.0% (2/194)     17      2.5% (10/406)
+                                             Cardiac failure
+                                                                     10      4.1% (8/194)       8       1.7% (7/406)
+                                             congestive
+                                             Cardiac failure
+                                                                     4       2.1% (4/194)       3       0.7% (3/406)
+                                             acute
+                                             Left ventricular
+                                                                     2       1.0% (2/194)       3       0.7% (3/406)
+                                             failure
+                    Cardiac arrhythmias      Total                   9       4.6% (9/194)      39      6.4% (26/406)
+                                             Atrial fibrillation     5       2.6% (5/194)      16      3.4% (14/406)
+                    Cardiac valve
+                                             Total                   2       1.0% (2/194)       4       1.0% (4/406)
+                    disorders
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                         Page 32 of 49
+                                                                           POBA                       DCB
+                   Serious Adverse Event
+                                                                       (N=194 Subjects)          (N=406 Subjects)
+                                                                               Percent of    Event      Percent of
+ MedDRA System      MedDRA High-Level        MedDRA                Events
+                                                                             Subjects with     s       Subjects with
+ Organ Class        Group Term               Preferred Term         (n)
+                                                                              Event (n/N)     (n)       Event (n/N)
+                    Myocardial disorders     Total                   2        1.0% (2/194)     4       1.0% (4/406)
+                                             Cardiomyopathy          2        1.0% (2/194)     0       0.0% (0/406)
+ Infections and     Total                    Total                   20      7.7% (15/194)    50      10.1% (41/406)
+ infestations       Infections - pathogen    Total                   13       4.6% (9/194)    36      7.4% (30/406)
+                    unspecified              Pneumonia               5        2.6% (5/194)    10       2.2% (9/406)
+                                             Urinary tract
+                                                                     2       1.0% (2/194)      3       0.7% (3/406)
+                                             infection
+                    Viral infectious         Total                   5       2.6% (5/194)      6       1.5% (6/406)
+                    disorders                COVID-19                2       1.0% (2/194)      3       0.7% (3/406)
+                                             COVID-19
+                                                                     2       1.0% (2/194)      2       0.5% (2/406)
+                                             pneumonia
+                   Bacterial infectious      Total                   2        1.0% (2/194)    8        2.0% (8/406)
+                   disorders                 Cellulitis              2        1.0% (2/194)    3        0.7% (3/406)
+ General disorders Total                     Total                   19      8.2% (16/194)    38      8.1% (33/406)
+ and               General system            Total                   11      4.1% (8/194)     24      5.7% (23/406)
+ administration    disorders NEC             Non-cardiac chest
+ site conditions                                                     5       2.6% (5/194)     11      2.7% (11/406)
+                                             pain
+                                             Chest pain              4       1.5% (3/194)      5       1.2% (5/406)
+                    Complications            Total                   5       2.6% (5/194)      6       1.5% (6/406)
+                    associated with device   Vascular stent
+                                                                     3       1.5% (3/194)      5       1.2% (5/406)
+                                             stenosis
+                                             Vascular stent
+                                                                     2       1.0% (2/194)      0       0.0% (0/406)
+                                             thrombosis
+                    Administration site
+                                             Total                   2       1.0% (2/194)      5       1.2% (5/406)
+                    reactions
+ Vascular           Total                    Total                   19      8.2% (16/194)    28      6.2% (25/406)
+ disorders          Decreased and            Total                   4       2.1% (4/194)     12      3.0% (12/406)
+                    nonspecific blood
+                    pressure disorders and   Hypotension             3       1.5% (3/194)      8       2.0% (8/406)
+                    shock
+                    Arteriosclerosis,        Total                   5       2.6% (5/194)      8       1.5% (6/406)
+                    stenosis, vascular       Aortic stenosis         2       1.0% (2/194)      2       0.5% (2/406)
+                    insufficiency and        Peripheral arterial
+                    necrosis                                         2       1.0% (2/194)      1       0.2% (1/406)
+                                             occlusive disease
+                    Vascular hypertensive    Total                   5       2.6% (5/194)      4       1.0% (4/406)
+                    disorders                Hypertension            4       2.1% (4/194)      3       0.7% (3/406)
+                    Vascular                 Total                   3       1.5% (3/194)      0       0.0% (0/406)
+                    haemorrhagic
+                                             Haematoma               3       1.5% (3/194)      0       0.0% (0/406)
+                    disorders
+ Respiratory,       Total                    Total                   23     8.2% (16/194)     45      5.9% (24/406)
+ thoracic and       Respiratory disorders    Total                   9       4.1% (8/194)     21      3.4% (14/406)
+ mediastinal        NEC                      Acute respiratory
+ disorders                                                           3       1.5% (3/194)      8       1.0% (4/406)
+                                             failure
+                                             Dyspnoea                3       1.5% (3/194)     6        1.5% (6/406)
+                    Bronchial disorders      Total                   6       3.1% (6/194)     12       1.5% (6/406)
+                    (excl neoplasms)         Chronic
+                                                                     4       2.1% (4/194)     10       1.2% (5/406)
+                                             obstructive
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                        Page 33 of 49
+                                                                       POBA                       DCB
+                     Serious Adverse Event
+                                                                   (N=194 Subjects)          (N=406 Subjects)
+                                                                           Percent of    Event      Percent of
+ MedDRA System       MedDRA High-Level       MedDRA             Events
+                                                                         Subjects with     s       Subjects with
+ Organ Class         Group Term              Preferred Term      (n)
+                                                                          Event (n/N)     (n)       Event (n/N)
+                                             pulmonary
+                                             disease
+                     Lower respiratory       Total                2       1.0% (2/194)     6       1.5% (6/406)
+                     tract disorders (excl
+                                             Pulmonary
+                     obstruction and                              2       1.0% (2/194)     2       0.5% (2/406)
+                                             oedema
+                     infection)
+                     Pulmonary vascular      Total                3       1.5% (3/194)     1       0.2% (1/406)
+                     disorders               Pulmonary
+                                                                  2       1.0% (2/194)     0       0.0% (0/406)
+                                             embolism
+                     Pleural disorders       Total               2        1.0% (2/194)    3        0.7% (3/406)
+                                             Pleural effusion    2        1.0% (2/194)    2        0.5% (2/406)
+ Nervous system      Total                   Total               21      7.7% (15/194)    29      6.4% (26/406)
+ disorders           Neurological disorders Total                7       3.6% (7/194)     11      2.7% (11/406)
+                     NEC                     Syncope             2        1.0% (2/194)    3        0.7% (3/406)
+                                             Presyncope          2        1.0% (2/194)    1        0.2% (1/406)
+                     Central nervous system Total                8       3.6% (7/194)     6        1.5% (6/406)
+                     vascular disorders      Cerebrovascular
+                                                                  4       2.1% (4/194)     2       0.5% (2/406)
+                                             accident
+ Injury, poisoning   Total                   Total               15      6.7% (13/194)    30      5.9% (24/406)
+ and procedural      Procedural related      Total               7       3.6% (7/194)     11      2.2% (9/406)
+ complications       injuries and            Plaque shift        2        1.0% (2/194)    3        0.7% (3/406)
+                     complications NEC       Vascular
+                                                                  2       1.0% (2/194)     0       0.0% (0/406)
+                                             pseudoaneurysm
+                     Injuries NEC            Total               4        2.1% (4/194)    13      3.0% (12/406)
+                                             Fall                2        1.0% (2/194)    3        0.7% (3/406)
+                     Bone and joint injuries Total               4        2.1% (4/194)    5        0.7% (3/406)
+                                             Humerus fracture    2        1.0% (2/194)    0        0.0% (0/406)
+ Gastrointestinal    Total                   Total               12      5.2% (10/194)    38      5.4% (22/406)
+ disorders           Gastrointestinal
+                                             Total                0       0.0% (0/194)     9       1.7% (7/406)
+                     haemorrhages NEC
+                     Gastrointestinal signs
+                                             Total                2       0.5% (1/194)     8       1.2% (5/406)
+                     and symptoms
+                     Gastrointestinal
+                     stenosis and            Total                2       1.0% (2/194)     5       0.7% (3/406)
+                     obstruction
+                     Dental and gingival     Total                2       1.0% (2/194)     3       0.7% (3/406)
+                     conditions
+                                             Dental caries        2       1.0% (2/194)     2       0.5% (2/406)
+                     Abdominal hernias and
+                     other abdominal wall   Total                 2       1.0% (2/194)     2       0.5% (2/406)
+                     conditions
+                     Diverticular disorders Total                 2       1.0% (2/194)    0        0.0% (0/406)
+ Renal and           Total                  Total                 6       3.1% (6/194)    27      5.4% (22/406)
+ urinary disorders   Renal disorders (excl  Total                 3       1.5% (3/194)    15      3.0% (12/406)
+                     nephropathies)         Acute kidney
+                                                                  3       1.5% (3/194)    12       2.5% (10/406)
+                                            injury
+                                            Total                 2       1.0% (2/194)     6       1.5% (6/406)
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                    Page 34 of 49
+                                                                             POBA                             DCB
+                     Serious Adverse Event
+                                                                         (N=194 Subjects)                (N=406 Subjects)
+                                                                                 Percent of          Event      Percent of
+ MedDRA System        MedDRA High-Level          MedDRA               Events
+                                                                               Subjects with           s       Subjects with
+ Organ Class          Group Term                 Preferred Term        (n)
+                                                                                Event (n/N)           (n)       Event (n/N)
+                      Urinary tract signs and
+                                                 Urinary retention       0        0.0% (0/194)         5         1.2% (5/406)
+                      symptoms
+ Metabolism and       Total                      Total                  11        4.1% (8/194)         23       3.7% (15/406)
+ nutrition            Glucose metabolism         Total                  5         2.6% (5/194)         6        1.5% (6/406)
+ disorders            disorders (incl diabetes
+                      mellitus)                  Hyperglycaemia          5        2.6% (5/194)         3         0.7% (3/406)
+                      Electrolyte and fluid      Total                   3        1.0% (2/194)         6         1.2% (5/406)
+                      balance conditions         Hypokalaemia            2        1.0% (2/194)         1         0.2% (1/406)
+                      Acid-base disorders        Total                   3        1.0% (2/194)         3         0.7% (3/406)
+ Blood and            Total                      Total                   7        3.6% (7/194)         16       3.7% (15/406)
+ lymphatic system     Anaemias                   Total                   5        2.6% (5/194)         11       2.7% (11/406)
+ disorders            nonhaemolytic and
+                      marrow depression          Anaemia                 5        2.6% (5/194)         7         1.7% (7/406)
+                      Platelet disorders         Total                   2        1.0% (2/194)         1        0.2% (1/406)
+                                                 Heparin-induced
+                                                                         2        1.0% (2/194)         0         0.0% (0/406)
+                                                 thrombocytopenia
+ Musculoskeletal   Total                         Total                   5        2.6% (5/194)         13       3.0% (12/406)
+ and connective    Joint disorders               Total                   2        1.0% (2/194)         7        1.5% (6/406)
+ tissue disorders  Musculoskeletal and
+                                                 Total                   2        1.0% (2/194)         2        0.5% (2/406)
+                   connective tissue
+                   deformities (incl
+                                                 Cervical spinal
+                   intervertebral disc                                   2        1.0% (2/194)         0         0.0% (0/406)
+                                                 stenosis
+                   disorders)
+ Neoplasms         Total                         Total                   4        2.1% (4/194)         11       2.5% (10/406)
+ benign, malignant Gastrointestinal
+ and unspecified   neoplasms malignant
+                                                 Total                   2        1.0% (2/194)         1        0.2% (1/406)
+ (incl cysts and   and unspecified
+ polyps)
+ Investigations    Total                         Total                   3        1.5% (3/194)         13       2.0% (8/406)
+                   Microbiology and
+                                                 Total                   2        1.0% (2/194)         3        0.7% (3/406)
+                   serology investigations
+                                                 SARS-CoV-2 test
+                                                                         2        1.0% (2/194)         3         0.7% (3/406)
+                                                 positive
+ Eye disorders        Total                      Total                   1        0.5% (1/194)         7        1.5% (6/406)
+ Skin and
+ subcutaneous         Total                      Total                   2        1.0% (2/194)         3        0.7% (3/406)
+ tissue disorders
+ Immune system        Total                      Total                   2        1.0% (2/194)          0         0.0% (0/406)
+ disorders            Allergic conditions        Total                   2        1.0% (2/194)          0         0.0% (0/406)
+                                                 Hypersensitivity        2        1.0% (2/194)          0         0.0% (0/406)
+ Other                 Total                     Total                   4        2.1% (4/194)         14        3.2% (13/406)
+"Events" numbers are total episodes of each type of event among all patients.
+"Percent of Subjects with Event" numbers are percent of patients who experienced one or more episodes of the event.
+"Events" numbers for "TOTAL" are the sum of the individual event category totals.
+"Percent of Subjects with Event" numbers for "TOTAL" is the percent of patients who experienced an adverse event.
+Only events with rate >1% in either arm are included and listed by preferred term; thus, the sum of events that are included in
+each category may not equal the total.
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                 Page 35 of 49
+                Device Deficiencies: During the procedure, 3 study devices were reported as
+                having deficiencies. One balloon had a material rupture (burst) during inflation,
+                one could not cross the lesion despite pre-dilatation, and one device was reported
+                as having a deficiency of “Other” (investigator decision to remove an undeployed
+                DCB and insert a new DCB with a guideliner for delivery). The balloon that burst
+                led to a serious adverse event of vessel perforation. Balloon rupture is a known
+                potential failure mode for all PTCA catheters, and this single event does not raise
+                concerns related to the AGENT DCB design.
+
+
+            2. Effectiveness Results
+
+                The primary analysis of effectiveness, which was a component of the primary
+                endpoint, was based on the ITT cohort of 582 evaluable patients at the 12-month
+                time point as described above. Additional effectiveness outcomes, including
+                components of the primary endpoints as well as procedural endpoints, are
+                presented in Table 22.
+
+                Clinical procedural success was analyzed per patient and defined as post-
+                procedure diameter stenosis of <30% in 2 near-orthogonal projections with TIMI
+                3 flow in the target lesion, as visually assessed by the physician, without the
+                occurrence of in-hospital MI, target vessel revascularization, or cardiac death.
+                Technical success was analyzed per lesion and defined as successful crossing and
+                dilation of the lesion, without balloon rupture, and post-procedure diameter
+                stenosis of <30% in 2 near-orthogonal projections with TIMI 3 flow in the target
+                lesion, as visually assessed by the physician. Acute success rates were comparable
+                in both groups and as expected in this in-stent restenosis population.
+
+                The rate of target lesion revascularization (TLR) at 12 months was 13.0% versus
+                24.3% in the AGENT and POBA arms, respectively. This difference in
+                revascularization rates appears to demonstrate the drug coating’s ability to lower,
+                although not eliminate, the recurrence of in-stent restenosis.
+
+
+                             Table 22: Summary of Effectiveness Outcomes
+          Endpoint                                      POBA             DCB
+                                                       (N=194)         (N=406)
+                                         Acute Success
+          Clinical Procedural Success                   88.7% (172/194) 92.1% (374/406)
+
+          Technical Success                             89.7% (174/194) 93.4% (380/407)
+                               In-Hospital Revascularization Events
+          Target Vessel Revascularization (TVR)         1.0% (2/194)       0.0% (0/406)
+
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                   Page 36 of 49
+          Endpoint                                           POBA                DCB
+                                                            (N=194)             (N=406)
+            Target Lesion Revascularization (TLR)        1.0% (2/194)        0.0% (0/406)
+                                Revascularization Events to 30 Days
+          TVR                                            2.1% (4/194)        0.7% (3/406)
+
+           TLR                                           1.5% (3/194)        0.5% (2/404)
+                               Revascularization Events to 6 Months
+          TVR                                           17.0% (33/194)      7.9% (32/404)
+
+           TLR                                          15.5% (30/194)      7.7% (31/404)
+                              Revascularization Events to 12 Months
+          TVR                                           25.9% (49/189)      14.2% (56/393)
+
+            TLR                                         24.3% (46/189)      13.0% (51/393)
+
+
+
+                Quality of Life: Functional status of general health-related quality of life was
+                measured by changes in the EQ-5D scores. EQ-5D is a descriptive system of
+                health-related quality of life states consisting of 5 dimensions (mobility, self-care,
+                usual activities, pain/discomfort, anxiety/depression), each of which can capture
+                one of five responses. The responses record 5 levels of severity (no
+                problems/slight problems/moderate problems/severe problems/extreme problems)
+                within a particular EQ-5D dimension. There were no significant differences
+                between the AGENT and POBA arms with regards to the quality-of-life scores
+                from baseline to 12 months. One year after the procedure, patients treated with
+                AGENT DCB reported an approximate 5% increase in health-related quality of
+                life, while patients treated with POBA reported an approximate 3% increase.
+            3. Subgroup Analyses
+
+                The following preoperative characteristics were evaluated for potential
+                association with outcomes: sex PDOHDQGIHPDOH DJH DQG\HDUV 
+                diabetic status, smDOOYHVVHOYVODUJHUYHVVHO 59'PPDQGPP RQH
+                stent layer restenosis vs multiple stent layer restenosis (recurrent restenosis),
+                target lesion only vs target lesion plus 1 non-target lesion treated, BMS vs DES
+                restenosis, and chronic total occlusion (CTO) vs non-CTO. The AGENT IDE was
+                not designed or powered to study safety or effectiveness of the AGENT DCB
+                versus POBA in these pre-specified subgroups, so these analyses are considered
+                hypothesis-generating. The primary endpoint results for these subgroups are
+                included in Table 23 below.
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                     Page 37 of 49
+                  These subgroup analyses mostly showed that the primary endpoints outcomes
+                  were similar within the various subgroups, including sex and vessel diameter.
+                  While no interaction was seen, the treatment effect with the AGENT DCB was
+                  numerically greater in older patients, non-diabetics, and in patients with existing
+                  multiple stent layers. A significant interaction was noted in patients with target
+                  lesion treatment only vs a target lesion plus 1 non-target lesion, where the
+                  AGENT DCB had a significantly lower rate of TLF for target lesion treatment
+                  only (30.7% POBA vs 17.4% AGENT DCB) as compared to both target and non-
+                  target lesion treatment, where the AGENT DCB had a numerically higher TLF
+                  rate (15.4% POBA vs 22.4% AGENT DCB). It is important to note that the
+                  sample size was small (only n=77 subjects total had both a target and non-target
+                  lesion treatment), and this analysis was not powered.
+
+     Table 23: Primary Endpoint Results for Various Subgroups, Intent-to-Treat (N=600)
+ TLF at 12             POBA         DCB       Relative Risk      Difference                Interaction
+                                                                                 P-value
+ Months               (N=194)     (N=406)      [95% CI]          [95% CI]                    P-value
+ Female                (N=53)     (N=104)
+ (N=157)                23.5%      13.9%           0.59             -9.7%
+                                                                                 0.1350
+                       (12/51)    (14/101)     [0.29, 1.18]    [-23.1%, 3.8%]
+                                                                                             0.9067
+                      (N=141)     (N=302)
+ Male
+                        30.4%      19.5%           0.64            -10.9%
+ (N=443)                                                                         0.0121
+                      (42/138)    (57/292)     [0.46, 0.90]    [-19.8%, -2.0%]
+                      (N=139)     (N=297)
+ Age <75 years
+                        27.6%      19.2%           0.70             -8.4%
+ (N=436)                                                                         0.0529
+                      (37/134)    (55/286)     [0.48, 1.00]    [-17.2%, 0.5%]
+                                                                                             0.3223
+                       (N=55)     (N=109)
+ $JH\HDUV
+                        30.9%      15.0%           0.48            -16.0%
+ (N=164)                                                                         0.0169
+                       (17/55)    (16/107)     [0.27, 0.88]    [-29.9%, -2.0%]
+ 'LDEHWLFV            (N=90)     (N=179)
+ (N=269)                29.5%      22.1%           0.75             -7.5%
+                                                                                 0.1868
+                       (26/88)    (38/172)     [0.49, 1.15]    [-18.8%, 3.9%]
+                                                                                             0.3619
+                      (N=104)     (N=225)
+ Non-'LDEHWLFV 
+                        27.7%      15.1%           0.54            -12.7%
+ (N=329)                                                                         0.0074
+                      (28/101)    (33/219)     [0.35, 0.85]    [-22.6%, -2.7%]
+ Small Vessel         (N=101)     (N=231)
+ (RVD< 2.75 mm)
+ ҄                     28.1%       17.3%           0.62            -10.8%
+                                                                                 0.0285
+                       (27/96)    (39/225)     [0.40, 0.95]    [-21.1%, -0.5%]
+ (N=332)                                                                                     0.9095
+ Large Vessel          (N=91)     (N=174)
+  59'           29.7%      19.2%           0.65            -10.5%
+                                                                                 0.0548
+ mm)҄ (N=265)          (27/91)    (32/167)     [0.41, 1.01]    [-21.6%, 0.6%]
+ Single Stent         (N=112)     (N=229)
+ Layer㻃                 20.2%      13.6%           0.68             -6.5%
+                                                                                 0.1255
+ (N=341)              (22/109)    (30/220)     [0.41, 1.11]    [-15.3%, 2.2%]
+                                                                                             0.5010
+ Multiple Stent        (N=82)     (N=176)
+ Layer㻃                 40.0%      23.8%           0.60            -16.2%
+                                                                                 0.0085
+ (N=258)               (32/80)    (41/172)     [0.41, 0.87]    [-28.6%, -3.7%]
+ Target Lesion        (N=168)     (N=355)
+ Treatment Only+        30.7%      17.4%           0.57            -13.2%                    0.0763
+                                                                                 0.0007
+ (N=523)              (50/163)    (60/344)     [0.41, 0.79]    [-21.4%, -5.1%]
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                      Page 38 of 49
+ TLF at 12              POBA            DCB        Relative Risk          Difference                    Interaction
+                                                                                             P-value
+ Months                (N=194)        (N=406)       [95% CI]              [95% CI]                        P-value
+ Both Target and        (N=26)         (N=51)
+ Non-Target
+ Lesion                 15.4%           22.4%           1.46                 7.1%
+                                                                                              0.4667
+ Treatment+             (4/26)         (11/49)      [0.52, 4.13]       [-11.1%, 25.2%]
+ (N=77)
+ History of DES        (N=171)        (N=356)
+ Treatment Only£        29.9%           18.7%           0.62                -11.3%
+                                                                                              0.0041
+ (N=527)T              (50/167)       (64/343)      [0.45, 0.86]        [-19.4%, -3.2%]
+ History of Both        (N=6)          (N=13)
+ DES and BMS
+                                       38.5%            0.64                -21.5%                          0.9735
+ Treatment£          60.0% (3/5)                                                             
+                                       (5/13)       [0.24, 1.73]             [N/A]
+ (N=19)
+ History of BMS         (N=9)           (N=29)
+ Treatment Only£                          6.9%           Undef                  6.9%
+ (N=38)                 0.0% (0/9)                                                              
+                                         (2/29)     [Undef, Undef]             [N/A]
+                           (N=5)         (N=9)
+ Total Occlusion
+                                         22.2%             1.11                 2.2%
+ (N=14)                20.0% (1/5)                                                              
+                                          (2/9)       [0.13, 9.42]             [N/A]
+                                                                                                              0.5815
+ Non-Total               (N=186)       (N=396)
+ Occlusion                29.3%          18.0%             0.62               -11.3%
+                                                                                                 0.0024
+ (N=582)                 (53/181)      (69/383)       [0.45, 0.84]        [-18.9%, -3.6%]
+ 'P-value' tests the difference between treatments for each subgroup from the chi-square test.
+ 'Interaction P-Value' tests the treatment by subgroup interaction from logistic regression. An interaction p-value
+ of 0.15 was considered a significant interaction.
+ *
+   Diabetic subgroup includes diabetic subjects requiring medical treatment (oral or injection) for control of blood
+ glucose levels.
+ **
+    Non-diabetics subgroup includes diabetic subjects treated with diet only or subjects without diabetics.
+ 
+   RVD is based on angio core lab data.
+ 㻃
+   Refers to subjects with single stent layer restenosis treatment or subjects with multiple stent layer restenosis
+ treatment.
+ +
+   Refers to subjects with Target Lesion Treatment Only or subjects with Both Target and Non Target Lesion
+ Treatment.
+ £
+   Refers to subjects with history of DES treatment only, BMS treatment only or with both DES/BMS treatment.
+
+
+
+
+       Subgroups for race and ethnicity were not pre-specified but evaluated post hoc. The
+       primary endpoint results for these subgroups are included in Table 24 below.
+
+
+
+  Table 24: Primary Endpoint Results for Race and Ethnicity Subgroups, Intent-to-Treat
+                                                     (N=600)
+                                   POBA            DCB              Relative Risk              Difference
+   Endpoints                      (N=194)         (N=406)            [95% CI]                  [95% CI]
+   Asian (N=15)
+   TLF                        16.7% (1/6)        11.1% (1/9)       0.67 [0.05, 8.73]      -5.6% [-41.8%, 30.6%]
+                                                                    Undef [Undef,
+    Cardiac Death                0.0% (0/6)      0.0% (0/9)                                  0.0% [NA, NA]
+                                                                        Undef]
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                  Page 39 of 49
+                              POBA              DCB           Relative Risk            Difference
+   Endpoints                 (N=194)          (N=406)           [95% CI]                [95% CI]
+    MI related to the TV    16.7% (1/6)      0.0% (0/9)    0.00 [Undef, Undef]   -16.7% [-46.5%, 13.2%]
+    TLR                     16.7% (1/6)     11.1% (1/9)      0.67 [0.05, 8.73]    -5.6% [-41.8%, 30.6%]
+   Black or African
+   American (N=42)
+   TLF                      33.3% (3/9)    23.3% (7/30)     0.70 [0.23, 2.16]    -10.0% [-44.3%, 24.3%]
+                                                             Undef [Undef,
+    Cardiac Death            0.0% (0/9)     3.3% (1/30)                            3.3% [-3.1%, 9.8%]
+                                                                 Undef]
+    MI related to the TV    11.1% (1/9)    10.0% (3/30)     0.90 [0.11, 7.63]     -1.1% [-24.3%, 22.1%]
+    TLR                     33.3% (3/9)    16.7% (5/30)     0.50 [0.15, 1.70]    -16.7% [-50.2%, 16.9%]
+   White (N=452)
+   TLF                     28.8% (42/146) 18.9% (56/296)    0.66 [0.46, 0.93]    -9.8% [-18.4%, -1.3%]
+    Cardiac Death           2.1% (3/146)   3.4% (10/296)    1.64 [0.46, 5.88]      1.3% [-1.8%, 4.4%]
+    MI related to the TV   11.0% (16/146) 5.4% (16/296)     0.49 [0.25, 0.96]     -5.6% [-11.2%, 0.1%]
+    TLR                    23.3% (34/146) 13.5% (40/296)    0.58 [0.38, 0.88]    -9.8% [-17.7%, -1.9%]
+   Hispanic or Latino
+   (N=35)
+   TLF                      33.3% (3/9)     8.3% (2/24)      0.25 [0.05, 1.26]   -25.0% [-57.7%, 7.7%]
+                                                              Undef [Undef,
+    Cardiac Death            0.0% (0/9)     0.0% (0/24)                             0.0% [NA, NA]
+                                                                  Undef]
+    MI related to the TV    22.2% (2/9)     0.0% (0/24)    0.00 [Undef, Undef]    -22.2% [-49.4%, 4.9%]
+    TLR                     22.2% (2/9)     8.3% (2/24)      0.38 [0.06, 2.28]   -13.9% [-43.2%, 15.4%]
+   Other (N=19)
+                                                             Undef [Undef,
+   TLF                       0.0% (0/2)    20.0% (3/15)                          20.0% [-0.2%, 40.2%]
+                                                                Undef]
+                                                             Undef [Undef,
+    Cardiac Death            0.0% (0/2)     0.0% (0/15)                             0.0% [NA, NA]
+                                                                Undef]
+                                                             Undef [Undef,
+    MI related to the TV     0.0% (0/2)    13.3% (2/15)                          13.3% [-3.9%, 30.5%]
+                                                                Undef]
+                                                             Undef [Undef,
+    TLR                      0.0% (0/2)    13.3% (2/15)                          13.3% [-3.9%, 30.5%]
+                                                                Undef]
+
+
+
+
+            4. Pediatric Extrapolation
+
+                In this premarket application, existing clinical data was not leveraged to support
+                approval of a pediatric patient population.
+
+            5. Clinical Pharmacokinetics
+
+                A human pharmacokinetic (PK) sub-study was not conducted for the AGENT
+                DCB. Since pre-clinical PK data suggested that the drug was present at low levels
+                in the blood and cleared rapidly, the possible systemic drug exposure of the
+                AGENT DCB in humans based on the intended use is expected to be low with
+                limited safety concerns. Therefore, it was determined that human PK data was not
+                needed to mitigate any risks due to the systemic exposure of the drug from the
+                AGENT DCB.
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                         Page 40 of 49
+            6. Long Term Data:
+
+                Study follow up is ongoing and many of the trial subjects have yet to complete
+                their 2-year follow up. All available 2-year data, which accounted for
+                approximately 1/3 of patients (199/600), including the primary endpoints, its
+                components, and all-cause mortality, were evaluated. The outcomes are trending
+                in the same manner as the primary endpoint data at 1 year. Based on available
+                data, the rate of all-cause mortality is similar between study arms.
+
+            FINANCIAL DISCLOSURE
+            The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+            applicants who submit a marketing application to include certain information
+            concerning the compensation to, and financial interests and arrangement of, any
+            clinical investigator conducting clinical studies covered by the regulation. The pivotal
+            clinical study included 218 investigators of which none were full-time or part-time
+            employees of the sponsor and 4 had disclosable financial interests/arrangements as
+            defined in 21 CFR 54.2(a), (b), (c) and (f) and described below:
+
+                x   Compensation to the investigator for conducting the study where the value
+                    could be influenced by the outcome of the study: 0
+                x   Significant payment of other sorts: 4
+                x   Proprietary interest in the product tested held by the investigator: 0
+                x   Significant equity interest held by investigator in sponsor of covered study: 0
+            The applicant has adequately disclosed the financial interest/arrangements with
+            clinical investigators. Statistical analyses were conducted by FDA to determine
+            whether the financial interests/arrangements had any impact on the clinical study
+            outcome. The information provided does not raise any questions about the reliability
+            of the data.
+
+        SUMMARY OF SUPPLEMENTAL CLINICAL INFORMATION
+
+        The AGENT Japan study was considered supplementary data to support the safety and
+        effectiveness of the AGENT DCB, especially in subjects with small ISR vessels. This
+        trial enrolled AGENT DCB subjects that had a mean reference vessel diameter (RVD) of
+        2.22±0.36 mm in the SV study and 2.59±0.50 mm in the ISR substudy.
+
+        The AGENT Japan Small Vessel (SV) Study was a prospective, multicenter, 2:1
+        randomized controlled (AGENT DCB to SeQuent Please DCB), single-blind,
+        noninferiority trial. The ISR Substudy was a prospective, non-randomized, multicenter,
+        single-arm, open-label trial. AGENT Japan SV study enrolled 150 patients at 14 sites in
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                        Page 41 of 49
+        Japan and a total of 30 ISR patients were enrolled and treated with the AGENT DCB at 9
+        sites in Japan.
+
+        The primary objective of the AGENT Japan study was to determine the safety and
+        effectiveness of the AGENT DCB compared to B. Braun’s SeQuent® Please Paclitaxel-
+        Releasing Coronary Balloon Catheter for the treatment of Japanese patients with a small
+        de novo native atherosclerotic coronary artery lesion or ISR of a previously treated lesion
+        (ISR substudy). This study is relevant as it was performed using AGENT devices
+        identical to the proposed AGENT US devices in terms of design and intended use.
+
+        The primary endpoint was the 6-month TLF rate, defined as any ischemia-driven TLR,
+        MI (Q-wave and non–Q-wave) related to the target vessel, or cardiac death. Additional
+        clinical endpoints included TLR, TLF, TVR, all cause death, MI (Q-wave and non-Q-
+        wave), and ST (per Academic Research Consortium definitions). Angiographic
+        parameters measured by angiography at 6 months post-procedure (in-lesion/in-stent and
+        in-segment) included % diameter stenosis (% DS), binary restenosis, minimum lumen
+        diameter (MLD), and late lumen loss. Periprocedural endpoints included the rates of
+        clinical procedural success and technical success. Quality of life (evaluated at hospital
+        discharge, 6-months, 1-year, 2 years, and 3 years post-procedure) was measured by
+        changes in EQ-5D scores.
+
+        The primary endpoint results for the AGENT Japan SV Study are included in Table 25
+        below.
+
+             Table 25: Primary Endpoint Results for the AGENT Japan SV Study
+                                                                         One-sided 97.5%
+                                                                                                   Non-
+                           SeQuent           Agent                         Farrington-
+                                                          Difference                            Inferiority     One-Sided
+                            Please           DCB                            Manning
+                                                          [95% CI]                               Margin          P-Value
+                            (N=49)          (N=101)                      Upper Confidence
+                                                                                                  (Delta)
+                                                                             Bound
+  6-Month TLF *                               3.0%
+                           0.0% (0/49)                     3.0% [NA]             9.57%              13.2%         0.0012
+  (Intent-to-Treat)                          (3/101)
+P-value is from the Farrington-Manning test and is based on the standard normal distribution.
+A two-group Farrington-Manning test is used to test the one-sided hypothesis of non-inferiority in proportions.
+If the P-value from the one-sided Farrington-Manning test is <0.025, Agent DCB is concluded to be non-inferior to
+SeQuent Please DCB.
+ 7/)LVGHILQHGDVDQ\LVFKHPLDGULYHQUHYDVFXODUL]DWLRQRIWKHWDUJHWOHVLRQ 7/5 P\RFDUGLDOLQIDUFWLRQ 0,4-wave
+and non–Q-wave) related to the target vessel, or cardiac death.
+
+        The primary endpoint results for the AGENT Japan ISR Substudy are included in Table
+        26 below.
+
+           Table 26: Primary Endpoint Results for the AGENT Japan ISR Substudy
+                                                                  One-sided 97.5%
+                                Agent               95%
+                                                                    asymptotic          Performance        1-Sided
+                                (N=30            Confidence
+                                                                  upper confidence          Goal           P-Value
+                               Subjects)          Interval
+                                                                       bound
+ 6-Month TLF *                3.3% (1/30)       [0.0%, 9.8%]           9.8%                15.1%              <.0001
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                Page 42 of 49
+                                                                  One-sided 97.5%
+                                 Agent              95%
+                                                                    asymptotic           Performance        1-Sided
+                                 (N=30           Confidence
+                                                                  upper confidence           Goal           P-Value
+                                Subjects)         Interval
+                                                                       bound
+  (Intent-to-Treat)
+1-sided P-Value is based on the Exact Method.
+95% Confidence Interval is based on 2-Sided Asymptotic method.
+ TLF is defined as any ischemia driven revascularization of the target lesion (TLR), myocardial infarction (MI, Q-
+wave and non–Q-wave) related to the target vessel, or cardiac death.
+
+
+
+
+        While this study has limitations, it is consistent with the results from the primary clinical
+        study.
+
+        Panel Meeting Recommendation and FDA’s Post-Panel Action
+
+        In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+        Medical Devices Act of 1990, this PMA was not referred to the Circulatory System
+        Devices Panel, an FDA advisory committee, for review and recommendation because the
+        information in the PMA substantially duplicates information previously reviewed by this
+        panel.
+
+        CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+             EFFECTIVENESS CONCLUSIONS
+             The AGENT IDE Study was a prospective, multi-center, randomized controlled trial
+             comparing the AGENT DCB with POBA for the treatment of coronary ISR. The
+             AGENT IDE Study met its primary endpoint, including effectiveness components,
+             demonstrating superiority to POBA with TLF rates of 18.2% and 29.3%, respectively
+             (p = 0.0051) in the primary ITT analysis set. This difference was largely driven by a
+             lower rate of ischemia-driven TLR and target vessel-related MI in patients treated
+             with AGENT compared to POBA. As such, the null hypothesis was rejected, and
+             the primary endpoint was met. Additional effectiveness endpoints such as
+             procedural and technical success demonstrated the AGENT DCB’s acceptable
+             acute performance. These results support the effectiveness of the AGENT DCB for
+             percutaneous coronary intervention (PCI) in coronary arteries 2.0 mm to 4.0 mm in
+             diameter and lesions up to 26 mm in length for the purpose of improving
+             myocardial perfusion when treating in-stent restenosis (ISR).
+
+             SAFETY CONCLUSIONS
+             The risks of the AGENT Paclitaxel-Coated Balloon Catheter are based on the results
+             obtained from biocompatibility testing, in vivo pre-clinical safety, safety margin, and
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                                 Page 43 of 49
+            pharmacokinetics testing, in vitro engineering testing, coating characterization,
+            chemistry, manufacturing and controls information, sterilization testing, stability
+            testing, as well as data collected in the clinical study conducted to support PMA
+            approval as described above. These tests revealed the following information:
+
+                x   The biocompatibility, in vivo pharmacokinetics, and in vivo animal safety
+                    testing conducted demonstrate that the acute and chronic in vivo performance
+                    characteristics of the product provide reasonable assurance of safety and
+                    acceptability for clinical use.
+                x   The in vitro engineering testing conducted demonstrated that the performance
+                    characteristics met the product specifications. The coating characterization
+                    testing adequately depicted the important attributes of AGENT’s drug coating.
+                    The chemistry, manufacturing, and controls information ensures that only
+                    product meeting specifications will be released.
+                x   The test results obtained from the sterilization testing demonstrated that the
+                    product can be adequately sterilized and is acceptable for commercial use.
+                x   The functional shelf life and drug stability testing demonstrated that the
+                    product can be labeled with a shelf life of 24 months.
+                x   The clinical testing conducted demonstrated that the product provides a
+                    reasonable assurance of safety when used as indicated in accordance with the
+                    Instructions for Use. In the IDE study, adverse event rates, including
+                    mortality, observed with use of Agent DCB to treat coronary ISR lesions were
+                    comparable to the control arm and were in line with expectations.
+
+            BENEFIT-RISK DETERMINATION
+            The probable benefits of the device are based on data collected in a clinical study
+            conducted to support PMA approval as described above. Patients treated with the
+            AGENT DCB experienced fewer revascularization events and MI events compared
+            with patients treated with POBA. Compared with using balloon angioplasty to treat
+            coronary ISR lesions, approximately 9 patients would need to be treated with the
+            AGENT DCB to prevent one incidence of target lesion failure at 1 year. Based on
+            the primary endpoint of this trial, almost 1 in 3 patients (29.3%) treated with POBA
+            experienced a TLF event at 12 months compared to approximately 1 in 5 patients
+            (18.2%) treated with the AGENT DCB. Preliminary two-year data suggests a
+            similar benefit.
+
+            The probable risks of the device are also based on data collected in a clinical study
+            conducted to support PMA approval as described above. The risks of using the
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                    Page 44 of 49
+            AGENT DCB to treat in-stent restenosis appear to be very similar to the risks of
+            using POBA and the risks of PCI for in-stent restenosis in general. No unanticipated
+            adverse device effects were reported in the study. The AGENT IDE Study supports
+            the safe use of one DCB device per patient. The safety of using multiple devices in
+            one procedure has not been established.
+
+            Additional factors considered in determining probable risks and benefits included:
+
+            1) The clinical study was a high quality randomized, controlled trial, with a
+               prespecified statistical analysis plan. Any uncertainty related to the primary
+               endpoint is therefore low.
+
+            2) Alternative treatments are available, but patients with in-stent restenosis are at
+               high risk for recurrence regardless of treatment. The results of the AGENT IDE
+               Study demonstrate more favorable outcomes compared to POBA.
+
+            3) The clinical study provided adequate follow-up (on all subjects to 12 months) to
+               evaluate safety and effectiveness.
+
+            4) Longer term follow-up (up to 24 months) was provided, as available, prior to the
+               PMA approval. Longer term data showed similar trends as seen for the primary
+               endpoint results. The preliminary/incomplete results indicated that long term
+               mortality was comparable between the test arm as compared to the control arm.
+
+            5) Patient risk is minimized by limiting the use to operators who have the necessary
+               training to use the device safely and effectively. This includes appropriate lesion
+               selection, adequate lesion preparation and adherence to the recommended
+               periprocedural medication regimens.
+
+            6) No other coronary drug coated balloons have been approved for use in the US.
+               However, drug coated balloons have been approved for the coronary vasculature
+               for numerous years as well as for use in the peripheral vasculature. Peripheral
+               DCBs have been shown to have benefits over POBA, including reduction in
+               need for repeat revascularization.
+
+            7) FDA has determined that there are no known safety concerns related to
+               paclitaxel coated products. A previous signal of potentially increased late
+               mortality for peripheral paclitaxel coated products was determined to not be
+               supported after review of the totality of the available data and analyses.
+
+                1. Patient Perspective:
+
+                    Patient perspectives considered during the review included an assessment of
+                    general health-related quality of life as measured by changes in EQ-5D scores.
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                   Page 45 of 49
+                    There were no significant differences between the AGENT and POBA arms
+                    with regards to the quality-of-life scores from baseline to 12 months.
+
+            In conclusion, given the available information above, the data support that for the
+            treatment of coronary ISR the probable benefits outweigh the probable risks.
+
+
+            OVERALL CONCLUSIONS
+            The data in this application support the reasonable assurance of safety and
+            effectiveness of this device when used in accordance with the indications for use.
+            The clinical study results of the AGENT DCB showed favorable outcomes
+            compared to POBA for the treatment of coronary ISR. Given all of the available data,
+            it is reasonable to conclude that the benefits of the use of the device for the target
+            population outweigh the risk of illness or injury when used as indicated in
+            accordance with the labeling and Instructions for Use (IFU).
+
+       CDRH DECISION
+
+        CDRH issued an approval order on February 29, 2024. The final conditions of approval
+        cited in the approval order are described below:
+
+        1. Long-term drug stability studies will be completed on three total finished product
+           batches representing the commercial process each year, evaluating one lot of the
+           largest-longest device size, one lot of an intermediate size, and one lot of the shortest-
+           smallest device size manufactured during that time period. All batches for these
+           studies will be stored at Long Term Conditions of 25°C ± 2°C/60% RH ± 5%, per
+           ICH Q1A(R2). Testing for all studies will occur at 0, 6, 12, 18, and 24 months, per
+           detailed instruction in document 97105846. Be advised that failure to comply with
+           any post-approval requirement, including test protocol, sampling size, sampling plan,
+           and acceptance criteria, constitutes grounds for FDA withdrawal of approval of the
+           PMA in accordance with 21 CFR 814.82(c) and 814.46(a)(2).
+
+        2. As you have proposed in your November 21, 2023 interactive response for the CMC
+           module, further process development studies will be completed to support the current
+           coating process, specifications, and process capability, which should be evaluated
+           using all finished product testing. For the additional requested studies, in order to
+           ensure that the commercial manufacturing process is capable of consistently
+           delivering quality product across all proposed operating conditions, product should be
+           manufactured at the extremes of solution concentration and full lot release testing
+           should be provided to support these process parameters. If these parameters are not
+           supported based on the added testing, you should further tighten your in-process
+           specification. The full validation protocols, acceptance criteria, study outcomes, and
+           supportive development and qualification studies should be submitted in a future
+           PMA report. If any changes to your coating process are warranted (e.g., in process
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                     Page 46 of 49
+            coating specification), then you should submit a PMA supplement to request this
+            change.
+
+        3. AGENT Post-Approval Surveillance Analysis: This surveillance will be carried out to
+           assess the real-world safety and effectiveness of the AGENT Paclitaxel-Coated
+           Balloon Catheter (AGENT DCB), including in patient populations underrepresented
+           in the AGENT IDE pivotal trial (i.e., women and underrepresented racial and ethnic
+           groups). It will involve all consecutive patients treated within the first 2 years
+           following device approval who are entered into the American College of Cardiology
+           (ACC) CathPCI Registry®, including approximately 30,000 patients through
+           discharge and 10,000 patients through 2 years. Data from the CathPCI Registry will
+           be linked to data from the Centers for Medicare and Medicaid Services (CMS)
+           database to obtain data through 2 years. Endpoints include in-hospital adverse events,
+           and all-cause death, myocardial infarction, and revascularization through 2 years.
+           Comparative outcomes in women and underrepresented racial and ethnic groups with
+           in-stent restenosis will be specifically evaluated.
+
+
+        4. The AGENT IDE Continued Follow-Up Study: This study will evaluate the long-term
+           safety and effectiveness of the AGENT DCB in 600 subjects from the premarket
+           study (The AGENT IDE Study). The AGENT IDE Study was designed as a global,
+           multicenter, single blind, randomized (2:1 AGENT DCB to POBA) trial. Subjects
+           will be followed annually through 5 years post-procedure, and all efforts must be
+           made to minimize the amount of missing long-term data (a minimum of 75% of
+           subjects should be evaluable for the primary endpoint at 3 years, and a minimum of
+           90% of subjects should have a documented mortality status at 5 years).
+
+            The primary endpoint is the Target Lesion Failure (TLF) rate, defined as any
+            ischemia-driven revascularization of the target lesion (TLR), myocardial infarction
+            (MI, Q-wave and non–Q-wave) related to the target vessel, or cardiac death. The MI
+            events include the PPMI according to the SCAI MI definition and the spontaneous MI
+            according to the 4th Universal MI definition.
+
+            The endpoints to be assessed through 5 years post-procedure are rate of: (1) serious
+            adverse events (SAE), (2) death (including cardiac, non-cardiac, and all-cause), (3)
+            MI (Q-wave and non-Q-wave) rate (PPMI per the SCAI definition and spontaneous
+            MI per 4th Universal Definition), (4) stent/vessel thrombosis rates, (5) target lesion
+            failure (TLF) rate, (6) target lesion revascularization (TLR) rate, (7) target vessel
+            revascularization (TVF) rate, and (8) changes in Quality of Life (as measured by
+            changes in EQ-5D score; through 3 years only).
+
+
+
+        The applicant’s manufacturing facilities have been found to be in compliance with the
+        device Quality System (QS) regulation (21 CFR 820).
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                   Page 47 of 49
+        APPROVAL SPECIFICATIONS
+
+        Directions for Use: See device labeling.
+
+        Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+        Precautions, and Adverse Events in the device labeling.
+
+        Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                               Page 48 of 49
+        REFERENCES
+
+        1. Moussa ID, Klein LW, Shah B, et al. Consideration of a New Definition of Clinically
+           Relevant Myocardial Infarction After Coronary Revascularization: An Expert
+           Consensus Document From the Society for Cardiovascular Angiography and
+           Interventions (SCAI). Journal of the American College of Cardiology.
+           2013;62(17):1563-1570.
+
+        2. Thygesen Kristian, Alpert Joseph S., Jaffe Allan S., et al. Fourth Universal Definition
+           of Myocardial Infarction (2018). Journal of the American College of Cardiology.
+           2018;72(18):2231-2264
+
+        3. Cutlip DE, Windecker S, Mehran R, et al. Clinical end points in coronary stent trials:
+           a case for standardized definitions. Circulation 2007;115:2344–51
+
+
+
+
+AGENT™ Paclitaxel-Coated Balloon Catheter
+P230035: FDA Summary of Safety and Effectiveness Data                                 Page 49 of 49
+

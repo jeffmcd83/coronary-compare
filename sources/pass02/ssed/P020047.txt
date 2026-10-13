@@ -1,0 +1,1099 @@
+                SUMMARY OF SAFETY AND EFFECTIVENESS DATA
+
+I.       General Information
+
+         Device Generic Name:                     Intravascular Coronary Stent
+
+         Device Trade Name:                       MULTI-LINK VISION™ RX Coronary
+                                                  Stent System
+                                                  MULTI-LINK VISION™ OTW Coronary
+                                                  Stent System
+
+         PMA Number                               P020047
+
+         Applicant (Name & Address)               Guidant Corporation
+                                                  Advanced Cardiovascular Systems
+                                                  3200 Lakeside Drive
+                                                  Santa Clara, CA 95054
+                                                  USA
+
+         Date of Panel Meeting:                   N/A
+
+         Date ofNotice of Approval:               July 16, 2003
+         to Applicant
+
+II.      Indications for Use:
+
+         The MULTI-LINK RX VISION™ and MULTI-LINK OTW VISION™ Coronary
+         Stent Systems are indicated for improving coronary luminal diameter in the
+         following (See Individualization of Treatment):
+
+         •    Patients with symptomatic ischemic heart disease due to discrete de novo or
+              restenotic native coronary artery lesions (length.::; 25 mm) with reference
+              vessel diameters ranging from 3.0 mm to 4.0 mm;
+
+         •    Patients with symptomatic ischemic heart disease due to lesions in saphenous
+              vein bypass grafts (length.::; 25 mm) with reference vessel diameters ranging
+              from 3.0 mm to 4.0 mm;
+
+         •   Restoring coronary flow in patients experiencing acute myocardial infarction,
+             as confirmed by ST segment elevation or angiographic findings, who present
+             within 12 hours of symptom onset with native coronary artery lesions of
+             length.::; 25 mm with a reference vessel diameter of 3.0 mm to 4.0 mm.
+
+         Outcome (beyond 9 months) for this permanent implant is unknown at present.
+
+
+P020047                                                                                       1
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION™ RX & OTW CSS
+III.      Device Description
+
+          The MULTI-LINK Rapid Exchange (RX) VISION™ and MULTI-LINK Over­
+          the-Wire (OTW) VISION™ Coronary Stent Systems (CSS) are comprised oftwo
+          main components: the Stent and the Delivery System.
+
+          The MULTI-LINK VISION™ Stents consist of two designs: The Small
+          VISION™ Design for the 3.0 mm diameter and the Medium VISION™ Design
+          for the 3.5 mm and 4.0 mm diameters. Both designs are available in the 8 mm, 12
+          mm, 15 mm, 18 mm, 23 mm, and 28 mm lengths. In addition, both designs are
+          fabricated from L-605 Cobalt Chromium (CoCr) alloy.
+
+          The MULTI-LINK RX VISION™ and MULTI-LINK OTW VISION™ CSS
+          were developed in parallel as two platforms, i.e., the MULTI-LINK RX
+          VISION™ CSS is a Rapid Exchange (RX) platform and the MULTI-LINK OTW
+          VISION™ CSS is an Over-the-Wire (OTW) platform. The distal portion of both
+          delivery systems is similar; however, the proximal portions are different to
+          accommodate either the RX or OTW platform.
+
+IV.       Contraindications, Warnings and Precautions
+
+          Contraindications
+
+          The Guidant MULTI-LINK VISION™ RX and Guidant MULTI-LINK
+          VISION™ OTW Coronary Stent Systems are contraindicated for use in:
+
+          •   Patients in whom anti-platelet and I or anti-coagulant therapy is
+              contraindicated.
+
+          •   Patients judged to have a lesion that prevents complete inflation of an
+              angioplasty balloon.
+
+          Warnings and Precautions
+
+          A list of warnings and precautions can be found in the device labeling.
+
+
+V.        Alternative Practices and Procedures
+
+          Patients with early coronary artery disease receive exercise, diet, and drug
+          therapy. Ifthe disease progresses, PTCA, coronary artery bypass graft (CABG)
+          surgery, or stenting may be performed. Stenting may be performed with
+          commercially available stents.
+
+P020047                                                                                  2
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISIONTM RX & OlW CSS
+VI.       Marketing History
+
+          The MULTI-LINK RX and OTW VISION™ CSS have not been marketed in the
+          United States. The MULTI-LINK RX and OTW VISION™ CSS had been
+          approved for commercial distribution in the European Union, Australia, Canada
+          and various other countries when the sponsor implemented a voluntary recall of
+          the MULTI-LINK VISION™ CSS on March 31, 2003. The sponsor received a
+          small but concerning number of complaints from customers regarding stent
+          retention and felt this conservative measure was appropriate at that time.
+
+          The sponsor implemented improvements to the stent manufacturing processes and
+          has made modifications to the current test methods to assure adequate stent
+          retention is achieved. The sponsor submitted these changes to this PMA and to
+          various other regulatory agencies, as appropriate. The sponsor received CE
+          approval for these modifications on June 27,2003 and the MULTI-LINK
+          VISION™ CSS has been reintroduced into the market. The MULTI-LINK
+          VISION™ CSS is currently approved to be marketed in the following countries.
+
+          Australia             El Salvador        Italy           New Zealand    Sweden
+          Algeria               Finland            Jordan          Norway         Switzerland
+          Austria               France             Lebanon         Pakistan       Thailand
+          Bahamas               French Polynesia   Lebanon         Portugal       Trinidad, Tobago
+          Bahrain               Germany            Liechtenstein   Qatar          Tunisia
+          Belgium               Greece             Luxembourg      Reunion        Tunisia
+          Bermuda               Guadeloupe         Malaysia        San Marino     Uganda
+          Bolivia               Guyana             Malaysia        Saudi Arabia   United Kingdom
+          Burma/Myanmar         Hong Kong          Malta           Singapore      Venezuela
+          Chile                 Iceland            Martinique      Slovenia       Vietnam
+          Costa Rica            India              Morocco         South Africa   Zimbabwe
+          Denmark               Indonesia          Netherlands     Spain
+          Dominican
+          Republic              Ireland            New Caledonia   Suriname
+
+
+
+VII.      Summary of Preclinical Studies
+
+Biocompatibility Testing:
+
+The Guidant MULTI-LINK RX and OTW VISION™ CSS were subjected to
+biocompatibility testing in accordance with the following general regulations and
+guidance documents:
+
+          -The Federal Good Laboratory Practices Regulations (21 CFR §58)
+
+          -International Standards ISO 10993-1 Part 1: 1997 (Biological Evaluation of
+          Medical Devices)
+
+
+P020047                                                                                    3
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION™ RX & OTW CSS
+
+
+
+                                                                                                     )0
+         Biocompatibility testing conducted on the MULTI-LINK VISION™ CSS
+
+
+            BIOCOMPATIBILITY TEST                   MULTI-LINK VISION™ CSS
+
+          Carcinogenicity Test                    Literature Reference - carcinogenicity
+                                                           testing not necessary
+          Cytotoxicity Test                               Non-cytotoxic - PASS
+          Hemolysis Test                                  Non-hemolytic - PASS
+          Systemic Injection Test                           Non-toxic - PASS
+          Intracutaneous Test                             Non-irritating- PASS
+          Intramuscular Test                                Non-toxic - PASS
+
+
+          Ames Mutagenicity Test                          Non-mutagenic - PASS
+          Sensitization test                             Non-sensitizing- PASS
+          Subchronic Test                                   Non-toxic - PASS
+          Rabbit Pyrogen Test                             Non-pyrogenic - PASS
+          LAL Pyrogen Test                                Non-pyrogenic - PASS
+          Coagulation Prothrombin Time               No adverse effect on coagulation
+                                                        prothrombin time - PASS
+          Unactivated Partial Thromboplastin       No adverse effect on UPTT - PASS
+          Time (UPTT) Assay
+
+
+
+Sterilization:
+
+         Sterilization testing (dose setting, dose-mapping, and dose audit results) was
+         completed in accordance with the "Sterilization ofhealth care products ­
+         Requirements for validation and routine control- Radiation sterilization",
+         ANSI/AAMI/ISO 1113 7-1994 and the Sterilization ofMedical Devices­
+         Validation and Routine control ofSterilization by Irradiation- EN 552. The
+         sterilization testing results demonstrate that the MULTI-LINK RX and OTW
+         VISION™ CSS can be sterilized to achieve dosing values within the 25 kGy
+         minimum and the 50 kGy maximum qualification dose.
+
+
+In Vitro Bench Testing
+
+        In vitro bench testing was conducted on the MULTI-LINK RX VISION™ and the
+        MULTI-LINK OTW VISION™ CSS in accordance with the U.S. FDA May 1994
+        Guidance for the Submission ofResearch and Marketing Applications for
+P020047                                                                         4
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISIQNTM RX & OTW CSS
+          Interventional Cardiology Devices: Intravascular Stents. The relevant tests
+          outlined in the guidance were conducted to demonstrate the safety and
+          effectiveness ofthe MULTI-LINK RX VISION™ CSS and the MULTI-LINK
+          OTW VISION™ CSS. Certain tests were performed only on the OTW or RX
+          stent system, when the attribute to be tested was not delivery system specific.
+          When the attribute was specific to the delivery system, both stent systems were
+          evaluated. All test units were sterilized by E-beam radiation which is the
+          sterilization method that will be used for production purposes. A summary of the
+          testing conducted follows:
+
+                  Material Specification Conformance Testing:
+
+                  Chemical Analysis:
+
+                  The MULTI-LINK VISION™ Stent is fabricated from medical grade L­
+                  605 cobalt chromium alloy tubing. This material conforms to ASTM
+                  Standard F90 for both the chemical analysis and the inclusion/ impurity
+                  content. The MULTI-LINK VISION™ Stent tubing is analyzed according
+                  to ASTM Standard A 751, "Practices and Terminology for Chemical
+                  Analysis of Steel Products". The tubing is initially subjected to an optical
+                  emission vacuum spectrometric analysis according to ASTM Standard
+                  E 1086, which detects all elements except nitrogen and in some instances
+                  carbon. Nitrogen is detected according to gas fusion thermal conductivity
+                  as described in ASTM Standard E1019. Additionally, carbon is detected
+                  using the combustion method outlined in ASTM Standard E 1019. The
+                  chemical analysis of the MULTI-LINK VISION™ Stent met the product
+                  specifications.
+
+                  Scanning Electron Microscopy (SEM) Analysis:
+
+                  SEM analysis was conducted to identifY and analyze trace contaminants,
+                  which may be present on the MULTI-LINK VISION™ Stent. The
+                  elemental analysis of these particles determined that they included
+                  carbon, oxygen, sodium, chlorine, potassium, sulfur, silicon, magnesium
+                  and fluoride, all of which can be traced to contact with gloves, glove
+                  residue, balloon materials, and biocontaminants (fingers, skin, saliva,
+                  etc.). Other elements that were observed were titanium, aluminum,
+                  cobalt*, iron, chromium*, tungsten*, nickel, calcium, and phosphorus.
+                  The size and quantity of the particles evaluated do not exceed USP
+                  requirements for small volume injections.
+
+                  * Note: The elements cobalt, chromium, and tungsten are contributed by
+                  the adjacent and underlying stent alloy.
+
+
+
+
+P020047                                                                                      5
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISIQNTM RX & OTW CSS
+
+
+
+                                                                                                 )L
+                  Tensile Strength and Elongation:
+
+                  The tensile strength and elongation test was performed to determine the
+                  tensile strength and percent elongation ofthe MULTI-LINK VISION™
+                  Stent tubing. The yield strength and elongation of the MULTI-LINK
+                  VISION™ Stent met the product specifications.
+
+                  ASTM Conformance:
+
+                  The MULTI-LINK VISION™ Stent is fabricated from medical grade L­
+                  605 cobalt chromium (CoCr) alloy tubing. This material conforms to
+                  ASTM Standard F90-01. To ensure compliance with ASTM Standard
+                  F90-0 1, the L-605 CoCr alloy tubing is also tested or required to meet the
+                  following ASTM Standards:
+
+                      ASTM Standards used to Evaluate the MULTI-LINK VISION™
+                                              Stent Tubing
+
+                       ASTM Standard                                      Title
+
+
+                  ASTM A751-96                    Standard Test Methods, Practices, and Terminology
+                                                  for Chemical Analysis of Steel Products
+                  ASTM E8-0lel                    Standard Test Methods for Tension Testing of
+                                                  Metallic Materials
+                  ASTM E45-97e2                   Standard Test Methods for Determining the
+                                                  Inclusion Content of Steel
+                  ASTM E112-96el                  Standard Test Method for Determining Average
+                                                  Grain Size
+                  ASTM E345-93(1998)              Standard Test Methods of Tension Testing of
+                                                  Metallic Foil
+                  ASTM E354-93(2000)el            Standard Test Methods for Chemical Analysis of
+                                                  High-Temperature, Electrical, Magnetic, and Other
+                                                  Similar Iron, Nickel and Cobalt Alloys.
+                  ASTM E1019-00                   Standard Test Method for Determination of Carbon,
+                                                  Sulfur, Nitrogen and Oxygen in Steel and in Iron,
+                                                  Nickel and Cobalt Alloys.
+                  ASTM E1086-94                   Optical Emission Vacuum Spectrometric Analysis
+                                                  of Stainless Steel by the Point-to-Plane Excitation
+                                                  Technique
+
+P020047                                                                                         6
+Summary of Safety and Effectiveness Data (SSED)
+MULTl-LINK VISIONm RX & OTW CSS
+                  ASTM F90-01                     Standard Specification for Wrought Cobalt-20
+                                                  Chromium-15 Tungsten-1 0 Nickel Alloy for
+                                                  Surgical Implant Applications (UNS R32605)
+                  ASTM F138-00                    Standard Specification for Wrought 18 Chromium­
+                                                  14 Nickel-2.5 Molybdenum Stainless Steel Bar and
+                                                  Wire for Surgical Implants (UNS S31673)
+                  ASTM F2129-0l                   Standard Test Method for Conducting Cyclic
+                                                  Potentiodynamic Polarization Measurements to
+                                                  Determine the Corrosion Susceptibility of Small
+                                                  Implant Devices.
+                  ASTM G5-94(1999)e 1             Standard Reference Test Method for Making
+                                                  Potentiostatic and Potentiodynamic Anodic
+                                                  Polarization Measurements
+                  ASTM G 15-99b                   Standard Terminology Relating to Corrosion and
+                                                  Corrosion Testing
+                  ASTM G71-81(1998)el             Standard Guide for Conducting and Evaluating
+                                                  Galvanic Corrosion Tests in Electrolytes
+                  ASTM G78-95                     Standard Guide for Crevice Corrosion Testing of
+                                                  Iron-Base and Nickel-Base Stainless Alloys in
+                                                  Seawater and Other Chloride-Containing Aqueous
+                                                  Environments
+                  ASTM G 102-89(1999)             Standard Practice for Calculation of Corrosion Rates
+                                                  and Related Information from Electrochemical
+                                                  Measurements
+
+
+
+                  A majority of the ASTM standards and test methods for L-605 CoCr
+                  tubing generally refer to bar, wire, sheet and strip testing. The sponsor has
+                  adopted the relevant sections of these standards to ensure compliance with
+                  ASTM F90. The MULTI-LINK VISION™ Stent met the requirements of
+                  the aforementioned ASTM Standards.
+
+                  Corrosion:
+
+                  The corrosion resistance of L-605 CoCr alloy tubing used to fabricate the
+                  MULTI-LINK VISION™ Stent is governed by the presence of a passive
+                  oxide film. The film markedly lowers the corrosion rate (approaches a
+                  value of zero) by protecting the alloy from its corrosive environment. The
+                  metal is susceptible to pitting when there is a breakdown ofthe passive
+                  film or a discontinuity in the oxide film. The metal is unable to re­
+                  passivate following breakdown due to the presence of a high chloride ion
+P020047                                                                                        7
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISIQNTM RX & OTW CSS
+
+
+
+                                                                                                         \~
+                  concentration. Each stent is electropolished to eliminate surface
+                  imperfections and passivation of the stent promotes the formation of a
+                  protective oxide layer.
+
+                  The L-605 CoCr alloy MULTI-LINK VISION™ stent demonstrated
+                  acceptable corrosion resistance in all three studies. The MULTI-LINK
+                  VISION™ Stent demonstrated acceptable corrosion resistance when in
+                  contact with stainless steel or another L-605 CoCr alloy Stent.
+                  Additionally, the testing demonstrated that there were no significant
+                  differences in the corrosion properties of the stent with the modifications
+                  to the hypotube dimensions and polishing parameters.
+
+                  Stent Integrity Testing:
+
+                  Dimensions:
+                  The dimensions test was used to evaluate the dimensions of the MULTI­
+                  LINK VISION™ Stent. Samples were measured for stent strut width,
+                  thickness, length and mass. The dimensions ofthe MULTI-LINK
+                  VISION™ Stent met the product specifications.
+
+                  Stent Free Area Percentage:
+                  The stent free area percentage was found by subtracting the area of the
+                  MULTI-LINK VISION™ Stent from the total stented vessel area, and
+                  then dividing the result by the total stented vessel area.
+
+                  Length Change:
+                  The length change test determined the percent shortening ofthe MULTI­
+                  LINK VISION™ Stent when expanded to the nominal diameter. Each
+                  stent was measured prior to and after expansion in tubing. The length
+                  change ofthe MULTI-LINK VISION™ Stent met the product
+                  specifications.
+
+                  Uniformity of Expansion:
+                  The uniformity of expansion test measured the uniformity of the MULTI­
+                  LINK VISION™ Stent along its length after balloon expansion in tubing.
+                  Uniformity was defined as the mean outer diameter minus the average
+                  double wall thickness of the stent to derive the inner diameter plus or
+                  minus the standard deviation at three to five locations along the length of
+                  the stent (proximal, mid, distal) after balloon expansion. The smallest
+                  inner diameter was then subtracted from the largest one. The MULTI­
+                  LINK VISION™ Stent expanded uniformly and maintained this
+                  uniformity upon withdrawal of the balloon. The uniformity of expansion
+                  of the MULTI-LINK VISION™ Stent met the product specifications.
+
+P020047                                                                                         8
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION TM RX & OTW CSS
+
+
+
+                                                                                                    \5
+                  Recoil:
+                  The recoil test determined the percent recoil of the MULTI-LINK
+                  VISION™ Stent after balloon expansion. The stent outer diameter was
+                  measured with and without the expanded balloon in place and the
+                  percentage was calculated. The recoil ofthe MULTI-LINK VISION™
+                  Stent met the product specifications.
+
+                  Radial (Hoop) Strength:
+                  The radial (hoop) strength test was performed to determine the radial
+                  strength of the MULTI-LINK VISION™ Stent. The test is performed by
+                  applying and then releasing an incrementally increasing compressive force
+                  on the stent using a controlled instrument. The force deflection curve
+                  from the compression test is then transferred into a radial stress-strain
+                  curve to determine the radial strength. The radial strength of the MULTI­
+                  LINK VISION™ Stent met the product specifications.
+
+                  Accelerated Fatigue Testing:
+                  The structural integrity of the MULTI-LINK VISION™ Coronary Stent
+                  was evaluated utilizing in vitro accelerated fatigue testing and finite
+                  element analysis modeling. The fatigue test system simulated the arterial
+                  environment and the FEA modeling incorporated a conservative
+                  assumption on arterial contraction. The models for both the accelerated
+                  fatigue test and the finite element analysis are constructed by loading the
+                  internal and external boundaries of the stent based on in vivo blood
+                  pressure and arterial distensibility. In both cases, the stent performed well
+                  within product and material specifications. Specifically, the static and
+                  fatigue results on the MULTI-LINK VISION™ Coronary Stent structures,
+                  from in vitro fatigue testing and finite element modeling presented in this
+                  report demonstrate that the expanded stent will survive the ten-year fatigue
+                  loading as demonstrated by the Goodman Analysis of the FEA model and
+                  in vitro fatigue testing. The maximum stresses and strains of the expanded
+                  stent are below the ultimate tensile stress and fracture strain of the
+                  material, as demonstrated by the FEA model.
+
+                  Magnetic Resonance Imaging
+                  Passed Shellock Testing for MRI safety and was tested in accordance with
+                  U.S. FDA draft guidance February 7, 1997 "A Primer on Medical Device
+                  Interactions with Magnetic Resonance Imaging Systems." The results of
+                  the MRI safety tests for the cobalt chromium stent indicated the following:
+
+                  1. Magnetic field interactions will not present a hazard with respect to
+                     movement or dislodgment of these stents using MR systems operating
+                     at 1.5 Tesla or less;
+
+P020047                                                                                       9
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION™ RX & OTW CSS
+               2. RF energy-induced heating will not pose an increased risk to a patient
+                  with the cobalt chromium stent; and
+               3. Artifacts were characterized and may affect the diagnostic MR
+                  procedure if the area of interest is in the same area as one of the
+                  stents.
+
+               Based on these results, the MULTI-LINK VISION™ stents have been
+               shown to be MRI safe immediately following implantation at field
+               strengths of 1.5 testa or less, a maximum spatial gradient of 450 gauss/em,
+               gradient magnetic fields of 6.3 mT/m or less and a maximum whole body
+               averaged specific absorption rate (SAR) of 1.2 W/kg for 15 minutes of
+               MR imaging. MR imaging quality may be compromised if the area of
+               interest is in the exact same area or relatively close to the position of the
+               stent.
+
+               Stent and Delivery System Testing
+
+               Delivery System Profiles:
+               The delivery system profile test was performed to determine the crimped
+               stent outer diameter of the MULTI-LINK VISION™ CSS. The profiles of
+               the MULTI-LINK VISION™ CSS met the product specifications.
+
+               Delivery System Preparation Test:
+               The delivery system preparation test was performed to evaluate the ease of
+               preparing the MULTI-LINK VISION™ CSS using the double-negative
+               aspiration method with 60% contrast diluted 1: 1 with water. The double­
+               negative aspiration method adequately prepares the MULTI-LINK
+               VISION™ CSS.
+
+               Deflation Times Test:
+               The deflation times test was performed to determine the deflation times of
+               the MULTI-LINK VISION™ CSS. The delivery systems were inflated to
+               the rated burst pressure, deflated, and the deflation times were recorded.
+               The deflation times ofthe MULTI-LINK VISION™ CSS met the product
+               specifications.
+
+               Stent Movement Test:
+                  Stent movement testing was performed to determine the stent retention of
+                  the MULTI-LINK VISION™ CSS. Following receipt of a small number
+                  of complaints related to stent retention from customers in countries where
+                  the product was approved for marketing, and the implementation of
+                  modifications to the VISION™ CSS to address this issue, this test was
+                  revised to assure adequate stent retention. The modified test successfully
+                  differentiated between the unmodified and modified VISION™ systems.
+P020047                                                                                     10
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION™ RX & OTW CSS
+                  The performance of the modified VISION™ CSS was also compared to
+                  the performance ofthe PMA-approved MULTI-LINK ZETA™ CSS,
+                  which has an acceptably low rate of stent retention complaints and stent
+                  movement was shown to be comparable.
+
+                  In the modified test, the delivery system was inserted into a rotating
+                  hemostatic valve and guiding catheter, then through tortuosity and a
+                  simulated lesion. The delivery system was then retracted proximal to the
+                  distal tip of the guiding catheter. The last two steps were repeated for a
+                  specified number of times. At the end of the test, the system was removed
+                  from the guiding catheter and inspected for stent movement. The luminal
+                  (inner) diameter of the simulated lesion was established at a dimension at
+                  which failure of the unmodified VISION™ CSS occurred, but acceptable
+                  results were still demonstrated with the ZETATM CSS. The stent
+                  movement of the modified MULTI-LINK VISION™ CSS through the
+                  modified test met the product specifications. These results will be
+                  confirmed through a post approval monitoring program to evaluate stent
+                  retention complaints (see postapproval conditions in Section XIII).
+
+                  Guiding Catheter Pullback Test:
+                  The guiding catheter pullback test was performed to determine whether
+                  the MULTI-LINK VISION™ CSS can be successfully retracted back into
+                  a 5F guiding catheter prior to deployment of the stent. The delivery
+                  system was inserted into a rotating hemostatic valve and guiding catheter,
+                  until the distal tip was approximately 10 em distal of the guiding catheter
+                  tip. The delivery system tip was then retracted proximal to the distal tip of
+                  the guiding catheter. The last two steps were repeated for a specified
+                  number of times. At the end of the test, the system was removed from the
+                  guiding catheter and inspected for stent movement. The guiding catheter
+                  pullback of the MULTI-LINK VISION™ CSS met the product
+                  specification.
+
+                  Balloon Rupture and Stent Compliance Tests:
+                  The balloon rupture and stent compliance tests determined the balloon
+                  rupture pressure and the inflation pressure/stent diameter relationship of
+                  the MULTI-LINK VISION™ CSS. The delivery system was inflated
+                  incrementally until failure. The stent outer diameter was measured at each
+                  programmed pressure, and the correlation between the inflation pressure
+                  and stent inner diameter was determined by subtracting two times the
+                  average wall thickness from the stent outer diameter measurements.
+
+                  The data analysis indicates with 95% confidence that 99.9% of the
+                  MULTI-LINK VISION™ CSS balloons will not rupture at or below the
+                  rated burst pressure (RBP) of 235 psi (16 atm). The stent diameters did
+                  not significantly distend with increasing inflation pressures. The balloon
+P020047                                                                                      11
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION TM RX & OTW   css
+                  rupture pressures (rated burst pressures) and stent compliance of the
+                  MULTI-LINK VISION™ CSS met the product specifications.
+
+                  Inner Member Collapse Test:
+                  The inner member collapse test was performed to determine whether the
+                  inner member would sustain pressure before irreversibly collapsing. The
+                  delivery system was inflated to specified pressures, and then deflated
+                  between each inflation. Guide wire movement was inspected. The inner
+                  member collapse of the MULTI-LINK VISION™ CSS met the product
+                  specifications.
+
+                  Delivery System Shaft Pressure Test:
+                  The Delivery System shaft pressure test determined the pressure integrity
+                  ofthe shaft ofthe MULTI-LINK VISION™ CSS. The shafts were
+                  pressurized from 0 psi until failure. The pressure integrity of the shaft of
+                  the MULTI-LINK RX VISION™ CSS met the product specifications.
+
+                  Distal Delivery System Tensile Test:
+                  The distal Delivery System tensile test determined the tensile strength of
+                  the junction between the distal balloon seal and proximal portion of the
+                  delivery systems ofthe MULTI-LINK VISION™ CSS. Alljunctions
+                  were pulled until failure using an Instron. The distal Delivery System
+                  tensile test of the MULTI-LINK VISION™ CSS met the product
+                  specifications.
+
+                  Proximal Delivery System Tensile Test:
+                  The proximal Delivery System tensile test determined the tensile strength
+                  of the junction between the luer adaptor and hypotube-intermediate shaft
+                  junction ofthe MULTI-LINK VISION™ CSS. All junctions were pulled
+                  until failure using an Instron. The proximal Delivery System tensile test
+                  ofthe MULTI-LINK VISION™ CSS met the product specifications.
+
+                  Soft Tip Tensile Test:
+                  The soft tip tensile.test determined the tensile strength of the proximal and
+                  distal portions of the soft tip junction of the MULTI-LINK VISION™
+                  CSS. The junction was pulled until failure using an Instron. The soft tip
+                  tensile test ofthe MULTI-LINK VISION™ CSS met the product
+                  specifications.
+
+                  Delivery System In-Stent Balloon Fatigue Test:
+                  The delivery system in-stent balloon fatigue test was performed to
+                  determine whether the balloon will sustain repeated inflations inside the
+                  stent without failure. The delivery system was pressurized to expand the
+P020047                                                                                      12
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISIONTM RX & OTW css
+                  stent in Tecoflex tubing, and then deflated. A pressure tester was then
+                  used to perform subsequent inflations inside the stent. The delivery
+                  system in-stent fatigue ofthe MULTI-LINK VISION™ CSS met the
+                  product specifications.
+
+                  Delivery System Coating Friction Test
+                  This test determined the coefficient of friction of the hydrophilically
+                  coated portion of the MULTI-LINK VISION™ CSS. These results of this
+                  test are functionally acceptable and within the product specification.
+
+                  Delivery System Coating Dry Adhesion Test
+                  This test demonstrated the integrity of the hydrophilic coating of the
+                  MULTI-LINK VISION™ CSS. The testing determined the percent
+                  adhesion of the coating on the catheter test surface. The adhesion results
+                  are functionally acceptable and within the product specification.
+
+                  Delivery System Coating Particulate Test
+                  This test determined the number of coating particulates generated by the
+                  hydrophilically coated portion of the MULTI-LINK VISION™ CSS when
+                  the delivery system is pulled through a constriction. The mean particulate
+                  counts generated are acceptable and within the product specification.
+
+                  Shelf-Life (Aging) Testing:
+
+                  Samples ofthe MULTI-LINK RX VISION™ and MULTI-LINK OTW
+                  VISION™ CSS were subjected to accelerated aging and evaluated to
+                  ensure adherence to the product specification. The data collected to date
+                  ensures a product shelf life of three months for the MULTI-LINK RX
+                  VISION™ CSS. The shelf life will be extended for up to three years, as
+                  sufficient accelerated aging test data are collected, based on the same test
+                  protocols and acceptance criteria.
+
+                  Package Integrity Testing:
+
+                  The packaging validation testing was conducted through a three-year shelf
+                  life. The packaging configuration for the MULTI-LINK VISION™ RX
+                  and OTW CSS meets all relevant guidelines and current specifications for
+                  Guidant ACS packaging materials. The header bag used to package the
+                  MULTI-LINK RX and OTW ZETATM CSS exhibits acceptable integrity
+                  and maintains this functional ability throughout the current product shelf
+                  life of up to three-years.
+
+
+
+
+P020047                                                                                        13
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION™ RX & OTW CSS
+Animal Studies
+
+          Acute animal studies were conducted to evaluate the performance and safety of
+          the MULTI-LINK RX VISION™ CSS and MULTI-LINK OTW VISION™ CSS.
+          Device flexibility, pushability, trackability, stent security, stent strut apposition to
+          the vessel wall, stent symmetry following deployment, and vessel wall injury
+          were evaluated using quantitative coronary angiography. The MULTI-LINK RX
+          VISION™ CSS and MULTI-LINK OTW VISION™ CSS met the acceptance
+          criteria and are deemed to be acceptable for clinical use.
+
+          Two chronic animal studies were performed which independently evaluated the L-605
+          Cobalt Chromium (CoCr) alloy Stent. The chronic animal studies were successfully
+          performed.. The objective of the chronic animal studies was to demonstrate that the L­
+          605 CoCr alloy Stent is safe and that the vascular response ofthe L-605 CoCr alloy
+          stent is equivalent to stainless steel stents.
+
+          The summaries of the two chronic studies are included below:
+
+          Cobalt Chromium Alloy Animal Evaluation: Chronic Study 1
+
+          The objective of this study was to demonstrate an equivalent vascular response in
+          porcine coronary arteries between L-605 CoCr alloy stents as compared to 316L
+          SS stents. The only difference between the stent designs from L-605 CoCr alloy
+          and from 316L stainless steel was that the nominal strut thickness for the 316L
+          stainless steel stents was 0.0055 inches as compared to 0.0033 inches for the L­
+          605 CoCr alloy stents. These thicknesses represent the design thickness of the
+          stents, respectively. The stents were implanted for 28-day, three-month, and six­
+          month time periods. The L-605 CoCr alloy stent demonstrated an equivalent
+          vascular response to the Stainless Steel control stent and that it can be deployed
+          safely into coronary arteries.
+
+          MULTI-LINK VISION™ CSS Stent Design Animal Evaluation: Chronic Study 2
+
+          The objective of the second chronic study was to evaluate safety, functional
+          performance, and chronic vascular response to the final design of the MULTI­
+          LINK VISION™ Stent at a three-day and a 28-day timepoint. This study was
+          conducted in non-atherosclerotic mini-swine. The study evaluated the
+          angiographic patency and the physiological response of the vessel to the
+          implanted stent which included quantitative angiography and morphometric
+          analysis for the determination of arterial minimal lumen diameters and areas for
+          both the three-day and 28-day timepoints. Scanning electron microscopy to
+          ascertain stent endothelialization at one month was also performed. The results of
+          the study demonstrated that the MULTI-LINK VISION™ Stent can be deployed
+          safely into coronary arteries.
+
+
+P020047                                                                                         14
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISIQNTM RX & OTW CSS
+
+
+
+
+                                                                                                     l\
+VIII. Potential Adverse Effects of the Device on Health
+
+The VISION Registry was a multi-center, non-randomized, prospective study conducted
+to assess the safety and efficacy of the Guidant MULTI-LINK VISION™ RX Coronary
+Stent System in native de novo coronary artery lesions in 267 patients. The primary
+endpoint was target vessel failure (TVF) at 180 days defined as a composite of death, Q­
+Wave Myocardial Infarction (QMI), Non-Q-Wave Myocardial Infarction (Non-QMI),
+Target Site Revascularization (TSR) or Target Vessel Revascularization (TVR) by
+Coronary Artery Bypass Graft (CABG) or Percutaneous Coronary Intervention (PCI).
+Secondary endpoints of MACE and in-hospital TVF at 270 days were also evaluated.
+These results were compared to results of the 202 de novo lesion patients treated with the
+Guidant MULTI-LINK RX TETRATM Coronary Stent System in the TETRA Registry.
+
+A total of 297 Guidant MULTI-LINK VISION™ Coronary Stents were implanted in 267
+patients. For the 180-day time point, there were three (1.2%) deaths, two (0.8%) Q-Wave
+Mis, two (0.8%) Non Q-Wave Mis, 13 (5.0%) TSR by PCI, 0 (0.0%) TSR by CABG,
+one (0.4%) Subacute Thrombosis, three (1.2%) Cerebrovascular Accidents, six (2.3%)
+Serious Bleeding Events, and four ( 1.6%) Serious Vascular Events.
+
+There were two (0.8%) device malfunctions reported in the VISION Registry: inability to
+cross the lesion on the first attempt and inaccurate stent placement. These two device
+malfunctions did not result in adverse events. There was one stent delivery failure that
+resulted in the stent being lost in the peripheral system. The patient suffered no adverse
+events and a subsequent Guidant MULTI-LINK VISION™ Coronary Stent was
+successfully deployed.
+
+Table 1 summarizes the Principal Adverse Events of patients receiving the Guidant
+MULTI-LINK VISION™ RX Coronary Stent System at 180 and 270 days, along with
+those receiving the Guidant MULTI-LINK TETRATM Coronary Stent System at 180
+days.
+
+
+
+
+P020047                                                                                 15
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISIQNTM RX & OlW CSS
+
+
+
+
+                                                                                             Zl
+      Table 1: VISION Registry- Principal Adverse Events Through 180 & 270 Days
+                                       percent [95%o con fid
+                                                          1 ence mterva I]( num ber )
+                              180-Day Comparison- de novo Registries                                         270-Day Data
+
+                                          MULTI-LINK                     MULTI-LINK                     MULTI-LINK VISION
+                                            VISION                         TETRA
+ Complication                                  (N = 267) 1                    (N =202)                           (N = 267) 1
+ Any Adverse Event                      13.2% [93%, 17.9%] (34)      20.9% [15.4%, 273%] (41)            20.5% [15.7%, 25 9%] (53)
+     Early (In-Hospital)                5.0% [2.7%, 8.5%] (13)       7.9% [4 6%, 12.5%] (16)             5.0% [2.7%, 8.4%] (13)
+     Out-of-Hospital                    8.5% [5.4%, 12.6%] (22)      12.8% [8.4%, 183%] (25)             15.8% [I 16%, 20 9%] (41)
+
+     Death Total                        1.2% [0.2%, 3.4%] (3)        0.5% [0 0%, 2.8%] (I)               1.2% [02%, 3 3%] (3)
+     Early (In-Hospital)                0.4% [0.0%, 2.1%] (I)        0% [0.0%, 1.8%] (0)                 0.4% [0.0%, 2.1%] (I)
+     Out-of-Hospital                    0.8% [0.1%, 2.8%] (2)        0.5% [0.0%, 2.8%] (I)               0.8% [0.1%, 2.8%] (2)
+
+ QM!Total                               0.8% [0.1 %, 2.8%] (2)       0% [0.0%, 1.9%] (0)                 0.8% [0.1 %, 2.8%] (2)
+     Early (In-Hospital)                0.4% [0.0%, 2.1%] (I)        0% [0.0%, 1.8%] (0)                 0.4% [0.0%, 2.1%] (I)
+     Out-of-Hospital                    0.4% [0.0%, 2.1%] (I)        0% [0.0%, 19%] (0)                  0.4% [0.0%, 2.1%] (I)
+
+     Non-Q MI Total                     0.8% [0.1 %, 2.8%] (2)       2.6% [0 8%, 5.9%] (5)               0.8% [0.1 %, 2.8%] (2)
+     Early (In-Hospital)                0.8% [0.1 %, 2.8%] (2)       2.0% [0 5%, 50%] (4)                0.8% [0.1 %, 2.8%] (2)
+     Out-of-Hospital                    0% [0 0%, 1.4%] (0)          0.5% [0.0%, 2.8%] (I)               0% [0.0%, 1.4%] (0)
+
+     TSR CABG Total                     0% [0.0%, 1.4%] (0)          1.0% [0.1 %, 3.6%] (2)              0.4% [0.0%, 2.1%] (I)
+     Early (In-Hospital)                0% [0.0%, 1.4%] (0)          0% [0.0%, 1.8%] (0)                 0% [0.0%, 1.4%] (0)
+     Out-of-Hospital                    0% [0.0%, 1.4%] (0)          1.0% [0 I%, 3 6%] (2)               0.4% [0.0%, 2.1%] (I)
+
+     TSR PC! Total                      5.0% [2.7%, 8.5%] (13)       8.7% [5.1%, 13.5%] (17)             ll.2% [7.6%, 15.7%] (29)
+     Early (In-Hospital)                0.8% [0.1%, 2.8%] (2)        0% [0.0%, 18%] (0)                  0.8% [0.1%, 2.8%] (2)
+     Out-of-Hospital                    4.7% [2.4%, 8.0%] (12)       8.7% [5.1%, 13.5%] (17)             10.8% [7.3%, 15.2%] (28)
+
+     *SAT Total                         0.4% [0.0%, 2.1%] (l)        0% [0.0%, 19%] (0)                  0.4% [0.0%, 2.1%] (I)
+     Early (In-Hospital)                0.4% [0.0%, 2.1%] (I)        0% [0.0%, 1.8%] (0)                 0.4% [0.0%, 2.1%] (I)
+     Out-of-Hospital                    0% [0.0%, 1.4%] (0)          0% [0.0%, 1.9%] (0)                 0% [0.0%, 1.4%] (0)
+
+     *Cerebrovascular Accident Total    1.2% [0.2%, 3.4%] (3)        0.5% [0.0%, 2.8%] (I)               1.2% [0.2%, 33%] (3)
+     Early (In-Hospital)                0.4% [0.0%, 2.1%] (I)        0% [0.0%, 1.8%] (0)                 0.4% [0.0%, 2.1%] (I)
+     Out-of-Hospital                    0.8% [0.1%, 2.8%] (2)        0.5% [0 0%, 2 8%] (I)               0.8% [0.1 %, 2.8%] (2)
+
+     *Bleeding Complications Total      2.3% [0.9%, 5.0%] (6)        3.1% [I 1%, 65%] (6)                2.7% [1.1 %, 5 5%] (7)
+     Early (In-Hospital)                0.8% [0.1 %, 2.8%] (2)       3.0% [11%, 6.4%] (6)                0.8% [0.1 %, 2 8%] (2)
+     Out-of-Hospital                    1.6% [0.4%, 3.9%] (4)        0% [0.0%, 1.9%] (0)                 1.9% [0.6%, 4.4%] (5)
+
+     *Vascular Complications Total      1.6% [0.4%, 3.9%] (4)        4.6% [21%, 85%] (9)                 1.9% [0.6%, 4.4%] (5)
+     Early (In-Hospital)                1.2% [0.2%, 3.4%] (3)        3.0% [11%, 6.4%] (6)                1.2% [0.2%, 33%] (3)
+     Out-of-Hospital                    0.4% [0.0%, 2.1%] (I)        1.5% [OJ%, 4.4%] (3)                0.8% [01%, 2.8%] (2)
+
+     Stent Delivery Failure             0.4% [0.0%, 2.1%] (I)        0.5% [0 0%, 2 7%] (I)               0.4% [0.0%, 2.1%] (I)
+
+
+ '268 patients enrolled but patient 306-4002 is excluded due to VISION stent being implanted in SVG, son= 267.
+ •    *Secondary endpoints were analyzed on per protocol evaluable patients. There were n = 258 patients available at
+      the 180 day flu time point and there were n = 259 patients available at the 270 day flu time point.
+ •       ANY Adverse event includes death, Q-Wave MI, Non-Q-Wave MI, TSR CABG, TSR PC!, SAT,
+         cerebrovascular accident, serious bleeding event, and serious vascular event.
+ •       Early (In-Hospital) refers to events during the hospitalization for stent placement. If the patient had a prolonged
+         hospitalization, in-hospitalization was considered to be less than or equal to 7 days post-procedure.
+ •       In cases where a patient experienced both an in-hospital and an out-of-hospital event, they are counted once in
+         each group, however they are counted only once in the total patients for that category. Hence, the sum of the in­
+         hospital and out-of hospital rate may not equal the total rate.
+ •       See Table 5 Footnotes for additional VISION Registry definitions.
+
+P020047                                                                                                                    16
+Summary of Safety and Effectiveness Data (SSED)
+MULTl-LINK VISIONn• RX & OTW CSS
+
+
+
+
+                                                                                                                                     l)
+          Adverse events that may be associated with the use of a coronary stent in native coronary
+          arteries include:
+
+                  Acute myocardial infarction
+                  Arrhythmias, including VF and VT
+                  Death
+                  Dissection
+                  Drug reactions to anti-platelet agents I contrast medium
+                  Emboli, distal (air, tissue or thrombotic emboli)
+                  Emergent Coronary Artery Bypass Surgery
+                  Hemorrhage, requiring transfusion
+                  Hypotension I Hypertension
+          •       Infection and pain at insertion site
+          •       Ischemia, Myocardial
+          •       Perforation
+                  Pseudoaneurysm, Femoral
+                  Restenosis of stented segment
+                  Spasm
+                  Stent embolization
+          •       Stent thrombosis I occlusion
+          •       Stroke I cerebrovascular accident
+                  Total occlusion of coronary artery
+
+
+IX.       Summary of Clinical Studies
+
+Background: Studies conducted on the use of 316L Stainless Steel Multi-Link CSSs to
+support use of those systems in patients with SVGs and in patients undergoing an AMI
+were also reviewed in support of this product. Both indications were accepted as
+appropriate for the VISION™ CSS as well. For more information on those studies, see
+the Summary of Safety Effectiveness Data for P970020/S40 (if14¢rtw~blink). A separate
+study of the Multi-Link VISION™ CSS was conducted as described below.
+
+Title of Study: A Non-Randomized Evaluation Of The Multi-Link Rx Vision™
+Coronary Stent System In The Treatment Of Patients With De Novo Native Coronary
+Artery Lesions
+
+Purpose: To assess the safety and efficacy ofthe Guidant MULTI-LINK VISION™ RX
+Coronary Stent System in reducing target vessel failure in de novo native coronary artery
+lesions.
+P020047                                                                                          17
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION™ RX & OTW CSS
+Conclusions: In selected patients, the VISION Registry demonstrated the 180-day and
+270-day safety and efficacy of this stent for the treatment of patients with de novo lesions
+in native coronary arteries.
+
+Design: A prospective, non-randomized, multi-center, global ( 18 North American, 1
+European and 3 Asia-Pacific sites), consecutive enrollment study. Patients were at least
+18 years of age, with angina or a positive functional study, undergoing elective, single de
+novo lesion treatment in a native coronary artery. Patients were required to have a target
+vessel with the following coronary angiographic features: major coronary artery or major
+branch with a visually estimated stenosis of 2: 50% and < 100%, a reference diameter
+visually estimated to be 2: 3.0 mm and::; 4.0 mm, and a lesion length visually estimated to
+be::; 25 mm.
+
+The primary endpoint for the VISION Registry was target vessel failure (TVF) at 180
+days, defined as a composite of death, Q-Wave MI, Non-Q-Wave MI, TSR, or TVR by
+CABG or PCI. The primary endpoint was analyzed on an intent-to-treat basis defined as
+patients who had the investigational device introduced into the body (stent system
+advanced through distal end of the guiding catheter). Secondary endpoints, including but
+not limited to angiographic in-stent binary restenosis, TVF and MACE at 270 days, were
+analyzed on a per-protocol evaluable basis defined as patients who had successful
+procedures and were available for follow-up.
+
+All patients received the hospital's standard anti-coagulant and anti-platelet regimen for
+coronary stent implantation. The ACT was monitored and recorded on source
+documentation during the procedure. The ACT was kept at a therapeutic level for
+percutaneous coronary interventions per the hospital standard.
+
+Demography: The total population consisted of 268 patients, but analysis was performed
+on 267 patients because one patient had the Guidant MULTI-LINK VISION™ Coronary
+Stent implanted in an SVG. Baseline characteristics for the VISION Registry indicated
+68.2% were male and ranged in age from 37 to 91 years with an average age of 63.6 ±
+10.7 (mean± SD), 23.2% had diabetes requiring medication, 61.4% had hypertension
+requiring medication, 23.6% were current smokers, and 63.7% had hyperlipidemia
+requiring medication. From a clinical perspective, the patient demographics were similar
+between the VISION and TETRA Registries.
+
+Methods: Eligible patients underwent standard balloon angioplasty after which a
+MULTI-LINK RX VISION™ CSS of appropriate size was advanced and deployed at
+pressures 2:9 and::; 16 atmospheres (atm). MULTI-LINK VISION™ Stents were
+available in diameters of3.0 mm, 3.5 mm and 4.0 mm and lengths of8 mm, 12 mm, 15
+mm, 18 mm, 23 mm and 28 mm. Stents were deployed slowly in 2 atm increments every
+5 seconds until fully expanded. Pressure was maintained for 30 seconds. To attain
+optimal stent apposition, the MULTI-LINK RX VISION™ CSS balloon could be re­
+inflated up to 16 atm. Optimal stent expansion was defined as the attainment of a balloon
+
+P020047                                                                                      18
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION TM RX & OTW css
+to artery ratio of 1.0-1.1: 1.0. The fully deployed stent was not to exceed the reference
+vessel diameter by more than 10%.
+
+Clinical or telephone follow-up was collected in-hospital and at 14, 30, 180, 270 and 365
+days. 80.9% (216/267) of VISION Registry patients underwent angiographic follow-up at
+the 180-day clinical visit. Guidant personnel performed data monitoring. The
+angiographic core lab adjudicated revascularizations by PCI. An independent Clinical
+Events Committee adjudicated all other primary endpoints.
+
+Results: In the VISION Registry, the 180-day and 270-day TVF rates were 6.7% and
+14.7% (respectively); in the TETRA Registry, the 180-day TVF rate was 12.8%. The
+representative sample of patients from the VISION Registry followed clinically for up to
+9 months (270 days) demonstrates that the clinical outcomes achieved with the MULTI­
+LINK VISION™ CSS are similar to those observed at 180 days in the TETRA Registry.
+No unanticipated events that might affect the risk analysis were noted in the VISION
+Registry. Adverse event rates are presented in Table 2.
+
+Table 2 compares the principal effectiveness and safety results of patients treated in the
+VISION Registry at 180 and 270 days to those treated in the TETRA Registry at 180
+days.
+
+  Table 2: VISION Registry- Principal Effectiveness and Safety Results Through 180 and
+                                          270 Days
+   percent [95% confidence interval] (number/denominator), or mean± SD {range} (number)
+
+                                VISION Stent- 180 Days        TETRA Stent- 180 Days        VISION Stent- 270 Days
+                                        (n = 267)   1                 (n = 202)                    (n = 267) 1
+
+   Effectiveness Measures
+   Device Success by QCA          100% [98.6%, 100.0%)         99.5% [97.3%, 100.0%)         100% [98.6%,100.0%)
+                                        (267/267)                      (201/202)                  (267/267)
+   Procedure Success by QCA       98.9% [96.8%, 99.8%)          97.5% [94.3%, 99.2%)         98.9% [96.8%, 99.8%)
+                                        (264/267)                      (197/202)                  {264/267)
+   Binary Restenosis Rate         15.7% [11.2%, 21.3%)          23.6% [17.5%, 30.6%)                 N/A
+                                         (34/216)                       (411174)
+   Post-Procedure In-Stent          4.9% ± 9.2% (266)             5.7% ± 8.4% (201)
+   %DS                               {-20.1%, 31.9%}               {-43.1%, 28.9%}                    N/A
+                               [3.8%, 6.0%]                          [4.6%, 6.9%)
+   Follow-up In-Stent %DS          29.2% ± 19.2% (216)          34.6%± 22.7% (173)
+                                      {-7.4%, 100%}               (-9.2%, 98.0%}                      N/A
+                                      [26.6%, 31.8%]              [31.2%, 38.0%]
+   Safety Measures
+   In-Hospital MACE Rate        1.5% [0.4%, 3.8%1 (4/267)     2.0% [0.5%, 5.0%1 (4/202)     1.5% [0.4%, 3.8%] (4/267)
+   Out-of-hospital MACE Rate   5.0% [2.7%, 8.5%1 (13/258)    10.2% [6.3%, 15.3%1 (20/196) 11.6% [8.0%, 16.1%] (30/259)
+   MACE Rate                   6.2% [3.6%, 9.9%1 (16/258)    12.2% [8.0%, 17.7%1 (24/196) 12.7% [8.9%, 17.4%] (33/259)
+   TVF Rate                    6.7% [4.0%, 10.4%] (18/267)   12.8% [8.4%, 18.3%] (25/196)     14.7% (10.6%, 19.6%]
+                                                                                                     (38/259)
+   Survival                    98.8% [96.6%,                    99.5% [97.2%, 100.0%)         98.8% [96.7%, 99.8%)
+                                                                       (195/196)                    (256/259)
+                               99.8%] (255/258)
+   TVF Free (KM)                          92.9%                        86.4%                         85.5%
+
+P020047                                                                                                     19
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISION™ RX & OTW CSS
+
+
+
+
+                                                                                                                     26
+     Target Site
+     Revascularization Free                     94.8%                           88.5%                            88.4%
+     (KM)
+     Target Vessel
+     Revascularization (not at                  98.4%                            N/A                             97.3%
+     Target Site) Free (KM)
+     Subacute Thrombosis *            0.4% [0.0%, 21 o/o] ( 1/258)     0% [0.0%, 1.9%] (01196)         0.4% [0.0%, 2.1 %] ( 1/259)
+     Bleeding Complications           2.3% [0.9%, 5.0%] (6/258)       3.1% [1.1 %, 6.5%] (6/196)       2.7% [1.1%, 5.5%] (7/259)
+     Vascular Complications           1.6% [0.4%, 3.9%] (4/258)       4.6% [2.1 %, 8.5%1 (9/196)       1.9% [0.6%, 4.4%1 (5/259)
+     Hospitalization Post­            1.3 ± 1.0 {0, 10} [1.2, 1.4]     1.3 ± 0.8 {0, 6}[1.2, 1.4]      1.3 ± 1.0 {0, 10} [1.2, 1.4]
+     Intervention (days)                         (267)                           (201)                            (267)
+
+     •   ' 268 patients enrolled but one patient is excluded because the VISION stent was implanted in an SVG, so n =
+         267.
+     •   Primary endpoint (180-day TVF) was analyzed on an intent-to-treat basis, n = 267.
+     •    180-day clinical data was available on 258 patients for the VISION Registry and 196 patients for the TETRA
+         Registry.
+     •    180-day angiographic data was available on 216 patients for the VISION Registry and 174 patients for the
+         TETRA Registry.
+     •   Secondary endpoints were analyzed on per protocol evaluable patients. There were n = 258 patients available at
+         the 180 day flu time point and there were n = 259 patients available at the 270 day flu time point.
+     •   KM = Kaplan-Meier.
+     * Subacute Thrombosis is based on 30 days.
+VISION Registry Definitions
+ •       QCA- Quantitative Coronary Angiography.
+ •       Device Success - Attainment of final result of< 50% residual stenosis of the target site using the designated
+         treatment device.
+ •       Procedure Success -Attainment of final result of< 50% residual stenosis of the target site using the designated
+         treatment device and any other adjunctive device, including additional stents, without death, emergent bypass
+         surgery, or Q-Wave or Non-Q- Wave MI post procedure prior to hospital discharge.
+ •       Binary restenosis - ~ 50% by QCA.
+ •       % DS - Percent diameter stenosis by QCA.
+ •       In-Hospital MACE- Any MACE occurring prior to hospital discharge.
+ •       Out-of-Hospital MACE - Any MACE occurring from hospital discharge through 180-day clinical follow-up.
+ •       Major Adverse Cardiac Event (MACE)- The composite of death, Q- Wave MI, Non-Q-Wave MI and Target
+         Site Revascularization (TSR) by Coronary Artery Bypass Surgery (CABG) or Percutaneous Coronary
+         Intervention (PCI).
+ •       Target Vessel Failure (TVF)- The composite of death, Q-Wave MI, Non-Q-Wave MI, Target Site
+         Revascularization (TSR) or Target Vessel Revascularization (TVR) by Coronary Artery Bypass Graft Surgery
+         (CABG) or Percutaneous Coronary Intervention (PCI).
+ •       Target Site Revascularization (TSR)- Repeat Percutaneous Coronary Intervention (PC!) or Coronary Artery
+         Bypass Graft (CABG) surgery.
+ •       Subacute Thrombosis (SAT) -Any cardiac death < 30 days. Any subacute (outside of cath lab) closure
+         requiring revascularization of the target site< 30 days with presence of thrombus at the target site, any total
+         closure indicated by Quantitative Coronary Angiography (QCA) < 30 days.
+ •       Bleeding Complication- Blood loss necessitating a transfusion.
+ •       Vascular Complication- Any hematoma> 5 em, arteriovenous fistula, pseudoaneurysm, retroperitoneal bleed,
+         peripheral nerve disorder or surgical repair.
+ •       Q-Wave Myocardial Infarction (QMI)- The development of new abnormal Q-Waves not present on the
+         patient's baseline ECG- through blinded evaluation by the ECG Core Laboratory- in association with CK
+         enzyme elevation of three times upper normal limit and presence of CK-MB.
+ •       Non Q-Wave Myocardial Infraction (Non QMI)- CK enzyme elevations by more than three time the upper
+         limit of normal and presence ofCK-MB.
+ •       CABG- Coronary Artery Bypass Graft surgery.
+         PCI- Percutaneous Coronary Intervention.
+         Cerebrovascular Accident (CVA) -Acute, new neurologic deficit lasting> 24 hours affecting daily activities,
+         or resulting in death, classified by a physician as a stroke.
+ •       Stent Delivery Failure- Inability to deliver the stent to the intended target lesion.
+
+P020047
+Summary of Safety and Effectiveness Data (SSED)
+                                                                                                                       20
+MULTI-LINK VISIONT" RX & OTW CSS
+
+
+
+
+                                                                                                                                 Zl
+X.        Conclusions Drawn from the Studies
+
+          The safety and effectiveness ofthe MULTI-LINK VISION™ RX & OTW CSS
+          covered in this submission is based on the results obtained from biocompatibility,
+          sterilization, in vitro bench testing, in vivo animal testing, and clinical testing.
+          These test results reveal the following:
+
+(1)       Biocompatibility Testing:
+
+          The biocompatibility testing that was conducted on the MULTI-LINK RX
+          VISION™ CSS and MULTI-LINK OTW VISION™ CSS demonstrated that both
+          devices are acceptable for long-term (implant, circulating blood) invasive use in
+          the cardiovascular system.
+
+(2)       Sterilization Testing:
+
+          The test results obtained from the sterilization testing demonstrate that the
+          MULTI-LINK RX VISION™ and MULTI-LINK OTW VISION™ CSS can be
+          sterilized to achieve dosing values within the 25 kGy minimum sterilization dose
+          and the 50 kGy maximum qualification dose at SteriGenics International, Inc.,
+          AEA Technology, EBIS Limited Sterilization Services, and Guidant ACS and are
+          acceptable for clinical use.
+
+(3)       In Vitro Bench Testing:
+
+          The in vitro bench testing conducted on the MULTI-LINK RX VISION™ CSS
+          and MULTI-LINK OTW VISION™ CSS demonstrated that the performance
+          characteristics of both devices met the product specifications and are safe and
+          acceptable for clinical use.
+
+(4)       In Vivo Animal Testing:
+
+          The in vivo animal testing that was conducted on the MULTI-LINK RX
+          VISION™ CSS and MULTI-LINK OTW VISION™ CSS demonstrated that the
+          acute and chronic in vivo performance characteristics ofboth devices are safe and
+          acceptable for clinical use.
+
+(5)       Clinical Testing:
+
+          The clinical testing conducted on the MULTI-LINK RX VISION™ CSS
+          demonstrated that the performance characteristics of the device are safe and
+          acceptable for clinical use.
+
+
+
+
+P020047                                                                                     21
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISIOWM RX & OTW CSS
+XI.       Panel Recommendation
+
+In accordance with the provisions of section 515(c)(2) of the act as amended by the Safe
+Medical Devices Act of 1990, this PMA was not referred to the Circulatory Systems
+Devices Panel, an FDA advisory committee, for review and recommendation because the
+information in the PMA substantially duplicates information previously reviewed by this
+panel.
+
+
+XII.      CDRH Decision
+
+The applicant's manufacturing facilities were inspected and found to be in compliance
+with the Quality System Regulation (21 CFR 820). FDA issued an approval order on
+July 16, 2003.
+
+
+XIII. Approval Specifications
+
+Directions for use: See the labeling.
+
+Hazards to Health from Use ofthe Device: See Indications, Contraindications, Warnings,
+Precautions and Adverse Events in the labeling.
+
+Postapproval Requirements and Restrictions: See approval order.
+
+
+
+
+P020047                                                                                    22
+Summary of Safety and Effectiveness Data (SSED)
+MULTI-LINK VISIONTM RX & OTW CSS
+

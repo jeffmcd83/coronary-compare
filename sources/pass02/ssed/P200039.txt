@@ -1,0 +1,2202 @@
+         SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+
+I.     GENERAL INFORMATION
+
+        Device Generic Name:                         Intravascular Lithotripsy System
+
+        Device Trade Name:                           Shockwave Intravascular Lithotripsy (IVL)
+                                                     System with Shockwave C2 Coronary
+                                                     Intravascular Lithotripsy (IVL) Catheter
+
+        Device Procode:                              QMG
+
+        Applicant’s Name and Address:                Shockwave Medical, Inc.
+                                                     5403 Betsy Ross Drive
+                                                     Santa Clara, CA, USA
+        Date(s) of Panel Recommendation:             None
+
+        Premarket Approval Application (PMA)
+        Number:                                      P200039
+
+        Date of FDA Notice of Approval:              February 12, 2021
+
+        Breakthrough Device:                         Granted breakthrough device status on August
+                                                     19, 2019 because the device and the proposed
+                                                     indication for use meet the criteria to be granted
+                                                     designation as a Breakthrough Device.
+
+
+II.    INDICATIONS FOR USE
+
+       The Shockwave Intravascular Lithotripsy (IVL) System with Shockwave C2 Coronary IVL
+       Catheter is indicated for lithotripsy-enabled, low-pressure balloon dilatation of severely
+       calcified, stenotic de novo coronary arteries prior to stenting.
+
+III.   CONTRAINDICATIONS
+
+       Shockwave Intravascular Lithotripsy (IVL) System with Shockwave C2 Coronary IVL
+       Catheter is contraindicated for the following:
+
+           x   This device is not intended for stent delivery.
+           x   This device is not intended for use in carotid or cerebrovascular arteries.
+
+IV.    WARNINGS AND PRECAUTIONS
+
+       The warnings and precautions can be found in the Shockwave Intravascular Lithotripsy
+       (IVL) System with Shockwave C2 Coronary IVL Catheter labeling.
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                               Page 1 of 45
+V.    DEVICE DESCRIPTION
+
+      The Shockwave Intravascular Lithotripsy (IVL) System consists of the Shockwave C2
+      Coronary IVL Catheter, the IVL Generator, the IVL Connector Cable, and its accessories.
+      The Shockwave C2 Coronary IVL Catheter is used exclusively with these other components.
+      The IVL Connector Cable is a remote actuator which connects the IVL Generator to the IVL
+      Catheter and is used to activate the lithotripsy therapy from the IVL Generator. Figure 1
+      shows the Shockwave IVL System that includes the Shockwave C2 IVL Catheter, IVL
+      Generator and IVL Connector Cable.
+
+
+
+
+           Figure 1: Shockwave IVL System with the Shockwave C2 Coronary IVL Catheter
+
+      These system components are described in detail below.
+
+      A. Shockwave C2 Coronary IVL Catheter
+
+         The Shockwave C2 Coronary IVL Catheter is a proprietary lithotripsy device delivered
+         through the coronary arterial system of the heart to the site of an otherwise difficult to
+         treat calcified stenosis, including calcified stenoses that are anticipated to exhibit
+         resistance to full balloon dilatation or subsequent uniform coronary stent expansion. The
+         IVL Catheter contains integrated lithotripsy emitters for the localized delivery of acoustic
+         pressure pulse therapy. The lithotripsy technology generates acoustic pressure pulses
+         within the target treatment site, disrupting calcium within the lesion allowing subsequent
+         dilatation of a coronary artery stenosis using low balloon pressure. The system consists
+         of the IVL Catheter, IVL Connector Cable and IVL Generator. The Shockwave C2
+         Coronary IVL Catheter is available in four (4) sizes: 2.5x12mm, 3.0x12mm, 3.5x12mm,
+         and 4.0x12mm. The Shockwave C2 Coronary IVL Catheter is compatible with a 6F
+         guiding catheter and extensions, has a working length of 138cm, and shaft depth markers
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                           Page 2 of 45
+         at the proximal end. The catheter is coated with hydrophilic coating up to 22.75 cm from
+         the distal tip to reduce friction during device delivery.
+
+                   Refer to Figure 2 below for Shockwave C2 Coronary IVL Catheter components.
+
+                                                        Dual Port Hub          IVL Connector
+         Balloon      RX Port        Catheter Shaft
+
+
+
+
+                           Figure 2: Shockwave C2 Coronary IVL Catheter
+
+         The catheter shaft contains an inflation lumen, a guidewire lumen, and the lithotripsy
+         emitters. The inflation lumen is used for inflation and deflation of the balloon with 50/50
+         saline/contrast medium. The guidewire lumen enables the use of a 0.014” guidewire to
+         facilitate advancement of the catheter to and through the target stenosis. The system is
+         designed as “Rapid Exchange” (Rx), so a 190cm - 300cm length guidewire is indicated.
+         The emitters are positioned along the length of the balloon working length for delivery of
+         lithotripsy therapy. The balloon is located near the distal tip of the catheter. Two (2)
+         radiopaque marker bands within the balloon denote the working length of the balloon to
+         aid in positioning of the balloon during treatment. The balloon is designed to provide an
+         expandable segment of known length and diameter at a specific pressure. The proximal
+         hub has two (2) ports: one for inflation/deflation of the balloon, and one for the
+         connection to the IVL Connector Cable.
+
+         The Shockwave C2 Coronary IVL Catheter is supplied sterile via e-beam sterilization. It
+         is intended for single use only and is not intended for reuse or re-sterilization.
+
+      B. IVL Generator and IVL Connector Cable
+
+         The IVL Generator and Connector Cable are used with a Shockwave Medical IVL
+         Catheter to deliver localized, lithotripsy-enhanced, dilatation of severely calcified,
+         stenotic arteries. The IVL Generator, IVL Connector Cable, and IVL Catheters are
+         designed to communicate during catheter preparation and patient treatment. This feature
+         allows automatic setting of pulse parameters unique to each catheter type such as catheter
+         pulse life.
+
+         The Shockwave Medical IVL Generator and IVL Connector Cable are intended for use
+         with Shockwave Medical IVL Catheters only.
+
+         The IVL Generator is provided non-sterile and is reusable. The IVL Generator is shipped
+         with the following items:
+
+              x    IV Pole mounts for IVL Generator and Charger
+              x    Charger Module
+              x    IVL Connector Cable
+              x    AC Mains Cable
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                           Page 3 of 45
+             x   Operator’s Manual
+
+         The product is provided as an assembly including the IVL Generator, IVL Pole Mount,
+         and Charger, as shown in Figure 3 below.
+
+
+
+
+                  Figure 3: IVL Generator (mounted on IV Pole, not supplied)
+
+         The IVL Generator is supplied with a non-sterile and reusable IVL Connector Cable.
+         The IVL Connector Cable is used with any appropriately sized sterile sleeve.
+
+         The IVL Connector Cable is a remote actuator that connects the IVL Generator to the
+         Shockwave C2 Coronary IVL Catheter and is used to activate lithotripsy energy from the
+         IVL Generator to the balloon. The IVL Connector Cable is shown below in Figure 4.
+
+
+
+
+                                  Figure 4: IVL Connector Cable
+
+VI.   ALTERNATIVE PRACTICES AND PROCEDURES
+
+      There are several other alternatives for vessel preparation of calcified lesions prior to
+      coronary stent implantation, including rotational or orbital atherectomy, high pressure
+      balloon angioplasty, and cutting or scoring balloon angioplasty. Each alternative has its own
+      advantages and disadvantages. Patients should fully discuss these alternatives with his/her
+      physician to select the method that best meets expectations and lifestyle.
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                          Page 4 of 45
+VII.   MARKETING HISTORY
+
+       The Shockwave IVL System with the original Shockwave C2 Coronary IVL Catheter is
+       available for commercial distribution in the countries listed in Table 1. The modified
+       Shockwave C2 Coronary IVL Catheter studied under IDE G180146, which has a slight
+       increase in the balloon double wall thickness, is not marketed for commercial distribution in
+       any geography to date. The Shockwave Intravascular Lithotripsy (IVL) System with
+       Shockwave C2 Coronary IVL Catheter has not been withdrawn from any country for reasons
+       relating to device safety and effectiveness.
+
+           Table 1: Commercial Availability of the Shockwave IVL System with
+                    Shockwave C2 Coronary IVL Catheter
+                  Bahrain         Israel                           Qatar
+                  Chile           Kingdom of Saudi Arabia (KSA) Serbia
+                  European Union Lebanon                           South Africa
+                  Hong Kong       New Zealand                      Turkey
+                  India           Oman                             UAE
+
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+       Below is a list of the potential adverse effects (e.g., complications) associated with the use of
+       the device.
+       •   Abrupt vessel closure
+       •   Allergic reaction to contrast medium, anticoagulant and/or antithrombotic therapy
+       •   Aneurysm
+       •   Arrhythmia
+       •   Arteriovenous fistula
+       •   Bleeding complications
+       •   Cardiac tamponade or pericardial effusion
+       •   Cardiopulmonary arrest
+       •   Cerebrovascular accident (CVA)
+       •   Coronary artery/vessel occlusion, perforation, rupture or dissection
+       •   Coronary artery spasm
+       •   Death
+       •   Emboli (air, tissue, thrombus or atherosclerotic emboli)
+       •   Emergency or non-emergency coronary artery bypass surgery
+       •   Emergency or non-emergency percutaneous coronary intervention
+       •   Entry site complications
+       •   Fracture of the guide wire or failure/malfunction of any component of the device that
+           may or may not lead to device embolism, dissection, serious injury or surgical
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                              Page 5 of 45
+          intervention
+      •   Hematoma at the vascular access site(s)
+      •   Hemorrhage
+      •   Hypertension/ Hypotension
+      •   Infection/sepsis/fever
+      •   Myocardial Infarction
+      •   Myocardial Ischemia or unstable angina
+      •   Pain
+      •   Peripheral Ischemia
+      •   Pseudoaneurysm
+      •   Renal failure/insufficiency
+      •   Restenosis of the treated coronary artery leading to revascularization
+      •   Shock/pulmonary edema
+      •   Slow flow, no reflow, or abrupt closure of coronary artery
+      •   Stroke
+      •   Thrombus
+      •   Vessel closure, abrupt
+      •   Vessel injury requiring surgical repair
+      •   Vessel dissection, perforation, rupture, or spasm
+
+      In addition, patients may be exposed to other risks associated with coronary interventional
+      procedures, including risks from conscious sedation and local anesthetic, the radiographic
+      contrast agents used during angiography, the drugs given to manage the subject during the
+      procedure, and the radiation exposure from fluoroscopy.
+
+      Risks identified as related to the device and its use:
+
+      •   Allergic/immunologic reaction to the catheter material(s) or coating
+      •   Device malfunction, failure, or balloon loss of pressure leading to device embolism,
+          dissection, serious injury or surgical intervention
+      •   Atrial or ventricular extrasystole
+      •   Atrial or ventricular capture
+
+      These risks are similar to other commercially available devices with similar indications for
+      use and are reported in the published literature.
+
+      For specific adverse events that occurred in the clinical study, please see Section X below.
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                           Page 6 of 45
+IX.   SUMMARY OF NONCLINICAL STUDIES
+
+      A. Laboratory Studies
+
+         1. Biocompatibility
+
+             Biocompatibility of the Shockwave IVL System materials was evaluated based on
+             device contact and duration in accordance with ISO 10993-1 and FDA Guidance, Use
+             of International Standard ISO 10993-1, “Biological Evaluation of Medical Devices
+             Part 1: Evaluation and testing within a risk management process,” Attachment A,
+             (guidance issued June 16, 2016). The IVL Generator and IVL Connector Cable are
+             non-patient contacting and provided non-sterile; therefore, biocompatibility testing
+             was not required for these components.
+
+             The Shockwave C2 Coronary IVL Catheter is classified as an externally
+             communicating blood contact limited exposure device (<24 hours). A summary of the
+             required biocompatibility testing for the device and results can be found in Table 2.
+
+                          Table 2: Summary of Biocompatibility Testing
+         Test Performed      Test Description   Purpose                        Results
+                             MEM Elution         To evaluate whether an
+                             Using L-929         extract of the test article
+                                                                               Pass, non-
+         Cytotoxicity        Fibroblast Cells    could cause cytotoxicity
+                                                                               cytotoxic
+                             ISO 10993-5         using the L929 mouse
+                             ISO 10993-12        fibroblast cell culture.
+                             ISO Guinea Pig      To evaluate the
+                             Maximization        allergenic potential or
+                                                                               Pass, non-
+         Sensitization       Sensitization Test  sensitizing capacity of
+                                                                               sensitizing
+                             ISO 10993-10        the test article in guinea
+                             ISO 10993-12        pigs.
+                                                 To evaluate local dermal
+                             ISO Intracutaneous
+         Irritation or                           irritation effects of
+                             Reactivity Test                                   Pass, non-
+         Intracutaneous                          leachables following
+                             ISO 10993-10                                      irritant
+         Reactivity                              intracutaneous injections
+                             ISO 10993-12
+                                                 into rabbits.
+                                                 To evaluate acute
+                                                 systemic toxicity of
+                             ISO Acute
+                                                 leachables extracted
+                             Systemic Injection
+         Systemic Toxicity                       from the test article
+                             Test (2 Extracts)                                 Pass, non-toxic
+         (acute)                                 following a single
+                             ISO 10993-11
+                                                 intravenous or
+                             ISO 10993-12
+                                                 intraperitoneal injection
+                                                 in mice.
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                        Page 7 of 45
+         Test Performed    Test Description         Purpose                     Results
+                           Materials Mediated       To determine if a saline
+                           Rabbit Pyrogen           extract of the test article Pass, non-
+                           ISO 10993-11             causes a febrile response pyrogenic
+                           ISO 10993-12             in rabbits.
+                           ISO 10993-4 -            To measure the
+                           Complement               compliment activating
+                           Activation SC5b-9        potential of the test       Pass, Not a
+                           with supplied            article in human plasma. complement
+                           comparison                                           activator
+                           ISO 10993-4
+                           ISO 10993-12
+                           ISO 10993-4 -            To determine the ability
+                           Hemolysis Test           of a test article or its
+         Hemocompatibility
+                           (ASTM F756)              extract, to destroy red
+                           Extract and Direct       blood cells with the
+                           Contact Methods          subsequent release of the
+                                                                              Pass, non-
+                           ISO 10993-4              hemoglobin.
+                                                                              hemolytic
+                           ISO 10993-12
+                           ASTM Guideline
+                           F619-14
+                           ASTM Guideline
+                           F756-13
+                           Thromboresistance        To evaluate the potential
+                           Evaluation               of the test article to
+                           conducted during         cause thrombus
+                                                                                Pass, Non-
+         Thrombogenicity   Chronic GLP              formation when placed
+                                                                                thrombogenic
+                           Animal Study             in the vasculature of
+                           ISO 10993-4              swine.
+                           ISO 10993-12
+                                                    To assess the               Compounds
+                                                    extractables profile of     consistent with
+         Material             Extractables          the submitted test          manufacturing
+         Characterization     ISO 10993-18          article.                    materials, and
+         and Toxicology       ISO 10993-17                                      amounts do
+         Risk Assessment      ISO 10993-12                                      not raise
+                                                                                toxicity
+                                                                                concerns.
+
+         2. Bench Testing
+
+             Engineering bench testing of the Shockwave IVL System with Shockwave C2
+             Coronary IVL Catheter was conducted to verify the design outputs meet the design
+             requirements and to confirm the safety and performance of the product from a non-
+             clinical testing perspective.
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                         Page 8 of 45
+             Shockwave C2 Coronary IVL Catheter
+
+             Bench testing to assess the safety and effectiveness of Shockwave C2 Coronary IVL
+             Catheter was conducted in accordance with FDA Guidance Class II Special Controls
+             Guidance Document for Certain Percutaneous Transluminal Coronary Angioplasty
+             (PTCA) Catheters.
+
+             Table 3 includes the tests performed, the objective of the tests, the acceptance
+             criteria, and the result of the test.
+
+ Table 3: Summary of Functional Testing Performed on the Shockwave C2 Coronary IVL Catheter
+                           Test
+       Test                                           Acceptance Criteria        Results
+                           Summary/Purpose
+                           Verify there is no
+                                                      The catheter and balloon
+                           damage to the balloon
+                                                      shall be free of damage
+       Visual Inspection   and catheter after                                    PASSED
+                                                      after removal of balloon
+                           removal of the
+                                                      protective sheath.
+                           protective sheath.
+                           Determine if the
+                                                      Inflation ports shall meet
+       Inflation port      inflation port in the luer
+                                                      requirements for a luer    PASSED
+       compatibility       connector meets the
+                                                      fitting.
+                           functional requirements.
+
+                               Determine the system       The system shall be
+       Guidewire
+                               compatibility with         compatible with 0.014”         PASSED
+       Compatibility
+                               0.014” guide wire.         guide wires.
+
+
+                               Ensure the catheter
+                               components and seals
+       Guide Catheter                                     The system shall be
+                               have a max profile that
+       Compatibility                                      compatible with 6F Guide       PASSED
+                               can be inserted through
+                                                          Catheters.
+                               a 6F Catheter without
+                               excessive force.
+                               Verify the balloon
+                                                          The balloon diameter at
+       Nominal Balloon         diameter is within the
+                                                          nominal pressure shall be
+       Diameter                target diameter when                                      PASSED
+                                                          within a clinically
+                               inflated to nominal
+                                                          acceptable range.
+                               pressure.
+                               Verify the balloon         The balloon working
+       Balloon Working
+                               working length at          length at nominal pressure     PASSED
+       Length
+                               nominal pressure.          shall be nominally 12 mm.
+                               Verify the balloon has     The balloon diameter at 10
+       Balloon Compliance      acceptable diameter        ATM shall be within a          PASSED
+                               growth from nominal.       clinically acceptable range
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                           Page 9 of 45
+                              Test
+       Test                                              Acceptance Criteria             Results
+                              Summary/Purpose
+                                                         compared to nominal.
+
+                              Verify the time it takes   Inflation time to nominal
+       Inflation Time         to inflate the system to   pressure shall support          PASSED
+                              nominal pressure.          hemodynamic flow.
+                              Verify the time it takes   Deflation time from RBP
+       Deflation Time         to deflate the system      (10 ATM) shall not disrupt      PASSED
+                              from nominal pressure.     hemodynamic flow.
+                              Verify the minimum
+       Rated Burst Pressure                              Min RBP (for shaft, seals
+                              system rated burst
+       (RBP)                                             and balloon) shall be 10        PASSED
+                              pressure of the balloon
+                                                         ATM.
+                              and catheter.
+                                                         The catheter shall be
+                              Verify the catheter can
+       Fatigue (Multiple                                 durable enough to
+                              withstand multiple
+       Inflations)                                       withstand 20                    PASSED
+                              inflations without
+                                                         inflation/deflation cycles
+                              failure.
+                                                         up to RBP of 10 ATM.
+                                                         The crossing profile for
+       Crossing Profile       Verify the balloon         each balloon (shall be          PASSED
+                              folded diameter.           within the range < 0.044”
+                                                         and < 0.047”.
+                              Determine the distal/tip   Max tip entry OD shall be
+       Distal Tip Profile     maximum outer              consistent with a crossing      PASSED
+                              diameter.                  profile of < 0.047”.
+
+       Distal Tip Length      Determine the distal tip   The distal tip length shall     PASSED
+                              length of the catheter.    be nominally 4.0 mm.
+                                                         The distal tip shall not
+                                                         excessively deform (i.e.,
+                              Verify the distal tip
+       Tip Durability                                    split or excessive fold /
+                              maintains its integrity                                    PASSED
+                                                         crease) or break when
+                              after simulated use.
+                                                         tracking across a tight
+                                                         lesion.
+                              Verify the hydrophilic     The tolerance interval for
+       Coating Length         coating length on the      coating length shall be         PASSED
+                              catheter.                  nominally 22.75 cm.
+
+                                                         Catheter shaft friction shall
+       Coating Lubricity      Verify the frictional
+                                                         have a pull force RI      PASSED
+                              force of the catheter.
+                                                         grams.
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                         Page 10 of 45
+                             Test
+       Test                                               Acceptance Criteria            Results
+                             Summary/Purpose
+                             Verify the integrity /
+                             uniformity of the            Coverage surface area shall
+       Coating Uniformity    hydrophilic coating on       allow for a frictional force PASSED
+                             the catheter after           RIgrams.
+                             simulated use.
+
+                             Characterize the             Particulate generation shall
+       Particulate                                        EHDQG
+                             generated particles sizes                                   PASSED
+       Evaluation                                         for 10 μm, 25 μm, and 50
+                             and counts.
+                                                          μm, respectively.
+                             Verify the spacing
+       Marker Band           between the distal and       The spacing between the
+       Spacing               proximal marker bands        balloon marker bands shall     PASSED
+                             on the catheter.             be nominally 12 mm.
+
+                                                          The balloon distal marker
+       Marker Band           Verify the distal marker
+                                                          band shall align to the
+       Alignment             band alignment to the                                       PASSED
+                                                          distal shoulder of the
+                             distal balloon shoulder.
+                                                          balloon.
+
+
+       Catheter Working                                   Working length of the
+                             Verify the working
+       Length                                             catheter shall be nominally    PASSED
+                             length of the catheter.
+                                                          138 cm.
+
+                                                          The location of the Rx port
+       Catheter Tip to Rx    Verify the guide wire
+                                                          shall be sufficient to
+       Port Length           lumen length of the                                         PASSED
+                                                          prevent loss of the guide
+                             catheter.
+                                                          wire.
+                                                          The length from the Rx
+       Length from Rx Port   Verify the length of the
+                                                          port to hypotube bond shall PASSED
+       to Hypotube Bond      Rx port to the hypotube
+                                                          allow for acceptable
+                             bond.
+                                                          flexibility.
+
+       Catheter Shaft                                 The marks on the catheter
+                             Verify the shaft marking
+       Marking Length                                 shaft shall allow for              PASSED
+                             lengths.
+                                                      anatomical positioning
+
+                             Verify the flexibility /
+       Kink Resistance /                                  Catheter shall not kink
+                             kink resistance of the
+       Flexibility                                        when tracking through          PASSED
+                             different shafts /sections
+                                                          tortuous anatomy.
+                             of the catheter.
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                           Page 11 of 45
+                             Test
+       Test                                             Acceptance Criteria              Results
+                             Summary/Purpose
+       Distal / Tip &                                   The tensile force required
+                             Verify the tensile
+       Proximal Balloon                                 to break the catheter’s
+                             strength of the catheter’s
+       Bond Tensile                                     bonds shall be within a          PASSED
+                             balloon distal/tip and
+       Strength                                         sufficient range to prevent
+                             proximal bonds.
+                                                        component separation.
+                                                        The tensile force required
+       Catheter Bonds        Verify the tensile         to break the catheter’s
+       Strength              strength of all catheter   bonds shall be within a          PASSED
+                             bonds                      sufficient range to prevent
+                                                        component separation.
+                             Verify the ability of the
+       Catheter Torsional    catheter to withstand      Catheter shall withstand         PASSED
+       Strength              torsional force during     torsional rotation.
+                             simulated use.
+                             Verify the marker bands
+                             and emitters remain in     Emitters and marker bands
+       Emitters and Marker   position and free of       are functional upon              PASSED
+       Band Integrity        damage after pre-          insertion treatment and
+                             conditioning and           retraction.
+                             simulated use.
+
+                                                        The system shall be free of
+                             Verify the catheter is     leakage after simulated use
+       System Leakage        free of leakage during     in a coronary bench top          PASSED
+                             use.                       model and after lithotripsy
+                                                        treatment.
+                                                        Catheter sub-assembly
+       System Burst          Verify the catheter’s      shall not rupture during         PASSED
+                             burst pressure.            test. Catheters shall not
+                                                        rupture or leak.
+                             Verify the temperature     Temperature rise sufficient
+       Temperature Rise      on the balloon exterior    in that it would not cause       PASSED
+       Test                  during lithotripsy         tissue damage during use.
+                             treatment.
+
+       Catheter Connector                               The connector length shall
+                             Verify the connector
+       Extension Length                                 be adequate to connect           PASSED
+                             extension length.
+                                                        with accessory devices.
+                             Verify the average
+                                                        The sonic energy shall be
+       Sonic Output          mechanical energy
+                                                        sufficient to crack vascular     PASSED
+                             generated by the
+                                                        calcium.
+                             emitters.
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                           Page 12 of 45
+                               Test
+       Test                                               Acceptance Criteria             Results
+                               Summary/Purpose
+                               Verify the distance
+                                                          The spacing between
+                               between the emitters
+       Emitter Spacing and                                emitters and distal marker
+                               and between the emitter
+       Alignment                                          band shall be within a          PASSED
+                               and distal marker band
+                                                          range to allow for
+                               after simulated use of
+                                                          sufficient sonic output.
+                               the catheter.
+                               Verify the catheter can
+       Maximum Total           pulse up to a minimum      Product shall deliver a
+       Pulse Cycling           of 80 pulses without       minimum of 80 pulses            PASSED
+                               failure.                   without failure.
+                               Verify the catheter is     The catheter external
+       External Surface        free of extraneous         surface shall be free of        PASSED
+                               matter prior to use.       extraneous matter.
+
+              IVL Generator and Connector Cable
+
+              Testing was conducted on the IVL System (IVL Generator, IVL Connector Cable,
+              charging power supply, and IVL Catheter) according to harmonized test standards for
+              active medical devices and to software validation requirements, following uniquely-
+              designed test protocols for the device. In addition, the IVL Generator and Connector
+              Cable met international certification requirements using CB scheme by Underwriters
+              Laboratories (UL), Shockwave Medical’s test laboratory for safety in compliance
+              ANSI AAMI ES60601-1:2005/(R)2012 and A1:2012, C1:2009/(R)2012 and
+              A2:2010/(R)2012 (Consolidated Text) Medical electrical equipment - Part 1: General
+              requirements for basic safety and essential performance (IEC 60601-1:2005, MOD),
+              and IEC 60601-1-6 Edition 3.1 2013-10 Medical electrical equipment - Part 1-6:
+              General requirements for basic safety and essential performance - Collateral standard:
+              Usability. The IVL System is intended for use in a professional healthcare
+              environment and was certified for electrical safety by UL to IEC 60601-1-2 Edition
+              4.0 2014-02 Medical electrical equipment - Part 1-2: General requirements for basic
+              safety and essential performance - Collateral Standard: Electromagnetic disturbances
+              - Requirements and tests.
+
+              Software Testing
+              The software for the IVL Generator was verified/validated and documented according
+              to the FDA guidance document “Guidance for the Content of Premarket Submissions
+              for Software Contained in Medical Devices.”
+
+      B. Animal Studies
+
+         Shockwave Medical conducted one (1) acute and one (1) chronic swine animal study
+         with the Shockwave Intravascular Lithotripsy (IVL) System Shockwave C2 Coronary
+         IVL Catheter according to Good Laboratory Practice (GLP) requirements 21 CFR 58 to
+         evaluate the safety of the Shockwave IVL System. The objective of these studies was to
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                            Page 13 of 45
+         assess the safety of mechanical energy applied during IVL followed by stenting,
+         compared to balloon angioplasty alone followed by stenting. The IVL Test group
+         addressed the clinical use case of potential treatment overlap when two separate IVL
+         balloons are used.
+
+         In regard to outcomes, there was no mortality, significant morbidity, or adverse events
+         noted during the experimental procedures or in life observation period of either study.
+         Some notable pathology observations in the acute study included epicardial hemorrhage
+         with fat necrosis overlying almost all of the test article treated arteries on gross
+         examination as well as histopathology, which was absent in the balloon angioplasty
+         controls. Prominent epicardial fat swelling was also noted on the surface of all of the
+         hearts in the subacute study, although it is not clear whether the findings were associated
+         with the test or control treated arteries, or both. Vascular wall inflammation and mean
+         diameter stenosis was moderate and similar among groups in both studies, and in-stent
+         lumen narrowing <50% was observed by the operator in all stented arteries at terminal
+         angiography. It was hypothesized that outcomes were potentially related to excessive
+         mechanical overstretch, treatment of non-diseased, non-calcified vessels, and/or
+         limitations of the animal model.
+
+         Given the limitations of the animal model, mitigation for these observations were
+         addressed in the clinical study by evaluating angiographic and intravascular imaging
+         outcomes during the procedure, adjudicated in-hospital outcomes, and adjudicated 30-day
+         clinical outcomes on the first 30 pivotal subjects enrolled. These clinical data supported
+         the continued evaluation of the Shockwave IVL device in the full pivotal clinical study
+         under IDE G180146.
+
+         All Good Laboratory Practice (GLP) study objectives were met. Procedural
+         observations, angiographic findings, and the histopathological results of the GLP studies
+         demonstrate that IVL can be safely delivered in conjunction with the clinical standard of
+         care (stenting). No significant difference between the IVL test and balloon angioplasty
+         control groups was observed in the studies.
+
+         The studies support the conclusion that there are no safety concerns associated with the
+         use of the Shockwave IVL System.
+
+      C. Additional Studies
+
+         1. Sterilization
+
+             The Shockwave C2 Coronary IVL Catheter is sterilized using validated electron beam
+             irradiation (e-beam) sterilization process per method VDmax25 that provides a
+             sterility assurance level (SAL) of 10-6. The Shockwave C2 Coronary IVL Catheter is
+             a sterile, single use medical device and is not intended for reuse or re-sterilization.
+             Validation and annual revalidation are completed based on the standards in ISO
+             11135-1:2015 Sterilization of health care products-Radiation-Part 1: Requirements
+             for development, validation, and routine control of a sterilization process for medical
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                          Page 14 of 45
+             devices. The IVL Generator, IVL Connector Cable and accessories are provided non-
+             sterile.
+
+         2. Shelf Life
+
+             A shelf life of 2 years has been established for the Shockwave C2 Coronary IVL
+             Catheter based on product and package shelf life testing. The Shockwave C2
+             Coronary IVL Catheter was tested following accelerated aging to an equivalent of 2
+             years per an approved shelf life protocol. Testing demonstrated the Shockwave C2
+             Coronary IVL Catheter met the established acceptance criteria.
+
+             The IVL Generator and Connector Cable are re-usable durable medical equipment.
+             The battery life of the IVL Generator and Connector Cable was designed and
+             validated to provide a useful life of 3 years or more based on actual usage.
+
+         3. Packaging
+
+             The Shockwave C2 Coronary IVL Catheters are single use, disposable, sterile
+             devices. Catheter packaging was designed and validated to ensure the sterility and
+             integrity of individually packaged and sealed devices. Each device is individually
+             packaged in a catheter hoop with a hoop connector on a Backer Card and placed into
+             a peelable pouch labeled with the size of the balloon catheter. The sealed pouch is
+             then packaged in a shelf carton and is secured with a tamperproof seal on the shelf
+             carton.
+
+             The IVL Generator and Connector Cable are re-usable medical equipment and are
+             provided non-sterile. The IVL Generator and Connector Cable are placed in a
+             durable liner along with an appropriate power cord(s), AC power adaptor, and
+             mounting accessories in a shipper. Packaging validation was conducted in
+             accordance with ISTA 2A requirements. The IVL Connector Cable can also be
+             provided separately as a replacement component.
+
+X.    SUMMARY OF PRIMARY CLINICAL STUDY
+
+      Shockwave Medical, Inc. performed a clinical study to establish a reasonable assurance of
+      safety and effectiveness of the Shockwave Coronary Lithotripsy System (IVL) for the
+      treatment of severely calcified, stenotic de novo coronary lesions prior to stenting in the US
+      and in France, Germany, and the United Kingdom under IDE# G180146. Data from this
+      clinical study were the basis for the PMA approval decision. A summary of the clinical
+      study is presented below.
+
+      A. Study Design
+
+         Patients were treated between January 9, 2019 and March 27, 2020. The database for this
+         PMA reflected data collected through June 28, 2020 and included 431 enrolled patients (47
+         roll-in, 384 pivotal) patients. There were 47 investigational sites (38 US and 9 OUS).
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                           Page 15 of 45
+         The Disrupt CAD III study was a prospective, multicenter, single-arm, global clinical study.
+
+         Study Endpoints were evaluated by three (3) external groups:
+             x Independent Angiographic Core Lab: An independent core laboratory provided
+                an unbiased assessment of all imaging utilized in the endpoint assessments. All
+                imaging was performed in accordance with the core laboratory’s recommended
+                protocol which was provided to the sites.
+             x Independent Clinical Events Committee (CEC): CEC served as a forum for
+                review and adjudication of all major adverse cardiac events (MACE).
+             x Independent Data Safety Monitoring Board (DSMB): DSMB reviewed safety
+                data on a regular basis and monitored the continuing validity and scientific merit
+                of the trial.
+
+         1. Clinical Inclusion and Exclusion Criteria
+
+             Enrollment in the Disrupt CAD III study was limited to patients who met the
+             following inclusion criteria.
+              1.    6XEMHFWLV\HDUVRIDJH
+              2.    Subjects with native coronary artery disease (including stable or unstable
+                    angina and silent ischemia) suitable for PCI
+              3.    For patients with unstable ischemic heart disease, biomarkers (troponin or
+                    CK-MB) must be less than or equal to the upper limit of lab normal within 12
+                    hours prior to the procedure (note: if both labs are drawn, both must be
+                    normal).
+              4.    For patients with stable ischemic heart disease, biomarkers may be drawn
+                    prior to the index procedure or at the time of the procedure from the side port
+                    of the sheath.
+                     a.     If drawn prior to the procedure, biomarkers (troponin or CK-MB) must
+                            be less than or equal to the upper limit of lab normal within 12 hours
+                            of the procedure (note: if both labs are drawn, both must be normal).
+                     b.     If biomarkers are drawn at the time of the procedure from the side port
+                            of the sheath prior to any intervention, results do not need to be
+                            analyzed prior to enrollment (note: CK-MB is required if drawn from
+                            the sheath).
+              5.    Left ventricular ejection fraction (LVEF) >25% within 6 months (note: in the
+                    case of multiple assessments of LVEF, the measurement closest to enrollment
+                    will be used for this criteria; may be assessed at time of index procedure)
+              6.    Subject or legally authorized representative, signs a written Informed Consent
+                    form to participate in the study, prior to any study-mandated procedures
+              7.    Lesions in non-target vessels requiring PCI may be treated either:
+                     a.     >30 days prior to the study procedure if the procedure was
+                            unsuccessful or complicated; or
+                     b.     >24 hours prior to the study procedure if the procedure was successful
+                            and uncomplicated (defined as a final lesion angiographic diameter
+                            stenosis <30% and TIMI 3 flow (visually assessed) for all non-target
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                          Page 16 of 45
+                              lesions and vessels without perforation, cardiac arrest or need for
+                              defibrillation or cardioversion or hypotension/heart failure requiring
+                              mechanical or intravenous hemodynamic support or intubation, and
+                              with no post-procedure biomarker elevation >normal; or
+                       c.     >30 days after the study procedure
+              8.      The target lesion must be a de novo coronary lesion that has not been
+                      previously treated with any interventional procedure
+              9.      Single de novo target lesion stenosis of protected LMCA, or LAD, RCA or
+                      LCX (or of their branches) with:
+                       a.     6WHQRVLVRIDQGRU
+                       b.     6WHQRVLVDQd <70% (visually assessed) with evidence of
+                              LVFKHPLDYLDSRVLWLYHVWUHVVWHVWRUIUDFWLRQDOIORZUHVHUYHYDOXH
+                              RUL)5RU,986RU2&7PLQLPXPOXPHQDUHDPPð
+              10.     7KHWDUJHWYHVVHOUHIHUHQFHGLDPHWHUPXVWEHPPDQGPP
+              11.     The lesion length must not exceed 40 mm
+              12.     The target vessel must have TIMI flow 3 at baseline (visually assessed; may
+                      be assessed after pre-dilatation)
+              13.     Evidence of calcification at the lesion site by, a) angiography, with
+                      fluoroscopic radio-opacities noted without cardiac motion prior to contrast
+                      injection involving both sides of the arterial wall in at least one location and
+                      total length of calcium of at least 15 mm and extending partially into the
+                      WDUJHWOHVLRQ25E\E ,986RU2&7ZLWKSUHVHQFHRIGHJUHHVRI
+                      calcium on at least 1 cross section
+             14.      Ability to pass a 0.014” guide wire across the lesion
+
+             Patients were not permitted to enroll in the Disrupt CAD III Study if they met any of
+             the following exclusion criteria:
+
+             1.     Any comorbidity or condition which may reduce compliance with the protocol,
+                    including follow-up visits
+             2.     Subject is a member of a vulnerable population as defined in 21 CFR 56.111,
+                    including individuals with mental disability, persons in nursing homes, children,
+                    impoverished persons, persons in emergency situations, homeless persons,
+                    nomads, refugees, and those incapable of giving informed consent. Vulnerable
+                    populations also may include members of a group with a hierarchical structure
+                    such as university students, subordinate hospital and laboratory personnel,
+                    employees of the Sponsor, members of the armed forces, and persons kept in
+                    detention
+             3.     Subject is participating in another research study involving an investigational
+                    agent (pharmaceutical, biologic, or medical device) that has not reached the
+                    primary endpoint
+             4.     Subject is pregnant or nursing (a negative pregnancy test is required for
+                    women of child-bearing potential within 7 days prior to enrollment)
+             5.     Unable to tolerate dual antiplatelet therapy (i.e., aspirin, and either
+                    clopidogrel, prasugrel, or ticagrelor) for at least 6 months (for patients not on
+                    oral anticoagulation)
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                             Page 17 of 45
+             6.  Subject has an allergy to imaging contrast media which cannot be adequately
+                 pre-medicated
+             7. Subject experienced an acute MI (STEMI or non-STEMI) within 30 days
+                 prior to index procedure, defined as a clinical syndrome consistent with an
+                 acute coronary syndrome with troponin or CK-MB greater than 1 times the
+                 local laboratory’s upper limit of normal
+             8. New York Heart Association (NYHA) class III or IV heart failure
+             9. Renal failure with serum creatinine >2.5 mg/dL or chronic dialysis
+             10. History of a stroke or transient ischemic attack (TIA) within 6 months, or
+                 any prior intracranial hemorrhage or permanent neurologic deficit
+             11. Active peptic ulcer or upper gastrointestinal (GI) bleeding within 6 months
+             12. Untreated pre-procedural hemoglobin <10 g/dL or intention to refuse blood
+                 transfusions if one should become necessary
+             13. Coagulopathy, including but not limited to platelet count <100,000 or
+                 international normalized ratio (INR) >1.7 (INR is only required in subjects
+                 who have taken warfarin within 2 weeks of enrollment)
+             14. Subject has a hypercoagulable disorder such as polycythemia vera, platelet
+                 count >750,000 or other disorders
+             15. 8QFRQWUROOHGGLDEHWHVGHILQHGDVD+E$F
+             16. Subject has an active systemic infection on the day of the index procedure with
+                 either fever, leukocytosis or requiring intravenous antibiotics
+             17. Subjects in cardiogenic shock or with clinical evidence of left-sided heart failure
+                 (S3 gallop, pulmonary rales, oliguria, or hypoxemia)
+             18. Uncontrolled severe hypertension (systolic BP >180 mm Hg or diastolic BP
+                 >110 mm Hg)
+             19. Subjects with a life expectancy of less than 1 year
+             20. Non-coronary interventional or surgical structural heart procedures (e.g., TAVR,
+                 MitraClip, LAA or PFO occlusion, etc.) within 30 days prior to the index
+                 procedure
+             21. Planned non-coronary interventional or surgical structural heart procedures (e.g.,
+                 TAVR, MitraClip, LAA or PFO occlusion, etc.) within 30 days after the index
+                 procedure
+             22. Subject refusing or not a candidate for emergency coronary artery bypass
+                 grafting (CABG) surgery
+             23. Planned use of atherectomy, scoring or cutting balloon, or any investigational
+                 device other than lithotripsy
+             24. +LJK6<17$;6FRUH  LIDVVHVVHGDVVWDQGDUGRIFDUHXQOHVVWKHORFDOKHDUW
+                 team has met and recommends PCI is the most appropriate treatment for the
+                 patient
+             25. Unprotected left main diameter stenosis >30%
+             26. Target vessel is excessively tortuous defined as the presence of two or more
+                 bends >90º or three or more bends >75º
+             27. Definite or possible thrombus (by angiography or intravascular imaging) in the
+                 target vessel
+             28. Evidence of aneurysm in target vessel within 10 mm of the target lesion
+             29. Target lesion is an ostial location (LAD, LCX, or RCA, within 5 mm of ostium)
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                         Page 18 of 45
+                 or an unprotected left main lesion
+             30. TargHWOHVLRQLVDELIXUFDWLRQZLWKRVWLDOGLDPHWHUVWHQRVLV
+             31. Second lesion with >50% stenosis in the same target vessel as the target lesion
+                 including its side branches
+             32. Target lesion is located in a native vessel that can only be reached by going
+                 through a saphenous vein or arterial bypass graft
+             33. Previous stent within the target vessel implanted within the last year
+             34. Previous stent within 10 mm of the target lesion regardless of the timing of its
+                 implantation
+             35. Angiographic evidence of a dissection in the target vessel at baseline or after
+                 guidewire passage
+
+         2. Follow-up Schedule
+            All patients were scheduled for follow-up examinations at 30 days and 6, 12, and 24
+            months post-procedure.
+
+             Table 4 summarizes the evaluations and assessments performed pre- and post-
+             operatively.
+
+                          Table 4: Schedule of Events and Evaluations
+                                                   12-24 hours
+                      Screening/                                          30  6, 12, 24
+                                 1  Enrollment/        post-
+                       Baseline                                         Days Months
+        Assessment                    Procedure    procedure, Discharge
+                      (Day -14 to                                        (±7    (±30
+                                        (Day 0)        or at
+                         Day 0)                                         days)  days)
+                                                    discharge2
+     Informed Consent      X
+     Medical History       X
+     Physical
+     Examination/Vita      X
+     l Signs
+     New York Heart
+     Association
+                           X
+     (NYHA)
+     Classification
+     Canadian
+     Cardiovascular
+     Society (CCS)         X                                              X       X
+     Angina
+     Classification
+     Laboratory                         CK-MB
+                        Platelet                     CK-MB3,
+     Assessments                      (required if
+                         count,                      troponin,
+                                     drawn from
+                       creatinine,                  creatinine,
+                                     the sheath)3,
+                      hemoglobin                   hemoglobin
+                                       troponin4
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                         Page 19 of 45
+                                                            12-24 hours
+                           Screening/                                              30  6, 12, 24
+                                           Enrollment/          post-
+                            Baseline1                                            Days Months
+        Assessment                          Procedure       procedure, Discharge
+                           (Day -14 to                                            (±7    (±30
+                                             (Day 0)            or at
+                             Day 0)                                              days)  days)
+                                                             discharge2
+     Urine/serum
+     pregnancy test is
+     required for
+     women of child-
+                                 X
+     bearing potential
+     within 7 days
+     prior to
+     enrollment
+     LVEF (within 6-
+     months of                  X5
+     procedure)
+     12-lead ECG                 X                                X
+     Coagulation
+     Studies: PT/PTT
+     and INR (only
+     required for
+                                 X
+     patients who have
+     taken warfarin
+     within two weeks
+     of enrollment)
+     Angiography                                 X                                          X6        X6
+     Sub-study: OCT
+                                                 X7
+     imaging
+     Sub-study:
+     PPM/ICD
+                                                 X8               X
+     Device
+     Interrogation
+     Sub-study:
+                                                 X9
+     Hemodynamics
+     Medication use              X               X                               X          X           X
+     Adverse Event
+                                                 X                               X          X           X
+     Assessment
+    1. Screening/Baseline data collection may occur any time within 14 days of the procedure
+    2. Laboratory assessments and ECG should be collected at 12-24 hours post-procedure or at discharge, whichever
+       is earlier, but at least 6 hours post procedure in patients with early discharge.
+    3. For centers unable to perform the CK-MB assessment on-site, a blood sample must be drawn and sent to the
+       central lab.
+    4. Patients presenting with stable angina may have biomarkers drawn from the side port of the sheath at the time
+       of the procedure and the results do not need to be analyzed prior to enrollment.
+    5. LVEF may be assessed during the baseline cardiac catheterization, prior to enrollment.
+    6. If a revascularization procedure occurs during the follow-up period (planned or unplanned), angiographic
+       images must be submitted to the core lab.
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                               Page 20 of 45
+    7. For subjects that have consented to the OCT sub-study
+    8. For subjects that have consented to the PPM/ICD sub-study
+    9. For subjects that have consented to the hemodynamics sub-study
+
+              The key timepoints are shown below in the tables summarizing safety and
+              effectiveness.
+
+          3. Clinical Endpoints
+
+              Primary Safety Endpoint
+              The primary safety endpoint was freedom from major adverse cardiac events
+              (MACE) within 30 days of the index procedure. MACE is defined as the composite
+              occurrence of:
+                 x Cardiac death; or
+                 x Myocardial Infarction (MI) defined as CK-MB level > 3 times the upper limit
+                     of lab normal (ULN) value with or without new pathologic Q wave at
+                     discharge (periprocedural MI) and using the Fourth Universal Definition of
+                     Myocardial Infarction beyond discharge (spontaneous MI); or
+                 x Target Vessel Revascularization (TVR) defined as revascularization at the
+                     target vessel (inclusive of the target lesion) after the completion of the index
+                     procedure.
+
+              The primary safety endpoint was pre-specified to be compared to a performance goal
+              (PG) of 84.4% at a one-sided alpha level of 0.05. The pre-specified null and
+              alternative hypotheses are as follows:
+
+                                             H0: ʌS 
+                                             HA: ʌS > 84.4%
+
+              ZKHUHʌS is the true 30-day MACE free rate.
+
+              Primary Effectiveness Endpoint
+              The primary effectiveness endpoint was Procedural Success defined as stent delivery
+              with a residual stenosis <50% (angiographic core laboratory assessed) and without in-
+              hospital MACE. The primary effectiveness endpoint was planned to be compared to
+              a PG of 83.4% at a one-sided alpha level of 0.05. The pre-specified null and
+              alternative hypotheses are as follows:
+
+                                             H0: ʌE 
+                                             HA: ʌE > 83.4%
+
+              ZKHUHʌE is the procedure success rate.
+
+              The primary safety and effectiveness endpoints are evaluated based on comparisons to
+              pre-specified performance goals derived from relevant published reports including the
+              ORBIT II trial which studied a similar population [1].
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                           Page 21 of 45
+             The overall sample size for Disrupt CAD III was driven by the primary safety endpoint.
+             The endpoint was met if the one-sided lower 95% confidence limit was greater than the
+             PG. Assuming a true 30-day MACE free rate of 89.6%, an attrition rate of 5%, a sample
+             size of 392 patients (minimum 372 patients) was required to achieve approximately 90%
+             power to meet the endpoint based on a performance goal of 84.4% at a one-VLGHGĮ-level
+             of 0.05. For the primary effectiveness endpoint, the expected procedure success rate
+             was 88.9%, and with 5% attrition, a sample size of 360 patients provides at least 90%
+             power to meet the primary effectiveness endpoint. While 392 patients were planned to
+             be enrolled, only 384 patients were enrolled due to enrollment issues associated with the
+             COVID-19 pandemic. However, this still met the minimum required sample sizes, as
+             described above.
+
+             Secondary Endpoints
+
+             Secondary endpoints evaluated in the Disrupt CAD III study included:
+
+                x   Device Crossing Success defined as the ability to deliver the IVL catheter
+                    across the target lesion, and delivery of lithotripsy without serious
+                    angiographic complications immediately after IVL.
+                x   Angiographic Success defined as stent delivery with < 50% residual stenosis
+                    and without serious angiographic complications.
+                x   3URFHGXUDO6XFFHVVGHILQHGDVVWHQWGHOLYHU\ZLWKDUHVLGXDOVWHQRVLV
+                    (core laboratory assessed) and without in-hospital MACE.
+                x   $QJLRJUDSKLF6XFFHVVGHILQHGDVVWHQWGHOLYHU\ZLWKUHsidual stenosis
+                    and without serious angiographic complications.
+                x   Serious angiographic complications defined as severe dissection (Type D to
+                    F), perforation, abrupt closure, and persistent slow flow or persistent no
+                    reflow.
+                x   MACE at 6, 12 and 24 months.
+                x   Target lesion failure (TLF) defined as cardiac death, target vessel myocardial
+                    infarction (Q wave and non-Q wave), or ischemia-driven target lesion
+                    revascularization (ID-TLR) by percutaneous or surgical methods at 30 days, 6,
+                    12 and 24 months.
+                x   At each time period: All death, cardiac death, MI, TV-MI, procedural and
+                    nonprocedural MI, ID-TVR, ID-TLR, ID-non-TLR, ID-non-TVR, all
+                    revascularizations (ID and non-ID), and stent thrombosis (ARC definite,
+                    probable, definite or probable).
+                x   Sensitivity analyses will be reported for MI using the Fourth Universal
+                    Definition of MI [2] and the Society for Cardiovascular Angiography and
+                    Interventions (SCAI) [3] definitions at 30 days, 6, 12 and 24 months.
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                          Page 22 of 45
+      B. Accountability of PMA Cohort
+
+         At the time of database lock, of 384 patients enrolled in the PMA study 99.7% (383/384)
+         are available for analysis at the primary endpoint timepoint, the 30-day post-operative visit.
+
+         Follow up compliance through the 30-day follow-up visit is presented in Table 5 below.
+
+                          Table 5: Subject Disposition through 30 Days
+                     Disposition Category                      Total
+                     Signed Informed Consent                    749
+                     Screen Failure                             318
+                     Enrolled                                   431
+                     Analysis Sets
+                     Roll-in (RI) Population1                    47
+                                                2
+                     Pivotal Analysis (PA) Set                  384
+                     Pivotal Analysis (PA) Set
+                     Discontinued                           0.3% (1/384)
+                        Lost to follow-up                   0.3% (1/384)
+                        Withdrawn consent                   0.0% (0/384)
+                        Investigator’s decision             0.0% (0/384)
+                     Death                                  0.5% (2/384)
+                     1. The first subject enrolled at each site was considered a roll-in and
+                        was not included in the pivotal cohort. All subsequent enrolled
+                        subjects at a given site were included in the Pivotal Analysis Set.
+                     2. The Pivotal Analysis Set includes all pivotal subjects and is the
+                        cohort used for hypothesis testing of the primary safety and
+                        effectiveness endpoints. Roll-ins are excluded.
+
+      C. Study Population Demographics and Baseline Parameters
+
+         The demographics of the study population are typical for a pivotal study performed in the
+         US. Table 6 summarizes the pivotal subject demographics. The mean age of all subjects
+         enrolled in the pivotal cohort was 71.2 ± 8.6 years, ranging from 43 to 95 years. The
+         majority of subjects (76.6%, 294/384) were male and predominantly white (82.8%,
+         318/384). Mean body mass index (BMI) in the pivotal cohort was 29.2 ± 5.0 kg/m2.
+
+         Table 6: Subject Demographics for Disrupt CAD III Subjects (Pivotal Analysis Set)
+                                                                  Pivotal
+                               Parameter
+                                                                 (N=384)
+               Age (years)
+                  N                                                 384
+                  Mean ± Std Dev                                71.2 ± 8.6
+                  Median (Q1,Q3)                             71.0 (66.0, 77.0)
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                                Page 23 of 45
+                                                                                   Pivotal
+                                    Parameter
+                                                                                  (N=384)
+                 Min, Max                                                        43.0, 95.0
+               Gender % (n/N)
+                 Male                                                        76.6% (294/384)
+                 Female                                                      23.4% (90/384)
+               Geography % (n/N)
+                 United States                                               87.2% (335/384)
+                 Europe                                                      12.8% (49/384)
+               Race % (n/N)
+                 White                                                       82.8% (318/384)
+                 Black and African American                                   3.1% (12/384)
+                 Asian                                                        3.4% (13/384)
+                 American Indian or Alaska Native                             0.5% (2/384)
+                 Native Hawaiian or Other Pacific Islander                    0.3% (1/384)
+                 Not Specified                                                9.9% (38/384)
+               Ethnicity % (n/N)
+                 Hispanic or Latino                                           4.2% (16/384)
+                 Not Hispanic or Latino                                      85.9% (330/384)
+                 Not Specified                                                9.9% (38/384)
+               Body Mass Index (kg/m2)
+                 N                                                                  384
+                 Mean ± Std Dev                                                 29.2 ± 5.0
+                 Median (Q1,Q3)                                              28.3 (25.9, 32.3)
+                 Min, Max                                                       18.8, 52.6
+               Std Dev= Standard deviation; Q1 = First quartile; Q3 = Third quartile
+
+         Table 7 summarizes the medical history of the pivotal subjects. Diabetes was reported in
+         40.1% (154/384) of the pivotal subjects enrolled. The majority of pivotal subjects
+         suffered from hypertension (89.1%, 342/384) and hyperlipidemia (89.1%, 342/384),
+         46.9% (180/384) had prior percutaneous coronary interventions, 9.4% (36/384) had prior
+         coronary artery bypass graft (CABG), 18.0% (69/384) had a history of myocardial
+         infarction, and 12.0% (46/384) had renal insufficiency. Former smokers were reported in
+         43.0% (165/384) of subjects, while 12.2% (47/384) were current smokers.
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                                 Page 24 of 45
+                         Table 7: Medical History (Pivotal Analysis Set)
+                                                                      Pivotal
+                                 Parameter
+                                                                     (N=384)
+               Diabetes Mellitus                                40.1% (154/384)
+                  Type
+                     Type I                                        1.0% (4/384)
+                     Type II                                    39.1% (150/384)
+                  Treatment
+                  Medically Treated                             35.5% (136/383)
+                     Insulin (with or without oral meds)         14.1% (54/383)
+                     Oral Meds (with or without insulin)        29.8% (114/383)
+                     Insulin Plus Oral Meds                       8.4% (32/383)
+                     Insulin Alone                                5.7% (22/383)
+                     Oral Meds Alone                             21.4% (82/383)
+                     Diet                                         4.4% (17/383)
+               Hyperlipidemia                                   89.1% (342/384)
+               Hypertension                                     89.1% (342/384)
+               Prior Stroke or TIA                                7.6% (29/384)
+                  Stroke                                          5.5% (21/384)
+                  TIA                                             3.9% (15/384)
+               Myocardial Infarction                             18.0% (69/384)
+               Prior Coronary Intervention1                     46.9% (180/384)
+               Prior CABG                                         9.4% (36/384)
+               Prior Non-coronary Interventional or Surgical      3.1% (12/384)
+               Heart Procedure
+                  Aortic Valve Replacement                         1.8% (7/384)
+                     Transcatheter                                 0.3% (1/384)
+                     Surgical                                      1.6% (6/384)
+                  Other                                            1.6% (6/384)
+               Peripheral Vascular Disease                       13.0% (50/384)
+               Congestive Heart Failure                          12.2% (47/384)
+               Arrhythmia                                        20.6% (79/384)
+                  Ventricular                                     4.2% (16/384)
+                  Atrial                                         15.1% (58/384)
+                  Ventricular and Atrial                           1.3% (5/384)
+               Pacemaker                                          4.7% (18/384)
+               ICD/CRT-D                                           1.6% (6/384)
+               COPD                                               9.4% (36/384)
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                  Page 25 of 45
+                                                                            Pivotal
+                                  Parameter
+                                                                           (N=384)
+               Active Peptic Ulcer or Upper Gastrointestinal             0.3% (1/384)
+               Bleeding
+               Smoking/tobacco use                                     55.2% (212/384)
+                  Current/recent (within last 3 months)                 12.2% (47/384)
+                  Former (stopped > 3 months)                          43.0% (165/384)
+               Renal insufficiency2                                     12.0% (46/384)
+               TIA = transient ischemic attack; CABG = coronary artery bypass graft; ICD =
+               implantable cardioverter defibrillator; CRT-D = cardiac resynchronization
+               therapy
+               1. Percutaneous transluminal coronary angioplasty (PTCA), drug-eluting stent
+                  (DES) or atherectomy procedures.
+               $QLQFUHDVHLQVHUXPFUHDWLQLQHRIPJGORYHUSUHYLRXVYDOXHUHTXLULQJ
+                  medical treatment but which does not require dialysis to resolve.
+
+         Pre-procedure angiographic characteristics as assessed by the core lab for the pivotal
+         subjects are presented in Table 8. The left anterior descending artery (LAD) was the
+         most common target vessel (56.5%, 217/384)), with a baseline reference vessel diameter
+         (RVD) of 3.03 ± 0.47 mm and minimal lumen diameter (MLD) of 1.06 ± 0.36 mm.
+         Percent diameter stenosis (DS) on quantitative coronary angiography was 65.1 ± 10.8%
+         with a lesion length of 26.09 ± 11.68 mm. Severe calcification was present in 100.0% of
+         the lesions with a calcified length of 47.85 ± 18.81 mm. Side branch involvement was
+         noted in 29.9% (115/384) of subjects (denoted as bifurcation/trifurcation).
+
+              Table 8: Pre-Procedural Angiography (Core Lab) (Pivotal Analysis Set)
+                                                                 Pivotal
+                              Parameter
+                                                                (N=384)
+                Target Lesion Vessel, % (n/N)
+                   LAD                                     56.5% (217/384)
+                   RCA                                     29.2% (112/384)
+                   Circumflex                              12.8% (49/384)
+                   Left Main                                 1.6% (6/384)
+                   Bypass graft                              0.0% (0/384)
+                Lesion Length (mm)
+                   N                                              381
+                   Mean ± Std Dev                           26.09 ± 11.68
+                   Median (Q1, Q3)                       24.92 (16.74, 33.71)
+                   Min, Max                                   3.93, 74.57
+                   > 27 mm                                 44.1% (168/381)
+                     1
+                RVD (mm)
+                   N                                              381
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                             Page 26 of 45
+                                                                           Pivotal
+                                 Parameter
+                                                                          (N=384)
+                    Mean ± Std Dev                                      3.03 ± 0.47
+                    Median (Q1, Q3)                                  3.00 (2.68, 3.33)
+                    Min, Max                                             1.99, 4.68
+                    <2.25 mm                                           1.6% (6/381)
+                 MLD (mm)
+                    N                                                       381
+                    Mean ± Std Dev                                      1.06 ± 0.36
+                    Median (Q1, Q3)                                  1.08 (0.83, 1.31)
+                    Min, Max                                             0.10, 2.16
+                 % Diameter Stenosis (DS)1
+                    N                                                       381
+                    Mean ± Std Dev                                     65.1 ± 10.8
+                    Median (Q1, Q3)                                  63.3 (56.3, 72.5)
+                    Min, Max                                            50.0, 96.7
+                 Eccentric2, % (n/N)                                  3.1% (12/384)
+                 Calcification, % (n/N)                             100.0% (384/384)
+                    None or Mild                                      0.0% (0/384)
+                    Moderate                                          0.0% (0/384)
+                    Severe                                          100.0% (384/384)
+                 Calcification Length (mm)
+                    N                                                      384
+                    Mean ± Std Dev                                    47.85 ± 18.81
+                    Median (Q1, Q3)                                43.84 (32.89, 60.45)
+                    Min, Max                                          15.40, 106.94
+                 Bifurcation/Trifurcation, % (n/N)                  29.9% (115/384)
+                 LAD = left anterior descending coronary artery; RCA = right coronary
+                 artery; RVD = reference vessel diameter; MLD = minimal lumen diameter;
+                 Std Dev = standard deviation; Q1 = first quartile; Q3 = third quartile
+                 1. Interpolated
+                 2. Eccentric is defined as a vessel that has only one of its luminal edges
+                    compromised by more than 25%.
+
+      D. Safety and Effectiveness Results
+
+         1. Safety Results
+
+             The analysis of safety was based on the pivotal analysis cohort of 383 pivotal patients
+             available for the 30-day evaluation. The key safety outcomes for this study are
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                            Page 27 of 45
+             presented below in Table 9.
+
+             As shown, the observed 30-day MACE free rate was 92.2% and the lower bound of
+             the one-sided 95% confidence interval was 89.9%, greater than the performance goal
+             of 84.4%. As such, the null hypothesis that the 30-day MACE free rate was at most
+             84.4% was rejected, and the primary safety endpoint was met (p<0.0001).
+
+                      Table 9: Primary Safety Endpoint (Pivotal Analysis Set)
+                                        % (n/N)
+              Primary Safety         [95% Lower                        P
+                                                     Hypothesis               Conclusion
+                 Endpoint             Confidence                    value2
+                                       Interval]1
+                                                        H0ʌs 
+           Freedom from MACE                       4
+                                   92.2% (353/383)      84.4%                 Performance
+            within 30 days post-                                   <0.0001
+                                        [89.9%]         HA ʌs >              Goal Met
+                procedure3
+                                                        84.4%
+          1. 95% lower confidence interval is calculated based on a one-sided asymptotic Wald (normal
+             approximation-based) confidence interval for a binomial proportion. The standard error is
+             calculated from the sample proportion.
+          2. P-value is calculated based on a one-sided asymptotic Wald (normal approximation-based)
+             test for a binomial proportion at a 0.05 level of significance. The standard error is
+             calculated from the sample proportion.
+          3. All MACE were adjudicated by an independent CEC. If full data were not available, the
+             event was adjudicated based on the clinical judgement of the independent CEC. Missing
+             data were not imputed and a sensitivity analysis was performed to assess endpoint
+             robustness.
+          4. One subject was excluded from the primary safety endpoint analysis due to insufficient
+             follow-up (< 23 days).
+
+             Components of the composite primary safety endpoint are shown in Table 10. The
+             majority of 30-day events (27 of 30, 90.0%) occurred in the peri-procedural period as
+             indicated by the in-hospital MACE rate of 7.0% (27/384).
+
+               Table 10: Primary Safety Endpoint Components (Pivotal Analysis Set)
+                                                 In-Hospital 30-Day Follow-up
+                   Cumulative MACE Rates
+                                                   N=384           N=3831
+                  MACE2,3                             7.0% (27/384)        7.8% (30/383)
+                      Cardiac Death                    0.3% (1/384)         0.5% (2/383)
+                                        4
+                      Non-Q-wave MI                   5.7% (22/384)        6.0% (23/383)
+                      Q-wave MI                        1.0% (4/384)         1.6% (6/383)
+                      Target Vessel                    0.5% (2/384)         1.6% (6/383)
+                       Revascularization
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                             Page 28 of 45
+                                                      In-Hospital      30-Day Follow-up
+                   Cumulative MACE Rates
+                                                        N=384              N=3831
+                 1. One subject was excluded from the primary safety endpoint analysis due
+                    to insufficient follow-up (< 23 days).
+                 2. All MACE were adjudicated by an independent CEC. If full data were
+                    not available, the event was adjudicated based on the clinical judgement
+                    of the independent CEC. Missing data were not imputed and a sensitivity
+                    analysis was performed to assess endpoint robustness.
+                 3. Some subjects failed >1 component of the MACE criteria; therefore, the
+                    categories are not mutually exclusive.
+                 4. Myocardial Infarction (MI) is defined as CK-MB level > 3 times the
+                    upper limit of lab normal (ULN) value with or without new pathologic Q
+                    wave at discharge (periprocedural MI) and using the Fourth Universal
+                    Definition of Myocardial Infarction beyond discharge (spontaneous MI).
+
+             Adverse effects that occurred in the IDE clinical study:
+
+             All device and procedure related Serious Adverse Events (SAE) through 30 days are
+             summarized in Table 11, categorized by MedDRA code and stratified by device and
+             procedure relatedness. No unanticipated adverse device effects (UADEs) occurred.
+             In the pivotal cohort, 2.1% (8/384) of subjects experienced a device-related SAE and
+             6.8% (26/384) experienced a procedure-related SAE. The most common device-
+             related SAE was dissection (0.8%, 3/384); others included elevated cardiac
+             biomarker, angina, MI, perforation, ischemia and hypotension.
+
+               Table 11: Summary of SAEs through 30 Days (Pivotal Analysis Set)
+                                             Device-Related1  Procedure-Related2
+             System Organ Class /           Subjects Events     Subjects   Events
+             Preferred Term                 % (n/N)       N     % (n/N)       N
+             Total Patients with Serious 2.1% (8/384)     8  6.8% (26/384) 38
+             Adverse Events
+             Blood and lymphatic system 0.0% (0/384)      0  0.3% (1/384)     1
+             disorders
+               Anaemia                    0.0% (0/384)    0   0.0% (0/384)    0
+               Haemorrhagic anaemia       0.0% (0/384)    0   0.3% (1/384)    1
+               Iron deficiency anaemia    0.0% (0/384)    0   0.0% (0/384)    0
+             Cardiac disorders            1.8% (7/384)    7  5.5% (21/384) 25
+               Coronary artery dissection 0.8% (3/384)    3  2.9% (11/384) 11
+               Myocardial infarction      0.3% (1/384)    1   1.8% (7/384)    7
+               Arrhythmia                 0.0% (0/384)    0   0.5% (2/384)    2
+               Angina pectoris            0.3% (1/384)    1   0.5% (2/384)    2
+               Cardiac arrest             0.0% (0/384)    0   0.0% (0/384)    0
+               Cardiac failure congestive 0.0% (0/384)    0   0.0% (0/384)    0
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                            Page 29 of 45
+                                              Device-Related1   Procedure-Related2
+             System Organ Class /            Subjects Events      Subjects   Events
+             Preferred Term                  % (n/N)       N      % (n/N)      N
+               Coronary artery disease     0.0% (0/384)    0    0.0% (0/384)   0
+               Coronary artery occlusion 0.0% (0/384)      0    0.0% (0/384)   0
+               Coronary artery perforation 0.3% (1/384)    1    0.3% (1/384)   1
+               Coronary artery thrombosis 0.0% (0/384)     0    0.3% (1/384)   1
+               Left ventricular failure    0.0% (0/384)    0    0.0% (0/384)   0
+               Myocardial ischaemia        0.3% (1/384)    1    0.3% (1/384)   1
+             Congenital, familial and      0.0% (0/384)    0    0.3% (1/384)   1
+             genetic disorders
+              Congenital coronary artery 0.0% (0/384)      0    0.3% (1/384)    1
+              malformation
+             Gastrointestinal disorders 0.0% (0/384)       0    0.0% (0/384)    0
+               Enterocolitis haemorrhagic 0.0% (0/384)     0    0.0% (0/384)    0
+               Intestinal ischaemia        0.0% (0/384)    0    0.0% (0/384)    0
+             General disorders and         0.0% (0/384)    0    0.0% (0/384)    0
+             administration site
+             conditions
+               Non-cardiac chest pain      0.0% (0/384)    0    0.0% (0/384)    0
+               Pain                        0.0% (0/384)    0    0.0% (0/384)    0
+               Pyrexia                     0.0% (0/384)    0    0.0% (0/384)    0
+             Hepatobiliary disorders       0.0% (0/384)    0    0.3% (1/384)    1
+               Hepatic failure             0.0% (0/384)    0    0.3% (1/384)    1
+             Infections and infestations 0.0% (0/384)      0    0.0% (0/384)    0
+               Sepsis                      0.0% (0/384)    0    0.0% (0/384)    0
+               Diverticulitis              0.0% (0/384)    0    0.0% (0/384)    0
+             Injury, poisoning and         0.0% (0/384)    0    0.3% (1/384)    1
+             procedural complications
+               Facial bones fracture       0.0% (0/384)    0    0.0% (0/384)    0
+               Head injury                 0.0% (0/384)    0    0.0% (0/384)    0
+               Skin wound                  0.0% (0/384)    0    0.0% (0/384)    0
+               Vascular access site        0.0% (0/384)    0    0.3% (1/384)    1
+             haematoma
+             Investigations                0.0% (0/384)    0    0.5% (2/384)    2
+              Myocardial necrosis marker 0.0% (0/384)      0    0.5% (2/384)    2
+              increased (elevated cardiac
+              biomarker)
+             Metabolism and nutrition      0.0% (0/384)    0    0.0% (0/384)    0
+             disorders
+               Hyponatraemia               0.0% (0/384)    0    0.0% (0/384)    0
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                  Page 30 of 45
+                                                  Device-Related1 Procedure-Related2
+             System Organ Class /                Subjects Events    Subjects   Events
+             Preferred Term                      % (n/N)       N    % (n/N)      N
+             Musculoskeletal and               0.0% (0/384)    0  0.0% (0/384)   0
+             connective tissue disorders
+                Pain in extremity        0.0% (0/384)              0     0.0% (0/384)         0
+                Psoriatic arthropathy    0.0% (0/384)              0     0.0% (0/384)         0
+                Spinal osteoarthritis    0.0% (0/384)              0     0.0% (0/384)         0
+             Neoplasms benign,           0.0% (0/384)              0     0.0% (0/384)         0
+             malignant and unspecified
+             (incl cysts and polyps)
+                Bladder cancer           0.0% (0/384)              0     0.0% (0/384)         0
+                Hepatocellular carcinoma 0.0% (0/384)              0     0.0% (0/384)         0
+             Nervous system disorders    0.0% (0/384)              0     0.3% (1/384)         1
+                Cerebrovascular accident 0.0% (0/384)              0     0.3% (1/384)         1
+                Dizziness                0.0% (0/384)              0     0.0% (0/384)         0
+                Seizure                  0.0% (0/384)              0     0.0% (0/384)         0
+             Renal and urinary disorders 0.0% (0/384)              0     0.3% (1/384)         1
+                Acute kidney injury      0.0% (0/384)              0     0.0% (0/384)         0
+                Renal failure            0.0% (0/384)              0     0.3% (1/384)         1
+             Respiratory, thoracic and   0.0% (0/384)              0     0.3% (1/384)         1
+             mediastinal disorders
+                Respiratory failure      0.0% (0/384)              0     0.3% (1/384)         1
+             Vascular disorders          0.3% (1/384)              1     1.0% (4/384)         4
+                Hypertension             0.0% (0/384)              0     0.0% (0/384)         0
+                Hypotension              0.3% (1/384)              1     0.5% (2/384)         2
+                Shock                    0.0% (0/384)              0     0.3% (1/384)         1
+                Peripheral ischaemia     0.0% (0/384)              0     0.3% (1/384)         1
+             Note: A subject experiencing multiple occurrences of an adverse event was counted,
+             at most, once per system organ class and preferred term. Adverse events are coded
+             using MedDRA version 21.1.
+             1. Includes events reported with device relatedness as possible, probable or definite.
+             2. Includes events reported with procedure relatedness as possible, probable or
+               definite.
+
+             Angiographic complications for the pivotal cohort are summarized in Table 12.
+             Angiographic complications were assessed by the core lab at several time points
+             during the procedure including: pre-IVL, immediately following IVL (post-IVL),
+             following final pre-dilation after IVL but before stent placement (if applicable),
+             immediately following stent placement (post-stent), and after final OCT/IVUS (if
+             applicable).
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                               Page 31 of 45
+             In the pivotal cohort (n=384), 12 subjects (3.1%) experienced a serious angiographic
+             complication at any time, nine (9) subjects (2.6%, 9/341) experienced a serious
+             angiographic complication immediately following IVL, and two (2) (0.5%, 2/384)
+             had an ongoing serious angiographic complication at the end of procedure.
+
+             Table 12: Angiographic Complications (Core Lab) (Pivotal Analysis Set)
+                                          After
+                                                              Post
+                        Pre-              Final
+                                 Post-              Post-    OCT-      Final1 Anytime
+                        IVL              Pre-Dil
+                                 IVL                Stent    IVUS
+                                         Before
+                                          Stent
+       Any Serious       0.0%       2.6%       1.6%      0.8%      0.0%       0.5%        3.1%
+       Angiographic     (0/384)    (9/341)    (1/64)    (3/357)   (0/122)    (2/384)    (12/384)
+       Complication2
+       Any               0.0%      17.6%       6.3%      2.2%      0.0%       2.3%       18.0%
+       Dissection       (0/384)   (60/341)    (4/64)    (8/357)   (0/122)    (9/384)    (69/384)
+       Dissection3
+             A           0.0%       0.3%       0.0%      0.0%      0.0%       0.3%       0.5%
+                        (0/384)    (1/341)    (0/64)    (0/357)   (0/122)    (1/384)    (2/384)
+             B           0.0%      10.6%       3.1%      2.2%      0.0%       1.6%       12.2%
+                        (0/384)   (36/341)    (2/64)    (8/357)   (0/122)    (6/384)    (47/384)
+             C           0.0%       4.7%       1.6%      0.0%      0.0%       0.3%        4.4%
+                        (0/384)   (16/341)    (1/64)    (0/357)   (0/122)    (1/384)    (17/384)
+       Severe
+       Dissection
+       (Type D to F)
+             D           0.0%       1.5%       0.0%      0.0%      0.0%       0.0%       1.3%
+                        (0/384)    (5/341)    (0/64)    (0/357)   (0/122)    (0/384)    (5/384)
+             E           0.0%       0.6%       0.0%      0.0%      0.0%       0.0%       0.5%
+                        (0/384)    (2/341)    (0/64)    (0/357)   (0/122)    (0/384)    (2/384)
+             F           0.0%       0.0%       1.6%      0.0%      0.0%       0.3%       0.3%
+                        (0/384)    (0/341)    (1/64)    (0/357)   (0/122)    (1/384)    (1/384)
+       Perforation4
+             Any         0.0%       0.0%       0.0%      0.6%      0.0%       0.3%       0.5%
+                        (0/384)    (0/341)    (0/64)    (2/357)   (0/122)    (1/384)    (2/384)
+             I           0.0%       0.0%       0.0%      0.0%      0.0%       0.0%       0.0%
+                        (0/384)    (0/341)    (0/64)    (0/357)   (0/122)    (0/384)    (0/384)
+             II          0.0%       0.0%       0.0%      0.3%      0.0%       0.3%       0.3%
+                        (0/384)    (0/341)    (0/64)    (1/357)   (0/122)    (1/384)    (1/384)
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                        Page 32 of 45
+                                                  After
+                                                                          Post
+                           Pre-                   Final
+                                      Post-                   Post-      OCT-        Final1     Anytime
+                           IVL                   Pre-Dil
+                                      IVL                     Stent      IVUS
+                                                 Before
+                                                  Stent
+             III           0.0%       0.0%         0.0%       0.3%       0.0%         0.0%        0.3%
+                          (0/384)    (0/341)      (0/64)     (1/357)    (0/122)      (0/384)     (1/384)
+       Abrupt              0.0%       0.0%         1.6%       0.0%       0.0%         0.3%        0.3%
+       Closure            (0/384)    (0/341)      (1/64)     (0/357)    (0/122)      (1/384)     (1/384)
+       Slow Flow           0.0%       0.6%         0.0%       0.3%       0.0%         0.0%        0.8%
+                          (0/384)    (2/341)      (0/64)     (1/357)    (0/122)      (0/384)     (3/384)
+       No Reflow           0.0%       0.0%         0.0%       0.0%       0.0%         0.0%        0.0%
+                          (0/384)    (0/341)      (0/64)     (0/357)    (0/122)      (0/384)     (0/384)
+       1. The final image is the one chosen by the analyst based on optimal projection, image quality, etc.
+          from the post-procedural images obtained after all devices have been removed and the procedure
+          has been completed.
+       2. Serious angiographic complications include severe dissection (Type D to F), perforation, abrupt
+          closure, persistent slow flow and no flow.
+       3. Dissections were categorized per the NHLBI classification system.
+       4. Perforations were categorized per the Ellis classification for coronary perforation.
+
+             To date, follow-up is ongoing for the 6-month and 12-month time points. In
+             compliance with the SAP, survival analysis techniques were used to analyze time to
+             event variables that occurred later than 30 days of follow-up. For 6 and 12 months,
+             MACE rates are presented as Kaplan-Meier (KM) estimated event rates with the
+             number of subjects. The incidence of MACE, a composite of cardiac death, MI, and
+             TVR, in longer-term follow-up through 12 months is shown in Table 13. The MACE
+             rate (by KM estimate) at 6 and 12 months was 10.3% (39 total subjects) and 15.1%
+             (49 total subjects), respectively. Of the MACE events that occurred beyond 30 days,
+             none were adjudicated by the CEC as being probably or definitely device-related.
+
+        Table 13: Longer-term Major Adverse Cardiac Events (MACE) rates (CEC-Adjudicated)
+                   Cumulative MACE Rates          6 Months         12 Months
+                   Number of Subjects with                    370                   201
+                   Completed Follow-up Visits
+                   MACE1,2                                 10.3% (39)          15.1% (49)
+                      Cardiac Death                         0.8% (3)              1.3% (4)
+                                        3
+                      Non-Q-wave MI                        7.7% (29)             8.9% (32)
+                      Q-wave MI                             1.6% (6)              1.6% (6)
+                      Target Vessel                        2.9% (11)             7.0% (19)
+                       Revascularization
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                                 Page 33 of 45
+                     Cumulative MACE Rates                  6 Months              12 Months
+                  Note: 6- and 12-month MACE rates are presented as Kaplan-Meier estimated
+                  event rates with the number of events.
+                  1. All MACE were adjudicated by an independent CEC. If full data were
+                     not available, the event was adjudicated based on the clinical judgement
+                     of the independent CEC. Missing data were not imputed and a sensitivity
+                     analysis was performed to assess endpoint robustness.
+                  2. Some subjects failed >1 component of the MACE criteria; therefore, the
+                     categories are not mutually exclusive.
+                  3. Myocardial Infarction (MI) is defined as CK-MB level > 3 times the
+                     upper limit of lab normal (ULN) value with or without new pathologic Q
+                     wave at discharge (periprocedural MI) and using the Fourth Universal
+                     Definition of Myocardial Infarction beyond discharge (spontaneous MI).
+
+         2. Effectiveness Results
+            The analysis of effectiveness was based on the 384 evaluable patients at the 30-day
+            timepoint. Key effectiveness outcomes are presented in Table 14.
+
+             The observed rate of Procedural Success was 92.4% and the lower bound of the one-
+             sided 95% confidence interval was 90.2%, greater than the performance goal of
+             83.4%. As such, the null hypothesis that the procedural success rate was at most
+             83.4% was rejected and the primary effectiveness endpoint was met (p<0.0001).
+
+                  Table 14: Primary Effectiveness Endpoint (Pivotal Analysis Set)
+                                       % (n/N)
+          Primary Effectiveness     [95% Lower       Hypothesis P value2 Conclusion
+                Endpoint             Confidence
+                                      Interval]1
+                                                       H0ʌs               Performance
+                                  92.4% (355/384)       83.4%                   Goal Met
+         Procedural Success3                                        <0.0001
+                                       [90.2%]         HAʌs>
+                                                        83.4%
+         1. 95% lower confidence interval is calculated based on a one-sided asymptotic Wald (normal
+            approximation-based) confidence interval for a binomial proportion. The standard error is
+            calculated from the sample proportion.
+         2. P-value is calculated based on a one-sided asymptotic Wald (normal approximation-based)
+            test for a binomial proportion at a 0.05 level of significance. The standard error is calculated
+            from the sample proportion.
+         3. Procedural Success defined as stent delivery with a residual in-stent stenosis <50% (core
+            laboratory assessed) and without in-hospital MACE (CEC adjudicated).
+
+             Components of the composite primary effectiveness endpoint are shown in Table 15.
+             There were 27 subjects who experienced an in-hospital MACE. Three (3) subjects
+             did not receive a stent; two (2) were IVL Device Delivery Failures that did not
+             receive any percutaneous or surgical treatment on the day of the index procedure, and
+             one subject had failed stent delivery after successful IVL. All subjects who received
+             a stent had <50% residual in-stent stenosis per core lab analysis.
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                                  Page 34 of 45
+           Table 15: Primary Effectiveness Endpoint Components (Pivotal Analysis Set)
+                Primary Effectiveness Endpoint: Procedural
+                                                                  % (n/N)
+                Success
+                Procedural Success1,2                                      92.4% (355/384)
+                    Stent Delivered3                                       99.2% (381/384)
+                    < 50% Residual In-Stent Stenosis                      100.0% (381/381)
+                    Without In-Hospital MACE                               93.0% (357/384)
+                1. Procedural Success defined as stent delivery with a residual in-stent stenosis
+                   <50% (core laboratory assessed) and without in-hospital MACE (CEC
+                   adjudicated).
+                2. Some subjects failed >1 component of the Procedural Success criteria;
+                   therefore, the categories are not mutually exclusive.
+                3. Three (3) subjects did not receive a stent; two (2) were IVL Device
+                   Delivery Failures that did not receive any therapy on the day of the index
+                   procedure, and one subject had failed stent delivery after successful IVL.
+
+             A summary of post-IVL and post-stent angiography as determined by the Core Lab
+             for pivotal subjects is provided in Table 16.
+
+         Table 16: Post-IVL and Post-Stent Angiography (Core Lab) (Pivotal Analysis Set)
+                                                     Pivotal (N=384)
+                               Parameter                          Post-
+                                                  Post-IVL       Stent
+                                                               (In-Stent)
+                         MLD (mm), Mean ±        1.87 ± 0.48     2.74 ±
+                         Std Dev (N)                (341)      0.43 (381)
+                         % Diameter Stenosis,    37.2 ± 13.5 11.9 ± 7.1
+                         Mean ± StdDev (N)          (341)         (381)
+                         Acute Gain (mm),        0.82 ± 0.48     1.68 ±
+                         Mean ± Std Dev (N)         (339)      0.46 (378)
+                           MLD = minimal lumen diameter; Std Dev = standard
+                           deviation
+
+             Target Lesion Revascularization (TLR) was 0.3% in-hospital and 1.3% at 30 days.
+             At 6 and 12 months, Kaplan-Meier (KM) estimates are 2.4% and 4.8%, respectively.
+
+             Additional secondary endpoints were evaluated, but did not identify any new safety
+             issues and showed similar results to the other endpoints presented.
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                               Page 35 of 45
+             Device Malfunctions
+
+             Table 17 provides details on the catheter malfunctions related to balloon rupture/loss
+             of pressure, stratified by catheter design. The modified Shockwave C2 IVL catheter
+             included a slight increase in the balloon double wall thickness (DWT) in order to
+             reduce the potential for loss of pressure. Because multiple IVL catheters were used in
+             some cases, rates are shown by subject and by catheter.
+
+             In the safety set (n=431), a total of 527 catheters were used: 342 catheters (64.9%)
+             with the original design and 185 (35.1%) with the modified design. The rate of
+             balloon rupture/loss of pressure in the original catheter group was 9.4% (32/342)
+             versus 5.9% (11/185) in the modified design group.
+
+                              Table 17: IVL Catheter Malfunctions (Safety Set)
+                                   Original Catheter Design*    Modified Catheter Design*
+             Catheter                 Subjects         Catheters          Subjects          Catheters
+        Malfunction/Deficiency        (n=276)          (n=342)            (n=159)           (n=185)
+                                      % (n/N)          % (n/N)            % (n/N)           % (n/N)
+       Balloon rupture/loss
+                                  10.5% (29/276) 9.4% (32/342)          6.3% (10/159)      5.9% (11/185)
+       of pressure
+          Prior to IVL               0.4% (1/276) 0.3% (1/342)           0.6% (1/159)      0.5% (1/185)
+          During the
+                                  4.3% (12/276) 3.8% (13/342)            3.8% (6/159)      3.8% (7/185)
+          IVL treatment
+          During the post-
+          IVL low pressure        5.8% (16/276) 4.7% (16/342)            1.9% (3/159)      1.6% (3/185)
+          balloon dilatation
+          Other: Blood noted
+                                     0.7% (2/276) 0.6% (2/342)           0.0% (0/159)      0.0% (0/185)
+          in balloon
+       *Four (4) subjects underwent procedures using both types of catheters and are included in both
+        categories.
+
+             A post-hoc sub-group analysis was conducted to evaluate the association between
+             balloon loss of pressure and post-IVL angiographic adverse events and 30-day
+             MACE in the safety set of Disrupt CAD III (n=431). Results are shown in Table 18.
+             Please note that the reported rates in the balloon loss of pressure group shown in
+             Table 2 are influenced by the low denominator (n=39).
+
+             Table 18: Angiographic Complications in Subjects with and without Balloon
+                      Loss of Pressure (Safety Set)
+                                                           No Loss
+                                             Loss of        of               P-
+                                                                                 1
+                                            Pressure        Pressure       value
+                30-Day MACE2               7.7% (3/39)   8.2% (32/391)     1.0000
+                                                                  3
+                Post-IVL Angiographic Complications (ACL-assessed)
+                   Dissection            29.7% (11/37) 16.2% (56/345) 0.0650
+                      Grade A-C           24.3% (9/37)  14.5% (50/345) 0.1471
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                               Page 36 of 45
+                                                                    No Loss
+                                                 Loss of             of                   P-
+                                                Pressure             Pressure           value1
+                      Grade D-F                5.4% (2/37)         1.7% (6/345)         0.1763
+                   Perforation                 0.0% (0/37)         0.0% (0/345)         1.0000
+                   Abrupt closure              0.0% (0/37)         0.0% (0/345)         1.0000
+                   Slow flow                   2.7% (1/37)         0.3% (1/345)         0.1846
+                   No reflow                   0.0% (0/37)         0.0% (0/345)         1.0000
+                MACE = major adverse cardiac events; ACL = angiographic core lab
+                1. P-value is calculated based on a two-sided Fisher exact test at a 0.05 level of
+                   significance.
+                2. A total of 430 subjects in the safety set were evaluated for 30-day MACE; one
+                   subject (105-009) was excluded due to insufficient follow-up.
+                3. A total of 382 subjects in the safety set had post-IVL images available for
+                    analysis.
+
+             Results show no significant difference in 30-day MACE or post-IVL angiographic
+             complications (core lab assessed) between subjects with and without balloon loss of
+             pressure. The overall rate of dissections was numerically higher in the loss of
+             pressure group but was not statistically significant (p=0.0650). In patients with
+             balloon loss of pressure, the majority of the dissections identified by the core lab were
+             low grade (A-C).
+
+             FDA believes that these data support the reasonable assurance of device safety and
+             effectiveness but will continue to monitor this occurrence in a larger patient cohort
+             through a post approval registry study (see details below).
+
+         3. Subgroup Analyses
+            The following preoperative characteristics were evaluated for potential association
+            with outcomes: age >75, prior CABG, gender, site geography, RVD < 2.25 mm,
+            lesion length > 27 mm, bifurcated lesions, diabetics, and renal insufficiency.
+
+             Freedom from 30-day MACE was observed in 92.8% (272/293) males and 90.0%
+             (81/90) females. No evidence of heterogeneity regarding the primary safety endpoint
+             was observed between gender groups. The procedural success rate for males was
+             93.2% (274/294) and for females 90.0% (81/90). Similarly, no evidence of
+             heterogeneity regarding the primary effectiveness endpoint was observed between
+             gender groups.
+
+         4. Pediatric Extrapolation
+            In this premarket application, existing clinical data was not leveraged to support
+            approval of a pediatric patient population.
+
+      E. Financial Disclosure
+
+         The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+         applicants who submit a marketing application to include certain information concerning
+         the compensation to, and financial interests and arrangement of, any clinical investigator
+         conducting clinical studies covered by the regulation. The pivotal clinical study included
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                               Page 37 of 45
+         218 investigators of which none were full-time or part-time employees of the sponsor and
+         four (4) of the investigators had disclosable financial interests/arrangements as defined in
+         21 CFR 54.2(a), (b), (c) and (f) and described below:
+
+              x   Compensation to the investigator for conducting the study where the value could
+                  be influenced by the outcome of the study: None of the investigators
+              x   Significant payment of other sorts: two (2) of the investigators (one investigator
+                  had both significant payments of other sorts and equity)
+              x   Proprietary interest in the product tested held by the investigator: None of the
+                  investigators
+              x   Significant equity interest held by investigator in sponsor of covered study:
+                  three (3) of the investigators (one investigator had both equity and significant
+                  payments of other sorts)
+
+         The applicant has adequately disclosed the financial interest/arrangements with clinical
+         investigators. Statistical analyses were conducted by FDA to determine whether the
+         financial interests/arrangements had any impact on the clinical study outcome. The
+         information provided does not raise any questions about the reliability of the data.
+
+XI.   SUMMARY OF SUPPLEMENTAL CLINICAL INFORMATION
+
+      The Disrupt CAD III study includes three (3) sub-studies:
+
+      Optical Coherence Tomography (OCT) sub-study
+      The objective of the OCT sub-study was to further understand the mechanism of action of
+      intravascular lithotripsy for the treatment of severely calcified, stenotic de novo coronary
+      lesions prior to stenting in up to 100 subjects.
+
+      A total of 180 subjects consented for potential participation in the OCT sub-study. Of these,
+      109 subjects underwent OCT with images submitted to the core lab, and 100 had image sets
+      suitable for analysis (including availability of at least one post-IVL or post-stent image).
+      Results are summarized in Table 19.
+
+      The Disrupt CAD III OCT sub-study provides safety and effectiveness data confirming the
+      impact of coronary IVL on the vascular response to therapy. Vascular trauma as assessed by
+      intra-medial hematoma following IVL was minimal. The OCT data provide further evidence
+      of calcium fracture as the underlying mechanism of action for coronary IVL. OCT imaging
+      after coronary IVL in severely calcified vessels demonstrated calcium fractures in two-thirds
+      of lesions which resulted in increased vessel compliance and facilitated an increase in
+      minimum stent area and favorable stent expansion.
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                          Page 38 of 45
+                               Table 19: OCT Sub-Study Results
+                                 OCT Parameter                    N=100
+                   Pre-procedure, n                                 97
+                                            2
+                   Minimal lumen area, mm                        2.2 ± 0.8
+                   Lumen area stenosis, %                      72.4 ± 11.6
+                   Lesion length, mm                            31.6 ± 10.2
+                   Calcium angle at max calcium site, degrees  292.5 ± 76.5
+                   Post-IVL, n                                      92
+                                        2
+                   Acute area gain, mm                           1.4 ± 1.1
+                   Calcium fracture, %                             67.4
+                   Intra-medial hematoma in lesion, %               6.1
+                   Max angle of intra-medial hematoma, °       107.2 ± 51.4
+                   Length of intra-medial hematoma, mm           8.3 ± 4.3
+                   Post-stent, n                                    98
+                                      2
+                   Min stent area, mm                            6.5 ± 2.1
+                   Stent expansion at max calcium site, %      101.7 ± 28.9
+                   Values are % or mean ± SD
+
+      Hemodynamic sub-study
+      The Disrupt CAD III Hemodynamic sub-study was designed to evaluate the effect of IVL on
+      hemodynamics during the index procedure in a minimum of 20 subjects.
+
+      Table 20 summarizes the hemodynamic data for those subjects with IVL-induced capture
+      (n=171; 41.1%) and those without (n=245; 58.9%). Pre-procedure heart rate (HR) was lower in
+      the group with IVL-induced capture (65.9 ± 11.4 vs 69.0 ± 11.9 bpm, p=0.0094) and a higher
+      SHUFHQWDJHRIVXEMHFWVKDG+5ESP YVS  LQWKDWJURXS There
+      were no instances of sustained ventricular arrhythmias in the group with IVL-induced
+      capture, and there was no difference in the magnitude of BP drop between the two groups.
+
+        Table 20: Hemodynamic Effects of IVL-Induced Capture During Index Procedure
+                                          Subjects without Subjects with
+                                           IVL-induced     IVL-induced
+                    Parameter                                              p-value
+                                              capture         capture
+                                              (n=245)         (n=171)
+           Pre-Procedure Heart Rate (bpm)        69.0 ± 11.9        65.9 ± 11.4       0.0094
+              +HDUW5DWHESP              20.8% (51/245)     37.4% (64/171)      0.0002
+           Drop in Systolic BP during IVL
+                                               24.5% (58/237)     40.5% (66/163)      0.0007
+           Procedure
+              Clinically Significant Drop in
+                                                3.4% (2/58)2,3     1.5% (1/66)4       0.5988
+              Systolic BP1
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                         Page 39 of 45
+                                                 Subjects without       Subjects with
+                                                  IVL-induced           IVL-induced
+                       Parameter                                                           p-value
+                                                     capture              capture
+                                                     (n=245)              (n=171)
+              Magnitude of Systolic BP
+                                                     23.5 ± 15.0         18.9 ± 14.2        0.0670
+              Drop
+           Sustained Ventricular Arrhythmia
+                                                   0.4% (1/245)2         0% (0/171)         1.0000
+           During or After IVL Procedure
+           1. Clinical significance determined by the investigator.
+           2. One subject experienced a drop in BP (23 mmHg) secondary to ventricular tachycardia
+              which occurred during pre-dilatation prior to IVL and the procedure continued without
+              further complication.
+           3. One subject experienced a drop in BP (50 mmHg) following two unsuccessful attempts
+              to deliver a stent post-IVL, loss of guidewire position, difficulty placing a new
+              guidewire, and subsequent PTCA.
+           4. One subject experienced a drop in BP (36 mmHg) after becoming transiently
+              bradycardic and hypotensive following IVL; after treatment, the procedure continued
+              without further complication.
+
+      IVL-induced capture is a recognized risk identified in the current Instructions for Use (IFU).
+      Previously published reports along with data from Disrupt CAD III suggest the phenomenon
+      is more likely to occur in patients with a lower heart rate (< 60 bpm). Those with IVL-
+      induced capture had a prompt return of the normal rhythm and blood pressure once the IVL
+      therapy was completed. Based on the totality of information available (Disrupt CAD I, II, III
+      and published reports to date), the likelihood that IVL-induced capture may lead to a
+      clinically significant arrythmia is low.
+
+      Permanent Pacemaker (PPM) and Implantable Cardioverter Defibrillator (ICD) sub-
+      study
+      The Disrupt CAD III PPM/ICD sub-study was designed to evaluate the safety and impact of
+      IVL on implantable pacemaker and defibrillator devices in a minimum of 20 subjects. Of the
+      seven (7) subjects who consented to have the device interrogated for the sub-study, pre-
+      procedure and post-procedure interrogation reports were available for five (5) subjects. Sites
+      reported no impact on device settings, sensing or pacing functions and no triggered ICD
+      shocks were reported.
+
+      In Disrupt CAD III, 27 patients were analyzed, using a combination of procedural heart
+      rhythm/hemodynamics and PPM/ICD device interrogation. The pre-procedure heart rate in
+      the PPM/ICD sub-group was similar to the full study population (68.9 ± 13.3 vs 67.8 ± 11.8
+      bpm, respectively). IVL-induced capture was noted more frequently in the PPM/ICD group
+      compared to all enrolled subjects (59.3% vs 41.1%). The proportion of PPM/ICD subjects
+      with a transient drop in systolic blood pressure during the IVL procedure was similar to the
+      incidence in the full safety set (37.0% vs 31.0%, respectively); the magnitude of the drop was
+      likewise comparable (18.4 ± 18.9 vs 21.1 ± 14.7 mmHg). There were no instances of
+      clinically significant drop in blood pressure or sustained ventricular arrhythmia in the
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                              Page 40 of 45
+       PPM/ICD group. There were no reports of shocks triggered by IVL in those with an ICD.
+       Sites reported no impact on device settings, sensing or pacing functions and no triggered ICD
+       shocks were reported.
+
+       Furthermore, in a pooled safety set analysis of patients enrolled in Disrupt CAD I, II, II and
+       IV which includes 42 data on 42 patients with PPM/ICDs, there were no PPM/ICD-related
+       events and no hemodynamic adverse events, as noted in Table 21 below. Three (3) subjects
+       enrolled in Disrupt CAD III (7.1%, 3/42) with a PPM/ICD experienced an arrhythmia > 30
+       days following the index procedure; however, none were related to the study device (IVL) or
+       the index procedure.
+
+          Table 21: Summary of PPM/ICD Events (CAD I-IV Pooled Safety Set)
+                       CAD I1        CAD II2       CAD III3        CAD IV4                              Pooled
+                                                                                                         6.1%
+  Prior PPM/ICD         11.7% (7/60)        5.8% (7/120)      6.3% (27/431)       1.4% (1/72)
+                                                                                                       (42/683)
+  AEs Relevant to
+  Potential
+                            0.0% (0/7)       0.0% (0/7)        11.1% (3/27)        0.0% (0/1)        7.1% (3/42)
+  PPM/ICD
+  Interaction
+   PPM/ICD
+                            0.0% (0/7)       0.0% (0/7)         0.0% (0/27)        0.0% (0/1)        0.0% (0/42)
+   Events5
+   Arrhythmia               0.0% (0/7)       0.0% (0/7)        11.1% (3/27)6       0.0% (0/1)        7.1% (3/42)
+   Hemodynamic
+                            0.0% (0/7)       0.0% (0/7)         0.0% (0/27)        0.0% (0/1)        0.0% (0/42)
+   Events7
+  IVL-related
+  AEs Relevant to
+  Potential                 0.0% (0/7)       0.0% (0/7)        0.0% (0/27)         0.0% (0/1)        0.0% (0/42)
+  PPM/ICD
+  Interaction
+   Adverse
+                            0.0% (0/7)       0.0% (0/7)         0.0% (0/27)        0.0% (0/1)        0.0% (0/42)
+   pacing/ICD5
+   Arrhythmia               0.0% (0/7)       0.0% (0/7)         0.0% (0/27)        0.0% (0/1)        0.0% (0/42)
+   Hemodynamic
+                         0.0% (0/60)         0.0% (0/7)         0.0% (0/27)        0.0% (0/1)        0.0% (0/42)
+   events7
+  1. CAD I includes all AEs reported during the study follow-up period (180 days).
+  2. CAD II includes all AEs reported during the study follow-up period (30 days).
+  3. CAD III includes all AEs reported as of June 28, 2020 during the study follow-up period (24 months); follow-
+    up is ongoing.
+  4. CAD IV includes all AEs reported as of August 6, 2020 during the study follow-up period (24 months);
+    follow-up is ongoing.
+  5. Inappropriate ICD shock, transient pacing inhibition
+  6. All 3 subjects had medical history of arrhythmia; no events were device-related and all occurred > 30 days
+     after index procedure.
+  7. Hypotension, cardiogenic shock, hemodynamic instability
+
+
+       In addition, a literature review of 66 independent publications with coronary IVL was
+       completed to assess the association of PPM/ICD adverse events and coronary IVL.
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                                 Page 41 of 45
+       Publications included case reports/series, single-center and multi-center studies. Only three
+       (3) publications reported prior PPM/ICD in the study results; no adverse events were
+       associated with prior PPM/ICD in these publications [4-6].
+
+       Based on the totality of the data, the likelihood for adverse interaction between IVL
+       treatment and implanted PPM/ICD devices is low. FDA believes that these data support
+       reasonable assurance of safety and effectiveness in this patient population, though this
+       occurrence will continue to be monitored in a larger patient cohort through a post approval
+       registry study (see details below).
+
+XII.   PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+       Medical Devices Act of 1990, this PMA was not referred to the Circulatory System Devices
+       Panel, an FDA advisory committee, for review and recommendation because the information
+       in the PMA substantially duplicates information previously reviewed by this panel.
+
+XIII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+       A. Effectiveness Conclusions
+
+          The study met its primary effectiveness endpoint. The observed rate of Procedural
+          Success was 92.4% (355/384) and the lower bound of the one-sided 95% confidence
+          interval was 90.2%, greater than the performance goal of 83.4%. As such, the null
+          hypothesis was rejected, and the primary effectiveness endpoint was met (p<0.0001).
+          These results support the effectiveness of the Shockwave IVL System with Shockwave
+          C2 Coronary IVL Catheter for the treatment of severely calcified, stenotic de novo
+          coronary lesions prior to stenting.
+
+       B. Safety Conclusions
+
+          The risks of the device are based on nonclinical laboratory, animal studies, as well as data
+          collected in clinical studies, conducted to support PMA approval as described above.
+          The study met its primary safety endpoint. The observed freedom from 30-day MACE
+          was 92.2% (353/383) and the lower bound of the one-sided 95% confidence interval was
+          89.9%, greater than the performance goal of 84.4%. As such, the null hypothesis was
+          rejected, and the primary safety endpoint was met (p<0.0001). These results support the
+          safety of the Shockwave IVL System with Shockwave C2 Coronary IVL Catheter for the
+          treatment of severely calcified, stenotic de novo coronary lesions prior to stenting.
+
+       C. Benefit-Risk Determination
+
+          The probable benefits and probable risks of the device are also based on data collected in
+          a clinical study conducted to support PMA approval as described above. The Disrupt
+          CAD III Study met the study success criteria by meeting both the primary safety and
+          effectiveness endpoints. The study evidence supports the reliability of the device and
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                           Page 42 of 45
+         demonstrates the probable benefits to health for its intended uses, patients, and conditions
+         of use, when accompanied by adequate directions and warnings against unsafe use,
+         outweigh any probable risks.
+
+         Additional factors to be considered in determining probable risks and benefits for the
+         Shockwave Intravascular Lithotripsy (IVL) System with Shockwave C2 Coronary IVL
+         Catheter device included:
+             i. The clinical study was well designed and conducted. The clinical study provided
+                 adequate follow-up (30 days) to evaluate safety and effectiveness, with separate
+                 analyses conducted to assess the impact of missing data.
+            ii. The device is intended for the treatment of severely calcified, stenotic de novo
+                 coronary lesions prior to stenting. The results adequately support general use in
+                 the identified population.
+           iii. The frequency and types of the adverse events reported throughout the pivotal
+                 clinical study are in alignment with what might be expected in the studied patient
+                 population and therapeutic area. No unanticipated adverse device effects were
+                 reported in the study.
+
+         1. Patient Perspectives
+
+             This submission either did not include specific information on patient perspectives or
+             the information did not serve as part of the basis of the decision to approve or deny
+             the PMA for this device.
+
+         In conclusion, given the available information above, the data support that for the treatment
+         of severely calcified, stenotic de novo coronary lesions prior to stenting, the probable benefits
+         outweigh the probable risks.
+
+      D. Overall Conclusions
+
+         The data in the PMA application support the reasonable assurance of safety and
+         effectiveness of this device when used in accordance with the indications for use. Given
+         all of the available data, it is reasonable to conclude that the benefits of the use of the
+         device for the target population outweigh the risk of illness or injury when used as
+         indicated in accordance with the labeling and Instructions for Use (IFU).
+
+XIV. CDRH DECISION
+
+      CDRH issued an approval order on February 12, 2021. The final conditions of approval
+      cited in the approval order are described below.
+
+      1. Shockwave IVL System with Shockwave C2 Coronary IVL Catheter New Enrollment Post
+         Approval Registry: This new enrollment registry assessment is a prospective,
+         multicenter, single-arm post-approval registry to further evaluate the Shockwave
+         Intravascular Lithotripsy (IVL) System with the Shockwave C2 Coronary IVL Catheter in
+         severely calcified, stenotic de novo coronary arteries prior to stenting. The purpose of the
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                              Page 43 of 45
+         study is to better understand the utilization, safety, and effectiveness of Shockwave
+         Medical Coronary IVL in a real-world setting.
+
+         The study will collect data on the following outcomes: rate of 1) IVL-related ventricular
+         arrhythmias, 2) IVL balloon loss of pressure and related serious dissections, and 3) safety
+         of IVL in patients with prior permanent pacemakers and implantable cardioverter
+         defibrillators (PPM/ICD).
+
+         Approximately 1000 patients (including a minimum of 30 PPM/ICD patients) with
+         clinical characteristics similar to IDE G180146 will be enrolled and followed through
+         discharge. A minimum of 150 patients will be followed 30 days post-procedure.
+
+         Interim results and final results will be analyzed using descriptive statistics. Six (6)
+         month interim summaries and/or registry status will be submitted for the first two (2)
+         years and then annually thereafter, out to 3 years (or earlier if data collection, including a
+         minimum of thirty (30) PPM/ICD patients, has been completed).
+
+      2. DISRUPT CAD III Continued Follow-Up Study: This study will evaluate the long-term
+         safety and effectiveness of the Shockwave Coronary Lithotripsy System in 384 subjects
+         from the premarket study (DISRUPT CAD III trial). The DISRUPT CAD III trial was
+         designed as a prospective, multicenter, single arm trial. Subjects will be followed
+         annually through 2 years post-procedure.
+
+         The primary safety endpoint is freedom from major adverse cardiac events (MACE) at 12
+         and 24 months, reported descriptively.
+
+         The endpoints to be assessed through 2 years post-procedure are rate of: (1) target lesion
+         failure (TLF) and (2) all death, cardiac death, MI, TV-MI, nonprocedural MI, ID-TVR,
+         ID-TLR, ID-non-TLR ID-non-TVR, all revascularizations (ID and non-ID), and stent
+         thrombosis (ARC definite, probable, definite or probable) at 6, 12 and 24 months.
+
+         Robust independent adjudication of events (i.e., Clinical Events Committee) will be
+         maintained throughout the Continued Follow-Up Study, unmodified from the pivotal
+         portion of the study. DISRUPT CAD III updates will be provided annually until all
+         subjects have completed the 2-year follow-up visit, are discontinued prior to the 2-year
+         follow-up visit, have died, or the 2-year follow-up window has closed.
+
+      The applicant’s manufacturing facilities have been inspected and found to be in compliance
+      with the device Quality System (QS) regulation (21 CFR 820).
+
+XV.   APPROVAL SPECIFICATIONS
+
+      Directions for use: See device labeling.
+
+      Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+      Precautions, and Adverse Events in the device labeling.
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                            Page 44 of 45
+      Post-approval Requirements and Restrictions: See approval order.
+
+XVI. REFERENCES
+
+      1. Chambers, J.W., et al., Pivotal trial to evaluate the safety and efficacy of the orbital
+         atherectomy system in treating de novo, severely calcified coronary lesions (ORBIT II).
+         JACC Cardiovasc Interv, 2014. 7(5): p. 510-8.
+      2. Thygesen, K., et al., Fourth Universal Definition of Myocardial Infarction (2018). J Am
+         Coll Cardiol, 2018. 72(18): p. 2231-2264.
+      3. Moussa, I.D., et al., Consideration of a new definition of clinically relevant myocardial
+         infarction after coronary revascularization: an expert consensus document from the
+         Society for Cardiovascular Angiography and Interventions (SCAI). Catheter Cardiovasc
+         Interv, 2014. 83(1): p. 27-36. Chambers, J.W., et al., Pivotal trial to evaluate the safety
+         and efficacy of the orbital atherectomy system in treating de novo, severely calcified
+         coronary lesions (ORBIT II). JACC Cardiovasc Interv, 2014. 7(5): p. 510-8.
+      4. Wilson, S.J., et al., Incidence of "shocktopics" and asynchronous cardiac pacing in
+         patients undergoing coronary intravascular lithotripsy. EuroIntervention, 2020. 15(16): p.
+         1429-1435.
+      5. Boeder, N.F., et al., First-in-man lithoplasty of a LIMA bypass with ECMO support in a
+         last-remaining-vessel. Cardiovasc Revasc Med, 2020.
+      6. Hill, J.M., et al., Intravascular Lithotripsy for Treatment of Severely Calcified Coronary
+         Artery Disease: The Disrupt CAD III Study. J Am Coll Cardiol, 2020. 76(22): p. 2635-
+         46.
+
+
+
+
+PMA P200039: FDA Summary of Safety and Effectiveness Data                         Page 45 of 45
+

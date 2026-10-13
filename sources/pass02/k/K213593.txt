@@ -1,0 +1,225 @@
+January 14, 2022
+
+Boston Scientific Corporation
+Cassie Clark
+Regulatory Affairs Specialist II
+1 Scimed Place
+Maple Grove, Minnesota 55311
+
+
+Re: K213593
+    Trade/Device Name: OptiCross™ Coronary Imaging Catheter, OptiCross™ 6 Coronary Imaging
+                         Catheter, OptiCross™ HD Coronary Imaging Catheter, and OptiCross™ 6 HD
+                         Coronary Imaging Catheter.
+    Regulation Number: 21 CFR 870.1200
+    Regulation Name: Diagnostic intravascular catheter
+    Regulatory Class: Class II
+    Product Code: OBJ, ITX
+    Dated: December 16, 2021
+    Received: December 17, 2021
+
+Dear Cassie Clark:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.04.27
+Silver Spring, MD 20993
+www.fda.gov
+K213593 - Cassie Clark                                                                                Page 2
+
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801 and Part 809 ); medical device reporting (reporting of medical device-related adverse events) (21 CFR
+803) for devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+                                                                      Digitally signed by
+                                                                      Marco Cannella -S
+                                                 for
+                                                 Aneesh Deoras
+                                                 Assistant Director Division of Cardiac
+                                                   Electrophysiology, Diagnostics and Monitoring Devices
+                                                 Office of Cardiovascular Devices
+                                                 Center for Devices and Radiological Health
+                                                 U.S. Food and Drug Administration
+Enclosure
+                                                              300 Boston Scientific Way
+                                                              Marlborough, MA 01752-1234
+                                                              508-683-4000
+                                                              www.bostonscientific.com
+
+
+
+
+                                K213593
+                             510(k) Summary
+                                per 21 CFR §807.92
+
+  Sponsor            Boston Scientific Corporation
+                     300 Boston Scientific Way
+                     Marlborough, Massachusetts 01752
+                     USA
+
+  Contact Name and   Cassie Clark
+  Information        One Scimed Place
+                     Maple Grove, MN 55311-1566
+                     Phone: 763-494-1425
+                     e-mail: Cassie.Clark@bsci.com
+
+  Prepared by        Cassie Clark
+                     November 10, 2021
+
+  Proprietary Name   OptiCrossTM Coronary Imaging Catheter, OptiCrossTM 6 Coronary
+                     Imaging Catheter, OptiCrossTM HD Coronary Imaging Catheter,
+                     OptiCrossTM 6 HD Coronary Imaging Catheter
+
+  Common Name        Diagnostic Intravascular Catheter, Ultrasound Transducer
+
+  Product Code       OBJ, ITX
+
+  Classification     Catheter, Ultrasound, Intravascular (OBJ) has been classified as Class
+                     II per 21 CFR 870.1200
+                     Transducer Ultrasonic (ITX) has been classified as Class II per 21
+                     CFR 892.1570
+
+  Predicate Device   OptiCrossTM 6 HD Coronary         K173820         January 17, 2018
+                     Imaging Catheter
+
+                     OptiCrossTM HD Coronary           K173284         November 16, 2017
+  Other Predicate
+                     Imaging Catheter
+  Device
+                     Atlantis SR Pro Coronary
+  Reference Device                                     K063312         November 30, 2006
+                     Imaging Catheter
+
+
+
+
+Page 1 of 3                                                                      K213593
+  Device Description
+
+  The OptiCross and OptiCross 6 40 MHz Coronary Imaging Catheters are sterile, short rail imaging
+  catheters. Available in 5F and 6F sizes.
+  OptiCross HD and OptiCross 6 HD 60 MHz Coronary Imaging Catheters are sterile, short rail
+  imaging catheters. Available in 5F and 6F sizes.
+  All catheters consist of two main assemblies:
+  1. Imaging Core
+  2. Catheter Body
+  The imaging core is composed of a hi-torque, flexible, rotating drive cable with a radial looking 40
+  MHz or 60 MHz ultrasonic transducer at the distal tip. An electro-mechanical connector interface at
+  the proximal end of the catheter makes the connection to the Motordrive Unit (MDU5 PLUS™)
+  Instrument. The MDU5 PLUS-catheter interface consists of an integrated mechanical drive socket
+  and electrical connection.
+  The catheter body is comprised of three sections:
+  1. Distal Imaging Window Lumen
+  2. Proximal Shaft Lumen
+  3. Telescope Section
+  The distal imaging window lumen and proximal shaft lumen sections comprise the “working length”
+  of the catheter, and the telescoping section remains outside of the guiding catheter.
+  The catheter body has a distal imaging window lumen with proximal exit at 1.6 cm from the distal
+  end. A radiopaque (RO) marker is embedded in the catheter body at 0.5 cm from the distal tip. In
+  addition, two insertion depth markers are located on the proximal shaft lumen at 90 cm and 100 cm
+  from the distal tip to aid in estimating catheter position relative to the distal guide catheter tip. The
+  proximal shaft lumen is attached to the telescoping section via a strain relief connection.
+  The telescoping shaft (section) allows the imaging core to be advanced and retracted for 15 cm of
+  linear movement. The corresponding movement of the transducer occurs from the proximal end of
+  the guidewire exit port to the proximal end of the distal imaging window lumen. The telescope section
+  has proximal markers for lesion length assessment, consisting of a series of marks spaced 1 cm
+  apart on the telescope body.
+  A flush port with a one-way check valve is used to flush the interior of the catheter body and
+  maintain a flushed condition. The catheter must be flushed with heparinized saline prior to use, as
+  this provides the acoustic coupling media required for ultrasonic imaging. The one-way check
+  valve helps retain saline in the catheter during use.
+  The Coronary Imaging Catheter, 17.78 cm (7 in) extension tube, 3 cm³ (3 cc) and 10 cm³ (10 cc)
+  syringes, and 4-way stopcock are provided in a single use sterilized package. The MDU5 PLUS
+  Sterile Bag is provided in a separate sterile pouch within the finished carton along with the catheter
+  package.
+
+  Indications for Use / Intended Use
+
+  This catheter is intended for ultrasound examination of coronary intravascular pathology only.
+  Intravascular ultrasound imaging is indicated in patients who are candidates for transluminal
+  coronary interventional procedures.
+
+
+
+
+Page 2 of 3                                                                                     K213593
+  Comparison of Technological Characteristics
+
+  The OptiCrossTM, OptiCrossTM 6, OptiCrossTM HD, and OptiCrossTM 6 HD Coronary Imaging
+  Catheters incorporate substantially equivalent design, materials, fundamental technology, interface
+  with the IVUS imaging system, sterilization process, and intended use as those featured in the
+  predicate; OptiCrossTM 6 HD Coronary Imaging Catheter K173820. The OptiCross and OptiCross 6
+  Coronary Imaging Catheters utilize a 40 MHz transducer used for imaging. The OptiCross HD and
+  OptiCross 6 HD catheters utilize a 60 MHz transducer used for higher definition imaging. All
+  catheters interface with the same IVUS imaging system in the same way as the predicate.
+
+  Non-clinical Performance Data
+  Determination of substantial equivalence is based on an assessment of non-clinical performance
+  bench testing data.
+  Bench Testing
+  Bench testing was performed to evaluate physical integrity, functionality, and performance of the
+  OptiCrossTM Family Coronary Imaging Catheters. Performance criteria includes imaging
+  robustness requirements, catheter robustness requirements, dimensional requirements, and
+  interface with compatible devices.
+
+  Clinical Testing
+  Performance testing from clinical studies is not required to demonstrate substantial equivalence of
+  the OptiCrossTM Family Coronary Imaging Catheters.
+
+  Conclusion
+  Based on the indications for use, technological characteristics, and performance testing, the
+  OptiCrossTM Family Coronary Imaging Catheters have been shown to be appropriate for their
+  intended use and are considered to be substantially equivalent to the predicate device;
+  OptiCrossTM 6 HD Coronary Imaging Catheter K173820.
+
+
+
+
+Page 3 of 3                                                                                 K213593
+

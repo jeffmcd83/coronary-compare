@@ -1,0 +1,317 @@
+===== K062877.txt
+2 | Langston Dual Lumen Catheter (K061565), manufactured by Vascular Solutions, Inc.
+2 | The Twin-Pass .023" catheter has a polymeric dual-lumen design. The over-the wire
+2 | lumen extends from the luer hub to the catheter's distal end and accommodates <0.018
+2 | guidewires. The rapid-exchange lumen is on the distal 20cm of the catheter and
+2 | accommodates <0.014 guidwires. The Twin-Pass .023" catheter is compatible with
+2 | >6F guide catheters and has a working length of approximately 135cm. Each catheter
+2 | has a single radiopaque markerband near its distal tip and printed positioning marks at
+2 | stiffening mandrel assembly that is inserted into the over-the-wire lumen to provide
+3 | Air Leak During Aspiration Packaging-Labeling Legibility
+===== K063695.txt
+1 | core wire, a tip coil, a tip coil marker, and surface coating. The core wire is constructed
+1 | of a Ni/Ti alloy wire and a stainless steel wire joined together. The tip coil marker, a
+1 | Pt/Ni alloy, is radiopaque. The tip coil has lubricous coating (silicone coating) and/or
+1 | hydrophilic coating on the surface depending on product code. The shaft is surface-
+1 | also available in a hyper-coating type which is more lubricous than the standard wire.
+2 | Available diameter 0.014" ( 0.36mm ) 0.014" ( 0.36mm
+2 | Tip marker length 30mm 20mm
+3 | * Coating Adherence/Integrity
+3 | the FDA General Program Memorandum #G95-1 (5/1/95): Use of International
+===== K101116.txt
+1 | Wire Family with Hydrophilic Coating
+1 | The HI-TORQUE PJLOT'Um Guide Wire with Hydrophilic Coating is a guide wire with a
+1 | maximum diameter of 0.0140" and is available in a 190 cm extendable length and a 300
+1 | without manual shaping. Brachial and femoral markers are located on the proximal
+1 | distal, polyurethane-covered area of the wire is covered with a hydrophilic coating.
+2 | materials to the currently marketed product in that its core wire, tip coils, and solders
+2 | remain the same. The hydrophilic coaling has been changed but is identical to previously
+2 | In vitro bench testing, including coating adherence and integrity (particulate testing), and
+2 | the hydrophilic coating has not impacted safety or effectiveness of the device. Other
+2 | program and therefore, the rn-TORQUE PILOT Guide Wire may be considered
+3 | With Hydrophilic Coating
+===== K113335.txt
+2 | a stainless steel mesh sandwiched between a layer of polytetrafluoroethylene and a
+3 | Braid Stainless steel
+4 | Usable length 100 cm 100 cm,110ocm
+5 | 3. Product dimensions(O.D. ,effective length)
+6 | the FDA General Program Memorandum #G95-1 (5/1/95): Use of International
+===== K140695.txt
+2 | Summary of Medtronic Guidewires consist of a corewire covered with
+3 | marker bands on few Medtronic Guidewires to help in
+3 | iii. Outer Diameter Measurement.
+===== K143701.txt
+3 | angiographic procedures to provide an image of the vessel lumen and wall structures
+5 | All of the EEP line of catheters utilizes an internal lumen that allows the catheters to track over a
+5 | 0.014" (0.36 mm) guide wire. The guide wire exits from the guide wire lumen approximately 24
+5 | Volcano s5i™, Volcano CORE Mobile, and Volcano CORE imaging systems. The catheters are
+5 | adjunct to conventional angiographic procedures to provide an image of the vessel lumen and
+5 | The modification made to the EEP line of catheters (change in hydrophilic coating) does not
+===== K152335.txt
+1 | Trade/Device Name: Export Advance™ Aspiration Catheter
+3 | Device Name: Medtronic Export Advance™ Aspiration Catheter
+3 | The Export Advance™ Aspiration Catheter is indicated for:
+3 | - Removal/aspiration of embolic material (thrombus/debris) from vessels of the arterial
+4 | Trade Name: Export Advance™ Aspiration Catheter
+4 | Export® Advance Aspiration Catheter.
+4 | Device The Export Advance™ Aspiration Catheter is a dual
+4 | Description: lumen catheter used for the aspiration of thrombus
+4 | Statement of Intended The Export Advance™ Aspiration Catheter is indicated
+4 | • Removal/aspiration of embolic material
+5 | Comparison to the The Export Advance™ Aspiration Catheter represents a
+5 | predicate devices change to the dual lumen section (micro-lumen section)
+5 | vii. Distal Shaft (Dual Lumen/Oversleeve)
+5 | ix. Microlumen (wire lumen)
+5 | xii. Hydrophilic lubricous coating
+5 | Aspiration Catheter has met the acceptance criteria and
+5 | predicate device is the dual lumen section, only
+5 | not changing as a result of the dual lumen design
+5 | change. The microlumen sleeve material is changing
+6 | device Export Advance™ Aspiration Catheter is
+6 | Data: subject device Export Advance™ Aspiration Catheter.
+6 | device Export Advance™ Aspiration Catheter is
+===== K152447.txt
+5 | has a hydrophilic coating on the outer surface of the shaft tube to provide a smooth
+5 | the inner lumen of the catheter for the purposes of a smooth transition and
+5 | Effective Length 1350 – 1500 mm 900 - 1500mm
+5 | Nominal OD Distal : 0.62mm, Proximal : 0.85 Distal : 0.75mm, Proximal : 1.0mm
+===== K160583.txt
+3 | an adjunct to conventional angiographic procedures to provide an image of the vessel lumen and wall structures.
+4 | PREDICATEDEVICE: VolcanoRevolution®45MHzRotationalIntravascularIVUSImaging
+5 | Catheterconsistsoftwomainassemblies:theimagingcoreandthe
+5 | sectionwitha.014”compatiblerapidexchangeguidewirelumenand
+5 | Thedistal,mid,andproximalsectionscomprisetheusablelengthor
+5 | workinglengthofthecatheter.Thetelescopingsectionremains
+5 | imagingcoretobeadvancedandretractedforupto15cmoflinear
+5 | TheimagingcoreiscomposedofahiͲtorque,flexible,rotatingdrive
+5 | Thecatheterbodyhasadistalguidewirelumenwithaproximalexit
+5 | standardtipmodel)fromthedistalend.Oneradiopaque(RO)marker
+5 | ThecatheterisforusewiththeVolcanos5®andCORE®imagingsystems
+5 | vessellumenandwallstructures.
+6 | animageofthevessellumenandwallstructures.”isbeingaddedtothe
+6 | anddiffersintheouterpolymershaftdesign,hydrophiliccoatingand
+6 | sterilepouchdesign.Theworkinglengthsareidenticalforboththe
+6 | Refinityreplaceswithashaftmadeofbraidedstainlesssteelin
+6 | TheRevolutioniscoatedwithasiliconebasedlubriciouscoatingwhile
+6 | theRefinityiscoatedwithahydrophiliccoating.
+7 | x DimensionalVerification:Tubinglengthsandouterdiameters
+7 | flushingthelumenwithsterilesaline.Acceptancecriteria:
+7 | exchangeguidewirelumenthatallowsthecathetertobe
+7 | lengthoftheguidewirelumenwasmeasuredonsample
+===== K161126.txt
+4 | connector for catheter control and infusion of contrast media. The device has a hydrophilic coating
+4 | the distal end. The inner lumen of the catheter is PTFE for the purposes of a smooth transition
+5 | Overall Length 135 cm/ 150 cm 90 cm / 135 cm/ 150 cm
+5 | Nominal OD 0.93 mm 0.93 mm
+5 | Coating Length 600 mm
+5 | Coating material Hydrophilic
+6 | is no marker in the Subject device.
+===== K163314.txt
+5 | Guidezilla II Guide Extension Catheter consists of a proximal stainless steel hypotube,
+5 | distal guide catheter segment incorporates one radiopaque marker band located 2 mm
+5 | from the distal tip of the device. The radiopaque collar and marker band aid in
+5 | positioning the device during the procedure. A hydrophilic coating is applied to the
+6 | Minimum Inner Diameter
+6 | Average Outer Diameter
+6 | Device Length Guidezilla
+===== K172090.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.01.96
+4 | GuideLiner V3 catheter have a 150 cm working length, consisting of a 125 cm long stainless steel
+4 | iridium marker bands; the distal marker band is located at the distal tip and the proximal marker band is
+5 | • Distal Shaft Length
+===== K180558.txt
+4 | Device Description: PressureWire™ X guidewire is available in two different lengths.
+4 | Comparison of window to a three-window jacket design, and the window length was extended. The
+5 | available in two different lengths. available in two different lengths.
+6 | Reserve (FFR). Reserve (FFR).
+6 | • Signal Quality during Pullback Procedure
+===== K183353.txt
+5 | Device The Telescope guide extension catheter is a single-lumen rapid exchange
+6 | • Maximum outer diameter
+6 | • Catheter effective length
+6 | • Coating Particulate
+===== K190401.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.03.07
+5 | The MAMBA device is available in a 135cm length, while MAMBA Flex is available in 135cm and
+5 | The MAMBA Flex models have a smaller outer diameter and a more flexible distal portion than the
+5 | Marks on the proximal portion of the catheter shaft and a radiopaque marker at the distal tip
+5 | The device's inner lumen permits the use of 0.014 in./0.36 mm or smaller guidewires. The shaft
+5 | of the shaft is coated hydrophilic coating to assist in advancement.
+5 | The proximal end has a single luer hub for flushing or injecting through the inner lumen and is for
+5 | guide wire lumen access during a guidewire exchange.
+6 | retraction, wire movement, shaft and manifold torque, wire lumen burst, tip bond, guidewire
+===== K190473.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.04.07
+4 | The ACIST Navvus II MicroCatheter is a single-lumen monorail catheter designed to be used with
+4 | standard 0.014 in (0.36 mm) guidewires in the arterial vasculature. The MicroCatheter is compatible with
+4 | The Navvus II MicroCatheter distal shaft is 26 cm in length with a pressure sensor located 5 mm from the
+4 | distal tip. The elliptical distal shaft is 1.68 x 1.91F (0.020 in x 0.025 in) up to 10 mm from the distal tip; a
+4 | maximum profile of 2.7F (0.036 in) occurs at the pressure sensor. The distal shaft smoothly tapers over
+4 | the pressure sensor and down to the tip accepting the guidewire. A radiopaque marker band is located 2.5
+4 | white positioning markers are located at 80 cm and 100 cm from the distal tip. The pressure sensor on the
+5 | cardiovascular specialty laboratories to compute and display fractional flow reserve (FFR) and resting
+5 | FFR and resting Pd/Pa supplement the visual data provided by angiography and provides an assessment
+5 | Measurement of FFR and resting Pd/Pa requires simultaneously monitoring the blood pressures proximal
+5 | Pd/Pa is the ratio of distal coronary arterial pressure to aortic pressure, measured at resting conditions. The
+5 | physician may then use the resting Pd/Pa value, along with knowledge of patient history, medical expertise
+5 | and clinical judgment to determine if an additional measurement of FFR during hyperemia or therapeutic
+5 | originally cleared. The Pd/Pa function has always existed on the device as this change is simply to include
+5 | it in the labeling. The Navvus II differs from the predicate device with regard to the tip OD (0.06mm
+5 | difference) and the distance from the distal end of the sensor to the marker band (0.10 difference). Design
+6 | Principles of Use Calculates FFR and Pd/Pa based on simultaneous Same
+6 | over the proximal end of the 0.014 in (0.36 mm)
+6 | and positioned with the radiopaque marker in the
+6 | proximal from the marker band visible under
+6 | Configuration Navvus Catheter is a 0.022” catheter with and integrated Same
+===== K191560.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.04.06
+4 | The Turnpike catheters are single lumen catheters designed for use in the coronary and peripheral
+4 | in various tip and shaft configurations. The distal 60cm of each catheter has a hydrophilic coating. The
+4 | Turnpike catheters are available in 135 cm or 150 cm working lengths and are compatible with 0.014"
+4 | to the working length and hub configuration and the addition of a low‐profile version.
+5 |  Hydrophilic Coating Evaluation  ISO 10555‐1 Verification
+===== K192599.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.04.12
+4 | guide wire with a maximum diameter of 0.014 inches (0.36mm) and available in 190cm length.
+4 | wire is constructed from a stainless-steel core wire with a platinum-nickel and stainless-steel
+4 | soldered to the core wire. The distal end of the guide wire has a radiopaque outer coil and inner
+4 | coil to achieve visibility and can be made to bend easily with the vessel curve. A hydrophilic
+5 | coating is applied to the distal portion of the guide wire. The coil assembly construction is similar
+5 | Outer Coil Material Stainless Steel Platinum Nickel
+5 | Core Wire Material Stainless Steel Stainless Steel
+5 | Inner Coil Material Stainless Steel Stainless Steel
+5 | Overall Length 190cm 190cm, 300cm
+5 | Distal Section Coating length 40cm 40cm
+6 | • Coating Adhesion / Integrity
+6 | • Coating Integrity/Particulate
+===== K192886.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.04.14
+4 | diameter of 0.014" (0.36 mm), a length of 185 cm and is available in straight or pre-
+4 | shaped tips. It is coated with hydrophilic coating (39 cm length) on the distal portion
+4 | coating (146 cm length) on the proximal portion to reduce surface friction.
+4 | are 0.014’’ (0.36 mm) diameter pressure guide wires. They are both 185 cm in
+4 | length, use the same pressure sensor, and both utilize a torque device to aid with
+5 | in adult patients eligible for Series, and CORE Series of
+5 | The pressure guide wire has a diameter of 0.014”
+5 | has a diameter of 0.014" (0.36 mm).
+5 | (0.36 mm), a length of 185
+5 | Technical Wire Diameter: 0.0145 Wire Diameter: 0.0145
+5 | Specifications Wire Length: 185 cm Wire Length: 185 cm and
+===== K193279.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.04.12
+5 | sensor is integrated within the distal region of a 0.014” guidewire to measure blood
+5 | fractional flow reserve (FFR) value calculated from the ratio of distal pressure over
+===== K210655.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.04.33
+4 | the vessel lumen and wall structures.
+5 | lumen that allows the catheter to track over the 0.014” (0.36 mm) guide wire. The guide
+5 | wire exits from the guide wire lumen approximately 24 cm proximal to the catheter tip.
+6 | Three 1 mm-long radiopaque markers are incorporated on the internal lumen positioned
+6 | the portion of the scanner marker tube normally visible under fluoroscopy.
+6 | Series and CORE Series of Systems. This catheter will not operate if connected to any
+6 | A hydrophilic coating is applied externally to a distal portion of the catheter.
+6 | Item French Minimum Length
+6 | Eye Platinum RX 85900P 3.5F 0.014” 0.056” 150
+6 | the vessel lumen and wall structures.
+6 |  Hydrophilic Coating
+===== K212211.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.04.31
+5 | The Turnpike catheters are single lumen catheters designed for use in the coronary and peripheral
+5 | layer coil. The distal 60 cm of the Turnpike catheters are hydrophilic coated, and all models are
+5 | compatible with 0.014" guidewires and 5F guide catheters. The turnpike catheters are available in four
+5 | GuideLiner V3 catheter have a 150 cm working length, consisting of a 125 cm long stainless steel
+5 | end of the pushrod. The stainless steel hypotube pushrod is covered on the distal end by a semi-circular
+5 | polymer (‘half-pipe’) and transitions to a hydrophilic coated full-round polymer guide extension section.
+5 | There are two radiopaque marker bands on the guide extension segment, one on the distal tip and one on
+5 | single radiopaque gold marker under the proximal end of the balloon. The balloon is reflowed, and an
+6 | radiopaque tip and a lumen compatible with 0.014” guidewires.
+6 | Device Description Single lumen guidewire support catheter with radiopaque tip
+6 | Guidewire Compatibility ≤ 0.014"
+6 | Working Length 135 cm, 150 cm
+6 | Proximal Shaft OD 0.038” 0.037”
+6 | Distal Shaft OD 0.029” – 0.038” 0.034”
+7 | Distal Tip OD 0.021” – 0.028” 0.017”
+7 | Single lumen rapid exchange Single lumen guidewire support
+7 | Guidewire Compatibility ≤ 0.014"
+7 | 5 Fr: ID ≥0.056" (1.42 mm)
+7 | 5.5 Fr: ID ≥0.066" (1.68 mm)
+7 | 6 Fr: ID ≥0.070" (1.78 mm)
+7 | 7 Fr: ID ≥0.078" (1.98 mm)
+===== K213593.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.04.27
+5 | The OptiCross and OptiCross 6 40 MHz Coronary Imaging Catheters are sterile, short rail imaging
+5 | OptiCross HD and OptiCross 6 HD 60 MHz Coronary Imaging Catheters are sterile, short rail
+5 | The imaging core is composed of a hi-torque, flexible, rotating drive cable with a radial looking 40
+5 | MHz or 60 MHz ultrasonic transducer at the distal tip. An electro-mechanical connector interface at
+5 | 1. Distal Imaging Window Lumen
+5 | 2. Proximal Shaft Lumen
+5 | The distal imaging window lumen and proximal shaft lumen sections comprise the “working length”
+5 | The catheter body has a distal imaging window lumen with proximal exit at 1.6 cm from the distal
+5 | end. A radiopaque (RO) marker is embedded in the catheter body at 0.5 cm from the distal tip. In
+5 | addition, two insertion depth markers are located on the proximal shaft lumen at 90 cm and 100 cm
+5 | proximal shaft lumen is attached to the telescoping section via a strain relief connection.
+5 | The telescoping shaft (section) allows the imaging core to be advanced and retracted for 15 cm of
+5 | the guidewire exit port to the proximal end of the distal imaging window lumen. The telescope section
+5 | has proximal markers for lesion length assessment, consisting of a series of marks spaced 1 cm
+6 | Coronary Imaging Catheters utilize a 40 MHz transducer used for imaging. The OptiCross HD and
+6 | OptiCross 6 HD catheters utilize a 60 MHz transducer used for higher definition imaging. All
+===== K220683.txt
+1 | Trade/Device Name: INDIGO Aspiration System (CAT RX Aspiration Catheter and Separator 4)
+1 | 10903 New Hampshire Avenue Doc ID# 04017.05.00
+4 | INDIGO Aspiration System (CAT RX Aspiration Catheter and Separator 4)
+4 | The INDIGO CAT RX Aspiration Catheters and INDIGO Separator 4
+4 | As part of the INDIGO Aspiration System, the INDIGO CAT RX Aspiration Catheters and INDIGO Separator 4 are
+4 | The INDIGO Aspiration Tubing
+4 | As part of the INDIGO Aspiration System, the INDIGO Sterile Aspiration Tubing is indicated to connect the INDIGO
+4 | CAT RX Aspiration Catheters to the Penumbra Aspiration Pump.
+4 | Penumbra Aspiration Pump
+4 | The Penumbra Aspiration Pump is indicated as a vacuum source for Penumbra Aspiration Systems.
+===== K220962.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.05.00
+4 | a guide for the sliding elements that control burr advancement and the
+4 | catheter portion of the device guides the burr through the vasculature
+5 | rotation of the burr.
+5 | the burr and displays
+6 | Burr Rotation Pneumatically Same Same
+===== K223026.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.05.02
+5 | The NES Reprocessed Eagle Eye Platinum RX Digital IVUS Catheter utilizes an internal lumen that allows
+5 | the catheter to track over the 0.014” (0.36 mm) guide wire. The guide wire exits from the guide wire
+5 | lumen approximately 24 cm proximal to the catheter tip. The catheter is introduced percutaneously or
+6 | Three 1 mm-long radiopaque markers are incorporated on the internal lumen positioned 10 mm apart
+6 | marker tube normally visible under fluoroscopy.
+6 | The Eagle Eye catheter may only be used with the Volcano s5 Series or CORE Series of Systems
+6 | A hydrophilic coating is applied externally to a distal portion of the catheter.
+6 | Description Item Number French Size Guide Wire Length (cm)
+6 | 85900P 3.5F 0.014” 5F 150 cm
+6 | conventional angiographic procedures to provide an image of the vessel lumen and wall structures.
+6 | o Hydrophilic Coating
+===== K230411.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.06.01
+4 | fiber optic imaging core. The external sheath serves two primary functions: 1) to
+4 | protect the internal rotating fiber optic imaging core. The inner rotating fiber
+4 | Device optic imaging core emits near infrared light to tissues and receives reflected light.
+4 | Description It is driven by a stainless-steel torque wire visible under fluoroscopy and pulled
+4 | external sheath completely covers the rotating imaging core.
+===== K232584.txt
+1 | 10903 New Hampshire Avenue Doc ID# 04017.06.05
+6 | cleaned, inspected, hydrophilic coated, functionally tested, packaged, and
+7 | The subject devices utilize an internal lumen that allows the catheter to track over
+7 | the 0.014” (0.36mm) guide wire. The guide wire exits from the guide wire lumen
+7 | Three 1 mm-long radiopaque markers are incorporated on the internal lumen
+7 | proximal edge of the portion of the scanner marker tube normally visible under
+7 | The subject devices may only be used with Volcano s5 Series or CORE Series
+7 | predicate and is used for flushing the device’s lumen with heparinized normal
+7 | Reference French Guide Minimum Working
+7 | Number Size Wire Sheath Length
+7 | VEN-PV-014P 3.5F 0.014” 5F 150 cm
+7 | VEN-PV-EEP 3.5F 0.014” 5F 150 cm
+7 | VEN-PV-EEPST 3.5F 0.014” 5F 150 cm
+7 | VEN-PV-014R 3.5F 0.014” 5F 150 cm
+8 | angiographic procedures to provide an image of the vessel lumen and wall
+8 | Hydrophilic Coating Length 24cm Identical
+8 | Working Length 150cm Identical
+8 | Max Working Length Diameter 3.3 F Identical
+8 | Guidewire Compatibility 0.014” (0.36mm) Identical
+8 | Markers 3 radiopaque markers Identical
+9 | o Hydrophilic Coating Integrity

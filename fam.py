@@ -11,7 +11,7 @@ F={
 "Integrity":("Integrity",r"^Integrity$",None,None),
 "REBEL":("REBEL",r"REBEL",None,None),
 "PK Papyrus":("PK_Papyrus",r"Papyrus",None,None),
-"GRAFTMASTER RX":("GRAFTMASTER_RX",r"GRAFTMASTER",None,None),
+"GRAFTMASTER RX":("GRAFTMASTER_RX",r"(?i)GRAFTMASTER",None,None),
 "AGENT":("AGENT",r"AGENT",None,None),
 "NC TREK RX":("TREK_RX",r"^NC TREK(™)?$",None,None),
 "NC TREK NEO":("TREK_RX",r"NC TREK NEO",None,None),

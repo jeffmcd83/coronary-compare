@@ -1,0 +1,1115 @@
+       SUMMARY OF SAFETY AND PROBABLE BENEFIT (SSPB)
+I.      GENERAL INFORMATION
+
+        Device Generic Name: Coronary Covered Stent
+
+        Device Trade Name: PK Papyrus Covered Coronary Stent System
+
+        Device Procode: NIV
+
+        Applicant's Name and Address: BIOTRONIK, Inc.
+                                      6024 Jean Road
+                                      Lake Oswego, OR 97035
+
+        Date(s) of Panel Recommendation: None
+
+        Humanitarian Device Exemption (HDE) Number: H170004
+
+        Humanitarian Use Device (HUD) Designation Number: HUD # 15-0343
+
+        Date of HUD Designation: November 30, 2015
+
+        Date of Notice of Approval to Applicant: September 14, 2018
+
+II.     INDICATIONS FOR USE
+
+        The PK Papyrus Covered Coronary Stent System is indicated for the treatment of acute
+        perforations of native coronary arteries and coronary artery bypass grafts in vessels 2.5 to
+        5.0 mm in diameter.
+
+        The indication for use statement has been modified from that granted for the HUD
+        designation. The HUD designation was for “permanent intraluminal placement in the
+        coronary arteries to treat acute coronary artery perforations (CAP).” It was modified for
+        the HDE approval to specify the types of vessels and vessel sizes appropriate for
+        treatment with the subject device.
+
+III.    CONTRAINDICATIONS
+
+          •     Patients in whom antiplatelet agents or anticoagulation therapy is
+                contraindicated.
+          •     Patients with a known allergy or hypersensitivity to amorphous silicon carbide
+                or any other compound of the system (siloxane-based polyurethane, L-605
+                cobalt chromium alloy including tungsten and nickel).
+          •     Lesions that cannot be reached or treated with the system.
+          •     Lesions with threatened or abrupt closure during attempted pre-dilation prior to
+                stent implantation.
+          •     Risk of treatment-related occlusion of vital coronary artery side branches.
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                                  Page 1
+        •    Uncorrected bleeding disorders.
+        •    Allergy to contrast media.
+
+IV.   WARNINGS AND PRECAUTIONS
+
+      The warnings and precautions can be found in the PK Papyrus Covered Coronary Stent
+      System labeling.
+
+V.    DEVICE DESCRIPTION
+
+      The PK Papyrus Covered Coronary Stent System (PK Papyrus) is a balloon-expandable
+      covered stent, pre-mounted on a fast-exchange delivery system (see Figure 1). The covered
+      stent is intended to be a permanent implant.
+
+
+
+
+                                            Hypotube
+
+
+
+
+                    Figure 1: PK Papyrus Covered Coronary Stent System
+
+      The stent is laser-cut from a tube of L605 cobalt chromium alloy (CoCr) and is
+      completely coated with amorphous hydrogen rich silicon carbide (a-SiC:H) referred to as
+      proBIO. The abluminal side of the stent body is covered with a polymeric electrospun
+      cover made of siloxane-based polyurethane. The stent body is available in three stent
+      configurations: small (Ø = 2.5 – 3.0 mm), medium (Ø = 3.5 – 4.0 mm), and large (Ø =
+      4.5 – 5.0 mm). A matrix of the available sizes is provided in Table 1.
+
+                       Table 1: Matrix of Available Sizes for PK Papyrus
+            Stent      Nominal Stent Inner      Nominal Stent Length [mm]
+            Design     Diameter (ND) [mm]       15       20          26
+                                2.5                       
+            Small
+                                3.0                                    
+                                3.5                                    
+            Medium
+                                4.0                                    
+                                4.5                                    
+            Large
+                                5.0                                    
+
+      The delivery system is a fast-exchange percutaneous transluminal coronary angioplasty
+      (PTCA) catheter with a working length of 140 cm. To facilitate fluoroscopic
+      visualization and positioning, the stent is centered between two radiopaque markers. The
+      proximal shaft of the stent system is a hypotube. It has a single Luer port for connecting
+      an inflation/deflation device to inflate/deflate the balloon. The catheter has a silicone-
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                            Page 2
+         based hydrophobic coating on the outer surface of the proximal shaft and a hydrophilic
+         coating on the outer surface of the distal shaft. The stent system is compatible with
+         guidewires of 0.014” (0.36 mm) diameter and guiding catheters with an inner diameter of
+         ≥ 0.056” (1.42 mm).
+
+VI.      ALTERNATIVE PRACTICES AND PROCEDURES
+
+        Alternatives for the correction of coronary artery perforations include:
+         •       Prolonged balloon inflation at the site of contrast extravasation
+         •       Reversal of anticoagulation
+         •       Bare metal stent implantation
+         •       Emergency cardiothoracic surgery
+
+VII.     MARKETING HISTORY
+
+         PK Papyrus has been marketed outside of the United States since November 2013. A list
+         of countries where PK Papyrus is distributed is provided in Table 2. The device has not
+         been withdrawn from marketing for any reason relating to safety and effectiveness.
+
+                      Table 1: List of Countries where PK Papyrus is Distributed
+      Argentina              Croatia              Iran          Palestine        South Africa
+       Australia             Curacao             Israel         Panama              Spain
+        Austria          Czech Republic           Italy        Paraguay           Sri Lanka
+        Bahrain             Denmark             Kuwait           Poland            Sweden
+      Bangladesh             Finland             Latvia         Portugal         Switzerland
+       Belgium                France           Lebanon          Romania           Thailand
+         Brazil             Germany           Macedonia       Saudi Arabia         Turkey
+       Bulgaria              Greece            Malaysia          Serbia          United Arab
+        Canada             Hong Kong             Malta         Singapore           Emirate
+         Chile               Hungary          Netherlands       Slovakia       United Kingdom
+       Colombia                India         New Zealand        Slovenia          Venezuela
+      Costa Rica            Indonesia            Oman                              Yemen
+
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+         Below is a list of the potential adverse effects (i.e., complications) associated with the use
+         of the device.
+             •     Cardiac events: myocardial infarction or ischemia, abrupt closure of the treated
+                   artery or side branch; restenosis of the treated artery; cardiogenic shock; angina;
+                   dissection, perforation or other coronary artery or aortic injury; residual
+                   perforation; pericardial effusion; cardiac tamponade; aneurysm formation;
+                   emergency cardiac surgery
+             •     Arrhythmic events: ventricular tachycardia, ventricular fibrillation, atrial
+                   fibrillation, bradycardia
+
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                                     Page 3
+         •   Stent system events: failure to deliver the stent to the intended site, stent
+             dislodgement from the delivery system, stent misplacement, stent deformation,
+             stent embolization, stent thrombosis or occlusion, stent fracture, stent migration,
+             stent loss, inadequate apposition or deformation of the stent, inflation or deflation
+             difficulties, rupture of the delivery system balloon, stent system withdrawal
+             difficulties, embolization of catheter material
+         •   Respiratory events: acute pulmonary edema, congestive heart failure, respiratory
+             insufficiency or failure
+         •   Vascular events: hypotension/hypertension; pseudoaneurysm; arteriovenous
+             fistula; retroperitoneal hematoma; vessel dissection, perforation, rupture or other
+             injury; restenosis; thrombosis or occlusion; compromise of side branch patency;
+             occlusion of side branches; vasospasm; peripheral ischemia; embolization of air,
+             thrombotic, atherosclerotic or catheter material
+         •   Neurologic events: stroke, TIA, femoral nerve injury, peripheral nerve injury
+         •   Bleeding events: access site bleeding or hemorrhage, access site hematoma
+         •   Local or systemic infection
+         •   Allergic reactions to contrast media, antiplatelet agents, anticoagulants, amorphous
+             silicon carbide or any other stent system compound (e.g., siloxane-based
+             polyurethane and L-605 cobalt chromium alloy including tungsten and nickel)
+         •   Death
+
+      The non-US PK Papyrus post-market clinical survey provided the analysis of serious
+      adverse events, which are described in the summary of clinical studies in Section X.
+
+IX.   SUMMARY OF NON-CLINICAL STUDIES
+
+      A. Laboratory Studies
+
+      The objectives of the laboratory studies were to assess the functional characteristics of
+      PK Papyrus.
+
+              a. In Vitro Bench Testing
+
+      Testing was conducted according to the guidelines provided in FDA Guidance for Industry
+      and FDA Staff – Non-clinical Tests and Recommended Labeling for Intravascular Stents
+      and Associated Delivery Systems (April 18, 2010).
+      Additionally, testing followed updated guidelines provided in Select Updates for Non-
+      Clinical Engineering Tests and Recommended Labeling for Intravascular Stents and
+      Associated Delivery Systems – (Updated BMS guidance, August 18, 2015).
+      Table 3 summarizes the bench testing performed on the PK Papyrus. The test results are
+      supportive of the device safety and probable benefit.
+              Table 2: Non-Clinical Engineering Tests of Stent and Delivery System
+
+
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                               Page 4
+          Test                    Test Purpose                 Acceptance Criteria               Results
+                                Stent Dimensional and Functional Testing
+Identification of stent  To identify and list all          The test passed if all                    Pass
+materials                materials used in the             materials could be identified.
+                         construction of the stent body,
+                         including the a-SiC:H coating
+                         and the stent cover.
+Identification of        To identify the design and all    The test passed if all                    Pass
+packaging materials      materials used for the            materials could be identified.
+                         packaging design.
+Surface characterization Characterization of the stent     Characterization study only.     Elemental
+                         surface and a-SiC:H coating.                                       components of the
+                                                                                            coating and stent
+                                                                                            were detected.
+                                                                                            Coating was
+                                                                                            confirmed to be
+                                                                                            uniform.
+Accelerated durability    To evaluate the aspects of the The test passed if no failure              Pass
+testing stent             long-term integrity of the stent due to fatigue or coating
+overlapped/Coating        and any coating under cyclic damages was seen.
+durability/Fretting       radial loading conditions in
+corrosion assessment      overlapping and statically bent
+                          configuration and the
+                          susceptibility of the metallic
+                          components of the stent to
+                          fretting corrosion in a
+                          simulated physiological
+                          environment.
+Corrosion resistance –    To determine the                 The test passed if the stent              Pass
+Galvanic, Pitting,        susceptibility of the metallic   was resistant to corrosion
+Crevice                   components of the stent to       when subjected to
+                          Galvanic, Pitting, and Crevice physiological conditions at
+                          Corrosion in a simulated         the implantation site.
+                          physiological environment.       • Galvanic Corrosion – The
+                                                              theoretical calculated
+                                                              corrosion rate in
+                                                              penetration < 0.001
+                                                              mm/year.
+                                                           • Pitting and Crevice
+                                                              Corrosion:
+                                                              • Range of stable
+                                                                  passivity >200 mV
+                                                              • Breakdown potential
+                                                                  >300 mV vs.
+                                                                  Saturated Calomel
+                                                                  Electrode (SCE).
+
+
+
+      HDE H170004 FDA Summary of Safety and Probable Benefit                                Page 5
+          Test                     Test Purpose                Acceptance Criteria               Results
+Dimensional inspection To inspect and measure the          The test passed if the stent              Pass
+– stent                stent body dimensions before        met the design specifications
+                       placement onto delivery             for dimensions.
+                       system.
+Foreshortening stent   To determine the                    The test passed if the                    Pass
+                       foreshortening of the stent.        foreshortening of the stent
+                                                           was +5%/-10%.
+Elastic recoil            To determine the amount of       The test passed if the elastic            Pass
+                          elastic recoil after deployment recoil was ≤ 9%.
+                          to determine the diameter of
+                          the stent in its deployed state.
+Stent integrity           To determine the ability of the The test passed if no failures             Pass
+                          stent surface/coating to resist due to baseline/simulated
+                          damage due to loading,           use testing and no cracks or
+                          tracking, and deployment.        ruptures in the metal stent
+                                                           body was seen.
+Radial stiffness & radial To determine the                 Characterization study only.  The covered stent
+strength, crush           load/deformation                                               demonstrated
+resistance                characteristics of the stent                                   sufficient radial
+                          while a radial load was                                        stiffness to resist
+                          applied.                                                       acute recoil and to
+                                                                                         keep the lumen
+                                                                                         open.
+Mechanical properties     To determine the mechanical      Mechanical properties of the           Pass
+of the stent raw          properties of the materials of   raw materials must meet the
+materials and post        the stent.                       following parameters:
+processing                                                 • Yield strength YS:
+                                                              580 - 650 MPa
+                                                           • Tensile strength UTS:
+                                                              1000 – 1250 MPa
+                                                           • Elongation at fracture at:
+                                                              45%
+Stress analysis/Fatigue   To determine the stent           Equivalent stress and strain           Pass
+analysis overlapped       durability due to worst case     levels and load history shall
+                          physiological loads and          be documented.
+                          configuration by means of a
+                          Finite Element Analysis.         The test passed if the
+                          Calculation of Safety Factor     following specification was
+                          (SF).                            met:
+                                                           •   SF > 1
+
+
+
+
+      HDE H170004 FDA Summary of Safety and Probable Benefit                                Page 6
+          Test                     Test Purpose                Acceptance Criteria                 Results
+Acute particulate          The purpose of this test is to   Characterization study only.     Particle release
+evaluation – particle      determine the size and                                            during tracking and
+count, visual inspection   quantity of particles that could                                  dilatation was
+of stent and coating       potentially be introduced into                                    within the limits
+after expansion, and       the bloodstream during                                            described in USP
+cover integrity            delivery and deployment of                                        <788>.
+                           the stent and retraction of the
+                           delivery system.
+Chronic particulate        To investigate the size and      Characterization study only.     Particle release
+evaluation – chronic       quantity of particles under                                       during the complete
+                           cyclic radial loading                                             use, including
+                           conditions in overlapped and                                      simulated 1 year
+                           statically bent configuration                                     and 10 years of
+                           representing an equivalent of                                     implantation, was
+                           10 years of implantation life.                                    within the limits
+                                                                                             described in USP
+                                                                                             <788>.
+MRI safety and             To determine the effect of      Displacement and Torque                   Pass
+compatibility              Magnetic Resonance on the       testing:
+                           position and temperature of     MR-induced deﬂection force
+                           the stent platform. Also to     and torque should be less
+                           determine the extent of image   than the forces and torques
+                           artifact during MRI.            to which the device would
+                                                           be subjected outside of the
+                                                           MR environment.
+                                                           Artifact testing and image
+                                                           analysis:
+                                                           This is a characterization test
+                                                           to identify the profile of the
+                                                           stent in an MRI screen and
+                                                           its image in relation to
+                                                           surrounding structures.
+                                                           Heating testing:
+                                                           The maximum heating
+                                                           allowed during a 15 min.
+                                                           scanning period shall
+                                                           conform to CEM43 which
+                                                           limits temperature rises to
+                                                           approx. 6°C. No tissue
+                                                           damage is expected at
+                                                           temperature rises below this
+                                                           limit.
+
+
+
+
+      HDE H170004 FDA Summary of Safety and Probable Benefit                                 Page 7
+          Test                   Test Purpose                 Acceptance Criteria               Results
+X-ray visibility         To determine the ability to      The test passed if the X-ray              Pass
+                         visualize the stent system       visibility of the stent system
+                         and/or stent using the imaging   was comparable to
+                         techniques specified in the      commercially available
+                         IFU.                             control devices of similar
+                                                          size.
+                         Delivery System Dimensional and Functional Testing
+Identification of       To identify and list all          The test passed if all                    Pass
+delivery system         components and their              materials could be identified.
+materials               respective materials used in
+                        the construction of the
+                        delivery system.
+Dimensional and visual To inspect the physical and        The test passed if the                    Pass
+inspection of the final dimensional properties of the     delivery system met the
+product                 Stent System.                     design specifications.
+Crossing profile        To measure the crossing           The test passed if the distal             Pass
+                        profile of the stent system.      part of the stent system
+                                                          could pass through a ring
+                                                          hole gauge with specified
+                                                          minimum and maximum
+                                                          diameters.
+Trackability             To assess the tracking           The test passed if tracking               Pass
+                         performance of the device.       performance was
+                                                          significantly better than
+                                                          comparable stent systems.
+Simulated use            To evaluate the performance      The test passed if the                    Pass
+(Delivery, deployment    of the stent system and if the   delivery system delivers the
+and retraction)          delivery system can reliably     stent to the intended location
+                         deliver the stent to the         without damage to the stent.
+                         intended location.
+Balloon rated burst      To determine the rated burst     The test passed if the                    Pass
+pressure (RBP) testing   pressure (RBP) of the balloon    following specification was
+                         when used with the stent.        met:
+                                                          • Lower 99.9% quantile at
+                                                             95% confidence: for
+                                                             Ø 2.5 mm to 4.0 mm:
+                                                             ≥16 atm; for Ø 4.5 mm to
+                                                             5.0 mm: ≥14 atm
+                                                          • No part of the specimen is
+                                                             to become detached
+                                                          • No fracture/damage of
+                                                             stent.
+
+
+
+
+      HDE H170004 FDA Summary of Safety and Probable Benefit                               Page 8
+           Test                           Test Purpose                         Acceptance Criteria        Results
+Balloon fatigue 1              To determine the ability of the The test passed if the balloon                 Pass
+                               balloon to withstand repeated resisted 10 cycles with 30s
+                               inflation/ deflation cycles.      holding time at RBP for each
+                                                                 cycle.
+Balloon compliance             To determine the relationship The test passed if the                           Pass
+                               between the stent diameter and following specification was
+                               the balloon inflation pressure met:
+                               and to verify that at all labeled • Statistically calculated
+                               pressure steps the diameter          min and max stent inner
+                               stated on the label is achieved.     Ø of all tested balloon
+                                                                    expandable stents at all
+                                                                    labeled pressure steps:
+                                                                    ±8% of calculated mean
+                                                                    Ø
+                                                                 • Radial compliance:
+                                                                    14% ± 8%.
+Balloon inflation and          To determine the balloon          The test passed if the                       Pass
+deflation time                 inflation and deflation time.     deflation time from RBP was
+                                                                 maximum 30s for sizes up to
+                                                                 4.0/40 and maximum 40s for
+                                                                 sizes up to 5.0/40.
+Tensile strength               To determine the bond             The test passed if the                       Pass
+catheter/Tip pull test         strength of the joints and/or     minimum force at break was
+                               fixed connections of the PK       greater than the specified
+                               Papyrus stent system,             lower limit for each catheter
+                               including its distal tip.         bond location (≥5 N for
+                                                                 catheter body, (≥3 N for
+                                                                 distal tip).
+Flexibility                    To evaluate the flexibility and The test passed if the distal                  Pass
+                               resistance to kink of the stent shaft (mounted over a guide
+                               system.                           wire) did not kink nor did its
+                                                                 function become
+                                                                 compromised, while passed
+                                                                 through a 4mm radius curve.
+Rotatability                   To evaluate the transmission      The device must transmit                     Pass
+                               of rotational forces.             rotational movement. The
+                                                                 balloon must still be
+                                                                 inflatable to NP and
+                                                                 deflatable after five-fold
+                                                                 rotation of the proximal end
+                                                                 of the device with distal end
+                                                                 clamped.
+
+
+
+
+      1 Additional balloon fatigue testing will be performed per the Approval Order.
+
+
+      HDE H170004 FDA Summary of Safety and Probable Benefit                                         Page 9
+          Test                  Test Purpose               Acceptance Criteria               Results
+Adhesive strength of   To evaluate the adhesive        The test passed if there was              Pass
+catheter coating       strength of the surface coating no visible indication of
+(Coating Integrity)    on the proximal outer shaft of delamination.
+                       Catheters.
+Coating integrity      To evaluate the ability of      The test passed if:                       Pass
+                       catheters (delivery systems,     • Prior simulated use
+                       balloon catheters) with coating    (Baseline): coating on the
+                       to resist damage due to            catheter was homogeneous
+                       loading, tracking, deployment      and without any drop
+                       and delivery system                formation.
+                       withdrawal.                      • Post simulated use: No
+                                                          visible indication of
+                                                          delamination under
+                                                          10-40 times microscopic
+                                                          magnification.
+Stent dislodgement by To determine whether the         No stent or cover                         Pass
+forward/reverse motion stent will dislodge from the    dislodgement, crimped stent
+                       delivery system after           and cover has to remain
+                       conditioning by passing the     between the X-ray markers.
+                       device through a simulated
+                       coronary arterial model.
+Stent retention force  To determine the force that     The test passed if the                    Pass
+                       will dislodge the stent from    retention force was
+                       the unstressed stent system      • Unstressed: ≥ 1.5 N for
+                       and after conditioning.            2.5 - 3.0 mm stent
+                                                          diameters and ≥ 2.5 N for
+                                                          3.5 – 5.0 mm stent
+                                                          diameters
+                                                        • After conditioning: ≥1.0 N
+                                                       No displacement of the
+                                                       cover from the stent.
+                              Cover Dimensional and Functional Testing
+Dimensional / Mass      To determine the cover mass     The test passed if distance          Pass
+inspection polymer      and thickness and to evaluate   cover end to stent end had
+cover                   for cover imbalance.            ranges between 1 and 2.5
+                                                        times the strut width. Cover
+                                                        mass is 3 – 8.67 mg,
+                                                        depending on stent size.
+Hydrolytic stability    To characterize the in-vitro    Characterization study only. The stent cover
+                        hydrolytic stability of the                                  showed resistance
+                        polymer cover.                                               to accelerated
+                                                                                     hydrolytic
+                                                                                     degradation.
+
+
+
+
+      HDE H170004 FDA Summary of Safety and Probable Benefit                           Page 10
+          Test                       Test Purpose                Acceptance Criteria                Results
+Oxidative stability          To evaluate stability of the    The ElastEon 2 AS                          Pass
+                             polymer cover via oxidative     membrane must be superior
+                             methods.                        to the Pellethane 2363-80A
+                                                             membrane (positive control)
+                                                             and similar or better than the
+                                                             Pellethane 2363-55D
+                                                             membrane (negative control)
+                                                             regarding weight loss and
+                                                             molecular weight change.
+Toxicological                To determine systemic           The requirements were met                  Pass
+evaluation of cover          toxicity risks related to       if the simultaneous
+degradation                  possible cover degradation.     implantation of 2 of the
+                                                             largest PK Papyrus stents
+                                                             (highest cover mass) was
+                                                             evaluated as biologically
+                                                             safe related to possible cover
+                                                             degradation.
+Baseline stent cover         To determine the ability of the The test passed if there is no             Pass
+integrity (t=0)              stent cover to resist damage    relevant damage, detachment
+                             after expansion to nominal      or dislodgement of the
+                             diameter and overexpansion. cover.
+Permeability test of         To evaluate the cover for       The maximum initial blood                  Pass
+cover                        permeability/blood leaking      leak volume is 10 ml within
+                             performance.                    the first 10 minutes after
+                                                             implantation of the stent.
+                                                             Maximum allowed
+                                                             permeability 10 min and
+                                                             later after implantation is
+                                                             0.25 ml/min/cm2.
+Durability test of the       To evaluate the fatigue         The test passed if all test                Pass
+cover                        strength of the stent cover.    specimens withstand a
+                                                             pulsatile load of
+                                                             120 ± 40 mmHg at a
+                                                             simulated heart rate of
+                                                             70 bpm for at least 48 hours
+                                                             (no stent cover damage).
+
+
+
+                         b. Biocompatibility
+
+              As per ISO 10993-1:2009, Biological Evaluation of Medical Devices, the stent system
+              was evaluated for biocompatibility, as summarized in Table 4. Tests were conducted
+              separately on sterilized products to support the biocompatibility of the delivery system
+              and the stent. The delivery system was categorized as an externally communicating
+              device with limited contact duration (<24 hours) with vascular tissue and circulating
+              blood. The stent was categorized as an implant device with permanent contact
+
+      HDE H170004 FDA Summary of Safety and Probable Benefit                                  Page 11
+            (>30 days) with vascular tissue and circulating blood. The results from the
+            biocompatibility evaluation support the overall conclusion that PK Papyrus is
+            biocompatible.
+                                        Table 4: Biocompatibility Testing
+                                                                                     Delivery
+   Test Performed                        Test Method                     Stent                        Results
+                                                                                     System
+Cytotoxicity                  ISO MEM Elution                                                   Non-cytotoxic
+                              Cytotoxicity
+Sensitization                 ISO Maximization                                                  Non-sensitizing
+                              Sensitization (Guinea Pig
+                              Maximization Test, (GPMT))
+Irritation/Intracutaneo       ISO Intracutaneous Reactivity                                      Non-irritating
+us Reactivity
+Acute Systemic                ISO Acute Systemic Toxicity                                         Non-toxic
+Toxicity                      (4 Extracts)
+Pyrogenicity                  ISO Material Mediated Rabbit                                      Non-pyrogenic
+                              Pyrogen Test
+Subchronic/Chronic            Implantation 90 days                                     N/A         Non-toxic
+Systemic                      (combined with
+Toxicity/Implantation         subchronic/chronic systemic
+                              toxicity)
+Genotoxicity                  • Ames test                                                       Non-mutagenic
+                              • Mouse Lymphoma Assay                                    
+                              • Mouse Micronucleus Assay                               N/A
+Hemocompatibility             ASTM In vitro Hemolysis                                           Non-hemolytic
+                              (indirect and direct contact)
+                              Complement activation assay                                        Non-activator
+                              In vivo Thrombogenicity 2                                        Non-thrombogenic
+
+
+                     c. Sterilization
+
+            PK Papyrus is sterilized with ethylene oxide (EO) gas to a sterility assurance level (SAL)
+            of 1x10-6 in compliance with ISO 11135-1:2007 – Sterilization of health care products --
+            Ethylene oxide -- Part 1: Requirements for development, validation and routine control of
+            a sterilization process for medical devices. The product has also been shown to meet the
+            endotoxin limit of 20 EU/device in USP <85> and FDA 2012 Guidance for
+            Pyrogen/Endotoxin testing.
+
+                     d. Packaging and Product Shelf Life
+
+            Packaging verification testing was performed to demonstrate that the design of the PK
+            Papyrus packaging can withstand the hazards of the distribution environment and that the
+            sterility of the device is maintained throughout the labeled shelf life. Two-year shelf life
+            was verified by conducting performance testing on samples that have undergone
+
+  2   This endpoint was evaluated as part of the animal studies, as out lined in Section IX. B
+
+  HDE H170004 FDA Summary of Safety and Probable Benefit                                          Page 12
+      accelerated aging representing 24 months.
+
+      B. Animal Studies
+
+      The objective of the animal study was to evaluate the biological safety profile of PK
+      Papyrus. Animal studies were conducted in hybrid farm swine (28 days) and Yucatan
+      miniature swine (180 days). Stent implantations were performed in a maximum of 2
+      coronary arteries per animal. After pre-stent angiography was obtained, the test and control
+      stents were introduced into the coronary arteries (RCA, LAD, or LCX) and deployed to
+      achive a target balloon to artery ratio of 1.20:1, estimated visually by the interventionalist.
+      Post-stent angiograms were performed to document stent deployment and apposition.
+
+      At 28 days or 180 days following stent placement each treated vessel was qualitatively
+      evaluated by angiography for evidence of lumen narrowing, presence of dissection,
+      presence of aneurysms, presence of thrombosis, TIMI flow, closure of side branches, and
+      stent migration. After final angiography, animals were euthanized and subjected to a
+      comprehensive necropsy, defined as gross examination of the heart and the external
+      aspect of stented vessels, the thoracic and abdominal cavities and their contents. Stented
+      vessels were excised and processed for histology. Vascular tissue responses were
+      assessed using quantitative coronary angiography (QCA), histomorphometry, and
+      histopathology, and included the following endpoints:
+          •   Marginal vessel (proximal and distal) mean lumen diameter
+          •   Mean lumen diameter of the treated region
+          •   Minimal lumen diameter [MLD] of the target region
+          •   Reference vessel diameter
+          •   Diameter stenosis [1 – (MLD/RVD) x 100%]
+          •   Balloon to artery ratio [balloon/pre-stent mean lumen diameter]
+          •   Late lumen loss [MLD post-stent- MLD final]
+          •   Late loss index [(MLD post-stent - MLD final) / MLD post-stent]
+          •   Internal Elastic Lamina and External Elastic Lamina (IEL & EEL) area
+          •   Luminal area (area bound by the luminal border)
+          •   Medial area (EEL area– IEL area)
+          •   Intimal area (IEL area – luminal area)
+          •   Area stenosis ({1 – (luminal area/IEL area)} x 100)
+          •   Mean intimal thickness (distance between the IEL and the luminal border)
+          •   Inflammation
+          •   Endothelialization
+
+      Notable outcomes from the animal study are provided in Table 5. In the 28-day study,
+      PK Papyrus behaved comparably to the control device. In the chronic 180-day study,
+      significant stenosis was observed in both the PK Papyrus-stented vessels and the vessels
+      treated with the control device, although stenosis was significantly higher in the PK
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                                Page 13
+         Papyrus group. On histopathologic evaluation of the stented porcine coronary arteries,
+         there was a statistically significant difference in the mean inflammation score between
+         the PK Papyrus group and the control group at 180 days (1.79±1.20 vs. 0.45±0.64,
+         respectively). This difference was associated with a higher injury score in the arteries
+         treated with PK Papyrus as compared to the control device.
+
+                  Table 5 Pre-Clinical Results from 28-Day and 180-Day Studies
+                                        28-day study                                   180-day study
+     Parameter            Subject Device          Control Device           Subject Device         Control Device
+                              (n=9)                   (n=9)                    (n=7)                  (n=7)
+ Late Loss Index
+     Median
+                  0.47 (0.38 – 0.56) 0.57 (0.47 – 0.70) 0.30 (0.27 – 0.41) 0.33 (0.27 – 0.44)
+   (25% - 75%
+   Percentiles)
+Area Stenosis (%)
+                      70.5 ± 8.6        73.3 ± 12.2        61.9 ± 15.9*        47.5 ± 6.3
+   Mean ± SD
+  Inflammation
+      Score          0.70 ± 0.76        1.04 ± 0.83       1.79 ± 1.20**       0.45 ± 0.64
+   Mean ± SD
+*significantly different vs. Abbott GraftMaster (p=0.045); ** significantly different vs. Abbott GraftMaster (p=0.023)
+
+
+
+X.       SUMMARY OF CLINICAL INFORMATION
+
+         A. Study Design
+
+         The clinical information collected to support the safety and probable benefit of PK
+         Papyrus was obtained from use of the device outside of the United States. BIOTRONIK
+         has been collecting voluntary clinical use data for PK Papyrus through a post-market
+         survey since the product entered the global market in 2013. The objective of the ongoing
+         survey is to evaluate the technical success and safety of PK Papyrus in treating coronary
+         perforations. All complaint data received through April 27, 2017 for PK Papyrus were
+         considered in the clinical analysis.
+
+         B. Overview of Results
+
+         As of April 27, 2017, BIOTRONIK has received voluntary survey responses or
+         complaints for 121 patients treated since June 11, 2013, comprising 153 PK Papyrus.
+         Coronary artery perforation was cited by the physician as the indication for 80 of these
+         patients treated in 16 European and Asian nations, with a total of 100 PK Papyrus being
+         used in the treatment of a coronary artery perforation (some patients received more than
+         one PK Papyrus). At least one PK Papyrus was successfully implanted in 76 of the 80
+         patients.
+
+         The in-patient data for the 80 coronary artery perforation patients was based on surveys
+         only (69), complaints only (6), or both (5), and on follow-up visits with physicians as
+         appropriate. Of the 80 patients treated for coronary perforation, BIOTRONIK received
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                                             Page 14
+      post-hospital discharge follow-up surveys on 22 cases (duration 8 to 832 days post-PK
+      Papyrus implantation).
+
+      C. Study Population Demographics
+
+      Demographic information was limited to patient age ranges (Table 6) due to national data
+      collection and privacy laws effective in the countries where the data were collected.
+
+                                Table 3: Patient Age Ranges
+                            Age (n = 80)           Number (%)
+                            Under 40                 0 (0.0%)
+                            40 to 49                 1 (1.3%)
+                            50 to 59                 4 (5.0%)
+                            60 to 69                22 (27.5%)
+                            70 to 79                27(33.8%)
+                            80 to 89                18(22.5%)
+                            Over 90                  2 (2.5%)
+                            Answer not provided      6 (7.5%)
+
+      D. Safety and Probable Benefit Results
+
+      Information regarding Ellis Classification for perforation, procedural characteristics,
+      device and procedure success, and complications was collected (Table 7 to Table 12).
+
+      Table 7 shows the Ellis Classification for Perforation and other anatomic and procedural
+      elements.
+
+                 Table 4: Coronary Perforation and Stent Characteristics
+  Variable                                                 Category         Number (%)
+                                                     Class I                   8 (10.0%)
+                                                     Class II                 12 (15.0%)
+  Ellis Classification for Perforation* (n=80
+                                                     Class Ill                40 (50.0%)
+  patients)
+                                                     Class IV                 14 (17.5%)
+                                                     Answer not provided        6 (7.5%)
+                                                     LAD                      39 (48.8%)
+                                                     RCA                      19 (23.8%)
+  Implant location (n = 80 patients)                 LCX                      17 (21.3%)
+                                                     Bypass Graft               3 (3.8%)
+                                                     LMCA                       2 (2.5%)
+  Reference vessel diameter (mm) (n = 60 patients)   mean ± SD                3.13 ± 0.64
+  Perforation length (mm) (n = 53 patients)          mean ± SD                6.21 ± 6.71
+  Number of PK Papyrus implanted per patient (n =
+                                                   mean ± SD                  1.11 ± 0.48
+  80 patients)
+                                                   Any attempt†               50 (62.5%)
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                         Page 15
+                    Table 4: Coronary Perforation and Stent Characteristics
+  Variable                                                                Category              Number (%)
+                                                                    Balloon                       46 (57.5%)
+                                                                    Stenting                       7 (8.8%)
+  Previous procedures performed in attempts to stop
+                                                                    Coil                           2 (2.5%)
+  bleeding from perforation site prior to PK Papyrus
+  implantation (n = 80 patients)                                    Use of a different
+                                                                                                   2 (2.5%)
+                                                                    covered stent
+                                                                    Protamine injection            1 (1.3%)
+      *    Ellis Classification for Perforation Definitions: Class I (Extraluminal crater without extravasation),
+           Class II (Pericardial or myocardial blush without contrast jet extravasation), Class Ill (Extravasation
+           through frank (>1 mm) perforation), Class IV (Cavity Perforation into an anatomic cavity chamber,
+           spilling coronary sinus, etc.).
+      †
+           More than one prior attempt may be recorded per case.
+
+      Procedure success was evaluated on a patient-level basis. In the 80 perforation cases; PK
+      Papyrus was successfully delivered in 95.0% (76) of cases, with 91.3% (73) of
+      perforations successfully sealed (Table 8).
+
+                                       Table 5: Procedure Success
+                                                                                                Number
+     Procedure Success (patient-level evaluation)
+                                                                                                 (%)
+          PK Papyrus successfully delivered to perforation* (n = 80)                          76 (95.0%)
+          Perforation sealed successfully† (n = 80)                                           73 (91.3%)
+      *    Patient-level delivery success was defined as the successful delivery of at least one PK Papyrus to the
+           target perforation, such that the stent was able to be positioned properly in the area of the perforation.
+      †
+           Patient-level perforation sealing success was defined as successful sealing of a coronary perforation
+           per operator assessment with use of one or more PK Papyrus as assessed after the procedure.
+
+      Immediate procedure outcome is defined as the patient status at the close of the
+      procedure. Of the 80 patients who underwent attempted PK Papyrus implantation, 77
+      (96.3%) survived the procedure, with two deaths occurring in patients with Class IV
+      perforations (Table 9). There was no information regarding procedural survival of one
+      patient with a Class IV perforation. Reasons for unsuccessful delivery include one case
+      in which PK Papyrus was dislodged when passing through a previously implanted stent,
+      one case in which two PK Papyrus were attempted for use but could not pass a lesion,
+      one case in which PK Papyrus could not reach the perforation, and one case in which PK
+      Papyrus could not pass through a previously implanted stent. These four cases were all
+      considered both unsuccessful in delivery and sealing. There was a total of three patients
+      in whom PK Papyrus was successfully delivered to the site of perforation, but the
+      perforation was not sealed by the stent(s); two of these patients died in the hospital (one
+      during the procedure and one post-procedure), and one survived (perforation ultimately
+      sealed with arterial post-dilatation).
+
+
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                                             Page 16
+        Table 6: Immediate Procedural Patient Survival Stratified by Ellis Perforation
+                                      Classification
+              Ellis Perforation                                                        Answer not
+                                                Survival            Death
+               Classification                                                           provided
+       Class I (n = 8)                         8 (100.0%)         0 (0.0%)               0 (0.0%)
+       Class II (n = 12)                      12 (100.0%)         0 (0.0%)               0 (0.0%)
+       Class III (n = 40)                     40 (100.0%)         0 (0.0%)               0 (0.0%)
+       Class IV (n = 14)                       11 (78.6%)        2 (14.3%)               1 (7.1%)
+       Class not provided (n = 6)              6 (100.0%)         0 (0.0%)               0 (0.0%)
+       Overall (n = 80)                       77 (96.3%)         2 (2.5%)                1 (1.3%)
+
+
+        In-hospital complications are shown in Table 10.
+
+                                   Table 7: In-Hospital Complications
+                                                                         Number of
+                                                  Number of                                    Percentage of
+Category                                                                Patients with
+                                                 Complications                                Patients (n = 80)
+                                                                        Complication
+Death                                                    8                      8                   10.0%
+Timing
+   Post-procedural death                                 6                      6                    7.5%
+   Procedural death                                      2                      2                    2.5%
+Mode
+   Sudden cardiac death                                  1                      1                    1.3%
+   Cardiac death                                         7                      7                    8.8%
+   Non-cardiac death                                     0                      0                    0.0%
+Pericardiocentesis due to tamponade                      7                      7                    8.8%
+Other urgent cardiac surgery                             0                      0                    0.0%
+Post-procedural MI                                       0                      0                    0.0%
+Overall Hospital Outcome Events
+                                                        15                    14*                   17.5%
+Total
+* Patients may have had more than one category of complication; therefore, the number of unique patients with any
+complication is not the sum of the individual components.
+
+        Of the 8 in-hospital deaths, there were 2 procedural deaths (1 patient with successful and
+        1 patient with unsuccessful perforation sealing with PK Papyrus Stents). The patient with
+        unsuccessful sealing (Class IV perforation) had persistent intrapericardial bleeding and
+        developed electro-mechanical dissociation. Information on the cause of death was not
+        available in the patient with successful perforation sealing (Class IV perforation, death
+        assumed to be cardiac).
+
+        Of the 6 post-procedure in-hospital deaths, the coronary perforation was successfully
+        sealed by PK Papyrus Stents in 5 cases and not successfully sealed in 1 case. Of the 5
+        patients with successful sealing (Class III perforation in 4 patients and unknown in 1
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                                          Page 17
+           patient), 2 patients had cardiogenic shock, 1 patient had a cardiac arrest, and information
+           was not provided in 2 cases (deaths assumed to be cardiac). The patient with
+           unsuccessful perforation sealing (Class III perforation) underwent pericardial drainage
+           but developed cardiopulmonary failure and died during dialysis. The mortality rate in
+           patients with Class III perforations was 12.5% (5 out of 40).
+
+           In the surveys and complaint information received, there were no reported cases of post-
+           procedural MI or other urgent cardiac surgery following implantation of PK Papyrus
+           Stents. Seven patients (out of 80, 8.8%) were reported to have required pericardiocentesis
+           due to pericardial tamponade following PK Papyrus implantation. Among 40 patients
+           with Ellis Class III coronary artery perforations, pericardiocentesis due to tamponade was
+           reported in 6 patients (15.0%).
+
+           Table 11 shows in-hospital complication events that had at least a possible relationship to
+           the PK Papyrus.
+
+                         Table 8: In-Hospital Device-Related Complications
+                                                                      Number of
+                                                 Number of                               Percentage of
+Category                                                             Patients with
+                                                Complications                           Patients (n = 80)
+                                                                     Complication
+Stent Dislodgement                                     9                   6                  7.5%
+   Dislodgement during retrieval                       3                   2                  2.5%
+   Dislodgement in catheter extension                  3                   1                  1.3%
+   Dislodgement during delivery                        2                   2                  2.5%
+   Dislodgement during lesion or stent
+                                                       1                   1                  1.3%
+   passage
+Stent Thrombosis                                       2                   2                  2.5%
+   Definite                                            1                   1                  1.3%
+   Probable                                            1                   1                  1.3%
+   Possible                                            0                   0                  0.0%
+Overall Any In-Hospital Device-Related
+                                                       11                  8                 10.0%
+Complication Total
+
+           Of the two PK Papyrus thrombosis cases, definite stent thrombosis was reported in a case
+           where acute thrombosis was noted in the procedure notes. In the second stent thrombosis
+           case, the patient died the day after implantation due to sudden cardiac arrest; therefore,
+           the event is reported as a case of probable stent thrombosis per ARC definitions.
+
+           Post-hospital discharge follow-up surveys were received for 22 patients that received a
+           PK Papyrus for coronary artery perforation. Table 12 shows the Major Adverse Cardiac
+           Events (MACE) that may have had at least a possible relationship to the procedure or the
+           PK Papyrus.
+
+
+
+
+  HDE H170004 FDA Summary of Safety and Probable Benefit                               Page 18
+                           Table 9: Follow-up MACE Complications
+                                                                    Number of        Percentage of
+Complication Category              Number of Complications
+                                                                     Patients       Patients (n = 22)
+All-cause death                                  1                       1                4.5%
+   Sudden cardiac death                          0                       0                0.0%
+   Non-cardiac death                             1                       1                4.5%
+Myocardial infarction                            1                       1                4.5%
+Stent thrombosis                                 0                       0                0.0%
+Target lesion revascularization                  1                       1                4.5%
+Target vessel non-target lesion
+                                                 0                       0                0.0%
+revascularization
+Overall Follow-up MACE
+                                                 3                       3               13.6%
+Complications Total
+
+
+        One patient experienced a non-cardiac death due to cancer 630 days after PK Papyrus
+        implantation. No complications were reported after discharge in 72.7% (16/22) of
+        patients for which a follow-up survey was received. Three patients experienced clinical
+        events that were determined to not meet the MACE categories and were unrelated to the
+        procedure or the stent as assessed by the physician (one patient was hospitalized for
+        pericarditis two weeks post-implant, one patient was hospitalized for cardiac
+        decompensation with left bundle branch block and a repolarization disorder, and one
+        patient experienced intermittent non-exertional chest pain).
+
+        Pediatric Extrapolation
+
+        In this premarket application, existing clinical data was not leveraged to support approval
+        of a pediatric patient population.
+
+XI.     FINANCIAL DISCLOSURE
+
+        The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+        applicants who submit a marketing application to include certain information concerning
+        the compensation to, and financial interests and arrangement of, any clinical investigator
+        conducting clinical studies covered by the regulation. The pivotal clinical study included
+        45 investigators. None of the clinical investigators had disclosable financial
+        interests/arrangements as defined in sections 54.2(a), (b), (c), and (f). The information
+        provided does not raise any questions about the reliability of the data.
+
+XII.    SAFETY AND PROBABLE BENEFIT ANALYSIS
+
+        The biocompatibility and in vivo animal testing demonstrated that the performance
+        characteristics of PK Papyrus provide reasonable assurance of safety for clinical use.
+
+        The in vitro engineering testing conducted on the stent and delivery system demonstrated
+        that the performance characteristics met all product specifications and demonstrated that the
+        device functions mechanically as intended. The test results obtained from the sterilization
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                               Page 19
+      testing demonstrated that the product can be adequately sterilized and is acceptable for
+      clinical use. Shelf life testing has established acceptable performance for a labeled shelf life
+      up to 24 months.
+
+      The PK Papyrus global clinical survey demonstrated the ongoing technical success, safety,
+      and probable benefit of PK Papyrus as a potentially life-saving treatment for coronary artery
+      perforations.
+
+      A. Probable Benefit Conclusions
+
+          Data to support the probable benefit of PK Papyrus were collected from 80 patients in
+          16 European and Asian countries in which PK Papyrus was used to treat coronary
+          artery perforations. Of the 80 patients who underwent attempted PK Papyrus
+          implantation, 77 (96.3%) survived the procedure. PK Papyrus was successfully
+          delivered to the perforation site in 76 of 80 patients (95.0%), and the perforation was
+          successfully sealed in 73 cases (91.3%). The magnitude of the probable benefit is
+          high, because coronary artery perforation can be a life-threatening condition, and
+          effective perforation sealing with the device can reduce the risk of morbidity and
+          mortality. The high rates of successful stent delivery and implantation to the target
+          coronary artery perforation site and successful perforation sealing meet an acceptable
+          level of device performance.
+
+      B. Safety Conclusions
+
+          The risks of the device are based on nonclinical laboratory and animal studies as well
+          as data collected in a non-US post-market survey of device use to treat acute coronary
+          artery perforations during percutaneous coronary intervention (PCI) procedures to
+          support HDE approval as described above.
+
+          Data on the risks associated with PK Papyrus were collected from 80 patients in 16
+          European and Asian countries in which PK Papyrus was used to treat coronary artery
+          perforations. Serious adverse events were reported that could be related to the
+          underlying coronary perforation, use of PK Papyrus, or both. Periprocedural death
+          occurred in 2 patients (2.5%), and pericardiocentesis to treat pericardial tamponade
+          was performed in 7 patients (8.8%). Of note, the need for pericardiocentesis could be
+          attributable to the size of the hemorrhagic pericardial effusion that developed prior to
+          implantation of PK Papyrus. There were no reported periprocedural MIs. Post-
+          hospital discharge follow-up surveys were submitted for 22 patients. There were no
+          late cardiac deaths; one patient (4.5%) had an MI, and 1 patient (4.5%) underwent
+          target lesion revascularization. MIs can have long-term clinical impact, but
+          successfully treated pericardial tamponade would not be expected to have long-term
+          clinical sequalae.
+
+          Although comparisons of clinical outcomes between different datasets have
+          substantial limitations, a meta-analysis conducted by Shimony et al. (Am J Cardiol
+          2009; 104: 1674-77) reported a pooled mortality rate of 21.2% (range 12.0% to
+          31.4%) and a pooled pericardiocentesis due to tamponade rate of 45.7% (range 34.9%
+          to 57.5%) for patients with Ellis Class III coronary artery perforations.
+
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                                Page 20
+         The reported rates of serious adverse events associated with PK Papyrus and the
+         implantation procedure appear to meet an acceptable level of device safety.
+
+      C. Probable Benefit-Risk Conclusions
+
+         The reported rates of serious adverse events associated with PK Papyrus and
+         implantation procedure appear to meet an acceptable level of device safety.
+         Additional factors to be considered in determining probable risks and benefits for PK
+         Papyrus follow.
+
+         Implantation of PK Papyrus was associated with high rates of successful delivery to
+         the coronary perforation site (95.0% of cases) and high rates of successful perforation
+         sealing (91.3%). The rates of acute serious adverse events that could be related to the
+         underlying coronary perforation, use of PK Papyrus, or both (death 2.5%,
+         pericardiocentesis 8.8%, late MI 4.5%, and target lesion revascularization 4.5%) are
+         acceptable when considering the benefits of device use, because coronary artery
+         perforation is a life-threatening (albeit rare) complication associated with PCI
+         procedures. Implantation of PK Papyrus can effectively seal the perforation and allow
+         anterograde coronary flow to the myocardium. The magnitude of the probable benefit is
+         high, because coronary artery perforation can be a life-threatening condition, and
+         effective perforation sealing with the device can reduce the risk of morbidity and
+         mortality. Following the achievement of an effective coronary artery perforation seal
+         and normal anterograde coronary blood flow, PK Papyrus can provide life-long benefit.
+
+         Although there is a moderate degree of uncertainty regarding the magnitude of device-
+         associated benefits, the totality of the clinical information provides a reasonable
+         assurance of probable benefit.
+
+         Limitations in the robustness of the data quantity and quality with regard to the safety
+         and probable benefit associated with PK Papyrus should be recognized and include: (1)
+         a small number of treated subjects; (2) absence of a prespecified study protocol
+         including prespecified study endpoints, enrollment criteria, protocolized treatments, and
+         follow-up requirements; (3) the potential for selection bias because survey completion
+         by operators was voluntary; (4) a single-arm dataset without a concurrent or a historical
+         control group or a prespecified performance goal; (5) absence of blinded adjudication of
+         events using prespecified event definitions; and (6) limited follow-up information on
+         treated patients. Although there is a moderate degree of uncertainty regarding the
+         magnitude of the rates and probability of harm from serious device-associated adverse
+         events, the totality of the clinical information provides a reasonable assurance of device
+         safety.
+
+         These limitations introduce a moderate level of uncertainty regarding effectiveness and
+         the risk of harm from serious device-associated adverse events. Nevertheless, the totality
+         of the clinical data supports device safety and probable benefit for the intended use.
+
+         The clinical data in support of the safety and probable benefit of PK Papyrus are
+         generalizable to the population of patients with coronary artery perforations. Because
+         coronary artery perforation can be life-threatening, it would be expected that patients
+         with this condition would have a high risk tolerance.
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                             Page 21
+         The GRAFTMASTER RX is another available device that is used to treat coronary
+         artery perforations (HDE number H000001). PK Papyrus has features distinct from the
+         GRAFTMASTER RX, but the two devices were not directly compared in the clinical
+         trial.
+
+         In conclusion, given the available information above, the data support that for the
+         treatment of acute coronary artery perforations, the probable benefits outweigh the
+         probable risks.
+
+         1. Patient Perspectives
+
+             This submission did not include specific information on patient perspectives for
+             this device.
+
+
+      D. Overall Conclusions
+
+         The data in this application support the reasonable assurance of safety and probable
+         benefit of this device when used in accordance with the indications for use. PK
+         Papyrus implantation can effectively seal a coronary artery perforation and allow
+         anterograde coronary flow to the myocardium. Although there is a moderate degree
+         of uncertainty regarding the magnitude of device-associated benefits and the rates and
+         probability of harm from serious device-associated adverse events (see above
+         discussion regarding the limitation on the quantity and quality of the clinical data),
+         the totality of the clinical information provides a reasonable assurance of safety and
+         probable benefit.
+
+         Therefore, it is reasonable to conclude that the probable benefit to health from using the
+         device for the target population outweighs the risk of illness or injury, taking into
+         account the probable risks and benefits of currently available devices or alternative
+         forms of treatment when used as indicated in accordance with the directions for use.
+
+XIII. PANEL RECOMMENDATION
+
+      This HDE was not referred to the FDA Circulatory System Devices Panel for review and
+      recommendation because the information in the HDE did not raise any unanticipated safety
+      concerns. Therefore, it was determined that this application need not be submitted to the
+      advisory panel.
+
+XIV. CDRH DECISION
+
+      CDRH has determined that, based on the data submitted in the HDE, the PK Papyrus
+      Covered Coronary Stent System will not expose patients to an unreasonable or significant
+      risk of illness or injury and the probable benefit to health from using the device outweighs
+      the risks of illness or injury. CDRH issued an approval order on September 14, 2018. The
+      final conditions of approval cited in the approval order are described below.
+
+      The applicant has agreed to collect clinical data through voluntary post-market surveillance
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                              Page 22
+      (i.e., Device Registration and Follow-up Forms) and report these clinical data to FDA every
+      6 months. The sponsor has also agreed to conduct additional balloon fatigue testing.
+
+      The applicant’s manufacturing facilities have been inspected and found to be in
+      compliance with the device Quality System (QS) regulation (21 CFR 820).
+
+XV.   APPROVAL SPECIFICATIONS
+
+      Directions for use: See the device labeling.
+
+      Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+      Precautions, and Adverse Events in the labeling.
+
+      Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+HDE H170004 FDA Summary of Safety and Probable Benefit                            Page 23
+

@@ -1,0 +1,288 @@
+                                                             October 4, 2022
+
+Penumbra, Inc.
+Sindokht (Sisi) Soltanzadeh
+Regulatory Specialist III
+One Penumbra Place
+Alameda, California 94502
+
+
+Re: K220683
+    Trade/Device Name: INDIGO Aspiration System (CAT RX Aspiration Catheter and Separator 4)
+    Regulation Number: 21 CFR 870.5150
+    Regulation Name: Embolectomy Catheter
+    Regulatory Class: Class II
+    Product Code: QEW, QEX
+    Dated: August 30, 2022
+    Received: August 31, 2022
+
+Dear Sindokht (Sisi) Soltanzadeh:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act and the limitations described below. Although this letter refers to your product
+as a device, please be aware that some cleared products may instead be combination products. The 510(k)
+Premarket Notification Database located at
+https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination product
+submissions. The general controls provisions of the Act include requirements for annual registration, listing
+of devices, good manufacturing practice, labeling, and prohibitions against misbranding and adulteration.
+Please note: CDRH does not evaluate information related to contract liability warranties. We remind you,
+however, that device labeling must be truthful and not misleading.
+
+The OHT2: Office of Cardiovascular Devices has determined that there is a reasonable likelihood that this
+device will be used for an intended use not identified in the proposed labeling and that such use could cause
+harm. Therefore, in accordance with Section 513(i)(1)(E) of the Act, the following limitation must appear in
+the Precautions section of the device's labeling:
+
+     1. The safety and effectiveness of this device for use in the treatment of ST-Elevation Myocardial
+        Infarction (STEMI) have not been established. Complications from the use of this device in this
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.05.00
+Silver Spring, MD 20993
+www.fda.gov
+K220683 - Sindokht (Sisi) Soltanzadeh                                                                   Page 2
+
+
+       manner could lead to death, permanent impairment, and/or the need for emergency medical
+       intervention.
+
+Please note that the above labeling limitations are required by Section 513(i)(1)(E) of the Act. Therefore, a
+new 510(k) is required before these limitations are modified in any way or removed from the device's
+labeling.
+
+The FDA finding of substantial equivalence of your device to a legally marketed predicate device results in a
+classification for your device and permits your device to proceed to the market. This letter will allow you to
+begin marketing your device as described in your Section 510(k) premarket notification if the limitation
+statement described above is added to your labeling.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+K220683 - Sindokht (Sisi) Soltanzadeh                                                    Page 3
+
+
+                                           Sincerely,
+
+                                            Brian D. Pullin -S
+                                        for Bram Zuckerman, M.D.
+                                            Director
+                                            OHT2: Office of Cardiovascular Devices
+                                            Office of Product Evaluation and Quality
+                                            Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2023
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K220683
+
+Device Name
+INDIGO Aspiration System (CAT RX Aspiration Catheter and Separator 4)
+
+
+
+Indications for Use (Describe)
+
+The INDIGO CAT RX Aspiration Catheters and INDIGO Separator 4
+As part of the INDIGO Aspiration System, the INDIGO CAT RX Aspiration Catheters and INDIGO Separator 4 are
+indicated for the removal of fresh, soft emboli and thrombi from vessels in the coronary and peripheral vasculature.
+
+The INDIGO Aspiration Tubing
+As part of the INDIGO Aspiration System, the INDIGO Sterile Aspiration Tubing is indicated to connect the INDIGO
+CAT RX Aspiration Catheters to the Penumbra Aspiration Pump.
+
+Penumbra Aspiration Pump
+The Penumbra Aspiration Pump is indicated as a vacuum source for Penumbra Aspiration Systems.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                                      ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+                                                                               1223456ÿ
+ÿ ÿÿÿ
+ÿÿÿÿÿÿÿÿÿ8ÿ !"#ÿ$%ÿ2ÿ&'(ÿ53)*+2,ÿ
+          7!!8-.ÿ.ÿ/0."-ÿ21ÿ78.ÿ8,",62,ÿ ÿ.3ÿ/8 ÿ4 #"085ÿ6 7"0ÿ20.ÿ ÿ++31ÿ7-!8$81ÿ
+          9-0*ÿ"ÿ:7"#"-9ÿ.3ÿ!888%ÿ ÿ/!$.8-."85ÿ; !"785-0ÿ ÿ9<69=>ÿ2:"8."-ÿ/%.8ÿ
+          &2?ÿ(@ÿ2:"8."-ÿ&8.3.ÿ8-#ÿ/:88.ÿ,*ÿ
+AÿBCDECFGBBHIJDKÿLMÿDNÿGNNMEEÿ
+          7-!8$81ÿ9-0*ÿ
+          >-ÿ7-!8$8ÿ7580ÿ
+          2588 #81ÿ&2ÿ+O32ÿP/2ÿ
+AQÿBCDECÿRCDKJKÿSDTCKICDÿ
+          /"-#U3.ÿ/"",ÿ/5.8-V8#3ÿ
+          ( 9!58.%ÿ/:0"85".ÿ999ÿ
+          73-Wÿ24+,ÿ663X+O23ÿ
+          '2@WÿO3,ÿ2)X4ÿ
+          ;88"5Wÿ5.8-V8#3Y:-!8$8"-0*08ÿ
+AZÿ[KMÿCTÿ\MBKICDÿCTÿÿÿ
+ÿÿÿÿÿÿÿÿÿÿ/:.8$ÿ2+1ÿ2322ÿ
+A]ÿ[M^IJMÿ_NMÿCÿ\CBIMKÿLMÿ
+          9<69=>ÿ2:"8."-ÿ/%.8ÿ&2?ÿ(@ÿ2:"8."-ÿ&8.3.ÿ8-#ÿ/:88.ÿ,ÿ
+Aÿ[M^IJMÿRHEEITIJKICDÿ
+ÿ ( 9!58.%ÿ&58Wÿ 99ÿ
+ÿ &58""08."-ÿ78-5Wÿ&8#"780!58ÿ
+ÿ &58""08."-ÿ<88 Wÿ&8.3.1ÿ;8$50.8%ÿ
+ÿ ( 9!58."-ÿ<!8$Wÿ2ÿ&'(ÿ̀5)3*OO3ÿ ÿ
+ÿ 7#!0.ÿ& #Wÿ a;b1ÿa;@ÿ&8.3.1ÿ;8$50.8%,ÿÿ
+                                ÿ                         ÿ
+
+
+
+
+ÿ                                          ÿ                                 789ÿÿ ÿÿ
+ÿ
+                                                                                   ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+                                                                            1223456ÿ
+ÿÿÿ
+       !"#$%ÿ&'()ÿÿ&(ÿ*ÿÿ
+       +,-./012-ÿ4-5/0-ÿ
+       165362ÿÿ 7897:;ÿ<=>?@8A?BÿCD=AEÿFG<HÿIJÿ<=>?@8A?BÿG8AKA@ÿ8BLÿC>8@8A@ÿMÿ
+                        Nÿ7BOEP@8ÿQB9?Bÿ7OE>ÿ8BLÿG8B?=A@ÿ
+       R-S-,-T0-ÿ4-5/0-ÿ
+       1646465ÿ 7897:;ÿ<=>?@8A?BÿCD=AEÿ
+UÿÿVW*ÿ
+HKÿ7897:;ÿ<=>?@8A?BÿCD=AEÿ?=ÿXE>@?=Lÿ ÿ=Y@8ZÿLY?X=[ÿ
+\ÿ 7897:;ÿG<HÿIJÿ<=>?@8A?BÿG8AKA@ÿ
+\ÿ 7897:;ÿC>8@8A@ÿÿ
+\ÿ 7897:;ÿ<=>?@8A?BÿHOP?B9ÿ
+\ÿ 7897:;ÿ7OE>ÿG8B?=A@^HOP?B9ÿ
+\ÿ 7BOEP@8ÿ<=>?@8A?Bÿ7OE>ÿÿ
+ÿ
+HKÿ7897:;ÿ<=>?@8A?BÿCD=AEÿ?=ÿL=?9BLÿAÿ@E YÿAK@EPO=ÿ@EÿAKÿY8=XOZ8AO@ÿO=?B9ÿ
+XBA?BOO=ÿ8=>?@8A?B_ÿHKÿ7897:;ÿG<HÿIJÿ<=>?@8A?BÿG8AKA@ÿ?=ÿ8ÿLO8ZÿZOE Bÿ@8>?Lÿ
+ `XK8B9ÿX8AKA@ÿAK8AÿA8@9A=ÿ8=>?@8A?Bÿ@EÿAKÿ7OE>ÿL?@XAZDÿAÿAKÿAK@EPO=aÿ@E Y?B9ÿ?AÿY?8ÿ
+AKÿ7897:;ÿ<=>?@8A?BÿHOP?B9ÿ8BLÿL>=?A?B9ÿ?Aÿ?BÿAKÿ7OE>ÿG8B?=A@_ÿHKÿ7897:;ÿC>8@8A@ÿÿ
+E8DÿPÿO=Laÿ?ÿB LLaÿAÿXZ8@ÿAKÿZOE Bÿ ÿAKÿ7897:;ÿG<HÿIJÿ<=>?@8A?BÿG8AKA@ÿ=KOZLÿ?Aÿ
+PXE ÿPZXbLÿc?AKÿAK@EPO=_ÿHKÿ7897:;ÿG<HÿIJÿ<=>?@8A?BÿG8AKA@ÿ?=ÿ?BA@LOXLÿ
+AK@O9Kÿ8ÿ9O?LÿX8AKA@ÿ@ÿZB9ÿ?BA@LOX@ÿ=K8AKÿ8BLÿ?BAÿAKÿX@B8@Dÿ@ÿ>@?>K@8ZÿY8=XOZ8AO@ÿ
+8BLÿ9O?LLÿY@ÿ8ÿ9O?Lc?@ÿAÿAKÿ=?Aÿ ÿAKÿ>@?E8@DÿXXZO=?B_ÿHKÿ7897:;ÿG<HÿIJÿ
+<=>?@8A?BÿG8AKA@ÿE8DÿPÿ>@Y?LLÿc?AKÿ8ÿ@A8A?B9ÿKE =A8=?=ÿY8ZYÿ8BLÿ8ÿ> Z8PZÿ=K8AK_ÿHKÿ
+7897:;ÿC>8@8A@ÿÿ?=ÿ>@Y?LLÿc?AKÿ8Bÿ?BA@LOX@ÿ8BLÿA@dOÿLY?X_ÿHKÿ7897:;ÿG<HÿIJÿ
+<=>?@8A?BÿG8AKA@ÿ8BLÿ7897:;ÿC>8@8A@ÿÿ8@ÿY?=?PZÿOBL@ÿZO@=X>D_ÿÿ
+eÿf*Vÿ*ÿgVÿ
+HKÿ7897:;ÿG<HÿIJÿ<=>?@8A?BÿG8AKA@=ÿ8BLÿ7897:;ÿC>8@8A@ÿÿÿ
+<=ÿ>8@Aÿ ÿAKÿ7897:;ÿ<=>?@8A?BÿCD=AEaÿAKÿ7897:;ÿG<HÿIJÿ<=>?@8A?BÿG8AKA@=ÿ8BLÿ
+7897:;ÿC>8@8A@ÿÿ8@ÿ?BL?X8ALÿ @ÿAKÿ@E Y8Zÿ ÿ@=Kaÿ= AÿEPZ?ÿ8BLÿAK@EP?ÿ@EÿY==Z=ÿ
+?BÿAKÿX@B8@Dÿ8BLÿ>@?>K@8ZÿY8=XOZ8AO@_ÿÿ
+HKÿ7897:;ÿ<=>?@8A?BÿHOP?B9ÿÿ
+<=ÿ>8@Aÿ ÿAKÿ7897:;ÿ<=>?@8A?BÿCD=AEaÿAKÿ7897:;ÿCA@?Zÿ<=>?@8A?BÿHOP?B9ÿ?=ÿ?BL?X8ALÿAÿ
+XBBXAÿAKÿ7897:;ÿG<HÿIJÿ<=>?@8A?BÿG8AKA@=ÿAÿAKÿ7BOEP@8ÿ<=>?@8A?Bÿ7OE>_ÿÿ
+ÿ                                        ÿ                                789ÿ2ÿ ÿÿ
+ÿ
+                                                                                    ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+                                                                             1223456ÿ
+78ÿ8ÿ7ÿÿ
+ÿ78ÿ8ÿ7ÿÿ8ÿ8ÿ8ÿ8ÿÿ ÿ78ÿ8ÿ
+ÿ
+ !"ÿ$%&'()*)+,&-*ÿ/)01-2,3)(ÿ
+ÿ49ÿÿ5ÿÿ8ÿ86ÿÿÿ8ÿÿ8ÿ ÿ6ÿÿÿ
+ 86ÿ ÿ8ÿ6869ÿÿÿ78ÿ688ÿ6ÿ ÿ1946495ÿÿ6986ÿ
+88ÿ8ÿÿÿ8ÿ89ÿÿ8ÿÿ89ÿÿÿÿ9:ÿ
+886:ÿ8;899:ÿ8ÿ6<8ÿ ÿÿ8ÿ9ÿ66:ÿÿ5ÿ8ÿ8ÿÿ
+8ÿ8ÿÿÿ 66=9ÿ8 ÿ6986ÿ88>ÿ
+   ?ÿ8 ÿ9ÿ8ÿ886ÿAÿ486ÿ ÿ49ÿÿ8 >ÿBÿCDÿ8ÿ
+       B8:ÿ88ÿ:ÿ8ÿ8ÿ9ÿ
+   ?ÿ78;899ÿ886ÿAÿB  6ÿ6<ÿ ÿ86ÿÿ
+   ?ÿ6<8ÿAÿE6ÿFGÿHEFIÿ
+   ?ÿ6ÿ6 ÿAÿÿ8ÿÿ89ÿÿÿ6ÿ6ÿ ÿÿ5ÿÿÿÿ6869ÿ
+       89ÿ
+   ?ÿ96ÿJ:ÿ86ÿ
+   ?ÿ8ÿÿAÿ78ÿ8ÿ7ÿ
+       ÿ
+ !KÿL%2M)20-(&%ÿN-O-ÿPÿQ)(R/*,(,&-*ÿÿ
+ÿ5ÿ8ÿ8ÿ49ÿÿHBÿCDÿ8ÿB8ÿ8ÿ88ÿIÿÿ
+8ÿ86ÿ :ÿÿÿ 8ÿ88ÿ989ÿ886ÿS86ÿ
+ÿ6=ÿ8ÿ89ÿ
+ ! ÿT,)&)01-O,U,*,OVÿ$%3O,(+ÿ
+ÿ8ÿÿ89ÿÿÿ6ÿÿ86ÿ88ÿ ÿÿ49ÿÿ
+HBÿCDÿ8ÿB8ÿ8ÿ88ÿIÿ6ÿÿ886:ÿ=ÿ= ÿ= ÿ
+8ÿ68ÿÿÿ8;ÿ8ÿ6ÿÿW%&O,)(ÿ!Xÿÿ
+ !YÿN%3,+(ÿZ%2,M,&-O,)(ÿPÿT%(&'ÿ$)1ÿ$%3O,(+ÿ
+ÿ8ÿÿ89ÿÿÿ6ÿÿ[ÿ88ÿ ÿÿ:ÿ=ÿ= ÿ
+= ÿ8ÿ68ÿÿÿ8;ÿ8ÿ6ÿÿW%&O,)(ÿ!Xÿ
+ !\ÿW'%*MR],M%ÿ
+ÿ8ÿÿ89ÿÿÿ6ÿ  ÿ6[6 ÿ9ÿ ÿÿ:ÿ=ÿ= ÿ
+= ÿ8ÿ68ÿÿ8;ÿ8ÿ6ÿÿW%&O,)(ÿ!Xÿÿ
+
+ÿ                                         ÿ                                789ÿ6ÿ ÿÿ
+ÿ
+                                                                           ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+                                                                    1223456ÿ
+ÿÿ
+ÿ8ÿÿ89ÿ ÿÿ!"#$%&ÿ!"#''ÿ!8(89#9ÿ)8 #8%ÿ%##9ÿÿÿ!8(89#9ÿ
+!ÿ ÿÿ'"#*ÿ+#ÿ+ ÿ%8'ÿ$'ÿÿ!)8( ÿ ##8#ÿ%# 'ÿ#ÿ,-./ÿ
+01ÿ
+2ÿ3-4ÿ567./ÿ8ÿ9:6ÿ,.;7<ÿ
+ÿ8ÿÿ89ÿÿÿ!"#$%&ÿ!"#''ÿ8#)8%ÿ#9ÿ'88ÿ ÿÿ'"#*ÿ+#ÿ+ ÿ
+"#+ 'ÿ8'ÿ%8'ÿ$'ÿÿ!)8( ÿ ##8#ÿ%# 'ÿ#ÿ,-./ÿ01ÿ
+0ÿ-=>/=:-ÿ3.ÿ8ÿ?66ÿ
+@ ÿ%##8%ÿ$'&ÿ+8ÿ'$ 'ÿ8ÿ!"#$%&ÿ! ) 'ÿAÿ8'ÿ8#)8%ÿ#9ÿ+8ÿ
+' )#'ÿ$ ##ÿ ÿ"##8#ÿ8'ÿ"8%#'8#ÿ!$!ÿ ÿ$A8#8%ÿB$#"8%ÿ
+' )#8#1ÿ
+Cÿ?/6;4/4ÿ
+D8'ÿÿ%"89'ÿE%##8%ÿAÿ#9ÿ8'ÿ8ÿA #E#(ÿ8) *ÿÿ$AFÿ'"#ÿ#ÿ
+$A8#8%%&ÿB$#"8%ÿÿÿ!'#8 ÿ'"#ÿ8'ÿ' ÿ ÿ8#ÿ8&ÿ+ÿB$#ÿÿ8 &ÿ8'ÿ
+    #"1ÿ
+
+
+
+
+ÿ                                     ÿ                            789ÿÿ ÿÿ
+ÿ
+
