@@ -68,3 +68,6 @@ New row (pass02_apply NEW list) + 7 values from its own GUDID record (Innovative
 NOT filled (no exact-model source): guidewire, min sheath, crossing/tip profile, frequency. K210655 Table 1 Device Scope (p.6) lists only item 85900P (non-ST), so its 0.014 in / 0.056 in values were NOT applied to the ST row; GUDID nonetheless files 85900PST under K210655 (flag for Jeff). Nothing copied from the IH RX row or the Philips OEM ST.
 SELUTION SLR check: category = DCB (MedAlliance/Cordis, Other column); appears under DCB — no change needed.
 Backups: coronary-specs-verified.pre-pass13b.csv, pass02_apply.pre-pass13b.py, coronary-recalls.pre-pass13b.csv. Fill 85.0% (70 rows).
+
+## Pass 13c — UI/config only (no data changes) — /preview/ only, tag preview-pass13c
+supplier_columns.json added (per-category supplier columns + extra per-supplier columns). Biotronik AG rows displayed under Teleflex (acquisition verified, see STANDING_DECISIONS 2026-10-14); manufacturer/labeler fields left as GUDID (Biotronik AG) — logged, not overwritten. Gaps: Teleflex Balloon column empty (to research: Ringer K233729, Chocolate, Pantera Pro/LEO US status).

@@ -7,8 +7,8 @@ with sync_playwright() as p:
     pg.goto(U+'#c=Balloon');pg.wait_for_timeout(2000)
     for v in ['cmp','stk','dsk']:
       pg.select_option('#vw',v);pg.wait_for_timeout(500);pg.screenshot(path=f'/workspace/coronary-specs/app/live-{T}-{v}-{n}.png')
-    pg.click('.pk input[data-i="3"]');pg.wait_for_timeout(300);dis=pg.locator('.pk .list .dis:visible').count()
+    pg.click(".pk input[data-i=\"0\"]");pg.wait_for_timeout(300);dis=pg.locator('.pk .list .dis:visible').count()
     if dis: pg.locator('.pk .list .dis:visible').first.dispatch_event('mousedown');pg.wait_for_timeout(400)
-    v=[pg.input_value(f'.pk input[data-i="{i}"]') for i in range(4)];f=[x for x in v if x]
+    v=pg.eval_on_selector_all('.pk input','e=>e.map(x=>x.value)');f=[x for x in v if x]
     print(n,'disabled',dis,'dupes',len(f)-len(set(f)))
   print('errors',errs)
