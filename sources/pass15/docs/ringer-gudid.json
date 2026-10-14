@@ -1,0 +1,1949 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-01",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 21
+    }
+  },
+  "results": [
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer PTCA Perfusion Balloon 2.5mm x 20mm, Pouch Label, US",
+      "public_device_record_key": "09c29a2c-adc4-4c71-91a8-c58a13747310",
+      "has_serial_number": "false",
+      "public_version_date": "2024-07-29",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "2",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156110748",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156110741",
+          "quantity_per_package": "50",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "10841156110741",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN928676",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5882",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2024-07-01",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "2.5",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "0bca31eb-3ec6-47f1-886d-3a71a2844b28",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111537",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111530",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "20841156111530",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111533",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111533",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930688",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5883",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 5.0mm x 20mm, 1PK",
+      "public_device_record_key": "7c8c4b32-54ff-4fc2-a259-4facd131fbab",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156111639",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111632",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111632",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        },
+        {
+          "id": "30841156111636",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111639",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930696",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5891",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 2.0mm x 20mm, 1PK",
+      "public_device_record_key": "1ab9c5c9-85b3-4d5f-aa97-bc52eca0ed6f",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111506",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111509",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution"
+        },
+        {
+          "id": "20841156111509",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111502",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111502",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930686",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5881",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 2.5mm x 20mm, 1PK",
+      "public_device_record_key": "c96509d1-f7e8-48a1-8fbc-bd1e5bdd6239",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111520",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111523",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "20841156111523",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111526",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111526",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930687",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5882",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 4.0mm x 20mm, 1PK",
+      "public_device_record_key": "ae0746ae-010a-4959-801b-9272cba46ad8",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-20",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111599",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111592",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "20841156111592",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111595",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111595",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930684",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "true",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5888",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-12"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 3.0mm x 20mm, 1PK",
+      "public_device_record_key": "386d194c-d850-4920-bb31-7150d612bb04",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-20",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111544",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111547",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "20841156111547",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111540",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111540",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930682",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "true",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5884",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-12"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 4.5mm x 20mm, 1PK",
+      "public_device_record_key": "50a9a089-fef8-4c47-aa73-2b577cac8fe1",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-20",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111612",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111615",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "20841156111615",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111618",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111618",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930685",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "true",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5890",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-12"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 3.0mm x 30mm, 1PK",
+      "public_device_record_key": "4aff7130-14c6-4c21-a833-4801410d1489",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156111561",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111564",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111564",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        },
+        {
+          "id": "30841156111568",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111561",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930690",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5885",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer PTCA Perfusion Balloon 3.0mm x 20mm, Pouch Label, US",
+      "public_device_record_key": "f0531b33-5e7e-4832-b1bf-e8a12f057564",
+      "has_serial_number": "false",
+      "public_version_date": "2024-07-29",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "2",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156110755",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156110758",
+          "quantity_per_package": "50",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "10841156110758",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN928677",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5884",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2024-07-03"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 4.0mm x 20mm, 1PK",
+      "public_device_record_key": "e7de0ce7-35a2-4e1d-9d0b-0a3c8d87b145",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156111646",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111649",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111649",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        },
+        {
+          "id": "30841156111643",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111646",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930693",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5888",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 4.0mm x 30mm, 1PK",
+      "public_device_record_key": "0b4f96fd-519f-49cc-8104-cf31cfdbc2cf",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156111608",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111601",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111601",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        },
+        {
+          "id": "30841156111605",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111608",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930694",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5889",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer PTCA Perfusion Balloon 4.0mm x 20mm, Box Label, US",
+      "public_device_record_key": "d9eda83a-a533-4f87-a7c4-fb3cf8f86e1f",
+      "has_serial_number": "false",
+      "public_version_date": "2024-07-29",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "2",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156110779",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156110772",
+          "quantity_per_package": "50",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "10841156110772",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN928679",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5888",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2024-07-03"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 3.5mm x 20mm, 1PK",
+      "public_device_record_key": "e8fa5254-a73b-4510-8c22-2e270640fcf0",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156111578",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111571",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111571",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        },
+        {
+          "id": "30841156111575",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111578",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930691",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5886",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 3.5mm x 30mm, 1PK",
+      "public_device_record_key": "13f50f5b-cd55-45a2-9e8b-d8d6e67279e5",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156111585",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111588",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111588",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        },
+        {
+          "id": "30841156111582",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111585",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930692",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5887",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 3.5mm x 20mm, 1PK",
+      "public_device_record_key": "186b2fbf-a1fa-45e0-9a38-00e10dd7badf",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-20",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111759",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111752",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "20841156111752",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111755",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111755",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930683",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "true",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5886",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-12"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 4.5mm x 20mm, 1PK",
+      "public_device_record_key": "2349132d-d0fe-4a11-b0a5-07767ffb50fa",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111629",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111622",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "20841156111622",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111625",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111625",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930695",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5890",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 2.5mm x 20mm, 1PK",
+      "public_device_record_key": "a9f61623-5840-425f-b441-56f30db2ccf5",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-20",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111513",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111516",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "20841156111516",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111519",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111519",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930681",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "true",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5882",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-12"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer Gen2, 3.0mm x 20mm, 1PK",
+      "public_device_record_key": "8c8a5b3c-56b4-48e5-af46-cfa8264f1d19",
+      "has_serial_number": "false",
+      "public_version_date": "2025-06-23",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "1",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "30841156111551",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "20841156111554",
+          "quantity_per_package": "5",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "20841156111554",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156111557",
+          "quantity_per_package": "1",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Box"
+        },
+        {
+          "id": "10841156111557",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN930689",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5884",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "New",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2025-06-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer PTCA Perfusion Balloon 3.5mm x 20mm, Pouch Label, US",
+      "public_device_record_key": "9ccdb4d5-b951-4819-82ee-6015a7a4f13c",
+      "has_serial_number": "false",
+      "public_version_date": "2024-07-29",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "2",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156110762",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156110765",
+          "quantity_per_package": "50",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "10841156110765",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN928678",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5886",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2024-07-03"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Ringer PTCA Perfusion Balloon 4.5mm x 20mm, Pouch Label, US",
+      "public_device_record_key": "2c2a82a5-bcbc-45a1-93c8-d9f5ac00abd9",
+      "has_serial_number": "false",
+      "public_version_date": "2024-07-29",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "2",
+      "labeler_duns_number": "002348191",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "20841156110786",
+          "type": "Package",
+          "issuing_agency": "GS1",
+          "unit_of_use_id": "10841156110789",
+          "quantity_per_package": "50",
+          "package_status": "In Commercial Distribution",
+          "package_type": "Case"
+        },
+        {
+          "id": "10841156110789",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "IPN928680",
+      "has_manufacturing_date": "false",
+      "brand_name": "TELEFLEX",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, transluminal coronary angioplasty, percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K233729",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(919)544-8000",
+          "email": "CS@TELEFLEX.COM"
+        }
+      ],
+      "catalog_number": "5890",
+      "company_name": "TELEFLEX INCORPORATED",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17521",
+          "name": "Coronary angioplasty balloon catheter, perfusing",
+          "definition": "A sterile, flexible tube designed for use in percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon. The tube contains holes proximal and distal to the balloon that permit blood flow to the distal coronary arteries during balloon dilatation to protect the myocardium from haemodynamic compromise. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2024-07-03"
+    }
+  ]
+}

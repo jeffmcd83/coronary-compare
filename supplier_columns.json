@@ -118,10 +118,7 @@
         "Medtronic",
         "Boston Scientific",
         "Teleflex"
-      ],
-      "notes": {
-        "Teleflex": "No Teleflex (or Biotronik-heritage) coronary balloon in the data yet. To research (US-labeled): Ringer perfusion balloon (K233729); Chocolate (GUDID code LOX); Pantera Pro / Pantera LEO (now Teleflex — check US clearance)."
-      }
+      ]
     },
     "BMS": {
       "columns": [

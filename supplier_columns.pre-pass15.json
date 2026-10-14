@@ -1,0 +1,205 @@
+{
+  "_doc": "Per-category static supplier columns (CRM-style). 'suppliers' maps a display supplier to regexes matched (case-insensitive) against the GUDID manufacturer (acquired makers folded into parents; Biotronik AG coronary products are shown under Teleflex with an 'originally Biotronik' note — GUDID/FDA labeler data kept unchanged). Per category: 'columns' = the main supplier columns in fixed order (kept even if empty; 'notes' explain gaps). Every other supplier with rows in that category automatically gets its OWN extra column to the right (ordered by model count, then name); no 'Other' column. See STANDING_DECISIONS 2026-10-14.",
+  "suppliers": {
+    "Abbott": {
+      "match": [
+        "ABBOTT",
+        "ST\\. JUDE",
+        "LIGHTLAB",
+        "CARDIOVASCULAR SYSTEMS"
+      ],
+      "color": "#1d4ed8"
+    },
+    "Boston Scientific": {
+      "match": [
+        "BOSTON SCI"
+      ],
+      "color": "#b91c1c"
+    },
+    "Medtronic": {
+      "match": [
+        "MEDTRONIC"
+      ],
+      "color": "#0f766e"
+    },
+    "Teleflex": {
+      "match": [
+        "TELEFLEX",
+        "VASCULAR SOLUTIONS",
+        "BIOTRONIK"
+      ],
+      "color": "#c2410c"
+    },
+    "Philips": {
+      "match": [
+        "PHILIPS",
+        "VOLCARICA",
+        "VOLCANO",
+        "SPECTRANETICS",
+        "ANGIOSCORE"
+      ],
+      "color": "#0369a1"
+    },
+    "Asahi Intecc": {
+      "match": [
+        "ASAHI"
+      ],
+      "color": "#be185d"
+    },
+    "Terumo": {
+      "match": [
+        "TERUMO"
+      ],
+      "color": "#15803d"
+    },
+    "Cordis": {
+      "match": [
+        "CORDIS",
+        "MEDALLIANCE"
+      ],
+      "color": "#0e7490"
+    },
+    "Shockwave": {
+      "match": [
+        "SHOCKWAVE"
+      ],
+      "color": "#a16207"
+    },
+    "Penumbra": {
+      "match": [
+        "PENUMBRA"
+      ],
+      "color": "#9a3412"
+    },
+    "Biosensors": {
+      "match": [
+        "BIOSENSORS"
+      ],
+      "color": "#9333ea"
+    },
+    "ACIST": {
+      "match": [
+        "ACIST"
+      ],
+      "color": "#475569"
+    },
+    "Innovative Health": {
+      "match": [
+        "INNOVATIVE HEALTH"
+      ],
+      "color": "#7e22ce"
+    },
+    "North East Scientific": {
+      "match": [
+        "NORTH EAST SCIENTIFIC"
+      ],
+      "color": "#6d28d9"
+    },
+    "Vein360": {
+      "match": [
+        "VEIN360"
+      ],
+      "color": "#86198f"
+    }
+  },
+  "categories": {
+    "DES": {
+      "columns": [
+        "Abbott",
+        "Medtronic",
+        "Boston Scientific",
+        "Teleflex"
+      ],
+      "notes": {}
+    },
+    "Balloon": {
+      "columns": [
+        "Abbott",
+        "Medtronic",
+        "Boston Scientific",
+        "Teleflex"
+      ],
+      "notes": {
+        "Teleflex": "No Teleflex (or Biotronik-heritage) coronary balloon in the data yet. To research (US-labeled): Ringer perfusion balloon (K233729); Chocolate (GUDID code LOX); Pantera Pro / Pantera LEO (now Teleflex — check US clearance)."
+      }
+    },
+    "BMS": {
+      "columns": [
+        "Abbott",
+        "Medtronic",
+        "Boston Scientific"
+      ]
+    },
+    "Covered stent": {
+      "columns": [
+        "Abbott",
+        "Teleflex"
+      ]
+    },
+    "DCB": {
+      "columns": [
+        "Boston Scientific",
+        "Cordis"
+      ]
+    },
+    "Guide catheter": {
+      "columns": [
+        "Medtronic",
+        "Terumo",
+        "Cordis"
+      ]
+    },
+    "Guidewire": {
+      "columns": [
+        "Asahi Intecc",
+        "Abbott",
+        "Terumo",
+        "Medtronic"
+      ]
+    },
+    "Microcatheter": {
+      "columns": [
+        "Teleflex",
+        "Asahi Intecc",
+        "Boston Scientific",
+        "Terumo"
+      ]
+    },
+    "Guide extension": {
+      "columns": [
+        "Teleflex",
+        "Boston Scientific",
+        "Medtronic"
+      ]
+    },
+    "Atherectomy & IVL": {
+      "columns": [
+        "Shockwave",
+        "Abbott",
+        "Boston Scientific",
+        "Philips"
+      ]
+    },
+    "Imaging & physiology": {
+      "columns": [
+        "Philips",
+        "Boston Scientific",
+        "Abbott"
+      ]
+    },
+    "Thrombectomy": {
+      "columns": [
+        "Medtronic",
+        "Boston Scientific",
+        "Penumbra"
+      ]
+    }
+  },
+  "acquired": [
+    {
+      "match": "BIOTRONIK",
+      "note": "Originally Biotronik — Biotronik Vascular Intervention business (incl. BIOTRONIK AG, Bülach) acquired by Teleflex effective 2025-07-01; FDA/GUDID labeler still BIOTRONIK AG",
+      "source": "https://www.biotronik.com/en-us/change-ownership-vascular-intervention-business ; https://investors.teleflex.com/news/news-details/2025/Teleflex-Completes-Acquisition-of-BIOTRONIKs-Vascular-Intervention-Business/default.aspx"
+    }
+  ]
+}
