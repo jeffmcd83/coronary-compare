@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Coronary Products and Accessories</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><meta name="theme-color" content="#111827"><meta name="application-name" content="Coronary Products and Accessories"><meta name="description" content="Coronary Products and Accessories: side-by-side comparison of coronary devices with sourced specs and FDA recalls.">
-<link rel="preload" href="data/core.json?v=2b042a80" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=c24a8253" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -32,7 +32,7 @@ th.hp .pk{max-width:none;position:relative}th.hp .pk input{width:100%;box-sizing
 .none{color:var(--mut);font-style:italic;font-size:12px}
 .gs{position:relative;flex:1 1 240px;max-width:380px}.gs input{width:100%;box-sizing:border-box}.gs .list{position:absolute;top:100%;left:0;right:0;max-height:320px;overflow:auto;background:#fff;color:#111;border:1px solid var(--line);border-radius:8px;box-shadow:0 8px 24px #0002;z-index:60;display:none}.gs .list div{padding:7px 10px;cursor:pointer}.gs .list div:hover{background:#eef3ff}.gs .list small{color:var(--mut)}
 #fd{position:fixed;inset:0;background:#0006;z-index:80;display:flex;align-items:center;justify-content:center}#fd[hidden]{display:none}.fdb{background:#fff;border-radius:12px;max-width:640px;width:calc(100vw - 32px);max-height:80vh;overflow:auto;padding:16px 18px;position:relative}#fdx{position:absolute;right:10px;top:8px;border:0;background:none;font-size:18px;cursor:pointer}.fr{margin:8px 0}.fr b{display:block;font-size:12px;color:#475569}
-body.dsk thead th.hp{z-index:6}@media(max-width:720px){body.cmp main{overflow-x:auto;-webkit-overflow-scrolling:touch}body.cmp table{min-width:820px}body.cmp th.a{position:sticky;left:0;z-index:4;background:#fff;width:110px}}@media(max-width:640px){.gs{max-width:none;flex-basis:100%}}</style></head><body class="cmp">
+body.dsk thead th.hp{z-index:6}@media(max-width:720px){body.cmp main{overflow-x:auto;-webkit-overflow-scrolling:touch}body.cmp table{min-width:820px}body.cmp th.a{position:sticky;left:0;z-index:4;background:#fff;width:110px}}@media(max-width:640px){.gs{max-width:none;flex-basis:100%}}th.hp{border-top-color:var(--sc)!important}th.hp .vend,th.hp .fam{color:var(--sc)!important}th.hp .fam{border-color:var(--sc)}th.hp.xc{background:#fbfbfd}main{overflow-x:auto;-webkit-overflow-scrolling:touch}body.stk table{min-width:0!important}</style></head><body class="cmp">
 <header><h1>Coronary Products and Accessories</h1><details id="gd"><summary aria-label="All comparison guides">Guides ▾</summary><ul role="list"><li><a href="https://jeffmcd83.github.io/crm-compare/">Cardiac Rhythm Management</a></li><li class="cur"><a href="https://jeffmcd83.github.io/coronary-compare/" aria-current="page">Coronary Products and Accessories</a></li><li class="soon" aria-disabled="true">Structural Heart (TAVI/TEER)<small>coming soon</small></li><li><a href="https://jeffmcd83.github.io/ep-compare/">EP Ablation Catheter Comparison Guide</a></li></ul></details><span class="pass">Preview · pass __PASS__ · built 2026-10-14</span>
 <div class="gs"><input id="gq" placeholder="Search all models…" autocomplete="off" aria-label="Search all models"><div class="list" id="gl"></div></div>
 <select id="cat" aria-label="Category"></select>
@@ -42,31 +42,35 @@ body.dsk thead th.hp{z-index:6}@media(max-width:720px){body.cmp main{overflow-x:
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[null,null,null,null],mf=["","","",""],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=2b042a80').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='v1.10 · pass '+d.pass+' · built '+d.built;
+fetch('data/core.json?v=c24a8253').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='v1.11 · pass '+d.pass+' · built '+d.built;
  const cats=Object.keys(d.sect);$('#cat').innerHTML=cats.map(c=>`<option>${esc(c)}</option>`).join('');
  const h=new URLSearchParams(location.hash.slice(1));if(h.get('c')&&cats.includes(h.get('c')))$('#cat').value=h.get('c');
- fetch('data/recalls.json?v=2b042a80').then(r=>r.json()).then(x=>{RC=x}).catch(()=>{RC={}}).finally(()=>setCat(h.get('m')!=null?h.get('m').split('~'):null))});
+ fetch('data/recalls.json?v=c24a8253').then(r=>r.json()).then(x=>{RC=x}).catch(()=>{RC={}}).finally(()=>setCat(h.get('m')!=null?h.get('m').split('~'):null))});
 function rowsOf(c){return D.rows.filter(r=>r.category===c)}
-const V=['Abbott','Boston Scientific','Medtronic','Other'];
-const sup=r=>/ABBOTT|ST\. JUDE/i.test(r.manufacturer)?0:/BOSTON SCI/i.test(r.manufacturer)?1:/MEDTRONIC/i.test(r.manufacturer)?2:3;
-const opts=(c,i)=>rowsOf(c).filter(r=>sup(r)===i).sort((x,y)=>x.manufacturer.localeCompare(y.manufacturer)||x.model.localeCompare(y.model));
+let COLS=[];const SCOL={},supOf=r=>{if(SCOL[r.manufacturer])return SCOL[r.manufacturer];const S=D.sc.suppliers;for(const k in S)if(S[k].match.some(m=>new RegExp(m,'i').test(r.manufacturer)))return SCOL[r.manufacturer]=k;return SCOL[r.manufacturer]=r.manufacturer};
+const colOf=s=>(D.sc.suppliers[s]||{}).color||'#64748b';
+function mkCols(c){const cfg=D.sc.categories[c]||{columns:[]},main=cfg.columns.slice(),cnt={};rowsOf(c).forEach(r=>{const s=supOf(r);cnt[s]=(cnt[s]||0)+1});
+ const ex=Object.keys(cnt).filter(s=>!main.includes(s)).sort((x,y)=>cnt[y]-cnt[x]||x.localeCompare(y));COLS=main.concat(ex);return COLS}
+const opts=(c,i)=>rowsOf(c).filter(r=>supOf(r)===COLS[i]).sort((x,y)=>x.manufacturer.localeCompare(y.manufacturer)||x.model.localeCompare(y.model));
 const KS={'DES':['drug','strut_thickness_um'],'BMS':['platform_alloy','strut_thickness_um'],'Covered stent':['covering_material','diameters_mm'],'DCB':['drug','coating_excipient'],'Balloon':['compliance','rbp_atm'],'Guide catheter':['inner_diameter_in','french_sizes'],'Guidewire':['tip_load_gf','wire_use'],'Microcatheter':['tip_od_fr','shaft_length_cm'],'Guide extension':['inner_diameter_in','guide_compat_fr'],'Atherectomy & IVL':['mechanism','burr_sizes_mm'],'Imaging & physiology':['modality','frequency_mhz'],'Thrombectomy':['aspiration_lumen_in','french_sizes']};
-function setCat(pre){const c=$('#cat').value;sel=V.map((v,i)=>{const o=opts(c,i),m=pre&&pre[i];return m!=null&&pre?(o.find(x=>x.model===m)||null):(o[0]||null)});render()}
+function setCat(pre){const c=$('#cat').value;mkCols(c);if(pre&&pre.length===COLS.length)sel=COLS.map((v,i)=>pre[i]?(opts(c,i).find(x=>x.model===pre[i])||null):null);
+ else if(pre){const R=rowsOf(c);sel=COLS.map(()=>null);pre.filter(Boolean).forEach(m=>{const r=R.find(x=>x.model===m);if(r)sel[COLS.indexOf(supOf(r))]=r})}
+ else sel=COLS.map((v,i)=>opts(c,i)[0]||null);render()}
 function pickers(){}
 function strip(r,c){const rc=(RC&&RC[r.model])||[],op=rc.filter(x=>/^open/i.test(x[2])).length;const bits=[];
- if(sup(r)===3)bits.push('Maker: '+esc(r.manufacturer));bits.push(`Recalls: ${rc.length?'<b>'+rc.length+'</b>':0}`,`Open recalls: ${op?'<b>'+op+'</b>':0}`);
+ if(!new RegExp('^'+supOf(r).split(' ')[0],'i').test(r.manufacturer))bits.push('Maker: '+esc(r.manufacturer));(D.sc.acquired||[]).forEach(a=>{if(new RegExp(a.match,'i').test(r.manufacturer))bits.push(`<i>${esc(a.note)}</i> <a href="${esc(a.source.split(' ; ')[0])}" target="_blank" rel="noopener">source</a>`)});bits.push(`Recalls: ${rc.length?'<b>'+rc.length+'</b>':0}`,`Open recalls: ${op?'<b>'+op+'</b>':0}`);
  let ks=(KS[c]||[]).filter(f=>r[f]);if(ks.length<2){const sp=(D.sect[c].find(x=>/^Spec/.test(x[0]))||[,[]])[1];ks=[...new Set([...ks,...sp.filter(f=>r[f])])].slice(0,2)}
  ks.forEach(f=>bits.push(esc(D.labels[f]||f)+': '+esc(String(r[f]).length>60?String(r[f]).slice(0,57)+'…':r[f])));if(isRep(r))bits.push('<b>Reprocessed</b>');return bits.join(' · ')}
 function cell(r,f){if(!r)return'';let v=r[f];if(v==null||v==='')return'<span class="na">—</span>';
  let s=f==='catalog_numbers'?`<div class="cat">${esc(v)}</div>`:esc(v);const p=r._p&&r._p[f];if(p!=null)s+=`<span class="src" data-p="${p}">i</span>`;
  if(f==='recalls'&&RC&&RC[r.model])s+=RC[r.model].map(x=>`<div class="rc"><b>${esc(x[0])}</b> ${esc(x[1])} · ${esc(x[2])}<br>${esc(x[3])}<br><small>Catalogs: ${esc(x[4])}</small></div>`).join('');return s}
 const isRep=r=>!!r&&!!r.reprocessed&&!/^no\b/i.test(String(r.reprocessed));const REPF=f=>/reprocess/i.test(f);
-function hp(s,i,c){const o=opts(c,i);
- return `<th class="hp v${i}${s?'':' slot'}"><div class="vend">${esc(V[i])} <span class="cnt">${o.length} model${o.length===1?'':'s'}</span><button class="x clr" data-i="${i}" title="Clear column" aria-label="Clear ${esc(V[i])} column"${s?'':' hidden'}>Clear ✕</button></div>`+
- (o.length?`<div class="pk cb"><input data-i="${i}" placeholder="Select ${esc(V[i])} model…" autocomplete="off" aria-label="${esc(V[i])} model" value="${s?esc(s.model):''}"><div class="list"></div></div>`+(s?`<div class="strip"><div class="qit">Quick info</div>${strip(s,c)}</div><button class="fam" data-i="${i}" type="button">Family ▸</button>`:`<button class="add" data-i="${i}">+ Add device</button><br><small class="na">Empty slot</small>`):'<div class="none">No models in this category</div>')+'</th>'}
+function hp(s,i,c){const o=opts(c,i),V=COLS,note=((D.sc.categories[c]||{}).notes||{})[V[i]];
+ return `<th class="hp${s?'':' slot'}${i>=((D.sc.categories[c]||{columns:[]}).columns.length)?' xc':''}" style="--sc:${colOf(V[i])}"><div class="vend">${esc(V[i])} <span class="cnt">${o.length} model${o.length===1?'':'s'}</span><button class="x clr" data-i="${i}" title="Clear column" aria-label="Clear ${esc(V[i])} column"${s?'':' hidden'}>Clear ✕</button></div>`+
+ (o.length?`<div class="pk cb"><input data-i="${i}" placeholder="Select ${esc(V[i])} model…" autocomplete="off" aria-label="${esc(V[i])} model" value="${s?esc(s.model):''}"><div class="list"></div></div>`+(s?`<div class="strip"><div class="qit">Quick info</div>${strip(s,c)}</div><button class="fam" data-i="${i}" type="button">Family ▸</button>`:`<button class="add" data-i="${i}">+ Add device</button><br><small class="na">Empty slot</small>`):`<div class="none">${note?esc(note):'No models in this category'}</div>`)+'</th>'}
 function wire(c){document.querySelectorAll('.pk input').forEach(inp=>{const i=+inp.dataset.i,L=inp.nextElementSibling;
   const show=()=>{const q=inp.value.toLowerCase().trim(),cur=sel[i],o=opts(c,i).filter(r=>!q||(cur&&inp.value===cur.model)||(r.manufacturer+' '+r.model).toLowerCase().includes(q));let g='',h='';
-   for(const r of o){if(i===3&&r.manufacturer!==g){g=r.manufacturer;h+=`<div class="grp">${esc(g)}</div>`}h+=`<div data-m="${esc(r.model)}" data-k="${D.rows.indexOf(r)}"${r===cur?' class="on"':''}>${esc(r.model)}${i===3?'':` <small>${esc(r.manufacturer)}</small>`}</div>`}
+   const multi=new Set(o.map(r=>r.manufacturer)).size>1;for(const r of o){if(multi&&r.manufacturer!==g){g=r.manufacturer;h+=`<div class="grp">${esc(g)}</div>`}h+=`<div data-m="${esc(r.model)}" data-k="${D.rows.indexOf(r)}"${r===cur?' class="on"':''}>${esc(r.model)}${multi?'':` <small>${esc(r.manufacturer)}</small>`}</div>`}
    L.innerHTML=h||'<div class="na">No match</div>';L.style.display='block'};
   inp.onfocus=()=>{inp.select();show()};inp.oninput=show;inp.onblur=()=>setTimeout(()=>{L.style.display='none';inp.value=sel[i]?sel[i].model:''},150);
   inp.onkeydown=e=>{if(e.key==='Enter'){const f=L.querySelector('[data-m]');f&&f.dispatchEvent(new MouseEvent('mousedown',{bubbles:true}))}else if(e.key==='Escape')inp.blur()};
@@ -77,11 +81,11 @@ function famOpen(r){if(!r)return;const F=['n_skus','catalog_numbers','fda_submis
  $('#fdt').textContent=r.model+' — family';$('#fdb').innerHTML=`<p class="na">${esc(r.manufacturer)} · ${esc(r.category)}</p>`+F.map(f=>`<div class="fr"><b>${esc(D.labels[f]||f)}</b><div${f==='catalog_numbers'?' class="cat"':''}>${esc(r[f])}</div></div>`).join('');$('#fd').hidden=false}
 function gsearch(){const q=$('#gq').value.trim().toLowerCase(),gl=$('#gl');if(q.length<2){gl.style.display='none';return}
  const res=D.rows.filter(r=>(r.model+' '+r.manufacturer).toLowerCase().includes(q)).slice(0,40);
- gl.innerHTML=res.map(r=>`<div data-k="${D.rows.indexOf(r)}">${esc(r.model)} <small>${esc(r.manufacturer)} · ${esc(r.category)} → ${V[sup(r)]} column</small></div>`).join('')||'<div class="na">No match</div>';gl.style.display='block'}
-function gpick(r){if($('#cat').value!==r.category){$('#cat').value=r.category;setCat()}sel[sup(r)]=r;$('#gq').value='';$('#gl').style.display='none';render()}
+ gl.innerHTML=res.map(r=>`<div data-k="${D.rows.indexOf(r)}">${esc(r.model)} <small>${esc(r.manufacturer)} · ${esc(r.category)} → ${esc(supOf(r))} column</small></div>`).join('')||'<div class="na">No match</div>';gl.style.display='block'}
+function gpick(r){if($('#cat').value!==r.category){$('#cat').value=r.category;setCat()}sel[COLS.indexOf(supOf(r))]=r;$('#gq').value='';$('#gl').style.display='none';render()}
 function render(){const c=$('#cat').value,S=sel.filter(Boolean);location.hash='c='+encodeURIComponent(c)+'&m='+encodeURIComponent(sel.map(s=>s?s.model:'').join('~'));
  const R=rowsOf(c),diff=$('#diff').checked&&S.length>1,showRep=S.some(isRep);
- let h='<table><thead><tr><th class="a">Attribute</th>'+sel.map((s,i)=>hp(s,i,c)).join('')+'</tr></thead>';
+ let h=`<table style="min-width:${220+190*sel.length}px"><thead>`+'<tr><th class="a">Attribute</th>'+sel.map((s,i)=>hp(s,i,c)).join('')+'</tr></thead>';
  for(const [name,fs] of D.sect[c]){if(REPF(name)&&!showRep)continue;const F=fs.filter(f=>(R.some(r=>r[f]!=null&&r[f]!=='')||f==='recalls')&&(showRep||!REPF(f)));if(!F.length)continue;let b='';
   for(const f of F){const vals=S.map(s=>s[f]??'');const d=new Set(vals).size>1;if(diff&&!d)continue;b+=`<tr class="${d&&S.length>1?'d':''}"><th class="a">${esc(D.labels[f]||f)}</th>`+sel.map(s=>s?`<td data-v="${esc(s.model)}">${cell(s,f)}</td>`:`<td class="slot" data-v="Empty slot"></td>`).join('')+'</tr>'}
   if(b)h+=`<tbody class="sec ${collapsed[name]?'col':''}" data-s="${esc(name)}"><tr class="sh"><th colspan="${sel.length+1}">${esc(name)}</th></tr>${b}</tbody>`}
