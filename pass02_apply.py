@@ -18,6 +18,7 @@ NEW=[ # new rows: (category, manufacturer, model, submission)
  ('DES','Biosensors International','BioFreedom','P190020'),
  ('Thrombectomy','Penumbra','INDIGO CAT RX','K220683'),
  ('Imaging & physiology','Innovative Health','Innovative Health Reprocessed Eagle Eye Platinum RX','K210655'),
+ ('Imaging & physiology','Innovative Health','Innovative Health Reprocessed Eagle Eye Platinum ST RX','K210655'),
 ]
 V=[
 ('Resolute Onyx','drug','Zotarolimus',SSED('P160043',2)),('Resolute Onyx','drug_dose','~1.6 µg/mm²; max 317 µg (4.0×38 mm)',SSED('P160043',2)),
