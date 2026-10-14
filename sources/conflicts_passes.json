@@ -61,5 +61,14 @@
   "source": "openFDA PMA record P200039/S019 (2026-02-20; FDA database) p.record; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?ID=P200039S019",
   "existing": "P200039",
   "existing_source": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P200039"
+ },
+ {
+  "pass": "pass13",
+  "model": "SELUTION SLR",
+  "field": "manufacturer",
+  "value": "MedAlliance, LLC (Cordis)",
+  "source": "FDA PMA P250041 database record (applicant MedAlliance, LLC) p.record; SELUTION SLR 014 PTCA DEB US IFU 100674291 Rev.5 (IFU; FDA PMA P250041 labeling) p.1; brochure p.4 \"MedAlliance, LLC and M.A. Med Alliance SA are Cordis companies\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?ID=P250041",
+  "existing": "Medalliance, LLC",
+  "existing_source": "GUDID (AccessGUDID v3 device lookup API; not yet in openFDA UDI) \u2014 32 device identifiers, brand \"SELUTION SLR\u2122 014 PTCA Drug-Eluting Balloon\"; record-level device_sizes; https://accessgudid.nlm.nih.gov/devices/search?query=%22SELUTION+SLR%E2%84%A2+014+PTCA+Drug-Eluting+Balloon%22"
  }
 ]

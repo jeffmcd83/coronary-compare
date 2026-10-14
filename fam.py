@@ -13,6 +13,7 @@ F={
 "PK Papyrus":("PK_Papyrus",r"Papyrus",None,None),
 "GRAFTMASTER RX":("GRAFTMASTER_RX",r"(?i)GRAFTMASTER",None,None),
 "AGENT":("AGENT",r"AGENT",None,None),
+"SELUTION SLR":("SELUTION_SLR",r"^SELUTION SLR™ 014 PTCA Drug-Eluting Balloon$",None,None),  # AccessGUDID v3 (not yet in openFDA UDI); coronary 014 PTCA only, not PTA 018
 "NC TREK RX":("TREK_RX",r"^NC TREK(™)?$",None,None),
 "NC TREK NEO":("TREK_RX",r"NC TREK NEO",None,None),
 "TREK RX":("TREK_RX",r"^TREK(™)?$",None,None),
@@ -69,7 +70,7 @@ F={
 "Vein360 Reprocessed Eagle Eye Platinum RX":("Eagle_Eye_Platinum_RX",r"^Vein360",None,None),
 }
 CAT={"XIENCE Skypoint":"DES","XIENCE Sierra":"DES","SYNERGY XD":"DES","SYNERGY MEGATRON":"DES","Onyx Frontier":"DES","Resolute Onyx":"DES","Orsiro Mission":"DES",
-"MULTI-LINK 8":"BMS","Integrity":"BMS","REBEL":"BMS","PK Papyrus":"Covered stent","GRAFTMASTER RX":"Covered stent","AGENT":"DCB",
+"MULTI-LINK 8":"BMS","Integrity":"BMS","REBEL":"BMS","PK Papyrus":"Covered stent","GRAFTMASTER RX":"Covered stent","AGENT":"DCB","SELUTION SLR":"DCB",
 "Launcher":"Guide catheter","Vista Brite Tip":"Guide catheter","Heartrail III":"Guide catheter",
 "Turnpike":"Microcatheter","Corsair Pro":"Microcatheter","Mamba":"Microcatheter","Twin-Pass":"Microcatheter","Finecross":"Microcatheter","Caravel":"Microcatheter",
 "GuideLiner V3":"Guide extension","Guidezilla II":"Guide extension","Telescope":"Guide extension","TrapLiner":"Guide extension",

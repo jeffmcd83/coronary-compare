@@ -6,7 +6,7 @@ S=[
 ("DES","Biotronik","Orsiro Mission","Orsiro","pma"),("DES","Biosensors","BioFreedom Ultra","BioFreedom","pma"),
 ("BMS","Abbott","MULTI-LINK 8","MULTI-LINK 8","pma"),("BMS","Medtronic","Integrity","Integrity","pma"),("BMS","Boston Scientific","REBEL","REBEL","pma"),
 ("Covered stent","Biotronik","PK Papyrus","PK Papyrus","hde"),("Covered stent","Abbott","GRAFTMASTER RX","GRAFTMASTER","hde"),
-("DCB","Boston Scientific","AGENT","AGENT","pma"),
+("DCB","Boston Scientific","AGENT","AGENT","pma"),("DCB","Cordis (MedAlliance, LLC)","SELUTION SLR","SELUTION SLR","pma"),
 ("Balloon","Abbott","NC TREK RX","NC TREK","pma"),("Balloon","Abbott","TREK RX","TREK","pma"),("Balloon","Boston Scientific","NC Emerge","Emerge","pma"),
 ("Balloon","Boston Scientific","Emerge","Emerge","pma"),("Balloon","Medtronic","NC Euphora","Euphora","pma"),("Balloon","Medtronic","Euphora","Euphora","pma"),
 ("Balloon","Boston Scientific","Wolverine Cutting Balloon","Wolverine","pma"),("Balloon","Philips","AngioSculpt","AngioSculpt","pma"),("Balloon","Teleflex","Ringer PTCA","Ringer","pma"),

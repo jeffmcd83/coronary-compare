@@ -50,6 +50,8 @@ for fam,(fn,brx,inc,exc) in F.items():
     man=comp.most_common(1)[0][0] if comp else ''
     q='https://api.fda.gov/device/udi.json?search='+urllib.parse.quote(f'brand_name:"{R[0]["brand_name"]}"') if R else ''
     gsrc=f'GUDID (FDA AccessGUDID via openFDA UDI) — {len(R)} device identifiers, brand "{R[0]["brand_name"] if R else ""}"; record-level device_sizes; {q}'
+    if R and R[0].get('_source'):  # pass13: records pulled from AccessGUDID v3 API (not yet in openFDA UDI)
+        gsrc=f'GUDID (AccessGUDID v3 device lookup API; not yet in openFDA UDI) — {len(R)} device identifiers, brand "{R[0]["brand_name"]}"; record-level device_sizes; https://accessgudid.nlm.nih.gov/devices/search?query='+urllib.parse.quote_plus('"'+R[0]['brand_name']+'"')
     def ap(s):
         return f'https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id={s}' if s.startswith(('P','H')) else f'https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID={s}'
     o={'category':cat,'manufacturer':man,'model':fam,'reprocessed':'Yes (third-party 510(k))' if reproc else 'No',
