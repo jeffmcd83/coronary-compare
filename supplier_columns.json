@@ -26,7 +26,8 @@
       "match": [
         "TELEFLEX",
         "VASCULAR SOLUTIONS",
-        "BIOTRONIK"
+        "BIOTRONIK",
+        "TRIREME"
       ],
       "color": "#c2410c"
     },
@@ -197,6 +198,11 @@
       "match": "BIOTRONIK",
       "note": "Originally Biotronik — Biotronik Vascular Intervention business (incl. BIOTRONIK AG, Bülach) acquired by Teleflex effective 2025-07-01; FDA/GUDID labeler still BIOTRONIK AG",
       "source": "https://www.biotronik.com/en-us/change-ownership-vascular-intervention-business ; https://investors.teleflex.com/news/news-details/2025/Teleflex-Completes-Acquisition-of-BIOTRONIKs-Vascular-Intervention-Business/default.aspx"
+    },
+    {
+      "match": "TRIREME",
+      "note": "Originally TriReme Medical / QT Vascular — coronary non-drug-coated line (Chocolate XD, Glider) acquired by Teleflex (APOA May 2018); FDA/GUDID labeler still TRIREME MEDICAL, LLC. (Medtronic owns only the peripheral Chocolate PTA.)",
+      "source": "https://www.prnewswire.com/news-releases/qt-vascular-enters-into-asset-purchase-and-option-agreement-with-teleflex-300654289.html ; https://www.prnewswire.com/news-releases/medtronic-completes-the-purchase-of-qt-vasculars-chocolate-pta-balloon-catheter-300589868.html ; https://www.teleflex.com/usa/en/product-areas/interventional/patents/index.html"
     }
   ]
 }

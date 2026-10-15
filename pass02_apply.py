@@ -20,6 +20,8 @@ NEW=[ # new rows: (category, manufacturer, model, submission)
  ('Imaging & physiology','Innovative Health','Innovative Health Reprocessed Eagle Eye Platinum RX','K210655'),
  ('Imaging & physiology','Innovative Health','Innovative Health Reprocessed Eagle Eye Platinum ST RX','K210655'),
  ('Balloon','TELEFLEX INCORPORATED','Ringer Perfusion Balloon Catheter','K233729'),  # pass15, Jeff-approved
+ ('Balloon','TRIREME MEDICAL, LLC','Chocolate XD PTCA Balloon Catheter','K153682'),  # pass17, Jeff-approved
+ ('Balloon','Biotronik AG','Pantera Pro','K160985'),  # pass17, Jeff-approved
 ]
 V=[
 ('Resolute Onyx','drug','Zotarolimus',SSED('P160043',2)),('Resolute Onyx','drug_dose','~1.6 µg/mm²; max 317 µg (4.0×38 mm)',SSED('P160043',2)),

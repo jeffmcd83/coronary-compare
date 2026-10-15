@@ -1,0 +1,1671 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-01",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 24
+    }
+  },
+  "results": [
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "26353517-db3d-4c0b-b247-cfba06a6762f",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141403520RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "372f9e98-a597-47b3-8083-5baa48a9d882",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141402515RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "37c08269-3c4a-4263-9529-5a80d2e240c4",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141403515RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "f5faa25b-2130-44b7-94d6-7e45fcbb91c9",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141402520RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141402520RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "b6a87c7c-e4eb-4951-9e56-21f25b95f0a8",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141402515RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141402515RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "f901b77e-1ada-4e74-bc13-003520621dde",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141403010RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141403010RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "fe9101b6-babf-4bfc-b23c-2cbc66673e9b",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141403020RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141403020RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "49626def-c501-405f-bc81-2fb3e1c1fec4",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141402015RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141402015RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "a72995e7-7d64-45da-88db-d6af1971b192",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141402020RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "deeb815d-b44c-4c76-991b-0d85f0e2c106",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141402010RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141402010RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "9389c4c3-f834-422b-97bd-4b9927283b84",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141402020RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141402020RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "52f6d80a-f1e1-4f9c-a1b7-25131b05b312",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141403015RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141403015RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "c2949aac-cf11-4972-89e6-2d31bbc6aec2",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141402510RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141402510RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "bb5694d2-b26a-4c92-b0c7-a6c060222215",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141403520RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141403520RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "7b3fcb79-130d-4027-a494-f2d2230ac45a",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141403510RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "cc463ae9-7555-499c-8a72-25356e09ff39",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141403015RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "6bd4d69a-10fa-4b98-a816-1678a5c9d419",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141402010RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "e12f6e05-8987-4bf6-9add-b93e09abcf24",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141403010RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "95dc7861-19b1-439b-9020-36959fa69471",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141403515RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141403515RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "ef7fcd93-df4d-4156-a9cf-3fe7a1bde20d",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141402015RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "93d27524-0152-4c35-a0a7-3e52ae148625",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141402520RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "55e6856f-c5fa-48ff-b06e-cc44bf147539",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141402510RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Chocolate XD PTCA Balloon Catheter NHC",
+      "public_device_record_key": "c595b281-d8e5-47cc-8807-ef2880a55f28",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CD141403510RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter NHC",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "catalog_number": "CD141403510RX",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2018-02-05"
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "false",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "7379fe2d-a57e-4350-9974-c9605d701a02",
+      "has_serial_number": "false",
+      "public_version_date": "2019-10-07",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "623861577",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M874CX141403020RX1",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "A",
+      "has_manufacturing_date": "true",
+      "brand_name": "Chocolate XD PTCA Balloon Catheter Hydrophilic Coated",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LOX",
+          "name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+          "openfda": {
+            "device_name": "Catheters, Transluminal Coronary Angioplasty, Percutaneous",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.5100",
+            "device_class": "2"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "K153682",
+          "supplement_number": "000"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "company_name": "TRIREME MEDICAL, LLC",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47732",
+          "name": "Coronary angioplasty balloon catheter, basic",
+          "definition": "A flexible tube designed for percutaneous transluminal coronary angioplasty (PTCA) to dilate a stenotic coronary artery by controlled inflation of a distensible balloon(s) at its distal tip. It is typically available as: 1) an over-the-wire (OTW) type that has a double or triple-lumen, one for the guidewire and one or two for single- or double-balloon inflation; and 2) a rapid exchange (RX) type with a single-lumen. It is available in various sizes for the dilatation of small, narrowed, or obstructed coronary arteries or bypass grafts. It may also be intended for pre- or post-dilatation of a balloon-expandable stent (not included) in the coronary arteries. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-02-13"
+    }
+  ]
+}
