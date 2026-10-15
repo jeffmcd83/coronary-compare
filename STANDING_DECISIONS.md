@@ -29,3 +29,6 @@
 ## 2026-10-15 — SKU-matching corrections (Jeff-approved)
 - Fielder XT: brand regex tightened to ^FIELDER XT$ — XT-A (APW14R009S/309S) and XT-R (APW14R005S/305S) are separate brands in GUDID (raw/udi/Fielder_XT.json; https://api.fda.gov/device/udi.json?search=brand_name:FIELDER) and must not be merged. Row SKUs = AGP140002, AGP140302 only.
 - Guidezilla II: brand regex tightened to ^Guidezilla™ II$ — original "Guidezilla™" 5-in-6 (H7493924215050, GUDID brand "Guidezilla™") is a different (first-gen) device, removed from the Guidezilla II row (raw/udi/Guidezilla_II.json).
+
+## 2026-10-15 — NC TREK RX kept (Jeff decision)
+Jeff confirms NC TREK RX and NC TREK NEO are both still sold in the US → keep the NC TREK RX row alongside NC TREK NEO (do not retire/merge).
