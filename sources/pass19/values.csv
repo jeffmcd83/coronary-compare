@@ -1,0 +1,6 @@
+model,field,value,source
+SION blue PLUS,fda_submission,K243733,"FDA 510(k) K243733 (Asahi Intecc, SE 2025-04-02) 510(k) summary p.1; https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243733.pdf"
+SION blue PLUS,product_code,DQX,"FDA 510(k) K243733 (Asahi Intecc, SE 2025-04-02) 510(k) summary Table 1 p.3; https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243733.pdf"
+SION blue PLUS,core_material,Stainless steel core; Pt-Ni + stainless-steel inner/outer coils; safety wire,"FDA 510(k) K243733 (Asahi Intecc, SE 2025-04-02) 510(k) summary Device Description p.2 / Table 1 p.3; https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243733.pdf"
+SION blue PLUS,coating,Silicone + hydrophilic (distal); PTFE (proximal),"FDA 510(k) K243733 (Asahi Intecc, SE 2025-04-02) 510(k) summary Device Description p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243733.pdf"
+SION blue PLUS,wire_use,PCI and PTA balloon-catheter placement (not neurovasculature); 3 cm radiopaque tip; straight / pre-shape / J,"FDA 510(k) K243733 (Asahi Intecc, SE 2025-04-02) 510(k) summary Indications p.2 + Device Description p.2; https://www.accessdata.fda.gov/cdrh_docs/pdf24/K243733.pdf"

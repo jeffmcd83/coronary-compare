@@ -107,3 +107,9 @@ Skipped (no exact-model OEM / N/A / sibling / already chased): Imaging — Drago
 Data-quality flag for Jeff (not changed): Fielder XT row catalog list/n_skus (6) includes GUDID FIELDER XT-A (APW14R009S/309S) and XT-R (APW14R005S/305S) — fam.py regex "FIELDER XT" also matches the XT-A/XT-R siblings; exact Fielder XT = AGP140002/AGP140302 (n=2). Similarly Guidezilla II row includes original Guidezilla 5-in-6 (H7493924215050, brand "Guidezilla™"). Fix needs Jeff's OK (changes existing values).
 New-row candidates for Jeff (not added): none new (SION blue PLUS K243733 seen in GUDID/510(k) — newer Asahi workhorse wire, could be its own row if wanted).
 Note (closed): Innovative Health reprocessed Eagle Eye Platinum ST RX (85900PST / GTIN 10841898131356) still present since pass 13b.
+
+## Pass 19 — SKU corrections + SION blue PLUS (Jeff-approved) — preview-pass19 → v1.14
+Corrections (fam.py regex, see STANDING_DECISIONS 2026-10-15): Fielder XT 6→2 SKUs (AGP140002; AGP140302; XT-A/XT-R removed); Guidezilla II 5→4 SKUs (original Guidezilla 5-in-6 H7493924215050 removed). Source: GUDID brand_name per DI (raw/udi/Fielder_XT.json, raw/udi/Guidezilla_II.json).
+New row SION blue PLUS (Asahi, Guidewire): GUDID 6 DIs (AHW14R027J/P/S 190 cm, AHW14R327J/P/S 300 cm, 0.014 in; raw/udi/SION_blue_PLUS.json) + K243733 summary (SE 2025-04-02, DQX): core SS w/ Pt-Ni + SS coils + safety wire, silicone+hydrophilic distal / PTFE proximal, 3 cm radiopaque tip, straight/pre-shape/J, PCI+PTA. 5 values in sources/pass19/values.csv; 0 conflicts. Not filled: tip_load_gf (no exact-model source; SION blue 0.5 gf NOT copied).
+Dragonfly OpStar 1014651 eIFU: not obtained — manuals.sjm.com search is captcha-gated (not bypassed); vascular.eifu.abbott search 404; K230411 lacks catheter dims. Unchanged.
+Backups: fam.pre-pass19.py, coronary-specs-verified.pre-pass19.csv. Fill 86.9→87.7% (870/992).
