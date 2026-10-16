@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-01",
+    "results": {
+      "skip": 0,
+      "limit": 5,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "Imaging Catheter",
+      "public_device_record_key": "f09c176a-0dfe-4a8f-aaa7-8957fc8f72b7",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep away from sunlight. Keep dry."
+        }
+      ],
+      "public_version_date": "2023-08-14",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "2",
+      "labeler_duns_number": "018493531",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "05415067031129",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "1014651",
+      "has_manufacturing_date": "false",
+      "brand_name": "Dragonfly OpStar™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "DQO",
+          "name": "CATHETER, INTRAVASCULAR, DIAGNOSTIC",
+          "openfda": {
+            "device_name": "Catheter, Intravascular, Diagnostic",
+            "medical_specialty_description": "Cardiovascular",
+            "regulation_number": "870.1200",
+            "device_class": "2"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "+1(855)478-5833",
+          "email": "customerservice@sjm.com"
+        }
+      ],
+      "catalog_number": "1014651",
+      "company_name": "LIGHTLAB IMAGING, INC.",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "47491",
+          "name": "Coronary optical coherence tomography system catheter",
+          "definition": "A sterile flexible tube with an extremely fine working end that houses an optical fibre and imaging lens intended to be transcutaneously introduced into the coronary vasculature to perform coronary optical coherence tomography (OCT). The proximal end of the device connects to a coronary OCT console for the transmission of high-resolution images (e.g., 5 to 40 micron) of the coronary intravasculature. It is typically made of stainless steel, plastic, and optical materials. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2019-12-17"
+    }
+  ]
+}
