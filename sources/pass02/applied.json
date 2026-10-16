@@ -668,8 +668,8 @@
   "table": "spec",
   "model": "Corsair Pro",
   "field": "fda_submission",
-  "new": "K161126",
-  "source": "FDA 510(k) K161126 \"ASAHI Corsair Pro\"; https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161126.pdf"
+  "new": "K161126, K171933",
+  "source": "FDA 510(k) K161126 \"ASAHI Corsair Pro\"; https://www.accessdata.fda.gov/cdrh_docs/pdf16/K161126.pdf | FDA 510(k) K171933 (SE 2018-02-12, DQX) adds indication to assist crossing de novo coronary CTOs, names ASAHI Corsair Pro Microcatheter (letter p.1, IFU form p.3); https://www.accessdata.fda.gov/cdrh_docs/pdf17/K171933.pdf (Jeff-approved 2026-10-16)"
  },
  {
   "pass": 2,

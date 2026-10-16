@@ -78,7 +78,7 @@ SUB={'XIENCE Skypoint':('P110019','FDA PMA DB: P110019 supplements (e.g., S113 2
 'SION black':('K173277','FDA 510(k) K173277 "ASAHI SION black"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K173277'),
 'Guidezilla II':('K163314','FDA 510(k) K163314 "Guidezilla II"; '+SS+'pdf16/K163314.pdf'),
 'Mamba':('K190401','FDA 510(k) K190401 "MAMBA and MAMBA Flex"; '+SS+'pdf19/K190401.pdf'),
-'Corsair Pro':('K161126','FDA 510(k) K161126 "ASAHI Corsair Pro"; '+SS+'pdf16/K161126.pdf'),
+'Corsair Pro':('K161126, K171933','FDA 510(k) K161126 "ASAHI Corsair Pro"; '+SS+'pdf16/K161126.pdf | FDA 510(k) K171933 (SE 2018-02-12, DQX) adds indication to assist crossing de novo coronary CTOs, names ASAHI Corsair Pro Microcatheter (letter p.1, IFU form p.3); '+SS+'pdf17/K171933.pdf (Jeff-approved 2026-10-16)'),
 'Caravel':('K152447','FDA 510(k) K152447 "ASAHI Caravel"; '+SS+'pdf15/K152447.pdf'),
 'OptiCross HD':('K213593','FDA 510(k) K213593 "OptiCross HD"; '+SS+'pdf21/K213593.pdf'),
 'Dragonfly OpStar':('K230411','FDA 510(k) K230411 "Dragonfly OpStar Imaging Catheter"; '+SS+'pdf23/K230411.pdf'),

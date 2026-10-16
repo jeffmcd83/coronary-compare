@@ -32,3 +32,6 @@
 
 ## 2026-10-15 — NC TREK RX kept (Jeff decision)
 Jeff confirms NC TREK RX and NC TREK NEO are both still sold in the US → keep the NC TREK RX row alongside NC TREK NEO (do not retire/merge).
+
+## 2026-10-16 — Corsair Pro submissions (Jeff decision)
+Corsair Pro fda_submission = "K161126, K171933". K171933 (SE 2018-02-12, DQX) adds the CTO-crossing indication and names ASAHI Corsair Pro Microcatheter; https://www.accessdata.fda.gov/cdrh_docs/pdf17/K171933.pdf (copy: sources/pass22/docs/K171933.pdf).
