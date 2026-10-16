@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Coronary Products and Accessories</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#111827"><meta name="application-name" content="Coronary Products and Accessories"><meta name="description" content="Coronary Products and Accessories: side-by-side comparison of coronary devices with sourced specs and FDA recalls.">
-<link rel="preload" href="data/core.json?v=2e7270a5" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=547ed147" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -42,10 +42,10 @@ body.dsk thead th.hp{z-index:6}@media(max-width:720px){body.cmp main{overflow-x:
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[null,null,null,null],mf=["","","",""],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=2e7270a5').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
+fetch('data/core.json?v=547ed147').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='Preview · pass '+d.pass+' · built '+d.built;
  const cats=Object.keys(d.sect);$('#cat').innerHTML=cats.map(c=>`<option>${esc(c)}</option>`).join('');
  const h=new URLSearchParams(location.hash.slice(1));if(h.get('c')&&cats.includes(h.get('c')))$('#cat').value=h.get('c');
- fetch('data/recalls.json?v=2e7270a5').then(r=>r.json()).then(x=>{RC=x}).catch(()=>{RC={}}).finally(()=>setCat(h.get('m')!=null?h.get('m').split('~'):null))});
+ fetch('data/recalls.json?v=547ed147').then(r=>r.json()).then(x=>{RC=x}).catch(()=>{RC={}}).finally(()=>setCat(h.get('m')!=null?h.get('m').split('~'):null))});
 function rowsOf(c){return D.rows.filter(r=>r.category===c)}
 let COLS=[];const SCOL={},supOf=r=>{if(SCOL[r.manufacturer])return SCOL[r.manufacturer];const S=D.sc.suppliers;for(const k in S)if(S[k].match.some(m=>new RegExp(m,'i').test(r.manufacturer)))return SCOL[r.manufacturer]=k;return SCOL[r.manufacturer]=r.manufacturer};
 const colOf=s=>(D.sc.suppliers[s]||{}).color||'#64748b';
