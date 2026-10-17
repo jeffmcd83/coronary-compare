@@ -99,6 +99,12 @@ exec(open('passes_apply.py').read())
 # STANDING_DECISIONS 2026-10-13: exclude devices not labeled for coronary use
 EXCLUDE={"AngioJet AVX"}  # AV-access grafts/fistulae only (BSC US AngioJet page)
 rows=[r for r in rows if r.get("model") not in EXCLUDE]
+# STANDING_DECISIONS 2026-10-17 (Jeff): approved overrides (FDA/IFU-tier evidence replaces brochure values; old value logged in conflicts)
+for _v in csv.DictReader(open('sources/pass28/override.csv')):
+    _r=byname[_v['model']];_old=_r.get(_v['field'],'')
+    _conf.append({'pass':'pass28-override',**_v,'existing':_old,'existing_source':prov[_v['model']].get(_v['field'],''),'resolution':'Jeff-approved override 2026-10-17'})
+    _r[_v['field']]=_v['value'];prov[_v['model']][_v['field']]=_v['source']
+json.dump(_conf,open('sources/conflicts_passes.json','w'),indent=1)
 # STANDING_DECISIONS 2026-10-16 (Jeff): display rename after all passes applied (keeps earlier pass keys valid)
 _S036='FDA PMA P130005/S036 (approved 2023-06-01): "design change to the 1.25mm Coronary Crown Orbital Atherectomy Device, a name change from Diamondback 360 Coronary Orbital Atherectomy System to Diamondback 360 Precision"; https://api.fda.gov/device/pma.json?search=pma_number:P130005+AND+supplement_number:S036'
 RENAME={"Diamondback 360 Coronary OAS":("Diamondback 360 Precision","P130005, S036 (2023-06: 1.25 mm crown; formerly \"Diamondback 360 Coronary OAS\")")}

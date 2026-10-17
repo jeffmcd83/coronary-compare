@@ -70,5 +70,85 @@
   "source": "FDA PMA P250041 database record (applicant MedAlliance, LLC) p.record; SELUTION SLR 014 PTCA DEB US IFU 100674291 Rev.5 (IFU; FDA PMA P250041 labeling) p.1; brochure p.4 \"MedAlliance, LLC and M.A. Med Alliance SA are Cordis companies\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?ID=P250041",
   "existing": "Medalliance, LLC",
   "existing_source": "GUDID (AccessGUDID v3 device lookup API; not yet in openFDA UDI) \u2014 32 device identifiers, brand \"SELUTION SLR\u2122 014 PTCA Drug-Eluting Balloon\"; record-level device_sizes; https://accessgudid.nlm.nih.gov/devices/search?query=%22SELUTION+SLR%E2%84%A2+014+PTCA+Drug-Eluting+Balloon%22"
+ },
+ {
+  "pass": "pass28-override",
+  "model": "Orsiro Mission",
+  "field": "diameters_mm",
+  "value": "2.25, 2.5, 2.75, 3.0, 3.5, 4.0, 4.5, 5.0 mm",
+  "source": "FDA PMA P170030/S058 (approved 2026-06-11: \"addition of 4.5 and 5.0 mm diameter stents to the Orsiro Mission product matrix\"); https://api.fda.gov/device/pma.json?search=pma_number:P170030+AND+supplement_number:S058 + GUDID brand \"Orsiro Mission\" 66 DIs In Commercial Distribution (453925\u2013453978; 473694\u2013473707 published 2026-06-30); https://api.fda.gov/device/udi.json?search=brand_name:%22Orsiro+Mission%22",
+  "existing": "2.25, 2.5, 2.75, 3.0, 3.5, 4.0 mm",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B (Ordering Information) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
+  "resolution": "Jeff-approved override 2026-10-17"
+ },
+ {
+  "pass": "pass28-override",
+  "model": "Orsiro Mission",
+  "field": "lengths_mm",
+  "value": "9, 13, 15, 18, 22, 26, 30, 35, 40 mm (35/40 mm not in 2.25, 4.5, 5.0 mm)",
+  "source": "GUDID brand \"Orsiro Mission\" 66 DIs In Commercial Distribution (453925\u2013453978; 473694\u2013473707 published 2026-06-30); https://api.fda.gov/device/udi.json?search=brand_name:%22Orsiro+Mission%22 size matrix + Teleflex US IRC Orsiro Mission page, Technical Data / US ordering table; https://irc.teleflex.com/orsiro-mission/",
+  "existing": "9, 13, 15, 18, 22, 26, 30, 35, 40 mm (35/40 mm not in 2.25 mm)",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B (Ordering Information) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
+  "resolution": "Jeff-approved override 2026-10-17"
+ },
+ {
+  "pass": "pass28-override",
+  "model": "Orsiro Mission",
+  "field": "strut_thickness_um",
+  "value": "60 (2.25\u20133.0 mm); 80 (3.5\u20134.0 mm); 89 (4.5\u20135.0 mm)",
+  "source": "Teleflex US IRC Orsiro Mission page, Technical Data / US ordering table; https://irc.teleflex.com/orsiro-mission/",
+  "existing": "60 (2.25\u20133.0 mm); 80 (3.5\u20134.0 mm)",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B (Technical data) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
+  "resolution": "Jeff-approved override 2026-10-17"
+ },
+ {
+  "pass": "pass28-override",
+  "model": "Orsiro Mission",
+  "field": "nominal_pressure_atm",
+  "value": "10 atm (2.25\u20134.0 mm); 11 atm (4.5\u20135.0 mm)",
+  "source": "Teleflex US IRC Orsiro Mission page, Technical Data / US ordering table; https://irc.teleflex.com/orsiro-mission/",
+  "existing": "10 atm",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B (Technical data) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
+  "resolution": "Jeff-approved override 2026-10-17"
+ },
+ {
+  "pass": "pass28-override",
+  "model": "Orsiro Mission",
+  "field": "guide_compat",
+  "value": "5 F (min ID 0.056 in): 2.25\u20134.0 mm; 6 F (min ID 0.070 in): 4.5\u20135.0 mm",
+  "source": "Teleflex US IRC Orsiro Mission page, Technical Data / US ordering table; https://irc.teleflex.com/orsiro-mission/",
+  "existing": "5 F (min ID 0.056 in)",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B (Technical data) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
+  "resolution": "Jeff-approved override 2026-10-17"
+ },
+ {
+  "pass": "pass28-override",
+  "model": "Orsiro Mission",
+  "field": "fda_submission",
+  "value": "P170030 (S058 2026-06: 4.5/5.0 mm; S055 2025-08: also sold as \"Synsiro Pro\")",
+  "source": "FDA PMA P170030/S058 (approved 2026-06-11: \"addition of 4.5 and 5.0 mm diameter stents to the Orsiro Mission product matrix\"); https://api.fda.gov/device/pma.json?search=pma_number:P170030+AND+supplement_number:S058 | FDA PMA P170030/S055 (approved 2025-08-19: \"additional trade name, Synsiro Pro, for the approved PMA device\"); https://api.fda.gov/device/pma.json?search=pma_number:P170030+AND+supplement_number:S055",
+  "existing": "P170030",
+  "existing_source": "FDA PMA DB: P170030 S036/S046 \"Orsiro Mission\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P170030",
+  "resolution": "Jeff-approved override 2026-10-17"
+ },
+ {
+  "pass": "pass28-override",
+  "model": "Integrity",
+  "field": "fda_submission",
+  "value": "P030009 \u2014 DISCONTINUED: PMA withdrawn 2026-04-02; all 78 GUDID DIs Not in Commercial Distribution",
+  "source": "FDA PMA database P030009 (withdrawn 2026-04-02); https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P030009 | GUDID 78 \"Integrity\" DIs Not in Commercial Distribution (ended 2024-05-20 / 2026-04-01); sources/pass27/docs/udi_integrity_openfda_20261017.json",
+  "existing": "P030009",
+  "existing_source": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P030009",
+  "resolution": "Jeff-approved override 2026-10-17"
+ },
+ {
+  "pass": "pass28-override",
+  "model": "MULTI-LINK 8",
+  "field": "fda_submission",
+  "value": "P020047 \u2014 DISCONTINUED: all 6 GUDID DIs Not in Commercial Distribution since 2018-07-21 (PMA not withdrawn)",
+  "source": "GUDID 6 \"MULTI-LINK 8\" DIs Not in Commercial Distribution, end date 2018-07-21 (sources/pass27/docs/udi_ml8_openfda_20261017.json); openFDA PMA P020047 latest supplement S076 2023-06-14, no withdrawal record; https://api.fda.gov/device/pma.json?search=pma_number:P020047",
+  "existing": "P020047",
+  "existing_source": "FDA PMA DB: P020047 \"MULTI-LINK 8 and MULTI-LINK 8 LL\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P020047",
+  "resolution": "Jeff-approved override 2026-10-17"
  }
 ]

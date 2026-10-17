@@ -40,3 +40,11 @@ Corsair Pro fda_submission = "K161126, K171933". K171933 (SE 2018-02-12, DQX) ad
 - XIENCE Skypoint ONLY: crossing profile 0.0390 in (3.0 × 18 mm) accepted from Abbott US HCP page/brochure MAT-2106263 v2.0 (https://www.cardiovascular.abbott/us/en/hcp/products/percutaneous-coronary-intervention/xience-family/about.html). Brochure value — an IFU value replaces it if published. Not applied to Sierra.
 - Abbott eIFU: direct PDF links that are publicly indexed may be used; never solve/bypass a captcha or gated search.
 - Row "Diamondback 360 Coronary OAS" renamed "Diamondback 360 Precision" (PMA P130005/S036, approved 2023-06-01: 1.25 mm crown design change + name change). Implemented as a display rename in build_master.py (RENAME) so earlier pass keys still apply; former name kept in the fda_submission note; recalls CSV model name updated.
+
+## 2026-10-17 — Jeff decisions (pass 28)
+- Orsiro Mission: 4.5/5.0 mm sizes added (PMA P170030/S058, 2026-06-11; GUDID 473694–473707; Teleflex US IRC page: 89 µm, NP 11 atm, 6 F/0.070 in for 4.5–5.0). The 6 logged pass-27 size conflicts are resolved in favour of FDA/GUDID/US-page evidence over the 2022 brochure (sources/pass28/override.csv, applied in build_master.py; old values kept in conflicts_passes.json).
+- Orsiro Mission SKU match tightened to ^Orsiro Mission$ (66 current DIs); the 52 discontinued original "Orsiro" GUDID DIs (Not in Commercial Distribution since 2024-09-09) are excluded.
+- Synsiro Pro (P170030/S055, 2025-08-19) = alias/note on the Orsiro Mission row; no separate row.
+- Integrity and MULTI-LINK 8: rows kept, marked DISCONTINUED in fda_submission (Integrity: PMA P030009 withdrawn 2026-04-02 + 78 GUDID DIs not in distribution; MULTI-LINK 8: 6 GUDID DIs not in distribution since 2018-07-21 — PMA P020047 not withdrawn). XIENCE Sierra unchanged.
+- Diamondback 360 Precision keeps DBEC-150.
+- Dragonfly OpStar recall-record values: not used. Diamondback GUDID guidewire OD 0.012 in: not applied (stays logged conflict); GUDID Max OD per catalog also stays logged (IFU 0.053 in kept).

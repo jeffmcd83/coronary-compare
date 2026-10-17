@@ -178,3 +178,8 @@ Skipped (no exact-model OEM/FDA source / N/A / sibling / gated / OUS): Imaging: 
 Data-quality flags for Jeff (not changed): Orsiro Mission sizes and SKU over-match (above); Diamondback Max OD / guidewire OD (above); still open: Integrity withdrawn PMA, XIENCE Sierra and MULTI-LINK 8 absent from Abbott US catalog, DBEC-150 on the Precision row, Dragonfly OpStar recall-record values.
 New-row candidates for Jeff (not added): Synsiro Pro, an additional trade name for the Orsiro Mission PMA device (P170030/S055, 2025-08-19; no GUDID brand found). It could be an alias or its own row.
 Note (closed): Innovative Health reprocessed Eagle Eye Platinum ST RX has been present since pass 13b.
+
+## Pass 28 — Jeff-approved Orsiro / discontinued items — preview-pass28 → v1.19
+Orsiro Mission: n_skus 118→66 (fam.py ^Orsiro Mission$); diameters +4.5/5.0 mm (S058 + GUDID); lengths qualifier (35/40 mm not in 2.25/4.5/5.0); strut +89 µm (4.5–5.0); NP 11 atm (4.5–5.0); guide 6 F/0.070 in (4.5–5.0) (Teleflex US IRC page https://irc.teleflex.com/orsiro-mission/); fda_submission note S058 + Synsiro Pro (S055). Not filled for 4.5/5.0: max_expansion (no exact source).
+Integrity / MULTI-LINK 8 marked DISCONTINUED (evidence in sources/pass27/docs udi_*_openfda_20261017.json; P030009 withdrawal per FDA PMA DB). DBEC-150 kept; Dragonfly recall values and Diamondback guidewire OD not applied.
+Mechanism: sources/pass28/override.csv applied in build_master.py (logged as 'pass28-override' entries in conflicts_passes.json). Backups *.pre-pass28.*. Fill 89.7% (890/992).

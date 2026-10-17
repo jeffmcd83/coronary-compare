@@ -6,7 +6,7 @@ F={
 "SYNERGY MEGATRON":("SYNERGY_MEGATRON",r"MEGATRON",None,None),
 "Onyx Frontier":("Onyx_Frontier",r"Onyx Frontier",None,None),
 "Resolute Onyx":("Resolute_Onyx",r"Resolute Onyx",None,None),
-"Orsiro Mission":("Orsiro_Mission",r"Orsiro",None,None),
+"Orsiro Mission":("Orsiro_Mission",r"^Orsiro Mission$",None,None),
 "MULTI-LINK 8":("MULTI-LINK_8",r"MULTI-LINK 8",None,None),
 "Integrity":("Integrity",r"^Integrity$",None,None),
 "REBEL":("REBEL",r"REBEL",None,None),
