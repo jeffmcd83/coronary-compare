@@ -100,9 +100,11 @@ exec(open('passes_apply.py').read())
 EXCLUDE={"AngioJet AVX"}  # AV-access grafts/fistulae only (BSC US AngioJet page)
 rows=[r for r in rows if r.get("model") not in EXCLUDE]
 # STANDING_DECISIONS 2026-10-17 (Jeff): approved overrides (FDA/IFU-tier evidence replaces brochure values; old value logged in conflicts)
-for _v in csv.DictReader(open('sources/pass28/override.csv')):
+import glob as _gg
+for _v in [dict(v,_pf=_f.split('/')[1]) for _f in sorted(_gg.glob('sources/pass*/override.csv')) for v in csv.DictReader(open(_f))]:
+    _pf=_v.pop('_pf')
     _r=byname[_v['model']];_old=_r.get(_v['field'],'')
-    _conf.append({'pass':'pass28-override',**_v,'existing':_old,'existing_source':prov[_v['model']].get(_v['field'],''),'resolution':'Jeff-approved override 2026-10-17'})
+    _conf.append({'pass':_pf+'-override',**_v,'existing':_old,'existing_source':prov[_v['model']].get(_v['field'],''),'resolution':'Jeff-approved override'})
     _r[_v['field']]=_v['value'];prov[_v['model']][_v['field']]=_v['source']
 json.dump(_conf,open('sources/conflicts_passes.json','w'),indent=1)
 # STANDING_DECISIONS 2026-10-16 (Jeff): display rename after all passes applied (keeps earlier pass keys valid)

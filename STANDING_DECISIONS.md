@@ -48,3 +48,10 @@ Corsair Pro fda_submission = "K161126, K171933". K171933 (SE 2018-02-12, DQX) ad
 - Integrity and MULTI-LINK 8: rows kept, marked DISCONTINUED in fda_submission (Integrity: PMA P030009 withdrawn 2026-04-02 + 78 GUDID DIs not in distribution; MULTI-LINK 8: 6 GUDID DIs not in distribution since 2018-07-21 — PMA P020047 not withdrawn). XIENCE Sierra unchanged.
 - Diamondback 360 Precision keeps DBEC-150.
 - Dragonfly OpStar recall-record values: not used. Diamondback GUDID guidewire OD 0.012 in: not applied (stays logged conflict); GUDID Max OD per catalog also stays logged (IFU 0.053 in kept).
+
+## 2026-10-17 (evening) — Jeff decisions (pass 30)
+- ELCA guide_compat = newest US IFU D002011088.B (2025-12) Table 1.1: 7 Fr (1.4 mm), 8 Fr (1.7 mm), 8 Fr (2.0 mm). That IFU does not list 0.9 mm / X-80, so no guide value is shown for 0.9 mm. The 2024 brochure value (6 Fr X-80; 6/7, 7, 8 Fr) is moved to conflicts_passes.json.
+- ELCA sheath_compat_fr keeps the full per-size value from the 2021 US IFUs P020691-A / P020690-A (now restricted to the in-distribution catalogs).
+- ELCA SKUs pruned to the 4 catalogs GUDID shows In Commercial Distribution (110-004, 114-009, 117-016, 120-009; 8 DIs). Per-size values re-aligned to those catalogs.
+- OptiCross HD fda_submission = K213593, K230453 (2023-05-18), K260816 (2026-04-08).
+- Approved overrides now live in sources/passNN/override.csv (all applied by build_master.py, old values logged as passNN-override in conflicts_passes.json).

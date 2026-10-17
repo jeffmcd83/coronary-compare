@@ -195,3 +195,8 @@ Skipped (no exact-model OEM/FDA source / N/A / sibling / gated / OUS): Dragonfly
 New-row candidates for Jeff (not added): none.
 Note (closed): Innovative Health reprocessed Eagle Eye Platinum ST RX row still present (K210655).
 
+
+## Pass 30 — Jeff-approved ELCA / OptiCross items — preview-pass30 → v1.20
+ELCA: guide_compat → 7/8/8 Fr (1.4/1.7/2.0 mm) from IFU D002011088.B p.5 Table 1.1 (0.9 mm X-80 not listed there — left unstated); brochure D2023060101A value → conflicts_passes.json. Catalogs 9→4 (110-004; 114-009; 117-016; 120-009), n_skus 27→8 in-distribution DIs (GUDID 2026-10-17); sheath value re-aligned: 4 Fr (110-004) / 5 Fr (114-009) / 6 Fr (117-016) / 7 Fr (120-009) per 2021 US IFUs P020691-A / P020690-A. Crossing profile per size unchanged (still matches the 4 catalogs).
+OptiCross HD fda_submission → K213593, K230453, K260816 (openFDA 510(k) + K260816 summary; sources/pass30/K230453_openfda.json, sources/pass29/docs/K260816.pdf).
+sources/pass30/override.csv; build_master.py now applies every sources/pass*/override.csv. Backups *.pre-pass30.*. Fill 89.7→89.8% (891/992).

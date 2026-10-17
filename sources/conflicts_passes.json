@@ -79,7 +79,7 @@
   "source": "FDA PMA P170030/S058 (approved 2026-06-11: \"addition of 4.5 and 5.0 mm diameter stents to the Orsiro Mission product matrix\"); https://api.fda.gov/device/pma.json?search=pma_number:P170030+AND+supplement_number:S058 + GUDID brand \"Orsiro Mission\" 66 DIs In Commercial Distribution (453925\u2013453978; 473694\u2013473707 published 2026-06-30); https://api.fda.gov/device/udi.json?search=brand_name:%22Orsiro+Mission%22",
   "existing": "2.25, 2.5, 2.75, 3.0, 3.5, 4.0 mm",
   "existing_source": "Orsiro Mission US brochure 463589 Rev B (Ordering Information) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
-  "resolution": "Jeff-approved override 2026-10-17"
+  "resolution": "Jeff-approved override"
  },
  {
   "pass": "pass28-override",
@@ -89,7 +89,7 @@
   "source": "GUDID brand \"Orsiro Mission\" 66 DIs In Commercial Distribution (453925\u2013453978; 473694\u2013473707 published 2026-06-30); https://api.fda.gov/device/udi.json?search=brand_name:%22Orsiro+Mission%22 size matrix + Teleflex US IRC Orsiro Mission page, Technical Data / US ordering table; https://irc.teleflex.com/orsiro-mission/",
   "existing": "9, 13, 15, 18, 22, 26, 30, 35, 40 mm (35/40 mm not in 2.25 mm)",
   "existing_source": "Orsiro Mission US brochure 463589 Rev B (Ordering Information) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
-  "resolution": "Jeff-approved override 2026-10-17"
+  "resolution": "Jeff-approved override"
  },
  {
   "pass": "pass28-override",
@@ -99,7 +99,7 @@
   "source": "Teleflex US IRC Orsiro Mission page, Technical Data / US ordering table; https://irc.teleflex.com/orsiro-mission/",
   "existing": "60 (2.25\u20133.0 mm); 80 (3.5\u20134.0 mm)",
   "existing_source": "Orsiro Mission US brochure 463589 Rev B (Technical data) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
-  "resolution": "Jeff-approved override 2026-10-17"
+  "resolution": "Jeff-approved override"
  },
  {
   "pass": "pass28-override",
@@ -109,7 +109,7 @@
   "source": "Teleflex US IRC Orsiro Mission page, Technical Data / US ordering table; https://irc.teleflex.com/orsiro-mission/",
   "existing": "10 atm",
   "existing_source": "Orsiro Mission US brochure 463589 Rev B (Technical data) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
-  "resolution": "Jeff-approved override 2026-10-17"
+  "resolution": "Jeff-approved override"
  },
  {
   "pass": "pass28-override",
@@ -119,7 +119,7 @@
   "source": "Teleflex US IRC Orsiro Mission page, Technical Data / US ordering table; https://irc.teleflex.com/orsiro-mission/",
   "existing": "5 F (min ID 0.056 in)",
   "existing_source": "Orsiro Mission US brochure 463589 Rev B (Technical data) p.6; https://us.orsiro.com/sites/default/files/2024-04/Orsiro_Mission_US_Brochure_463589_Rev_B_EN_Sep_2022_DV_0%20%281%29.pdf",
-  "resolution": "Jeff-approved override 2026-10-17"
+  "resolution": "Jeff-approved override"
  },
  {
   "pass": "pass28-override",
@@ -129,7 +129,7 @@
   "source": "FDA PMA P170030/S058 (approved 2026-06-11: \"addition of 4.5 and 5.0 mm diameter stents to the Orsiro Mission product matrix\"); https://api.fda.gov/device/pma.json?search=pma_number:P170030+AND+supplement_number:S058 | FDA PMA P170030/S055 (approved 2025-08-19: \"additional trade name, Synsiro Pro, for the approved PMA device\"); https://api.fda.gov/device/pma.json?search=pma_number:P170030+AND+supplement_number:S055",
   "existing": "P170030",
   "existing_source": "FDA PMA DB: P170030 S036/S046 \"Orsiro Mission\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P170030",
-  "resolution": "Jeff-approved override 2026-10-17"
+  "resolution": "Jeff-approved override"
  },
  {
   "pass": "pass28-override",
@@ -139,7 +139,7 @@
   "source": "FDA PMA database P030009 (withdrawn 2026-04-02); https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P030009 | GUDID 78 \"Integrity\" DIs Not in Commercial Distribution (ended 2024-05-20 / 2026-04-01); sources/pass27/docs/udi_integrity_openfda_20261017.json",
   "existing": "P030009",
   "existing_source": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P030009",
-  "resolution": "Jeff-approved override 2026-10-17"
+  "resolution": "Jeff-approved override"
  },
  {
   "pass": "pass28-override",
@@ -149,6 +149,66 @@
   "source": "GUDID 6 \"MULTI-LINK 8\" DIs Not in Commercial Distribution, end date 2018-07-21 (sources/pass27/docs/udi_ml8_openfda_20261017.json); openFDA PMA P020047 latest supplement S076 2023-06-14, no withdrawal record; https://api.fda.gov/device/pma.json?search=pma_number:P020047",
   "existing": "P020047",
   "existing_source": "FDA PMA DB: P020047 \"MULTI-LINK 8 and MULTI-LINK 8 LL\"; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P020047",
-  "resolution": "Jeff-approved override 2026-10-17"
+  "resolution": "Jeff-approved override"
+ },
+ {
+  "pass": "pass30-override",
+  "model": "ELCA Coronary Laser Atherectomy",
+  "field": "guide_compat",
+  "value": "7 Fr (1.4 mm, 114-009); 8 Fr (1.7 mm, 117-016); 8 Fr (2.0 mm, 120-009); 0.9 mm X-80 (110-004): not listed in IFU D002011088.B",
+  "source": "Philips ELCA Coronary Laser Atherectomy Catheter US IFU D002011088.B (2025-12) p.5 Table 1.1 \"Guide catheter (Fr)\" (RX 114-009/117-016/120-009; 0.9 mm / X-80 not covered); https://www.documents.philips.com/assets/Instruction%20for%20Use/20260914/06cb4ebfd4d74f0ca22cb4c500df9e31.pdf",
+  "existing": "6 Fr (0.9 mm X-80); 6/7 Fr (1.4 mm); 7 Fr (1.7 mm); 8 Fr (2.0 mm)",
+  "existing_source": "Philips ELCA brochure D2023060101A (APR 2024) ordering table p.1; https://www.documents.philips.com/assets/20240524/ba78a0af20114aeebae3b17a008d71cc.pdf",
+  "resolution": "Jeff-approved override"
+ },
+ {
+  "pass": "pass30-override",
+  "model": "ELCA Coronary Laser Atherectomy",
+  "field": "catalog_numbers",
+  "value": "110-004; 114-009; 117-016; 120-009",
+  "source": "GUDID (openFDA UDI, pulled 2026-10-17) \u2014 8 DIs In Commercial Distribution across catalogs 110-004, 114-009, 117-016, 120-009; other catalogs (110-001/-002/-003, 117-205, 120-008) Not in Commercial Distribution since 2019-02-06 / 2023-09-11 (sources/pass29/docs/udi_elca_openfda_20261017.json); https://api.fda.gov/device/udi.json?search=brand_name:ELCA",
+  "existing": "110-001; 110-002; 110-003; 110-004; 114-009; 117-016; 117-205; 120-008; 120-009",
+  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 27 device identifiers, brand \"ELCA\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ELCA%E2%84%A2%22",
+  "resolution": "Jeff-approved override"
+ },
+ {
+  "pass": "pass30-override",
+  "model": "ELCA Coronary Laser Atherectomy",
+  "field": "n_skus",
+  "value": "8",
+  "source": "GUDID (openFDA UDI, pulled 2026-10-17) \u2014 8 DIs In Commercial Distribution across catalogs 110-004, 114-009, 117-016, 120-009; other catalogs (110-001/-002/-003, 117-205, 120-008) Not in Commercial Distribution since 2019-02-06 / 2023-09-11 (sources/pass29/docs/udi_elca_openfda_20261017.json); https://api.fda.gov/device/udi.json?search=brand_name:ELCA",
+  "existing": "27",
+  "existing_source": "GUDID (FDA AccessGUDID via openFDA UDI) \u2014 27 device identifiers, brand \"ELCA\u2122\"; record-level device_sizes; https://api.fda.gov/device/udi.json?search=brand_name%3A%22ELCA%E2%84%A2%22",
+  "resolution": "Jeff-approved override"
+ },
+ {
+  "pass": "pass30-override",
+  "model": "ELCA Coronary Laser Atherectomy",
+  "field": "diameters_mm",
+  "value": "0.9, 1.4, 1.7, 2.0 mm",
+  "source": "GUDID (openFDA UDI, pulled 2026-10-17) \u2014 8 DIs In Commercial Distribution across catalogs 110-004, 114-009, 117-016, 120-009; other catalogs (110-001/-002/-003, 117-205, 120-008) Not in Commercial Distribution since 2019-02-06 / 2023-09-11 (sources/pass29/docs/udi_elca_openfda_20261017.json); https://api.fda.gov/device/udi.json?search=brand_name:ELCA + Philips ELCA US IFUs P020691-A (25AUG21, OTW/RX) and P020690-A (18AUG21, 0.9 mm X-80) p.2 Tables 1.1\u20131.2 \"Sheath Compatibility (Fr)\" (copies sources/pass29/docs/elca_otw_rx_us_P020691_A.pdf, sources/pass29/docs/elca_x80_p020690-a.pdf)",
+  "existing": "0.9, 1.4, 1.7, 2.0 mm",
+  "existing_source": "Philips ELCA brochure D2023060101A (APR 2024) ordering table (catheter size mm) p.3; https://www.documents.philips.com/assets/20240524/ba78a0af20114aeebae3b17a008d71cc.pdf",
+  "resolution": "Jeff-approved override"
+ },
+ {
+  "pass": "pass30-override",
+  "model": "ELCA Coronary Laser Atherectomy",
+  "field": "sheath_compat_fr",
+  "value": "4 Fr (0.9 mm X-80 RX, 110-004); 5 Fr (1.4 mm, 114-009); 6 Fr (1.7 mm, 117-016); 7 Fr (2.0 mm, 120-009)",
+  "source": "Philips ELCA US IFUs P020691-A (25AUG21, OTW/RX) and P020690-A (18AUG21, 0.9 mm X-80) p.2 Tables 1.1\u20131.2 \"Sheath Compatibility (Fr)\" (copies sources/pass29/docs/elca_otw_rx_us_P020691_A.pdf, sources/pass29/docs/elca_x80_p020690-a.pdf)",
+  "existing": "4 Fr (0.9 mm: 110-001 OTW, 110-003 RX, X-80 110-002 OTW / 110-004 RX); 5 Fr (1.4 mm, 114-009); 6 Fr (1.7 mm 117-016; 1.7 mm E 117-205); 7 Fr (2.0 mm, 120-009) \u2014 120-008 not in US IFU",
+  "existing_source": "Philips/Spectranetics US IFU 'ELCA OTW/RX IFU Booklet, US' P020691-A (25AUG21) p.2 Tables 1.1-1.2 'Sheath Compatibility (Fr)'; https://images.philips.com/is/content/PhilipsConsumer/Spectranetics%20Migration/IFU%20Library%20NEW/P020691_A_Master%20Layout-2.pdf + US IFU 'ELCA 0.9 mm/X-80 IFU Booklet, US' P020690-A (18AUG21) p.2 Tables 1.1-1.2; https://www.philips.com/c-dam/b2bhc/us/landing-pages/spectranetics/p020690-a-master-layout.pdf (both linked from Philips US IFU library https://www.usa.philips.com/healthcare/support/ifu-library)",
+  "resolution": "Jeff-approved override"
+ },
+ {
+  "pass": "pass30-override",
+  "model": "OptiCross HD",
+  "field": "fda_submission",
+  "value": "K213593, K230453, K260816",
+  "source": "FDA 510(k) database: K213593 | K230453 (SE 2023-05-18, OptiCross HD / 6 HD; https://api.fda.gov/device/510k.json?search=k_number:K230453) | K260816 (SE 2026-04-08, OptiCross / 6 / HD / 6 HD incl. Bagless; summary pp.1\u20133 https://www.accessdata.fda.gov/cdrh_docs/pdf26/K260816.pdf)",
+  "existing": "K213593",
+  "existing_source": "FDA 510(k) K213593 \"OptiCross HD\"; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213593.pdf",
+  "resolution": "Jeff-approved override"
  }
 ]
