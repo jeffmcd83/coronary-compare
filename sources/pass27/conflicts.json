@@ -1,0 +1,82 @@
+[
+ {
+  "pass": 27,
+  "model": "Orsiro Mission",
+  "field": "diameters_mm",
+  "existing": "2.25, 2.5, 2.75, 3.0, 3.5, 4.0 mm",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B (2022) p.6",
+  "candidate": "2.25, 2.5, 2.75, 3.0, 3.5, 4.0, 4.5, 5.0 mm",
+  "source": "FDA PMA P170030/S058 (approved 2026-06-11: 'addition of 4.5 and 5.0 mm diameter stents to the Orsiro Mission product matrix') + S064 (2026-07-23, shelf life 'Orsiro Mission larger diameter stents Ø 4.5 5.0 mm'); GUDID brand 'Orsiro Mission' 14 DIs 473694–473707 (4.5 mm 9–30 mm; 5.0 mm 9–30 mm; published 2026-06-30); Teleflex US IRC page https://irc.teleflex.com/orsiro-mission/ (indication RVD 2.25–5.0 mm). docs: P170030_S058_openfda.json, P170030_S064_openfda.json, udi_orsiro_all_openfda.json, teleflex_irc_orsiro-mission_excerpt.md",
+  "note": "Existing value outdated (pre-S058). Not overwritten — Jeff to approve update."
+ },
+ {
+  "pass": 27,
+  "model": "Orsiro Mission",
+  "field": "lengths_mm",
+  "existing": "9, 13, 15, 18, 22, 26, 30, 35, 40 mm (35/40 mm not in 2.25 mm)",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B p.6",
+  "candidate": "9, 13, 15, 18, 22, 26, 30, 35, 40 mm (35/40 mm not in 2.25, 4.5, 5.0 mm)",
+  "source": "GUDID 'Orsiro Mission' size matrix (udi_orsiro_all_openfda.json); Teleflex US IRC ordering table",
+  "note": "Qualifier only."
+ },
+ {
+  "pass": 27,
+  "model": "Orsiro Mission",
+  "field": "strut_thickness_um",
+  "existing": "60 (2.25–3.0 mm); 80 (3.5–4.0 mm)",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B p.6",
+  "candidate": "60 (2.25–3.0 mm); 80 (3.5–4.0 mm); 89 (4.5–5.0 mm)",
+  "source": "Teleflex US IRC Orsiro Mission page, Technical Data (web tier, not IFU); https://irc.teleflex.com/orsiro-mission/",
+  "note": "Adds 4.5/5.0 sizes."
+ },
+ {
+  "pass": 27,
+  "model": "Orsiro Mission",
+  "field": "nominal_pressure_atm",
+  "existing": "10 atm",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B p.6",
+  "candidate": "10 atm (2.25–4.0 mm); 11 atm (4.5–5.0 mm)",
+  "source": "Teleflex US IRC Orsiro Mission page, Technical Data; https://irc.teleflex.com/orsiro-mission/",
+  "note": "Adds 4.5/5.0 sizes."
+ },
+ {
+  "pass": 27,
+  "model": "Orsiro Mission",
+  "field": "guide_compat",
+  "existing": "5 F (min ID 0.056 in)",
+  "existing_source": "Orsiro Mission US brochure 463589 Rev B p.6",
+  "candidate": "5 F (min ID 0.056 in): 2.25–4.0 mm; 6 F (min ID 0.070 in): 4.5–5.0 mm",
+  "source": "Teleflex US IRC Orsiro Mission page, Technical Data; https://irc.teleflex.com/orsiro-mission/",
+  "note": "Adds 4.5/5.0 sizes."
+ },
+ {
+  "pass": 27,
+  "model": "Orsiro Mission",
+  "field": "n_skus / catalog_numbers",
+  "existing": "118 (incl. 401729…404677)",
+  "existing_source": "GUDID brand regex 'Orsiro' (fam.py) — matches brand 'Orsiro' (52 DIs) + 'Orsiro Mission' (66 DIs)",
+  "candidate": "66 (453925–453978; 473694–473707)",
+  "source": "GUDID: 52 DIs with brand 'Orsiro' (original Orsiro, published 2019-02-26) are 'Not in Commercial Distribution', end date 2024-09-09; 66 'Orsiro Mission' DIs in distribution; Teleflex US ordering table lists only 453925–453978 + 473694–473707",
+  "note": "Same class of fix as Fielder XT / Guidezilla II (fam.py regex → ^Orsiro Mission$). Needs Jeff OK."
+ },
+ {
+  "pass": 27,
+  "model": "Diamondback 360 Coronary OAS (display: Diamondback 360 Precision)",
+  "field": "crossing_profile_in",
+  "existing": "Max OAD catheter OD 1.34 mm (0.053 in)",
+  "existing_source": "Diamondback 360 Coronary OAS IFU (P130005c) Table 1 p.2",
+  "candidate": "GUDID 'Max OD': 0.0495 in (DBEC-125 7-10060-01/-09/-10, 7-10098-01); 0.052 in (7-10060-02; DBEC-125M 7-10000-01); 0.057 in (DBEC-125 70058-02/-12/-13); 0.061 in (DBEC-150 70058-03)",
+  "source": "GUDID device_sizes (udi_diamondback_openfda_20261017.json)",
+  "note": "Labeler GUDID values differ by catalog and from the IFU single value; IFU kept (IFU > GUDID text). Log only."
+ },
+ {
+  "pass": 27,
+  "model": "Diamondback 360 Coronary OAS (display: Diamondback 360 Precision)",
+  "field": "guidewire_compat_in",
+  "existing": "ViperWire Advance Coronary Guide Wire only (Model GWC-12325LG-FLP); OD not stated in IFU",
+  "existing_source": "P130005c IFU §1.0/1.1",
+  "candidate": "Guidewire size OD 0.012 in (ViperWire Advance)",
+  "source": "GUDID device_sizes 'Guidewire size OD 0.012 inches' on all DBEC DIs",
+  "note": "Supplement to existing text; not overwritten."
+ }
+]
