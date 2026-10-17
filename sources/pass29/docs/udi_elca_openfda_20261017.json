@@ -1,0 +1,2570 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-01",
+    "results": {
+      "skip": 0,
+      "limit": 100,
+      "total": 27
+    }
+  },
+  "results": [
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "328347e6-2bd7-4ef1-9d03-acc0d20f4a3a",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M204117205AA0",
+          "type": "Secondary",
+          "issuing_agency": "HIBCC"
+        },
+        {
+          "id": "00813132020064",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "117-205AA",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "117-205",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2015-02-06",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "1.65",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "767170dc-6c11-47da-90c5-2ce827ca7de3",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M2041170160",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "117-016",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "117-016",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2014-08-19",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "1.75",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "12da5198-084d-41bc-b20f-88c6fca3985d",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M204110003AA0",
+          "type": "Secondary",
+          "issuing_agency": "HIBCC"
+        },
+        {
+          "id": "00813132020026",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-003AA",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-003",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2015-02-06",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "43a4ca8c-c935-41d7-b9d4-468a219da45a",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M204110001AA0",
+          "type": "Secondary",
+          "issuing_agency": "HIBCC"
+        },
+        {
+          "id": "00813132020002",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-001AA",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-001",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2015-02-06",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "484b14ac-e72d-4310-b509-d3653126cdef",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        }
+      ],
+      "public_version_date": "2024-08-21",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "7",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "00813132025458",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-004",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA Coronary Laser Atherectomy Catheter",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "(800) 228-4728",
+          "email": "IGTD.CustomerInquiry@philips.com"
+        }
+      ],
+      "catalog_number": "110-004",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-12-04",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        },
+        {
+          "type": "Length",
+          "value": "135",
+          "unit": "Centimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "6afca2af-08c0-46d9-bc84-dda031bb7ed0",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M2041172050",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "117-205",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "117-205",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2014-08-19",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "1.65",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "d462eb94-5fed-4762-adf2-a0fa7460b81f",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M2041140090",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "114-009",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "114-009",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2014-08-19",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "1.45",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "b371f20f-dc00-4ce1-8df3-2e0d36be9451",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M204110004AA0",
+          "type": "Secondary",
+          "issuing_agency": "HIBCC"
+        },
+        {
+          "id": "00813132020033",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-004AA",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "P910001",
+          "supplement_number": "019"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-004",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2015-02-06",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "edb52274-8e21-469d-92f3-ea2fbf167663",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        }
+      ],
+      "public_version_date": "2024-08-21",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "7",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "00813132025403",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "120-009",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA Coronary Laser Atherectomy Catheter",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "(800) 228-4728",
+          "email": "IGTD.CustomerInquiry@philips.com"
+        }
+      ],
+      "catalog_number": "120-009",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-12-04",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "2.0",
+          "unit": "Millimeter"
+        },
+        {
+          "type": "Length",
+          "value": "135",
+          "unit": "Centimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "aa0e25a8-e473-4839-b0ad-77c94f1593dc",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "00813132025410",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "120-008AB",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "120-008",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-12-04",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "2.0",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "4cd133e2-32a9-4213-b394-7d068f803f96",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M2041200080",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "120-008",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "120-008",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2014-08-19",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "2.0",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "5f1b4c09-f467-433e-a1a8-13d20db58605",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M2041100030",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-003",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-003",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2014-08-19",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "dfc4c903-59d9-4b5f-88a6-0b0be277d412",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "00813132025489",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-001AB",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-001",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-12-04",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "266ec473-c1ad-41b0-894c-df8835873126",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M2041100010",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-001",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-001",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2014-08-19",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "75733efa-836a-42bb-a6f6-f3bfedf352e5",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M204117016AA0",
+          "type": "Secondary",
+          "issuing_agency": "HIBCC"
+        },
+        {
+          "id": "00813132020057",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "117-016AA",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "P910001",
+          "supplement_number": "014"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "117-016",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2015-02-06",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "1.75",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "647377af-ffca-41e7-89e9-1f0c9269e68e",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        }
+      ],
+      "public_version_date": "2024-08-21",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "7",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "00813132025441",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "114-009",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA Coronary Laser Atherectomy Catheter",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "(800) 228-4728",
+          "email": "IGTD.CustomerInquiry@philips.com"
+        }
+      ],
+      "catalog_number": "114-009",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-12-04",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        },
+        {
+          "type": "Length",
+          "value": "135",
+          "unit": "Centimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "8fa17225-5ad0-4b6c-9a2b-2a9ff7e28ead",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M204120009AA0",
+          "type": "Secondary",
+          "issuing_agency": "HIBCC"
+        },
+        {
+          "id": "00813132020088",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "120-009AA",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "P910001",
+          "supplement_number": "014"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "120-009",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2015-02-06",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "2.0",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "1bbca2cb-4705-44e9-812b-4b9be75bfb40",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M204120008AA0",
+          "type": "Secondary",
+          "issuing_agency": "HIBCC"
+        },
+        {
+          "id": "00813132020071",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "120-008AA",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "120-008",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2015-02-06",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "2.0",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "3544d72f-a635-4a69-a7a3-494bedd8db8d",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M2041100020",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-002",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-002",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2014-08-19",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "public_device_record_key": "743ee9df-ae1d-4ffe-b68c-ce3e89abfd5c",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2023-09-11",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "7",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "00813132025472",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-002",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA Coronary Laser Atherectomy Catheter",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "(800) 228-4728",
+          "email": "IGTD.CustomerInquiry@philips.com"
+        }
+      ],
+      "catalog_number": "110-002",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-12-04",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        },
+        {
+          "type": "Length",
+          "value": "135",
+          "unit": "Centimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "ce09fe11-6401-4322-8259-c1bab7491562",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "00813132025427",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "117-205AB",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "117-205",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-12-04",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "1.65",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "d2a94a88-afc5-40d4-b095-717607afd22b",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "4",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M204114009AA0",
+          "type": "Secondary",
+          "issuing_agency": "HIBCC"
+        },
+        {
+          "id": "00813132020040",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "114-009AA",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "premarket_submissions": [
+        {
+          "submission_number": "P910001",
+          "supplement_number": "014"
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "114-009",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2015-02-06",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "1.45",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "95e9b2a4-85a5-46ba-8601-cac9179f002d",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "00813132025465",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-003AB",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-003",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-12-04",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "3e2d04a4-e203-4672-9563-b1903ad41fb0",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M2041200090",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "120-009",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "120-009",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2014-08-19",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "2.0",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "1aeda23e-83b4-4e03-b138-034f75548554",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        },
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2026-02-27",
+      "commercial_distribution_end_date": "2023-09-11",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M204110002AA0",
+          "type": "Secondary",
+          "issuing_agency": "HIBCC"
+        },
+        {
+          "id": "00813132020019",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-002AA",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-002",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2015-02-06",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "In Commercial Distribution",
+      "public_device_record_key": "1be98b58-d6ba-4a03-9011-5756a1e0a11a",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Special Storage Condition, Specify",
+          "special_conditions": "Keep Dry"
+        }
+      ],
+      "public_version_date": "2024-08-21",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "false"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "7",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "00813132025434",
+          "type": "Primary",
+          "issuing_agency": "GS1"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "117-016",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA Coronary Laser Atherectomy Catheter",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "(800) 228-4728",
+          "email": "IGTD.CustomerInquiry@philips.com"
+        }
+      ],
+      "catalog_number": "117-016",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2017-12-04",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "1.75",
+          "unit": "Millimeter"
+        },
+        {
+          "type": "Length",
+          "value": "135",
+          "unit": "Centimeter"
+        }
+      ]
+    },
+    {
+      "has_donation_id_number": "false",
+      "mri_safety": "Labeling does not contain MRI Safety Information",
+      "record_status": "Published",
+      "is_labeled_as_nrl": "false",
+      "is_rx": "true",
+      "commercial_distribution_status": "Not in Commercial Distribution",
+      "device_description": "ELCA™ Coronary Laser Atherectomy Catheter",
+      "public_device_record_key": "dd566d11-2b9d-481a-9aea-c3281d07413f",
+      "has_serial_number": "false",
+      "storage": [
+        {
+          "type": "Storage Environment Temperature",
+          "high": {
+            "unit": "Degrees Fahrenheit",
+            "value": "140"
+          },
+          "low": {
+            "unit": "Degrees Fahrenheit"
+          }
+        }
+      ],
+      "public_version_date": "2021-10-26",
+      "commercial_distribution_end_date": "2019-02-06",
+      "sterilization": {
+        "is_sterile": "true",
+        "is_sterilization_prior_use": "true",
+        "sterilization_methods": "Ethylene Oxide"
+      },
+      "is_direct_marking_exempt": "false",
+      "public_version_number": "5",
+      "labeler_duns_number": "151047370",
+      "is_labeled_as_no_nrl": "false",
+      "identifiers": [
+        {
+          "id": "M2041100040",
+          "type": "Primary",
+          "issuing_agency": "HIBCC"
+        }
+      ],
+      "is_single_use": "true",
+      "is_otc": "false",
+      "version_or_model_number": "110-004",
+      "has_manufacturing_date": "false",
+      "brand_name": "ELCA™",
+      "is_combination_product": "false",
+      "is_kit": "false",
+      "product_codes": [
+        {
+          "code": "LPC",
+          "name": "Device, Angioplasty, Laser, Coronary",
+          "openfda": {
+            "device_name": "Device, Angioplasty, Laser, Coronary",
+            "medical_specialty_description": "Unknown",
+            "regulation_number": "",
+            "device_class": "3"
+          }
+        }
+      ],
+      "device_count_in_base_package": "1",
+      "is_pm_exempt": "false",
+      "has_lot_or_batch_number": "true",
+      "customer_contacts": [
+        {
+          "phone": "1-800-633-0960",
+          "email": "complaints@spnc.com"
+        }
+      ],
+      "catalog_number": "110-004",
+      "company_name": "Spectranetics Corporation",
+      "public_version_status": "Update",
+      "has_expiration_date": "true",
+      "is_hct_p": "false",
+      "gmdn_terms": [
+        {
+          "code": "17185",
+          "name": "Atherectomy laser system beam guide-catheter, coronary",
+          "definition": "A sterile, flexible tube intended to be connected to an atherectomy laser system to invasively direct and deliver laser energy into the coronary arteries for the ablation of atherosclerotic plaques in completely occluded vessels. It typically consists of fibreoptic materials with a laser-firing distal end and allows the treatment to be made without significant thermal effect. This is a single-use device.",
+          "implantable": "false",
+          "code_status": "Active"
+        }
+      ],
+      "publish_date": "2014-08-19",
+      "device_sizes": [
+        {
+          "type": "Outer Diameter",
+          "value": "0.97",
+          "unit": "Millimeter"
+        }
+      ]
+    }
+  ]
+}

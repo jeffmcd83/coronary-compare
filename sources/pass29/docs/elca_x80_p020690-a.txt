@@ -1,0 +1,832 @@
+    Instructions for Use
+      0.9mm and 0.9mm RX X-80 Catheter Models
+
+
+
+
+P020690-A   18AUG21                             1
+                                                 ELCA™ Coronary Laser
+                                                                                                      Instructions for Use
+                                                 Atherectomy Catheter
+                                          0.9mm and 0.9mm RX X-80 Catheter Models
+
+                                                 Table of Contents
+1.            Description ...................................................................................................................2
+2.            Indications for Use .......................................................................................................3
+3.            Contraindications .........................................................................................................3
+4.            Warnings .......................................................................................................................3
+5.            Precautions ...................................................................................................................4
+6.            Potential Adverse Events .............................................................................................4
+7.            Clinical Studies .............................................................................................................4
+8.            Individualization of Treatment .................................................................................10
+9.            Operator’s Manual .....................................................................................................11
+10.           How Supplied .............................................................................................................11
+11.           Compatibility .............................................................................................................11
+12.           Directions for Use .......................................................................................................11
+13.           Manufacturer’s Information ......................................................................................14
+Caution: Federal (USA) law restricts this device to sale by or on the order of a physician with
+                                    appropriate training.
+1.     Description
+Over-The-Wire (OTW) catheters are constructed of multiple fiber optics arranged concentrically around a guidewire lumen and
+are intended for use in the coronary vasculature for recanalization of obstructed arteries. A side arm adapter located at the proximal
+end of the usable length facilitates the use of the laser catheter over a 0.014” guidewire. When connected to the CVX-300® Excimer
+Laser System or the Philips Laser System, the recommended operating parameters are: fluence 30-80 mJ/mm2 at a pulse rate of
+25-80 Hz.
+Rapid exchange (RX) catheters consists of optical fibers encased within a polyester shaft. There are two major portions of the
+laser catheter shaft, the proximal portion which terminates at the laser connector, and the distal portion which terminates at the tip
+having direct patient contact. The fibers terminate at the distal tip within a polished adhesive end and at the proximal end within
+the laser connector. A radiopaque marker is located on the distal end of the laser catheter to aid localization within the coronary
+vasculature in conjunction with fluoroscopy. The guidewire lumen begins at the distal tip and is concentric with the fiber array, and
+exits the laser catheter 9 cm away from the distal tip which has direct patient contact. A proximal marker is located on the outer
+jacket of the laser catheter, 104 cm from the distal tip, to assist in the placement of the laser catheter within a femoral guiding
+catheter without the need for fluoroscopy. When connected to the CVX-300® Excimer Laser System or the Philips Laser System, the
+operating parameters are: fluence 30-80 mJ/mm2 at a pulse rate of 25-80 Hz.
+Mechanism of Action for ELCA Catheters
+The multifiber laser catheters transmit ultraviolet energy from the laser system to the obstruction in the artery. The ultraviolet
+energy is delivered to the tip of the laser catheter to photoablate fibrous, calcific, and atheromatous lesions, thus recanalizing
+diseased vessels (photo ablation is the process by which energy photons cause molecular bond disruption at the cellular level
+without thermal damage to surrounding tissue). The Spectranetics laser catheters have a proprietary lubricious coating to ease their
+trackability through coronary vessels.
+Glossary of Special Terms
+Antegrade Fashion = In the direction of blood flow.
+Baseline Angiography = Record of the cardiac muscle and blood vessels prior to a given interventional angioplasty procedure.
+Retrograde Fashion = In the direction opposite to blood flow.
+
+
+
+
+                                                                   Guidewire Lumen
+                                                   Figure 1: Over-The-Wire (OTW)
+
+
+P020690-A          18AUG21                                                                                                                   2
+                                                ELCA™ Coronary Laser
+                                                                                                  Instructions for Use
+                                                Atherectomy Catheter
+                                          0.9mm and 0.9mm RX X-80 Catheter Models
+                        Table 1.1 ELCA X-80 Coronary Laser Atherectomy Catheter Models (OTW)
+                                     Max. Guidewire          Max. Tip          Max. Tip           Sheath                Working
+       Device          Model
+                                      Compatibility          Diameter          Diameter         Compatibility           Length
+     Description      Number
+                                          (in.)                (in.)             (mm)              (Fr)                  (cm)
+    OTW Catheter Specifications
+        0.9 mm         110-002              0.014               0.038             0.97                  4                135 ± 5
+
+
+
+
+                                       9 cm Guidewire Lumen
+
+
+
+
+                                                    Figure 2: Rapid Exchange (RX)
+Table 1.2 ELCA Coronary Laser Atherectomy Catheter Models (RX)
+                                     Max. Guidewire          Max. Tip          Max. Tip           Sheath                Working
+       Device          Model
+                                      Compatibility          Diameter          Diameter         Compatibility           Length
+     Description      Number
+                                          (in.)                (in.)             (mm)              (Fr)                  (cm)
+    Rapid Exchange (RX) Catheter Specifications
+        0.9 mm         110-004              0.014               0.038             0.97                  4                135 ± 5
+
+2.       Indications for Use
+The X-80 Laser Catheters used in conjunction with the Spectranetics CVX-300® Excimer Laser System or the Philips Laser System are
+intended for use in patients with single or multivessel coronary artery disease, either as a stand-alone modality or in conjunction
+with Percutaneous Transluminal Coronary Balloon Angioplasty (PTCA), and who are acceptable candidates for coronary artery
+bypass graft (CABG) surgery. Adjunctive balloon angioplasty was performed, at the clinical investigator’s discretion, for 85% of the
+lesions treated. The following Indications for Use, Contraindications and Warnings have been established through multicenter
+clinical trials. Clinical experience has provided reasonable assurance that the multifiber laser catheter models are safe and effective
+for the following indications:
+•        Occluded saphenous vein bypass grafts
+•        Ostial lesions
+•        Long lesions - (greater than 20 mm in length)
+•        Moderately calcified stenoses - (Heavily calcified stenoses are those lesions that demonstrate complete calcification when
+         identified under fluoroscopy by angiography prior to the procedure. Moderately and slightly calcified stenoses are all others.)
+•        Total occlusions traversable by a guidewire
+•        Lesions which previously failed balloon angioplasty - (This includes those lesions that were treated unsuccessfully by PTCA.
+         Lesions that have undergone a complicated PTCA procedure are not included in this category.)
+These lesions must be traversable by a guidewire and composed of atherosclerotic plaque and/or calcified material. The lesions
+should be well defined by angiography.
+
+3.       Contraindications
+•        Patient has acute thrombosis.
+•        Lesion is in an unprotected left main artery.
+•        Patient has experienced an acute myocardial infarction.
+•        Patient has ejection fraction of less than 30%.
+•        Lesion is beyond acute bends or is in a location within the coronary anatomy where the catheter cannot traverse.
+•        Guidewire cannot be passed through the lesion.
+•        Lesion is located within a bifurcation.
+•        Patient is not an acceptable candidate for bypass graft surgery.
+
+4.       Warnings
+Federal (USA) law restricts this device to sale by or on the order of a physician with appropriate training.
+A clinical investigation did not demonstrate safety and effectiveness in lesions amenable to routine PTCA or those lesions not
+mentioned in the Indications for Use, above.
+The effect of adjunctive balloon angioplasty on restenosis, as opposed to laser alone, has not been studied.
+Physicians should exercise care when treating patients for coronary artery disease with the CVX-300® Excimer Laser System or the
+Philips Laser System.
+
+Spectranetics Coronary Laser Atherectomy Catheter require software version 3.712 or 3.812 or higher when used with the CVX-300®
+and software version 1.0 (b5.0.3) or higher when used with the Philips Laser System.
+
+P020690-A            18AUG21                                                                                                          3
+                                                 ELCA™ Coronary Laser
+                                                                                                 Instructions for Use
+                                                 Atherectomy Catheter
+                                            0.9mm and 0.9mm RX X-80 Catheter Models
+This device is designated for use solely as a component of the Spectranetics CVX-300® Excimer Laser System or the Philips Laser
+System.
+Adequate instructions for the safe installation of the Spectranetics CVX-300® Excimer Laser System and the Philips Laser System are
+provided in servicing information provided by Spectranetics and should be followed.
+The use of the laser system is restricted to physicians who are trained in angioplasty, Percutaneous Transluminal Coronary
+Angioplasty (PTCA) and who meet the training requirements listed below. These requirements include, but are not limited to:
+     1.      Training of laser safety and physics.
+     2.      Review of patient films of lesions that meet the indications for use.
+     3.      A review of cases demonstrating the ELCA technique in lesions that meet the indications for use.
+     4.      A review of laser operation followed by a demonstration of the laser system.
+     5.      Hands on training with the laser system and appropriate model.
+     6.      A fully trained Spectranetics representative will be present to assist for a minimum of the first two cases.
+     7.      Following the formal training session, Spectranetics will make available additional training if so requested by the
+             physician, support personnel, the institution or Spectranetics.
+5.        Precautions
+This catheter has been sterilized using Ethylene Oxide and is supplied STERILE. The device is designated and intended for SINGLE
+USE ONLY and must not be resterilized and/or reused.
+DO NOT resterilize or reuse this device, as these actions can compromise device performance or increase the risk of cross-
+contamination due to inappropriate reprocessing.
+Reuse of this single use device could lead to serious patient injury or death and voids manufacturer warranties.
+Store in a cool, dry place. Protect from direct sunlight and high temperatures (greater than 60°C or 140°F).
+The sterility of the product is guaranteed only if the package is unopened and undamaged. Prior to use, visually inspect the
+sterile package to ensure that the seals have not been broken. Do not use the catheter if the integrity of the package has been
+compromised. Do not use catheter product if its “Use Before Date,” found on package labeling, has passed.
+Before use, examine carefully all of the equipment to be used in the procedure for defects. Do not use any equipment if it is damaged.
+After use, dispose of all equipment in accordance with applicable specific requirements relating to hospital waste, and potentially
+biohazardous materials.
+Read the Operator’s Manual (CVX-300®: 7030-0035 or 7030-0068, Philips Laser System: P018730) thoroughly before operating the
+laser system. Pay particular attention to the Warnings and Responsibility section of the manual which explains Notes, Cautions, and
+Warnings to be followed to ensure safe operation of the laser system.
+During the procedure, appropriate anticoagulant and coronary vasodilator therapy must be provided to the patient. Anticoagulant
+therapy should be administered per the institution’s PTCA protocol for a period of time to be determined by the physician after the
+procedure.
+When performing percutaneous Excimer Laser Coronary Atherectomy (ELCA), on-site surgical backup should be included as a
+clinical consideration. If on-site surgical backup is not provided, then an agreement with an alternative hospital should be in place,
+in advance of the procedure, where the patient could be transferred in an emergency situation.
+The results of clinical investigation indicated that patients with the following conditions are at a higher risk for experiencing acute
+complications:
+•      Patients with diabetes
+•      Patients with a history of smoking
+•      Lesions within tortuous vessels
+6.        Potential Adverse Events
+Use of the Spectranetics CVX-300® Excimer Laser System or the Philips Laser system may contribute to the following complications:
+ •        Dissection of the arterial wall                      •      Perforation
+ •        Acute reclosure                                      •      Embolization
+ •        Aneurysm formation                                   •      Spasm
+ •        Coronary artery bypass graft surgery                 •      Thrombus
+ •        Myocardial infarction                                •      Arrhythmia
+ •        Filling defects                                      •      Death
+No long term adverse effects of ELCA are known at this time.
+7.        Clinical Studies
+The ELCA Coronary Laser Atherectomy Catheters in these studies were used with the CVX-300® Excimer Laser System.
+The Philips Laser System provides the same output and operates at the same parameters as the CVX-300® Excimer Laser
+System; therefore, no new clinical data has been collected for ELCA with the Philips Laser System.
+7.1           COMPARISON OF ELCA+PTCA TO PTCA ALONE IN RESTENOSED STENTS
+The Laser Angioplasty of Restenosed Stents (LARS) randomized trial was initiated to compare ELCA+PTCA to PTCA alone in diffuse
+(10-40mm) in-stent restenosis. First instances of restenosis in a subset of commercially available stainless steel stents were treated,
+with the primary endpoint being absence of Major Adverse Cardiac Events (MACE) at 6 months. An interim analysis of acute results
+was undertaken to obtain data to support the indication of ELCA in stents prior to the administration of intravascular brachytherapy.
+
+P020690-A            18AUG21                                                                                                         4
+                                                ELCA™ Coronary Laser
+                                                                                              Instructions for Use
+                                                Atherectomy Catheter
+                                          0.9mm and 0.9mm RX X-80 Catheter Models
+Following approval of the indication, LARS Trial recruitment was concluded after enrollment of 138 of the planned 320 patient study
+group. Sixty-six (66) patients were allocated to the excimer laser group and 72 patients were allocated to the balloon only control
+group. This cohort represents 43% of the planned study group. Due to the abbreviated study group and underpowered nature of
+the study analysis, statistical inferences cannot be finalized and accidental significance can occur.
+Analysis:
+Baseline characteristics of 138 LARS patients were similar between the two groups. Trends were observed toward a higher
+incidence of prior myocardial infarction in the PTCA group and diabetes in the ELCA group. Lesion characteristics and locations
+were also similar, with approximately 83% of lesions having 11 - 20 mm length. Procedural success was equivalent in both groups.
+Quantitative coronary angiography (QCA) did not reveal differences between groups in pre- and post-procedural lumen diameters.
+At 6-month follow-up, in a subgroup of 49 patients who received a 6-month angiographic restudy, prior to removal of the protocol
+requirement, there was a trend towards improved percent diameter stenosis and fewer late total occlusions in the control group.
+Similar procedural complications were observed in the two groups. In the PTCA-only group, there was a mild trend towards more
+balloon-induced dissection and stent damage in the form of stent strut distortion and changes in stent:vessel wall apposition.
+Adjudicated incidences of MACE were tabulated at hospital discharge, 30-day, 6- and 9-month follow-up intervals. There was a
+trend towards higher incidences of MACE in the ELCA group at each interval. This incidence was primarily driven by a higher rate of
+non-Q-wave myocardial infarction. In the ELCA group, two in-hospital deaths were observed, one secondary to renal failure and one
+secondary to chronic obstructive pulmonary disease (COPD).
+                                               Table 7.1.1 Baseline Characteristics
+                                                          ELCA                 PTCA                  p
+                     Patients                                 66                   72
+                     Age (years)
+                     Mean (S.D.)                       62.9 (12.0)          64.2 (11.7)            0.540
+                     Females                           20 (30.3%)           23 (31.9%)             0.835
+                     Current Smoking                   15 (23.8%)           12 (17.1%)             0.340
+                     Diabetes                          27 (41.5%)           22 (30.6%)             0.180
+                     Hypertension                      48 (72.7%)           58 (80.6%)             0.276
+                     Hypercholesterolemia              53 (80.4%)           54 (76.1%)             0.548
+                     Canadian Classification
+                      No angina                         2 (3.0%)             2 (2.8%)
+                      Class I                          10 (15.2%)           12 (16.7%)
+                                                                                                   0.820
+                      Class II                         13 (19.7%)           20 (27.8%)
+                      Class III                        20 (30.3%)           18 (25.0%)
+                      Class IV                         21 (31.8%)           20 (27.8%)
+                     Prior MI                          23 (43.4%)           31 (55.4%)             0.212
+                     Prior CABG                        11 (20.8%)           13 (23.6%)             0.719
+ELCA=excimer laser coronary angioplasty, PTCA=percutaneous transluminal coronary angioplasty, MI=myocardial infarction,
+CABG=coronary artery bypass grafts
+                                   Table 7.1.2 Lesion Characteristics and Procedural Details
+
+                                                        ELCA                 PTCA                    p
+                   Patients                              66                   72
+                   Culprit Vessel
+                     LAD                              18 (27.3%)          26 (36.1%)               0.649
+                     LCX                              21 (31.8%)          19 (26.4%)
+                     RCA                              21 (31.8%)          19 (26.4%)
+                     SVG                               6 (9.1%)             7 (9.7%)
+                     Other                                0                 1 (1.4%)
+                   Lesion Length
+                     <10 mm                            6 (9.4%)             3 (4.3%)               0.349
+                     11-20 mm                         53 (82.8%)          58 (82.9%)
+                     21-30 mm                          5 (7.8%)            9 (12.9%)
+                     >30 mm                               0                    0
+                   Procedural Success †               55 (85.9%)          64 (88.9%)               0.603
+
+LAD=left anterior descending artery, LCX=left circumflex artery, RCA=right coronary artery, SVG=saphenous vein graft
+† Procedural success defined as <50% stenosis without major in-hospital complications (death, myocardial infarction, or coronary
+artery bypass surgery).
+P020690-A          18AUG21                                                                                                       5
+                                                 ELCA™ Coronary Laser
+                                                                                            Instructions for Use
+                                                 Atherectomy Catheter
+                                             0.9mm and 0.9mm RX X-80 Catheter Models
+                                               Table 7.1.3 Procedural Complications
+                                                            ELCA               PTCA                  p
+                     Patients                                  66                   72
+                     Any dissection                       7 (10.6%)           8 (11.1%)             1.000
+                     Acute thrombus                            0                    0
+                     Haziness                              2 (3.0%)            5 (6.9%)             0.444
+                     No Reflow                                 0                    0
+                     Arrhythmia                                0               1 (1.4%)             1.000
+                     Acute Vessel Closure                      0                    0
+                     Occlusion of Side Branch                  0                    0
+                     Occlusion Non-target                  1 (1.5%)                 0               0.478
+                     Coronary Spasm                        2 (3.0%)                 0               0.227
+                     Coronary Embolism                     1 (1.5%)                 0               0.478
+                     Coronary Perforation                  3 (4.5%)            1 (1.4%)             0.349
+                     Other                                 4 (6.1%)            2 (2.8%)             0.426
+                     Laser/stent damage                        0                    n/a
+                     Balloon/stent damage                  2 (3.0%)            6 (8.3%)             0.278
+
+                                  Table 7.1.4 Procedural Complications – Bail-out stenting
+                                                                        ELCA                PTCA                p
+        Patients                                                         66                   72
+        Any Bail-out Stenting                                         12 (18.8%)           8 (11.1%)          0.209
+        Why bailed-out?
+          Residual Narrowing                                           1 (8.3%)            3 (37.5%)
+          Ischemia with ST changes or C dissection                        0                    0
+          D, E or F dissection                                         1 (8.3%)            2 (25.0%)          1.000
+          Reduction of TIMI flow at least 1 grade from baseline           0                    0
+          Elective                                                    5 (41.7%)            1 (12.5%)
+          Other                                                       5 (41.7%)            2 (25.0%)          0.478
+
+                         Table 7.1.5 Quantitative Coronary Angiography and Late Total Occlusion
+                                                        ELCA                  PTCA                  p
+                     Patients
+                      Pre-Procedure                       61                   69
+                      Post-Procedure                      60                   69
+                      Follow-up                           26                   23
+                     Reference Diameter                mm (SD)            mm (SD)
+                      Pre-Procedure                    2.8 (0.6)          2.6 (0.5)                0.014
+                      Post-Procedure                   2.8 (0.5)          2.6 (0.5)                0.059
+                      Follow-up                        2.7 (0.5)          2.7 (0.5)                0.891
+                     Mean MLD                          mm (SD)            mm (SD)
+                      Pre-Procedure                    0.9 (0.5)          0.8 (0.4)                0.284
+                      Post-Procedure                   2.2 (0.5)          2.1 (0.6)                0.499
+                      Follow-up                        0.9 (0.7)          1.5 (0.6)                0.008
+                     % Diameter Stenosis              mean (SD)          mean (SD)
+                      Pre-Procedure                   67.0 (13.7)        67.4 (13.4)               0.860
+                      Post-Procedure                  22.8 (10.5)        20.7 (13.6)               0.340
+                      Follow-up                       64.6 (26.9)        45.9 (17.3)               0.006
+                     Late Total Occlusion*            6 (20.7%)           1 (4.2%)                 0.077
+MLD=minimum lumen diameter
+* Angiographically documented total occlusion at the lesion site >30 days and within 6 months of the index procedure.
+
+
+
+P020690-A            18AUG21                                                                                            6
+                                       ELCA™ Coronary Laser
+                                                                            Instructions for Use
+                                       Atherectomy Catheter
+                                  0.9mm and 0.9mm RX X-80 Catheter Models
+                                     Table 7.1.6 Anginal Functional Class
+                                             ELCA               PTCA           p
+              Baseline
+               No angina                    2 (3.0%)           2 (2.8%)
+               Class I                     10 (15.2%)         12 (16.7%)
+               Class II                    13 (19.7%)         20 (27.8%)     0.820
+               Class III                   20 (30.3%)         18 (25.0%)
+               Class IV                    21 (31.8%)         20 (27.8%)
+              Month 1
+               No angina                   32 (53.3%)         42 (60.0%)
+               Class I                     19 (31.7%)         17 (24.3%)
+               Class II                     3 (5.0%)           5 (7.1%)      0.819
+               Class III                    3 (5.0%)           4 (5.7%)
+               Class IV                     3 (5.0%)           2 (2.9%)
+              Month 6
+               No angina                   30 (52.6%)         35 (58.3%)
+               Class I                     11 (19.3%)         15 (25.0%)
+               Class II                    10 (17.5%)          5 (8.3%)      0.133
+               Class III                    5 (8.8%)           1 (1.7%)
+               Class IV                     1 (1.8%)           4 (6.7%)
+              Month 9
+               No angina                   35 (62.5%)         34 (58.6%)
+               Class I                     10 (17.9%)         13 (22.4%)
+               Class II                     7 (12.5%)          6 (10.3%)     0.964
+               Class III                    3 (5.4%)           4 (6.9%)
+               Class IV                     1 (1.8%)           1 (1.7%)
+
+                    Table 7.1.7 CEC Adjudicated Clinical Endpoints through 30 Days
+                                              ELCA               PTCA           p
+             Through Discharge:
+             Patients with Data                  66                72
+               CABG                           2 (3.0%)              0         0.137
+               PCI                            1 (1.5%)              0         0.295
+               Death                          2 (3.0%)              0         0.137
+               Myocardial Infarction        11 (16.7%)          4 (5.6%)      0.036
+               Non-Q-wave MI                 9 (13.6%)          3 (4.2%)
+               Target Vessel Revasc.          2 (3.0%)              0         0.137
+               MACE                         12 (18.2%)          4 (5.6%)      0.021
+             Through 30 Days:
+             Patients with Data:              47 65              55 72
+               CABG                          2 (3.0%)           2 (2.8%)      0.930
+               PCI                           2 (3.0%)           1 (1.4%)      0.509
+               Death                         2 (3.0%)               0         0.137
+               Myocardial Infarction        13 (19.7%)          5 (6.9%)      0.026
+               Non-Q-wave MI                11 (16.6%)          4 (5.5%)
+               Target Vessel Revasc.         3 (4.5%)           3 (4.2%)      0.913
+               MACE                         14 (21.2%)          7 (9.7%)      0.061
+
+                  Table 7.1.8 Investigator-Indicated Clinical Endpoints at Discharge
+                                              ELCA               PTCA           p
+             Patients with Data                 66                 72
+              CABG                           2 (3.0%)              0           0.227
+              PCI                            1 (1.5%)              0           0.478
+              Death                          2 (3.0%)              0           0.227
+              Myocardial Infarction          2 (3.0%)           2 (2.8%)       1.000
+              Target Vessel Revasc.          3 (4.6%)              0           0.107
+              MACE                           5 (7.6%)           2 (2.8%)       0.259
+
+
+
+
+P020690-A   18AUG21                                                                            7
+                                                ELCA™ Coronary Laser
+                                                                                            Instructions for Use
+                                                Atherectomy Catheter
+                                           0.9mm and 0.9mm RX X-80 Catheter Models
+                       Table 7.1.9 CEC Adjudicated Clinical Endpoints through 6 and 9 Months
+                                                        ELCA                PTCA                  p
+                     Through 6 Months:
+                     Patients with Data                    60                   66
+                       CABG                            6 (9.7%)            4 (5.9%)             0.406
+                       PCI                            15 (25.3%)           9 (13.7%)            0.082
+                       Death                           2 (3.2%)            1 (1.5%)             0.491
+                       Myocardial Infarction          13 (19.7%)           5 (6.9%)             0.026
+                       Non-Q-wave MI                  11 (16.6%)           4 (5.5%)
+                       Target Vessel Revasc.          18 (29.8%)          13 (19.6%)            0.151
+                       MACE                           24 (38.1%)          18 (26.5%)            0.093
+                     Through 9 Months:
+                     Patients with Data:                   59                   65
+                       CABG                            6 (9.7%)            5 (7.5%)             0.615
+                       PCI                            18 (30.7%)          14 (22.0%)            0.185
+                       Death                           4 (6.6%)            1 (1.5%)             0.142
+                       Myocardial Infarction          13 (19.7%)           6 (8.5%)             0.050
+                       Non-Q-wave MI                  11 (16.6%)           5 (6.9%)
+                       Target Vessel Revasc.          21 (35.2%)          19 (29.6%)            0.352
+                       MACE                           28 (45.1%)          25 (37.6%)            0.198
+7.2           COMPARISON OF ELCA AND PTCA PRIOR TO BRACHYTHERAPY
+The following data has been reported by the investigators participating in the Washington Radiation for In-Stent Restenosis Trial
+(WRIST). Patient data presented in the following tables were compiled from WRIST, Long WRIST (long in-stent restenosis lesions
+36-80mm), the γ radiation registries including Long WRIST High Dose (long in-stent restenosis lesions 36-80mm using 18 Gy at
+2mm), Plavix WRIST (6 months Clopidogrel therapy post coronary intervention and radiation), Compassionate WRIST (intracoronary
+localized radiation compassionate protocol for prevention of recurrence of restenosis) and WRIST X-over group (patients who
+initially failed placebo therapy and were subsequently treated with radiation). All WRIST studies were conducted under an IDE
+following patient informed consent and were independently monitored.
+Analysis: To make a direct comparison of outcomes between PTCA and ELCA prior to Ir192 brachytherapy for in-stent restenosis,
+the data analysis was restricted to patients treated with PTCA+Ir192 and ELCA+Ir192. Comparisons between continuous variables
+were made with a 2-sided T-test and between dichotomous variables with a 2-sided continuity-corrected chi-squared test. A value
+of p<.05 was considered significant.
+Baseline characteristics were similar between the two groups, with a trend toward more LCX lesions treated in the PTCA+Ir192
+group, but no significant differences in lesion characteristics were evident.
+
+                                              Table 7.2.1 Baseline Characteristics*
+                                                     PTCA+Ir192          ELCA+Ir192              p
+                        Age (years)                     60 ± 12             63 ± 11            0.100
+                        Males                         52    (75%)          68    (68%)         0.688
+                        Smoking                       44    (64%)          68    (68%)         0.921
+                        Hypertension                  44    (64%)          72    (72%)         0.628
+                        Diabetes                      21    (30%)          41    (41%)         0.465
+                        Hypercholester.               52    (75%)          75    (75%)         0.992
+                        Unstable Angina               55    (80%)          82    (82%)         0.985
+                        Previous MI                   40    (58%)          55    (55%)         0.975
+                        Previous CABG                 54    (78%)          70    (70%)         0.596
+                        Multivessel disease           53    (77%)          63    (63%)         0.223
+                        Prior restenosis              35    (51%)          67    (67%)         0.145
+                        LVEF                           0.47 ± 0.1          0.45 ± 0.1          0.203
+                                               n=          69                   100
+*PTCA = percutaneous transluminal coronary angioplasty, Ir = Iridium, ELCA = excimer laser coronary angioplasty, MI = myocardial
+infarction, CABG = coronary artery bypass grafting, LVEF = left ventricular ejection fraction
+
+
+P020690-A          18AUG21                                                                                                     8
+                                              ELCA™ Coronary Laser
+                                                                                              Instructions for Use
+                                              Atherectomy Catheter
+                                         0.9mm and 0.9mm RX X-80 Catheter Models
+                                  Table 7.2.2 Lesion Characteristics and Procedural Details*
+                                               PTCA+Ir192            ELCA+Ir192                  p
+                      Culprit vessel
+                        LAD                      8     (12%)           19    (19%)              0.559
+                        LCX                     21     (31%)           15    (15%)              0.086
+                        RCA                     19     (27%)           26    (26%)              0.999
+                        SVG                     17     (25%)           38    (38%)              0.254
+                      Type B2/C                 36     (52%)           37    (37%)              0.198
+                      Lesion length mm            24 ± 11              25 ± 11.4                0.568
+                      Ref Vess Dia mm            3.3 ± 0.6             3.4 ± 0.9                0.387
+                      Dose (Gy)                  14.3 ± 0.7            14.4 ± 0.5               0.309
+                      Proc. Success†            69     (100%)        100     (100%)             1.000
+                      Complications               6    (9%)             6    (6%)               0.935
+                                        n=             69                   100
+*PTCA = percutaneous transluminal coronary angioplasty, Ir = Iridium, ELCA = excimer laser coronary angioplasty, LAD = left
+anterior descending artery, LCX = left circumflex artery, RCA = right coronary artery, SVG = saphenous vein graft, B2/C = modified
+AHA/ACC Lesion Classification Score, mm = millimeter, Gy = gray
+†Procedure success defined as <50% stenosis without major in-hospital complications (death, myocardial infarction, or coronary
+artery bypass surgery).
+Angiographic analysis was reported for approximately half of the patients treated in the two groups.
+                                        Table 7.2.3 Quantitative Coronary Analysis*
+                                               PTCA+Ir192            ELCA+Ir192                 p
+                       Ref Dia mm
+                         Pre                      2.9 ± 0.6            2.7 ± 0.6              0.146
+                         Post                     2.9 ± 0.6            2.8 ± 0.5              0.434
+                         F-Up                     2.9 ± 0.6             3 ± 0.6               0.466
+                       MLD mm
+                         Pre                      1.2 ± 0.5            0.9 ± 0.6              0.018
+                         Post                        2 ± 0.5           1.9 ± 0.5              0.382
+                         F-Up                     1.9 ± 0.9            1.6 ± 0.9              0.146
+                       DS%
+                         Pre                      57 ± 20              66 ± 20                0.051
+                         Post                     30 ± 12              33 ± 12                0.275
+                         F-Up                     36 ± 20              46 ± 25                0.052
+                       Late Loss mm               0.2 ± 0.7            0.3 ± 0.8              0.556
+                       Loss index                 0.4 ± 1.4            0.2 ± 0.8              0.458
+                       Binary Restenosis          18 (53%)             29 (64%)               0.726
+                                        n=             34                   45
+*PTCA = percutaneous transluminal coronary angioplasty, Ir = Iridium, ELCA = excimer laser coronary angioplasty, Ref Dia =
+reference diameter, mm = millimeter, MLD = minimum luminal diameter, DS% = percent diameter stenosis, Late Loss defined as the
+change in the lesion MLD from the final to the follow-up angiogram. Loss Index (within the lesion) defined as late loss/acute gain.
+Binary Restenosis (at follow-up, 4-8 months angiogram after treatment) defined as ≥50% diameter narrowing within the segment
+including the stent and its edges (within 5 mm).
+Clinical outcomes appear to be similar between the two groups. Overall TLR, TVR, and MACE rates were very similar between the two
+groups. More Late Total Occlusions (LTO) were observed in the PTCA+Ir192 group.
+
+
+
+
+P020690-A          18AUG21                                                                                                       9
+                                                ELCA™ Coronary Laser
+                                                                                                 Instructions for Use
+                                                Atherectomy Catheter
+                                         0.9mm and 0.9mm RX X-80 Catheter Models
+                                                 Table 7.2.4 Clinical Outcomes*
+                                                  PTCA+Ir192          ELCA+Ir192                  p
+                           30 days
+                             MACE                     1 (1%)              2 (2%)                0.948
+                           6 months
+                             Death                    1 (1%)              5 (5%)                0.403
+                             QMI                      0 (0%)              2 (2%)                0.514
+                             NQMI                    9 (13%)             18 (18%)               0.515
+                             TLR                    13 (19%)             16 (16%)               0.784
+                             TVR                    23 (33%)             25 (25%)               0.314
+                             PTCA                   21 (30%)             22 (22%)               0.290
+                             CABG                    9 (13%)              8 (8%)                0.418
+                             LTO                      6 (9%)              1 (1%)                0.019
+                             MACE                   24 (35%)             29 (29%)               0.530
+                                          n=           69                   100
+*PTCA = percutaneous transluminal coronary angioplasty, Ir = Iridium, ELCA = excimer laser coronary angioplasty, MACE = major
+adverse cardiac events (death, Q-wave MI or TVR), QMI = Q-wave myocardial infarction, NQMI = non-Q-wave MI, TLR = target lesion
+revascularization, TVR = target vessel revascularization, CABG = coronary artery bypass grafts, LTO = late total occlusion.
+Death defined as all-cause mortality.QMI or NQMI defined as a total creatinine kinase elevation ≥2x normal value and/or elevated
+creatinine kinase MB fraction ≥20 ng/ml with or without new pathological q waves (>.04 sec) in two or more contiguous leads.
+TVR and TLR as characterized by repeat percutaneous intervention (PTCA) or CABG involving the treated vessel, driven clinical signs
+of ischemia in the presence of angiographic restenosis.
+Late total occlusion defined as angiographically documented total occlusion at the lesion site>30 days and within 6 months of the
+index procedure.
+8.     Individualization of Treatment
+The risks and benefits described above should be carefully considered for each patient before use of ELCA.
+Patient selection and clinical techniques should be conducted according to instructions provided in Section 2., “Indications for Use,”
+Section 7, “Clinical Studies,” and Section 12, “Directions for Use.”
+
+References
+ 1.      Textbook of Interventional Cardiology. Topol, E.J. Editor, 4th Edition: 2003, Chapter 31 - Laser, Topaz, O., pp 675-703.
+ 2.      Excimer Laser Revascularisation: Current Indications, Applications and Techniques. Topaz, O., Lasers in Medical Science:
+         2001: Vol. 16, pp 72-77.
+ 3.      Effectiveness of Excimer Laser Coronary Angioplasty in Acute Myocardial Infarction or in Unstable Angina Pectoris. Topaz,
+         O. et al. American Journal of Cardiology: Apr 1, 2001: Vol. 87, pp 849-855.
+ 4.      Application of Excimer Laser Angioplasty in Acute Myocardial Infarction. Topaz, O. et al, Lasers in Surgery and Medicine:
+         2001: Vol. 29, pp 185-192.
+ 5.      Rescue Excimer Laser Angioplasty in Patients with Acute Myocardial Infarction - The CARMEL Study. Topaz, O. et al.
+         (manuscript on file and currently under review for publication)
+ 6.      Excimer Laser – Assisted Coronary Angioplasty for Lesions Containing Thrombus. Estella, P. et al. Journal of the American
+         College of Cardiology: June 1993: Vol. 21: No. 7, pp 1550-1556.
+ 7.      Laser Angioplasty and Laser-Induced Thrombolysis in Revascularization of Anomalous Coronary Arteries. Shah, R. et al.
+         Journal of Invasive Cardiology: 2002: Vol. 14, pp 180-186.
+ 8.      Laser-Facilitated Thrombectomy: A New Therapeutic Option for Treatment of Thrombus-Laden Lesions. Dahm, J. et al.
+         Catheterization and Cardiovascular Interventions: 2002: Vol. 56, pp 365-372.
+ 9.      Comparison of Effectiveness of Excimer Laser Angioplasty in Patients with Acute Coronary Syndromes in Those With –
+         versus – Those Without Normal Left Ventricular Function. Topaz, O. et al. American Journal of Cardiology: 2003: Vol. 91, pp
+         797-802.
+
+
+
+
+P020690-A          18AUG21                                                                                                          10
+                                                  ELCA™ Coronary Laser
+                                                                                                    Instructions for Use
+                                                  Atherectomy Catheter
+                                         0.9mm and 0.9mm RX X-80 Catheter Models
+
+9.     Operator’s Manual
+The devices described in this document can be operated within the following energy ranges on the CVX-300® Excimer Laser System
+or the Philips Laser System:
+
+                                                    Table 9.1 Energy Parameters
+                        Device                                                Repetition            Laser On/Off
+                                            Model No.           Fluence
+                      Description                                               Rate                 Time (sec)
+                  ELCA OTW Catheters
+                      0.9 mm X-80                110-002         30 – 80           25 – 80                 10 / 5
+                  ELCA RX Catheters
+                      0.9 mm X-80                110-004         30 – 80           25 – 80                 10 / 5
+Recommended calibration settings: 45 Fluence, 25 Hz.
+
+10.    How Supplied
+10.1          Sterilization
+For single use only. Do not re-sterilize and/or reuse.
+The Spectranetics laser catheters are supplied sterile. Sterility is guaranteed only if the package is unopened and undamaged.
+
+10.2          Inspection Prior to Use
+Before use, visually inspect the sterile package to ensure that seals have not been broken. All equipment to be used for the
+procedure, including the catheter, should be examined carefully for defects. Examine the laser catheter for bends, kinks or other
+damage. Do not use if it is damaged.
+
+11.    Compatibility
+The Spectranetics excimer laser catheter is designed and intended to be used exclusively with the Spectranetics CVX-300® Excimer
+Laser System or the Philips Laser System.
+                                                                                  Distal Tip
+
+
+                                                                                             Radiopaque
+                                                                                             Marker Band
+
+
+                                  Luer Lock
+                                  Guidewire Lumen Port
+
+
+
+
+                                                   Proximal Coupler
+
+
+                                                         Figure 3 (not to scale)
+Do not use in combination with any other laser system.
+Guidewire Compatibility
+See Catheter Specification Table in Section 1.
+12.    Directions for Use
+Procedure Set-Up
+Some or all of the following additional materials, which are not included in the laser catheter package, may be required for the
+procedure (these are single use items only—do not resterilize or reuse):
+•     Femoral guiding catheter(s) in the appropriate size and configuration to select the coronary artery
+•     Hemostatic valve(s)
+•     Sterile normal saline
+•     Standard contrast media
+•     0.014” guidewires
+Turn on the laser unit. For the CVX-300®, verify that the number 38 is displayed on the panel at start up. This ensures the proper
+software version, 3.8, is installed on the CVX-300®.
+CAUTION: If 38 is not displayed at start up for the CVX-300®, do NOT use catheter and contact Spectranetics Field Service
+immediately.
+Using sterile technique, open the sterile package. Remove the packaging wedges from the tray and gently lift the laser catheter
+from the tray while supporting the black laser connector, also known as the proximal end, proximal coupler, or proximal connector.
+Please note that the proximal end of the laser catheter connects only to the laser system, and is not meant to have any patient
+contact.
+
+P020690-A          18AUG21                                                                                                       11
+                                                 ELCA™ Coronary Laser
+                                                                                               Instructions for Use
+                                                 Atherectomy Catheter
+                                        0.9mm and 0.9mm RX X-80 Catheter Models
+Connect the proximal end of the laser catheter to the laser system, and position the laser catheter in the laser system extension
+pole or catheter retainer. Calibrate the laser catheter following the instructions provided in the CVX-300® Excimer Laser System;
+Operator’s Manual (7030-0035 or 7030-0068) or the Philips Laser System Operator’s Manual (P018730).
+
+Clinical Technique
+ 1.     Use standard Percutaneous Seldinger Technique to insert an appropriate size introducer to accommodate the guiding
+        catheter, into the common femoral artery in a retrograde fashion. Heparinize intravenously using the PTCA protocol for
+        heparinization. Periodic measurement of activated clotting time (ACT greater than 300 seconds) during the procedure will
+        assist in maintaining optimum anticoagulation levels.
+ 2.     Introduce an appropriately sized guide catheter using the information provided in Table 1.1 or 1.2 (left or right depending
+        on the target coronary artery) using a standard 0.038” guidewire.
+ 3.     Perform baseline angiography by injecting contrast medium through the guiding catheter. Obtain images in multiple
+        projections, delineating anatomical variations and morphology of the lesion(s) to be treated.
+ 4.     Introduce a 0.014” (or smaller) guidewire to the coronary arteries via the guiding catheter. Cross the target lesion with the
+        guidewire.
+ 5.     Size the laser catheter appropriately:
+                                                 Table 12.1 Recommended Sizing
+                                 Catheter Size                   Reference Vessel Diameter
+                                     0.9 mm                                 ≥ 2.0 mm
+
+ 6.     Inject 5-10cc of heparinized saline or Lactated Ringer’s solution through the laser catheter to flush the guidewire lumen.
+        Attach a rotating hemostatic valve to the guidewire port into the guidewire lumen (See Figure 3). Introduce the distal tip
+        of the Spectranetics laser catheter over the selected guidewire. Under fluoroscopic control, guide the laser catheter to the
+        lesion. The laser catheter’s radiopaque band marker indicates its position relative to the lesion.
+Note: During use within the body, similar to any device used for vascular intervention, always monitor Laser Catheter
+movement and the radiopaque tip marker position with fluoroscopy. The movement and rate of advancement of the
+catheter distal tip should correspond directly with the rate of advancement being applied to the proximal shaft of the
+catheter. If corresponding movement is not apparent, reassess the lesion morphology, the laser energy being applied and
+the status of support equipment prior to continued treatment.
+ 7.     Insertion techniques (Bare Wiring)		
+        a.      Monitor the guidewire position within the vasculature under fluoroscopy.
+        b.      Insert the guidewire into the laser catheter by introducing the proximal end of the guidewire into the distal tip of
+                the laser catheter, and carefully advance the laser catheter, in small increments, to avoid kinking the guidewire.
+                Grasp the guidewire as it exits the proximal guidewire port and maintain its position in the patient’s circulatory
+                system while advancing the laser catheter.
+        c.      Loosen the hemostatic valve of the y-adapter being used in conjunction with the introducer inserted during step 1
+                above.
+        d.      Carefully insert the laser catheter through the hemostatic valve of the y-adapter into the guide catheter and
+                advance the laser catheter to the guide catheter distal tip while maintaining the guidewire position.
+        e.      Reconfirm the guide catheter position in the ostium of the coronary artery with contrast media injection and
+                fluoroscopy prior to advancing the laser catheter.
+        f.      Advance the laser catheter to the lesion site while maintaining the guidewire position in the patient’s circulatory
+                system. Inject contrast medium solution through the guiding catheter to verify the positioning of the laser catheter
+                under fluoroscopy.
+ 8.     Following confirmation of the laser catheter’s position in contact with the target lesion and using normal saline or Lactated
+        Ringer’s solution:
+        a.     Flush all residual contrast media from the guide catheter and in-line connectors.
+        b.     Flush all residual contrast media from the lasing site and vascular structures adjacent to the lasing site, prior to
+               activating the laser system.
+        c.     Please refer to the Saline Infusion Protocol and perform saline flush and infusion per the instructions.
+ 9.     Depress the footswitch, activating the laser system, and slowly, less than 1 mm per second, advance the laser catheter
+        allowing the laser energy to remove the desired material. Release the footswitch to deactivate the laser system.
+Note: Advancing the laser catheter through moderately calcified lesions may require more pulses of laser energy than
+fibrous atherosclerotic tissue.
+Caution: The tip of the laser catheter should not pass beyond the tip of the guidewire during the procedure. Avoid pushing
+the laser catheter tip beyond the guidewire tip and/or withdrawing the guidewire inside the laser catheter.
+ 10.    Pull back the laser catheter and inject contrast medium through the guiding catheter and examine the lesion via
+        fluoroscopy.
+ 11.    Repeat steps 8 through 10 as needed to complete treatment.
+
+
+
+P020690-A          18AUG21                                                                                                       12
+                                                ELCA™ Coronary Laser
+                                                                                                  Instructions for Use
+                                                Atherectomy Catheter
+                                         0.9mm and 0.9mm RX X-80 Catheter Models
+ 12.     When withdrawing the laser catheter from the treated vessel, monitor the position of the guidewire in the vessel with
+         fluoroscopy to avoid guidewire prolapse, and exercise care while exiting the hemostatic valve of the y-adapter with the
+         distal tip of the laser catheter.
+Note: If the laser catheter is removed from the vessel for any reason, thoroughly clean the laser catheter outer surface and
+tip in heparinized saline to prevent blood from sticking. Blood remaining on the laser catheter may diminish the efficiency
+of the laser catheter.
+There is no need to remove the laser catheter from the patient in order to increase or decrease either the fluence or pulse repetition
+rate; as the laser catheter was previously calibrated. Refer to the CVX-300® Excimer Laser System Operator’s Manual; (7030-0035 or
+7030-0068) or the Philips Laser System Operator’s Manual (P018730).
+Note: All patients should be monitored for blood pressure and heart rate during the procedure.
+ 13.     Following laser atherectomy, perform follow-up angiography and balloon angioplasty, if needed.
+
+RX ONLY
+ 14.   The Rapid Exchange laser catheter has been specifically designed for compatibility with rapid device exchanges as needed
+       during a single interventional surgery, done by the same surgical team. The Rapid Exchange laser catheter may be quickly
+       removed from the patient’s circulatory system, without removing the guidewire, as outlined below.
+       1)      Loosen the hemostatic valve.
+       2)      Hold the guidewire and hemostatic valve in one hand, while grasping the laser catheter outer surface in the other
+               hand.
+       3)      Maintain the guidewire’s position in the coronary artery by holding the guidewire stationary, and begin pulling the
+               laser catheter out of the guiding catheter.
+Note: Monitor the guidewire position under fluoroscopy during the exchange.
+         4)     Pull on the laser catheter withdrawing it until the opening in the guidewire lumen just exits the Y-adapter. Carefully
+                and slowly withdraw the last 9 cm of the flexible, distal portion of the laser catheter off the guidewire while
+                maintaining the guidewire’s position across the lesion. Close the hemostatic valve.
+         5)     Prepare the next laser catheter to be used, as previously described.
+         6)     Again, insert the guidewire into the laser catheter by introducing the proximal end of the guidewire into the distal
+                tip of the laser catheter. The proximal portion of the guidewire, that will be handled by the physician, will exit at the
+                opening 9 cm from the distal tip.
+         7)     Open the hemostatic valve and advance the laser catheter while maintaining guidewire position in the coronary
+                artery. Be careful not to twist the laser catheter around the guidewire.
+         8)     Advance the laser catheter to the guiding catheter tip. Continue the laser angioplasty procedure, using the
+                previously described method.
+ 15.     Recommended pharmacology follow-up to be prescribed by the physician.
+
+Excimer Laser Saline Infusion Protocol
+NOTE: This technique requires two operators. It is recommended that the primary physician-operator advance the laser
+catheter and operate the laser system foot pedal. A scrub assistant should manage the saline infusion control syringe and
+(if appropriate) depress the fluoroscopy pedal.
+         a.     Before the laser procedure, warm a 500cc bag of 0.9% normal saline (NaCl) or lactated Ringer’s solution to 37°C. It
+                is not necessary to add heparin or potassium to the saline solution. Connect the bag of warmed saline to a sterile
+                intravenous line and terminate the line at a port on a triple manifold.
+         b.     Cannulate the ostium of the coronary artery or bypass graft with an appropriate “large lumen” guide catheter in the
+                usual fashion. It is recommended that the guide catheter not have side holes.
+         c.     Under fluoroscopic guidance, advance the laser catheter into contact with the lesion. If necessary, inject contrast
+                to help position the tip of the laser catheter. If contrast appears to have become entrapped between the laser
+                catheter tip and the lesion, the laser catheter may be retracted slightly (1-2 mm) to allow antegrade flow and
+                contrast removal while flushing the system with saline. (However, before lasing, ensure that the laser catheter
+                tip is in contact with the lesion.)
+         d.     Expel any residual contrast from the control syringe back into the contrast bottle. Clear the triple manifold of
+                contrast by drawing up saline through the manifold into the control syringe.
+         e.     Remove the original control syringe from the manifold and replace it with a fresh 20cc luer-lock control syringe. This
+                new 20cc control syringe should be primed with saline prior to connection to reduce the chance for introducing air
+                bubbles. (Merit Medical and other vendors manufacture 20cc control syringes.)
+         f.     Flush all traces of blood and contrast from the manifold, connector tubing, y-connector, and guide catheter, with
+                at least 20-30cc of saline (several syringes of saline). When this initial flushing is completed, refill the 20cc control
+                syringe with saline.
+         g.     Under fluoroscopy, confirm that the tip of the laser catheter is in contact with the lesion (advance the laser catheter
+                if necessary), but do not inject contrast.
+         h.     When the primary operator indicates that he/she is ready to activate the laser system, the scrub assistant should
+                turn the manifold stopcock off to pressure and inject 10cc of saline as rapidly as possible (within 1-2 seconds). This
+                bolus injection is to displace and/or dilute blood in the coronary tree down to the level of the capillaries and limit
+                back-bleeding of blood into the laser ablation field.
+
+P020690-A          18AUG21                                                                                                           13
+                                               ELCA™ Coronary Laser
+                                                                                               Instructions for Use
+                                               Atherectomy Catheter
+                                        0.9mm and 0.9mm RX X-80 Catheter Models
+         i.   After the injection of the initial 10cc bolus and without stopping the motion of injection, the scrub assistant should
+              next slow down the rate of injection to 2-3cc/second. This portion of the saline infusion is to displace and/or dilute
+              the antegrade blood flow entering the laser ablation field. At the instant the scrub assistant slows down the
+              injection rate, the primary operator should activate the excimer laser system by depressing the foot pedal
+              and begin a lasing sequence.
+        j.    The lasing sequence (train) should last for 2-10 seconds (maximum 10 seconds).
+        k.    Terminate the saline injection at the end of the lasing train. Turn the manifold stopcock back to pressure and refill
+              the control syringe with 20cc of saline in preparation for the next lasing sequence.
+NOTE: Any electrocardiographic changes induced by saline infusion should be permitted to resolve before repeating the
+      sequence.
+         l.     Each subsequent laser train should be preceded by a bolus of saline and performed with continuous saline infusion
+                as described in steps h-k.
+         m.     If contrast is used to assess treatment results during the course of a laser treatment, repeat steps 4-7 prior to
+                reactivation of the excimer laser system (before activating the laser as described in steps h-k).
+
+13.    Manufacturer’s Information
+Manufacturer warrants that the ELCA Coronary Laser Atherectomy Catheter is free from defects in material and workmanship
+when used by the stated “Use By” date. Manufacturer’s liability under this warranty is limited to replacement or refund of the
+purchase price of any defective unit of the ELCA Coronary Laser Atherectomy Catheter. Manufacturer will not be liable for any
+incidental, special, or consequential damages resulting from use of the ELCA Coronary Laser Atherectomy Catheter. Damage to
+the ELCA Coronary Laser Atherectomy Catheter caused by misuse, alteration, improper storage or handling, or any other failure
+to follow these Instructions for Use will void this limited warranty. THIS LIMITED WARRANTY IS EXPRESSLY IN LIEU OF ALL
+OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE. No person or entity, including any authorized representative or reseller of Manufacturer, has the authority
+to extend or expand this limited warranty and any purported attempt to do so will not be enforceable against the Manufacturer.
+This limited warranty covers only the ELCA Coronary Laser Atherectomy Catheter. Information on Manufacturer’s warranty relating
+to the CVX-300® Excimer Laser System or Philips Laser System can be found in the documentation relating to that system.
+
+
+
+
+P020690-A          18AUG21                                                                                                      14
+                          ELCA™ Coronary Laser
+                                                                 Instructions for Use
+                          Atherectomy Catheter
+                      0.9mm and 0.9mm RX X-80 Catheter Models
+
+
+
+
+                            This page intentionally left blank
+
+
+
+
+P020690-A   18AUG21                                                                15
+                      www.spectranetics.com
+
+               Manufactured by Spectranetics Corporation
+             9965 Federal Drive, Colorado Springs CO 80921 USA
+                   Tel: 1-800-231-0978 · Fax: 719-447-2022
+
+
+
+
+                                 P020690
+
+                       ©2021 Spectranetics Corporation
+
+
+
+
+P020690-A   18AUG21                                              16
+

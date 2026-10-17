@@ -1,0 +1,1718 @@
+                                                                                                      Instructions For Use
+                                                                                                            Mode d’emploi
+                                                                                                    Gebrauchsanweisung
+                                                                                                        Istruzioni per l’uso
+                                                                                                  Instruções de Utilização
+                                                                                                          Modo de empleo
+
+
+
+
+                                   Spectranetics International B.V.
+                                   Plesmanstraat 6                    Spectranetics Corporation
+                                   3833 LA Leusden                    5055 Brandin Court,
+                                   The Netherlands                    Fremont, CA 94538 USA
+                                   Tel: +31 33 43 47 050              Tel: 510-933-7900
+                                   Fax: +31 33 43 47 051              Fax: 510-933-7901
+
+
+
+
+©2020 Spectranetics® Corporation                                                                                PN-3072-0001 Rev. C 03/20
+THIS PAGE INTENTIONALLY LEFT BLANK
+                                                                  LABELING SYMBOL DEFINITIONS
+DÉFINITIONS DES SYMBOLES PRÉSENTS SUR L’ÉTIQUETTE		                                           DEFINIÇ ÕES DOS SÍNBOLOS DOS RÓTULOS
+ERLÄUTERUNG DER KENNZEICHNUNGSSYMBOLE		                                                       DEFINICIONES DE LOS SÍMBOLOS DE LA ETIQUETA
+DEFINIZIONE DEI SIMBOLI
+
+                       Product Model/Catalog Number                                                             Balloon Length
+                       Numéro de catalogue/de modèle du produit                                                 Longueur du ballonnet
+                       Produktmodell/Katalognummer                                                              Ballonlänge
+                       Numero di modello/Numero di catalogo                                                     Lunghezza del palloncino
+                       Modelo do Produto/Número do Catálogo                                                     Comprimento do Balão
+                       Modelo del producto/Número de catálogo                                                   Longitud del balón
+
+                       Sterilized by Ethylene Oxide                                                             Nominal Pressure
+                       Stérilisation par oxyde d’éthylène                                                       Pression nominale
+                       Mit Ethylenoxid sterilisiert                                                             Nenndruck
+                       Sterilizzato mediante ossido di etilene                                                  Pressione nominale
+                       Esterilizado con óxido de etileno                                                        Pressão Nominal
+                       Steriliserad med etylenoxid                                                              Presión nominal
+
+                       Expiration Date                                                                          Rated Burst Pressure (RBP)
+                       Date de péremption                                                                       Pression de rupture (RBP)
+                       Verfallsdatum                                                                            Nennberstdruck (RBP)
+                       Data di scadenza                                                                         Pressione nominale di scoppio (RBP)
+                       Prazo de Validade                                                                        Pressão Estimada de Ruptura (PER)
+                       Fecha de caducidad                                                                       Presión nominal de estallido (PNE)
+
+                       Device Lot/Serial Number                                                                 Minimum Guide Catheter ID
+                       Numéro de série/de lot de l’appareil                                                     Diamètre interne minimum du cathéter guide
+                       Chargen-/Seriennummer des Produkts                                                       Mindest- Innendurchmesser des Führungskatheters
+                       Numero di lotto/Numero di serie del dispositivo                                          Diametro interno minimo del catetere guida
+                       Lote do Dispositivo/Número de Série                                                      DI Mínimo do Cateter-guia
+                       N.° de lote/n.° de serie del dispositivo                                                 D. I. mínimo del catéter guía
+
+                       Device Intended for Single Use Only. Do Not Reuse.                                       Maximum Guide Wire OD
+                       Appareil exclusivement destiné à un usage unique. Ne pas réutiliser.                     Diamètre externe maximal du guide métallique
+                       Dieses Produkt ist nur zur einmaligen Verwendung vorgesehen.                             Maximaler Außendurchmesser des Führungsdrahts
+                       Nicht wieder verwenden.
+                                                                                                                Diametro esterno massimo della guida
+                       Dispositivo esclusivamente monouso. Non riutilizzare.
+                       Dispositivo Destinado a Apenas Uma Utilização. Não Reutilize.                            DE Máximo do Cateter-guia
+                       Dispositivo destinado a un solo uso. No reutilizar.                                      D. E. máximo de la guía
+
+                       Attention. See Instructions For Use.                                                     Manufactured By
+                       Attention. Consulter le mode d’emploi.                                                   Fabriqué par
+                       Achtung! Gebrauchsanweisung lesen.                                                       Hersteller
+                       Attenzione – Vedere le istruzioni per l’uso.                                             Fabbricato da
+                       Atenção. Consulte as Instruções de Utilização.                                           Fabricado por
+                       Atención: Consultar las instrucciones de empleo.                                         Fabricado por
+
+                       Package Contents (quantity shown)                                                        Authorized Representative in the European Union
+                       Contenu de l’emballage (quantité indiquée)                                               Représentant européen autorisé
+                       Packungsinhalt (Mengenangabe)                                                            Autorisierte Vertretung in der EU
+                       Contenuto della confezione (quantità indicata)                                           Rappresentante autorizzato per l’Unione europea
+                       Conteúdo da Embalagem (indicação da quantidade)                                          Representante Autorizado na União Europeia
+                       Contenido del paquete (cantidad ilustrada)                                               Representante autorizado en la Unión Europea
+
+                       Do not Use if Package has been Opened or Damaged.                                        Store in dry, dark, cool place
+                       Ne pas utiliser si l’emballage est ouvert ou endommagé.                                  Conserver à l’abri de la lumière dans un endroit frais et sec
+                       Bei geöffneter oder beschädigter Packung nicht verwenden.                                Trocken, dunkel und kühl lagern
+                       Non utilizzare se la confezione è stata aperta o danneggiata.                            Conservare in un luogo buio, fresco ed asciutto.
+                       Não Utilizar se a Embalagem se encontrar Aberta ou Danificada.                           Guardar em local seco, escuro e fresco
+                       No utilizar este dispositivo si el envase está abierto o dañado.                         Guardar en un lugar seco, oscuro y fresco
+
+                       Balloon Diameter                                                                         Importer
+                       Diamètre du ballonnet                                                                    Importateur
+                       Ballondurchmesser                                                                        Importeur
+                       Diametro del palloncino                                                                  Importatore
+                       Diâmetro do Balão                                                                        Importador
+                       Diámetro del balón                                                                       Importadora
+
+PN-3072-0001 Rev. C 03/20                                                                                                                                                       Page 1 of 33
+NOTE: These instructions apply to all balloon diameters and lengths.         To reduce the potential for vessel damage, the inflated diameter of the
+STERILE: Sterilized with ethylene oxide gas. Do not use if the package       balloon should approximate the diameter of the vessel just proximal
+is open or damaged.                                                          and distal to the stenosis.
+CONTENTS: One (1) AngioSculpt® Scoring Balloon Catheter.                     PTCA in patients who are not acceptable candidates for coronary artery
+STORAGE: Store in a dry, dark, cool place.                                   bypass graft surgery require careful consideration, including possible
+                                                                             hemodynamic support during PTCA, as treatment of this patient
+DEVICE DESCRIPTION
+                                                                             population carries special risk.
+The AngioSculpt catheter comprises a standard balloon catheter that
+                                                                             When the catheter is exposed to the vascular system, it should be
+incorporates a nitinol component. The proximal end of the catheter
+                                                                             manipulated while under high quality fluoroscopic observation. Do
+is a common PTCA catheter design comprising a hypotube connected
+                                                                             not advance or retract the catheter unless the balloon is fully deflated
+to a plastic hub. The hub-hypotube contact area is supported by a
+                                                                             under vacuum. If resistance is met during manipulation, determine the
+relatively soft strain relief to avoid kinking. The hub is used to inflate
+                                                                             cause of the resistance before proceeding.
+the balloon and can be connected to a standard inflation device.
+The distal part of the catheter consists of a conventional nylon             Balloon pressure should not exceed the rated burst pressure (RBP).
+balloon and a laser-cut nitinol scoring element having three or more         [The RBP is based on results of in-vitro testing. At least 99.9% of the
+spiral struts that wrap around the balloon. The struts create focal          balloons (with a 95% confidence) will not burst at or below their RBP.
+concentrations of dilating force, which minimizes balloon slippage           Use of a pressure monitoring device is recommended to prevent over-
+and assists in the luminal expansion of stenotic coronary arteries.          pressurization.]
+The catheter is compatible with standard 0.014” coronary guide               PTCA with the AngioSculpt device should only be performed at
+wires and 6F guiding catheters. The catheter length is approximately         hospitals where emergency coronary artery bypass graft surgery can
+137 cm and is offered in diameters of 2.0 - 3.5 mm in 0.5 mm                 be quickly performed on site (or at a nearby facility) in the event of a
+increments. The working length of the scoring element ranges from            potentially injurious or life-threatening complication.
+10-20 mm. The catheter is supplied sterile and intended for a single         Use only the recommended balloon inflation medium. Never use air or
+use. Figure 1 below depicts the AngioSculpt catheter.                        any gaseous medium to inflate the balloon.
+                      Figure 1: AngioSculpt Catheter                         Proceed cautiously when using the AngioSculpt catheter in a freshly
+                                                                             deployed bare metal or drug eluting stent. The AngioSculpt catheter
+                                                                             has not been tested for post-dilation of stents or in lesions distal to
+                                                                             freshly deployed stents in clinical studies. Bench testing has shown no
+                                                                             additional risk when inserting or withdrawing the AngioSculpt catheter
+                                                                             through stents (no interference with stent struts, no retention of or
+                                                                             damage to AngioSculpt catheter).
+                                                                             Use the catheter prior to the “Use Before” (expiration) date specified on
+                                                                             the package.
+INDICATIONS                                                                  PRECAUTIONS
+The AngioSculpt Scoring Balloon Catheter is indicated for the treatment of   Prior to angioplasty, the catheter should be examined to verify
+a hemodynamically significant coronary artery stenosis, including in-stent   functionality, device integrity and to ensure that its size and length are
+restenosis.                                                                  suitable for the specific procedure for which it is to be used.
+CONTRAINDICATIONS                                                            Only physicians trained in the performance of percutaneous
+The AngioSculpt catheter should not be used for the following:               transluminal coronary angioplasty should use the catheter system.
+   • Coronary artery lesions unsuitable for treatment by percutaneous        During and after the procedure, appropriate antiplatelet, anticoagulant
+      revascularization.                                                     and coronary vasodilator therapy consistent with institutional practice
+                                                                             or coronary stent procedures should be provided to the patient.
+   • Coronary artery spasm in the absence of a significant stenosis.
+                                                                             Do not rotate the catheter shaft in excess of 180 degrees when the tip
+WARNINGS
+                                                                             is constrained.
+This device is intended for single (one) use only. Do not resterilize
+and/or reuse, as this can potentially result in compromised device
+performance and increased risk of inappropriate resterilization and          Do not rotate the catheter luer hub in excess of five (5) turns during use.
+cross contamination.                                                         Do not advance or retract the AngioSculpt catheter over the floppy
+                                                                             portion of the guide wire.
+
+Page 2 of 33                                                                                                                      PN-3072-0001 Rev. C 03/20
+Catheter manipulation, including advancement and retraction, should          scheduled to undergo clinically indicated percutaneous coronary
+be performed by grasping the hypotube shaft.                                 intervention. Following informed consent, 45 patients meeting the
+If unusual resistance is felt when the catheter is being manipulated or if   study inclusion criteria underwent treatment with the AngioSculpt
+it is suspected that the guide wire has become kinked, carefully remove      catheter.
+the entire catheter system (AngioSculpt catheter and steerable guide         Patient Selection
+wire) as a unit.                                                             The following key inclusion criteria were utilized for patient selection:
+If fluoroscopic guidance indicates that the AngioSculpt catheter has            • Planning to undergo clinically indicated percutaneous
+advanced beyond the end of the guide wire, withdraw the catheter and               coronary intervention in native coronary arteries including
+reload the wire before advancing again.                                            in-stent restenosis
+COMPLICATIONS                                                                   • Target lesion reference vessel size 2.0-4.0 mm diameter
+Possible complications include, but are not limited to, those listed in         • Target lesion length ≤ 30 mm
+Table 1 below:                                                                  • Target lesion severity ≥ 60% diameter stenosis
+                      Table 1: Possible Complications                        Patients meeting the above criteria were to be excluded for any of the
+     •   Death                                                               following reasons:
+     •   Heart Attack (Acute myocardial infarction)                             • Target lesion in left main coronary artery
+     •   Total occlusion of the treated coronary artery                         • Target lesion in degenerated saphenous vein graft
+     •   Coronary artery dissection, perforation, rupture, or injury            • Target lesion in a severe angulation >60 degrees
+     •   Pericardial tamponade
+                                                                                • Target lesion distal to freshly deployed stent
+     •   No / slow reflow of treated vessel
+     •   Emergency coronary artery bypass (CABG)                                • Target lesion demonstrating major dissection prior to deployment
+     •   Emergency percutaneous coronary intervention                              of AngioSculpt catheter
+     •   CVA/stroke                                                             • Visible thrombus (by angiography) at target lesion site
+     •   Pseudo-aneurysm                                                     Objectives
+     •   Re-stenosis of the dilated vessel                                   The primary safety objective was to demonstrate the incidence
+     •   Unstable chest pain (angina)                                        and severity of device-related complications (MACE: death,
+     •   Thrombo-embolism or retained device components                      Q wave/non-Q wave MI, TLR) at one month follow-up.
+     •   Irregular heart rhythm (arrhythmias, including                      The primary performance objective was to demonstrate successful
+         life-threatening ventricular fibrillation)                          percutaneous revascularization (defined as a reduction in target lesion
+     •   Severe low (hypotension) / high (hypertension) blood                diameter stenosis to ≤ 50% following completion of all interventions
+         pressure                                                            and the absence of in-hospital MACE).
+     •   Coronary artery spasm
+                                                                             Methods
+     •   Hemorrhage or hematoma
+     •   Need for blood transfusion                                          Patients were treated in standard fashion and according to institutional
+     •   Surgical repair of vascular access site                             practice for percutaneous coronary interventions including the
+     •   Creation of a pathway for blood flow between the artery and         use of anti-coagulants (e.g. heparin) and antiplatelet agents (ASA,
+         the vein in the groin (Arteriovenous fistula)                       clopidogrel). There was no attempt to alter standard practice for these
+     •   Drug reactions, allergic reactions to x-ray dye (contrast           study patients other than using the investigational device.
+         medium)
+     •   Infection                                                           Coronary angiography in the views best demonstrating the target
+                                                                             lesion was performed prior to device deployment. When technically
+SUMMARY OF CLINICAL STUDIES                                                  possible, IVUS of the target lesion was performed prior to device
+                                                                             deployment at one of the two clinical sites.
+                                                                             A cineangiogram was taken of the deployed device immediately prior
+Study Design
+                                                                             to and during inflation. Coronary angiography of the target lesion
+A multi-center, non-randomized, single-arm, prospective clinical study       following completion of each device treatment (and prior to adjunctive
+was conducted to evaluate the safety and efficacy of the Angiosculpt         stent placement) was performed in the original views. IVUS of the
+catheter in a wide range of coronary artery lesions in native vessels and    target lesion was performed following device treatment (and prior to
+following in-stent restenosis. The study population was adult patients       adjunctive stent placement).
+
+PN-3072-0001 Rev. C 03/20                                                                                                                   Page 3 of 33
+Additional clinically indicated interventions (e.g. stent placement) were       In all 46 attempted lesions, the primary performance endpoint of
+performed and coronary angiography of the target lesion following               reduction of the lesion diameter stenosis to ≤ 50% at the completion of
+completion of all interventions was performed in the original views.            the interventional procedure was successfully achieved. In all lesions
+Post-intervention medication was administered according to                      treated, the AngioSculpt catheter demonstrated stable position during
+institutional protocol for percutaneous coronary interventions                  deployment without any significant slippage on angiography. The
+involving stents. EKG was recorded immediately post-procedure and at            angiographic results are summarized in Table 2.
+24 hours or pre-discharge (whichever was earlier). CPK (and Troponin-I                               Table 2: Angiographic Results
+if CPK is abnormally elevated), at 4 and 12 hours post-procedure and at
+                                                                                                                AS             AS              Post-
+24 hours/pre-discharge (whichever was earlier) were recorded.                                  Pre-AS
+                                                                                                               Alone        Pre-Stent          Stent
+Patients treated with the AngioSculpt catheter underwent a follow-                             (n=46)
+                                                                                                              (n=10)         (n=36)           (n=36)
+up examination 14-28 days from the interventional procedure which
+consisted of an office visit or telephone questionnaire for assessment of           RVD
+                                                                                              2.87±0.41         N/A            N/A            N/A
+vital status, post-discharge myocardial infarction, post-discharge CABG            (mm)
+surgery/PCI, angina class, and an EKG assessment.                                 Length
+                                                                                              15.67±6.14        N/A            N/A            N/A
+Results                                                                            (mm)
+Following informed consent, 45 consecutive patients (age 63±10.7                     DS
+                                                                                             75.27±12.91 17.46±8.15* 38.68±17.19* 3.81±3.75
+years, males 69%) referred for percutaneous coronary intervention                   (%)
+and meeting the study inclusion criteria underwent treatment with                   MLD
+                                                                                              0.75±0.35      2.49±0.43*    1.83±0.59*      2.91±0.47
+the AngioSculpt catheter. The age and gender of the patients studied               (mm)
+reflect the typical distribution in non-selected patients referred for          RVD= reference vessel diameter
+percutaneous coronary intervention.                                             DS= diameter stenosis
+Patients were treated with standard peri-procedural medications                 MLD= minimum luminal diameter
+including aspirin, clopidogrel, intravenous heparin and glycoprotein            *p<0.001 compared to pre-AngioSculpt
+2b/3a inhibitors at the discretion of the investigator.
+                                                                                Intra-vascular ultrasound (IVUS) was performed pre and post treatment
+All patients were available and underwent clinical follow-up at                 with the AngioSculpt catheter to evaluate the morphologic effects of
+14-28 days following treatment with the AngioSculpt catheter.                   the device on the plaque and to further confirm device safety. The IVUS
+The AngioSculpt catheter was utilized in 45 patients and a total of             results demonstrated plaque scoring and luminal expansion following
+46 lesions. Of these 46 lesions, 32 were in native vessels and 14 were          treatment with the AngioSculpt catheter. There were no perforations
+in-stent restenosis (ISR). The AngioSculpt was used as a standalone             or other evidence of unanticipated vessel injury on IVUS evaluation.
+treatment in 10 lesions (9 ISR and 1 native vessel) and was used in             The IVUS results are summarized in Table 3.
+combination with stenting in the remaining 36 lesions. In these cases,                                   Table 3: IVUS Results
+the AngioSculpt was intentionally undersized relative to the reference
+vessel diameter in order to facilitate stent placement (i.e. “pre-dilation”).                                               De Novo          De Novo
+                                                                                               Pre-AS       ISR Post-AS
+There were no device-related major adverse clinical events (MACE: death,                                                    Post-AS         Post-Stent
+                                                                                               (n=30)         (n=11)
+Q wave or non-Q wave myocardial infarction, ischemia driven target                                                           (n=19)           (n=19)
+lesion revascularization) encountered during hospitalization or during              MLA
+                                                                                               2.01±0.71      4.55±2.2*      2.65±0.9*      6.28±2.02
+the follow-up period (24.8±8.5 days). There were no device-related                 (mm2)
+coronary artery perforations. There were no device malfunctions.                MLA= minimum luminal area
+One patient was re-hospitalized during the follow-up period due to an           *p<0.001 compared to pre-AngioSculpt
+episode of supra-ventricular tachycardia that was documented to be              The AngioSculpt catheter was successfully deployed in all 46 lesions.
+a pre-existing condition and unrelated to the AngioSculpt catheter. A           In four lesions, the stenosis was so severe that it could not be crossed
+second patient suffered a perforation of a diagonal branch coronary             initially by either the IVUS catheter or the AngioSculpt catheter and
+artery that was associated with a non-Q wave MI during treatment with           was therefore pre-dilated with a small balloon catheter (1.5/2.0 mm)
+a conventional angioplasty balloon and in a location and artery that            following which the AngioSculpt catheter was successfully deployed.
+were remote from the site treated with the AngioSculpt. This patient
+                                                                                There were no instances of device malfunction, retained device
+did not require surgical intervention and did not experience any
+                                                                                components or embolization. Each device was carefully inspected
+additional MACE during follow-up.
+                                                                                following completion of the procedure. There was no evidence of any
+The AngioSculpt catheter was successfully deployed in all 46 lesions.           damage or deterioration in any of the devices.
+
+Page 4 of 33                                                                                                                       PN-3072-0001 Rev. C 03/20
+MATERIALS REQUIRED FOR USE WITH THE ANGIOSCULPT                                    bubbles into the catheter balloon lumen.
+CATHETER:                                                                    11.   Aspirate using the inflation device, locking in vacuum.
+WARNING: Use single use items only. Do not resterilize or reuse.                   NOTE: All air must be removed from the balloon and
+   • Femoral, brachial or radial guiding catheter ( ≥ 6F)                          displaced with contrast medium prior to inserting into the
+   • Hemostatic valve                                                              body (repeat steps 9-11, if necessary).
+   • Contrast medium diluted 1:1 with normal saline                          12.   Advance AngioSculpt device over the coronary guide
+                                                                                   wire to the target lesion (may predilate with a 2.0-2.5 mm
+   • Sterile heparinized normal saline
+                                                                                   diameter balloon catheter if needed to cross the lesion).
+   • 10cc and 20cc syringes for flushing and balloon prep                          NOTE: When backloading the catheter onto the guide wire,
+   • Inflation device (indeflator)                                                 the catheter should be supported, ensuring that the guide
+   • 0.014” coronary guide wire                                                    wire does not come in contact with the balloon.
+   • Guide wire introducer                                                   13.   Inflate the AngioSculpt balloon per the following
+   • Guide wire torque device                                                      recommended protocol:
+   • Radiographic contrast                                                         • 2 atmospheres
+   • Manifold (for pressure monitoring and contrast injection),                    • increase the inflation pressure by 2 atmospheres every 10-
+      extension pressure tubing                                                       15 seconds until full device inflation is achieved
+INSTRUCTIONS FOR USE                                                               • may inflate to a maximum pressure that is ≤ RBP at the
+                                                                                      discretion of the physician (bearing in mind the estimated
+Prior to use of the AngioSculpt, examine carefully for damage and
+                                                                                      inflated diameter of the device at a given pressure)
+device integrity. Do not use if the catheter has bends, kinks, missing
+components or other damage.                                                  14.   Perform coronary angiogram (in the same view(s) as step 2)
+                                                                                   of the target lesion following completion of device treatment
+   1.   Premedicate patients with ASA, Clopidogrel/Ticlopidine,
+                                                                                   (and prior to adjunctive stent placement).
+        intravenous anti-coagulants, coronary vasodilators and
+        GP2b/3a blockers according to institutional protocol for             15.   To remove the AngioSculpt device, apply negative pressure
+        percutaneous coronary interventions involving stents.                      to the inflation device and confirm that the balloon is fully
+                                                                                   deflated. The catheter should be retracted only by grasping the
+   2.   Perform coronary angiogram in the view best demonstrating
+                                                                                   hypotube shaft.
+        the target lesion prior to device deployment.
+                                                                             16.   Inspect all components to ensure that the device is intact.
+   3.   Position 0.014” coronary guide wire of choice beyond the
+                                                                                   Follow institutional procedures for disposal of biohazards.
+        target lesion.
+                                                                                   If device malfunction occurs or any defects are noted on
+   4.   Using sterile technique, remove an appropriately sized                     inspection, flush the guide wire lumen and clean the outer
+        (≤ 1.0 x reference vessel diameter (RVD)) AngioSculpt device               surface of the device with saline, store the device in a sealed
+        from the sterile package and place on the sterile field.                   plastic bag and contact Spectranetics® or the EC Authorized
+   5.   Inspect the device to ensure that all components are intact.               Representative for further instructions.
+   6.   Flush the guide wire lumen with saline by carefully inserting        17.   Complete any additional interventions as clinically indicated
+        the distal catheter tip into the distal end of a 10 cc syringe and         (e.g. stent placement).
+        injecting saline until droplets emerge from the proximal guide       18.   Remove the coronary guidewire and perform coronary
+        wire lumen.                                                                angiography (in the same view(s) as step 2) of the target lesion
+   7.   Attach 20 cc syringe filled with 2-3 cc of radiographic contrast           following completion of all interventions.
+        to the catheter balloon inflation port.                              19.   Remove all catheters and manage the arterial access site
+   8.   Aspirate/remove air from the catheter balloon lumen using                  according to institutional protocol.
+        the 20 cc syringe filled with 2-3 cc of radiographic contrast and    20.   Continue treatment with ASA, Clopidogrel/Ticlopidine, and
+        leave on vacuum for 30 seconds.                                            GP2b/3a blockers according to institutional protocol for
+   9.   Gently release vacuum from the 20 cc syringe and remove it                 percutaneous coronary interventions involving stents.
+        from the balloon inflation port.
+   10. Attach inflation device (indeflator), filled with 50:50 mixture
+        of radiographic contrast and normal saline, to the balloon
+        inflation port by creating a meniscus. Avoid introducing air
+
+PN-3072-0001 Rev. C 03/20                                                                                                                Page 5 of 33
+FRANÇAIS                                                                         AVERTISSEMENTS
+REMARQUE : Ce mode d’emploi s’applique aux ballonnets de tous                    Cet appareil est prévu pour un usage unique. Ne pas le re-stériliser
+diamètres et longueurs.                                                          ni le réutiliser, car cela peut altérer le bon fonctionnement de
+STÉRILE : Stérilisation par oxyde d’éthylène (gaz). Ne pas utiliser si           l’appareil et augmenter le risque de re-stérilisation inappropriée et de
+l’emballage est ouvert ou endommagé.                                             contamination croisée.
+CONTENU : Un (1) cathéter à ballonnet pour rainurage AngioSculpt®.               Afin de réduire le risque de lésion vasculaire, le diamètre du ballonnet
+CONSERVATION : Conserver à l’abri de la lumière dans un endroit frais            gonflé doit être à peu près équivalent au diamètre du vaisseau en
+et sec.                                                                          position proximale et distale par rapport à la sténose.
+DESCRIPTION DE L’APPAREIL                                                        Il est nécessaire de porter une attention particulière aux procédures
+                                                                                 d’ACTP chez les patients non éligibles pour la chirurgie de pontage
+Le cathéter AngioSculpt se compose d’un cathéter à ballonnet standard
+                                                                                 coronarien par greffe, y compris d’envisager un éventuel soutien
+muni d’un composant en nitinol. L’extrémité proximale du cathéter est
+                                                                                 hémodynamique pendant l’ACTP, car le traitement de cette population
+conçue sur le modèle standard des cathéters pour angioplastie coronarienne
+                                                                                 de patients comporte des risques particuliers.
+transluminale percutanée (ACTP) et comprend un tube hypodermique
+(hypotube) fixé à un raccord en plastique. La zone de contact entre le raccord   Lorsque le cathéter se trouve dans le système vasculaire, il doit être
+et l’hypotube est soutenue par un dispositif anti-tension relativement léger     manipulé sous observation fluoroscopique de haute qualité. Ne pas
+destiné à éviter tout risque de pliage. Le raccord sert à gonfler le ballonnet   avancer ou rétracter le cathéter tant que le ballonnet ne s’est pas
+et peut être branché à un appareil de gonflage standard. La partie distale du    entièrement dégonflé sous vide. En cas de résistance pendant la
+cathéter est composée d’un ballonnet classique en nylon et d’un élément de       manipulation, déterminer la cause avant de poursuivre la procédure.
+rainurage en nitinol découpé au laser qui comporte trois branches spiralées      La pression du ballonnet ne doit pas excéder la pression de rupture
+ou plus, entourant le ballonnet. Les branches concentrent les forces de          (RBP). [La RBP repose sur les résultats de tests in vitro. Au moins 99,9 %
+dilatation, ce qui diminue le risque de glissement du ballonnet et facilite      des ballonnets (avec un taux de confiance de 95 %) n’éclateront pas à
+l’élargissement des artères coronaires sténosées. Le cathéter est compatible     une pression inférieure ou égale à leur RBP. Il est recommandé d’utiliser
+avec les guides métalliques coronariens standards de 0,014 po. (0,36 mm) et      un appareil de surveillance de la pression pour éviter tout risque de
+les cathéters guides de 6 Fr. Le cathéter mesure environ 137 cm de long et       surpression.]
+existe en différents diamètres, compris entre 2,0 et 3,5 mm, en incréments       L’ACTP avec le dispositif d’AngioSculpt devra obligatoirement être réalisée
+de 0,5 mm. La longueur utile de l’élément de rainurage est comprise entre        dans un hôpital où il est possible de procéder rapidement à un pontage
+10 et 20 mm. Le cathéter est fourni sous emballage stérile et est destiné à un   coronarien en urgence (ou dans un établissement proche) en cas de
+usage unique. La figure 1 ci-dessous illustre le cathéter AngioSculpt.           complications graves ou menaçant le pronostic vital.
+                      Figure 1: AngioSculpt Catheter                             Utiliser uniquement le produit recommandé pour le gonflage du
+                                                                                 ballonnet. Ne jamais utiliser d’air ni de produit gazeux pour gonfler
+                                                                                 le ballonnet.
+                                                                                 Procéder avec précaution lors de l’utilisation du cathéter AngioSculpt
+                                                                                 sur un métal nu récemment déployé ou sur un stent à élution
+                                                                                 médicamenteuse. Le cathéter AngioSculpt n’a pas été testé au cours
+                                                                                 d’études cliniques pour la post-dilatation des stents ni sur les lésions
+                                                                                 distales des stents récemment déployés. Les tests de laboratoire n’ont
+                                                                                 révélé aucun risque supplémentaire lors de l’insertion ou du retrait du
+INDICATIONS                                                                      cathéter AngioSculpt au travers de stents (les branches des stents n’ont
+                                                                                 causé aucune gêne et le cathéter AngioSculpt n’a jamais été coincé ni
+Le cathéter à ballonnet pour rainurage AngioSculpt est indiqué pour
+                                                                                 endommagé).
+le traitement des sténoses coronariennes significatives sur le plan
+hémodynamique, y compris la resténose intrastent.                                Utiliser le cathéter avant la date de péremption indiquée sur l’emballage.
+CONTRE-INDICATIONS                                                               PRÉCAUTIONS
+Ne pas utiliser le cathéter AngioSculpt dans les situations suivantes:           Avant l’angioplastie, examiner le cathéter pour vérifier son bon
+                                                                                 fonctionnement ainsi que l’intégrité de l’appareil et pour s’assurer que ses
+   • Lésions d’une artère coronaire non adaptées au traitement par
+                                                                                 dimensions conviennent pour la procédure à laquelle il est destiné.
+      revascularisation percutanée.
+                                                                                 Le cathéter ne doit être utilisé que par des médecins formés aux
+   • Spasme d’une artère coronaire sans sténose significative.
+                                                                                 procédures d’angioplastie coronarienne transluminale percutanée.
+
+
+Page 6 of 33                                                                                                                           PN-3072-0001 Rev. C 03/20
+Pendant et après l’intervention, administrer au patient un traitement         COMPLICATIONS
+antiagrégant plaquettaire, anticoagulant et vasodilatateur coronarien         La liste des complications possibles comprend notamment les éléments
+approprié et conforme aux pratiques de l’établissement ou aux                 cités dans le tableau 1 ci-dessous:
+procédures de pose des stents coronariens.                                                       Tableau 1 : complications possibles
+Ne pas faire pivoter la tige du cathéter de plus de 180 degrés lorsque
+son extrémité est en butée.                                                       •   Décès
+Ne pas faire pivoter le raccord luer du cathéter de plus de cinq (5) tours        •   Attaque cardiaque (infarctus aigu du myocarde)
+pendant l’utilisation.                                                            •   Occlusion totale de l’artère coronaire traitée
+                                                                                  •   Dissection, perforation, rupture ou lésion de l’artère coronaire
+Ne pas avancer ou rétracter le cathéter AngioSculpt sur la partie souple
+                                                                                  •   Tamponnade péricardique
+du guide métallique.
+                                                                                  •   Aucun flux / reflux dans le vaisseau traité
+Toujours manipuler le cathéter, y compris au moment de l’avancer ou               •   Pontage coronarien par greffe en urgence
+de le rétracter, en maintenant la tige de l’hypotube.                             •   Intervention coronarienne percutanée en urgence
+En cas de résistance inhabituelle lors de la manipulation du cathéter,            •   AVC
+ou si l’on pense que le guide métallique est plié, retirer avec précaution        •   Pseudo-anévrysme
+l’ensemble du système du cathéter (le cathéter AngioSculpt et le guide            •   Resténose du vaisseau dilaté
+orientable) en un seul bloc.                                                      •   Douleurs thoraciques instables (angor)
+Si la fluoroscopie indique que le cathéter AngioSculpt a progressé au-            •   Thromboembolie ou retenue de composants de l’appareil
+delà de l’extrémité du guide métallique, retirer le cathéter et replacer le       •   Rythme cardiaque irrégulier (arythmies, y compris fibrillation
+guide avant de continuer à avancer.                                                   ventriculaire menaçant le pronostic vital)
+                                                                                  •   Pression artérielle très basse (hypotension) / très élevée
+                                                                                      (hypertension)
+                                                                                  •   Spasme de l’artère coronaire
+                                                                                  •   Hémorragie ou hématome
+                                                                                  •   Nécessité d’une transfusion sanguine
+                                                                                  •   Réparation chirurgicale du site d’accès vasculaire
+                                                                                  •   Création d’une voie de passage sanguine entre l’artère et la
+                                                                                      veine de l’aine (fistule artérioveineuse)
+                                                                                  •   Réactions médicamenteuses, réactions allergiques au produit
+                                                                                      de contraste
+                                                                                  •   Infection
+
+                                                                              RÉSUMÉ D’ÉTUDES CLINIQUES
+                                                                              Conception de l’étude
+                                                                              Une étude clinique prospective multicentrique non randomisée
+                                                                              comportant un seul groupe a été réalisée afin d’évaluer la sécurité
+                                                                              et l’efficacité du cathéter Angiosculpt sur un grand nombre de
+                                                                              lésions d’artères coronaires natives et après resténose intrastent. La
+                                                                              population étudiée était constituée de patients adultes prévus pour
+                                                                              une intervention coronarienne percutanée cliniquement indiquée.
+                                                                              Après avoir signé le formulaire de consentement éclairé, 45 patients
+                                                                              correspondant aux critères d’inclusion de l’étude ont été traités avec le
+                                                                              cathéter AngioSculpt.
+                                                                              Sélection des patients
+                                                                              Les critères d’inclusion majeurs ci-dessous ont servi à sélectionner les
+                                                                              patients:
+                                                                                 • Intervention coronarienne percutanée cliniquement indiquée
+                                                                                    sur les artères coronaires natives, y compris pour la resténose
+
+
+PN-3072-0001 Rev. C 03/20                                                                                                                     Page 7 of 33
+      intrastent, prévue                                                        Un traitement médicamenteux suivant l’intervention a été administré
+    • Diamètre du vaisseau de référence de la lésion cible compris entre        aux patients conformément au protocole de l’établissement relatif aux
+      2 et 4 mm                                                                 interventions coronariennes percutanées avec pose de stents. Un ECG
+    • Longueur de la lésion cible ≤ 30 mm                                       a été enregistré immédiatement après la procédure puis à 24 heures
+                                                                                ou avant la sortie (si celle-ci avait lieu avant 24 heures). Les CPK (et la
+    • Gravité de la lésion cible : diamètre de la sténose ≥ 60 %
+                                                                                troponine-I si les CPK étaient anormalement élevées) ont été mesurées
+Certaines patients correspondant à ces critères ont été exclus pour             4 et 12 heures après la procédure puis à 24 heures/avant la sortie (si
+l’une ou plusieurs des raisons suivantes:                                       celle-ci avait lieu avant 24 heures).
+    • Lésion cible située dans la principale artère coronaire gauche            Les patients traités avec le cathéter AngioSculpt ont subi un examen
+    • Lésion cible située dans un greffon de saphène dégénéré                   de suivi entre 14 et 28 jours après l’intervention, qui a consisté en
+    • Lésion cible située dans un angle important > 60 degrés                   une consultation ou un questionnaire téléphonique afin d’évaluer le
+    • Lésion cible distale d’un stent récemment déployé                         pronostic vital, un infarctus du myocarde après la sortie, un pontage
+                                                                                coronarien/une intervention coronarienne percutanée après la sortie, la
+    • Lésion cible présentant une dissection importante avant le
+                                                                                classe de l’angor, et un examen ECG.
+      déploiement du cathéter AngioSculpt
+                                                                                Résultats
+    • Thrombus visible (par angiographie) sur le site de la lésion cible
+                                                                                Après avoir signé le formulaire de consentement éclairé, 45 patients
+Objectifs
+                                                                                consécutifs (âgés de 63 ans ± 10,7, 69 % d’hommes) envoyés pour une
+L’objectif de sécurité primaire consistait à démontrer l’incidence et la        intervention coronarienne percutanée et correspondant aux critères
+gravité des complications liées à l’appareil (événements cardiaques             d’inclusion de l’étude ont été traités avec le cathéter AngioSculpt.
+délétères majeurs (MACE) : décès, IDM avec et sans onde Q,                      L’âge et le sexe des patients de l’étude reflètent la répartition typique
+revascularisation de la lésion cible) après un mois.                            chez des patients non sélectionnés et candidats à une intervention
+L’objectif de performance primaire consistait à démontrer la réussite de        coronarienne percutanée.
+la revascularisation percutanée (définie par une réduction du diamètre          Les patients ont reçu des médicaments standard avant, pendant et
+de la sténose de la lésion cible à ≤ 50% après réalisation de l’ensemble        après la procédure, tels que l’aspirine, le clopidogrel, l’héparine par voie
+des interventions et en l’absence de MACE survenus à l’hôpital).                intraveineuse et les inhibiteurs de la glycoprotéine 2b/3a, selon le choix
+Méthodes                                                                        de l’investigateur.
+Les patients ont été traités de manière classique et conformément aux           Tous les patients étaient disponibles et ont été soumis à un suivi clinique
+pratiques de l’établissement relatives aux interventions coronariennes          entre 14 et 28 jours après le traitement par cathéter AngioSculpt.
+percutanées, y compris le recours aux anticoagulants (par exemple à             Le cathéter AngioSculpt a été utilisé sur 45 patients pour un total de
+l’héparine) et aux antiagrégants plaquettaires (acide acétylsalicylique,        46 lésions. Sur ces 46 lésions, 32 étaient situées dans des vaisseaux
+clopidogrel). Il n’y a eu aucune tentative de modification des pratiques        natifs et 14 étaient des lésions de resténose intrastent. Le cathéter
+classiques pour ces patients autre que l’utilisation de l’appareil à l’étude.   AngioSculpt a été utilisé comme seul traitement pour 10 lésions (9
+Avant déploiement de l’appareil, un examen par coronarographie a été            lésions de resténose intrastent et 1 vaisseau natif ) et en association
+réalisé pour obtenir les meilleures vues de la lésion cible. Dans les cas       avec un stent pour les 36 autres lésions. Pour ces cas, le diamètre
+où cela était techniquement possible, une échographie intravasculaire           du cathéter AngioSculpt a été intentionnellement choisi pour être
+(IVUS) a été réalisée avant déploiement de l’appareil sur l’un des deux         inférieur à celui du vaisseau de référence de façon à faciliter la pose du
+sites cliniques.                                                                stent (c’est-à-dire une « pré-dilatation »).
+Des clichés cinéangiographiques de l’appareil déployé ont été pris              Aucun événement clinique indésirable majeur en rapport avec
+juste avant et pendant le gonflage. Des clichés coronarographiques              l’appareil (MACE : décès, infarctus du myocarde avec ou sans onde Q,
+de la lésion cible après réalisation de chaque traitement par l’appareil        revascularisation de la lésion cible due à une ischémie) n’a été constaté
+(et avant la pose d’un stent complémentaire) ont été pris aux mêmes             au cours de l’hospitalisation ou pendant la période de suivi (24,8 jours
+endroits que précédemment. Une IVUS de la lésion cible a également              ± 8,5). Il n’est survenu aucune perforation de l’artère coronaire liée à
+été réalisée après traitement par l’appareil (et avant la pose d’un stent       l’appareil. L’appareil n’a présenté aucun dysfonctionnement.
+complémentaire).                                                                L’un des patients a été hospitalisé de nouveau pendant la période
+Des interventions supplémentaires cliniquement indiquées (par                   de suivi à cause d’un épisode de tachycardie supraventriculaire pré-
+exemple la pose d’un stent) ont été effectuées et des clichés                   existant à l’intervention (fait documenté) et sans rapport avec le
+coronarographiques de la lésion cible après réalisation de l’ensemble           cathéter AngioSculpt. Un autre patient a été victime de la perforation
+des interventions ont été pris aux mêmes endroits que précédemment.             d’une branche diagonale de l’artère coronaire associée à un IDM
+
+Page 8 of 33                                                                                                                          PN-3072-0001 Rev. C 03/20
+sans onde Q au cours d’un traitement avec ballonnet d’angioplastie          n’a pu être franchie ni par le cathéter de l’IVUS ni par le cathéter
+traditionnel, à un endroit et sur une artère situés à distance du site      AngioSculpt. Elle a donc dû être pré-dilatée à l’aide d’un petit cathéter
+traité par AngioSculpt. Ce patient n’a pas eu besoin d’une intervention     à ballonnet (1,5/2 mm), permettant ensuite la réussite du déploiement
+chirurgicale et n’a été touché par aucun autre MACE pendant le suivi.       du cathéter AngioSculpt.
+Le cathéter AngioSculpt a été déployé avec succès sur l’ensemble des        Aucune situation de dysfonctionnement de l’appareil ou de retenue
+46 lésions. Pour ces 46 lésions candidates, l’objectif de performance       de l’un de ses composants ni d’embolie n’a été rencontrée. Chaque
+primaire, à savoir la diminution du diamètre de la sténose de ≤ 50          appareil a été soigneusement inspecté au terme de la procédure.
+% au terme de l’intervention, a été atteint. Pour toutes les lésions        Aucune constatation de dommage ni de détérioration des appareils n’a
+traitées, le cathéter AngioSculpt a gardé une position stable au cours      été faite.
+du déploiement sans constatation significative de glissement à              MATÉRIELS NÉCESSAIRES POUR L’UTILISATION DU CATHÉTER
+l’angiographie. Les résultats angiographiques sont synthétisés dans le      ANGIOSCULPT:
+tableau 2.                                                                  MISE EN GARDE : N’utiliser que des éléments à usage unique. Ne
+                  Tableau 2 : résultats angiographiques                     pas re-stériliser ou réutiliser.
+                                            AS Avant le                        • Cathéter guide fémoral, huméral ou radial ( ≥ 6Fr)
+                 Avant AS     AS seul                     Après le stent
+                                               stent                           • Valve hémostatique
+                  (n=46)      (n=10)                         (n=36)
+                                              (n=36)                           • Produit de contraste dilué à 1:1 avec du sérum physiologique
+    DVR        2,87 ± 0,41        S/O           S/O              S/O           • Sérum physiologique stérile hépariné
+ Longueur                                                                      • Seringues de 10 cc et 20 cc pour le rinçage et la préparation du
+              15,67 ± 6,14        S/O               S/O          S/O
+   (mm)                                                                           ballonnet
+     DS                                                                        • Appareil de gonflage (indeflator)
+             75,27 ± 12,91 17,46 ± 8,15* 38,68 ± 17,19* 3,81 ± 3,75
+     (%)                                                                       • Guide métallique coronarien de 0,014 po. (0,36 mm)
+    DLM                                                                        • Introducteur pour le guide métallique
+               0,75 ± 0,35 2,49 ± 0,43* 1,83 ± 0,59* 2,91 ± 0,47
+   (mm)                                                                        • Appareil de torsion du guide métallique
+DVR = diamètre du vaisseau de référence
+                                                                               • Produit de contraste radiographique
+DS = diamètre de la sténose
+                                                                               • Tubulure d’admission (pour la surveillance de la pression et
+DLM = diamètre luminal minimal                                                    l’injection du produit de contraste), tubulure supplémentaire
+*p < 0,001 par rapport à avant AngioSculpt                                        supportant la pression
+Un examen par échographie intravasculaire (IVUS) a été réalisé avant        MODE D’EMPLOI
+et après le traitement par cathéter AngioSculpt afin d’évaluer les effets   Avant d’utiliser le cathéter AngioSculpt, vérifier que l’appareil est
+morphologiques de l’appareil sur la plaque ainsi que pour confirmer         complet et en bon état. Ne pas l’utiliser s’il est tordu, plié, endommagé
+qu’il est sans danger. Les résultats de l’IVUS ont montré un rainurage      d’une manière quelconque ou s’il manque des éléments.
+de la plaque et un agrandissement de la lumière après le traitement par
+                                                                               1.     Administrer aux patients un pré-traitement médicamenteux
+cathéter AngioSculpt. L’examen n’a montré aucune perforation ni autre
+                                                                                      composé d’acide acétylsalicylique, de clopidogrel/ticlopidine,
+indication de lésion non prévue du vaisseau. Les résultats de l’IVUS sont
+                                                                                      d’anti-coagulants intraveineux, de vasodilatateurs coronariens
+synthétisés dans le tableau 3.
+                                                                                      et d’inhibiteurs de la GP2b/3a conformément au protocole
+                       Tableau 3 : résultats de l’IVUS                                de l’établissement relatif aux interventions coronariennes
+                                            AS Avant le                               percutanées avec pose de stent.
+                 Avant AS     AS seul                     Après le stent       2.     Avant déploiement de l’appareil, réaliser un examen par
+                                               stent
+                  (n=30)      (n=11)                         (n=19)                   coronarographie pour obtenir les meilleures vues de la lésion
+                                              (n=19)
+   SLM                                                                                cible.
+             2,01 ± 0,71    4,55 ± 2,2*    2,65 ± 0,9*    6,28 ± 2,02          3.     Placer le guide métallique coronaire 0,014 po. (0,36 mm) de
+  (mm2)
+SLM = surface luminale minimale                                                       votre choix de l’autre côté de la lésion cible.
+*p < 0,001 par rapport à avant AngioSculpt                                     4.     En utilisant une technique stérile, sortir de son emballage
+                                                                                      stérile un appareil AngioSculpt de taille appropriée
+Le cathéter AngioSculpt a été déployé avec succès sur l’ensemble des
+                                                                                      (≤ 1 x le diamètre du vaisseau de référence (DVR)) et le placer
+46 lésions. Pour quatre lésions, la sténose était si importante qu’elle
+                                                                                      sur le champ stérile.
+
+PN-3072-0001 Rev. C 03/20                                                                                                                  Page 9 of 33
+   5.     Vérifier que tous les composants de l’appareil sont intacts.                mise au rebut de produits présentant un risque biologique.
+   6.     Rincer la lumière du guide métallique avec du sérum                         En cas de dysfonctionnement de l’appareil ou d’anomalie
+          physiologique en insérant avec précaution l’extrémité distale               constatée lors de la vérification, rincer la lumière du guide
+          du cathéter dans l’embout distal d’une seringue de 10 cc                    métallique et nettoyer la surface externe de l’appareil avec
+                                                                                      du sérum physiologique, conserver l’appareil dans un sac
+          puis en injectant le sérum physiologique jusqu’à voir des
+                                                                                      plastique hermétiquement fermé et contacter Spectranetics®
+          gouttelettes sortir de la lumière proximale du guide.
+                                                                                      ou son représentant européen autorisé pour obtenir les
+   7.     Raccorder une seringue de 20 cc contenant 2-3 cc de produit                 consignes complémentaires.
+          de contraste radio-opaque au port de gonflage du cathéter à           17.   Réaliser toutes les autres interventions cliniquement indiquées,
+          ballonnet.                                                                  le cas échéant (par exemple la pose d’un stent).
+   8.     Aspirer/éliminer l’air situé dans la lumière du ballonnet avec        18.   Retirer le guide métallique coronarien et prendre des clichés
+          la seringue de 20 cc contenant 2-3 cc de produit de contraste               coronarographiques (même(s) vue(s) que pour l’étape 2) de la
+          puis maintenir sous vide pendant 30 secondes.                               lésion cible au terme de toutes les interventions.
+   9.     Relâcher doucement le vide de la seringue de 20 cc puis la            19.   Retirer tous les cathéters et refermer le site d’accès artériel
+          détacher du port de gonflage du ballonnet.                                  conformément au protocole de l’établissement.
+   10.    Fixer un appareil de gonflage (indeflator) contenant un               20.   Poursuivre l’administration d’acide acétylsalicylique, de clopidogrel/
+          mélange à 50:50 de produit de contraste radiographique et                   ticlopidine, et d’inhibiteurs de la GP2b/3a conformément au
+          de sérum physiologique au port de gonflage du ballonnet en                  protocole de l’établissement relatif aux interventions coronariennes
+          créant un ménisque. Éviter d’introduire des bulles d’air dans la            percutanées avec pose de stent.
+          lumière du cathéter à ballonnet.
+   11.    Aspirer à l’aide de l’appareil de gonflage et bloquer en position   DEUTSCH
+          vide.                                                               HINWEIS: Diese Anweisung gilt für alle Ballondurchmesser und
+          REMARQUE : Avant insertion du ballonnet dans le corps,              -längen.
+          tout l’air doit avoir été expulsé et remplacé par le produit de     STERIL: Mit Ethylenoxidgas sterilisiert. Bei geöffneter oder
+          contraste (répéter les étapes 9 à 11 si nécessaire).                beschädigter Packung nicht verwenden.
+   12.    Faire progresser l’appareil AngioSculpt sur le guide                INHALT: Ein (1) AngioSculpt®-Ballonkatheter mit Anritzelement.
+          métallique coronarien jusqu’à la lésion cible (on peut pré-
+          dilater à l’aide d’un cathéter à ballonnet d’un diamètre            LAGERUNG: Trocken, dunkel und kühl lagern.
+          de 2-2,5 mm si ceci est nécessaire pour franchir la lésion).        BESCHREIBUNG DES PRODUKTS
+          REMARQUE : Pendant le passage du cathéter sur le guide              Der AngioSculpt-Katheter besteht aus einem standardmäßigen
+          métallique, le cathéter doit être soutenu et le guide métallique    Ballonkatheter mit einer Nitinolkomponente. Das Design des proximalen
+          ne doit pas entrer en contact avec le ballonnet.                    Katheterendes entspricht dem eines normalen PTCA-Katheters mit
+   13.    Gonfler le ballonnet AngioSculpt conformément au protocole          einem an ein Ansatzstück aus Kunststoff angeschlossenen Hypotube-
+          recommandé décrit ci-dessous:                                       Schaft. Der Kontaktbereich von Ansatzstück und Hypotube wird durch
+          • 2 atmosphères                                                     eine relativ weiche Zugentlastung stabilisiert, um ein Abknicken zu
+                                                                              vermeiden. Das Ansatzstück dient zum Befüllen des Ballons und
+          • augmenter la pression de gonflage de 2 atmosphères toutes
+                                                                              kann an ein standardmäßiges Befüllungsgerät angeschlossen werden.
+             les 10 à 15 secondes jusqu’au gonflage complet de l’appareil
+                                                                              Der distale Katheterbereich besteht aus einem konventionellen
+          • le médecin peut choisir de gonfler jusqu’à une pression           Nylonballon und einem lasergeschnittenen Anritzelement aus Nitinol
+             maximale inférieure ou égale à la RBP (en gardant à l’esprit     mit drei oder mehr um den Ballon gewickelten Stützspiralen. Dadurch
+             le diamètre estimé de l’appareil gonflé pour une pression        konzentriert sich der Aufweitungsdruck stärker auf den Bereich der
+             donnée)                                                          Stützen, so dass das Rutschverhalten des Ballons minimiert und die
+   14.    Prendre des clichés coronarographiques (même(s) vue(s) que          luminale Aufweitung stenotischer Koronararterien erleichtert wird. Der
+          pour l’étape 2) de la lésion cible au terme du traitement par       Katheter ist mit standardmäßigen Koronarführungsdrähten (0,014 Zoll)
+          l’appareil (et avant la pose du stent complémentaire).              und Führungskathetern von 6 Charr kompatibel. Die Katheterlänge
+   15.    Pour retirer l’AngioSculpt, appliquer une dépression à l’appareil   beträgt ca. 137 cm; das Sortiment umfasst Durchmesser von
+          de gonflage et vérifier que le ballonnet est totalement             2,0 – 3,5 mm in Stufen von je 0,5 mm. Die Nutzlänge des Anritzelements
+          dégonflé. Le cathéter ne doit être rétracté qu’en saisissant la     liegt zwischen 10 und 20 mm. Der Katheter wird steril geliefert und ist
+          tige de l’hypotube.                                                 zur einmaligen Verwendung bestimmt. Der AngioSculpt-Katheter ist
+   16.    Vérifier tous les composants pour s’assurer que l’appareil est      hier in Abbildung 1 zu sehen.
+          intact. Suivre les procédures de l’établissement relatives à la
+
+Page 10 of 33                                                                                                                        PN-3072-0001 Rev. C 03/20
+                     Abbildung 1: AngioSculpt-Katheter:                  Bypass-Notoperation vor Ort (bzw. in einer nahegelegenen Einrichtung)
+                                                                         rasch durchführbar ist, falls eine potenziell gesundheits- oder
+                                                                         lebensbedrohliche Komplikation eintreten sollte.
+                                                                         Nur das empfohlene Ballonbefüllungsmedium verwenden. Zum Befüllen
+                                                                         des Ballons niemals Luft oder gasförmige Medien verwenden.
+                                                                         Beim Einsatz des AngioSculpt-Katheters in einem frisch platzierten
+                                                                         Stent aus blankem Metall oder mit Wirkstoffabgabe vorsichtig
+                                                                         vorgehen. Der AngioSculpt-Katheter wurde im Rahmen klinischer
+                                                                         Studien keiner Prüfung auf die Post-Dilatation von Stents oder auf
+INDIKATIONEN                                                             sein Verhalten in Läsionen distal frisch platzierter Stents unterzogen.
+Der AngioSculpt-Ballonkatheter mit Anritzelement ist zur Behandlung      Vergleichsprüfungen ergaben kein zusätzliches Risiko beim
+hämodynamisch signifikanter Koronararterienstenosen – einschließlich     Einführen bzw. Zurückziehen des AngioSculpt-Katheters durch Stents
+stentinterner Restenosen – indiziert.                                    hindurch (keine Stent-Streben-Behinderung, keine Hemmung oder
+                                                                         Beschädigung des AngioSculpt-Katheters).
+KONTRAINDIKATIONEN
+                                                                         Den Katheter vor dem auf der Packung angegebenen Verfallsdatum
+In folgenden Fällen ist der AngioSculpt-Katheter nicht zu verwenden:
+                                                                         verwenden.
+   • bei Koronararterienläsionen, die für eine perkutane
+                                                                         VORSICHTSHINWEISE
+      Revaskularisationsbehandlung nicht geeignet sind
+                                                                         Vor dem Angioplastie-Verfahren ist der Katheter im Hinblick auf
+   • bei Koronararterienspasmen ohne Vorliegen einer signifikanten
+                                                                         Funktionalität und Produktintegrität zu untersuchen; außerdem
+      Stenose.
+                                                                         ist sicherzustellen, dass Größe und Länge des Katheters für das
+WARNHINWEISE                                                             vorgesehene spezifische Verfahren geeignet sind.
+Dieses Produkt ist lediglich zur einmaligen Verwendung (1 Mal)           Nur Ärzte, die in der Durchführung von perkutanen transluminalen
+bestimmt. Nicht erneut sterilisieren und/oder wieder verwenden, da       Koronarangioplastie-Verfahren geschult sind, dürfen dieses
+dies möglicherweise eine Beeinträchtigung der Produktleistung und        Kathetersystem verwenden.
+ein erhöhtes Risiko einer unangemessenen erneuten Sterilisation und
+                                                                         Während und nach dem Verfahren muss der Patient eine
+Kreuzkontamination zur Folge haben kann.
+                                                                         angemessene, der Krankenhauspraxis bzw. Koronar-Stent-Verfahren
+Um das Risiko einer Gefäßschädigung zu reduzieren, sollte der            entsprechende        Antithrombozyten-,      Antikoagulantien-     und
+Durchmesser des befüllten Ballons ungefähr dem Durchmesser des           Koronarvasodilatatorentherapie erhalten.
+Gefäßes unmittelbar proximal und distal der Stenose entsprechen.
+                                                                         Den Katheterschaft maximal um 180 Grad drehen, wenn die Spitze
+PTCA-Verfahren bei Patienten, die keine geeigneten Kandidaten            nicht frei beweglich ist.
+für einen chirurgischen Koronararterien-Bypass darstellen, sind
+                                                                         Das Luer-Ansatzstück des Katheters während des Einsatzes maximal
+sorgsam zu erwägen, u.a. im Hinblick auf eine evtl. hämodynamische
+                                                                         um fünf (5) Umdrehungen drehen.
+Unterstützung während des PTCA-Verfahrens, da die Behandlung dieser
+Patientenpopulation mit speziellen Risiken verbunden ist.                Den AngioSculpt-Katheter nicht über den flexiblen Abschnitt des
+                                                                         Führungsdrahts vorschieben bzw. zurückziehen.
+Innerhalb des Gefäßsystems ist der Katheter unter qualitativ
+hochwertiger Durchleuchtungskontrolle zu manipulieren.           Den     Den Katheter zum Manipulieren, einschließlich Vorschieben und
+Katheter ausschließlich bei vollständig vakuumentleertem Ballon          Zurückziehen, nur am Hypotube-Schaft fassen.
+vorschieben bzw. zurückziehen. Sollte während des Manipulierens          Ist beim Manipulieren des Katheters ungewöhnlicher Widerstand
+Widerstand spürbar sein, vor dem weiteren Vorgehen die Ursache des       spürbar oder ist zu vermuten, dass der Führungsdraht abgeknickt ist,
+Widerstands ermitteln.                                                   das gesamte Kathetersystem (AngioSculpt-Katheter und steuerbaren
+Der Ballondruck darf den Nennberstdruck (RBP) nicht überschreiten.       Führungsdraht) gemeinsam als Einheit entfernen.
+[Der Nennberstdruck stützt sich auf die Ergebnisse von In-vitro-Tests.   Zeigt die Durchleuchtungskontrolle, dass der AngioSculpt-Katheter
+Mindestens 99,9 % der Ballons (mit einem Vertrauensbereich von 95        über das Ende des Führungsdrahts hinaus vorgeschoben wurde, den
+%) bersten bei bzw. unter ihrem Nennberstdruck nicht. Um eine zu         Katheter zurückziehen und den Draht vor dem erneuten Vorschieben
+starke Druckbelastung zu vermeiden, empfiehlt sich der Einsatz eines     neu laden.
+Drucküberwachungsgeräts.]                                                KOMPLIKATIONEN
+PTCA-Verfahren mit dem AngioSculpt-Produkt dürfen nur in                 Zu den möglichen Komplikationen zählen u.a. die hier in Tabelle 1
+Krankenhäusern durchgeführt werden, in denen eine Koronararterien-       angeführten:
+
+PN-3072-0001 Rev. C 03/20                                                                                                            Page 11 of 33
+                    Tabelle 1: Mögliche Komplikationen                          • Zielläsionslänge von ≤ 30 mm
+                                                                                • Zielläsion-Schweregrad von ≥ 60 % Stenosedurchmesser.
+     •   Exitus
+     •   Herzinfarkt (akuter Myokardinfarkt)                                 Patienten, welche die obigen Kriterien erfüllten, wurden bei Vorliegen
+     •   Totalverschluss der behandelten Koronararterie                      folgender Gründe ausgeschlossen:
+     •   Koronararteriendissektion, -perforation, -ruptur oder -schädigung      • Zielläsion in linker Koronarhauptarterie
+     •   Perikardtamponade                                                      • Zielläsion in degeneriertem V. saphena-Graft
+     •   ausbleibender / langsamer Fluss im behandelten Gefäß                   • Zielläsion in einer starken Windung von >60 Grad
+     •   Koronararterien-Bypass-Notoperation (CABG)
+                                                                                • Zielläsion distal eines frisch platzierten Stents
+     •   notfallmäßige perkutane Koronarintervention
+     •   zerebrovaskulärer Vorfall/Schlaganfall                                 • Zielläsion mit erkennbarer größerer Dissektion vor dem Verlegen
+     •   Pseudoaneurysma                                                           des AngioSculpt-Katheters
+     •   Restenose des aufgeweiteten Gefäßes                                    • unter Angiographie sichtbarer Thrombus an der Zielläsion.
+     •   instabile Angina (Brustschmerz)                                     Zielsetzungen
+     •   Thromboembolie oder im Körper verbliebene                           Die primäre sicherheitsspezifische Zielsetzung bestand im
+         Produktkomponenten                                                  Nachweis der Häufigkeit und des Schweregrads produktbezogener
+     •   Herzrhythmusstörungen (Arrhythmie, einschließlich                   Komplikationen (schwerwiegende klinische Komplikationen [MACE]:
+         lebensbedrohlichem Vorhofflimmern)                                  Exitus, Myokardinfarkt mit/ohne Q-Zacke oder Revaskularisation der
+     •   extrem niedriger bzw. hoher Blutdruck (Hypotonie / Hypertonie)      ursprünglichen Zielläsion).
+     •   Koronararterienspasmus                                              Die primäre leistungsspezifische Zielsetzung bestand im Nachweis
+     •   Blutung oder Hämatom                                                einer erfolgreichen perkutanen Revaskularisation (definiert als
+     •   Notwendigkeit einer Bluttransfusion                                 Reduzierung des Zielläsion-Stenosedurchmessers auf ≤ 50 % nach
+     •   chirurgischer Verschluss der Gefäßzugangsstelle                     Abschluss aller Interventionen und Ausbleiben von schwerwiegenden
+     •   Entstehung eines Blutflussweges zwischen Leistenarterie und         klinischen Komplikationen während des Krankenhausaufenthalts).
+         -vene (arteriovenöse Fistel)
+                                                                             Methodik
+     •   Wirkstoffreaktionen, allergische Reaktionen auf
+         Röntgenfarbstoffe (Kontrastmittel)                                  Die Patienten wurden in üblicher Weise und gemäß Krankenhauspraxis
+     •   Infektion                                                           für perkutane Koronarinterventionen behandelt, u.a. mit
+                                                                             Antikoagulantien (z.B. Heparin) und Antithrombozytenmitteln (ASA,
+                                                                             Clopidogrel). Außer der Anwendung des Prüfprodukts wurde bei diesen
+ZUSAMMENFASSUNG DER KLINISCHEN STUDIEN                                       Studienpatienten kein Versuch unternommen, die standardmäßige
+Studienaufbau                                                                Praxis zu modifizieren.
+Es wurde eine multizentrische, nicht randomisierte, prospektive              Vor der Verlegung des Produkts wurde eine Koronarangiographie mit
+klinische Studie mit einem Therapiearm durchgeführt, um die                  den am besten geeigneten Ansichten für die Darstellung der Zielläsion
+Sicherheit und Wirksamkeit des AngioSculpt-Katheters bei einem               durchgeführt. Wo technisch möglich, wurde vor der Verlegung des
+breiten Spektrum von Koronararterienläsionen in natürlichen                  Produkts an einem der beiden klinischen Standorte eine intravaskuläre
+Gefäßen und nach stent-interner Restenose zu untersuchen. Bei                Ultraschalluntersuchung (IVUS) der Zielläsion durchgeführt.
+der Studienpopulation handelte es sich um erwachsene Patienten,              Unmittelbar vor und während des Befüllens wurde ein Kineangiogramm
+bei denen eine klinisch indizierte perkutane Koronarintervention             des verlegten Produkts angefertigt. Nach Abschluss jeder Behandlung
+vorgesehen war. Nach einem Informations- und Einwilligungsprozess            mit dem Produkt (und vor zusätzlichen Stent-Implantationen) wurde eine
+unterzogen sich 45 Patienten, welche die Aufnahmekriterien der Studie        Angiographie der Zielläsion in den ursprünglichen Ansichten durchgeführt.
+erfüllten, einer Behandlung mit dem AngioSculpt-Katheter.                    Nach der Behandlung mit dem Prüfprodukt (jedoch vor einer evtl.
+Patientenauswahl                                                             Stentimplantation) wurde eine intravaskuläre Ultraschalluntersuchung der
+Die Patientenauswahl wurde unter Berücksichtigung der folgenden              Zielläsion durchgeführt.
+Haupt-Aufnahmekriterien vorgenommen:                                         Es wurden weitere klinisch indizierte Interventionen (z.B. Stent-
+   • beabsichtigte klinisch indizierte perkutane Koronarintervention         Implantation[en]) vorgenommen, und nach Abschluss aller
+      in natürlichen Koronararterien, einschließlich stent-interner          Interventionen wurde eine Koronarangiographie der Zielläsion in den
+      Restenose                                                              ursprünglichen Ansichten durchgeführt.
+   • Zielläsion-Bezugsgefäßgröße von 2,0 – 4,0 mm Durchmesser                Post-interventionelle Medikamente wurden gemäß den Vorschriften
+
+
+Page 12 of 33                                                                                                                    PN-3072-0001 Rev. C 03/20
+der Krankenhausordnung für perkutane Koronarinterventionen mit              und nicht mit dem AngioSculpt-Katheter in Zusammenhang stand. Ein
+Stents verabreicht. Ein EKG wurde unmittelbar postoperativ sowie 24         zweiter Patient erlitt eine Perforation einer Diagonalverzweigung einer
+Stunden postoperativ bzw. unmittelbar vor der Entlassung (zum jeweils       Koronararterie, die mit einem Myokardinfarkt ohne Q-Zacke während
+früheren Zeitpunkt) aufgenommen. CPK-Werte (und Troponin-I-Werte bei        der Behandlung mit einem konventionellen Angioplastieballon
+überhöhten CPK-Werten) wurden 4 und 12 Stunden nach dem Verfahren           zusammenhing, und zwar an einer Stelle und in einer Arterie, die von der
+sowie 24 Stunden nach dem Verfahren bzw. unmittelbar vor der Entlassung     mit dem AngioSculpt-Katheter behandelten entfernt lag. Dieser Patient
+(zum jeweils früheren Zeitpunkt) erfasst.                                   erforderte keine chirurgische Intervention und erlitt keine weiteren
+Mit dem AngioSculpt-Katheter behandelte Patienten wurden 14 – 28            schwerwiegenden klinischen Komplikationen im Verlauf der Nachsorge.
+Tage nach dem Interventionsverfahren einer Nachsorgeuntersuchung            Der AngioSculpt-Katheter wurde bei allen 46 Läsionen erfolgreich
+unterzogen. Die Untersuchung erfolgte in der Praxis oder in Form            verlegt. Bei allen 46 Läsionen, bei denen Behandlungsversuche
+einer telefonischen Befragung zur Ermittlung des Vitalstatus, eines evtl.   unternommen wurden, wurde das primäre Leistungsendziel der
+Myokardinfarkts oder CAB-Eingriffs/PCI-Verfahrens nach der Entlassung       Reduzierung des Läsionsstenosedurchmessers auf ≤ 50 % nach
+sowie der Anginaklasse. Eine EKG-Beurteilung fand ebenfalls statt.          Abschluss des Interventionsverfahrens mit Erfolg erreicht. Bei
+Ergebnisse                                                                  allen behandelten Läsionen zeigte der AngioSculpt-Katheter bei
+Nach der Erteilung ihrer Einverständniserklärung wurden nacheinander        der Angiographie während des Verlegens eine stabile Lage ohne
+45 Patienten (im Alter von 63 ±10,7 Jahren, zu 69 % männlich), die für      signifikantes Verrutschen. Die Angiographie-Ergebnisse sind in Tabelle
+eine perkutane Koronarintervention überwiesen worden waren und              2 zusammengefasst.
+die Aufnahmenkriterien der Studie erfüllten, einer Behandlung mit                             Tabelle 2: Angiographie-Ergebnisse
+dem AngioSculpt-Katheter unterzogen. Alter und Geschlecht der                                                         AS-Behandlung
+untersuchten Patienten reflektierten die typische Verteilung bei nicht                  Vor der AS-      Nur AS-                      Nach der Stent-
+                                                                                                                       vor der Stent-
+ausgewählten Patienten, die für eine perkutane Koronarintervention                      Behandlung     Behandlung                      Implantation
+                                                                                                                       Implantation
+überwiesen werden.                                                                        (n = 46)       (n = 10)                        (n = 36)
+                                                                                                                          (n = 36)
+Die Patienten wurden nach dem Ermessen des Prüfers mit
+                                                                                BGD       2,87 ± 0,41     N/Z               N/Z            N/Z
+standardmäßigen verfahrensbegleitenden Medikamenten behandelt,
+u.a. mit Aspirin, Clopidogrel, i.v.-Heparin und Glycoprotein-2b/3a-            Länge
+                                                                                         15,67 ± 6,14     N/Z            N/Z          N/Z
+Hemmern.                                                                       (mm)
+Alle Patienten waren nach der Behandlung mit dem AngioSculpt-                    SD
+                                                                                        75,27 ± 12,91 17,46 ± 8,15* 38,68 ± 17,19* 3,81 ± 3,75
+Katheter zur Nachsorgeuntersuchung nach 14 – 28 Tagen verfügbar                 (%)
+und unterzogen sich dieser Untersuchung.                                        MLD
+                                                                                          0,75 ± 0,35 2,49 ± 0,43* 1,83 ± 0,59* 2,91 ± 0,47
+Der AngioSculpt-Katheter wurde bei 45 Patienten und für insgesamt              (mm)
+46 Läsionen eingesetzt. Von diesen 46 Läsionen befanden sich                BGD = Bezugsgefäßdurchmesser
+32 in natürlichen Gefäßen und 14 in stent-internen Restenosen               SD = Stenosedurchmesser
+(ISR). Der AngioSculpt-Katheter wurde bei 10 Läsionen (9 ISR und            MLD = Mindestlumendurchmesser
+1 natürliches Gefäß) als alleinige Behandlung eingesetzt und bei den        *p<0,001 im Vergleich zum Zustand vor der AngioSculpt-Behandlung
+restlichen 36 Läsionen in Verbindung mit Stent-Implantationen. Bei
+diesen Fällen wurde die Größe des AngioSculpt-Katheters im Verhältnis       Vor und nach der Behandlung mit dem AngioSculpt-Katheter wurden
+zum Bezugsgefäßdurchmesser absichtlich zu klein bemessen, um die            intravaskuläre Ultraschalluntersuchungen (IVUS) durchgeführt,
+Stent-Implantation (d.h. eine „Vor-Dilatation“) zu ermöglichen.             um die morphologische Wirkung des Produkts auf Plaque zu
+                                                                            ermitteln und die Produktsicherheit weiter zu bestätigen. Die IVUS-
+Es kam zu keinen produktbezogenen schwerwiegenden klinischen                Ergebnisse zeigten Plaque-Anritzung und Lumenaufweitung nach
+Komplikationen (MACE: Exitus, Myokardinfarkt mit oder ohne                  der Behandlung mit dem AngioSculpt-Katheter. Die intravaskuläre
+Q-Zacke, auf Grund von Ischämie erforderliche Revaskularisation             Ultraschalluntersuchung ergab keine Perforationen oder sonstigen
+der Zielläsion) im Verlauf des Krankenhausaufenthalts oder                  Anzeichen unerwarteter Gefäßschädigungen. Die IVUS-Ergebnisse
+des Nachsorgezeitraums (24,8 ± 8,5 Tage). Es kam zu keinen                  sind in Tabelle 3 zusammengefasst.
+produktbezogenen Koronararterienperforationen.           Es gab kein
+Produktversagen.
+Ein Patient wurde während des Nachsorgezeitraums erneut in das
+Krankenhaus eingewiesen, und zwar auf Grund einer supraventrikulären
+Tachykardie, die als bereits bestehender Zustand dokumentiert war
+
+PN-3072-0001 Rev. C 03/20                                                                                                                 Page 13 of 33
+                        Tabelle 3: IVUS-Ergebnisse                                 verabreichten Antikoagulantien, Koronar-Vasodilatatoren und
+                                                                                   GP2b/3a-Blockern vornehmen.
+                                           AS-Behandlung
+                Vor der AS-     Nur AS-                    Nach der Stent-   2.    Vor der Verlegung des Katheters eine Koronarangiographie
+                                            vor der Stent-
+                Behandlung    Behandlung                    Implantation           mit der am besten geeigneten Ansicht für die Darstellung der
+                                            Implantation
+                  (n = 30)      (n = 11)                      (n = 19)             Zielläsion durchführen.
+                                               (n = 19)
+                                                                             3.    Einen Koronarführungsdraht (0,014 Zoll – ca. 0,35 mm) eigener
+    MLA
+               2,01 ± 0,71    4,55 ± 2,2*    2,65 ± 0,9*     6,28 ± 2,02           Wahl hinter der Zielläsion positionieren.
+   (mm2)
+MLA = Mindestlumenfläche                                                     4.    Unter Anwendung steriler Kautelen einen AngioSculpt-
+                                                                                   Katheter geeigneter Größe ( ≤ 1,0 x Bezugsgefäßdurchmesser
+*p<0,001 im Vergleich zum Zustand vor der AngioSculpt-Behandlung
+                                                                                   [BGD]) aus der sterilen Packung nehmen und im Sterilfeld
+Der AngioSculpt-Katheter wurde in allen 46 Läsionen erfolgreich                    ablegen.
+verlegt. Bei vier Läsionen war die Stenose so stark, dass sie zunächst
+                                                                             5.    Das Produkt überprüfen, um sicherzustellen, dass alle
+weder mit dem IVUS-Katheter noch mit dem AngioSculpt-Katheter
+                                                                                   Komponenten intakt sind.
+passierbar war und daher mit einem kleinen Ballonkatheter (1,5/2,0
+mm) prädilatiert werden musste, wonach der AngioSculpt-Katheter              6.    Das Führungsdrahtlumen mit Kochsalzlösung spülen; dazu
+erfolgreich verlegt werden konnte.                                                 die distale Katheterspitze behutsam in das distale Ende einer
+                                                                                   10-mL-Spritze einführen und die Kochsalzlösung injizieren,
+Es gab kein Produktversagen, keine im Körper verbliebene
+                                                                                   bis Tröpfchen aus dem proximalen Führungsdrahtlumen
+Produktkomponenten und keine Embolien. Jedes Produkt wurde nach
+                                                                                   austreten.
+dem Abschluss des Verfahrens sorgfältig inspiziert. Kein Produkt wies
+Anzeichen von Beschädigungen oder Verschleiß auf.                            7.    Eine mit 2 – 3 mL röntgenpositivem Kontrastmittel gefüllte
+                                                                                   20-mL-Spritze an den Befüllungsanschluss des Katheterballons
+ERFORDERLICHE ARTIKEL FÜR DEN EINSATZ DES ANGIOSCULPT-
+                                                                                   anschließen.
+KATHETERS:
+                                                                             8.    Mit Hilfe der mit 2 – 3 mL röntgenpositivem Kontrastmittel
+WARNHINWEIS: Nur Einmal-Artikel verwenden. Nicht erneut
+                                                                                   gefüllten 20-mL-Spritze Luft aus dem Katheterballonlumen
+sterilisieren oder wieder verwenden.
+                                                                                   aspirieren/entfernen; 30 Sekunden lang ein Vakuum
+   • Femoral-, Brachial- oder radialer Führungskatheter ( ≥ 6 Charr)               beibehalten.
+   • Hämostaseventil                                                         9.    Das Vakuum in der 20-mL-Spritze behutsam belüften und die
+   • Kontrastmittel, im Verhältnis 1:1 mit physiologischer                         Spritze vom Befüllungsanschluss des Ballons abnehmen.
+       Kochsalzlösung verdünnt                                               10.   Ein mit einer Mischung aus röntgenpositivem Kontrastmittel und
+   • sterile heparinisierte physiologische Kochsalzlösung                          physiologischer Kochsalzlösung (1:1) gefülltes Befüllungsgerät
+   • 10-mL- und 20-mL-Spritzen für das Spülen und Präparieren des                  (Indeflator) durch Meniskusbildung an den Befüllungsanschluss
+       Ballons                                                                     des Ballons anschließen. Dabei das Einbringen von Luftblasen in
+   • Befüllungsgerät (Indeflator)                                                  das Katheterballonlumen vermeiden.
+   • 0,014-Zoll-Koronarführungsdraht                                         11.   Durch Aspirieren mit dem Befüllungsgerät ein Vakuum
+                                                                                   erzeugen.
+   • Führungsdrahteinführbesteck
+                                                                                   HINWEIS: Die gesamte Luft muss aus dem Ballon entfernt
+   • Führungsdraht-Torquer
+                                                                                   und durch Kontrastmittel ersetzt worden sein, bevor der
+   • Röntgenkontrastmittel                                                         Katheter in den Körper eingeführt wird (die Schritte 9 – 11
+   • Verteiler (für die Drucküberwachung und Kontrastmittel-                       ggf. wiederholen).
+       injektion), Druckleitungsverlängerung.                                12.   Das AngioSculpt-Produkt über den Koronarführungsdraht zur
+GEBRAUCHSANWEISUNG                                                                 Zielläsion vorschieben. (Gegebenenfalls mit einem Ballonkatheter
+Den AngioSculpt-Katheter vor seinem Einsatz sorgfältig im Hinblick auf             eines Duchmessers von 2,0 – 2,5 mm eine Prädilatation vornehmen,
+Beschädigungen und Produktintegrität untersuchen. Den Katheter im                  um die Läsion passierbar zu machen.)
+Fall von Biegungen, Knicken, fehlenden Komponenten oder sonstigen                  HINWEIS: Beim Laden des Katheters auf den Führungsdraht
+Beschädigungen nicht verwenden.                                                    muss der Katheter stabilisiert werden, so dass der
+   1.     Gemäß den Vorschriften der Krankenhausordnung für perkutane              Führungsdraht nicht mit dem Ballon in Kontakt kommt.
+          Koronarinterventionen mit Stentimplantation eine Prämedikation     13.   Den AngioSculpt-Ballon gemäß folgender Protokoll-
+          des Patienten mit ASA, Clopidogrel/Ticlopidin, intravenös                empfehlung befüllen:
+
+Page 14 of 33                                                                                                                 PN-3072-0001 Rev. C 03/20
+          • 2 Atmosphären                                                    Il catetere AngioSculpt è composto da un catetere a palloncino
+          • den Befüllungsdruck alle 10 – 15 Sekunden um                     standard dotato di un componente in nitinolo. L’estremità prossimale
+             2 Atmosphären steigern, bis das Produkt vollständig befüllt     del catetere è quella di un comune catetere per PTCA ed è dotata di un
+             ist                                                             ipotubo collegato a un raccordo centrale in plastica. L’area di contatto
+          • evtl. nach Ermessen des Arztes mit einem Maximaldruck            tra il raccordo centrale e l’ipotubo è supportata da un attenuatore
+             von ≤ RBP befüllen (wobei der geschätzte Durchmesser            di tensione relativamente morbido che ne evita l’attorcigliamento. Il
+             des befüllten Produkts bei einem bestimmten Druck zu            raccordo centrale viene usato per gonfiare il palloncino e può essere
+             bedenken ist).                                                  collegato a un dispositivo di gonfiamento standard. La sezione distale
+                                                                             del catetere è composta da un tradizionale palloncino di nylon e da un
+   14.    Nach Abschluss der Behandlung mit dem Produkt (und vor einer
+                                                                             elemento incisore in nitinolo intagliato al laser con tre o più rinforzi a
+          evtl. zusätzlichen Stentimplantation) ein Koronarangiogramm
+                                                                             spirale avvolti attorno al palloncino. Tali rinforzi creano concentrazioni
+          der Zielläsion in der/den gleichen Ansicht(en) anfertigen wie in
+                                                                             focali di forza dilatante, riducendo al minimo lo slittamento del
+          Schritt 2.
+                                                                             palloncino e coadiuvando l’espansione del lume delle arterie coronarie
+   15.    Zum Entfernen des AngioSculpt-Katheters das Befüllungsgerät        stenotiche. Il catetere è compatibile con guide coronariche standard
+          mit Unterdruck beaufschlagen und bestätigen, dass der Ballon       da 0,014” e con cateteri guida da 6 F. Il catetere è lungo 137 cm circa
+          völlig entleert ist. Der Katheter darf zum Herausziehen nur am     ed è disponibile in diametri compresi tra 2,0 e 3,5 mm, in incrementi
+          Hypotube-Schaft gefasst werden.                                    di 0,5 mm. La lunghezza utile dell’elemento incisore va da 10 a
+   16.    Alle Komponenten inspizieren, um sicherzustellen, dass             20 mm. Il catetere viene fornito sterile ed è esclusivamente monouso. La
+          das Produkt intakt ist. Das Produkt unter Beachtung                seguente Figura 1 illustra il catetere AngioSculpt.
+          der Krankenhausordnung zur Entsorgung von Biomüll                                       Figura 1 - Catetere AngioSculpt
+          entsorgen. Sollte es zu einem Produktversagen kommen
+          oder sollten bei der Inspektion Defekte bemerkbar sein, das
+          Führungsdrahtlumen spülen und das Äußere des Produkts mit
+          Kochsalzlösung reinigen, das Produkt in einem verschlossenen
+          Kunststoffbeutel verwahren und von Spectranetics® bzw.
+          von der autorisierten EU-Vertretung weitere Anweisungen
+          einholen.
+   17.    Eventuelle weitere Interventionen gemäß klinischer Indikation
+          durchführen (z.B. Stent-Implantation[en]).
+                                                                             INDICAZIONI
+   18.    Nach Abschluss aller Interventionen den Koronarführungsdraht
+                                                                             Il catetere incisore a palloncino AngioSculpt è indicato per il
+          entfernen und eine Koronarangiographie der Zielläsion mit
+                                                                             trattamento di stenosi emodinamicamente significative a carico delle
+          den gleichen Ansichten wie in Schritt 2 durchführen.
+                                                                             arterie coronarie, inclusa la stenosi recidiva all’interno di stent.
+   19.    Alle Katheter entfernen und die arterielle Zugangsstelle gemäß
+                                                                             CONTROINDICAZIONI
+          Krankenhausordnung versorgen.
+                                                                             Il catetere AngioSculpt non deve essere usato in presenza di:
+   20.    Die Behandlung mit ASA, Clopidogrel/Ticlopidin und GP2b/3a-
+          Blockern gemäß den Vorschriften der Krankenhausordnung                 • lesioni delle arterie coronarie non idonee al trattamento mediante
+          für perkutane Koronarinterventionen mit Stent-Implantation                rivascolarizzazione percutanea
+          weiterführen.                                                          • spasmo dell’arteria coronaria in assenza di stenosi significativa
+                                                                             AVVERTENZE
+ITALIANO                                                                     Questo dispositivo è esclusivamente monouso. Per evitare di
+NOTA - Le presenti istruzioni sono valide per i palloncini di tutti          compromettere le prestazioni del dispositivo e di aumentare il rischio
+i vari diametri e varie lunghezze.                                           di sterilizzazione inadeguata e di contaminazione crociata, non
+                                                                             risterilizzarlo né riutilizzarlo.
+STERILE - Sterilizzato mediante ossido di etilene. Non utilizzare se la
+confezione è aperta o danneggiata.                                           Per ridurre la possibilità di danni al vaso, il diametro del palloncino
+                                                                             gonfio deve avvicinarsi al diametro del vaso in posizione appena
+CONTENUTO - Un (1) catetere incisore a palloncino AngioSculpt®.
+                                                                             prossimale e distale rispetto alla stenosi.
+CONSERVAZIONE - Conservare in luogo fresco e asciutto, al riparo
+                                                                             È necessario prendere cautamente in considerazione l’esecuzione della
+dalla luce.
+                                                                             PTCA (angiopalstica coronarica transluminale percutanea) nei pazienti
+DESCRIZIONE DEL DISPOSITIVO
+
+PN-3072-0001 Rev. C 03/20                                                                                                                   Page 15 of 33
+che non sono candidati idonei per gli interventi chirurgici di bypass        Non fare ruotare il corpo del catetere di più di 180 gradi quando la
+coronarico; ciò può includere anche la necessità del possibile supporto      punta è vincolata.
+emodinamico durante la PTCA, poiché il trattamento di tale popolazione       Non fare ruotare il raccordo Luer del catetere di più di cinque (5) giri
+di pazienti è particolarmente rischioso.                                     durante l’uso.
+Quando il catetere si trova all’interno del sistema vascolare, esso          Non fare avanzare o ritirare il catetere AngioSculpt sulla sezione floscia
+va manipolato sotto osservazione fluoroscopica ad alta precisione.           della guida.
+Non fare avanzare o ritirare il catetere a meno che il palloncino non        La manipolazione del catetere, inclusi l’avanzamento e il ritiro, va
+sia completamente sgonfio e con pressione negativa. Se si riscontra          eseguita afferrando il corpo dell’ipotubo.
+resistenza durante la manipolazione, determinarne la causa prima di
+                                                                             Se si riscontra resistenza anomala durante la manipolazione del
+procedere.
+                                                                             catetere o se si sospetta che la guida si sia attorcigliata, rimuovere
+La pressione del palloncino non deve eccedere la pressione nominale di       con cautela l’intero sistema (catetere AngioSculpt e guida orientabile)
+scoppio. [La pressione nominale di scoppio si basa sui risultati di prove    come singola unità.
+condotte in vitro. Almeno il 99,9% dei palloncini (con un margine di
+                                                                             Se l’osservazione fluoroscopica indica che il catetere AngioSculpt è
+sicurezza del 95%) non scoppia a valori di pressione pari o inferiori alla
+                                                                             stato avanzato oltre l’estremità della guida, ritirare il catetere e ricaricare
+pressione nominale di scoppio indicata. Per evitare la pressurizzazione
+                                                                             la guida prima di farlo avanzare nuovamente.
+eccessiva del palloncino, si consiglia l’uso di un dispositivo atto al
+monitoraggio della pressione.]
+La procedura PTCA con il dispositivo AngioSculpt va eseguita
+esclusivamente presso strutture ospedaliere adeguatamente
+equipaggiate per interventi chirurgici di bypass coronarico di
+emergenza (o presso enti in prossimità di tali strutture) per far fronte a
+eventuali complicanze potenzialmente dannose o letali.
+Utilizzare esclusivamente il mezzo di gonfiamento del palloncino
+consigliato. Non usare mai aria né sostanze gassose per il gonfiamento
+del palloncino.
+Procedere con cautela durante l’uso del catetere AngioSculpt
+all’interno di uno stent metallico non rivestito o a eluizione di farmaco
+impiantato da poco. Il catetere AngioSculpt non è stato sottoposto a
+studi clinici per il collaudo nella post-dilatazione di stent o in lesioni
+distali rispetto a stent impiantati di recente. Le prove di laboratorio
+hanno dimostrato che non sussiste alcun ulteriore rischio per quanto
+riguarda l’inserimento o il ritiro del catetere AngioSculpt attraverso
+stent (nessuna interferenza con i rinforzi degli stent, nessuna ritenzione
+e nessun danno al catetere AngioSculpt).
+Utilizzare il catetere prima della data di scadenza specificata sulla
+confezione.
+PRECAUZIONI
+Prima dell’angioplastica, il catetere va esaminato per confermarne la
+funzionalità e l’integrità e per accertare l’idoneità della misura scelta
+per la procedura specifica nella quale si intende utilizzarlo.
+Il catetere deve essere usato solo da medici che abbiano ricevuto
+un addestramento adeguato nell’esecuzione delle procedure di
+angiopalstica coronarica transluminale percutanea.
+Durante e dopo la procedura, è necessario sottoporre il paziente
+all’opportuno trattamento antipiastrinico, anticoagulante e
+vasodilatatore delle coronarie in base alle prassi della struttura
+sanitaria di appartenenza, o sottoporlo a procedure di impianto di stent
+coronarici.
+
+Page 16 of 33                                                                                                                        PN-3072-0001 Rev. C 03/20
+COMPLICANZE                                                                           • Pazienti con pianificato intervento coronarico percutaneo
+Tra le possibili complicazioni vi sono quelle elencate nella seguente                    clinicamente indicato nelle arterie native, inclusa la restenosi
+Tabella 1.                                                                               all’interno di stent
+Tabella 1 - Possibili complicanze                                                     • Diametro di riferimento del vaso con la lesione bersaglio
+                                                                                         compreso tra 2,0 e 4,0 mm
+     •   Decesso                                                                      • Lunghezza della lesione bersaglio ≤ 30 mm
+     •   Attacco cardiaco (infarto miocardico acuto)
+                                                                                      • Entità della lesione bersaglio: stenosi ≥ 60% del diametro
+     •   Occlusione totale dell’arteria coronaria trattata
+     •   Dissezione, perforazione, rottura o lesione dell’arteria                 I pazienti che hanno soddisfatto i suddetti criteri sono stati poi esclusi
+         coronaria                                                                per uno qualsiasi dei seguenti motivi.
+     •   Tamponamento pericardico                                                     • Lesione bersaglio nell’arteria coronaria principale sinistra
+     •   Ripristino assente o lento del flusso nel vaso trattato                      • Lesione bersaglio in innesto della vena safena degenerato
+     •   Intervento di bypass coronarico (CABG) di emergenza                          • Lesione bersaglio in corrispondenza di un’angolazione del vaso
+     •   Intervento coronarico percutaneo di emergenza                                   >60 gradi
+     •   Artefatti cardiovascolari/ictus
+                                                                                      • Lesione bersaglio distale rispetto a uno stent recentemente
+     •   Pseudoaneurisma
+                                                                                         impiantato
+     •   Restenosi del vaso dilatato
+     •   Dolore instabile al petto (angina)                                           • Lesione bersaglio con evidenza di grave dissezione prima
+     •   Tromboembolia o ritenzione di componenti del dispositivo                        dell’azionamento del catetere AngioSculpt
+     •   Irregolarità del ritmo cardiaco (aritmia, inclusa la fibrillazione           • Trombo visibile (mediante angiografia) in corrispondenza del sito
+         ventricolare potenzialmente letale)                                             della lesione bersaglio
+     •   Pressione sanguigna eccessivamente bassa (ipotensione) o                 Obiettivi
+         alta (ipertensione)                                                      Il principale obiettivo in materia di sicurezza è stato quello di dimostrare
+     •   Spasmo dell’arteria coronaria                                            l’incidenza e la gravità delle complicanze correlate al dispositivo (eventi
+     •   Emorragia o ematoma                                                      coronarici avversi maggiori: decesso, infarto miocardico con onda Q/
+     •   Necessità di trasfusione ematica                                         senza onda Q, rivascolarizzazione della lesione bersaglio) al follow-up
+     •   Necessità di riparazione chirurgica del sito di accesso                  di un mese dall’intervento.
+         vascolare                                                                Il principale obiettivo in materia di prestazioni è stato quello di dimostrare
+     •   Creazione di un percorso per il flusso sanguigno tra l’arteria e         il successo della rivascolarizzazione percutanea (definita come una
+         la vena inguinale (fistola arterovenosa)                                 riduzione del diametro della stenosi della lesione bersaglio a ≤ 50% dopo
+     •   Reazioni farmacologiche, reazioni allergiche al mezzo di                 il completamento di tutti gli interventi e in assenza di eventi coronarici
+         contrasto radiografico                                                   avversi maggiori in sede nosocomiale).
+     •   Infezione
+                                                                                  Metodi
+                                                                                  I pazienti sono stati trattati con i metodi standard e in base alle prassi
+RIEPILOGO DELLO STUDIO CLINICO                                                    della struttura sanitaria per quanto riguarda gli interventi coronarici
+Struttura dello studio                                                            percutanei, incluso l’uso di anticoagulanti (come l’eparina) e degli
+Uno studio clinico prospettico multicentrico, non randomizzato, a                 agenti antipiastrinici (ASA, clopidogrel). Non si è alterata in alcun
+braccio singolo, è stato condotto per valutare la sicurezza e l’efficacia del     modo la prassi standard per questi pazienti in studio se non per quanto
+catetere AngioSculpt in una vasta gamma di lesioni a carico delle arterie         riguarda l’impiego del dispositivo sperimentale.
+coronarie, sia nei vasi nativi che a seguito di restenosi all’interno di stent.   Prima dell’azionamento del dispositivo si è eseguita l’angiografia
+La popolazione in studio era costituita da pazienti adulti da sottoporre          coronarica nelle viste in grado di mostrare al meglio la lesione
+ad intervento coronarico percutaneo in base alle indicazioni cliniche.            bersaglio. Quando tecnicamente possibile, prima dell’azionamento del
+Dopo avere fornito il consenso informato, 45 pazienti che soddisfavano            dispositivo, presso uno dei due centri clinici, si è eseguita un’ecografia
+i criteri dello studio sono stati sottoposti al trattamento con il catetere       intravascolare della lesione bersaglio.
+AngioSculpt.                                                                      Una cineangiografia del dispositivo azionato è stata eseguita
+Selezione dei pazienti                                                            immediatamente prima e durante il gonfiamento. L’angiografia coronarica
+Per la selezione dei pazienti sono stati utilizzati i seguenti criteri di         della lesione bersaglio a seguito del completamento di ciascun trattamento
+inclusione chiave.                                                                mediante il dispositivo (e prima dell’impianto di ulteriori stent) è stata
+
+
+PN-3072-0001 Rev. C 03/20                                                                                                                           Page 17 of 33
+quindi eseguita nelle viste originali. L’ecografia intravascolare della lesione      si è verificata alcuna perforazione delle arterie coronarie correlata al
+bersaglio è stata eseguita dopo il trattamento mediante il dispositivo (e            dispositivo. Non si è verificato alcun malfunzionamento del dispositivo.
+prima dell’impianto di ulteriori stent).                                             Un paziente è stato nuovamente ricoverato durante il periodo di follow-up a
+Sono stati eseguiti ulteriori interventi clinicamente indicati (come                 causa di un episodio di tachicardia sopraventricolare già nota come condizione
+l’impianto di stent); successivamente, dopo il completamento di tutti                preesistente e indipendente dal catetere AngioSculpt. Un secondo paziente ha
+gli interventi, è stata eseguita l’angiografia coronarica della lesione              accusato la perforazione di un ramo diagonale dell’arteria coronaria associata
+bersaglio nelle viste originali.                                                     a un infarto miocardico senza onda Q durante il trattamento con un palloncino
+Il regime farmacologico post-intervento è stato somministrato in base                per angioplastica tradizionale e in una posizione e un’arteria lontane dal sito
+al protocollo della struttura sanitaria per quanto riguarda gli interventi           trattato con l’AngioSculpt. Questo paziente non ha richiesto l’intervento
+coronarici percutanei con stent. L’ECG è stato registrato immediatamente             chirurgico e non ha accusato alcun altro evento coronarico avverso maggiore
+dopo la procedura e a distanza di 24 ore o alle dimissioni (in base a quale          durante il follow-up.
+delle due situazioni si sia verificata per prima). La creatinfosfochinasi (e la      Il catetere AngioSculpt è stato azionato con successo in tutte le 46
+troponina I nel caso di creatinfosfochinasi eccessivamente elevata), è stata         lesioni. In tutte le 46 lesioni tentate, il primo endpoint delle prestazioni,
+registrata a 4 e 12 ore dopo la procedura e a 24 ore o alle dimissioni (in base a    ovvero la riduzione della stenosi del diametro della lesione a ≤ 50% al
+quale delle due situazioni si sia verificata per prima).                             completamento della procedura, è stato raggiunto con successo. In
+I pazienti trattati con il catetere AngioSculpt sono stati sottoposti a una visita   tutte le lesioni trattate, il catetere AngioSculpt ha dimostrato una
+di follow-up 14-28 giorni dalla procedura: tale visita si è svolta in ambulatorio    posizione stabile durante l’azionamento senza alcun significativo
+o mediante la compilazione per via telefonica di un questionario per la              slittamento evidenziato in angiografia. I risultati angiografici sono
+valutazione dello stato vitale, dell’infarto miocardico post-dimissione,             riassunti nella Tabella 2.
+dell’intervento CABG/intervento coronarico percutaneo post-dimissione,                                      Tabella 2 - Risultati angiografici
+classe di angina e una valutazione ECG.
+                                                                                                                        AS               AS
+Risultati                                                                                            Pre-AS                                           Post-stent
+                                                                                                                      da solo         pre-stent
+Dopo aver fornito il consenso informato, 45 pazienti consecutivi (di                                 (n=46)                                            (n=36)
+                                                                                                                      (n=10)           (n=36)
+età media pari a 63±10,7 anni, per il 69% di sesso maschile) indicati
+                                                                                          DVR      2,87 ± 0,41          N/A              N/A            N/A
+per l’intervento coronarico percutaneo e soddisfacenti i criteri di
+inclusione dello studio sono stati sottoposti al trattamento con il                   Lunghezza
+                                                                                                   15,67 ± 6,14          N/A             N/A            N/A
+catetere AngioSculpt. L’età e il sesso dei pazienti studiati riflettono la               (mm)
+distribuzione tipica dei pazienti non selezionati indicati per l’intervento                DS
+                                                                                                  75,27 ± 12,91 17,46 ± 8,15* 38,68 ± 17,19* 3,81 ± 3,75
+coronarico percutaneo.                                                                    (%)
+I pazienti sono stati trattati con farmaci standard durante la procedura                  DLM
+                                                                                                   0,75 ± 0,35 2,49 ± 0,43* 1,83 ± 0,59* 2,91 ± 0,47
+inclusa aspirina, clopidogrel, eparina endovenosa e inibitori della                      (mm)
+glicoproteina 2b/3a a discrezione del ricercatore.                                   DVR = diametro del vaso di riferimento
+Tutti i pazienti sono stati disponibili e si sono sottoposti a follow-               DS = diametro della stenosi
+up clinico a 14-28 giorni dopo il trattamento mediante catetere                      DLM = diametro luminale minimo
+AngioSculpt.                                                                         *p<0,001 in confronto a pre-AngioSculpt
+Il catetere AngioSculpt è stato utilizzato in 45 pazienti e in un totale             L’ecografia intravascolare è stata eseguita prima e dopo il trattamento
+di 46 lesioni. Di tali 46 lesioni, 32 erano a carico dei vasi nativi e 14            con il catetere AngioSculpt allo scopo di valutare gli effetti morfologici
+erano restenosi all’interno di stent. L’AngioSculpt è stato usato come               del dispositivo sulla placca e di confermare ulteriormente la sicurezza
+trattamento autonomo in 10 lesioni (9 restenosi all’interno di stent e 1 in          del dispositivo. I risultati dell’ecografia intravascolare hanno dimostrato
+vaso nativo) ed è stato usato in combinazione con impianto di stent nelle            l’incisione della placca e l’espansione luminale dopo il trattamento
+rimanenti 36 lesioni. In questi casi, l’AngioSculpt è stato intenzionalmente         con il catetere AngioSculpt. Non si è verificata alcuna perforazione
+selezionato di dimensioni leggermente inferiori rispetto al diametro del             e non vi è stata evidenza di lesioni impreviste dei vasi durante la
+vaso di riferimento allo scopo di facilitare il posizionamento dello stent           valutazione mediante ecografia intravascolare. I risultati dell’ecografia
+(cioè, la “predilatazione”).                                                         intravascolare sono riassunti nella Tabella 3.
+Non si sono riscontrati eventi coronarici avversi maggiori correlati
+al dispositivo: decesso, infarto miocardico con onda Q o senza onda
+Q, rivascolarizzazione della lesione bersaglio secondaria a ischemia
+durante il ricovero o il periodo di follow-up (24,8 ± 8,5 giorni). Non
+
+Page 18 of 33                                                                                                                                PN-3072-0001 Rev. C 03/20
+              Tabella 3 - Risultati dell’ecografia intravascolare                  di appartenenza per quanto riguarda gli interventi coronarici
+                                                                                   percutanei con impianto di stent.
+                                   AS              AS
+                  Pre-AS                                        Post-stent   2.    Prima dell’azionamento del dispositivo, eseguire l’angiografia
+                                 da solo        pre-stent
+                  (n=30)                                         (n=19)            coronarica nelle viste in grado di mostrare al meglio la lesione
+                                 (n=11)          (n=19)
+                                                                                   bersaglio.
+    ALM
+              2,01 ± 0,71     4,55 ± 2,2*   2,65 ± 0,9*      6,28 ± 2,02     3.    Posizionare una guida coronarica da 0,014” fino a sorpassare la
+   (mm2)
+                                                                                   lesione bersaglio.
+ALM = area luminale minima
+                                                                             4.    Usando una tecnica sterile, estrarre un dispositivo AngioSculpt
+*p<0,001 in confronto a pre-AngioSculpt                                            delle dimensioni idonee (≤ 1,0 x diametro del vaso di
+Il catetere AngioSculpt è stato azionato con successo in tutte le                  riferimento (DVR)) dalla confezione sterile e introdurlo nel
+46 lesioni. In quattro lesioni, la stenosi era talmente grave che                  campo sterile.
+inizialmente non è stato possibile attraversarla né con il catetere per      5.    Esaminare il dispositivo per accertarsi che tutti i componenti
+ecografia intravascolare né con il catetere AngioSculpt; è quindi stata            siano intatti.
+predilatata con un piccolo catetere a palloncino (1,5/2,0 mm) che ha
+successivamente consentito la riuscita dell’azionamento del catetere         6.    Lavare il lume per la guida con soluzione fisiologica inserendo
+AngioSculpt.                                                                       con cautela la punta distale del catetere nell’estremità distale di
+                                                                                   una siringa da 10 cc e iniettando soluzione fisiologica fino alla
+Non si è verificato alcun malfunzionamento del dispositivo, alcuna                 fuoriuscita di goccioline dal lume prossimale per la guida.
+ritenzione di componenti del dispositivo o embolizzazione. Ciascun
+dispositivo è stato esaminato attentamente al completamento della            7.    Collegare una siringa da 20 cc contenente 2-3 cc di mezzo
+procedura. Non è stato rilevato alcun danno o deterioramento di                    di contrasto radiografico al raccordo per il gonfiamento del
+alcuno dei dispositivi.                                                            palloncino del catetere.
+MATERIALI NECESSARI PER L’USO CON IL CATETERE ANGIOSCULPT                    8.    Aspirare e rimuovere l’aria dal lume del palloncino del catetere
+                                                                                   usando la siringa da 20 cc contenente 2-3 cc di mezzo di contrasto
+AVVERTENZA - Usare materiali esclusivamente monouso. Non                           radiografico e mantenere il vuoto per 30 secondi.
+risterilizzare né riutilizzare.
+                                                                             9.    Rilasciare delicatamente la pressione negativa con la siringa da
+   • Catetere guida femorale, brachiale o radiale ( ≥ 6 F)                         20 cc e staccare quest’ultima dal raccordo per il gonfiamento
+   • Valvola emostatica                                                            del palloncino.
+   • Mezzo di contrasto diluito in rapporto 1:1 con soluzione fisiologica    10.   Collegare il dispositivo di gonfiamento (Indeflator), contenente
+       normale                                                                     una miscela in rapporto 50:50 di mezzo di contrasto radiografico e
+   • Soluzione fisiologica eparinata normale sterile                               di soluzione fisiologica normale, al raccordo per il gonfiamento del
+   • Siringhe da 10 cc e 20 cc per il lavaggio e la preparazione del               palloncino, creando un menisco. Evitare di introdurre bolle d’aria
+       palloncino                                                                  nel lume del palloncino del catetere.
+   • Dispositivo di gonfiamento (Indeflator)                                 11.   Aspirare con il dispositivo di gonfiamento, bloccando il vuoto.
+   • Guida coronarica da 0,014”                                                    NOTA - Prima di inserire il dispositivo nel corpo del
+                                                                                   paziente, è necessario eliminare tutta l’aria presente nel
+   • Introduttore per la guida
+                                                                                   palloncino mediante il mezzo di contrasto (se necessario,
+   • Dispositivo di torsione per la guida                                          ripetere i passaggi da 9 a 11).
+   • Mezzo di contrasto radiografico                                         12.   Fare avanzare il dispositivo AngioSculpt sulla guida
+   • Collettore (per il monitoraggio della pressione e per l’iniezione del         coronarica fino a raggiungere la lesione bersaglio (se
+       mezzo di contrasto), cannula di prolunga a pressione                        necessario,      per     consentire      l’attraversamento     della
+ISTRUZIONI PER L’USO                                                               lesione, è possibile eseguire la predilatazione con un
+Prima dell’uso dell’AngioSculpt, esaminarlo attentamente per verificare            catetere a palloncino con diametro di 2,0-2,5 mm).
+che non sia danneggiato e confermarne l’integrità. Non usarlo se il                NOTA - Quando si infila il catetere sulla guida, il catetere
+catetere presenta piegature, attorcigliamenti, componenti mancanti o               va supportato opportunamente per accertarsi che la guida
+altri danni.                                                                       non venga a contatto con il palloncino.
+   1.    Premedicare il paziente con ASA, clopidogrel/ticlopidina,           13.   Gonfiare il palloncino dell’AngioSculpt in base al seguente
+         anticoagulanti endovenosi, vasodilatatori coronarici e                    protocollo consigliato:
+         bloccanti della GP2b/3a in base al protocollo della struttura             • 2 atmosfere
+
+
+PN-3072-0001 Rev. C 03/20                                                                                                                   Page 19 of 33
+          • aumentare la pressione di gonfiamento di 2 atmosfere ogni           DESCRIÇÃO DO DISPOSITIVO
+             10-15 secondi fino a ottenere il completo gonfiamento del          O cateter AngioSculpt é composto por um cateter de balão padrão
+             dispositivo                                                        associado a um componente de nitinol. A extremidade proximal do cateter
+          • è possibile effettuare il gonfiamento fino alla pressione           possui a configuração de um cateter para PTCA comum, sendo composta
+             massima inferiore o uguale alla pressione nominale di              por um hipotubo ligado a uma entrada em plástico. A área de contacto
+             scoppio a discrezione del medico (tenendo presente                 entrada-hipotubo é sustentada por um destorcedor relativamente mole,
+             il diametro del dispositivo gonfiato a una determinata             concebido para evitar a torção. A entrada é utilizada para insuflar o balão
+             pressione)                                                         e pode ser ligada a um dispositivo de insuflação padrão. A parte distal
+   14.    Eseguire l’angiografia coronarica (nella stessa vista o viste del     do cateter é composta por um balão convencional em nylon e por um
+          passaggio 2) della lesione bersaglio dopo il completamento            elemento em nitinol cortado a laser, com três ou mais espirais que envolvem
+          del trattamento mediante il dispositivo (e prima del                  o balão, que promove a abertura de sulcos (scoring). As espirais originam
+          posizionamento di ulteriori stent).                                   concentrações focais da força de dilatação, que minimizam o deslizamento
+   15.    Per rimuovere il dispositivo AngioSculpt, applicare pressione         do balão e ajudam a expandir o lume de artérias coronárias estenosadas.
+          negativa al dispositivo di gonfiamento e confermare che il            O cateter é compatível com fios-guia padrão para coronárias, de 0,014”,
+          palloncino sia completamente sgonfio. Il catetere va ritirato         e com cateteres-guia de 6F. O comprimento do cateter é de cerca de 137
+          unicamente afferrando il corpo dell’ipotubo.                          cm e está disponível em diâmetros de 2,0 a 3,5 mm, em incrementos de
+                                                                                0,5 mm. O comprimento útil do elemento promotor da abertura de
+   16.    Esaminare tutti i componenti per accertarsi che il dispositivo sia
+                                                                                sulcos está compreendido entre 10-20 mm. O cateter é fornecido estéril,
+          intatto. Attenersi alle prassi standard adottate dalla struttura
+                                                                                destinando-se a ser utilizado apenas uma vez. A Figura 1 apresentada a
+          sanitaria di appartenenza per lo smaltimento dei rifiuti che
+                                                                                seguir é uma ilustração do cateter AngioSculpt.
+          costituiscono pericolo biologico. In caso di malfunzionamento
+          del dispositivo, o se nel corso dell’esame si notano altri difetti,                         Figura 1: Cateter AngioSculpt:
+          lavare il lume per la guida e pulire la superficie esterna del
+          dispositivo con soluzione fisiologica, riporre il dispositivo
+          in una busta in plastica a tenuta ermetica e rivolgersi alla
+          Spectranetics® o al rappresentante autorizzato per l’UE per
+          ottenere ulteriori istruzioni.
+   17.    Completare gli ulteriori eventuali interventi in base alle
+          indicazioni cliniche (come ad esempio, il posizionamento di
+          stent).
+   18.    Rimuovere la guida coronarica ed eseguire l’angiografia               INDICAÇÕES
+          coronarica (nella stessa vista o viste del passaggio 2) della         O cateter de balão promotor de sulcos AngioSculpt está indicado para
+          lesione bersaglio dopo il completamento degli interventi.             o tratamento de estenose coronária importante, do ponto de vista
+   19.    Rimuovere tutti i cateteri e procedere alla gestione del sito di      hemodinâmico, incluindo reestenose intra-stent.
+          accesso all’arteria secondo la prassi standard.                       CONTRA-INDICAÇÕES
+   20.    Continuare il trattamento con ASA, clopidogrel/ticlopidina e          O cateter AngioSculpt não deve ser utilizado nos seguintes casos:
+          bloccanti della GP2b/3a in base al protocollo della struttura            • Lesões da artéria coronária em que esteja contra-indicado o
+          sanitaria di appartenenza per quanto riguarda gli interventi                tratamento por revascularização percutânea.
+          coronarici percutanei con uso di stent.                                  • Espasmo da artéria coronária na ausência de estenose
+                                                                                      significativa.
+PORTUGUÊS                                                                       ADVERTÊNCIAS
+NOTA: Estas instruções aplicam-se a todos os diâmetros                          Este dispositivo destina-se a ser utilizado apenas uma vez. Não
+e comprimentos de balões.                                                       reesterilize e/ou reutilize, pois se o fizer poderá comprometer o
+ESTÉRIL: Esterilizado pelo óxido de etileno. Não utilizar se                    desempenho do dispositivo e aumentar o risco de reesterilização
+a embalagem se encontrar aberta ou danificada.                                  inadequada e de contaminação.
+CONTEÚDO: Um (1) Cateter de Balão Promotor de Sulcos AngioSculpt®.              Para reduzir o potencial de lesões vasculares o diâmetro do balão
+ARMAZENAMENTO: Guardar num local seco, ao abrigo da luz e fresco.               insuflado deve aproximar-se do diâmetro do vaso imediatamente
+                                                                                proximal e distal à estenose.
+
+
+Page 20 of 33                                                                                                                        PN-3072-0001 Rev. C 03/20
+A realização de PTCA em doentes com contra-indicação para cirurgia de       A manipulação do cateter, incluindo a sua introdução e remoção, deve
+bypass coronário requer uma avaliação cuidadosa, incluindo eventual apoio   ser efectuada agarrando pelo corpo do hipotubo.
+hemodinâmico durante a PTCA, em virtude do tratamento desta população       No caso de sentir uma resistência não habitual durante a manipulação
+de doentes apresentar riscos especiais.                                     do cateter ou se suspeitar que o fio-guia está vincado, retire a totalidade
+Quando o cateter está exposto ao sistema vascular deve ser manipulado       do sistema do cateter (cateter AngioSculpt e fio-guia orientável), como
+sob controlo fluoroscópico de elevada qualidade. Não introduza nem          um todo.
+remova o cateter se o balão não estiver totalmente desinsuflado e com       Se o controlo fluoroscópico indicar que o cateter AngioSculpt foi
+vácuo. No caso de sentir resistência durante a manipulação determine        introduzido para além do fio-guia, retire o cateter e volte a introduzir o
+a causa antes de prosseguir.                                                fio-guia antes de introduzir novamente o cateter.
+A pressão aplicada ao balão não deve exceder a pressão estimada de          COMPLICAÇÕES
+ruptura (PER) [A PER baseia-se nos resultados de testes in-vitro. Pelo      As possíveis complicações incluem, entre outras, as referidas no Quadro
+menos 99,9% dos balões (com uma confiança de 95%) não rompem a              1 apresentado a seguir:
+uma pressão igual ou inferior à sua PER. Recomenda-se a utilização de
+                                                                                               Quadro 1: Complicações Possíveis
+um dispositivo de monitorização da pressão para evitar a aplicação de
+pressão em excesso.]                                                            •   Morte
+Só se deve efectuar PTCA com o dispositivo AngioSculpt em hospitais             •   Ataque Cardíaco (Enfarte agudo do miocárdio)
+que permitam a rápida realização, no local (ou em instalações                   •   Oclusão total da artéria coronária submetida a tratamento
+próximas), de cirurgia de bypass coronário de emergência, no caso de            •   Dissecção, perfuração, ruptura ou lesão da artéria coronária
+complicação potencialmente lesiva ou que implique perigo de vida.               •   Tamponamento do pericárdio
+                                                                                •   Ausência de refluxo / refluxo lento do vaso tratado
+Utilize apenas o meio de insuflação recomendado para o balão. Nunca
+                                                                                •   Bypass coronário de emergência
+utilize ar ou qualquer meio gasoso para insuflar o balão.
+                                                                                •   Intervenção coronária percutânea de emergência
+Proceda com cuidado quando utilizar o cateter AngioSculpt no interior           •   AVC/trombose
+de um stent só de metal ou eluidor de fármacos recém-aplicado. Não              •   Pseudo-aneurisma
+foram efectuados estudos clínicos para testar o cateter AngioSculpt na          •   Reestenose do vaso dilatado
+pós-dilatação de stents ou em lesões distais a stents recém-aplicados.          •   Dor torácica instável (angina)
+O teste efectuado por comparação com padrões não revelou qualquer               •   Trombo-embolismo ou retenção de componentes do dispositivo
+risco adicional durante a inserção ou remoção do cateter AngioSculpt            •   Ritmo cardíaco irregular (arritmias, incluindo fibrilação
+através de stents (sem interferências no reticulado do stent e sem                  ventricular que implique perigo de vida)
+retenção ou danos no cateter AngioSculpt).                                      •   Tensão arterial baixa (hipotensão) / elevada (hipertensão) grave
+                                                                                •   Espasmo da artéria coronária
+Utilize o cateter antes do fim do prazo de validade indicado na
+                                                                                •   Hemorragia ou hematoma
+embalagem.                                                                      •   Necessidade de efectuar transfusão sanguínea
+PRECAUÇÕES                                                                      •   Reparação cirúrgica do local de acesso vascular
+Antes da angioplastia o cateter deve ser examinado para verificar a             •   Criação de uma via para o fluxo de sangue entre a artéria e a
+sua funcionalidade e integridade, bem como para garantir que o seu                  veia na virilha (Fístula arteriovenosa)
+tamanho e comprimento são adequados ao procedimento específico                  •   Reacções medicamentosas, reacções alérgicas ao corante do
+para o qual vai ser utilizado.                                                      raios-X (meio de contraste)
+                                                                                •   Infecção
+O sistema do cateter só deve ser utilizado por médicos experientes na
+realização de angioplastia coronária transluminal percutânea.
+Durante e após o procedimento deve administrar-se ao doente                 SUMÁRIO DOS ESTUDOS CLÍNICOS
+terapêutica anti-plaquetária, anti-coagulante e vasodilatadora              Concepção do Estudo
+coronária, de acordo com a prática da instituição de cuidados de saúde      Estudo clínico multicêntrico, não aleatorizado, realizado num único
+ou com os procedimentos para implante de stents nas coronárias.             grupo e prospectivo, destinado a avaliar a segurança e a eficácia do
+Não rode o corpo do cateter mais de 180 graus se a ponta estiver presa.     cateter AngioSculpt numa vasta gama de lesões da artéria coronária
+Não rode a entrada luer do cateter mais de cinco (5) vezes durante a        em vasos que nunca tinham sido submetidos a intervenção e após
+utilização.                                                                 reestenose intra-stent. A população em estudo foi constituída por
+                                                                            adultos com intervenção coronária percutânea programada por
+Não introduza nem retire o cateter AngioSculpt através da parte flexível
+                                                                            indicação clínica. Após a obtenção de consentimento informado, 45
+do fio-guia.
+                                                                            doentes que obedeciam aos critérios de inclusão no estudo foram
+
+PN-3072-0001 Rev. C 03/20                                                                                                                   Page 21 of 33
+submetidos a tratamento com o cateter AngioSculpt.                          se proceder ao implante do stent acessório) nas visualizações originais.
+Selecção dos Doentes                                                        Realizou-se USIV da lesão alvo após tratamento com o dispositivo (e antes
+Para a selecção dos doentes foram utilizados os seguintes critérios         de proceder ao implante do stent acessório).
+chave de inclusão:                                                          Procederam-se às intervenções com indicação clínica (e.g. implante do
+   • Intervenção coronária percutânea programada por indicação              stent), realizando-se uma angiografia coronária da lesão alvo depois de
+      clínica, em artérias coronárias que nunca tinham sido submetidas      todas as intervenções estarem concluídas nas visualizações originais.
+      a intervenção e com reestenose intra-stent.                           A medicação pós-intervenção foi administrada em conformidade com
+   • Vaso de referência da lesão alvo com um diâmetro de 2,0-4,0 mm         o protocolo da instituição de cuidados de saúde para intervenções
+                                                                            coronárias percutâneas com stents. Procedeu-se à realização de um
+   • Comprimento da lesão alvo ≤ 30 mm
+                                                                            ECG imediatamente após o procedimento e às 24 horas ou antes da alta
+   • Gravidade da lesão alvo: diâmetro da estenose ≥ 60%                    (consoante o que ocorreu primeiro). Procedeu-se à determinação da CPK
+Os doentes que obedeciam aos critérios anteriores podiam ser                (e da Troponina-I, no caso de CPK invulgarmente elevada), 4 e 12 horas
+excluídos devido a uma das seguintes razões:                                após o procedimento e 24 horas após o procedimento/antes da alta
+   • Lesão alvo na artéria coronária principal esquerda                     (consoante o que ocorreu primeiro).
+   • Lesão alvo em degeneração de enxerto da veia safena                    Os doentes tratados com o cateter AngioSculpt foram submetidos a um
+   • Lesão alvo formando um ângulo pronunciado: > 60 graus                  exame de seguimento 14-28 dias após o procedimento, que consistiu na
+                                                                            resposta a um questionário durante uma consulta ou por telefone, sendo
+   • Lesão alvo distal a stent recém-aplicado
+                                                                            avaliados os sinais vitais, a ocorrência de eventual enfarte do miocárdio
+   • Lesão alvo demonstrando dissecção major antes da aplicação do          pós-alta, a necessidade de efectuar cirurgia de bypass coronário (CBC) pós-
+      cateter AngioSculpt                                                   alta/intervenção coronária percutânea (ICP), determinado o tipo de angina
+   • Trombos visíveis (por angiografia) na lesão alvo                       e realizado um ECG.
+Objectivos                                                                  Resultados
+O principal objectivo de segurança consistiu em demonstrar a incidência e   Após obtenção do consentimento informado, foram submetidos
+gravidade de complicações relacionadas com o dispositivo (ECAM: morte,      a tratamento com o cateter AngioSculpt 45 doentes sucessivos
+EM com onda Q /sem onda Q, RLA (Revascularização da Lesão Alvo)) após       (idade 63±10,7 anos, sendo 69% do sexo masculino) orientados para
+um seguimento de um mês.                                                    intervenção coronária percutânea, que obedeceram aos critérios de
+O principal objectivo do desempenho consistiu em demonstrar uma             inclusão no estudo. A idade e sexo dos doentes que participaram no
+revascularização percutânea bem sucedida (definida como uma                 estudo reflectiu a distribuição típica em doentes não seleccionados
+redução da estenose do diâmetro da lesão alvo para ≤ 50% após a             orientados para intervenção coronária percutânea.
+conclusão de todas as intervenções e a ausência de eventos coronários       Os doentes efectuaram tratamento com medicação padrão
+adversos major durante o internamento).                                     administrada peri-procedimento, incluindo aspirina, clopidogrel,
+Métodos                                                                     heparina intravenosa e inibidores da glicoproteína 2b/3a, de acordo
+Os doentes foram submetidos ao tratamento habitual e em                     com os critérios do investigador.
+conformidade com a prática da instituição de cuidados de saúde              Todos os doentes estavam disponíveis e foram submetidos a
+para intervenções coronárias percutâneas, incluindo o uso de anti-          seguimento clínico até 14-28 dias após o tratamento com o cateter
+coagulantes (e.g. heparina) e agentes anti-agregantes plaquetários          AngioSculpt.
+(AAS, clopidogrel). Para além da utilização do dispositivo em               O cateter AngioSculpt foi utilizado em 45 doentes e num total de 46
+investigação não foi efectuada qualquer tentativa para alterar a prática    lesões. Destas 46 lesões, 32 ocorreram em vasos nunca tinham sido
+de cuidados padrão ministrados aos doentes que participaram no              submetidos a intervenção e 14 em reestenoses intra-stent (RIS). O
+estudo.                                                                     AngioSculpt foi utilizado como tratamento isolado em 10 lesões (9
+Realizou-se angiografia coronária nas visualizações que melhor              RIS e 1 vaso que nunca tinha sido submetido a intervenção) e ainda
+demonstraram a lesão alvo, antes de proceder à aplicação do                 em combinação com stents nas restantes 36 lesões. Nestes casos, o
+dispositivo. Sempre que possível, do ponto de vista técnico, realizou-      AngioSculpt foi intencionalmente insuflado abaixo do diâmetro do
+se USIV da lesão alvo antes de aplicar o dispositivo em um dos dois         vaso de referência para facilitar o implante do stent (i.e. “pré-dilatação”).
+centros de estudo.                                                          Não se verificaram eventos clínicos adversos major (ECAM: morte,
+Realizou-se um cineangiograma do dispositivo aplicado imediatamente         enfarte do miocárdio com onda Q ou sem onda Q, revascularização da
+antes e durante a insuflação. Realizou-se angiografia coronária da lesão    lesão alvo devido a isquemia) relacionados com o dispositivo durante
+alvo após conclusão de cada tratamento com o dispositivo (e antes de        o internamento ou durante o período de seguimento (24,8±8,5 dias).
+
+Page 22 of 33                                                                                                                     PN-3072-0001 Rev. C 03/20
+Não se verificaram perfurações da artéria coronária relacionadas com o                         Quadro 3: Resultados da USIV
+dispositivo. Não se verificou funcionamento deficiente do dispositivo.
+                                                                                          Pré-AS       Apenas AS     AS Pré-Stent    Pós-Stent
+Um doente voltou a ser internado durante o período de seguimento                          (n=30)        (n=11)          (n=19)        (n=19)
+devido a um episódio de taquicardia supra-ventricular, que foi
+documentada como patologia pré-existente e não relacionada com                ALM
+                                                                                       2,01 ± 0,71    4,55 ± 2,2*   2,65 ± 0,9*      6,28 ± 2,02
+o cateter AngioSculpt. Um segundo doente sofreu perfuração de um             (mm2)
+ramo diagonal da artéria coronária, que foi associada a EM sem onda Q      ALM= área luminal mínima
+durante tratamento com um balão convencional de angioplastia e num         *p<0,001 em relação ao verificado pré-AngioSculpt
+local e artéria distantes do local de tratamento com o AngioSculpt. Este
+doente não necessitou de ser submetido a intervenção cirúrgica e não       O cateter AngioSculpt foi aplicado com sucesso na totalidade das 46
+apresentou ECAMs adicionais durante o seguimento.                          lesões. Em quatro lesões, a estenose foi tão grave que inicialmente não
+O cateter AngioSculpt foi aplicado com sucesso na totalidade das 46        pode ser atravessada pelo cateter de USIV ou pelo cateter AngioSculpt,
+lesões. Em todas as 46 lesões tratadas, o principal ponto terminal do      pelo que se procedeu à sua pré-dilatação com um pequeno cateter de
+desempenho, a redução da estenose do diâmetro da lesão para ≤ 50%          balão (1,5/2,0 mm) após o que o cateter AngioSculpt foi aplicado com
+no fim do procedimento de intervenção, foi atingido com sucesso.           sucesso.
+Em todas as lesões tratadas, o cateter AngioSculpt demonstrou uma          Não se verificaram casos de funcionamento deficiente do dispositivo,
+posição estável durante a aplicação sem deslizamento significativo         retenção de componentes do dispositivo ou embolização. Cada
+durante a angiografia. Os resultados angiográficos estão resumidos no      dispositivo foi cuidadosamente inspeccionado após a conclusão do
+Quadro 2.                                                                  procedimento. Não se verificaram evidências de qualquer lesão ou
+                    Quadro 2: Resultados Angiográficos                     deterioração em nenhum dos dispositivos.
+                  Pré-AS      Apenas AS   AS Pré-Stent     Pós-Stent       MATERIAIS NECESSÁRIOS PARA UTILIZAÇÃO COM O CATETER
+                  (n=46)       (n=10)        (n=36)         (n=36)         ANGIOSCULPT
+    DVR         2,87 ± 0,41      N/A           N/A            N/A          ADVERTÊNCIA: Utilize apenas itens não reutilizáveis.
+                                                                           Não reesterilize nem reutilize.
+ Comprimento
+             15,67 ± 6,14       N/A            N/A            N/A             • Cateter-guia para a femoral, braquial ou radial ( ≥ 6F)
+    (mm)
+     DE                                                                       • Válvula hemostática
+             75,27 ± 12,91 17,46 ± 8,15* 38,68 ± 17,19* 3,81 ± 3,75           • Meio de contraste diluído 1:1 em solução salina normal
+    (%)
+    DLM                                                                       • Solução salina normal heparinizada estéril
+              0,75 ± 0,35 2,49 ± 0,43* 1,83 ± 0,59* 2,91 ± 0,47
+   (mm)                                                                       • Seringas de 10cc e de 20cc para irrigar e preparar o balão
+DVR= diâmetro do vaso de referência                                           • Dispositivo insuflador (indeflator)
+DE= diâmetro da estenose                                                      • Fio-guia para coronárias, de 0,014”
+DLM= diâmetro luminal mínimo                                                  • Introdutor de fio-guia
+*p<0,001 em relação ao verificado pré-AngioSculpt                             • Dispositivo para torção de fio-guia
+Realizou-se ultra-sonografia intravascular (USIV) pré e pós-tratamento        • Contraste radiográfico
+com o cateter AngioSculpt para avaliar os efeitos morfológicos do             • Tubo distribuidor (para monitorização da pressão e injecção de
+dispositivo sobre a placa e para confirmar melhor a segurança do                 contraste), extensão de tubo de pressão
+dispositivo. Os resultados da USIV demonstraram a abertura de              INSTRUÇÕES DE UTILIZAÇÃO
+sulcos na placa e a expansão luminal após tratamento com o cateter
+                                                                           Antes de utilizar o AngioSculpt examine-o cuidadosamente para
+AngioSculpt. Não se verificaram perfurações ou outras evidências de
+                                                                           detectar eventuais danos e verificar a integridade do dispositivo. Se
+lesão não prevista do vaso durante a USIV. Os resultados da USIV estão
+                                                                           o cateter apresentar dobras, vincos, componentes em falta ou outros
+resumidos no Quadro 3.
+                                                                           danos, não o utilize.
+                                                                              1.   Proceda à pré-medicação dos doentes com AAS, Clopidogrel/
+                                                                                   Ticlopidina, anti-coagulantes intravenosos, vasodilatadores
+                                                                                   coronários e bloqueadores GP2b/3a, em conformidade com o
+                                                                                   protocolo da instituição de cuidados de saúde para intervenções
+                                                                                   coronárias percutâneas com stents.
+
+PN-3072-0001 Rev. C 03/20                                                                                                              Page 23 of 33
+   2.     Realize uma angiografia coronária na visualização que melhor               tratamento com o dispositivo (e antes de proceder ao implante
+          demonstra a lesão alvo, antes de utilizar o dispositivo.                   do stent acessório).
+   3.     Posicione o fio-guia para as coronárias, de 0,014”, para além da     15.   Para retirar o dispositivo AngioSculpt aplique pressão
+          lesão-alvo.                                                                negativa ao dispositivo de insuflação e verifique se o balão
+   4.     Recorrendo a uma técnica estéril retire um dispositivo                     está totalmente desinsuflado. O cateter só deve ser retirado
+          AngioSculpt com a dimensão adequada ( ≤1,0 x diâmetro                      agarrando pelo corpo do hipotubo.
+          do vaso de referência (DVR)) da embalagem esterilizada e             16.   Inspeccione todos os componentes para se assegurar de que o
+          coloque-o no campo esterilizado.                                           dispositivo está intacto. Siga os procedimentos da instituição
+   5.     Inspeccione o dispositivo para se assegurar de que todos os                de cuidados de saúde para a eliminação de perigos biológicos.
+          componentes estão intactos.                                                Se o dispositivo funcionar de forma deficiente ou no caso de se
+   6.     Irrigue o lume do fio-guia com solução salina, inserindo com               verificarem quaisquer defeitos durante a inspecção, irrigue o lume
+          cuidado a ponta distal do cateter na extremidade distal da                 do fio-guia e limpe a superfície exterior do dispositivo com solução
+          seringa de 10 cc e injectando solução salina até surgirem                  salina, guarde o dispositivo num saco de plástico selado e contacte
+          gotículas do lume do fio-guia proximal.                                    a Spectranetics® ou o Representante Autorizado na CE, para obter
+                                                                                     mais instruções.
+   7.     Aplique uma seringa de 20 cc com 2-3 cc de contraste
+          radiográfico na porta de insuflação do cateter de balão.             17.   Conclua as intervenções adicionais de acordo com as
+                                                                                     indicações clínicas (e.g. implante de stents).
+   8.     Aspire/retire o ar existente no lume do cateter de balão
+          utilizando uma seringa da 20 cc com 2-3 cc de contraste              18.   Retire o fio-guia para coronárias e efectue uma angiografia
+          radiográfico e deixe ficar no vácuo durante 30 segundos.                   coronária (nas mesmas visualizações utilizadas para o passo 2)
+                                                                                     da lesão alvo depois de concluir todas as intervenções.
+   9.     Liberte o vácuo da seringa de 20 cc com cuidado e retire-o da
+          porta de insuflação do balão.                                        19.   Retire todos os cateteres e trate o acesso arterial em
+                                                                                     conformidade com o protocolo da instituição de cuidados de
+   10.    Aplique o dispositivo de insuflação do dispositivo (indeflator),
+                                                                                     saúde.
+          cheio com uma mistura de 50:50 de contraste radiográfico e
+          solução salina normal, na porta de insuflação do balão, criando      20.   Continue o tratamento com AAS, Clopidogrel/Ticlopidina e
+          um menisco. Evite introduzir bolhas de ar no lume do cateter               bloqueantes GP2b/3a, em conformidade com o protocolo da
+          de balão.                                                                  instituição de cuidados de saúde para intervenções coronárias
+                                                                                     percutâneas com stents.
+   11.    Aspire utilizando o dispositivo de insuflação, aplicando vácuo.
+          NOTA: É necessário retirar todo o ar do balão e deslocá-
+          lo com meio de contraste antes de o inserir no corpo do            ESPAÑOL
+          doente (repita os passos 9-11, se necessário).                     NOTA: Estas instrucciones se aplican a los balones de todos los
+   12.    Introduza o dispositivo AngioSculpt através do fio-guia para       diámetros y longitudes.
+          coronárias até atingir a lesão alvo (pode proceder à pré-          ESTÉRIL: Esterilizado con óxido de etileno gaseoso. No utilice este
+          dilatação, utilizando um cateter de balão com um diâmetro          dispositivo si el envase está abierto o dañado.
+          de 2,0-2,5 mm, se necessário, para atravessar a lesão).            CONTENIDO: Un (1) catéter balón surcador AngioSculpt®.
+          NOTA: Quando inserir o cateter através do fio-guia deverá          ALMACENAMIENTO: Conserve este dispositivo en un lugar seco,
+          amparar o cateter para que o fio-guia não entre em                 oscuro y fresco.
+          contacto com o balão.
+                                                                             DESCRIPCIÓN DEL DISPOSITIVO
+   13.    Insufle o balão AngioSculpt de acordo com o seguinte
+                                                                             El dispositivo AngioSculpt es un catéter balón estándar que incorpora un
+          protocolo recomendado:
+                                                                             componente de nitinol. El extremo proximal del dispositivo es un catéter
+          • 2 atmosferas                                                     de angioplastia coronaria transluminal percutánea (ACTP) de diseño
+          • aumente a pressão de insuflação 2 atmosferas de 10-15            corriente que contiene un tubo hipodérmico acoplado a una conexión
+              segundos até insuflar totalmente o dispositivo                 de plástico. El área de contacto entre la conexión y el tubo hipodérmico
+          • pode insuflar até uma pressão máxima ≤ PER, consoante            descansa sobre un anclaje para alivio de tensión relativamente blando que
+              o critério do clínico (tendo em conta o diâmetro insuflado     impide el acodamiento. La conexión, que se utiliza para inflar el balón,
+              estimado do dispositivo para uma determinada pressão)          puede acoplarse a un dispositivo de inflado estándar. La parte distal del
+   14.    Efectue a angiografia coronária (nas mesmas visualizações          catéter se compone de un balón convencional de nylon y un elemento
+          utilizadas para o passo 2) da lesão alvo depois de concluir o      surcador de nitinol cortado a láser, que posee tres o más filamentos
+
+Page 24 of 33                                                                                                                     PN-3072-0001 Rev. C 03/20
+helicoidales enrollados alrededor del balón. Los filamentos generan             desinflado completamente bajo vacío. Si surge resistencia durante la
+zonas de fuerza de dilatación concentrada, lo cual reduce a un mínimo           manipulación, determine el motivo antes de continuar.
+el potencial de deslizamiento del balón y facilita la expansión de la luz       La presión del balón inflado no debe superar el valor de la presión
+de coronarias estenóticas. El catéter es compatible con guías coronarias        nominal de estallido (PNE). (La PNE se basa en resultados de pruebas
+estándar de 0,36 mm (0,014 pulg.) y catéteres guía de 6 F. El dispositivo       in vitro. Al menos el 99,9 % de los balones [con una confianza del 95 %]
+AngioSculpt mide aproximadamente 137 cm de largo y está disponible en           no estallarán al alcanzar su PNE o a presiones inferiores. Se recomienda
+diámetros de 2,0 a 3,5 mm, a incrementos de 0,5 mm. La longitud útil del        utilizar un manómetro para impedir el sobreinflado del balón.)
+elemento surcador oscila entre 10 y 20 mm. El catéter se suministra estéril     La ACTP efectuada con el dispositivo AngioSculpt debe practicarse
+y está destinado a un solo uso. En la figura 1, a continuación, se ilustra el   sólo en hospitales capacitados para realizar rápidamente cirugía
+catéter AngioSculpt.                                                            de revascularización coronaria de urgencia in situ (o en un centro
+                      Figura 1: Catéter AngioSculpt                             médico cercano) en la eventualidad de que surja una complicación
+                                                                                potencialmente perjudicial o letal.
+                                                                                Infle el balón sólo con el medio recomendado. No emplee aire ni
+                                                                                ningún medio gaseoso para inflar el balón.
+                                                                                Proceda con cautela si va a colocar el catéter AngioSculpt en el
+                                                                                interior de un stent de metal descubierto o liberador de fármacos
+                                                                                recién desplegado. El catéter AngioSculpt no ha sido estudiado
+                                                                                para la dilatación posterior de stents ni en lesiones distales a stents
+                                                                                recién desplegados en ensayos clínicos. En las pruebas en banco se
+INDICACIONES                                                                    demostró que no existe ningún riesgo adicional durante la inserción o
+El catéter con globo de incisión AngioSculpt está indicado para el              extracción del catéter AngioSculpt a través de stents (no se observaron
+tratamiento de estenosis hemodinámicamente significativas de la                 interferencias con los filamentos de stent ni retención o daños del
+arteria coronaria (incluida la reestenosis intrastent).                         catéter AngioSculpt).
+CONTRAINDICACIONES                                                              Utilice el catéter antes de la fecha de caducidad especificada en el
+Está contraindicado el catéter AngioSculpt en las siguientes situaciones:       envase.
+   • Lesiones de arteria coronaria no aptas para ser tratadas por               PRECAUCIONES
+      revascularización percutánea.                                             Antes de la angioplastia, debe examinarse el catéter para verificar su
+   • Espasmo de arteria coronaria en ausencia de estenosis                      funcionalidad e integridad, y también para garantizar que su tamaño y
+      significativa.                                                            longitud sean adecuados para la intervención en la que se ha de utilizar.
+ADVERTENCIAS                                                                    Sólo los médicos capacitados para realizar angioplastias coronarias
+                                                                                transluminales percutáneas deben emplear el sistema de catéter.
+Este dispositivo está diseñado para un solo uso y no se debe volver
+a esterilizar o utilizar, ya que ello podría disminuir su rendimiento y         En el transcurso del procedimiento y posteriormente debe
+aumentar el peligro de reesterilización deficiente y contaminación              administrarse al paciente un tratamiento antiplaquetario,
+cruzada.                                                                        anticoagulante y vasodilatador coronario adecuado, que responda a
+                                                                                las prácticas institucionales y a los procedimientos de colocación de
+Para que el potencial de lesiones vasculares sea mínimo, el diámetro del
+                                                                                stents coronarios.
+balón inflado debe aproximarse al diámetro del vaso en las posiciones
+justo proximal y distal a la estenosis.                                         No gire el eje del catéter más de 180 grados si la punta está comprimida.
+La angioplastia coronaria transluminal percutánea (ACTP) en pacientes           No gire la conexión Luer-Lock del catéter más de cinco (5) veces
+que no son candidatos adecuados para una cirugía de revascularización           durante su uso.
+coronaria debe ser objeto de gran reflexión, ya que el tratamiento              No haga avanzar ni retraer el catéter AngioSculpt sobre la parte flexible
+de esta población de pacientes acarrea riesgos especiales. Debe                 de la guía.
+contemplarse la posibilidad de ofrecer apoyo hemodinámico a estos
+pacientes durante la intervención.                                              La manipulación del catéter, incluidos su avance y retracción, debe
+                                                                                realizarse sujetando el eje del tubo hipodérmico.
+Una vez que se vea expuesto al sistema vascular, el catéter debe ser            Si surge resistencia excesiva durante la manipulación del catéter, o si
+manipulado bajo visualización radioscópica de alta calidad. No                  sospecha que la guía está acodada, retire cuidadosamente el sistema
+haga avanzar ni retraer el catéter a menos que el balón haya sido               de catéter en su totalidad (es decir, el catéter AngioSculpt y la guía
+
+PN-3072-0001 Rev. C 03/20                                                                                                                     Page 25 of 33
+dirigible) como si se tratara de una unidad.                                Se emplearon los siguientes criterios de inclusión básicos para
+Si la visualización radioscópica indica que el catéter AngioSculpt ha       seleccionar a los pacientes:
+avanzado más allá de la punta de la guía, extraiga el catéter y vuelva a        • Intención de someterse a intervención coronaria percutánea
+cargar la guía antes de repetir el avance.                                         indicada clínicamente en arterias coronarias nativas, incluidos los
+COMPLICACIONES                                                                     casos de reestenosis intrastent
+Algunas de las posibles complicaciones del procedimiento se resumen             • Diámetro del vaso de referencia en la lesión a tratar: 2,0 a 4,0 mm
+en la tabla 1, a continuación:                                                  • Longitud de la lesión a tratar: ≤ 30 mm
+                     Tabla 1: Posibles complicaciones                           • Gravedad de la lesión a tratar: estenosis que ocupa ≥ 60 % del
+                                                                                   diámetro
+     •   Muerte
+                                                                            Los pacientes que cumplieron los criterios anteriores fueron excluidos
+     •   Ataque cardíaco (infarto agudo de miocardio)
+                                                                            si la lesión a tratar:
+     •   Oclusión total de la arteria coronaria tratada
+     •   Disección, perforación, rotura o lesión de la arteria coronaria        • Se hallaba en la arteria coronaria principal izquierda
+     •   Tamponamiento pericárdico                                              • Se hallaba en un injerto de vena safena deteriorado
+     •   Ausencia de reflujo, o reflujo lento del vaso tratado                  • Se hallaba en un ángulo pronunciado > 60 grados
+     •   Revascularización coronaria de urgencia                                • Se hallaba en posición distal a un stent recién desplegado
+     •   Intervención coronaria percutánea de urgencia
+                                                                                • Presentaba disección importante antes del despliegue del catéter
+     •   Accidente cerebrovascular/ictus
+                                                                                   AngioSculpt
+     •   Pseudoaneurisma
+     •   Reestenosis del vaso dilatado                                          • Contenía trombos detectables por angiografía
+     •   Dolor torácico inestable (angina)                                  Objetivos
+     •   Tromboembolia o retención de componentes del dispositivo           El estudio tuvo como objetivo primario de inocuidad demostrar
+     •   Ritmo cardíaco irregular (arritmias, incluida la fibrilación       la incidencia y gravedad de complicaciones relacionadas con el
+         ventricular posiblemente letal)                                    dispositivo (acontecimientos clínicos adversos importantes o MACE:
+     •   Tensión arterial excesivamente baja (hipotensión) o elevada        muerte, IAM con o sin onda Q, revascularización de la lesión tratada) en
+         (hipertensión)                                                     la consulta de seguimiento al cabo de un mes.
+     •   Espasmo de la arteria coronaria                                    El objetivo primario de rendimiento consistió en demostrar el logro
+     •   Hemorragia o hematoma                                              de revascularización percutánea satisfactoria (definida como una
+     •   Necesidad de una transfusión de sangre                             reducción del diámetro de la estenosis de la lesión a tratar a ≤ 50 %
+     •   Reparación quirúrgica del lugar de acceso vascular                  tras la finalización de todas las intervenciones, y la ausencia de MACE
+     •   Creación de un conducto de circulación sanguínea entre la          durante la fase hospitalaria).
+         arteria y la vena inguinal (fístula arteriovenosa)                 Métodos
+     •   Reacciones medicamentosas, alergias al colorante radiográfico
+                                                                            Se trató a los pacientes de la manera habitual y conforme a las prácticas
+         (medio de contraste)
+                                                                            institucionales para intervenciones coronarias percutáneas, incluido
+     •   Infección
+                                                                            el uso de anticoagulantes (por ej., heparina) y antiplaquetarios (ASA,
+                                                                            clopidogrel). No se hizo ningún intento de modificar la práctica
+RESUMEN DE ESTUDIOS CLÍNICOS                                                habitual para estos pacientes en estudio; la única diferencia en el
+Diseño del estudio                                                          tratamiento fue el uso del dispositivo experimental.
+Se llevó a cabo un estudio clínico multicéntrico prospectivo, de rama
+única y no aleatorizado, para valorar la inocuidad y eficacia del catéter   Antes del despliegue del dispositivo se realizaron angiografías
+AngioSculpt en una amplia gama de lesiones coronarias, tanto en             coronarias en las proyecciones que mejor revelaban la lesión a
+arterias nativas como tras una reestenosis intrastent. La población         tratar. Cuando fue posible desde el punto de vista técnico, antes del
+del estudio consistió en pacientes adultos que habían programado            despliegue del dispositivo se realizó ultrasonido intravascular (IVUS) de
+someterse a intervenciones coronarias percutáneas indicadas                 la lesión a tratar en uno de los dos centros clínicos.
+clínicamente. Una vez obtenido el consentimiento informado, se trató        Se realizó una cineangiografía del dispositivo desplegado justo antes
+con el catéter AngioSculpt a 45 pacientes que satisficieron los criterios   del inflado y en el transcurso del mismo. Se realizaron angiografías
+de inclusión del estudio.                                                   coronarias de la lesión después del tratamiento con cada dispositivo (y
+Selección de pacientes                                                      antes de la colocación de un stent complementario) en las proyecciones
+
+Page 26 of 33                                                                                                                   PN-3072-0001 Rev. C 03/20
+originales. Se realizó IVUS de la lesión después del tratamiento con el        durante la fase hospitalaria ni en el período de seguimiento (24,8 ± 8,5
+dispositivo (y antes de la colocación de un stent complementario).             días). Tampoco se presentó ninguna perforación de arteria coronaria
+Se practicaron las intervenciones adicionales indicadas clínicamente           asociada al dispositivo ni se observaron fallos del catéter.
+(por ej., la colocación de stents); una vez finalizadas éstas, se realizaron   Un paciente fue reingresado durante el período de seguimiento a
+angiografías coronarias de la lesión tratada en las proyecciones               causa de un episodio de taquicardia supraventricular, la causa había
+originales.                                                                    sido registrada como afección preexistente y no guardó relación con
+Se administró medicación postoperatoria conforme al protocolo                  el catéter AngioSculpt. Otro paciente sufrió perforación de una arteria
+institucional vigente para las intervenciones coronarias percutáneas con       coronaria de rama diagonal, asociada a un IAM sin onda Q surgido
+stents. Se registró el ECG inmediatamente después del procedimiento,           durante el tratamiento con un balón de angioplastia convencional, y en
+y al cabo de 24 horas o antes del alta hospitalaria (lo que haya ocurrido      una posición arterial distante al lugar tratado con el catéter AngioSculpt.
+primero). Se registraron los valores de creatininfosfoquinasa (CPK), y         Este paciente no requirió intervención quirúrgica ni sufrió ningún otro
+de troponina-I si la CPK había resultado anormalmente elevada, a las           MACE durante el seguimiento.
+4 y 12 horas del postoperatorio y al cabo de 24 horas o antes del alta         El catéter AngioSculpt se desplegó satisfactoriamente en las
+hospitalaria (lo que haya ocurrido primero).                                   46 lesiones. En todas las lesiones a tratar, se alcanzó el objetivo primario
+Los pacientes tratados con el catéter AngioSculpt se sometieron a un           de rendimiento: reducción del diámetro de la estenosis de la lesión a
+examen de seguimiento entre 14 y 28 días después del procedimiento             tratar a ≤ 50 % tras la finalización del procedimiento intervencionista. En
+intervencionista; dicho examen comprendió: consulta médica o                   todas las lesiones tratadas, se demostró por angiografía que el catéter
+cuestionario telefónico para determinar el estado vital; indagación            AngioSculpt mantiene una posición estable durante el despliegue,
+sobre posibles infartos de miocardio, revascularizaciones coronarias           sin sufrir deslizamientos de importancia. En la tabla 2 se resumen los
+o intervenciones coronarias percutánea posteriores al alta; clase de           resultados angiográficos.
+angina; y una valoración electrocardiográfica en el consultorio.                                    Tabla 2: Resultados angiográficos
+Resultados                                                                                   Antes del       Catéter AS   Catéter AS    Después del
+Una vez obtenido el consentimiento informado, se trató con el catéter                        catéter AS         solo    antes del stent    stent
+AngioSculpt a 45 pacientes consecutivos (de 63 ± 10,7 años de edad,                            (n=46)          (n=10)       (n=36)        (n=36)
+69 % varones) remitidos para intervención coronaria percutánea,
+                                                                                                                 No           No            No
+los cuales satisficieron los criterios de inclusión del estudio. La edad       DVR (mm) 2,87 ± 0,41
+                                                                                                            corresponde corresponde corresponde
+y el sexo de los pacientes estudiados reflejan la distribución típica
+de los pacientes no seleccionados que habían sido remitidos para                Longitud                         No           No            No
+                                                                                            15,67 ± 6,14
+intervención coronaria percutánea.                                                (mm)                      corresponde corresponde corresponde
+A criterio del investigador, se trató a los pacientes con medicamentos              DE
+                                                                                           75,27 ± 12,91 17,46 ± 8,15* 38,68 ± 17,19* 3,81 ± 3,75
+perioperatorios habituales como aspirina, clopidogrel, heparina                     (%)
+intravenosa e inhibidores de la glicoproteína IIb/IIIa.                            DLM
+                                                                                            0,75 ± 0,35 2,49 ± 0,43* 1,83 ± 0,59* 2,91 ± 0,47
+Todos los pacientes estaban disponibles y se sometieron a un                      (mm)
+seguimiento clínico entre 14 y 28 días después del tratamiento con el          DVR= diámetro del vaso de referencia
+catéter AngioSculpt.                                                           DE= diámetro de la estenosis
+                                                                               DLM= diámetro luminal mínimo
+                                                                               *p<0,001 en comparación con el valor antes del catéter AngioSculpt
+Se utilizó el catéter AngioSculpt en 45 pacientes para tratar un total         Se realizó ultrasonido intravascular (IVUS) antes y después del
+de 46 lesiones, de las cuales 32 se hallaban en vasos nativos y 14 en          tratamiento con el catéter AngioSculpt, para valorar los efectos
+reestenosis intrastent (RIS). El catéter AngioSculpt se utilizó como           morfológicos del dispositivo sobre la placa y confirmar ulteriormente
+tratamiento único en 10 lesiones (9 en RIS y 1 en vaso nativo), y en           la inocuidad del dispositivo. Los resultados del IVUS demostraron
+asociación con stents en las 36 lesiones restantes. En estos casos, se         la formación de surcos en la placa y la expansión de la luz vascular
+utilizó expresamente un catéter AngioSculpt de menor diámetro que el           después del tratamiento con el catéter AngioSculpt. La evaluación
+del vaso de referencia, para facilitar la subsiguiente colocación del stent    por IVUS indicó ausencia de perforaciones u otros indicios de lesiones
+(es decir, “predilatación”).                                                   vasculares imprevistas. En la tabla 3 se resumen los resultados del IVUS.
+No surgió ningún acontecimiento clínico adverso importante (MACE:
+muerte, infarto de miocardio con o sin onda Q, revascularización                                     Tabla 3: Resultados del IVUS
+de la lesión tratada por isquemia) relacionado con el dispositivo, ni
+
+PN-3072-0001 Rev. C 03/20                                                                                                                       Page 27 of 33
+                Antes del    Catéter AS      Catéter AS    Después del            tratar.
+                catéter AS      solo       antes del stent    stent         3.    Atraviese la lesión a tratar con una guía coronaria de
+                  (n=30)      (n=11)           (n=19)        (n=19)               0,36 mm (0,014 pulgadas) de su preferencia.
+    ALM                                                                     4.    Mediante una técnica aséptica, retire del envase estéril
+              2,01 ± 0,71      4,55 ± 2,2*    2,65 ± 0,9*    6,28 ± 2,02          un catéter AngioSculpt de tamaño adecuado ( ≤ 1,0 x
+   (mm2)
+ALM= área luminal mínima                                                          diámetro del vaso de referencia) y colóquelo sobre el campo
+                                                                                  estéril.
+*p<0,001 en comparación con el valor antes del catéter AngioSculpt
+                                                                            5.    Inspeccione el dispositivo para cerciorarse de que todos sus
+El catéter AngioSculpt se desplegó satisfactoriamente en las
+                                                                                  componentes estén intactos.
+46 lesiones. En cuatro lesiones, la estenosis era de tal magnitud que
+inicialmente no fue posible atravesarla ni con el catéter de IVUS ni con    6.    Lave la luz para la guía con solución salina; para esto, introduzca
+el AngioSculpt. Por consiguiente, se predilató la lesión con un catéter           cuidadosamente la punta distal del catéter en el extremo distal
+balón pequeño (1,5/2,0 mm), luego de lo cual se logró desplegar                   de una jeringa de 10 cc e inyecte solución salina hasta que
+satisfactoriamente el catéter AngioSculpt.                                        salgan gotas por el extremo proximal de la luz para la guía.
+No se observó ningún caso de fallo del dispositivo ni retención o           7.    Acople una jeringa de 20 cc cargada con 2 ó 3 cc de contraste
+embolización de sus componentes. Se inspeccionó cuidadosamente                    radiográfico al orificio de inflado del balón del catéter.
+cada dispositivo al terminar el procedimiento; ninguno de ellos             8.    Aspire y elimine el aire de la luz del balón del catéter utilizando
+presentó indicios de daños o deterioro.                                           la jeringa de 20 cc cargada con 2 ó 3 cc de contraste radiográfico;
+MATERIALES NECESARIOS PARA SU USO CON EL CATÉTER                                  deje el conjunto bajo vacío durante 30 segundos.
+ANGIOSCULPT:                                                                9.    Interrumpa cuidadosamente el vacío de la jeringa de 20 cc y
+ADVERTENCIA: Utilice únicamente artículos de un solo uso. No                      retire ésta del orificio de inflado del balón.
+vuelva a esterilizar o utilizar ningún artículo.                            10.   Acople el dispositivo de inflado y desinflado, cargado con una
+   • Catéter guía para arteria femoral, braquial o radial ( ≥ 6 F)                mezcla 1:1 de contraste radiográfico y solución salina normal,
+                                                                                  al orificio de inflado del balón creando un menisco. Evite
+   • Válvula hemostática
+                                                                                  introducir burbujas de aire en la luz del balón del catéter.
+   • Medio de contraste diluido 1:1 con solución salina normal
+                                                                            11.   Mediante el dispositivo de inflado, aspire para bloquear el
+   • Solución salina normal, heparinizada y estéril                               vacío.
+   • Jeringas de 10 y 20 cc para lavado y preparación del balón                   NOTA: Es preciso expulsar todo el aire del balón y
+   • Dispositivo de inflado y desinflado                                          desplazarlo con medio de contraste antes de insertar el
+   • Guía coronaria de 0,36 mm (0,014 pulgadas)                                   dispositivo en el cuerpo (si es necesario, repita los pasos 9
+   • Introductor de guías                                                         a 11).
+   • Dispositivo de torsión de guías                                        12.   Haga avanzar el dispositivo AngioSculpt sobre la guía
+                                                                                  coronaria hasta llegar a la lesión a tratar (puede efectuar
+   • Medio de contraste radiográfico
+                                                                                  una predilatación con un catéter balón de 2,0 a 2,5 mm
+   • Múltiple (para control de presión e inyección de contraste),                 de diámetro, si esto es necesario para atravesar la lesión).
+      extensión de tubería de presión                                             NOTA: Cuando monte el extremo distal del catéter en el
+MODO DE EMPLEO                                                                    extremo proximal de la guía, es preciso mantener apoyado
+Antes de utilizar el catéter AngioSculpt, examínelo cuidadosamente                el catéter para evitar que la guía entre en contacto con el
+para comprobar la ausencia de daños y la integridad del dispositivo.              balón.
+No utilice el catéter si le falta algún componente o si tiene dobleces,     13.   Infle el balón AngioSculpt conforme al siguiente protocolo
+acodamientos u otros daños.                                                       recomendado:
+   1.    Antes del procedimiento, administre a los pacientes ASA,                 • 2 atmósferas
+         clopidogrel/ticlopidina,       anticoagulantes     intravenosos,         • aumente la presión en 2 atmósferas cada 10 a 15 segundos
+         vasodilatadores coronarios e inhibidores de la GP IIb/IIIa,                  hasta que el balón esté completamente inflado.
+         de conformidad con el protocolo institucional vigente para
+                                                                                  • a criterio del médico, puede inflarse el balón a una presión
+         intervenciones coronarias percutáneas con stents.
+                                                                                      máxima que sea inferior o igual a la presión nominal de
+   2.    Antes del despliegue del dispositivo, realice una angiografía                estallido (siempre que se tenga presente el diámetro
+         coronaria en las proyecciones que mejor revelen la lesión a                  estimado del dispositivo inflado a determinada presión).
+
+Page 28 of 33                                                                                                                  PN-3072-0001 Rev. C 03/20
+   14.    Realice una angiografía coronaria (en las mismas proyecciones
+          que las del paso 2) de la lesión una vez terminado el
+          tratamiento con el dispositivo y antes de la colocación de un
+          stent complementario.
+   15.    Para retirar el dispositivo AngioSculpt, aplíquele presión
+          negativa y confirme que el balón esté completamente
+          desinflado. Retraiga el catéter sujetándolo únicamente por el
+          eje del tubo hipodérmico.
+   16.    Inspeccione todos los componentes para cerciorarse de
+          que el dispositivo esté intacto. Siga los procedimientos
+          institucionales que rigen el desecho de peligros biológicos.
+          Si falla el dispositivo u observa algún defecto durante la
+          inspección: lave la luz para la guía y limpie la superficie exterior
+          del dispositivo con solución salina, guarde el dispositivo en una
+          bolsa de plástico cerrada herméticamente y comuníquese con
+          Spectranetics® o con su representante autorizado en la CE para
+          obtener instrucciones adicionales.
+   17.    Lleve a cabo cualquier intervención adicional que esté
+          clínicamente indicada (por ej., colocación de un stent).
+   18.    Una vez terminadas todas las intervenciones, extraiga la guía y
+          realice una angiografía coronaria (en las mismas proyecciones
+          que las del paso 2) de la lesión tratada.
+   19.    Extraiga todos los catéteres y trate el lugar de acceso arterial
+          conforme al protocolo institucional.
+   20.    Continúe el tratamiento con ASA, clopidogrel/ticlopidina e
+          inhibidores de la GP IIb/IIIa de conformidad con el protocolo
+          institucional vigente para intervenciones coronarias
+          percutáneas con stents.
+
+
+
+
+PN-3072-0001 Rev. C 03/20                                                        Page 29 of 33
+                THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+Page 30 of 33                                        PN-3072-0001 Rev. C 03/20
+			
+
+                            THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PN-3072-0001 Rev. C 03/20                                        Page 31 of 33
+                THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+Page 32 of 33                                        PN-3072-0001 Rev. C 03/20
+                            THIS PAGE INTENTIONALLY LEFT BLANK
+
+
+
+
+PN-3072-0001 Rev. C 03/20                                        Page 33 of 33
+Spectranetics Corporation
+5055 Brandin Court,
+Fremont, CA 94538 USA
+Tel: 510-933-7900
+Fax: 510-933-7901
+                            PN-3072-0001 Rev. C 03/20
+
