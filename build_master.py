@@ -99,6 +99,14 @@ exec(open('passes_apply.py').read())
 # STANDING_DECISIONS 2026-10-13: exclude devices not labeled for coronary use
 EXCLUDE={"AngioJet AVX"}  # AV-access grafts/fistulae only (BSC US AngioJet page)
 rows=[r for r in rows if r.get("model") not in EXCLUDE]
+# STANDING_DECISIONS 2026-10-16 (Jeff): display rename after all passes applied (keeps earlier pass keys valid)
+_S036='FDA PMA P130005/S036 (approved 2023-06-01): "design change to the 1.25mm Coronary Crown Orbital Atherectomy Device, a name change from Diamondback 360 Coronary Orbital Atherectomy System to Diamondback 360 Precision"; https://api.fda.gov/device/pma.json?search=pma_number:P130005+AND+supplement_number:S036'
+RENAME={"Diamondback 360 Coronary OAS":("Diamondback 360 Precision","P130005, S036 (2023-06: 1.25 mm crown; formerly \"Diamondback 360 Coronary OAS\")")}
+for r in rows:
+    if r.get("model") in RENAME:
+        old=r["model"];new,sub=RENAME[old];r["model"]=new;prov[new]=prov.pop(old,{})
+        r["fda_submission"]=sub;prov[new]["fda_submission"]=prov[new].get("fda_submission","")+" | "+_S036
+json.dump(prov,open('provenance.json','w'))
 FIELDS=['category','manufacturer','model','reprocessed','n_skus','catalog_numbers','fda_submission','product_code','diameters_mm','lengths_mm','french_sizes','length_cm','wire_diameter_in','guidewire_compat_in','sheath_compat_fr','burr_sizes_mm','inner_diameter_mm']+[x for x in allspec if x!='inner_diameter_mm']
 FIELDS=list(dict.fromkeys(FIELDS))
 with open('coronary-specs-verified.csv','w',newline='') as f:

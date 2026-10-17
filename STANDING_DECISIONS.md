@@ -35,3 +35,8 @@ Jeff confirms NC TREK RX and NC TREK NEO are both still sold in the US → keep 
 
 ## 2026-10-16 — Corsair Pro submissions (Jeff decision)
 Corsair Pro fda_submission = "K161126, K171933". K171933 (SE 2018-02-12, DQX) adds the CTO-crossing indication and names ASAHI Corsair Pro Microcatheter; https://www.accessdata.fda.gov/cdrh_docs/pdf17/K171933.pdf (copy: sources/pass22/docs/K171933.pdf).
+
+## 2026-10-16 — Jeff decisions (pass 25)
+- XIENCE Skypoint ONLY: crossing profile 0.0390 in (3.0 × 18 mm) accepted from Abbott US HCP page/brochure MAT-2106263 v2.0 (https://www.cardiovascular.abbott/us/en/hcp/products/percutaneous-coronary-intervention/xience-family/about.html). Brochure value — an IFU value replaces it if published. Not applied to Sierra.
+- Abbott eIFU: direct PDF links that are publicly indexed may be used; never solve/bypass a captcha or gated search.
+- Row "Diamondback 360 Coronary OAS" renamed "Diamondback 360 Precision" (PMA P130005/S036, approved 2023-06-01: 1.25 mm crown design change + name change). Implemented as a display rename in build_master.py (RENAME) so earlier pass keys still apply; former name kept in the fda_submission note; recalls CSV model name updated.
