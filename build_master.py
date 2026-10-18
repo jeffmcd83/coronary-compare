@@ -109,11 +109,13 @@ for _v in [dict(v,_pf=_f.split('/')[1]) for _f in sorted(_gg.glob('sources/pass*
 json.dump(_conf,open('sources/conflicts_passes.json','w'),indent=1)
 # STANDING_DECISIONS 2026-10-16 (Jeff): display rename after all passes applied (keeps earlier pass keys valid)
 _S036='FDA PMA P130005/S036 (approved 2023-06-01): "design change to the 1.25mm Coronary Crown Orbital Atherectomy Device, a name change from Diamondback 360 Coronary Orbital Atherectomy System to Diamondback 360 Precision"; https://api.fda.gov/device/pma.json?search=pma_number:P130005+AND+supplement_number:S036'
-RENAME={"Diamondback 360 Coronary OAS":("Diamondback 360 Precision","P130005, S036 (2023-06: 1.25 mm crown; formerly \"Diamondback 360 Coronary OAS\")")}
+_S026='FDA PMA P050018/S026 (approved 2020-09-11): "various design changes, including additional coating to the transition tube and modifications to the balloon, distal tip, and scoring element" (GUDID brand "AngioSculpt Evo RX PTCA scoring balloon catheter with hydrophilic coating", 2200-xxxx-B; FDA trade name "AngioSculpt Evo RX" in S035/S036 2025); https://api.fda.gov/device/pma.json?search=pma_number:P050018+AND+supplement_number:S026 | Philips US brochure "AngioSculpt Evo RX PTCA Scoring Balloon Catheter" D2021070901B (SEPT2024) p.1; https://www.documents.philips.com/assets/20240524/0352192fb87845c98226b17a00a782df.pdf'
+RENAME={"Diamondback 360 Coronary OAS":("Diamondback 360 Precision","P130005, S036 (2023-06: 1.25 mm crown; formerly \"Diamondback 360 Coronary OAS\")",_S036),
+"AngioSculpt RX PTCA":("AngioSculpt Evo RX","P050018, S026 (2020-09: Evo design change; formerly \"AngioSculpt RX PTCA\")",_S026)}  # 2026-10-18 Jeff
 for r in rows:
     if r.get("model") in RENAME:
-        old=r["model"];new,sub=RENAME[old];r["model"]=new;prov[new]=prov.pop(old,{})
-        r["fda_submission"]=sub;prov[new]["fda_submission"]=prov[new].get("fda_submission","")+" | "+_S036
+        old=r["model"];new,sub,src=RENAME[old];r["model"]=new;prov[new]=prov.pop(old,{})
+        r["fda_submission"]=sub;prov[new]["fda_submission"]=prov[new].get("fda_submission","")+" | "+src
 json.dump(prov,open('provenance.json','w'))
 FIELDS=['category','manufacturer','model','reprocessed','n_skus','catalog_numbers','fda_submission','product_code','diameters_mm','lengths_mm','french_sizes','length_cm','wire_diameter_in','guidewire_compat_in','sheath_compat_fr','burr_sizes_mm','inner_diameter_mm']+[x for x in allspec if x!='inner_diameter_mm']
 FIELDS=list(dict.fromkeys(FIELDS))

@@ -1,0 +1,13 @@
+[
+ {
+  "pass": 35,
+  "model": "AngioSculpt Evo RX",
+  "field": "shaft_length_cm",
+  "existing": "137 (catheter length, models 2200-xxxx)",
+  "existing_source": "AngioSculpt PTCA RX US IFU (models 2200-xxxx; sources/pass24/docs/AngioSculpt_PTCA_RX_IFU_2200-XXXX.pdf)",
+  "candidate": "139 cm (catheter length, all 2200-xxxx-B Evo models)",
+  "source": "Philips US brochure \"AngioSculpt Evo \u2014 RX PTCA Scoring Balloon Catheter\" D2021070901B (SEPT2024) p.3 ordering table; https://www.documents.philips.com/assets/20240524/0352192fb87845c98226b17a00a782df.pdf",
+  "rank": "Evo-specific brochure vs IFU (IFU > brochure) \u2014 not overwritten; Jeff to decide",
+  "note": "Brochure also lists 5 Fr guide compatibility (no balloon guide field). Compliance chart reaches 18 atm; RBP per-size labels not machine-readable \u2014 existing RBP 20/18/16 kept."
+ }
+]

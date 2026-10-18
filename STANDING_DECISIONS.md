@@ -60,3 +60,8 @@ Corsair Pro fda_submission = "K161126, K171933". K171933 (SE 2018-02-12, DQX) ad
 - Dragonfly OpStar: keep the values taken from SpectraWAVE 510(k) K221257's predicate comparison table. Rule: a competitor 510(k) predicate table is an acceptable source when it names the exact model and labels each figure (cite K-number, table, page).
 - Resolute Onyx rbp_atm = 18 atm (2.0–4.0 mm); 16 atm (4.5–5.0 mm RX) per US IFU M055193T001 Rev AF Table 1 p.5 and SSED P160043/S058 Table 1 p.4 (IFU/FDA supersede the 2017 SSED range 2.25–4.0 mm; old value in conflicts_passes.json via sources/pass34/override.csv).
 - AngioSculpt RX / Evo RX naming: still pending with Jeff — unchanged.
+
+## 2026-10-18 (evening) — AngioSculpt Evo RX (Jeff decision, pass 35)
+- Row "AngioSculpt RX PTCA" renamed "AngioSculpt Evo RX" (PMA P050018/S026, 2020-09-11 design change; GUDID brand "AngioSculpt Evo RX PTCA scoring balloon catheter"; Philips US brochure D2021070901B shows "AngioSculpt Evo — RX PTCA Scoring Balloon Catheter"). Former name kept in the fda_submission note; display rename in build_master.py RENAME (now carries a per-row source).
+- Out-of-distribution catalogs 2001-2020 and 2027-3515 dropped (GUDID 2026-10-18), same approach as Diamondback/Orsiro. balloon_type = "RX PTCA scoring balloon (nitinol scoring element)".
+- Existing values kept; Evo brochure catheter length 139 cm vs IFU 137 cm logged in sources/pass35/conflicts.json (IFU kept).
