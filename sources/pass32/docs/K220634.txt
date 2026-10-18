@@ -1,0 +1,349 @@
+                                                 June 30, 2022
+Abbott Vascular
+Nishi Singh
+Regulatory Affairs Project Manager
+3200 Lakeside Drive
+Santa Clara, California 95054
+
+
+Re: K220634
+    Trade/Device Name: NC TREK NEO Coronary Dilatation Catheter
+    Regulation Number: 21 CFR 870.5100
+    Regulation Name: Percutaneous Transluminal Coronary Angioplasty (PTCA) Catheter
+    Regulatory Class: Class II
+    Product Code: LOX
+    Dated: March 3, 2022
+    Received: March 4, 2022
+
+Dear Nishi Singh:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.04.33
+Silver Spring, MD 20993
+www.fda.gov
+K220634 - Nishi Singh                                                                                Page 2
+
+
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                Sincerely,
+
+                                                 Gregory W. Digitally  signed by
+                                                              Gregory W. O'connell -S
+
+                                                 O'connell -S Date: 2022.06.30
+                                                              14:29:47 -04'00'
+
+
+                                                Gregory O'Connell
+                                                Assistant Director
+                                                DHT2C: Division of Coronary
+                                                  and Peripheral Intervention Devices
+                                                OHT2: Office of Cardiovascular Devices
+                                                Office of Product Evaluation and Quality
+                                                Center for Devices and Radiological Health
+
+Enclosure
+                                                                        ABBOTT VASCULAR
+                                                                        3200 Lakeside Drive
+                                                                        Santa Clara, CA 95054
+                                                                        T: 408 845 3000
+                                                                        F: 408 845 3743
+
+
+
+
+                              510(k) SUMMARY - K220634
+
+The 510(k) Summary is submitted in accordance with 21 CFR 807.92 and the requirements of the
+Safe Medical Device Act (SMDA) of 1990.
+
+ 1. SUBMITTER’S NAME                   Abbott Vascular (with Business Trade Name as
+                                       Abbott Medical)
+
+ 2. SUBMITTER’S ADDRESS                3200 Lakeside Drive, Santa Clara, CA 95054
+
+ 3. TELEPHONE                          (408) 845-3000
+
+ 4. FAX                                (408) 845-3743
+
+ 5. CONTACT PERSON                     Nishi Singh
+
+ 6. DATE PREPARED                      May 31, 2022
+
+ 7. DEVICE TRADE NAME                  NC TREK NEO™ Coronary Dilatation Catheter
+
+
+ 8. DEVICE COMMON NAME                 •   Coronary Dilatation Catheter
+                                       •   Percutaneous Transluminal Coronary
+                                           Angioplasty (PTCA) Catheter
+
+ 9. DEVICE CLASSIFICATION              PTCA Catheter, LOX, Class II
+    NAME
+
+ 10. PREDICATE DEVICE NAME             NC TREK™ RX Coronary Dilatation Catheter
+                                       (K180040)
+ 11. REFERENCE DEVICE NAME
+
+                                       Voyager NC (P810046/S226, approved August 21,
+                                       2008, P810046/S232, approved Feb 4, 2010, and
+                                       downgraded to Class II- K103153, cleared
+                                       December 30, 2010) and
+
+                                       NC Emerge Monorail (K141236)
+                                                                        Page 1 of 5
+11.    DEVICE DESCRIPTION
+
+NC TREK NEO is a Non-Compliant (NC), Rapid Exchange (RX), Coronary Dilatation Catheter
+(CDC). The catheter is a rapid exchange co-axial design with a balloon at the distal tip. The
+proximal lumen provides for inflation of the balloon with contrast medium. The central distal
+lumen permits the guide wire to facilitate advancement of the catheter to and through the stenosis
+to be dilated. The outside diameter (OD) of the distal end of the device, including the distal shaft,
+tip, and the balloon are coated with Hydrophilic Coating.
+
+Radiopaque markers are positioned on the inner member underneath the balloon to provide
+accurate positioning of the balloon in the artery. The balloon is designed to provide an expandable
+segment of known diameter and length at specified pressures. Proximal shaft markers located on
+the outer shaft aid in gauging the dilatation catheter position relative to the guiding catheter tip
+when introducing the catheter through the guiding catheter. The Single arm on proximal end of the
+device provides access to the inflation lumen. It is designed with a Luer-lock fitting to facilitate
+connection to an inflation device.
+
+The NC TREK NEO™ Coronary Dilatation Catheter will be available in select combinations of
+1.50-6.00mm diameters and 6-25mm lengths.
+
+12.    INDICATIONS FOR USE
+
+The NC TREK NEO™ Coronary Dilatation Catheters are indicated for:
+   a) balloon dilatation of the stenotic portion of a coronary artery or bypass graft stenosis for
+      the purpose of improving myocardial perfusion.
+   b) balloon dilatation of a coronary artery occlusion for the purpose of restoring coronary flow
+      in patients with ST segment elevation myocardial infarction.
+   c) balloon dilatation of a stent after implantation (balloon models 2.00mm – 5.00mm only)
+
+
+13.    SUBSTANTIAL EQUIVALENCE
+
+The NC TREK NEO™ Coronary Dilatation Catheter incorporates substantially equivalent device
+materials and design, packaging materials and design, manufacturing processes, sterilization
+process, and the same indications for use and principles of operation as in the Abbott Vascular
+predicate device:
+NC TREK™ RX Coronary Dilatation Catheter (K180040)
+
+
+
+
+                                                                                Page 2 of 5
+                 Subject Device – NC TREK        Predicate Device – NC
+Comparison
+                 NEO™ Coronary Dilatation        TREK™ RX Coronary                   Comparison
+  Items
+                          Catheter                Dilatation Catheter
+                    a) balloon dilatation of
+                                                 a) balloon dilatation of
+                       the stenotic portion of
+                                                    the stenotic portion of
+                       a coronary artery or
+                                                    a coronary artery or
+                       bypass graft stenosis,
+                                                    bypass graft stenosis,
+                       for the purpose of
+                                                    for the purpose of
+                       improving
+                                                    improving myocardial
+                       myocardial perfusion.
+                                                    perfusion.
+                    b) balloon dilatation of a
+                                                 b) balloon dilatation of a
+                       coronary artery
+                                                    coronary artery
+                       occlusion, for the
+ Indications                                        occlusion, for the
+                       purpose of restoring                                            Identical
+   for Use                                          purpose of restoring
+                       coronary flow in
+                                                    coronary flow in
+                       patients with ST-
+                                                    patients with ST-
+                       segment elevation
+                                                    segment elevation
+                       myocardial
+                                                    myocardial infarction.
+                       infarction.
+                                                 c) balloon dilatation of a
+                    c) balloon dilatation of a
+                                                    stent after
+                       stent after
+                                                    implantation (balloon
+                       implantation (balloon
+                                                    models 2.00 mm –
+                       models 2.00 mm –
+                                                    5.00 mm only)
+                       5.00 mm only)
+                                                       Percutaneous
+                  Percutaneous Transluminal
+                                                  Transluminal Coronary
+                     Coronary Angioplasty
+Classification                                     Angioplasty (PTCA)
+                   (PTCA) Catheter 21 CFR                                              Identical
+   Name                                              Catheter 21 CFR
+                  870.5100 (class II, special
+                                                    870.5100 (class II,
+                           control)
+                                                      special control)
+Product Code                 LOX                            LOX                        Identical
+ Sterilization      Sterilization Method:          Sterilization Method:
+                                                                                       Identical
+   method              Ethylene Oxide                 Ethylene Oxide
+  Shelf Life         36-month (3 years)             36-month (3 years)                 Identical
+System Type         Rapid Exchange (RX)           Rapid Exchange (RX)                  Identical
+
+
+  Balloon                 1.5-6.0mm                     1.5-5.0mm                     Equivalent
+ Diameter
+   (mm)
+  Balloon                  6-25mm                        6-25mm                        Identical
+Length (mm)
+
+
+
+
+                                                                              Page 3 of 5
+                  Subject Device – NC TREK Predicate Device – NC
+ Comparison
+                  NEO™ Coronary Dilatation TREK™ RX Coronary                         Comparison
+   Items
+                           Catheter          Dilatation Catheter
+    Balloon          Polyether block amide  Polyether block amide                      Identical
+    Material
+ 1.50 - 5.0 mm
+      Size
+    Balloon                Polyamide                        N/A                5.50 – 6.00 mm Sizes are
+    Material                                                                   not in the NC TREK RX
+   5.50 - 6.00                                                                        Size Matrix.
+    mm Size
+    Catheter          Hydrophilic Coating           Hydrophilic Coating                Identical
+    Coating
+    Balloon              Non-Compliant                 Non-Compliant                   Identical
+  Compliance
+ Balloon Rated         18 atm (Minimum)              18 atm (Minimum)                  Identical
+ Burst Pressure
+     (RBP)
+   Guidewire                 0.014”                         0.014”                     Identical
+   Size (inch)
+ Total Catheter              145 cm                        143 cm                     Equivalent
+     Length
+
+
+14.    PERFORMANCE DATA
+
+The NC TREK NEO™ Coronary Dilatation Catheter was subjected to testing according to the
+requirements of Guidance for Industry and FDA Staff – Class II Special Controls for Certain
+Percutaneous Transluminal Coronary Angioplasty (PTCA) Catheters, 08 September 2010. Bench
+testing and biocompatibility testing were performed to support a determination of substantial
+equivalence.
+The results of these tests provide reasonable assurance that the proposed device has been designed
+and tested to assure conformance to the requirements for its intended use. No new questions
+of safety or performance issues were raised during the testing and, therefore, these devices may
+be considered substantially equivalent to the predicate device.
+
+The following biocompatibility and chemical characterization tests were completed on the NC
+TREK NEO™ Coronary Dilatation Catheter:
+              • Cytotoxicity
+              • Sensitization
+              • Irritation
+              • Acute Systemic & Pyrogenicity
+              • Hemocompatibility
+
+
+
+                                                                             Page 4 of 5
+The following dimensional and in-vitro performance tests were completed and support the NC
+TREK NEO™ Coronary Dilatation Catheter
+              • Tip dimensions
+              • Crossing Profile
+              • Guidewire Lumen
+              • Shaft Dimensions
+              • Proximal Shaft Marker Location
+              • Catheter Length
+              • Catheter Preparation
+              • Balloon Inflation/Deflation Time
+              • Balloon Rated Burst Pressure (RBP)
+              • Maximum Compliance Label
+              • Balloon Compliance
+              • Balloon RBP (In-Stent)
+              • Proximal Seal Tensile Strength
+              • Outer Member to Hypotube Seal Tensile Strength (Notch-Seal Tensile
+                 Strength)
+              • Proximal Adaption Tensile Strength
+              • Catheter Tip Tensile Strength
+              • Inner Member Lumen Collapse
+              • Balloon Fatigue Resistance
+              • Balloon Fatigue Resistance (In-Stent)
+              • Hydrophilic Coating- Dry Adhesion of Coating
+              • Hydrophilic Coating- Coefficient of Friction
+              • Kink/Flex
+              • Torque
+              • Particulates
+              • Finished Good Sheath Removal
+              • Balloon Preparation, Deployment and Retraction
+
+15.   CONCLUSIONS
+
+Given that the indications for use and the technological characteristics of the NC TREK NEO™
+Coronary Dilatation Catheter are the same to the predicate device, and the results of the
+performance testing demonstrate no new questions of safety and effectiveness of the subject
+device when compared to the predicate device, Abbott concludes that the NC TREK NEO™
+Coronary Dilatation Catheter is substantially equivalent to the Abbott predicate device – NC
+TREK RX Coronary Dilatation Catheter.
+
+
+
+
+                                                                        Page 5 of 5
+

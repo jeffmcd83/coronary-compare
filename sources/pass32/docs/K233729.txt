@@ -1,0 +1,337 @@
+                                                             May 31, 2024
+
+Vascular Solutions LLC
+Becky Astrup
+Pr. Regulatory Product Specialist
+6464 Sycamore Court North
+Minneapolis, Minnesota 55369
+
+
+Re: K233729
+    Trade/Device Name: Ringer perfusion balloon catheter, 2.00 x 20mm (5881);
+                         Ringer perfusion balloon catheter, 2.50 x 20mm (5882);
+                         Ringer perfusion balloon catheter, 2.50 x 30mm (5883);
+                         Ringer perfusion balloon catheter, 3.00 x 20mm (5884);
+                         Ringer perfusion balloon catheter, 3.00 x 30mm (5885);
+                         Ringer perfusion balloon catheter, 3.50 x 20mm (5886);
+                         Ringer perfusion balloon catheter, 3.50 x 30mm (5887);
+                         Ringer perfusion balloon catheter, 4.00 x 20mm (5888);
+                         Ringer perfusion balloon catheter, 4.00 x 30mm (5889);
+                         Ringer perfusion balloon catheter, 4.50 x 20mm (5890);
+                         Ringer perfusion balloon catheter, 5.00 x 20mm (5891)
+    Regulation Number: 21 CFR 870.5100
+    Regulation Name: Percutaneous Transluminal Coronary Angioplasty (PTCA) Catheter
+    Regulatory Class: Class II
+    Product Code: LOX
+    Dated: May 2, 2024
+    Received: May 2, 2024
+
+Dear Becky Astrup:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.06.10
+Silver Spring, MD 20993
+www.fda.gov
+K233729 - Becky Astrup                                                                                 Page      2
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+K233729 - Becky Astrup                                                    Page   3
+
+                            Sincerely,
+
+                             Brian D. Pullin -S
+                         for Lydia Glaw
+                             Assistant Director
+                             DHT2C: Division of Coronary
+                               and Peripheral Intervention Devices
+                             OHT2: Office of Cardiovascular Devices
+                             Office of Product Evaluation and Quality
+                             Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2023
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K233729
+
+Device Name
+Ringer perfusion balloon catheter
+
+
+
+Indications for Use (Describe)
+The Ringer Perfusion Balloon Catheter is indicated for balloon dilatation of coronary artery or coronary bypass graft
+stenoses where the physician desires distal blood perfusion during balloon inflation for the purpose of improving
+myocardial perfusion.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+510(k) Summary
+[As required by 21 CFR 807.92]
+Date Prepared: May 1, 2024
+510(k) Number: _K233729________
+
+
+ Submitter’s Name / Contact Person
+ Manufacturer                                              Contact Person
+ Vascular Solutions LLC                                    Becky Astrup
+ 6464 Sycamore Court North                                 Pr. Regulatory Product Specialist
+ Minneapolis, MN 55369 USA                                 Tel: 763-762-2601
+ Establishment Registration # 2134812
+
+ General Information
+ Trade Name                      Ringer perfusion balloon catheter
+
+ Common / Usual Name             Catheter
+
+ Classification Name             21 CFR 870.5100, LOX, Percutaneous Transluminal Coronary
+                                 Angioplasty Catheters, Class II
+
+ Predicate Device                K153682, Chocolate XD PTCA Balloon Catheter (Vascular
+                                 Solutions)
+
+                                 The Chocolate XD PTCA balloon catheter has not been subject to a
+                                 design related recall.
+
+
+Device Description
+
+The Ringer perfusion balloon catheter is a rapid exchange catheter with a spiral-shaped inflatable balloon
+on the distal end and a wire lumen for delivery over a ≤ 0.014” guidewire. The inflated spiral balloon
+approximates a hollow cylinder. Radiopaque markers at the proximal and distal end of the balloon
+facilitate visualization and intravascular placement of the catheter prior to inflation. The catheter shaft has
+positioning marks located at 95cm (single mark) and 105cm (double mark) from the distal tip. The Ringer
+perfusion balloon catheter has been sterilized with ethylene oxide.
+
+
+
+
+                                                                                                   Page 1 of 4
+Indications for Use
+
+The Ringer Perfusion Balloon Catheter is indicated for balloon dilatation of coronary artery or coronary
+bypass graft stenoses where the physician desires distal blood perfusion during balloon inflation for the
+purpose of improving myocardial perfusion.
+
+The Indications for Use statement for the Ringer Perfusion Balloon Catheter is not identical to the
+predicate device; however, the differences do not alter the intended therapeutic use of the device, nor do
+they affect the safety and effectiveness of the device relative to the predicate. Both the subject and
+predicate devices have the same intended use for the balloon dilatation of a hemodynamically significant
+coronary artery or bypass graft stenosis in patients evidencing coronary ischemia for the purpose of
+improving myocardial perfusion.
+
+Comparison of Technological Characteristics with the Predicate Device
+
+The subject device and predicate device have the same intended use and the indications for use for the
+subject device fall within the intended use of the predicate device. Differences between the subject device
+indications for use and predicate device indications for use are supported by benchtop, animal, and
+clinical tests.
+
+The Ringer perfusion balloon catheter and the predicate device have the same technological
+characteristics with respect to:
+
+     • Conditions of Use                                            • Balloon Inflation Time
+     • General Principles of Operation                              • Radiopaque Markers
+     • Cutting/Scoring Features (none)                              • Catheter Length
+     • Materials                                                    • Packaging
+     • Catheter Shaft Design and Configuration                      • Sterilization
+     • Guidewire and Guide Catheter Compatibility                   • Shelf Life
+     • Balloon Length
+The following technological differences exist between the subject and predicate device:
+
+     •   Ancillary Device Delivery                                     •   Balloon Diameter
+     •   Balloon Design                                                •   Nominal Pressure
+     •   Distal Perfusion Mechanism                                    •   Rated Burst Pressure
+     •   Crossing Profile                                              •   Balloon Deflation Time
+
+Results of benchtop, animal, and clinical tests demonstrate that the technological characteristics of the
+subject device do not raise different questions of safety and effectiveness and that the subject device is
+substantially equivalent to the predicate device.
+
+Performance Data
+
+The following performance data were provided in support of substantial equivalence.
+
+Biocompatibility Tests:
+
+The biocompatibility evaluation for the Ringer perfusion balloon catheter device was conducted in
+accordance with the FDA Guidance Use of International Standard ISO 10993-1, "Biological evaluation
+of medical devices - Part 1: Evaluation and testing within a risk management process, September 2023
+
+
+
+                                                                                                  Page 2 of 4
+and International Standard ISO 10993-1 Biological Evaluation of Medical Devices − Part 1: Evaluation
+and Testing Within a Risk Management Process, as recognized by FDA. The battery of testing included
+the following tests:
+
+
+     •   Cytotoxicity                           •   Materia Mediated Pyrogenicity
+     •   Sensitization                          •   Hemolysis
+     •   Irritation                             •   Complement Activation
+     •   Acute Systemic Toxicity                •   Thrombogenicity
+
+The Ringer perfusion balloon catheter is considered an external communicating device contacting
+circulating blood for a limited duration (<24 hours).
+
+Bench Tests:
+ • Dimensional and Visual Verification                       •    Catheter Bond Strength
+ • Balloon Preparation, Deployment and Retraction            •    Tip Pull Test
+ • Balloon Rated Burst Pressure                              •    Flexibility and Kink
+ • Balloon Fatigue                                           •    Torque Strength
+ • Balloon Compliance                                        •    Radiopacity
+ • Balloon Inflation and Deflation Time                      •    ISO 80369 Hub Verification
+
+
+Animal Tests:
+The safety of the Ringer perfusion balloon catheter was evaluated during simulated clinical use in a swine
+model. The testing was performed in accordance with 21 CFR Part 58 for Good Laboratory Practice
+(GLP) for Non-Clinical Laboratory Studies.
+
+The primary objective of demonstrating safety of the Ringer perfusion balloon catheter was exhibited in
+this study in terms of the measured adverse events, procedural data, gross necropsy, histopathology, and
+clinical observations. Normal, TIMI 3 perfusion was maintained to all vasculature distal to the test article
+for the duration of inflation. Thrombogenicity scores demonstrated no to minimal thrombus formation.
+Additionally, no significant visual changes observed from baseline to terminal time points through
+angiographic evaluation.
+
+
+Clinical Tests:
+
+Clinical data was collected for the Ringer perfusion balloon catheter to support substantial equivalence
+(G200321, ‘Ringer PTCA Study’). The objective of the Ringer PTCA study was to demonstrate
+performance of the Ringer Perfusion Balloon Catheter for dilatation/pre-dilatation of coronary stenoses
+during percutaneous coronary intervention (PCI). The secondary objective was to demonstrate
+maintenance of coronary blood flow distal to the inflated Ringer device thereby enabling prolonged
+balloon inflation (balloon inflation equal to or greater than one minute).
+
+Primary Effectiveness Endpoint
+The primary efficacy endpoint was device procedural success consisting of successful delivery, inflation,
+deflation, and removal of the study device; no vessel perforation, flow-limiting vessel dissection, no
+reduction in TIMI flow from baseline, and no clinically significant arrhythmias requiring medical
+treatment or device intervention following dilatation with the study device; achievement of final TIMI
+
+
+
+                                                                                                 Page 3 of 4
+flow grade of 3 at the conclusion of the PCI procedure for the target lesion. The primary efficacy endpoint
+was met in 57/60 (95%) of the subjects.
+
+Primary Safety Endpoint
+The study primary safety endpoint of occurrence of clinically relevant events during prolonged balloon
+inflations and freedom from MACE at hospital discharge was met in 95% (57/60) of the subjects.
+
+Secondary Efficacy Endpoint
+The secondary efficacy endpoint for the study was successful PCI defined as final residual stenosis ≤20%
+diameter stenosis (in-stent) or ≤ 50% diameter stenosis (stand-alone balloon) by visual angiographic
+estimation and freedom from MACE at hospital discharge; maintenance of TIMI-2 or -3 flow into distal
+coronary bed during study device inflation. The secondary efficacy endpoint of successful PCI was met in
+93% (56/60) of the subjects.
+
+Secondary Efficacy Endpoint
+The secondary safety endpoint evaluated tolerance of at least one study device inflation equal to or greater
+than one minute (prolonged inflation) at target site. The secondary safety endpoint of tolerance of at least
+one Ringer perfusion balloon catheter prolonged inflation at target site was met in 50/60 (83.3%) of
+subjects.
+
+Summary
+Procedural success was achieved in 95% of cases with no serious adverse events attributable to the
+subject device. Maintenance of TIMI II or III flow into distal coronary bed during Ringer perfusion
+balloon inflation was achieved in 100% of cases.
+
+This clinical data demonstrates that the subject device is appropriate for use in PTCA procedures. The
+clinical data raised no new questions of safety and effectiveness compared to the predicate device,
+supporting that the subject device is substantially equivalent to the predicate device.
+
+Conclusions
+The subject and predicate devices share the same intended use and fundamental scientific technology,
+including principle of operation. Differences in technological characteristics between the subject and
+predicate devices do not raise different questions of safety and effectiveness as demonstrated by bench,
+animal, and clinical tests. Non-clinical and clinical performance and safety evaluations support
+substantial equivalence of the Ringer perfusion balloon catheter to the predicate device.
+
+
+
+
+                                                                                                Page 4 of 4
+

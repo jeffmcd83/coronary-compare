@@ -1,0 +1,302 @@
+July 2, 2025
+
+
+Terumo Cardiovascular Systems THI Plant
+Rahul Reddy Chinkeri
+Senior Regulatory Affairs Specialist
+6190 Jackson Rd
+Ann Arbor, Michigan 48103
+
+
+Re: K250684
+    Trade/Device Name: OPUSWAVE Dual Sensor Imaging System
+    Regulation Number: 21 CFR 892.1560
+    Regulation Name: Ultrasonic Pulsed Echo Imaging System
+    Regulatory Class: Class II
+    Product Code: NQQ, IYO
+    Dated: March 6, 2025
+    Received: June 3, 2025
+
+Dear Rahul Reddy Chinkeri:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.07.05
+Silver Spring, MD 20993
+www.fda.gov
+K250684 - Rahul Reddy Chinkeri                                                                         Page 2
+
+
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+K250684 - Rahul Reddy Chinkeri                                                                      Page 3
+
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                               Sincerely,
+
+                                               Aneesh S. Deoras -S
+                                               Aneesh Deoras
+                                               Assistant Director
+                                               Division of Cardiac Electrophysiology,
+                                                 Diagnostics, and Monitoring Devices
+                                               Office of Cardiovascular Devices
+                                               Office of Product Evaluation and Quality
+                                               Center for Devices and Radiological Health
+
+Enclosure
+Terumo Cardiovascular Systems THI Plant               OPUSWAVE Dual Sensor Imaging System
+510(k) Summary                                                          Traditional 510(k)
+                     OPUSWAVE Dual Sensor Imaging System
+                             510(k) Summary
+                  This section is prepared in accordance with 21 CFR Part 807.92
+
+  I.   General Information
+       Submitters Name and Address:               Terumo Cardiovascular Systems THI Plant
+                                                  6190 Jackson Road
+                                                  Ann Arbor, MI 48103
+       Name of the Contact Person:                Rahul Reddy Chinkeri, Senior RA Specialist
+       Phone Number:                              Tel: +1 734-822-1877
+       Email:                                     rahul.chinkeri@terumomedical.com
+       Establishment Registration:                3005228872
+       Date Prepared:                             28 February 2025
+
+
+ II.   Device Information
+       Trade Name:                                OPUSWAVE Dual Sensor Imaging System
+       Common/Generic Name:                       Optical Coherence Tomography (OCT) Imaging
+                                                  System / Ultrasonic pulsed echo imaging system
+       Classification Name:                       Ultrasonic pulsed echo imaging system
+       Device Class:                              Class II
+       Classification Panel:                      Radiology/Cardiology Panel
+       Regulation Number:                         21 CFR 892.1560
+       Product Code(s):                           NQQ / IYO
+
+
+III.   Predicate Device
+       Predicate Device#1, iLab Ultrasound Imaging System cleared under K152316.
+       Predicate Device#2, Ilumien Optis cleared under K141453.
+
+IV.    Device Description
+       The OPUSWAVE Dual Sensor Imaging System consists of a wheeled console with
+       monitor, keyboard, mouse, a software graphical user interface and a Motor Drive Unit
+       (MDU) protected by an MDU cover. The MDU is connected to a DualView Catheter
+       capable of imaging both, Optical Coherence Tomography (OCT) and Intravascular
+       Ultrasound (IVUS) modalities, either simultaneously or asynchronously, without
+       removing the catheter from the imaging site. The system allows image data to be
+       exported and stored on external media (USB, DVD), and for integration with Cath Lab
+       imaging technologies (angio, ECG).
+
+
+
+
+K250684                                                                             Page 1 of 4
+ Terumo Cardiovascular Systems THI Plant                                OPUSWAVE Dual Sensor Imaging System
+ 510(k) Summary                                                                           Traditional 510(k)
+          The sterile operator (physician) is able to control image acquisition by manually
+          positioning the imaging sensor as well as performing pullback (automatically or
+          manually) for defined regions of interest. The system provides analysis tools such as area
+          and linear measurements.
+
+ V.       Indications for Use
+          The OPUSWAVE System with DualView Catheter is intended for the intravascular
+          imaging of coronary arteries and is indicated in patients who are candidates for
+          transluminal interventional procedures.
+
+VI.       Comparison of Intended Use / Indications to the Predicate Device
+          The subject and the predicate devices have the same intended use as the devices are
+          intended to provide intravascular imaging of coronary arteries and is indicated in patients
+          who are candidates for transluminal interventional procedures.
+
+VII.      Comparison of Technological Characteristics
+                             Proposed Device #1     Predicate Device #1      Predicate Device #2
+       Attribute          OPUSWAVE Dual                 iLab Ultrasound                                    Discussion
+                        Sensor Imaging System           Imaging System           Ilumien Optis
+
+  Manufacturer          Terumo                     Boston Scientific        Abbott                   -
+                        OPUSWAVE Dual              iLab Ultrasound Imaging
+  Trade Name                                                               Ilumien Optis             -
+                        Sensor Imaging System      System
+                        Optical
+                        Coherence
+                        Tomography                                          Optical Coherence
+                        (OCT) Imaging              Ultrasonic pulsed echo
+  Common Name                                                               Tomography (OCT)         Equivalent
+                        System                     imaging system
+                                                                            Imaging System
+                        / Ultrasonic pulsed echo
+                        imaging system
+  Regulation Number     21 CFR 892.1560            21 CFR 892.1560          21 CFR 892.1560          Equivalent
+                        Ultrasonic pulsed echo     Ultrasonic pulsed echo   Ultrasonic pulsed echo
+  Regulation Name                                                                                    Equivalent
+                        imaging system             imaging system           imaging system
+  Regulation Class      II                         II                       II                       Equivalent
+  510(k)
+                        Subject of this
+  Clearance                                        K152316                  K141453                  -
+                        submission
+  Number
+  Product Code          NQQ / IYO                  IYO                      NQQ                      Equivalent
+  Form factor           Cart-based Console         Cart-based Console       Cart-based Console       Equivalent
+  Catheter Mechanical   Motor Drive Unit           Motor Drive Unit         Drive-motor and Optical
+                                                                                                    Equivalent
+  Drive                 (MDU)                      (MDU)                    Controller (DOC)
+                        PC-based system with       PC-based system with     PC-based system with
+  User Interface                                                                                     Equivalent
+                        Keyboard and Mouse         Touchpad and Mouse       Keyboard and Mouse
+  Software Interface    Custom GUI                 Custom GUI               Custom GUI               Equivalent
+
+
+
+
+ K250684                                                                                                      Page 2 of 4
+ Terumo Cardiovascular Systems THI Plant                              OPUSWAVE Dual Sensor Imaging System
+ 510(k) Summary                                                                         Traditional 510(k)
+
+                       Proposed Device #1        Predicate Device #1       Predicate Device #2
+        Attribute       OPUSWAVE Dual              iLab Ultrasound                                       Discussion
+                      Sensor Imaging System        Imaging System               Ilumien Optis
+
+                      Real-time grayscale       Real-time grayscale       Real-time grayscale
+  Image Output                                                                                     Equivalent
+                      image                     image                     image
+                      Network, USB, Optical,    Network, Optical, Hard    Network, USB, Optical,
+  File archive                                                                                     Equivalent
+                      Hard drive                drive                     Hard drive
+  IVUS Imaging Mode   B Mode                    B Mode                    Not applicable           Equivalent to predicate 1
+  IVUS center
+                      40MHz                     40MHz                     Not applicable           Equivalent to predicate 1
+  frequency
+                                                                                                   Equivalent to predicate
+                      Does not exceed Track 3 Does not exceed Track 1
+  Acoustic Output                                                     Not applicable               1: Dual Sensor will meet
+                      limits                  limits.
+                                                                                                   60601-2-37 req.
+  OCT laser
+                      1300 nm                   Not applicable            1305 nm                  Equivalent to predicate 2
+  wavelength
+  Scanning Laser      Class 1 Laser Output per                            Class 1M Laser Output
+                                               Not applicable                                      Equivalent to predicate 2
+  Source Output       60825-1                                             per 60825-1
+  Coronary flush      Yes; Saline or Contrast                                                      Equivalent – coronary
+  required (OCT       or Saline/Contrast        Not required              Yes                      flush is required for
+  imaging only)       mixture                                                                      OCT imaging modes
+  Pullback Trigger    Automatic or Manual       Automatic or Manual       Automatic or Manual      Equivalent
+           Table 1: Comparison of Technological Characteristics between the OPUSWAVE Dual
+            Sensor Imaging System (Subject Device), Lab Ultrasound Imaging System (Predicate
+                            Device#1) and Ilumien Optis (Predicate Device#2)
+
+VIII.     Performance Data
+          The following performance data were provided in support of the substantial equivalence
+          determination:
+          Electrical Safety and Electromagnetic Compatibility (EMC)
+          Evaluation for electrical safety and EMC testing was conducted on the OPUSWAVE
+          Dual Sensor Imaging System. The OPUSWAVE Dual Sensor Imaging System complies
+          with the IEC 60601-1 standard for electrical safety and the IEC 60601-1-2 standard for
+          EMC.
+          Software Verification and Validation Testing
+          Software verification and validation testing was completed successfully. The fulfillment
+          documentation is provided as recommended by FDA’s Guidance for Industry and FDA
+          Staff, “Guidance for the Content of Premarket Submissions for Software Contained in
+          Medical Devices”. The software documentation level required for OPUSWAVE Dual
+          Sensor Imaging System is considered as “Enhanced” level since a failure of the software
+          to perform the functions correctly could result in serious injury or death.
+
+
+
+
+ K250684                                                                                                     Page 3 of 4
+Terumo Cardiovascular Systems THI Plant              OPUSWAVE Dual Sensor Imaging System
+510(k) Summary                                                         Traditional 510(k)
+      Design Verification and Validation Testing
+      Design verification testing was conducted and demonstrates that OPUSWAVE Dual
+      Sensor Imaging System performs pursuant to the defined design input requirements for
+      the subject device. Design validation, including simulated use testing, was conducted
+      and demonstrates that the OPUSWAVE Dual Sensor Imaging System meets user needs
+      and intended use.
+      Animal Study
+      Animal testing was performed and demonstrated the substantial equivalence of the
+      OPUSWAVE Dual Sensor Imaging System to the predicate devices and is included as part of
+      this premarket notification.
+      Clinical Studies
+      Clinical testing was not required to demonstrate the substantial equivalence of the
+      OPUSWAVE Dual Sensor Imaging System to the predicate devices and is not included as
+      part of this premarket notification.
+
+IX.   Conclusion
+      The information provided above supports that the OPUSWAVE Dual Sensor Imaging
+      System is substantially equivalent to the predicate devices with respect to the intended
+      use and technological characteristics. Verification and validation testing supports that the
+      hardware and software difference do not raise any new issues of safety and effectiveness.
+      Therefore, it is concluded that the OPUSWAVE Dual Sensor Imaging System is
+      substantially equivalent to the predicate device.
+
+
+
+
+K250684                                                                               Page 4 of 4
+

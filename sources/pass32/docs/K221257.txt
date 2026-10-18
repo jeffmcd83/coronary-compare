@@ -1,0 +1,699 @@
+February 28, 2023
+
+
+SpectraWAVE, Inc.
+Farzad Parsaie
+VP, Quality Assurance & Regulatory Affairs
+12 Oak Park Drive
+Bedford, Massachusetts 01730
+
+
+Re: K221257
+    Trade/Device Name: SpectraWAVE Imaging System
+    Regulation Number: 21 CFR 892.1560
+    Regulation Name: Ultrasonic pulsed echo imaging system
+    Regulatory Class: Class II
+    Product Code: NQQ, ORD, OGZ, IYO
+    Dated: February 24, 2023
+    Received: February 24, 2023
+
+Dear Farzad Parsaie:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device referenced
+above and have determined the device is substantially equivalent (for the indications for use stated in the
+enclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the
+enactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance
+with the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a
+premarket approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. Although this letter refers to your product as a device, please be aware that
+some cleared products may instead be combination products. The 510(k) Premarket Notification Database
+located at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.05.02
+Silver Spring, MD 20993
+www.fda.gov
+K221257 - Farzad Parsaie                                                                               Page 2
+
+
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for
+devices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for
+combination products; and, if applicable, the electronic product radiation control provisions (Sections 531-
+542 of the Act); 21 CFR 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+                                                 Aneesh S. Deoras -S
+                                                 Aneesh Deoras
+                                                 Assistant Director
+                                                 Division of Cardiac Electrophysiology,
+                                                   Diagnostics and Monitoring Devices
+                                                 Office of Cardiovascular Devices
+                                                 Office of Product Evaluation and Quality
+                                                 Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 06/30/2023
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K221257
+
+Device Name
+
+SpectraWAVE Imaging System
+
+Indications for Use (Describe)
+
+The SpectraWAVE Imaging System is intended for the imaging of coronary arteries and is indicated in patients who are
+candidates for transluminal interventional procedures.
+
+The SpectraWAVE Imaging Catheter is intended for use in vessels 2.0 to 5.2 mm in diameter.
+
+The SpectraWAVE Imaging Catheter is not intended for use in a target vessel which has undergone a previous bypass
+procedure.
+
+The NIRS capability of the SpectraWAVE Imaging System is intended for the detection of lipid core containing plaques
+of interest.
+
+The NIRS capability of the SpectraWAVE Imaging System is intended for the assessment of coronary artery lipid core
+burden.
+
+The NIRS capability of the SpectraWAVE Imaging System is intended for the identification of patients and plaques at
+increased risk of major adverse cardiac events.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (6/20)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                          510(k) Summary
+           ________________________________________________________________
+
+                                      Traditional 510(k) Summary
+
+
+          1.   Basic Information-Submitter:
+
+               510(k) Owner:                  SpectraWAVE, Inc.
+
+               Address:                       12 Oak Park Drive
+                                              Bedford, MA 01730
+                                              (781) 701-8148 (main number)
+
+               Official Contact:              Farzad Parsaie
+                                              VP, Quality Assurance & Regulatory Affairs
+                                              (781) 701-8148 (main number)
+                                              fparsaie@spectrawave.com
+
+               Date Summary Prepared:         28 February 2023
+
+
+           2. Device Name:
+
+               Trade Name:                    SpectraWAVE Imaging System
+               Model Number:                  System: 931; Catheter: 951
+               Common Name:                   Optical Coherence Tomography Imaging System
+               Classification Name:           Ultrasonic pulsed echo imaging system
+                                              Diagnostic intravascular catheter
+               Regulation Numbers:            21 CFR 892.1560, 21 CFR 870.1200
+               Product Code:                  NQQ, ORD, OGZ, IYO
+               Classification:                Class II
+
+          3.   Predicate Devices:
+
+                •   K192019 Dragonfly OpStar™ Imaging Catheter, AptiVue™ Software version
+                    E.5.1
+                •   K183599 Infraredx, Inc. Makoto Intravascular Imaging System™, Dualpro™
+                    IVUS+NIRS Imaging Catheter- secondary predicate
+
+          4.   Device Description:
+
+               The SpectraWAVE Imaging System is an intravascular imaging device with the
+               ability to simultaneously assess vessel composition and structure by combining
+               Optical Coherence Tomography (OCT) and Near Infrared Spectroscopy (NIRS) in
+               a single catheter-based system.
+
+
+K221257                               510(k) Summary                                 Page 1 of 15
+               The SpectraWAVE Imaging System consists of the following components:
+
+                •   Console: A mobile platform containing the optical and computing engine,
+                    physician and technologist touch displays, power distribution system, and
+                    input/output interface.
+
+                •   Software: A proprietary application software that orchestrates the control,
+                    acquisition, processing, and display of the OCT-NIRS data.
+
+                •   Catheter Interface Unit (CIU): A tethered CIU that controls the motion of the
+                    fiber optic imaging core within the Catheter sheath and connects the Catheter
+                    to the Console.
+
+                •   Imaging Catheter: A sterile, single patient use 2.5 French dual-modality
+                    imaging catheter containing a rotating fiber optic imaging core inside a
+                    protective sterile sheath.
+
+          5.   Indications for Use Statement:
+               The SpectraWAVE Imaging System is intended for the imaging of coronary arteries
+               and is indicated in patients who are candidates for transluminal interventional
+               procedures.
+               The SpectraWAVE Imaging Catheter is intended for use in vessels 2.0 to 5.2 mm in
+               diameter.
+               The SpectraWAVE Imaging Catheter is not intended for use in a target vessel
+               which has undergone a previous bypass procedure.
+               The NIRS capability of the SpectraWAVE Imaging System is intended for the
+               detection of lipid core containing plaques of interest.
+               The NIRS capability of the SpectraWAVE Imaging System is intended for the
+               assessment of coronary artery lipid core burden.
+               The NIRS capability of the SpectraWAVE Imaging System is intended for the
+               identification of patients and plaques at increased risk of major adverse cardiac
+               events.
+
+          6.   Technological Characteristics:
+               The SpectraWAVE Imaging System is utilizing a primary and secondary predicate
+               device as the product combines features of two predicate devices with the same
+               intended use into a single new device. As shown in Tables 1 and 2 below, the
+               SpectraWAVE Imaging System is substantially equivalent to the respective features
+               of the two predicate devices because it has the same intended use, and the
+               technological characteristics are similar and substantially equivalent to the cited
+               predicates.
+
+
+K221257                                 510(k) Summary                                  Page 2 of 15
+                                          Table 1: Primary Predicate Device Comparison
+Manufacturer    SpectraWAVE, Inc.                               Abbott Medical                                     Discussion of
+                                                                                                                   Equivalence &
+Model           SpectraWAVE Imaging System                      OPTIS Imaging System
+                                                                                                                   Differences
+                                                                Dragonfly OpStar™ Imaging Catheter
+510(k) Number   This submission                                 K192019                                            NA
+Product Code    NQQ – System, imaging, optical coherence        NQQ – System, imaging, optical coherence           Same for NQQ code
+                tomography                                      tomography
+                ORD – Optical Coherence Tomography,             DQO – Catheter, Intravascular, Diagnostic          Substantially
+                Intravascular Catheter                                                                             equivalent for ORD
+                                                                                                                   vs DQO codes.
+                                                                                                                   While the predicates
+                                                                                                                   used DQO as an
+                                                                                                                   additional code, the
+                                                                                                                   ORD code is more
+                                                                                                                   exact for both the
+                                                                                                                   proposed and
+                                                                                                                   predicate devices.
+
+
+Intended Use    The SpectraWAVE Imaging System and the          The OPTIS Imaging System with Dragonfly            Same
+                SpectraWAVE Imaging Catheter are intended       OpStar Imaging Catheter is intended for the
+                for the imaging of coronary arteries.           imaging of coronary arteries.
+Intended        Physicians and healthcare professionals         Physicians and healthcare professionals            Same
+Users
+Operational     Cardiac catheterization laboratory              Cardiac catheterization laboratory                 Same
+Environment
+Indications     The SpectraWAVE Imaging System is intended      The Dragonfly OpStar™ imaging catheter with        Substantially
+For Use         for the imaging of coronary arteries and is     OCT imaging system is intended for the             equivalent for the
+                indicated in patients who are candidates for    imaging of coronary arteries and is indicated in   OCT portion of the
+                transluminal interventional procedures.         patients who are candidates for transluminal       device.
+                                                                interventional procedures. The Dragonfly           The scan range of
+                                                                OpStar Imaging Catheter is intended for use in     the SpectraWAVE
+
+
+
+    K221257                                    510(k) Summary                                              Page 3 of 15
+                                         Table 1: Primary Predicate Device Comparison
+Manufacturer   SpectraWAVE, Inc.                                 Abbott Medical                                      Discussion of
+                                                                                                                     Equivalence &
+Model          SpectraWAVE Imaging System                        OPTIS Imaging System
+                                                                                                                     Differences
+                                                                 Dragonfly OpStar™ Imaging Catheter
+               The SpectraWAVE Imaging Catheter is               vessels 2.0 to 3.5 mm in diameter. The              Imaging System
+               intended for use in vessels 2.0 to 5.2 mm in      Dragonfly OpStar Imaging Catheter is not            allows imaging of
+               diameter.                                         intended for use in the left main coronary artery   vessels up to 5.2mm
+               The SpectraWAVE Imaging Catheter is not           or in a target vessel which has undergone a         in diameter, which
+               intended for use in a target vessel which has     previous bypass procedure.                          covers the expected
+               undergone a previous bypass procedure.                                                                range of left main
+                                                                                                                     coronary arteries.
+               The NIRS capability of the SpectraWAVE            The AptiVue™ E-series software is intended
+               Imaging System is intended for the detection of   for use only with compatible OPTIS™ imaging
+               lipid core containing plaques of interest.        systems. The OPTIS imaging system with a
+               The NIRS capability of the SpectraWAVE            compatible Dragonfly™ imaging catheter is
+               Imaging System is intended for the                intended for the imaging of coronary arteries
+               assessment of coronary artery lipid core          and is indicated in patients who are candidates
+               burden.                                           for transluminal interventional procedures. The
+                                                                 compatible Dragonfly™ imaging catheters are
+               The NIRS capability of the SpectraWAVE
+                                                                 intended for use in vessels 2.0 to 3.5 mm in
+               Imaging System is intended for the
+                                                                 diameter. The compatible Dragonfly™ imaging
+               identification of patients and plaques at
+                                                                 catheters are not intended for use in the left
+               increased risk of major adverse cardiac events.
+                                                                 main coronary artery or in a target vessel
+                                                                 which has undergone a previous bypass
+                                                                 procedure.
+                                                                 The OPTIS imaging system is intended for use
+                                                                 in the catheterization and related
+                                                                 cardiovascular specialty laboratories and will
+                                                                 further compute and display various
+                                                                 physiological parameters based on the output
+                                                                 from one or more electrodes, transducers, or
+                                                                 measuring devices. The physician may use the
+                                                                 acquired physiological parameters, along with
+                                                                 knowledge of patient history, medical expertise
+
+
+
+
+    K221257                                  510(k) Summary                                                 Page 4 of 15
+                                            Table 1: Primary Predicate Device Comparison
+Manufacturer     SpectraWAVE, Inc.                                    Abbott Medical                                       Discussion of
+                                                                                                                           Equivalence &
+Model            SpectraWAVE Imaging System                           OPTIS Imaging System
+                                                                                                                           Differences
+                                                                      Dragonfly OpStar™ Imaging Catheter
+                                                                      and clinical judgment to determine if
+                                                                      therapeutic intervention is indicated.
+System           Imaging System reusable electrical mechanical        Imaging System reusable electrical mechanical        Substantially
+Components       unit                                                 unit                                                 Equivalent
+                 Intravascular imaging catheter                       Intravascular imaging catheter
+                 Disposable accessories                               Disposable accessories
+Primary          Delivers energy (infrared light) to the tissue.      Delivers energy (infrared light) to the tissue.      Same
+Functions        Measures the depth and pattern of reflections        Measures the depth and pattern of reflections
+                 from the tissue from the return near infrared        from the tissue from the return near infrared
+                 light to create high resolution, real time images.   light to create high resolution, real time images.
+                 Stores images for evaluation and review.             Stores images for evaluation and review.
+Image            Process reflected optical signals to construct       Process reflected optical signals to construct       Same
+Creation,        images.                                              images.
+Display and      Display images.                                      Display images.
+Storage
+                 Store images.                                        Store images.
+Measure          Calculate and report vessel cross sectional          Calculate and report vessel cross sectional          Same
+Vessel Cross     area                                                 area
+Sectional Area
+Measure          Calculate and display vessel diameter at user        Calculate and display vessel diameter at user        Same
+Vessel Linear    specified locations within the displayed image       specified locations within the displayed image
+Dimensions
+Calculate        Calculate and display mathematical                   Calculate and display mathematical                   Same
+Vessel           comparisons of image data such as %                  comparisons of image data such as %
+Physical         reduction from average, length of narrowing.         reduction from average, length of narrowing.
+Parameters
+
+
+
+
+    K221257                                      510(k) Summary                                                   Page 5 of 15
+                                            Table 1: Primary Predicate Device Comparison
+Manufacturer     SpectraWAVE, Inc.                                   Abbott Medical                                     Discussion of
+                                                                                                                        Equivalence &
+Model            SpectraWAVE Imaging System                          OPTIS Imaging System
+                                                                                                                        Differences
+                                                                     Dragonfly OpStar™ Imaging Catheter
+Procedural       System set-up, patient data entry, catheter         System set-up, patient data entry, catheter        Substantially
+Steps            preparation insertion of catheter into the artery   preparation and flushing, insertion of catheter    Equivalent
+                 under fluoroscopic guidance, proper                 into the artery under fluoroscopic guidance,
+                 positioning of the catheter distal to the target    proper positioning of the catheter distal to the
+                 vessel, image acquisition and evaluation of the     target vessel, image acquisition and evaluation
+                 acquired images.                                    of the acquired images.
+Use of Results   Physicians evaluate the images in combination       Physicians evaluate the images in combination      Same
+                 with other tests and evaluations to assess the      with other tests and evaluations to assess the
+                 patient’s coronary arteries.                        patient’s coronary arteries.
+Imaging Catheter
+Primary          To position the catheter into the vessel to be      To position the catheter into the vessel to be     Same
+Functions        imaged.                                             imaged.
+                 To deliver near infrared light to tissues.          To deliver near infrared light to tissues.
+                 To collect reflections.                             To collect reflections.
+Design           Rapid exchange, mono-rail tip design with two       Rapid exchange, mono-rail tip design with two      Same
+Features         sub-assemblies (catheter sheath and imaging         sub-assemblies (catheter sheath and imaging
+                 core).                                              core).
+Sterile          Yes                                                 Yes                                                Same
+Single Use       Yes                                                 Yes                                                Same
+Guide Wire       Compatible with 0.014” guide wires                  Compatible with 0.014” guide wires                 Same
+Compatibility
+Dimensions,      2.5 Fr diameter window                              < 3.0 Fr diameter window                           Substantially
+Catheter         141 cm insertable length                            135 cm (min) insertable length                     equivalent.
+                                                                                                                        Performance test
+                                                                                                                        data, including
+
+
+
+     K221257                                     510(k) Summary                                                 Page 6 of 15
+                                             Table 1: Primary Predicate Device Comparison
+Manufacturer     SpectraWAVE, Inc.                                    Abbott Medical                                      Discussion of
+                                                                                                                          Equivalence &
+Model            SpectraWAVE Imaging System                           OPTIS Imaging System
+                                                                                                                          Differences
+                                                                      Dragonfly OpStar™ Imaging Catheter
+                                                                                                                          bench, in-vitro and
+                                                                                                                          in-vivo testing,
+                                                                                                                          demonstrates that
+                                                                                                                          the images and
+                                                                                                                          measurements
+                                                                                                                          provided by the
+                                                                                                                          SpectraWAVE
+                                                                                                                          Imaging System are
+                                                                                                                          substantially
+                                                                                                                          equivalent to the
+                                                                                                                          Abbott OPTIS
+                                                                                                                          Imaging System and
+                                                                                                                          Dragonfly OpStar
+                                                                                                                          Imaging Catheter.
+Tip Design       Distal tip delivers near infrared light onto the     Distal tip delivers near infrared light onto the    Same
+                 tissue and collects reflections                      tissue and collects reflections
+Body Contact     Direct blood contact                                 Direct blood contact                                Same
+Biocompatibili   Per ISO 10993-1                                      Per ISO 10993-1                                     Same
+ty
+Insertion        Inserted into an artery under fluoroscopic           Inserted into an artery under fluoroscopic          Same
+                 guidance.                                            guidance.
+                 Catheter positioned distal to the target region      Catheter positioned distal to the target region
+                 in the vessel to be imaged.                          in the vessel to be imaged.
+Rotational       Imaging core rotates inside a sheath within the      Imaging core rotates inside the sheath within       Same
+Movement         vessel to obtain full 360 degrees to deliver light   the vessel to obtain full 360 degrees to deliver
+                 to create a cross-sectional image.                   light to create a cross-sectional image.
+
+
+
+
+     K221257                                      510(k) Summary                                                   Page 7 of 15
+                                          Table 1: Primary Predicate Device Comparison
+Manufacturer    SpectraWAVE, Inc.                              Abbott Medical                                  Discussion of
+                                                                                                               Equivalence &
+Model           SpectraWAVE Imaging System                     OPTIS Imaging System
+                                                                                                               Differences
+                                                               Dragonfly OpStar™ Imaging Catheter
+Longitudinal    Imaging core moves longitudinally inside a     Imaging core moves longitudinally inside a      Same
+Movement        sheath within the vessel to obtain images      sheath within the vessel to obtain images
+                across the length of the target vessel         across the length of the target vessel
+                (pullback).                                    (pullback).
+Reusable Electrical Mechanical Unit
+Energy          Near infrared light                            Near infrared light                             Same
+Source
+Weight          200 lbs (approximate)                          < 209 lbs (approximate)                         Substantially
+                                                                                                               equivalent
+Operating       10 - 32°C                                      10 - 32°C                                       Substantially
+Conditions      5 – 80% RH, non-condensing                     30 - 80% Relative Humidity                      equivalent
+
+Imaging and Pullback Specifications
+Catheter        200 per second                                 180 per second                                  Substantially
+Rotational                                                                                                     equivalent
+Rate
+Frame Rate      200 per second                                 180 per second                                  Substantially
+                                                                                                               equivalent
+Automated       Yes                                            Yes                                             Same
+Pullback
+Image Length    50 mm / 110 mm                                 54 mm / 75 mm                                   Substantially
+                                                                                                               equivalent
+Image           Approximately 2 seconds                        Approximately 2-4 seconds                       Substantially
+Collection                                                                                                     equivalent
+Time
+
+
+
+
+    K221257                                   510(k) Summary                                            Page 8 of 15
+                                            Table 1: Primary Predicate Device Comparison
+Manufacturer      SpectraWAVE, Inc.                                Abbott Medical                                  Discussion of
+                                                                                                                   Equivalence &
+Model             SpectraWAVE Imaging System                       OPTIS Imaging System
+                                                                                                                   Differences
+                                                                   Dragonfly OpStar™ Imaging Catheter
+Catheter          No flush                                         Contrast flush                                  Substantially
+Preparation                                                                                                        equivalent. The OCT
+                                                                                                                   predicate requires
+                                                                                                                   flushing the catheter
+                                                                                                                   with contrast;
+                                                                                                                   however, the
+                                                                                                                   SpectraWAVE
+                                                                                                                   Imaging Catheter
+                                                                                                                   does not require a
+                                                                                                                   contrast flush.
+
+
+Minimum           ≥ 6 Fr                                           ≥ 6 Fr                                          Same
+Guide
+Catheter
+Catheter          Single optical imaging catheter, mechanically    Single optical imaging element, mechanically    Same
+Configuration     rotated                                          rotated
+Proximal End      Single connector, mechanical snap in motor       Single connector, mechanical snap in motor      Same
+Configuration     drive unit                                       drive unit
+User Interface and Displays
+Sterile Barrier   Catheter Interface Unit encapsulated in single   Motor Drive Unit encapsulated in single use     Same
+Interface         use disposable bag                               disposable bag
+Configuration     Mobile cart with braking system                  Mobile cart with braking system                 Same
+User Input        Touch screen                                     Keyboard and mouse                              Substantially
+                                                                                                                   equivalent
+Data Storage      Native format                                    DICOM and native format                         Substantially
+                                                                                                                   equivalent
+
+
+
+     K221257                                    510(k) Summary                                              Page 9 of 15
+                                        Table 1: Primary Predicate Device Comparison
+Manufacturer   SpectraWAVE, Inc.                                Abbott Medical                               Discussion of
+                                                                                                             Equivalence &
+Model          SpectraWAVE Imaging System                       OPTIS Imaging System
+                                                                                                             Differences
+                                                                Dragonfly OpStar™ Imaging Catheter
+Monitors       Two high resolution touch-screen monitors        Two high resolution monitors                 Substantially
+                                                                                                             equivalent
+Software       Windows-based                                    Windows-based                                Same
+Program
+Displays       Cross-sectional image (frame)                    Cross-sectional image (frame)                Same
+               Longitudinal view                                Longitudinal view
+User           Computer aided measurement tools, such as        Image notation.                              Substantially
+Convenience    border contours.                                 Computer aided measurement tools, such as    equivalent.
+Features       Computation of cross-sectional area and          border contours.
+               percent stenosis.                                Computation of cross-sectional area and
+                                                                percent stenosis.
+
+
+
+
+    K221257                                    510(k) Summary                                        Page 10 of 15
+                                        Table 2: Secondary Predicate Device Comparison
+Manufacturer                 SpectraWAVE, Inc.                                InfraReDx, Inc.                          Discussion of
+                                                                                                                       Equivalence &
+    Model             SpectraWAVE Imaging System                Makoto Intravascular Imaging System™
+                                                                                                                        Differences
+                                                                Dualpro™ IVUS+NIRS Imaging Catheter
+510(k) Number     This submission                              K183599                                            NA
+   Product        Near Infrared Imaging System                 Near Infrared and Ultrasound Imaging System        Substantially equivalent
+   Function                                                                                                       for NIRS portion of the
+                                                                                                                  system
+Product Code      OGZ – Catheter                               OGZ – Catheter                                     Substantially equivalent
+                  IYO – System                                 IYO – System                                       The SpectraWAVE
+                                                                                                                  Imaging System is a
+                                                                                                                  combined system. See
+                                                                                                                  primary predicate.
+Indications For   The SpectraWAVE Imaging System is            1. The Makoto Intravascular Imaging                Substantially equivalent
+      Use         intended for the imaging of coronary         System™ is intended for the near-infrared          to the NIRS portion of
+                  arteries and is indicated in patients who    examination of coronary arteries in patients       the SprectraWAVE
+                  are candidates for transluminal              undergoing invasive coronary angiography.          Imaging System.
+                  interventional procedures.                   a. The System is intended for the detection of
+                  The SpectraWAVE Imaging Catheter is          lipid-core-containing plaques of interest.
+                  intended for use in vessels 2.0 to 5.2 mm    b. The System is intended for the assessment
+                  in diameter.                                 of coronary artery lipid core burden.
+                  The SpectraWAVE Imaging Catheter is          c. The System is intended for the identification
+                  not intended for use in a target vessel      of patients and plaques at increased risk of
+                  which has undergone a previous bypass        major adverse cardiac events.
+                  procedure.
+                                                               2. The System is intended for ultrasound
+                  The NIRS capability of the SpectraWAVE       examination of coronary intravascular
+                  Imaging System is intended for the           pathology.
+                  detection of lipid-core containing plaques
+                                                               a. Intravascular ultrasound imaging is
+                  of interest.
+                                                               indicated in patients who are candidates for
+                  The NIRS capability of the SpectraWAVE       transluminal coronary interventional
+                  Imaging System is intended for the           procedures.
+
+
+
+    K221257                                    510(k) Summary                                               Page 11 of 15
+                                       Table 2: Secondary Predicate Device Comparison
+ Manufacturer                SpectraWAVE, Inc.                               InfraReDx, Inc.                      Discussion of
+                                                                                                                  Equivalence &
+    Model            SpectraWAVE Imaging System               Makoto Intravascular Imaging System™
+                                                                                                                   Differences
+                                                              Dualpro™ IVUS+NIRS Imaging Catheter
+                 assessment of coronary artery lipid core
+                 burden.
+                 The NIRS capability of the SpectraWAVE
+                 Imaging System is intended for the
+                 identification of patients and plaques at
+                 increased risk of major adverse cardiac
+                 events.
+   System        NIR Catheter                                NIR/IVUS Catheter                               Substantially equivalent
+ Components      Portable Console                            Portable or Fixed Console
+                 (Laser, computer, power supply) and         (Laser, SBC, power supply) and Controller
+                 Controller
+Imaging Mode     Near Infrared Light                         Near Infrared light, Ultrasound                 Substantially equivalent
+                                                                                                             to the NIRS portion of
+                                                                                                             predicate
+   Output        NIR Light                                   NIR light                                       Substantially equivalent
+                                                             RF Ultrasound                                   to the NIRS portion of
+                                                                                                             predicate
+  Laser Type     Swept source semiconductor laser            Swept source semiconductor laser                Same
+Image Element    60 mm/s                                     0.5, 1.0, and 2.0 mm/s                          Substantially equivalent.
+Pullback Speed                                                                                               Ability of system to
+                                                                                                             perform pullback and
+                                                                                                             acquire data at specified
+                                                                                                             speed is demonstrated
+                                                                                                             through system
+                                                                                                             verification. With respect
+                                                                                                             to post-processing,
+                                                                                                             NIRS Verification &
+
+
+
+    K221257                                  510(k) Summary                                              Page 12 of 15
+                             Table 2: Secondary Predicate Device Comparison
+Manufacturer        SpectraWAVE, Inc.                         InfraReDx, Inc.                  Discussion of
+                                                                                               Equivalence &
+   Model       SpectraWAVE Imaging System          Makoto Intravascular Imaging System™
+                                                                                                Differences
+                                                   Dualpro™ IVUS+NIRS Imaging Catheter
+                                                                                          Validation summarizes
+                                                                                          the NIRS performance of
+                                                                                          the SpectraWAVE
+                                                                                          system, with the
+                                                                                          predicate device as a
+                                                                                          reference.
+
+
+
+
+   K221257                        510(k) Summary                                      Page 13 of 15
+          7.    Performance Testing:
+
+          7.1   Summary of Performance Testing:
+
+                Design verification and validation of the SpectraWAVE Imaging System were
+                performed in compliance with external standards and internal design control
+                procedures comprised of Sterilization and shelf life, Biocompatibility, Software,
+                EMC/Electrical Safety, bench testing, animal testing, and summative usability
+                testing to confirm device performance.
+
+          7.2   Sterilization and Shelf Life:
+
+                Sterilization validation was performed to ensure a SAL of 10-6, according to
+                international sterilization standards.
+
+                Visual Inspection, Leak, and Seal Strength testing were used to evaluate the
+                integrity of the packaging configuration. Testing was conducted after sterilization,
+                environmental conditioning including aging, and simulated shipping and
+                distribution.
+
+          7.3   Biocompatibility:
+
+                The SpectraWAVE Imaging Catheter was subjected to a series of biocompatibility
+                tests in accordance with FDA guidance, using International Standard ISO 10993-1.
+                The studies performed on the SpectraWAVE Imaging Catheter were determined to
+                support the biocompatibility of the device for use in its intended application.
+
+          7.4   Software:
+
+                SpectraWAVE Imaging System and Application Software were developed and
+                tested in compliance with IEC 62304. Software verification and validation were
+                conducted to FDA regulations, standards, and guidance document requirements.
+                The results of this testing conclude the software has met these requirements.
+
+          7.5   EMC/Basic Electrical Safety:
+
+                The SpectraWAVE Imaging System has been tested and is in compliance with
+                general safety requirements, IEC 60601-1, IEC 60601-1-2, IEC 60601-1-6, IEC
+                62366-1, and IEC 60825-1.
+
+          7.6   Bench testing:
+
+                SpectraWAVE performed a series of bench tests to demonstrate its system meets
+                its performance specifications using production-equivalent, finished, sterilized, and
+                preconditioned product. Comprehensive verification and validation activities were
+                successfully completed, raising no new issues of safety or effectiveness. All testing
+                passed the acceptance criteria.
+
+
+
+
+K221257                                  510(k) Summary                                  Page 14 of 15
+          7.7   Animal Testing:
+
+                SpectraWAVE conducted a GLP animal study to evaluate acute performance and
+                vascular injury following deployment of the SpectraWAVE Imaging Catheter in a
+                porcine coronary artery model.
+
+                Overall, the test device met the acceptance criteria for the study and should be
+                considered to have acceptable acute performance and safety.
+
+          7.8   Summative Usability Testing:
+
+                Usability evaluation was conducted to establish that the SpectraWAVE Imaging
+                System meets the needs of the intended users to perform OCT-NIRS imaging
+                safely and effectively according to ANSI/AAMI/IEC 62366-1.
+
+                The SpectraWAVE Imaging System has been found to be safe and effective for the
+                intended users, uses, and use environments.
+
+          7.9   Clinical Testing:
+
+                No clinical testing is provided in this pre-market notification.
+
+          8.    Conclusion and Statement of Equivalence:
+
+                The information presented in this 510(k) submission demonstrates that the
+                SpectraWAVE Imaging System is as safe and effective as the predicate device and
+                is therefore considered substantially equivalent to the predicate devices.
+
+
+
+
+K221257                                  510(k) Summary                                Page 15 of 15
+
