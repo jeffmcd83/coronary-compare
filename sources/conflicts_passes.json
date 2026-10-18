@@ -250,5 +250,15 @@
   "existing": "Scoring",
   "existing_source": "Brand name / GUDID brand \"AngioSculpt PTCA RX Scoring Balloon Catheter\"",
   "resolution": "Jeff-approved override"
+ },
+ {
+  "pass": "pass36-override",
+  "model": "AngioSculpt RX PTCA",
+  "field": "shaft_length_cm",
+  "value": "139 (catheter length, all Evo models 2200-xxxx-B)",
+  "source": "Philips US brochure \"AngioSculpt Evo \u2014 RX PTCA Scoring Balloon Catheter\" D2021070901B (SEPT2024), ordering-information table (PDF p.4; cited by Jeff as p.1) \u2014 exact-model (Evo) brochure supersedes the older-sibling AngioSculpt RX IFU (137 cm); https://www.documents.philips.com/assets/20240524/0352192fb87845c98226b17a00a782df.pdf",
+  "existing": "137 (catheter length, models 2200-xxxx)",
+  "existing_source": "Philips AngioSculpt RX PTCA brochure D023230-06 (09/2018) p.6 (ordering information); https://philipsproductcontent.blob.core.windows.net/assets/20180716/213f015bc05f45f991f3a91f015d9e78.pdf",
+  "resolution": "Jeff-approved override"
  }
 ]

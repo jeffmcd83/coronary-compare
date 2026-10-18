@@ -65,3 +65,6 @@ Corsair Pro fda_submission = "K161126, K171933". K171933 (SE 2018-02-12, DQX) ad
 - Row "AngioSculpt RX PTCA" renamed "AngioSculpt Evo RX" (PMA P050018/S026, 2020-09-11 design change; GUDID brand "AngioSculpt Evo RX PTCA scoring balloon catheter"; Philips US brochure D2021070901B shows "AngioSculpt Evo — RX PTCA Scoring Balloon Catheter"). Former name kept in the fda_submission note; display rename in build_master.py RENAME (now carries a per-row source).
 - Out-of-distribution catalogs 2001-2020 and 2027-3515 dropped (GUDID 2026-10-18), same approach as Diamondback/Orsiro. balloon_type = "RX PTCA scoring balloon (nitinol scoring element)".
 - Existing values kept; Evo brochure catheter length 139 cm vs IFU 137 cm logged in sources/pass35/conflicts.json (IFU kept).
+
+## 2026-10-18 — Source-ranking rule (Jeff, pass 36)
+- An exact-model brochure beats an IFU that belongs to an older sibling model. Applied: AngioSculpt Evo RX catheter length 139 cm (Philips US Evo brochure D2021070901B, Sept 2024) replaces 137 cm from the older AngioSculpt RX IFU (old value in conflicts_passes.json via sources/pass36/override.csv). The general rule "IFU beats brochure" still holds when both are for the same model.

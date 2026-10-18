@@ -243,3 +243,6 @@ Resolute Onyx rbp_atm range 2.25–4.0 → 2.0–4.0 mm (18 atm; 16 atm 4.5–5.
 
 ## Pass 35 — AngioSculpt Evo RX rename (Jeff-approved) — preview-pass35 → v1.22
 AngioSculpt RX PTCA → "AngioSculpt Evo RX"; fda_submission "P050018, S026 (2020-09: Evo design change; formerly "AngioSculpt RX PTCA")" (openFDA PMA S026; sources/pass35/docs/). Catalogs 64→62 / n_skus 103→100 (2001-2020, 2027-3515 Not in Commercial Distribution, GUDID 2026-10-18). balloon_type → "RX PTCA scoring balloon (nitinol scoring element)" (Philips US brochure D2021070901B SEPT2024 p.1). Conflict logged (not applied): shaft length 139 cm (Evo brochure) vs 137 cm (IFU). Recalls CSV model name updated. sources/pass35/override.csv. Backups *.pre-pass35.*. Fill unchanged 90.6%.
+
+## Pass 36 — AngioSculpt Evo RX catheter length (Jeff-approved) — preview-pass36 → v1.23
+shaft_length_cm 137 → 139 (Philips US Evo brochure D2021070901B SEPT2024, ordering table PDF p.4); old 137 cm (older AngioSculpt RX IFU, sibling) logged as pass36-override; closes the pass-35 conflict. sources/pass36/override.csv. Backups *.pre-pass36.*. Fill unchanged.
