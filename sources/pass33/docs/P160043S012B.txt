@@ -1,0 +1,1154 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I.    GENERAL INFORMATION
+
+      Device Generic Name:             Drug-Eluting Coronary Stent System
+
+      Device Trade Name:               Resolute Onyx™ Zotarolimus-Eluting Coronary Stent
+                                       System
+
+      Device Procode:                  NIQ
+
+      Applicant’s Name and Address: Medtronic Vascular
+                                    3576 Unocal Place
+                                    Santa Rosa, CA 95403
+
+      Date(s) of Panel Recommendation: None
+
+      Premarket Approval Application (PMA) Number: P160043/S012
+
+      Date of FDA Notice of Approval: December 14, 2018
+
+      The original PMA (P160043) was approved on April 28, 2017 and is indicated for
+      improving coronary luminal diameters in patients, including those with diabetes mellitus,
+      with symptomatic ischemic heart disease due to de novo lesions of length ≤ 35 mm in
+      native coronary arteries with reference vessel diameters of 2.25 mm to 5.0 mm. The
+      SSED to support the indication is available on the CDRH website
+      (https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043) and is
+      incorporated by reference here. P160043/S001 was submitted to expand the indication for
+      the Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System to include reference
+      vessel diameters of 2.0 mm was approved on November 16, 2017.
+      The SSED to support the indication is available on the CDRH website
+      (https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043S001
+      ) The current supplement was submitted to expand the indication for the Resolute
+      Onyx™ Zotarolimus-Eluting Coronary Stent System to include the treatment of de novo
+      chronic total inclusions (CTO).
+
+II.   INDICATIONS FOR USE
+
+      The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is indicated for
+      improving coronary luminal diameters in patients, including those with diabetes mellitus,
+      with symptomatic ischemic heart disease due to de novo lesions of length ≤ 35 mm in
+      native coronary arteries with reference vessel diameters of 2.0 mm to 5.0 mm. In
+      addition, the Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is indicated
+      for treating de novo chronic total occlusions.
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                        Page 1
+III.   CONTRAINDICATIONS
+
+       The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is contraindicated for
+       use in:
+              •   Patients with known hypersensitivity or allergies to aspirin, heparin,
+                  bivalirudin, clopidogrel, prasugrel, ticagrelor, ticlopidine, drugs such as
+                  zotarolimus, tacrolimus, sirolimus, everolimus, or similar drugs or any other
+                  analogue or derivative.
+              •   Patients with a known hypersensitivity to the cobalt-based alloy (cobalt,
+                  nickel, chromium, and molybdenum) or platinum-iridium alloy.
+              •   Patients with a known hypersensitivity to the BioLinx polymer or its
+                  individual components
+       Coronary artery stenting is contraindicated for use in:
+              •   Patients in whom anti-platelet and/or anticoagulation therapy is
+                  contraindicated.
+              •   Patients who are judged to have a lesion that prevents complete inflation of an
+                  angioplasty balloon or proper placement of the stent or stent delivery system.
+
+IV.    WARNINGS AND PRECAUTIONS
+
+       The warnings and precautions can be found in the Resolute Onyx™ Zotarolimus-Eluting
+       Coronary Stent System labeling.
+
+V.     DEVICE DESCRIPTION
+
+       The Medtronic Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System (Resolute
+       Onyx™ system) is a device/drug combination product comprised of the following device
+       components:
+              •   A Resolute Onyx™ Coronary Stent and delivery system. The delivery system
+                  is available in a rapid exchange (RX) and an over-the-wire (OTW)
+                  configuration.
+              •   A drug/polymer coating component, which consists of a formulation of
+                  zotarolimus contained in a BioLinx polymer.
+
+       The characteristics of the Resolute Onyx™ product are described in Table 1.
+
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                           Page 2
+                Table 1: Device Component Description and Nominal Dimensions
+                                    Resolute Onyx™ Zotarolimus-Eluting Coronary Stent
+                                        System Rapid Exchange and Over-the-Wire
+     Component               Stent Design 1   Stent Design 2  Stent Design 3    Stent Design 4
+                             (Small Vessel)     (Medium       (Large Vessel) (Extra Large
+Available Stent            2.0, 2.25, 2.5           2.75, 3.0            3.5, 4.0             (RX Only) – 4.5, 5.0
+Diameters (mm)
+
+                           8, 12, 15, 18, 22, 26,
+Available Stent Lengths    30, 34*, 38*                                                        (RX Only) – 12, 15,
+                                                    8, 12, 15, 18, 22,   8, 12, 15, 18, 22,
+                                                                                              18,
+(mm)                                                26, 30, 34, 38       26, 30, 34, 38
+                           * 34, 38 mm lengths                                                22, 26, 30
+                           not available in 2.0
+
+Stent Material and          A continuous sinusoid pattern stent manufactured from a composite metal material,
+                            consisting of a cobalt-based alloy shell conforming to ASTM F562 and a platinum-
+Geometry
+                            iridium alloy core conforming to ASTM B684.
+                            A coating of polymers loaded with zotarolimus in a formulation applied to the entire
+                            surface of the stent at a dose of approximately 1.6 µg/mm2 which results in a
+Drug Component
+                            maximum nominal drug content of 317 µg on the stent with the largest surface area
+                            (4.0 x 38 mm).
+
+Delivery System             140 cm
+Working Length
+
+                            Single access port to the inflation lumen. A guidewire exit port is located
+                     RX     approximately 25 cm from the tip. Designed for guidewire less than or equal to 0.014
+Delivery
+                            inch (0.36 mm).
+System Luer
+Adapter Ports               Y-Connector with side arm for access to balloon inflation/deflation lumen. Straight
+                     OTW    arm is continuous with shaft inner lumen designed for guidewire less than or equal to
+                            0.014 inch (0.36 mm).
+
+                            Single-layer Pebax balloon, wrapped over an inner member tubing with 2 radiopaque
+Stent Delivery Balloon
+                            marker bands to locate the stent edges.
+
+                            Nominal Inflation Pressure: 12 ATM (1216 kPa)
+Balloon Inflation
+                            Rated Burst Pressure: 2.0-4.0mm = 18 ATM (1824 kPa), RX only: 4.5-5.0mm = 16
+Pressure
+                            ATM (1621kPa)
+
+Minimum Guide               5 F (1.42 mm, 0.056 in)
+Catheter Inner Diameter
+
+                            Proximal Shaft OD, 2.0-5.0mm: 2.1 F (0.69 mm) Distal Shaft OD, 2.0-4.0mm: 2.7 F
+                     RX
+                            (0.91 mm) Distal Shaft OD, 4.5 and 5.0mm:
+Catheter Shaft
+Outer Diameter
+                     OTW    Proximal Shaft OD: 3.4 F (1.12 mm) Distal Shaft OD: 2.7 F
+
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                                           Page 3
+      A. Device Component Description
+         The Medtronic Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System
+         (Resolute Onyx™ system) consists of a balloon-expandable, intracoronary, drug-
+         eluting stent (DES) premounted on a stent delivery system (RX or OTW). The
+         Resolute Onyx™ coronary stent is manufactured from a composite material of cobalt
+         alloy and platinum- iridium alloy and is formed from a single wire bent into a
+         continuous sinusoid pattern and then laser fused back onto itself. The Resolute
+         Onyx™ coronary stent is coated with a Parylene C primer, a Biolinx polymer, and the
+         active pharmaceutical ingredient (API), zotarolimus with a nominal drug dose density
+         of approximately 1.6 µg/mm2.
+
+            The Resolute Onyx™ coronary stent utilizes the identical stent drug/polymer coating
+            and coating application process as the commercially approved Resolute and Resolute
+            Integrity coronary stents (P110013). The principal material difference between the
+            Resolute Onyx™ coronary stent and the Resolute Integrity™ coronary stent is the
+            stent wire material. The Resolute Onyx™ coronary stent is manufactured from a
+            composite wire which has an outer shell and an inner core. The outer shell of the
+            stent, which is in contact with the vessel, is of the identical cobalt alloy used for the
+            predicate Resolute Integrity™ stent while the inner core material is a Platinum –
+            Iridium alloy.
+
+            The Resolute Onyx™ stents are available in multiple lengths and diameters. The
+            delivery system has two radiopaque markers to aid in the placement of the stent
+            during fluoroscopy and is compatible with 0.014-inch (0.36-mm) guidewires and
+            1.42-mm (5-Fr/0.056-in) minimum inner diameter guide catheters. The stent is
+            crimped on various sizes of delivery catheter balloons, which range from 2.0 mm to
+            5.0 mm. See Table 1, above, for full list of diameter ranges available on each
+            delivery system (RX and OTW).
+
+      B. Drug Component Description
+         The drug coating of the Resolute Onyx™ System consists of the drug zotarolimus
+         (the active ingredient) and BioLinx® polymer system (the inactive ingredient).
+      B1.      Active Ingredient: Zotarolimus
+
+               The active pharmaceutical ingredient utilized in Resolute Onyx™ is zotarolimus.
+               It is a tetrazole-containing macrocyclic immunosuppressant.
+
+               The Chemical name of zotarolimus is: [3S-[3R*[S*(1R*,3S*,4R*)],6S*,
+               7E,9S*,10S*,12S*,14R*,15E,17E,19E, 21R*,23R*, 26S*,27S*,34aR*]]-
+               9,10,12,13,14,21,22,23,24,25,26,27,32,33,34,34a-hexadecahydro-9,27-dihydroxy-
+               3-[2-[3-methoxy-4-(1H-tetrazoyl-1-yl)cyclohexyl]-1-methylethyl]-10,21-
+               dimethoxy- 6,8,12,14,20,26-hexamethyl-23,27-epoxy-3H-pyrido[2,1-c]
+               [1,4]oxaazacyclohentriacontine-1,5,11,28,29(4H,6H,31H)-pentone.
+
+               The chemical structure of zotarolimus is shown in Figure 1.
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                              Page 4
+                      Figure 1: Chemical Structure of Zotarolimus
+             Zotarolimus has extremely low water solubility and is a lipophilic compound that
+             is freely soluble in Propylene glycol, Acetone, Toluene, Acetonitrile, Ethanol,
+             Benzyl alcohol and DMSO. The molecular formula of zotarolimus is
+             C52H79N5O12 and its molecular weight is 966.2.
+             Zotarolimus does not have any ionizable group(s) in the physiological pH range;
+             therefore, its solubility is expected to be unaltered in this range.
+
+      B2.    Inactive Ingredient
+             Biolinx Polymer
+             Resolute Onyx™ coronary stent is covered with a coating that consists of a blend
+             of the drug zotarolimus and the Biolinx polymer system. BioLinx is a blend of the
+             Medtronic proprietary components C10 and C19, and PVP (polyvinyl
+             pyrrolidone).;
+             The structural formula of the BioLinx polymer subunits is show in Figure 2.
+
+
+
+
+               Figure 2: Chemical Structure of Biolinx Polymer Sub-units
+
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                       Page 5
+  Table 2: Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System Product Matrix
+                          and Nominal Zotarolimus Content
+                      Product      Nominal      Nominal      Nominal       Nominal
+ Product Number                                Unexpanded
+                     Number        Expanded                 Zotarolimus   Zotarolimus
+  Resolute Onyx                                   Stent
+                   Resolute Onyx    Stent ID                Content RX      Content
+       RX                                      Length RX
+                       OTW         RX (mm)                     (µg)        OTW (µg)
+                                                & OTW
+RONYX20008UX      RONYX20008W          2.0                       51            51
+RONYX22508UX      RONYX22508W         2.25                       51            51
+RONYX25008UX      RONYX25008W          2.5                       51            51
+RONYX27508UX      RONYX27508W         2.75          8            67            67
+RONYX30008UX      RONYX30008W          3.0                       67            67
+RONYX35008UX      RONYX35008W          3.5                       77            77
+RONYX40008UX      RONYX40008W          4.0                       77            77
+RONYX20012UX      RONYX20012W          2.0                       70            70
+RONYX22512UX      RONYX22512W         2.25                       70            70
+RONYX25012UX      RONYX25012W          2.5                       70            70
+RONYX27512UX      RONYX27512W         2.75                       94            94
+RONYX30012UX      RONYX30012W          3.0         12            94            94
+RONYX35012UX      RONYX35012W          3.5                       108          108
+RONYX40012UX      RONYX40012W          4.0                       108          108
+RONYX45012UX      Not Available        4.5                       132      Not Available
+RONYX50012UX      Not Available        5.0                       132      Not Available
+RONYX20015UX      RONYX20015W          2.0                       85            85
+RONYX22515UX      RONYX22515W         2.25                       85            85
+RONYX25015UX      RONYX25015W          2.5                       85            85
+RONYX27515UX      RONYX27515W         2.75                       117          117
+RONYX30015UX      RONYX30015W          3.0         15            117          117
+RONYX35015UX      RONYX35015W          3.5                       132          132
+RONYX40015UX      RONYX40015W          4.0                       132          132
+RONYX45015UX      Not Available        4.5                       158      Not Available
+RONYX50015UX      Not Available        5.0                       158      Not Available
+RONYX20018UX      RONYX20018W          2.0                       104          104
+RONYX22518UX      RONYX22518W         2.25                       104          104
+RONYX25018UX      RONYX25018W          2.5                       104          104
+RONYX27518UX      RONYX27518W         2.75                       140          140
+RONYX30018UX      RONYX30018W          3.0         18            140          140
+RONYX35018UX      RONYX35018W          3.5                       156          156
+RONYX40018UX      RONYX40018W          4.0                       156          156
+RONYX45018UX      Not Available        4.5                       188      Not Available
+RONYX50018UX      Not Available        5.0                       188      Not Available
+RONYX20022UX      RONYX20022W          2.0                       127          127
+RONYX22522UX      RONYX22522W         2.25                       127          127
+RONYX25022UX      RONYX25022W          2.5                       127          127
+RONYX27522UX      RONYX27522W         2.75                       171          171
+RONYX30022UX      RONYX30022W          3.0         22            171          171
+RONYX35022UX      RONYX35022W          3.5                       186          186
+RONYX40022UX      RONYX40022W          4.0                       186          186
+RONYX45022UX      Not Available        4.5                       227      Not Available
+RONYX50022UX      Not Available        5.0                       227      Not Available
+RONYX20026UX      RONYX20026W          2.0         26            146          146
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                Page 6
+  Table 2: Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System Product Matrix
+                          and Nominal Zotarolimus Content
+                      Product        Nominal       Nominal         Nominal       Nominal
+ Product Number                                   Unexpanded
+                     Number          Expanded                     Zotarolimus   Zotarolimus
+  Resolute Onyx                                      Stent
+                   Resolute Onyx      Stent ID                    Content RX      Content
+       RX                                         Length RX
+                       OTW           RX (mm)                         (µg)        OTW (µg)
+                                                   & OTW
+RONYX22526UX      RONYX22526W            2.25                         146            146
+RONYX25026UX      RONYX25026W             2.5                         146            146
+RONYX27526UX      RONYX27526W            2.75                         198            198
+RONYX30026UX      RONYX30026W             3.0                         198            198
+RONYX35026UX      RONYX35026W             3.5                         221            221
+RONYX40026UX      RONYX40026W             4.0                         221            221
+RONYX45026UX      Not Available           4.5                         265        Not Available
+RONYX50026UX      Not Available           5.0                         265        Not Available
+RONYX20030UX      RONYX20030W             2.0                         168            168
+RONYX22530UX      RONYX22530W            2.25                         168            168
+RONYX25030UX      RONYX25030W             2.5                         168            168
+RONYX27530UX      RONYX27530W            2.75                         225            225
+RONYX30030UX      RONYX30030W             3.0           30            225            225
+RONYX35030UX      RONYX35030W             3.5                         252            252
+RONYX40030UX      RONYX40030W             4.0                         252            252
+RONYX45030UX      Not Available           4.5                         304        Not Available
+RONYX50030UX      Not Available           5.0                         304        Not Available
+RONYX22534UX      RONYX22534W            2.25                         187            187
+RONYX25034UX      RONYX25034W             2.5                         187            187
+RONYX27534UX      RONYX27534W            2.75                         257            257
+                                                        34
+RONYX30034UX      RONYX30034W             3.0                         257            257
+RONYX35034UX      RONYX35034W             3.5                         282            282
+RONYX40034UX      RONYX40034W             4.0                         282            282
+RONYX22538UX      RONYX22538W            2.25                         206            206
+RONYX25038UX      RONYX25038W             2.5                         206            206
+RONYX27538UX      RONYX27538W            2.75                         284            284
+                                                        38
+RONYX30038UX      RONYX30038W             3.0                         284            284
+RONYX35038UX      RONYX35038W             3.5                         317            317
+RONYX40038UX      RONYX40038W             4.0                         317            317
+
+      C. Mechanism of Action
+         In vitro, zotarolimus inhibited growth factor-induced proliferation of human coronary
+         artery smooth muscle cells, and also demonstrated binding affinity with FKBP-12
+         (binding protein). The suggested mechanism of action of zotarolimus is to bind to
+         FKBP12, leading to the formation of a trimeric complex with the protein kinase
+         mTOR (mammalian target of rapamycin), inhibiting its activity. Inhibition of mTOR
+         activity results in the inhibition of protein phosphorylation events associated with
+         translation of mRNA and cell cycle control. Table 2, above, lists the nominal drug
+         content present on each product included in the Resolute Onyx™ matrix.
+
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                       Page 7
+VI.       ALTERNATIVE PRACTICES AND PROCEDURES
+
+          There are several other alternatives for the correction of coronary artery disease including
+          exercise, diet, smoking cessation counseling, drug therapy, percutaneous coronary
+          interventions (such as balloon angioplasty, atherectomy, and replacement with bare metal
+          stents, coated stents, and other drug eluting stents), and coronary artery bypass surgery
+          (CABG). Each alternative has its own advantages and disadvantages. A patient should
+          fully discuss these alternatives with his/her physician to select the method that best meets
+          expectations and lifestyle.
+
+VII.      MARKETING HISTORY
+
+          The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is commercially
+          available in the following countries:
+
+                          Table 3: Resolute Onyx Commercial Availability
+              Albania                  Ethiopia                Latvia                  Qatar
+               Algeria                     Fiji               Lebanon                 Reunion
+             Argentina                   Finland            Liechtenstein       Romania
+              Armenia                    France              Lithuania             Russian Federation
+              Australia                  Gabon                Luxembourg           Saudi Arabia
+               Austria                  Georgia              Macedonia                 Serbia
+             Azerbaijan                 Germany              Malaysia                Singapore
+              Bahrain                  Ghana                   Malta                  Slovakia
+            Bangladesh                   Greece               Martinique            Slovenia
+              Belgium                  Guatemala            Mexico                 South Africa
+               Bolivia                  Honduras              Moldova                  Spain
+       Bosnia and Herzegovina          Hong Kong              Montenegro             Sri Lanka
+             Botswana                   Hungary               Morocco               Sweden
+         Brunei Darussalam               Iceland            Namibia                 Switzerland
+              Bulgaria                    India             Nepal                     Taiwan
+           Canary Islands                  Iran              Netherlands             Tajikistan
+             Colombia                      Iraq               New Zealand            Tanzania
+             Costa Rica                  Ireland             Nicaragua                Thailand
+               Croatia                    Israel              Norway           Trinidad And Tobago
+               Cyprus                     Italy                Oman                   Tunisia
+          Czech Republic                  Japan               Pakistan                 Turkey
+              Denmark                    Jordan              Panama            United Arab Emirates
+        Dominican Republic             Kazakhstan             Paraguay           United Kingdom
+            Ecuador                    Kenya                  Philippines         United States
+              Egypt                Korea, Republic Of         Poland               Venezuela
+           El Salvador                 Kuwait                 Portugal               Vietnam
+             Estonia                   Kyrgyzstan            Puerto Rico              Yemen
+
+          The device has not been withdrawn from marketing for any reason related to its safety or
+          effectiveness.
+
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                               Page 8
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+      Below is a list of the potential adverse effects (e.g., complications) associated with the
+      use of the device. Adverse events (in alphabetical order) which may be associated with
+      coronary stent use in native coronary arteries include, but are not limited to:
+             •   Abrupt vessel closure
+             •   Access site pain, hematoma, or hemorrhage
+             •   Allergic reaction (to contrast, antiplatelet therapy, stent material, or drug and
+                 polymer coating)
+             •   Aneurysm, pseudoaneurysm, or arteriovenous fistula (AVF)
+             •   Arrhythmias, including ventricular fibrillation
+             •   Balloon rupture
+             •   Bleeding
+             •   Cardiac tamponade
+             •   Coronary artery occlusion, perforation, rupture, or dissection
+             •   Coronary artery spasm
+             •   Death
+             •   Embolism (air, tissue, device, or thrombus)
+             •   Emergency surgery: peripheral vascular or coronary bypass
+             •   Failure to deliver the stent
+             •   Hemorrhage requiring transfusion
+             •   Hypotension/hypertension
+             •   Incomplete stent apposition
+             •   Infection or fever
+             •   Myocardial Infarction (MI)
+             •   Pericarditis
+             •   Peripheral ischemia/peripheral nerve injury
+             •   Renal failure
+             •   Restenosis of the stented artery
+             •   Shock/pulmonary edema
+             •   Stable or unstable angina
+             •   Stent deformation, collapse, or fracture
+             •   Stent migration or embolization
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                            Page 9
+             •   Stent misplacement
+             •   Stroke/transient ischemic attack
+             •   Thrombosis (acute, subacute, or late)
+      Adverse events that have been associated with the intravenous injection of zotarolimus in
+      humans include but are not limited to:
+             •   Anemia
+             •   Diarrhea
+             •   Dry Skin
+             •   Headache
+             •   Hematuria
+             •   Infection
+             •   Injection site reaction
+             •   Pain (abdominal, arthralgia, injection site)
+             •   Rash
+      Potential adverse events related to BioLinx polymer include but are not limited to:
+             •   Allergic reaction
+             •   Focal inflammation at the site of stent implantation
+             •   Restenosis of the stented artery
+
+IX.   SUMMARY OF NONCLINICAL STUDIES
+
+      A series of non-clinical laboratory studies related to the Resolute family of products were
+      performed and the pertinent data was leveraged from the previously approved PMAs
+      P110013 and P160043. Because these previously collected data sufficiently represent the
+      performance of the device for the new indications for use, no new non- clinical testing
+      was conducted.
+
+X.    SUMMARY OF PRIMARY CLINICAL STUDY
+
+      A pre-specified subgroup analysis from an investigator-initiated clinical study
+      (PERSPECTIVE) in the United States established reasonable assurance of safety and
+      effectiveness of the Resolute DES for treatment of Chronic Total Occlusions (CTO).
+      Data from this clinical study, in conjunction with data generated in the Global
+      RESOLUTE Clinical Trial Program (See Section XI – Summary of Supplemental Clinical
+      Information) were the basis for the PMA Supplement approval decision.
+
+      The Resolute Onyx™ stent is an iterative design update to the Resolute Integrity stent
+      (P110013), utilizing the same continuous sinusoid manufacturing technology with slight
+      modifications incorporated to provide a lower crossing profile. The clinical evaluations
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                         Page 10
+      assessed in the PERSPECTIVE Study and Global RESOLUTE Clinical Trial Program
+      were performed on the Resolute MicroTrac or Resolute Integrity Stent. However, given
+      the similarities between the Resolute stent system and the Resolute Onyx™ stent system,
+      the findings from the RESOLUTE clinical studies are applicable to the Resolute Onyx™
+      stent system.
+
+      A summary of the clinical study is presented below.
+
+      A. Study Design
+
+         The PERSPECTIVE Study was an investigator-initiated, single arm, open label,
+         single-center, observational study including approximately 250 prospective subjects
+         undergoing attempted CTO revascularization and 250 retrospective subjects that had
+         undergone CTO PCI all performed at the Piedmont Heart Institute in Atlanta,
+         Georgia. This study was partially funded by Medtronic through its External Research
+         Program. Medtronic did not have access to the clinical data prior to primary analysis.
+
+         Prospective subjects admitted for intended PCI of a CTO were screened for study
+         eligibility and signed an IRB-approved informed consent form. Events were
+         adjudicated by an independent Clinical Events Committee (CEC) constituted by
+         interventional and/or non-interventional cardiologists who were not participants in the
+         study. Criteria evaluated include death, myocardial infarction, target lesion
+         revascularization, target vessel revascularization, bleeding, and stent thrombosis.
+
+         Patients receiving the Resolute Integrity™ stent in the PERSPECTIVE Study were
+         treated between August 22, 2013 and February 17, 2016 and included 183 patients.
+
+         Assessment of use of the Resolute Integrity™ stent (P110013) in CTO
+         revascularization was based on prospectively enrolled CTO patients compared to a
+         pre-specified performance goal. Stent type selection for the prospective group was
+         based on operator preference, and the number of enrolled subjects was set to meet the
+         sample size required for the pre-specified RESOLUTE CTO Cohort analysis.
+         An estimated MACE rate was derived based on a weighted average of the reported
+         rates for drug-eluting stents from the PRISON II1 and EXPERT CTO2 studies. Due to
+         difference in the definition of myocardial infarction used in the PRISON II study, an
+         adjustment for the MACE rate was made to approximate the MACE rate if the ARC
+         definition of myocardial infarction had been applied. The weighted average produced
+         an estimated MACE rate of 16.6% using the ARC definition of MI. The performance
+         goal (PG) for the pre-specified RESOLUTE CTO Cohort analysis was 25.2% based
+         on the estimated MACE rate of 16.6% and a one-sided 95% CI.
+
+          1. Clinical Inclusion and Exclusion Criteria
+             Enrollment in the PERSPECTIVE Study was limited to patients who met the
+             following Key Inclusion Criteria:
+               •   Subjects experiencing clinical symptoms considered suggestive of ischemic
+                   heart disease (e.g., chest pain or discomfort or symptoms considered by the
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                        Page 11
+                   investigator to represent anginal equivalents) or having evidence of
+                   myocardial ischemia (e.g., abnormal functional study) attributed to the CTO
+                   target vessel and scheduled for clinically indicated percutaneous CTO
+                   revascularization or are subjects with multi-vessel disease and/or Acute
+                   Coronary Syndrome (ACS) that are undergoing a staged CTO PCI
+                   procedure with the intent to achieve complete revascularization.
+               •   Subject must have at least 1 target segment meeting non-acute total coronary
+                   occlusion as defined below. A CTO is any non- acute total coronary
+                   occlusion fulfilling the following angiographic characteristics and:
+                    a. High-grade native coronary stenosis
+                    b. Thrombolysis in Myocardial Infarction (TIMI) 0 or 1 antegrade flow
+                    c. Estimated in duration at least 3 months by clinical history and/or
+                       comparison with antecedent angiogram, functional study or
+                       electrocardiogram
+                    d. CTO segment may be de novo or previously treated via PCI
+             Patients were not permitted to be enrolled in the PERSPECTIVE Study if they
+             met any of the following Key Exclusion Criteria:
+               •   Any known allergy, hypersensitivity or contraindication to iodinated
+                   contrast that cannot be effectively managed medically
+               •   Any known allergy, hypersensitivity or contraindication to clopidogrel
+                   bisulfate (Plavix®), prasugrel (Effient®) or ticagrelor (Brilinta®)—for
+                   which alternative agents cannot be used—or aspirin, heparin, nickel,
+                   stainless steel, zotarolimus, or everolimus
+               •   Subjects with evidence of ongoing or active clinical instability including any
+                   of the following:
+                    a. Sustained systolic blood pressure <100 mmHg (if different from
+                       baseline) or cardiogenic shock
+                    b. Acute pulmonary edema that has not been medically stabilized
+                    c. Suspected acute myocarditis, pericarditis, endocarditis, or cardiac
+                       tamponade
+                    d. Suspected dissecting aortic aneurysm
+               •   Subjects with known clinically significant abnormal laboratory findings
+               •   Subjects with history of bleeding diathesis or coagulopathy or refusal of
+                   blood transfusions
+          2. Follow-up Schedule
+             All patients were scheduled for follow up contacts at six months (180 days ± 14
+             days) and one year (365 days ± 30 days) post procedure. The key timepoints are
+             shown in Table 4.
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                         Page 12
+                Table 4: Schedule of Events for the Prospective Enrollment Group
+                                                     Index                          6 Month       12 Month
+                                     Baseline      Procedure       Discharge       Follow-Up      Follow-Up
+
+ Informed Consent                        X
+
+ Chart review of clinical history,
+                                         X
+ medications, demographics
+
+ Enrollment                              X
+
+ CTO PCI                                                X
+ Standard Laboratory Testing
+                                         X
+ (per Piedmont policy)
+
+ CK-MB                                   X
+ 12-lead ECG (per Piedmont
+                                         X                              X2
+ guidelines for PCI)
+ Quality of Life metrics (Seattle
+                                         X                              X                              X3
+ Angina Score, EQ-5D)
+
+ Angina Status (CCSC)                    X                              X               X              X
+ Anti-Platelet, Anticoagulant
+                                         X              X               X               X              X
+ and Anti-Ischemic Medications
+ SAE and MACE Assessment                 X              X               X               X              X
+
+ LVEF% (if available)                    X                                              X              X
+
+ AE Assessment                           X              X               X              X4              X4
+
+ Angiographic Core Lab
+                                                           X                           X5               X5
+ Analysis
+ 1
+   Subject contact includes phone call and/or clinic visit
+ 2
+   CK-MB obtained 6 – 12 hours post procedure, 18 – 24 hours post procedure or at discharged, if sooner
+ 3
+   EKG if available within ± 60 days of study visit
+ 4
+   Cardiovascular or cardiovascular-related AEs
+ 5
+   If applicable
+
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                                        Page 13
+          3. Clinical Endpoints
+
+             Primary Endpoint
+             The pre-specified Primary Endpoint for Resolute Integrity stent in the
+             PERSPECTIVE study was the occurrence of major adverse cardiac events
+             (MACE), defined as: death, myocardial infarction (MI) (ARC defined), and
+             clinically-driven target lesion revascularization (TLR) at one year post-procedure.
+
+             Key Secondary Endpoints
+               •   In-hospital and one-year individual outcomes of death (cardiac and all-
+                   cause), MI (Q wave and Non-Q Wave), and TLR
+               •   One-year event rate of all target vessel and non-target vessel
+                   revascularization
+               •   One-year occurrence of stroke (cerebrovascular accident, CVA)
+               •   Target lesion failure (TLF) defined as: cardiac death, target vessel-related
+                   MI and clinically-driven TLR and individual endpoint components during
+                   index hospitalization and at one-year post-procedure
+               •   Target vessel failure (TVF) defined as: cardiac death, target vessel-related
+                   MI and clinically-driven target vessel revascularization in-hospital and at
+                   one-year post-procedure
+               •   Acute Success (Device Success, Lesion Success, Procedural Success)
+               •   Stent Thrombosis (ST): according to Academic Research Consortium
+                   criteria (all, definite, definite/probable, probable, possible) in-hospital and at
+                   one-year post-procedure
+               •   Change in angina frequency and quality of life measures (Seattle Angina
+                   Questionnaire, EQ-5D) from baseline to one-year follow-up among
+                   revascularization and unsuccessful revascularization cohorts
+               •   Frequency of both scheduled and PRN (as needed) anti-anginal medications
+                   during index hospitalization, at six months and at one year following
+                   attempted CTO revascularization
+               •   Frequency and procedural success rate of second attempt CTO
+                   revascularization
+
+      B. Accountability of PMA Cohort
+
+         At the time of the database lock for this study, 176 subjects were eligible for the 12-
+         month post-procedure contact. Although only 25.6% of subjects completed the 12-
+         month follow-up within window, 96.2% (176/183) of subjects completed the study.
+         Follow-up eligibility excludes a total of seven (7) subjects from the 12-month time
+         frame; five (5) deaths, two (2) withdrawn consents (n=176). Figure 3 provides an
+         overview of the subject accountability for this study through the 12-month Follow-Up
+         visit.
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                             Page 14
+                                           183 Resolute Integrity Subjects
+
+                                                                                          2 deaths in-hospital
+                                                                                       (P178 day 0; P226 day 8)
+
+
+                                             181 Eligible at discharge
+
+
+                                                                                2 deaths prior to 6-month window day 166
+                                                                                       (P082 day 12; P220 day 149)
+
+
+                                           179 Eligible for 6-month visit
+
+
+                                                                             61.5% (110/179) contacted in window
+ 38.5% (69/179) contacted out-of-window                                          (day 166-194 post-procedure)
+
+
+                                                                                  Prior to 12-month window day 335:
+                                                                               2 subjects withdrew consent (P162, P168)
+                                                                                         1 death (P057 day 169)
+
+
+                                          176 Eligible for 12-month visit
+
+
+
+74.4% (131/176) contacted out-of-window                                      25.6% (45/176) contacted in window
+    (day 396 – 1301 post-procedure)                                             (day 335-395 post-procedure)
+
+
+     Figure 3: Accountability Flow Chart - PERSPECTIVE Study RESOLUTE CTO Cohort
+
+           C. Study Population Demographics and Baseline Parameters
+
+               The demographics of the study population are typical for a PCI study performed in
+               the US.
+
+               The mean age of the study subjects was 63.4 years, with 79.8% (146/183) of subjects
+               being male, 35.5% (65/183) diabetics, 18.0% (31/172) were current smokers, 33.3%
+               (61/183) had prior MI, 51.4% (94/183) had prior PCI, 88.5% (162/183) had
+               hypertension, and 98.4% (180/183) reported dyslipidemia. Baseline lesion
+               characteristics include 56.3% (103/183) of RCA vessels with a CTO lesion, 95.1%
+               (173/182) lesions were de novo in nature, and 87.7% (200/228) ACC/AHA type B2/C
+               lesions. The mean RVD was 3.31 ± 0.77 mm.
+
+
+
+   PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                                       Page 15
+       D. Safety and Effectiveness Results
+
+             1. Safety Results
+                The analysis of safety was based on 181 subjects available for the 12-
+                month evaluation.
+
+                 The In-hospital rates for TLF, TVF, and MACE were similar at 15.3%
+                 (28/183). The cardiac death rate was 1.1% (2/183), and the peri-procedural
+                 (ARC defined) MI rate was 14.8% (27/183).
+
+                 The one-year rates for TLF, TVF, and MACE were again similar at 18.2%
+                 (33/181), the TLR rate was 1.1% (2/181), the cardiac death rate was 2.2%
+                 (4/181), the (ARC defined) MI rate was16.0% (29/181) and the ARC
+                 definite or probable ST rate was 0.6% (1/181). There were no
+                 unanticipated adverse device effects (UADE), nor any device failures or
+                 malfunctions reported through 12 months.
+
+             2. Effectiveness Results
+                Effectiveness assessment included Clinical Success (defined as
+                achievement of <50% residual stenosis with ≥TIMI 2 antegrade flow) and
+                Technical Success (defined as successful guidewire crossing with
+                placement in distal true lumen of CTO target lesion). Clinical Success was
+                reported as 92.3% (169/183) and Technical Success was reported as 96.2%
+                (175/182).
+
+                 Principal safety and effectiveness results are reported in Table 5.
+
+
+
+      Table 5: Primary Safety and Effectiveness Results – The PERSPECTIVE Study
+                                                                    RESOLUTE CTO Cohort
+              Safety and Effectiveness Measures                        (N=183 Subjects)
+                                                                           %(m/n)
+Safety Measures (In-Hospital)
+TLF                                                                        15.3% (28/183)
+TVF                                                                        15.3% (28/183)
+MACE                                                                       15.3% (28/183)
+Cardiac Death or MI                                                        15.3% (28/183)
+Death or MI                                                                15.3% (28/183)
+Death                                                                      1.1% (2/183)
+  Cardiac Death                                                            1.1% (2/183)
+  Non-Cardiac Death                                                        0.0% (0/183)
+MI                                                                         14.8% (27/183)
+TLR                                                                        0.0% (0/183)
+TVR                                                                        0.0% (0/183)
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                              Page 16
+      Table 5: Primary Safety and Effectiveness Results – The PERSPECTIVE Study
+                                                          RESOLUTE CTO Cohort
+               Safety and Effectiveness Measures             (N=183 Subjects)
+                                                                 %(m/n)
+Safety Measures (to Six Months)
+TLF                                                              17.5% (32/183)
+TVF                                                              17.5% (32/183)
+MACE                                                             17.5% (32/183)
+Cardiac Death or MI                                              17.5% (32/183)
+Death or MI                                                      17.5% (32/183)
+Death                                                            2.7% (5/183)
+ Cardiac Death                                                   2.2% (4/183)
+ Non-Cardiac Death                                               0.5% (1/183)
+MI                                                               15.8% (29/183)
+TLR                                                              0.5% (1/183)
+TVR                                                              0.5% (1/183)
+All Stent Thrombosis (ARC Def/Prob/Poss)                         1.6% (3/183)
+  Stent Thrombosis ARC Definite/Probable                         0.6% (1/183)
+  Stent Thrombosis ARC Possible                                  1.1% (2/183)
+Early Stent Thrombosis (0 to 30 days)                            0.6% (1/183)
+  Definite                                                       0.6% (1/183)
+  Probable                                                       0.0% (0/183)
+  Possible                                                       0.0% (0/183)
+Late Stent Thrombosis (31 days – 6 months)                       1.1% (2/183)
+  Definite                                                       0.0% (0/183)
+  Probable                                                       0.0% (0/183)
+  Possible                                                       1.1% (2/183)
+Safety Measures (to One year)
+TLF                                                              18.2% (33/181)
+TVF                                                              18.2% (33/181)
+MACE                                                             18.2% (33/181)
+Cardiac Death or MI                                              17.7% (32/181)
+Death or MI                                                      17.7% (32/181)
+Death                                                            2.8% (5/181)
+  Cardiac Death                                                  2.2% (4/181)
+  Non-Cardiac Death                                              0.6% (1/181)
+MI                                                               16.0% (29/181)
+TLR                                                              1.1% (2/181)
+TVR                                                              1.1% (2/181)
+All Stent Thrombosis (ARC Def/Prob/Poss)                         1.7% (3/181)
+   Stent Thrombosis ARC Definite/Probable                        0.6% (1/181)
+   Stent Thrombosis ARC Possible                                 1.1% (2/181)
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                    Page 17
+        Table 5: Primary Safety and Effectiveness Results – The PERSPECTIVE Study
+                                                                               RESOLUTE CTO Cohort
+                  Safety and Effectiveness Measures                               (N=183 Subjects)
+                                                                                      %(m/n)
+ Early Stent Thrombosis (0 to 30 days)                                                 0.6% (1/181)
+   Definite                                                                            0.6% (1/181)
+   Probable                                                                            0.0% (0/181)
+   Possible                                                                            0.0% (0/181)
+ Late Stent Thrombosis (31 days – 1year)                                               1.1% (2/181)
+   Definite                                                                            0.0% (0/181)
+   Probable                                                                            0.0% (0/181)
+   Possible                                                                            1.1% (2/181)
+ Effectiveness Measures
+ Clinical success1                                                                     92.3% (169/183)
+ Technical success2                                                                    96.2% (175/182)
+1
+    Achievement of <50% residual stenosis with ≥TIMI 2 antegrade flow
+2
+    Successful guidewire crossing with placement in distal true lumen of CTO target lesion
+
+
+                     The Intent-to-treat (ITT) population was defined as the primary analysis
+                     population for the RESOLUTE CTO Cohort. MACE at 1 year, defined as, a
+                     composite of death, myocardial infarction (ARC defined), and clinically-driven
+                     TLR was the primary safety endpoint. The MACE rate at one year for the
+                     RESOLUTE CTO Cohort was 18.2% (33/181) with the upper limit of 95%
+                     confidence interval of 23.6%. This is below the prespecified performance goal
+                     of 25.2%. Therefore, study success may be claimed for the primary safety
+                     endpoint.
+
+                     Key outcomes for this study are presented below in Table 6.
+
+ Table 6: Primary Endpoint Analysis –PERSPECTIVE Study (RESOLUTE CTO Cohort)
+
+                              RESOLUTE CTO Cohort                   One-side upper 95%           Performance
+Primary Endpoint
+                                 (N=183 Subjects)                   Confidence Interval              Goal
+
+     12-month MACE                    18.2% (33/181)                         23.6%                    25.2%
+
+                 3. Subgroup Analyses
+                    The RESOLUTE CTO Cohort (i.e., patients who received a Resolute Integrity
+                    stent) was a pre-specified subgroup analysis of the PERSPECTIVE Study. A
+                    post hoc evaluation of the RESOLUTE CTO Cohort of the PERSPECTIVE Study
+                    for possible sex-based differences in the primary endpoint of MACE at 12 months
+                    is provided in Table 7 below. Outcomes are similar.
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                                           Page 18
+         Table 7: RESOLUTE CTO Cohort – MACE at 12 Months (Gender Analysis)
+
+                              Male Subjects                 Female Subjects
+                          RESOLUTE CTO Cohort           RESOLUTE CTO Cohort
+Primary Endpoint             (N=146 Subjects)              (N=146 Subjects)            P-Value
+      12-month MACE             18.8% (27/144)                 16.2% (6/37)             0.815
+
+              4. Pediatric Extrapolation
+                 In this premarket application, the clinical data summarized here will not be used
+                 to support approval of the Resolute Onyx™ Zotarolimus-Eluting Coronary
+                 Stent System in a pediatric patient population.
+         E. Financial Disclosure
+
+            The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+            applicants who submit a marketing application to include certain information
+            concerning the compensation to, and financial interests and arrangement of, any
+            clinical investigator conducting clinical studies covered by the regulation. The
+            pivotal clinical study included four (4) investigators. None of the clinical
+            investigators had disclosable financial interests/arrangements as defined in sections
+            54.2(a), (b), (c), and (f). The information provided does not raise any questions about
+            the reliability of the data.
+
+XI.      SUMMARY OF SUPPLEMENTAL CLINICAL INFORMATION
+         Supplemental information in support of this PMA application was presented from a
+         pooled analysis of the Global RESOLUTE Clinical Program with CTO lesions treated
+         with the Resolute DES. Subjects included in the analysis were pooled from three
+         Resolute DES studies: one randomized trial, RESOLUTE China RCT (nCTO=15/198),
+         and two single-arm studies, RESOLUTE International study (nCTO=186/2,349) and
+         RESOLUTE China Registry (nCTO=157/1,800). All Resolute studies used uniform
+         endpoint definitions, adjudication processes, and follow-up procedures. The RESOLUTE
+         International Registry (R-Int) has completed the 3-year planned follow-up; RESOLUTE
+         China RCT (R-China RCT) and RESOLUTE China Registry (R- China Registry) have
+         completed the 5-year planned follow-up. These three studies contributed CTO subjects to
+         make up the RESOLUTE Pooled CTO subset (n=358).
+
+         Event rates reported for the RESOLUTE Pooled CTO subset include MACE rate of 5.7%
+         (20/352), cardiac death rate of 0.9% (3/352), TLR rate of 2.0% (7/352), and a stent
+         thrombosis rate of 0.6% (2/352) at 1 year. Lesion-based effectiveness measures from the
+         Global RESOLUTE Clinical Program report lesion success, defined as the attainment of
+         <50% residual stenosis of the target lesion using any percutaneous method, and device
+         success, defined as the attainment of <50% residual stenosis of the target lesion using
+         only the assigned device. Subject-level effectiveness measures include procedure success,
+         defined as the attainment of <50% residual stenosis of the target lesion and no in-
+         hospital MACE. The RESOLUTE Pooled CTO subset reports lesion success at 100%
+         (526/526), device success at 94.1% (496/527) and procedure success at 97.5% (348/357).
+         See Table 8 below.
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                           Page 19
+            Table 8: Safety and Effectiveness Results – RESOLUTE Pooled CTO
+                                                     RESOLUTE Pooled CTO
+          Safety and Effectiveness Endpoints             (N=358 Patients)
+                                                     (N=527 Lesions) %(m/n)9
+Effectiveness Measures
+Lesion Success6                                          100.0% (526/526)
+Device Success7                                          94.1% (496/527)
+Procedure Success8                                       97.5% (348/357)
+1 Year
+TLF1                                                     4.5% (16/352)
+TVF2                                                     4.8% (17/352)
+MACE3                                                    5.7% (20/352)
+Composite Endpoint4                                      12.2% (43/352)
+Cardiac Death or TVMI                                    3.1% (11/352)
+Death or TVMI                                            4.0% (14/352)
+Death                                                    1.7% (6/352)
+  Cardiac Death                                          0.9% (3/352)
+  Non Cardiac Death                                      0.9% (3/352)
+TVMI (Extended historical definition)                    2.3% (8/352)
+Clinically Driven TLR                                    2.0% (7/352)
+Clinically Driven TVR                                    2.3% (8/352)
+Stent Thrombosis (ARC) Definite/Probable)                0.6% (2/352)
+  Early Thrombosis (<=30 days)                           0.3% (1/352)
+  Late Thrombosis (>30 and <=360 days)                   0.3% (1/352)
+Significant Bleeding Complications4                      1.1% (4/352)
+Stroke                                                   0.9% (3/352)
+3 Years
+TLF1                                                     8.9% (31/347)
+TVF2                                                     10.1% (35/347)
+MACE3                                                    10.1% (35/347)
+Composite Endpoint4                                      18.4% (64/347)
+Cardiac Death or TVMI                                    6.6% (23/347)
+Death or TVMI                                            7.8% (27/347)
+Death                                                    5.5% (19/347)
+  Cardiac Death                                          4.3% (15/347)
+  Non Cardiac Death                                      1.2% (4/347)
+TVMI (Extended historical definition)                    3.2% (11/347)
+Clinically Driven TLR                                    3.2% (11/347)
+Clinically Driven TVR                                    4.3% (15/347)
+Stent Thrombosis (ARC) Definite/Probable)                1.2% (4/347)
+  Early Thrombosis (<=30 days)                           0.3% (1/347)
+  Late Thrombosis (>30 and <=360 days)                   0.3% (1/347)
+  Very Late Thrombosis (>360 days)                       0.9% (3/347)
+Significant Bleeding Complications5                      1.2% (4/347)
+Stroke                                                   1.7% (6/347)
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                 Page 20
+              Table 8: Safety and Effectiveness Results – RESOLUTE Pooled CTO
+                                                                       RESOLUTE Pooled CTO
+          Safety and Effectiveness Endpoints                               (N=358 Patients)
+                                                                       (N=527 Lesions) %(m/n)9
+1.Cardiac death, target vessel myocardial infarction (Q wave and non Q wave) or clinically-driven
+target lesion revascularization (TLR) by percutaneous or surgical methods.
+2.Cardiac death, target vessel myocardial infarction or clinically-driven target vessel revascularization.
+3.Death, myocardial infarction, (Q wave and non Q-wave), emergent coronary bypass surgery, or repeat target
+lesion revascularization (clinically driven/clinically indicated) by percutaneous or surgical methods.
+4.The combined clinical outcome of (all cause) mortality, Myocardial Infarction (Q-wave and non Q-
+wave), or (any) revascularization.
+5.Bleeding complication is defined as a procedure related hemorrhagic event that requires a transfusion or surgical
+repair. These may include a hematoma requiring treatment of retroperitoneal bleed.
+  Significant Bleeding complication is defined as the bleeding complication that has at least one of the following
+  • Bleedings that led to an interruption of anti-platelet medication;
+  • Bleedings that require transfusion;
+  • Intracerebral bleedings; or
+  • Bleedings that resulted in substantial hemodynamic compromise requiring treatment
+6.The attainment of <50% residual stenosis of the target lesion using any percutaneous method.
+7.The attainment of <50% residual stenosis of the target lesion using only the assigned device.
+8.The attainment of <50% residual stenosis of the target lesion and no in-hospital MACE.
+9.Numerator (m) is the number of patients (or lesions) with the specific classification, denominator (n) is the
+number of patients (or lesions) in the study group with known values, and percentage () was calculated as 100 ×
+Extended historical definition of MI is used for all the composite endpoints. TVMI is composed of both Q wave and
+non-Q wave MI which are not clearly attributable to a non-target vessel. Q wave MI defined when any occurrence of
+chest pain or other acute symptoms consistent with myocardial ischemia and new pathological Q waves in two or
+more contiguous ECG leads as determined by an ECG core laboratory or independent review of the CEC, in the
+absence of timely cardiac enzyme data, or new pathologic Q waves in two or more contiguous ECG leads as
+determined by an ECG core laboratory or independent review of the CEC and elevation of cardiac enzymes. In the
+absence of ECG data the CEC may adjudicate Q wave MI based on the clinical scenario and appropriate cardiac
+enzyme data. Non-Q Wave MI is defined as elevated CK ≥ 2X the upper laboratory normal with the presence of
+elevated CK-MB (any amount above the institution’s upper limit of normal) in the absence of new pathological Q
+waves. [Note: Periprocedural MIs (events <48 hours post-PCI) that did not fulfill the criteria for Q-wave MI are
+included in Non-Q Wave MI category. Periprocedural MIs did not require clinical symptoms or ECG evidence of
+myocardial ischemia, and in the absence of CK measurements, were based on an elevated CKMB > 3 X the upper
+laboratory normal, an elevated troponin > 3 X the upper laboratory normal, or CEC adjudication of the clinical
+scenario.]
+
+XII.    PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+        In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+        Medical Devices Act of 1990, this PMA was not referred to the Circulatory Systems
+        Devices Panel, an FDA advisory committee, for review and recommendation because the
+        information in the PMA substantially duplicates information previously reviewed by this
+        panel.
+
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                                         Page 21
+XIII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+      The safety and effectiveness of the Resolute Onyx stent is based on the results of
+      preclinical studies leveraged from the original Resolute Onyx PMA, including
+      biocompatibility, in vivo pharmacokinetics (generated on the Resolute product); in vitro
+      engineering testing; coating characterization; chemistry, manufacturing and controls
+      information; in vivo animal testing; sterilization and stability testing; and a newly
+      conducted clinical study (PERSPECTIVE Study – RESOLUTE CTO Cohort).
+
+      The PERSPECTIVE Study was an investigator initiated, single center study that
+      evaluated procedural and one-year clinical outcomes among consecutive subjects
+      undergoing attempted percutaneous chronic total occlusion (CTO) revascularization. The
+      prospective arm (N=250) of this study included 183 subjects treated with the Resolute
+      Integrity stent which constituted the RESOLUTE CTO Cohort. The primary endpoint for
+      this study was the MACE rate at 1 year compared to a performance goal derived from
+      previous studies of DES in CTO revascularization. In this study MACE is defined as the
+      composite of death, myocardial infarction (ARC defined), and clinically-driven target
+      lesion revascularization. Pooled patient-level data from the Global RESOLUTE Clinical
+      Program (RESOLUTE Pooled CTO analysis) is also provided in support of long-term
+      safety and effectiveness of the Resolute Onyx™ Zotarolimus-Eluting Coronary Stent
+      System.
+
+      A. Effectiveness Conclusions
+
+         Among patients enrolled in the RESOLUTE CTO Cohort of the PERSPECTIVE
+         Study, clinical success (achievement of <50% residual stenosis with ≥TIMI 2 flow)
+         was reported as 92.3% (169/183). TLF at one year was reported to be 18.2% (33/181)
+         and was driven by an in-hospital MI rate of 14.8% (27/183; ARC definition of MI).
+
+         In the supplementary RESOLUTE Pooled CTO analysis, lesion-based effectiveness,
+         defined as the attainment of <50% residual stenosis of the target lesion using any
+         percutaneous method, was reported to be 100% (526/526). Device success, defined as
+         the attainment of <50% residual stenosis of the target lesion using only the assigned
+         device, was reported to be 94.1% (496/527). Procedure success, defined as the
+         attainment of <50% residual stenosis of the target lesion and no in-hospital MACE
+         (Extended historical definition of MI), was reported to be 97.5% (348/357).
+
+      B. Safety Conclusions
+
+         The primary endpoint for the RESOLUTE CTO Cohort of the PERSPECTIVE Study
+         (MACE rate at 1 year in the ITT primary analysis set) was 18.2% (33/181) with an
+         upper one-sided 95% CI of 23.6%. This is lower than the prespecified performance
+         goal of 25.2% and therefore meets criteria for success.
+
+         The risks associated with use of the Resolute Onyx™ Zotarolimus-Eluting Coronary
+         Stent System have been evaluated in the clinical studies discussed above along with
+         non-clinical laboratory and animal studies leveraged from the original Resolute
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                        Page 22
+         Onyx™ PMA approval. The biocompatibility, in vivo pharmacokinetics (data
+         generated on the Resolute product), and in vivo performance characteristics of the
+         product provide a reasonable assurance of safety and acceptability for clinical use.
+
+         In summary the leveraged nonclinical data along with the results from the
+         PERSPECTIVE Study (RESOLUTE CTO Cohort), supported by the CTO data from
+         the Global RESOLUTE Clinical Program demonstrate that the Resolute DES family
+         of stents provide reasonable assurance of safety and effectiveness when used
+         according to the proposed indications for the treatment chronic total coronary
+         occlusions.
+
+      C. Benefit-Risk Determination
+
+         The probable benefits of the device are based on data collected in the clinical study
+         conducted to support PMA Supplement approval as described above. The Resolute
+         Onyx™ DES has been shown to be beneficial for improving luminal diameter in
+         patients with symptomatic coronary artery disease. The primary endpoint of major
+         adverse cardiac events (MACE) in the RESOLUTE CTO Cohort of the
+         PERSPECTIVE Study ITT primary analysis set at 12-months was 18.2% (33/181),
+         fulfilling the pre-specified performance criterion with an upper one-sided 95% CI of
+         23.6%, compared with the performance goal of 25.2%. Event rates reported at one
+         year for the RESOLUTE Pooled CTO subset include MACE rate of 5.7% (20/352),
+         cardiac death rate of 0.9% (3/352), TLR rate of 2.0% (7/352), and a stent thrombosis
+         rate of 0.6% (2/352).
+
+         Additional factors to be considered in determining probable risks and benefits for the
+         Resolute Onyx™ DES include characterization of the disease, availability of
+         alternative treatments, quality of the study design and conduct, robustness of analysis
+         of study results, and risk mitigations. Coronary artery disease (CAD) can be
+         accompanied by symptomatic chest pain or silent ischemia which affects patients’
+         quality of life. CAD is treatable, but if left untreated, the condition can progress to
+         further stenosis within the arteries, increased symptoms and the need for
+         revascularization. Available treatments for CAD include medical therapy,
+         percutaneous coronary intervention (PCI) and coronary artery bypass graft (CABG)
+         surgery. When treatment for coronary artery disease beyond medications and lifestyle
+         changes is warranted, patients often choose stent deployment over surgical
+         revascularization due to shorter recovery times and the less invasive nature of
+         percutaneous coronary intervention. The risks associated with use of drug eluting
+         stents are already well established, and in comparison to medical therapy, PCI has
+         been shown to reduce the incidence of angina. Patient tolerance of the stent device in
+         the PERSPECTIVE Study is in line with expectations. The study did not exclude any
+         typical patient subgroups that would be expected to benefit from treatment.
+           1. Patient Perspectives
+               This submission did not include specific information on patient perspectives
+               for this device.
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                         Page 23
+         In summary, given the available information, the data support the conclusion that the
+         probable benefits of the Resolute Onyx™ Zotarolimus-Eluting Stent System
+         outweigh the probable risks for the improvement coronary luminal diameters in
+         patients, including those with diabetes mellitus, with symptomatic ischemic heart
+         disease due to de novo lesions of length ≤ 35 mm in native coronary arteries with
+         reference vessel diameters of 2.0 mm to 5.0 mm, including the treatment of de novo
+         chronic total occlusions.
+
+      D. Overall Conclusions
+
+         The data in this application support the reasonable assurance of safety and
+         effectiveness of this device when used in accordance with the indications for use.
+         Data from the RESOLUTE CTO Cohort of the PERSPECTIVE Study and the Global
+         RESOLUTE Clinical Program support the safety and effectiveness of the Resolute
+         Onyx™ Zotarolimus-Eluting Coronary System for the treatment of de novo chronic
+         total occlusions.
+
+XIV. CDRH DECISION
+
+      CDRH issued an approval order on December 14, 2018. The final conditions of approval
+      cited in the approval order for this panel-track supplement are described below.
+
+      1. The RESOLUTE ONYX CTO Post-Approval Study – The objective of the
+         RESOLUTE ONYX CTO Post-Approval Study (PAS) is to demonstrate the
+         generalizability of the performance the Resolute family of drug-eluting stents for the
+         treatment of chronic total occlusions (CTOs) in a real-world setting. The RESOLUTE
+         ONYX CTO PAS will consist of lesion- and patient-level meta-analyses of
+         approximately 100 subjects with CTOs treated with the Resolute Onyx stent system
+         that are enrolled in the Primary, XLV and Bifurcation Cohorts of the RESOLUTE
+         ONYX Post-Approval Study and the ONYX ONE outside of the US randomized
+         controlled trial. Subjects will be followed according to the procedures in each
+         respective study. The primary safety and effectiveness endpoint will be freedom from
+         MACE (Death, Myocardial Infarction, and clinically-driven target lesion
+         revascularization) at 30 days. Secondary endpoints will include acute success (device,
+         lesion, and procedure), cardiac death, target vessel MI, TLR, TLF, TVF, and stent
+         thrombosis. The RESOLUTE ONYX CTO PAS does not have a formal hypothesis,
+         but descriptive statistics will be provided. You must collect and report clinical
+         outcomes to FDA through 2 years post-procedure on all patients included in the
+         RESOLUTE ONYX CTO PAS.
+
+      The applicant’s manufacturing facilities have been inspected and found to be in
+      compliance with the device Quality System (QS) regulation (21 CFR 820).
+
+XV.   APPROVAL SPECIFICATIONS
+
+      Directions for use: See device labeling.
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                          Page 24
+      Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+      Precautions, and Adverse Events in the device labeling.
+
+      Post-approval Requirements and Restrictions: See approval order.
+
+XVI. REFERENCES
+
+      1. Suttorp MJ, Laarman GJ, Rahel BM, et al. Primary Stenting of Totally Occluded
+         Native Coronary Arteries II (PRISON II): a randomized comparison of bare metal
+         stent implantation with sirolimus-eluting stent implantation for the treatment of total
+         coronary occlusions. Circulation 2006; 114(9); 921 – 928.
+
+      2. Kandzari DE, Kini AS, Karmpaliotis D, et al. Safety and Effectiveness of
+         Everolimus-Eluting Stents in Chronic Total Coronary Occlusion Revascularization:
+         Results From the EXPERT CTO Multicenter Trial (Evaluation of the XIENCE
+         Coronary Stent, Performance, and Technique in Chronic Total Occlusions). J Am
+         Coll Cardiol Intv 2015; 8(6); 761 – 769.
+
+
+
+
+PMA P160043/S012: FDA Summary of Safety and Effectiveness Data                          Page 25
+

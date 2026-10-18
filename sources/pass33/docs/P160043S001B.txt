@@ -1,0 +1,1734 @@
+     SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I.     GENERAL INFORMATION
+
+       Device Generic Name:              Drug-Eluting Coronary Stent System
+
+       Device Trade Name:                Resolute Onyx™ Zotarolimus-Eluting Coronary Stent
+                                           System
+
+       Device Procode:                   NIQ
+
+       Applicant’s Name and Address:     Medtronic Vascular
+                                         3576 Unocal Place
+                                         Santa Rosa, CA 95403
+
+       Date(s) of Panel Recommendation: None
+
+       Premarket Approval Application (PMA) Number: P160043/S001
+
+       Date of FDA Notice of Approval: November 16, 2017
+
+       The original PMA (P160043) was approved on April 28, 2017 and is indicated for
+       improving coronary luminal diameters in patients, including those with diabetes mellitus,
+       with symptomatic ischemic heart disease due to de novo lesions of length ≤ 35 mm in
+       native coronary arteries with reference vessel diameters of 2.25 mm to 5.0 mm. The
+       SSED to support the indication is available on the CDRH website
+       (https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043) and is
+       incorporated by reference here. The current supplement was submitted to expand the
+       indication for the Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System to
+       include reference vessel diameters of 2.0 mm.
+
+II.    INDICATIONS FOR USE
+
+       The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is indicated for
+       improving coronary luminal diameters in patients, including those with diabetes mellitus,
+       with symptomatic ischemic heart disease due to de novo lesions of length ≤ 35 mm in
+       native coronary arteries with reference vessel diameters of 2.0 mm to 5.0 mm.
+
+III.   CONTRAINDICATIONS
+
+       The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is contraindicated for
+       use in:
+              •   Patients with known hypersensitivity or allergies to aspirin, heparin,
+                  bivalirudin, clopidogrel, prasugrel, ticagrelor, ticlopidine, drugs such as
+                  zotarolimus, tacrolimus, sirolimus, everolimus, or similar drugs or any other
+                  analogue or derivative.
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                          Page 1
+                  •    Patients with a known hypersensitivity to the cobalt-based alloy (cobalt,
+                       nickel, chromium, and molybdenum) or platinum-iridium alloy.
+                  •    Patients with a known hypersensitivity to the BioLinx polymer or its
+                       individual components
+         Coronary artery stenting is contraindicated for use in:
+                  •    Patients in whom anti-platelet and/or anticoagulation therapy is
+                       contraindicated.
+                  •    Patients who are judged to have a lesion that prevents complete inflation of an
+                       angioplasty balloon or proper placement of the stent or stent delivery system.
+
+IV.      WARNINGS AND PRECAUTIONS
+
+         The warnings and precautions can be found in the Resolute Onyx Zotarolimus-Eluting
+         Coronary Stent System labeling.
+
+V.       DEVICE DESCRIPTION
+
+         The Medtronic Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System (Resolute
+         Onyx™ system) is a device/drug combination product comprised of the following device
+         components:
+                  •    A Resolute Onyx™ Coronary Stent and delivery system. The delivery system
+                       is available in a rapid exchange (RX) and an over-the-wire (OTW)
+                       configuration.
+                  •    A drug/polymer coating component, which consists of a formulation of
+                       zotarolimus contained in a BioLinx polymer.
+         The characteristics of the Resolute Onyx™ product are described in Table 1.
+
+             Table 1: Device Component Description and Nominal Dimensions
+                                       Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System
+                                           Rapid Exchange and Over-the-Wire Delivery Systems
+      Component
+                               Stent Design 1     Stent Design 2    Stent Design 3       Stent Design 4
+                               (Small Vessel)    (Medium Vessel)    (Large Vessel)    (Extra Large Vessel )
+Available Stent Diameters
+                            2.0, 2.25, 2.5           2.75, 3.0            3.5, 4.0             (RX Only) – 4.5, 5.0
+(mm)
+
+                            8, 12, 15, 18, 22, 26,
+                            30, 34*, 38*
+Available Stent                                      8, 12, 15, 18, 22,   8, 12, 15, 18, 22,   (RX Only) – 12, 15, 18,
+Lengths (mm)                * 34, 38 mm lengths      26, 30, 34, 38       26, 30, 34, 38       22, 26, 30
+                            not available in 2.0
+                            mm
+
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                                              Page 2
+             Table 1: Device Component Description and Nominal Dimensions
+                                        Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System
+                                            Rapid Exchange and Over-the-Wire Delivery Systems
+      Component
+                                Stent Design 1     Stent Design 2    Stent Design 3       Stent Design 4
+                                (Small Vessel)    (Medium Vessel)    (Large Vessel)    (Extra Large Vessel )
+                             A continuous sinusoid pattern stent manufactured from a composite metal material, consisting of a
+Stent Material and
+                             cobalt-based alloy shell conforming to ASTM F562 and a platinum-iridium alloy core conforming
+Geometry
+                             to ASTM B684.
+
+                             A coating of polymers loaded with zotarolimus in a formulation applied to the entire surface of the
+Drug Component               stent at a dose of approximately 1.6 µg/mm2 which results in a maximum nominal drug content of
+                             317 µg on the stent with the largest surface area (4.0 x 38 mm).
+
+Delivery System Working
+                             140 cm
+Length
+
+                             Single access port to the inflation lumen. A guidewire exit port is located approximately 25 cm
+                     RX
+Delivery System              from the tip. Designed for guidewire less than or equal to 0.014 inch (0.36 mm).
+Luer Adapter
+                             Y-Connector with side arm for access to balloon inflation/deflation lumen. Straight arm is
+Ports
+                     OTW     continuous with shaft inner lumen designed for guidewire less than or equal to 0.014 inch
+                             (0.36 mm).
+
+                             Single-layer Pebax balloon, wrapped over an inner member tubing with 2 radiopaque marker bands
+Stent Delivery Balloon
+                             to locate the stent edges.
+
+                             Nominal Inflation Pressure: 12 ATM (1216 kPa)
+Balloon Inflation Pressure   Rated Burst Pressure: 2.0-4.0mm = 18 ATM (1824 kPa), RX only: 4.5-5.0mm = 16 ATM
+                             (1621kPa)
+
+Minimum Guide Catheter
+                             5 F (1.42 mm, 0.056 in)
+Inner Diameter
+
+                             Proximal Shaft OD, 2.0-5.0mm: 2.1 F (0.69 mm)
+                     RX      Distal Shaft OD, 2.0-4.0mm: 2.7 F (0.91 mm)
+Catheter Shaft               Distal Shaft OD, 4.5 and 5.0mm: 3.2 F (1.07 mm)
+Outer Diameter
+                             Proximal Shaft OD: 3.4 F (1.12 mm)
+                     OTW
+                             Distal Shaft OD: 2.7 F (0.91 mm)
+
+
+
+         A. Device Component Description
+         The Medtronic Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System (Resolute
+         Onyx™ system) consists of a balloon-expandable, intracoronary, drug-eluting stent
+         (DES) premounted on a stent delivery system (RX or OTW). The Resolute Onyx™
+         coronary stent is manufactured from a composite material of cobalt alloy and platinum-
+         iridium alloy and is formed from a single wire bent into a continuous sinusoid pattern and
+         then laser fused back onto itself. The Resolute Onyx™ cornary stent is coated with a
+         Parylene C primer, a Biolinx polymer, and the active pharmaceutical ingredient (API),
+         zotarolimus with a nominal drug dose density of approximately 1.6 µg/mm2. The stents
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                                                      Page 3
+      are available in multiple lengths and diameters. The delivery system has two radiopaque
+      markers to aid in the placement of the stent during fluoroscopy and is compatible with
+      0.014-inch (0.36-mm) guidewires and 1.42-mm (5-Fr/0.056-in) minimum inner diameter
+      guide catheters. The stent is crimped on various sizes of delivery catheter balloons, which
+      range from 2.0 mm to 5.0 mm. See Table 1, above, for full list of diameter ranges
+      available on each delivery system (RX and OTW).
+      B. Drug Component Description
+      The drug coating of the Resolute Onyx™ System consists of the drug zotarolimus (the
+      active ingredient) and BioLinx® polymer system (the inactive ingredient).
+      B1. Active Ingredient: Zotarolimus
+      The active pharmaceutical ingredient utilized in Resolute Onyx™ is zotarolimus. It is a
+      tetrazole-containing macrocyclic immunosuppressant.
+      The Chemical name of zotarolimus is: [3S-[3R*[S*(1R*,3S*,4R*)],6S*,
+      7E,9S*,10S*,12S*,14R*,15E,17E,19E, 21R* ,23R*, 26S*,27S*,34aR*]]-
+      9,10,12,13,14,21,22,23,24,25,26,27, 32,33,34,34a-hexadecahydro-9,27-dihydroxy-3-[2-
+      [3-methoxy-4-(1H-tetrazoyl-1-yl)cyclohexyl]-1-methylethyl]-10,21-dimethoxy-
+      6,8,12,14,20,26-hexamethyl-23,27-epoxy-3H-pyrido[2,1-c]
+      [1,4]oxaazacyclohentriacontine-1,5,11,28,29(4H,6H,31H)-pentone.
+
+
+      The chemical structure of zotarolimus is shown in Figure 1.
+                             N   N
+                         N       N
+
+
+                                                                                                                   CH3
+                                 O                                                  CH3        CH3            O
+                                                                          4
+                                 CH3                             3             5                     9                       O
+                                              H3C                                   6          8              10
+                                                                                          7                             11
+                                                             O2                O                   OH              12
+                                                                                                   H3C
+                                                                 1                                                      13
+
+                                                   N                 O                                             14
+                                                                                                         15
+                                              29                      CH3                                           CH3
+                                     O                                                        17   16
+                                              28       O         O
+                                                                                    19 18
+                                     HO        27
+                                                  O                       21       20
+                                 H3 C                       23       22            CH3
+                                         26
+                                              25       24
+
+
+                     Figure 1: Chemical Structure of Zotarolimus
+
+      Zotarolimus has extremely low water solubility and is a lipophilic compound that is
+      freely soluble in Propylene glycol, Acetone, Toluene, Acetonitrile, Ethanol, Benzyl
+      alcohol and DMSO. The molecular formula of zotarolimus is C52H79N5O12 and its
+      molecular weight is 966.2.
+      Zotarolimus does not have any ionizable group(s) in the physiological pH range;
+      therefore, its solubility is expected to be unaltered in this range.
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                                                                   Page 4
+      B2. Inactive Ingredient
+      Biolinx Polymer
+      Resolute Onyx™ coronary stent is covered with a coating that consists of a blend of the
+      drug zotarolimus and the Biolinx polymer system. BioLinx is a blend of the Medtronic
+      proprietary components C10 and C19, and PVP (polyvinyl pyrrolidone).
+      The structural formula of the BioLinx polymer subunits is show in Figure 2.
+
+
+
+
+                Figure 2: Chemical Structure of Biolinx Polymer Sub-units
+
+
+
+
+Table 2: Resolute OnyxTM Zotarolimus-Eluting Coronary Stent System Product Matrix and
+                             Nominal Zotarolimus Content
+
+                                                      Nominal
+                                        Nominal                      Nominal        Nominal
+                     Product Number                 Unexpanded
+ Product Number                        Expanded                     Zotarolimus    Zotarolimus
+                      Resolute Onyx                 Stent Length
+ Resolute Onyx RX                     Stent ID RX                   Content RX    Content OTW
+                          OTW                       RX & OTW
+                                         (mm)                           (µg)           (µg)
+                                                       (mm)
+RONYX20008UX        RONYX20008W           2.0                           51               51
+RONYX22508UX        RONYX22508W           2.25                          51               51
+RONYX25008UX        RONYX25008W           2.5                           51               51
+RONYX27508UX        RONYX27508W           2.75           8              67               67
+RONYX30008UX        RONYX30008W           3.0                           67               67
+RONYX35008UX        RONYX35008W           3.5                           77               77
+RONYX40008UX        RONYX40008W           4.0                           77               77
+RONYX20012UX        RONYX20012W           2.0                           70               70
+RONYX22512UX        RONYX22512W           2.25                          70               70
+RONYX25012UX        RONYX25012W           2.5                           70               70
+RONYX27512UX        RONYX27512W           2.75                          94               94
+RONYX30012UX        RONYX30012W           3.0            12             94               94
+RONYX35012UX        RONYX35012W           3.5                           108             108
+RONYX40012UX        RONYX40012W           4.0                           108             108
+RONYX45012UX        Not Available         4.5                           132         Not Available
+RONYX50012UX        Not Available         5.0                           132         Not Available
+RONYX20015UX        RONYX20015W           2.0                           85               85
+                                                         15
+RONYX22515UX        RONYX22515W           2.25                          85               85
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                         Page 5
+Table 2: Resolute OnyxTM Zotarolimus-Eluting Coronary Stent System Product Matrix and
+                             Nominal Zotarolimus Content
+
+                                                      Nominal
+                                        Nominal                     Nominal        Nominal
+                     Product Number                 Unexpanded
+ Product Number                        Expanded                    Zotarolimus    Zotarolimus
+                      Resolute Onyx                 Stent Length
+ Resolute Onyx RX                     Stent ID RX                  Content RX    Content OTW
+                          OTW                       RX & OTW
+                                         (mm)                          (µg)           (µg)
+                                                       (mm)
+RONYX25015UX        RONYX25015W          2.5                           85              85
+RONYX27515UX        RONYX27515W          2.75                          117            117
+RONYX30015UX        RONYX30015W          3.0                           117            117
+RONYX35015UX        RONYX35015W          3.5                           132            132
+RONYX40015UX        RONYX40015W          4.0                           132            132
+RONYX45015UX        Not Available        4.5                           158        Not Available
+RONYX50015UX        Not Available        5.0                           158        Not Available
+RONYX20018UX        RONYX20018W          2.0                           104            104
+RONYX22518UX        RONYX22518W          2.25                          104            104
+RONYX25018UX        RONYX25018W          2.5                           104            104
+RONYX27518UX        RONYX27518W          2.75                          140            140
+RONYX30018UX        RONYX30018W          3.0             18            140            140
+RONYX35018UX        RONYX35018W          3.5                           156            156
+RONYX40018UX        RONYX40018W          4.0                           156            156
+RONYX45018UX        Not Available        4.5                           188        Not Available
+RONYX50018UX        Not Available        5.0                           188        Not Available
+RONYX20022UX        RONYX20022W          2.0                           127            127
+RONYX22522UX        RONYX22522W          2.25                          127            127
+RONYX25022UX        RONYX25022W          2.5                           127            127
+RONYX27522UX        RONYX27522W          2.75                          171            171
+RONYX30022UX        RONYX30022W          3.0             22            171            171
+RONYX35022UX        RONYX35022W          3.5                           186            186
+RONYX40022UX        RONYX40022W          4.0                           186            186
+RONYX45022UX        Not Available        4.5                           227        Not Available
+RONYX50022UX        Not Available        5.0                           227        Not Available
+RONYX20026UX        RONYX20026W          2.0                           146            146
+RONYX22526UX        RONYX22526W          2.25                          146            146
+RONYX25026UX        RONYX25026W          2.5                           146            146
+RONYX27526UX        RONYX27526W          2.75                          198            198
+RONYX30026UX        RONYX30026W          3.0             26            198            198
+RONYX35026UX        RONYX35026W          3.5                           221            221
+RONYX40026UX        RONYX40026W          4.0                           221            221
+RONYX45026UX        Not Available        4.5                           265        Not Available
+RONYX50026UX        Not Available        5.0                           265        Not Available
+RONYX20030UX        RONYX20030W          2.0                           168            168
+RONYX22530UX        RONYX22530W          2.25                          168            168
+RONYX25030UX        RONYX25030W          2.5                           168            168
+RONYX27530UX        RONYX27530W          2.75                          225            225
+                                                         30
+RONYX30030UX        RONYX30030W          3.0                           225            225
+RONYX35030UX        RONYX35030W          3.5                           252            252
+RONYX40030UX        RONYX40030W          4.0                           252            252
+RONYX45030UX        Not Available        4.5                           304        Not Available
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                       Page 6
+Table 2: Resolute OnyxTM Zotarolimus-Eluting Coronary Stent System Product Matrix and
+                             Nominal Zotarolimus Content
+
+                                                         Nominal
+                                          Nominal                       Nominal        Nominal
+                     Product Number                    Unexpanded
+ Product Number                          Expanded                      Zotarolimus    Zotarolimus
+                      Resolute Onyx                    Stent Length
+ Resolute Onyx RX                       Stent ID RX                    Content RX    Content OTW
+                          OTW                          RX & OTW
+                                           (mm)                            (µg)           (µg)
+                                                          (mm)
+RONYX50030UX        Not Available           5.0                            304        Not Available
+RONYX22534UX        RONYX22534W             2.25                           187            187
+RONYX25034UX        RONYX25034W             2.5                            187            187
+RONYX27534UX        RONYX27534W             2.75                           257            257
+                                                            34
+RONYX30034UX        RONYX30034W             3.0                            257            257
+RONYX35034UX        RONYX35034W             3.5                            282            282
+RONYX40034UX        RONYX40034W             4.0                            282            282
+RONYX22538UX        RONYX22538W             2.25                           206            206
+RONYX25038UX        RONYX25038W             2.5                            206            206
+RONYX27538UX        RONYX27538W             2.75                           284            284
+                                                            38
+RONYX30038UX        RONYX30038W             3.0                            284            284
+RONYX35038UX        RONYX35038W             3.5                            317            317
+RONYX40038UX        RONYX40038W             4.0                            317            317
+
+
+       C. Mechanism of Action
+       In vitro, zotarolimus inhibited growth factor-induced proliferation of human coronary
+       artery smooth muscle cells, and also demonstrated binding affinity with FKBP-12
+       (binding protein). The suggested mechanism of action of zotarolimus is to bind to
+       FKBP12, leading to the formation of a trimeric complex with the protein kinase mTOR
+       (mammalian target of rapamycin), inhibiting its activity. Inhibition of mTOR activity
+       leads to inhibition of cell cycle progression from the G1 to the S phase. Table 2, above,
+       lists the nominal drug content present on each product included in the Resolute Onyx™
+       matrix.
+
+VI.    ALTERNATIVE PRACTICES AND PROCEDURES
+
+       There are several other alternatives for the correction of coronary artery disease including
+       exercise, diet, smoking cessation counseling, drug therapy, percutaneous coronary
+       interventions (such as balloon angioplasty, atherectomy, and replacement with bare metal
+       stents, coated stents, and other drug eluting stents), and coronary artery bypass surgery
+       (CABG). Each alternative has its own advantages and disadvantages. A patient should
+       fully discuss these alternatives with his/her physician to select the method that best meets
+       expectations and lifestyle.
+
+VII.   MARKETING HISTORY
+
+       The Resolute OnyxTM Zotarolimus-Eluting Coronary Stent System is commercially
+       available in the following countries:
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                           Page 7
+           Albania                   El Salvador             Lebanon                  Reunion
+           Algeria                     Estonia               Lithuania               Romania
+          Argentina                        Fiji            Luxembourg           Russian Federation
+          Armenia                      Finland              Macedonia              Saudi Arabia
+          Australia                    France                Malaysia                  Serbia
+           Austria                    Germany                  Malta                 Singapore
+         Azerbaijan                    Greece               Martinique                Slovakia
+           Bahrain                   Guatemala                Mexico                  Slovenia
+         Bangladesh                   Honduras               Moldova               South Africa
+          Belgium                    Hong Kong             Montenegro                  Spain
+           Bolivia                    Hungary                Morocco                 Sri Lanka
+   Bosnia and Herzegovina              Iceland               Namibia                  Sweden
+          Botswana                       India                 Nepal                Switzerland
+     Brunei Darussalam                    Iran             Netherlands                Taiwan
+          Bulgaria                        Iraq             New Zealand               Tajikistan
+       Canary Islands                  Ireland              Nicaragua                Tanzania
+          Columbia                       Israel               Norway                 Thailand
+         Costa Rica                       Italy                Oman            Trinidad And Tobago
+           Croatia                      Jordan               Pakistan                 Tunisia
+           Cyprus                    Kazakhstan               Panama                   Turkey
+      Czech Republic                    Kenya                Paraguay          United Arab Emirates
+          Denmark                 Korea, Republic Of        Philippines          United Kingdom
+    Dominican Republic                 Kuwait                 Poland               United States
+          Ecuador                    Kyrgyzstan              Portugal               Venezuela
+            Egypt                       Latvia                 Qatar                   Yemen
+
+       The device has not been withdrawn from marketing for any reason related to its safety or
+       effectiveness.
+
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+       Below is a list of the potential adverse effects (e.g., complications) associated with the
+       use of the device. Adverse events (in alphabetical order) which may be associated with
+       coronary stent use in native coronary arteries include, but are not limited to:
+               •   Abrupt vessel closure
+               •   Access site pain, hematoma, or hemorrhage
+               •   Allergic reaction (to contrast, antiplatelet therapy, stent material, or drug and
+                   polymer coating)
+               •   Aneurysm, pseudoaneurysm, or arteriovenous fistula (AVF)
+               •   Arrhythmias, including ventricular fibrillation
+               •   Balloon rupture
+               •   Bleeding
+               •   Cardiac tamponade
+               •   Coronary artery occlusion, perforation, rupture, or dissection
+               •   Coronary artery spasm
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                              Page 8
+             •   Death
+             •   Embolism (air, tissue, device, or thrombus)
+             •   Emergency surgery: peripheral vascular or coronary bypass
+             •   Failure to deliver the stent
+             •   Hemorrhage requiring transfusion
+             •   Hypotension/hypertension
+             •   Incomplete stent apposition
+             •   Infection or fever
+             •   Myocardial Infarction (MI)
+             •   Pericarditis
+             •   Peripheral ischemia/peripheral nerve injury
+             •   Renal failure
+             •   Restenosis of the stented artery
+             •   Shock/pulmonary edema
+             •   Stable or unstable angina
+             •   Stent deformation, collapse, or fracture
+             •   Stent migration or embolization
+             •   Stent misplacement
+             •   Stroke/transient ischemic attack
+             •   Thrombosis (acute, subacute, or late)
+      Adverse events that have been associated with the intravenous injection of zotarolimus in
+      humans include but are not limited to:
+             •   Anemia
+             •   Diarrhea
+             •   Dry Skin
+             •   Headache
+             •   Hematuria
+             •   Infection
+             •   Injection site reaction
+             •   Pain (abdominal, arthralgia, injection site)
+             •   Rash
+      Potential adverse events related to BioLinx polymer include but are not limited to:
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                         Page 9
+              •   Allergic reaction
+              •   Focal inflammation at the site of stent implantation
+              •   Restenosis of the stented artery
+
+       For the specific adverse events that occurred in the RESOLUTE ONYX 2.0 mm Clinical
+       Study, please see Section X below.
+
+IX.    SUMMARY OF NONCLINICAL STUDIES
+
+       A series of non-clinical laboratory studies related to the Resolute family of products were
+       performed and the pertinent data is being leveraged from the previously approved PMAs
+       P110013 and P160043. Because these previously collected data sufficiently represent the
+       performance of the device for the new indications for use, no new non-clinical testing
+       was conducted.
+
+
+X.     SUMMARY OF PRIMARY CLINICAL STUDIES
+
+       The applicant performed a clinical study in the United States and Japan to establish a
+       reasonable assurance of safety and effectiveness of the Resolute Onyx™ Zotarolimus-
+       Eluting Coronary Stent System for treatment of de novo lesions in native coronary
+       arteries that allow the use of a 2.0 mm diameter stent under IDE G140178. Data from this
+       clinical study, in conjunction with data generated in the Global RESOLUTE Clinical
+       Trial Program were the basis for the PMA Supplement approval decision. A summary of
+       the clinical study is presented below.
+
+      A. Study Design
+
+        Patients were treated between April 7, 2015 and February 23, 2016. The database for
+        this PMA reflected data collected through March 21, 2017 and included 101 patients.
+        There were 20 enrolling investigational sites across the United States and Japan.
+
+        The Medtronic RESOLUTE ONYX 2.0 mm Clinical Study was a single arm, open
+        label, multi-center trial enrolling at least 100 subjects with ischemic heart disease
+        attributable to stenotic lesions of the native coronary arteries that are amenable to
+        percutaneous treatment with stenting. Subjects were to receive treatment of one or two
+        lesions with stent diameters of 2.0 mm, one lesion per target vessel, for a maximum of
+        two target vessels. Only one lesion was to be treated in a single target vessel. All
+        treatment with the study stents was to be performed during a single index procedure.
+
+        If a subject became unstable before a study stent was attempted (stent introduced into
+        guide catheter), the subject was not to be enrolled, or followed, and would not be
+        included in the primary analysis of this trial. Another subject was to be enrolled to
+        replace this subject for the primary analysis. If treatment with the Resolute Onyx stent
+        was attempted (stent introduced into guide catheter) but not implanted, the subject
+        would be considered part of the Intention-to-Treat population (ITT), followed through
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                          Page 10
+        the 12-month endpoint, and included in the primary analysis of this trial. After the 12-
+        month follow up, these subjects would exit the study.
+
+         1. Clinical Inclusion and Exclusion Criteria
+             Enrollment in the RESOLUTE ONYX 2.0 mm Clinical Study study was limited
+             to patients who met the following Key Inclusion Criteria:
+                     •       Subject has clinical evidence of ischemic heart disease. For single
+                             vessel disease: stable or unstable angina alone is sufficient. For
+                             multi-vessel treatment: a positive functional study or FFR to
+                             demonstrate functional need in 2.0 mm small vessel.
+                     •       Subject has either a single target lesion suitable for treatment with
+                             a Resolute Onyx 2.0 mm stent, or two target lesions located in
+                             separate target vessels with at least one suitable for treatment with
+                             a Resolute Onyx 2.0 mm stent
+             Patients were not permitted to be enrolled in the RESOLUTE ONYX 2.0 mm
+             Clinical Study if they met any of the following Key Exclusion Criteria:
+                     •       Evidence of an acute MI within 72 hours of the trial procedure
+                     •       Planned PCI of any vessel within 30 days post-index procedure
+                             and/or planned PCI of the target vessel(s) within 12 months post-
+                             procedure. (No staged procedures)
+                     •       Known hypersensitivity or contraindication to aspirin, heparin and
+                             bivalirudin, thienopyridines, cobalt, nickel, platinum, iridium,
+                             chromium, molybdenum, polymer coatings (e.g. BioLinx) or a
+                             sensitivity to contrast media, which cannot be adequately pre-
+                             medicated
+                     •       History of an allergic reaction or significant sensitivity to drugs
+                             such as zotarolimus, rapamycin, tacrolimus, everolimus, or any
+                             other analogue or derivative
+                     •       History of a stroke or transient ischemic attack (TIA) within the
+                             prior 6 months
+                     •       Active peptic ulcer or upper gastrointestinal (GI) bleeding within
+                             the prior 6 months
+                     •       History of bleeding diathesis or coagulopathy or will refuse blood
+                             transfusions
+                     •       Concurrent medical condition with a life expectancy of less than
+                             12 months
+                     •       Currently participating in an investigational drug or another device
+                             trial that has not completed the primary endpoint
+                     •       Documented left ventricular ejection fraction (LVEF) < 30% at the
+                             most recent evaluation
+
+
+         2. Follow-up Schedule
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                           Page 11
+             All patients were scheduled for follow up contacts at 30 days (± 5 days), 6
+             months (± 14 days), 12 months (± 30 days) and then annually (at 2 and 3 years ±
+             30 days) postoperatively. Patients in the 2.0 mm Angio subset were to return for
+             angiographic assessment at 13 months (± 14 days). The key timepoints are shown
+             in Table 3.
+
+                           Table 3: Schedule of Treatments and Assessments
+
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                       Page 12
+                       Index Hospitalization                            Follow-up Assessments
+                Screening/Pre-                                          6         12        13      24, 36
+                                                           30 Day
+                  Procedure                                            Month     Month     Month    Months
+
+  Event                 Prior to                Post-                  Subject
+                                    Proced.                                    2
+                       procedure                       1
+                                                                       Contact Subject
+                                               Proced.     Subject                         Clinic   Subject
+              Screen    within:                                    2      or           2                    2
+                                                           Contact                         Visit
+                        7    72                                         Clinic Contact              Contact
+                       days hours                                       Visit5
+Informed
+Consent         X
+signed
+Medical
+and cardiac     X
+history
+Angina
+                X                                 X           X          X         X         X         X
+status
+Pregnancy
+                        X
+test3
+Creatinine              X
+WBC with
+                        X
+Plts
+                                                 X
+12 lead                                        Within
+                        X
+ECG                                             24
+                                               hours
+                                                  X
+                                                 1st:
+   6                                            >3hrs
+CK and                        X
+Troponin                                       2nd: >4
+                                               hrs after
+                                                1st, <
+                                                24 hrs
+       5
+MPI                                                                      X
+                                                                                               4
+QCA                                   X                                                      X
+                                                                                                      X
+AE
+                                      X           X           X          X         X         X       SAEs
+monitoring
+                                                                                                     only
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                           Page 13
+                    X
+Antiplatelet Within
+                                                      X         X          X         X         X         X
+medications         24
+                  hours
+1. End of procedure is defined as removal of the guide catheter
+2. Subject contact includes phone call, email or clinic visit
+3. For women of childbearing potential only
+4. 2.0 mm Angio Subset only
+5. Clinical visit for MPI assessment required for subjects that received an MPI at baseline and agree to do a
+follow-up MPI
+6. If it is not standard hospital practice to measure CK values, CK-MB values are sufficient. All subjects
+  should have Troponin values.
+
+           3. Clinical Endpoints
+
+            Primary Endpoint(s)
+               Target Lesion Failure (TLF) at 12-months post-procedure, defined as Cardiac
+               Death, Target Vessel Myocardial Infarction (TVMI) (Q wave or non-Q wave) or
+               Target Lesion Revascularization by percutaneous or surgical methods.
+
+            Key Secondary Endpoint(s)
+               Secondary endpoints of the trial include the following:
+
+            Key Secondary Clinical Endpoints
+                •   Acute Success (Device, Lesion, Procedure)
+                •   Cardiac Death
+                •   Target Vessel Myocardial Infarction (TVMI)
+                •   Cardiac Death and TVMI
+                •   Major Adverse Cardiac Event (MACE)
+                •   Target Lesion Failure (TLF)
+                •   Target Vessel Failure (TVF)
+                •   Stent Thrombosis (ST)
+
+             Secondary Imaging Endpoint
+                •   Ischemia assessment per Myocardial Perfusion Imaging (MPI) for subjects
+                    who had MPI at baseline and consent to a follow up MPI
+
+             Secondary Angiographic Endpoints
+                •   Late Lumen Loss (LLL)
+                •   Binary Angiographic Restenosis (BAR) rate (defined as ≥ 50% diameter
+                    stenosis (DS))
+                •   Percent Diameter Stenosis (% DS)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                           Page 14
+     B. Accountability of PMA Cohort
+
+        At the time of the database lock for this study, 101 subjects were eligible for the 12 month
+        post-procedure follow up. Figure 3 provides an overview of the subject accountability for
+        this study through the 12-month Follow-Up visit. Figure 4 provides an overview of the
+        subject accountability for the Angiographic Subset at 13 months.
+
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                            Page 15
+                                      101 Resolute Onyx
+                                           subjects
+                                                             0 subjects died prior to
+                 0 subjects
+              withdrew prior to                                  30-day contact
+               30-day contact
+
+                                                                     3 subjects had 30-day
+                                                                     contact outside of window
+                                                                     (30±5 days)
+     0 subjects had no                   101 subjects
+      30-day contact                    Eligible for 30
+                                         day contact
+                                                                     98 subjects had 30-day
+                                                                     contact in window (30±5
+                                                                     days)
+
+                0 subjects withdrew
+                  prior to 6 month                        0 subjects died prior to 6
+                       contact                                 month contact
+
+
+                                                                      0 subjects had 6 month
+                                                                   contact outside of window (6
+                                        101 subjects                        m±14 days)
+                                        Eligible for 6
+       1 subject had no
+                                        month contact
+       6 month contact
+                                                                     100 subjects had 6 month
+                                                                    contact in window (6m±14
+                                                                               days)
+
+
+                   0 subjects
+                withdrew prior to                          0 subjects died prior
+                12 month contact                           to 12 month contact
+
+
+
+                                                                        0 subjects had 12
+                                                                      month contact outside
+                                                                      of window (12 m±30
+     1 subject had no                    101 subjects                         days)
+     12 month contact                   Eligible for 12
+                                        month contact
+                                                                      100 subjects had
+                                                                      12 month contact
+                                                                         in window
+                                                                       (12m±30 days)
+
+
+
+
+Figure 3: RESOLUTE ONYX 2.0 mm Clinical Study Subject Accountability at 12- months
+                              Post-Procedure
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                           Page 16
+Figure 4: RESOLUTE ONYX 2.0 mm Clinical Study Subject Accountability (Angiographic
+                             Subset at 13-months)
+
+
+     C. Study Population Demographics and Baseline Parameters
+         The demographics of the study population are typical for a PCI study performed in
+         the US.
+
+         The mean age of the study subjects was 67.3 years, with 70.3% (71/101) of subjects
+         being male, 46.5% (47/101) diabetics, 11.9% (12/101) were current smokers, 35.7%
+         (35/98) had prior MI, 59.4% (60/101) had prior PCI, 82.2% (83/101) had
+         hypertension, and 94.1% (95/101) reported hyperlipidemia. Baseline lesion
+         characteristics include 36.6% (37/101) of subjects with LAD lesions, a mean lesion
+         length of 12.59 ± 6.27mm, and 65.4% (68/104) ACC/AHA type B2/C lesions. The
+         mean RVD was 1.91 ± 0.26 mm and the percentage diameter stenosis was 65.83 ±
+         10.89%.
+     D. Safety and Effectiveness Results
+         1. Safety Results
+         The analysis of safety was based on the Primary cohort of 100 subjects available for
+         the 12-month evaluation. There were no unanticipated adverse device effects
+         (UADE), nor any device failures or malfunctions reported through 12 months.
+         Adverse effects are reported in Table 4 to Table 7.
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                       Page 17
+                Adverse effects that occurred in the PMA clinical study:
+
+                    Table 4: All Site Reported Adverse Events by Type
+                                                               RESOLUTE ONYX 2.0
+                                                                      mm
+                                                                 (N=101 Subjects)
+Events                                                              %(m/n)1
+Any Adverse Event                                                   84.2% (85/101)
+BLOOD AND LYMPHATIC SYSTEM DISORDERS                                    5.0% (5/101)
+ ANAEMIA                                                                4.0% (4/101)
+ LEUKOCYTOSIS                                                           2.0% (2/101)
+CARDIAC DISORDERS                                                   23.8% (24/101)
+ ACCELERATED IDIOVENTRICULAR RHYTHM                                     1.0% (1/101)
+ ACUTE MYOCARDIAL INFARCTION                                            1.0% (1/101)
+ ANGINA PECTORIS                                                        2.0% (2/101)
+ ARRHYTHMIA                                                             1.0% (1/101)
+ ATRIAL FIBRILLATION                                                    2.0% (2/101)
+ ATRIAL FLUTTER                                                         2.0% (2/101)
+ ATRIOVENTRICULAR BLOCK FIRST DEGREE                                    1.0% (1/101)
+ BUNDLE BRANCH BLOCK LEFT                                               1.0% (1/101)
+ CARDIAC ANEURYSM                                                       1.0% (1/101)
+ CARDIAC FAILURE CONGESTIVE                                             2.0% (2/101)
+ CARDIAC FLUTTER                                                        1.0% (1/101)
+ CORONARY ARTERY DISEASE                                                3.0% (3/101)
+ CORONARY ARTERY STENOSIS                                               2.0% (2/101)
+ DIASTOLIC DYSFUNCTION                                                  1.0% (1/101)
+ IN-STENT CORONARY ARTERY RESTENOSIS                                    1.0% (1/101)
+ MYOCARDIAL INFARCTION                                                  3.0% (3/101)
+ PALPITATIONS                                                           2.0% (2/101)
+ SINUS ARRHYTHMIA                                                       1.0% (1/101)
+ SINUS BRADYCARDIA                                                      1.0% (1/101)
+ SINUS TACHYCARDIA                                                      1.0% (1/101)
+ VENTRICULAR EXTRASYSTOLES                                              1.0% (1/101)
+ VENTRICULAR TACHYCARDIA                                                1.0% (1/101)
+EAR AND LABYRINTH DISORDERS                                             3.0% (3/101)
+ VERTIGO                                                                2.0% (2/101)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                    Page 18
+                  Table 4: All Site Reported Adverse Events by Type
+                                                             RESOLUTE ONYX 2.0
+                                                                    mm
+                                                               (N=101 Subjects)
+Events                                                            %(m/n)1
+ VERTIGO POSITIONAL                                                   1.0% (1/101)
+ENDOCRINE DISORDERS                                                   1.0% (1/101)
+ ADRENAL INSUFFICIENCY                                                1.0% (1/101)
+EYE DISORDERS                                                         5.0% (5/101)
+ CATARACT                                                             1.0% (1/101)
+ DIABETIC RETINAL OEDEMA                                              1.0% (1/101)
+ EYE IRRITATION                                                       1.0% (1/101)
+ EYE SWELLING                                                         1.0% (1/101)
+ VISUAL ACUITY REDUCED                                                1.0% (1/101)
+GASTROINTESTINAL DISORDERS                                        22.8% (23/101)
+ ABDOMINAL DISCOMFORT                                                 1.0% (1/101)
+ ABDOMINAL PAIN                                                       2.0% (2/101)
+ CONSTIPATION                                                         4.0% (4/101)
+ DIARRHOEA                                                            2.0% (2/101)
+ DYSPEPSIA                                                            2.0% (2/101)
+ DYSPHAGIA                                                            2.0% (2/101)
+ GASTRIC ULCER                                                        2.0% (2/101)
+ GASTROINTESTINAL HAEMORRHAGE                                         2.0% (2/101)
+ HAEMATOCHEZIA                                                        1.0% (1/101)
+ HAEMORRHOIDAL HAEMORRHAGE                                            1.0% (1/101)
+ HAEMORRHOIDS                                                         1.0% (1/101)
+ INGUINAL HERNIA                                                      1.0% (1/101)
+ IRRITABLE BOWEL SYNDROME                                             1.0% (1/101)
+ NAUSEA                                                               5.9% (6/101)
+ PANCREATITIS                                                         1.0% (1/101)
+ PANCREATITIS ACUTE                                                   1.0% (1/101)
+ PERIODONTAL DISEASE                                                  1.0% (1/101)
+ PROCTALGIA                                                           1.0% (1/101)
+ TOOTHACHE                                                            1.0% (1/101)
+ VOMITING                                                             3.0% (3/101)
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                  Page 19
+                  Table 4: All Site Reported Adverse Events by Type
+                                                             RESOLUTE ONYX 2.0
+                                                                    mm
+                                                               (N=101 Subjects)
+Events                                                            %(m/n)1
+GENERAL DISORDERS AND ADMINISTRATION SITE                         33.7% (34/101)
+CONDITIONS
+ ASTHENIA                                                             2.0% (2/101)
+ CHEST DISCOMFORT                                                     3.0% (3/101)
+ CHEST PAIN                                                       15.8% (16/101)
+ CHILLS                                                               2.0% (2/101)
+ CYST                                                                 1.0% (1/101)
+ FATIGUE                                                              4.0% (4/101)
+ GAIT DISTURBANCE                                                     1.0% (1/101)
+ INJECTION SITE BRUISING                                              1.0% (1/101)
+ NON-CARDIAC CHEST PAIN                                               5.0% (5/101)
+ OEDEMA                                                               1.0% (1/101)
+ OEDEMA PERIPHERAL                                                    1.0% (1/101)
+ PAIN                                                                 2.0% (2/101)
+ PUNCTURE SITE HAEMORRHAGE                                            3.0% (3/101)
+ PUNCTURE SITE PAIN                                                   1.0% (1/101)
+ PUNCTURE SITE REACTION                                               1.0% (1/101)
+ PYREXIA                                                              1.0% (1/101)
+ VESSEL PUNCTURE SITE HAEMATOMA                                       1.0% (1/101)
+ VESSEL PUNCTURE SITE HAEMORRHAGE                                     2.0% (2/101)
+HEPATOBILIARY DISORDERS                                               2.0% (2/101)
+ BILIARY COLIC                                                        1.0% (1/101)
+ CHOLECYSTITIS ACUTE                                                  1.0% (1/101)
+ HEPATIC MASS                                                         1.0% (1/101)
+IMMUNE SYSTEM DISORDERS                                               3.0% (3/101)
+ HYPERSENSITIVITY                                                     2.0% (2/101)
+ SEASONAL ALLERGY                                                     1.0% (1/101)
+INFECTIONS AND INFESTATIONS                                       20.8% (21/101)
+ ABSCESS JAW                                                          1.0% (1/101)
+ ACUTE SINUSITIS                                                      1.0% (1/101)
+ BRONCHITIS                                                           4.0% (4/101)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                  Page 20
+                  Table 4: All Site Reported Adverse Events by Type
+                                                             RESOLUTE ONYX 2.0
+                                                                    mm
+                                                               (N=101 Subjects)
+Events                                                            %(m/n)1
+ BRONCHITIS BACTERIAL                                                 1.0% (1/101)
+ CANDIDIASIS                                                          1.0% (1/101)
+ CLOSTRIDIUM DIFFICILE COLITIS                                        1.0% (1/101)
+ DIVERTICULITIS                                                       1.0% (1/101)
+ HERPES ZOSTER                                                        1.0% (1/101)
+ IMPETIGO                                                             1.0% (1/101)
+ KERATITIS HERPETIC                                                   1.0% (1/101)
+ LARYNGITIS                                                           1.0% (1/101)
+ PHARYNGITIS                                                          1.0% (1/101)
+ PNEUMONIA                                                            2.0% (2/101)
+ PNEUMONIA MYCOPLASMAL                                                1.0% (1/101)
+ POST PROCEDURAL INFECTION                                            1.0% (1/101)
+ SEPSIS                                                               1.0% (1/101)
+ STAPHYLOCOCCAL SEPSIS                                                1.0% (1/101)
+ UPPER RESPIRATORY TRACT INFECTION                                    2.0% (2/101)
+ URINARY TRACT INFECTION                                              4.0% (4/101)
+INJURY, POISONING AND PROCEDURAL                                  13.9% (14/101)
+COMPLICATIONS
+ ANAEMIA POSTOPERATIVE                                                1.0% (1/101)
+ ANKLE FRACTURE                                                       1.0% (1/101)
+ CONTUSION                                                            4.0% (4/101)
+ FALL                                                                 3.0% (3/101)
+ IN-STENT ARTERIAL RESTENOSIS                                         2.0% (2/101)
+ JOINT INJURY                                                         1.0% (1/101)
+ POST PROCEDURAL HAEMATOMA                                            1.0% (1/101)
+ POST PROCEDURAL HAEMORRHAGE                                          1.0% (1/101)
+ PROCEDURAL HYPOTENSION                                               1.0% (1/101)
+ ROAD TRAFFIC ACCIDENT                                                1.0% (1/101)
+ TRAUMATIC HAEMATOMA                                                  1.0% (1/101)
+INVESTIGATIONS                                                    26.7% (27/101)
+ BLOOD PRESSURE INCREASED                                             1.0% (1/101)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                  Page 21
+                  Table 4: All Site Reported Adverse Events by Type
+                                                             RESOLUTE ONYX 2.0
+                                                                    mm
+                                                               (N=101 Subjects)
+Events                                                            %(m/n)1
+ BLOOD THYROID STIMULATING HORMONE                                    1.0% (1/101)
+DECREASED
+ CARDIAC ENZYMES INCREASED                                        11.9% (12/101)
+ CAROTID BRUIT                                                        1.0% (1/101)
+ ELECTROCARDIOGRAM CHANGE                                             1.0% (1/101)
+ FREE PROSTATE-SPECIFIC ANTIGEN DECREASED                             1.0% (1/101)
+ HAEMATOCRIT DECREASED                                                1.0% (1/101)
+ HAEMOGLOBIN DECREASED                                                1.0% (1/101)
+ HEART RATE IRREGULAR                                                 1.0% (1/101)
+ TROPONIN I INCREASED                                                 5.0% (5/101)
+ TROPONIN INCREASED                                                   5.9% (6/101)
+ WEIGHT DECREASED                                                     1.0% (1/101)
+METABOLISM AND NUTRITION DISORDERS                                11.9% (12/101)
+ DIABETES MELLITUS                                                    2.0% (2/101)
+ DIABETES MELLITUS NON-INSULIN-DEPENDENT                              2.0% (2/101)
+ ELECTROLYTE IMBALANCE                                                1.0% (1/101)
+ GOUT                                                                 1.0% (1/101)
+ HYPERGLYCAEMIA                                                       2.0% (2/101)
+ HYPERKALAEMIA                                                        1.0% (1/101)
+ HYPOGLYCAEMIA                                                        2.0% (2/101)
+ HYPOPHOSPHATAEMIA                                                    1.0% (1/101)
+ METABOLIC ACIDOSIS                                                   1.0% (1/101)
+MUSCULOSKELETAL AND CONNECTIVE TISSUE                             22.8% (23/101)
+DISORDERS
+ ARTHRALGIA                                                           2.0% (2/101)
+ BACK PAIN                                                            7.9% (8/101)
+ COSTOCHONDRITIS                                                      1.0% (1/101)
+ JOINT SWELLING                                                       1.0% (1/101)
+ LIMB DISCOMFORT                                                      1.0% (1/101)
+ MUSCLE SPASMS                                                        4.0% (4/101)
+ MUSCULAR WEAKNESS                                                    1.0% (1/101)
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                  Page 22
+                  Table 4: All Site Reported Adverse Events by Type
+                                                             RESOLUTE ONYX 2.0
+                                                                    mm
+                                                               (N=101 Subjects)
+Events                                                            %(m/n)1
+ MUSCULOSKELETAL DISCOMFORT                                           2.0% (2/101)
+ MUSCULOSKELETAL PAIN                                                 3.0% (3/101)
+ OSTEOARTHROPATHY                                                     1.0% (1/101)
+ PAIN IN EXTREMITY                                                    4.0% (4/101)
+ ROTATOR CUFF SYNDROME                                                1.0% (1/101)
+NEOPLASMS BENIGN, MALIGNANT AND UNSPECIFIED                           7.9% (8/101)
+(INCL CYSTS AND POLYPS)
+ BASAL CELL CARCINOMA                                                 1.0% (1/101)
+ ESSENTIAL THROMBOCYTHAEMIA                                           1.0% (1/101)
+ LIP AND/OR ORAL CAVITY CANCER                                        1.0% (1/101)
+ LUNG NEOPLASM                                                        1.0% (1/101)
+ MYELODYSPLASTIC SYNDROME                                             1.0% (1/101)
+ OROPHARYNGEAL CANCER RECURRENT                                       1.0% (1/101)
+ SEBORRHOEIC KERATOSIS                                                1.0% (1/101)
+ SQUAMOUS CELL CARCINOMA                                              1.0% (1/101)
+ TRANSITIONAL CELL CARCINOMA                                          1.0% (1/101)
+NERVOUS SYSTEM DISORDERS                                          19.8% (20/101)
+ AGEUSIA                                                              1.0% (1/101)
+ CAROTID ARTERY STENOSIS                                              2.0% (2/101)
+ CEREBROVASCULAR ACCIDENT                                             2.0% (2/101)
+ CLUSTER HEADACHE                                                     1.0% (1/101)
+ DEMENTIA                                                             1.0% (1/101)
+ DIZZINESS                                                            4.0% (4/101)
+ ENCEPHALOPATHY                                                       1.0% (1/101)
+ HEADACHE                                                             5.0% (5/101)
+ HYPOAESTHESIA                                                        2.0% (2/101)
+ NEUROPATHY                                                           1.0% (1/101)
+ SOMNOLENCE                                                           1.0% (1/101)
+ SYNCOPE                                                              3.0% (3/101)
+ SYNCOPE VASOVAGAL                                                    1.0% (1/101)
+PSYCHIATRIC DISORDERS                                                 3.0% (3/101)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                  Page 23
+                  Table 4: All Site Reported Adverse Events by Type
+                                                             RESOLUTE ONYX 2.0
+                                                                    mm
+                                                               (N=101 Subjects)
+Events                                                            %(m/n)1
+ ANXIETY                                                              1.0% (1/101)
+ DEPRESSION                                                           2.0% (2/101)
+RENAL AND URINARY DISORDERS                                           8.9% (9/101)
+ BLADDER OBSTRUCTION                                                  1.0% (1/101)
+ HAEMATURIA                                                           4.0% (4/101)
+ NEPHROLITHIASIS                                                      2.0% (2/101)
+ POLLAKIURIA                                                          1.0% (1/101)
+ RENAL FAILURE ACUTE                                                  2.0% (2/101)
+ RENAL FAILURE CHRONIC                                                1.0% (1/101)
+ URINARY RETENTION                                                    1.0% (1/101)
+REPRODUCTIVE SYSTEM AND BREAST DISORDERS                              2.0% (2/101)
+ BENIGN PROSTATIC HYPERPLASIA                                         1.0% (1/101)
+ ERECTILE DYSFUNCTION                                                 1.0% (1/101)
+RESPIRATORY, THORACIC AND MEDIASTINAL                             27.7% (28/101)
+DISORDERS
+ ACUTE RESPIRATORY DISTRESS SYNDROME                                  1.0% (1/101)
+ ACUTE RESPIRATORY FAILURE                                            1.0% (1/101)
+ CHRONIC OBSTRUCTIVE PULMONARY DISEASE                                2.0% (2/101)
+ COUGH                                                                2.0% (2/101)
+ DYSPNOEA                                                         16.8% (17/101)
+ DYSPNOEA EXERTIONAL                                                  2.0% (2/101)
+ EPISTAXIS                                                            4.0% (4/101)
+ NASAL CONGESTION                                                     1.0% (1/101)
+ PHARYNGOLARYNGEAL PAIN                                               1.0% (1/101)
+ RESPIRATORY ACIDOSIS                                                 1.0% (1/101)
+ RESPIRATORY FAILURE                                                  1.0% (1/101)
+ SLEEP APNOEA SYNDROME                                                1.0% (1/101)
+SKIN AND SUBCUTANEOUS TISSUE DISORDERS                                5.0% (5/101)
+ ECZEMA                                                               1.0% (1/101)
+ HYPERHIDROSIS                                                        1.0% (1/101)
+ HYPOAESTHESIA FACIAL                                                 1.0% (1/101)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                  Page 24
+                     Table 4: All Site Reported Adverse Events by Type
+                                                                      RESOLUTE ONYX 2.0
+                                                                             mm
+                                                                        (N=101 Subjects)
+Events                                                                     %(m/n)1
+    PRURITUS                                                                1.0% (1/101)
+    SKIN LESION                                                             1.0% (1/101)
+VASCULAR DISORDERS                                                         18.8% (19/101)
+    AORTIC ANEURYSM                                                         1.0% (1/101)
+    ARTERIOSCLEROSIS                                                        1.0% (1/101)
+    ARTERIOSCLEROSIS OBLITERANS                                             1.0% (1/101)
+    HAEMATOMA                                                               1.0% (1/101)
+    HAEMORRHAGE                                                             1.0% (1/101)
+    HYPERTENSION                                                            7.9% (8/101)
+    HYPOTENSION                                                             1.0% (1/101)
+    INTERMITTENT CLAUDICATION                                               1.0% (1/101)
+    ORTHOSTATIC HYPOTENSION                                                 2.0% (2/101)
+    PERIPHERAL ARTERY ANEURYSM                                              1.0% (1/101)
+    PERIPHERAL VASCULAR DISORDER                                            2.0% (2/101)
+    VARICOSE VEIN                                                           2.0% (2/101)
+1
+ Numerator (m) is the number of subjects with the specific classification, denominator (n) is the
+number of subjects in the study
+group with known values, and percentage (%) was calculated as 100 × (m/n)
+
+
+
+                  Table 5: All Site Reported Serious Adverse Events by Type
+                                                                   RESOLUTE ONYX 2.0mm
+                                                                      (N=101 Subjects)
+Events                                                                   %(m/n)1
+Any Serious Adverse Events                                                37.6% (38/101)
+BLOOD AND LYMPHATIC SYSTEM DISORDERS                                       3.0% (3/101)
+    ANAEMIA                                                                3.0% (3/101)
+CARDIAC DISORDERS                                                         10.9% (11/101)
+    ACUTE MYOCARDIAL INFARCTION                                            1.0% (1/101)
+    ANGINA PECTORIS                                                        1.0% (1/101)
+    ARRHYTHMIA                                                             1.0% (1/101)
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                          Page 25
+              Table 5: All Site Reported Serious Adverse Events by Type
+                                                           RESOLUTE ONYX 2.0mm
+                                                              (N=101 Subjects)
+Events                                                           %(m/n)1
+ ATRIAL FLUTTER                                                   2.0% (2/101)
+ CARDIAC ANEURYSM                                                 1.0% (1/101)
+ CARDIAC FAILURE CONGESTIVE                                       1.0% (1/101)
+ CORONARY ARTERY DISEASE                                          3.0% (3/101)
+ CORONARY ARTERY STENOSIS                                         2.0% (2/101)
+ IN-STENT CORONARY ARTERY RESTENOSIS                              1.0% (1/101)
+ VENTRICULAR TACHYCARDIA                                          1.0% (1/101)
+EAR AND LABYRINTH DISORDERS                                       1.0% (1/101)
+ VERTIGO POSITIONAL                                               1.0% (1/101)
+ENDOCRINE DISORDERS                                               1.0% (1/101)
+ ADRENAL INSUFFICIENCY                                            1.0% (1/101)
+EYE DISORDERS                                                     1.0% (1/101)
+ EYE SWELLING                                                     1.0% (1/101)
+GASTROINTESTINAL DISORDERS                                        7.9% (8/101)
+ GASTRIC ULCER                                                    2.0% (2/101)
+ GASTROINTESTINAL HAEMORRHAGE                                     2.0% (2/101)
+ INGUINAL HERNIA                                                  1.0% (1/101)
+ IRRITABLE BOWEL SYNDROME                                         1.0% (1/101)
+ NAUSEA                                                           1.0% (1/101)
+ PANCREATITIS ACUTE                                               1.0% (1/101)
+GENERAL DISORDERS AND ADMINISTRATION SITE                         4.0% (4/101)
+CONDITIONS
+ CHEST DISCOMFORT                                                 1.0% (1/101)
+ CHEST PAIN                                                       3.0% (3/101)
+ CHILLS                                                           1.0% (1/101)
+ PYREXIA                                                          1.0% (1/101)
+HEPATOBILIARY DISORDERS                                           1.0% (1/101)
+ BILIARY COLIC                                                    1.0% (1/101)
+ CHOLECYSTITIS ACUTE                                              1.0% (1/101)
+INFECTIONS AND INFESTATIONS                                       8.9% (9/101)
+ BRONCHITIS                                                       1.0% (1/101)
+ BRONCHITIS BACTERIAL                                             1.0% (1/101)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data               Page 26
+              Table 5: All Site Reported Serious Adverse Events by Type
+                                                           RESOLUTE ONYX 2.0mm
+                                                              (N=101 Subjects)
+Events                                                           %(m/n)1
+ CLOSTRIDIUM DIFFICILE COLITIS                                    1.0% (1/101)
+ PNEUMONIA MYCOPLASMAL                                            1.0% (1/101)
+ POST PROCEDURAL INFECTION                                        1.0% (1/101)
+ STAPHYLOCOCCAL SEPSIS                                            1.0% (1/101)
+ URINARY TRACT INFECTION                                          3.0% (3/101)
+INJURY, POISONING AND PROCEDURAL                                  4.0% (4/101)
+COMPLICATIONS
+ FALL                                                             1.0% (1/101)
+ IN-STENT ARTERIAL RESTENOSIS                                     2.0% (2/101)
+ JOINT INJURY                                                     1.0% (1/101)
+INVESTIGATIONS                                                    3.0% (3/101)
+ CARDIAC ENZYMES INCREASED                                        1.0% (1/101)
+ HAEMATOCRIT DECREASED                                            1.0% (1/101)
+ HAEMOGLOBIN DECREASED                                            1.0% (1/101)
+ HEART RATE IRREGULAR                                             1.0% (1/101)
+METABOLISM AND NUTRITION DISORDERS                                2.0% (2/101)
+ DIABETES MELLITUS NON-INSULIN-DEPENDENT                          1.0% (1/101)
+ HYPERGLYCAEMIA                                                   1.0% (1/101)
+MUSCULOSKELETAL AND CONNECTIVE TISSUE                             2.0% (2/101)
+DISORDERS
+ MUSCULOSKELETAL PAIN                                             1.0% (1/101)
+ ROTATOR CUFF SYNDROME                                            1.0% (1/101)
+NEOPLASMS BENIGN, MALIGNANT AND                                   3.0% (3/101)
+UNSPECIFIED (INCL CYSTS AND POLYPS)
+ LIP AND/OR ORAL CAVITY CANCER                                    1.0% (1/101)
+ OROPHARYNGEAL CANCER RECURRENT                                   1.0% (1/101)
+ TRANSITIONAL CELL CARCINOMA                                      1.0% (1/101)
+NERVOUS SYSTEM DISORDERS                                          7.9% (8/101)
+ CAROTID ARTERY STENOSIS                                          2.0% (2/101)
+ CEREBROVASCULAR ACCIDENT                                         2.0% (2/101)
+ ENCEPHALOPATHY                                                   1.0% (1/101)
+ SYNCOPE                                                          2.0% (2/101)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data               Page 27
+                 Table 5: All Site Reported Serious Adverse Events by Type
+                                                                    RESOLUTE ONYX 2.0mm
+                                                                       (N=101 Subjects)
+Events                                                                    %(m/n)1
+    SYNCOPE VASOVAGAL                                                       1.0% (1/101)
+RENAL AND URINARY DISORDERS                                                 2.0% (2/101)
+    HAEMATURIA                                                              1.0% (1/101)
+    NEPHROLITHIASIS                                                         1.0% (1/101)
+RESPIRATORY, THORACIC AND MEDIASTINAL                                       3.0% (3/101)
+DISORDERS
+    ACUTE RESPIRATORY DISTRESS SYNDROME                                     1.0% (1/101)
+    CHRONIC OBSTRUCTIVE PULMONARY DISEASE                                   1.0% (1/101)
+    DYSPNOEA                                                                1.0% (1/101)
+    RESPIRATORY FAILURE                                                     1.0% (1/101)
+VASCULAR DISORDERS                                                          5.9% (6/101)
+    AORTIC ANEURYSM                                                         1.0% (1/101)
+    ARTERIOSCLEROSIS                                                        1.0% (1/101)
+    ARTERIOSCLEROSIS OBLITERANS                                             1.0% (1/101)
+    INTERMITTENT CLAUDICATION                                               1.0% (1/101)
+    ORTHOSTATIC HYPOTENSION                                                 1.0% (1/101)
+    PERIPHERAL VASCULAR DISORDER                                            1.0% (1/101)
+1
+  Numerator (m) is the number of subjects with the specific classification, denominator (n) is the
+number of subjects in the
+studygroup with known values, and percentage (%) was calculated as 100 × (m/n)
+
+
+
+                 Table 6: All Site Reported Serious Adverse Events by Type
+                                                                         RESOLUTE ONYX
+                                                                              2.0mm
+                                                                          (N=101 Subjects)
+Events                                                                       %(m/n)1
+Any Serious Adverse Events                                                  37.6% (38/101)
+BLOOD AND LYMPHATIC SYSTEM DISORDERS                                         3.0% (3/101)
+    ANAEMIA                                                                  3.0% (3/101)
+CARDIAC DISORDERS                                                           10.9% (11/101)
+    ACUTE MYOCARDIAL INFARCTION                                              1.0% (1/101)
+    ANGINA PECTORIS                                                          1.0% (1/101)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                           Page 28
+              Table 6: All Site Reported Serious Adverse Events by Type
+                                                                 RESOLUTE ONYX
+                                                                      2.0mm
+                                                                  (N=101 Subjects)
+Events                                                               %(m/n)1
+ ARRHYTHMIA                                                         1.0% (1/101)
+ ATRIAL FLUTTER                                                     2.0% (2/101)
+ CARDIAC ANEURYSM                                                   1.0% (1/101)
+ CARDIAC FAILURE CONGESTIVE                                         1.0% (1/101)
+ CORONARY ARTERY DISEASE                                            3.0% (3/101)
+ CORONARY ARTERY STENOSIS                                           2.0% (2/101)
+ IN-STENT CORONARY ARTERY RESTENOSIS                                1.0% (1/101)
+ VENTRICULAR TACHYCARDIA                                            1.0% (1/101)
+EAR AND LABYRINTH DISORDERS                                         1.0% (1/101)
+ VERTIGO POSITIONAL                                                 1.0% (1/101)
+ENDOCRINE DISORDERS                                                 1.0% (1/101)
+ ADRENAL INSUFFICIENCY                                              1.0% (1/101)
+EYE DISORDERS                                                       1.0% (1/101)
+ EYE SWELLING                                                       1.0% (1/101)
+GASTROINTESTINAL DISORDERS                                          7.9% (8/101)
+ GASTRIC ULCER                                                      2.0% (2/101)
+ GASTROINTESTINAL HAEMORRHAGE                                       2.0% (2/101)
+ INGUINAL HERNIA                                                    1.0% (1/101)
+ IRRITABLE BOWEL SYNDROME                                           1.0% (1/101)
+ NAUSEA                                                             1.0% (1/101)
+ PANCREATITIS ACUTE                                                 1.0% (1/101)
+GENERAL DISORDERS AND ADMINISTRATION SITE                           4.0% (4/101)
+CONDITIONS
+ CHEST DISCOMFORT                                                   1.0% (1/101)
+ CHEST PAIN                                                         3.0% (3/101)
+ CHILLS                                                             1.0% (1/101)
+ PYREXIA                                                            1.0% (1/101)
+HEPATOBILIARY DISORDERS                                             1.0% (1/101)
+ BILIARY COLIC                                                      1.0% (1/101)
+ CHOLECYSTITIS ACUTE                                                1.0% (1/101)
+INFECTIONS AND INFESTATIONS                                         8.9% (9/101)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                Page 29
+              Table 6: All Site Reported Serious Adverse Events by Type
+                                                                 RESOLUTE ONYX
+                                                                      2.0mm
+                                                                  (N=101 Subjects)
+Events                                                               %(m/n)1
+ BRONCHITIS                                                         1.0% (1/101)
+ BRONCHITIS BACTERIAL                                               1.0% (1/101)
+ CLOSTRIDIUM DIFFICILE COLITIS                                      1.0% (1/101)
+ PNEUMONIA MYCOPLASMAL                                              1.0% (1/101)
+ POST PROCEDURAL INFECTION                                          1.0% (1/101)
+ STAPHYLOCOCCAL SEPSIS                                              1.0% (1/101)
+ URINARY TRACT INFECTION                                            3.0% (3/101)
+INJURY, POISONING AND PROCEDURAL                                    4.0% (4/101)
+COMPLICATIONS
+ FALL                                                               1.0% (1/101)
+ IN-STENT ARTERIAL RESTENOSIS                                       2.0% (2/101)
+ JOINT INJURY                                                       1.0% (1/101)
+INVESTIGATIONS                                                      3.0% (3/101)
+ CARDIAC ENZYMES INCREASED                                          1.0% (1/101)
+ HAEMATOCRIT DECREASED                                              1.0% (1/101)
+ HAEMOGLOBIN DECREASED                                              1.0% (1/101)
+ HEART RATE IRREGULAR                                               1.0% (1/101)
+METABOLISM AND NUTRITION DISORDERS                                  2.0% (2/101)
+ DIABETES MELLITUS NON-INSULIN-DEPENDENT                            1.0% (1/101)
+ HYPERGLYCAEMIA                                                     1.0% (1/101)
+MUSCULOSKELETAL AND CONNECTIVE TISSUE                               2.0% (2/101)
+DISORDERS
+ MUSCULOSKELETAL PAIN                                               1.0% (1/101)
+ ROTATOR CUFF SYNDROME                                              1.0% (1/101)
+NEOPLASMS BENIGN, MALIGNANT AND UNSPECIFIED                         3.0% (3/101)
+(INCL CYSTS AND POLYPS)
+ LIP AND/OR ORAL CAVITY CANCER                                      1.0% (1/101)
+ OROPHARYNGEAL CANCER RECURRENT                                     1.0% (1/101)
+ TRANSITIONAL CELL CARCINOMA                                        1.0% (1/101)
+NERVOUS SYSTEM DISORDERS                                            7.9% (8/101)
+ CAROTID ARTERY STENOSIS                                            2.0% (2/101)
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                Page 30
+                 Table 6: All Site Reported Serious Adverse Events by Type
+                                                                        RESOLUTE ONYX
+                                                                             2.0mm
+                                                                         (N=101 Subjects)
+Events                                                                      %(m/n)1
+    CEREBROVASCULAR ACCIDENT                                                2.0% (2/101)
+    ENCEPHALOPATHY                                                          1.0% (1/101)
+    SYNCOPE                                                                 2.0% (2/101)
+    SYNCOPE VASOVAGAL                                                       1.0% (1/101)
+RENAL AND URINARY DISORDERS                                                 2.0% (2/101)
+ HAEMATURIA                                                                 1.0% (1/101)
+    NEPHROLITHIASIS                                                         1.0% (1/101)
+RESPIRATORY, THORACIC AND MEDIASTINAL                                       3.0% (3/101)
+DISORDERS
+    ACUTE RESPIRATORY DISTRESS SYNDROME                                     1.0% (1/101)
+    CHRONIC OBSTRUCTIVE PULMONARY DISEASE                                   1.0% (1/101)
+    DYSPNOEA                                                                1.0% (1/101)
+    RESPIRATORY FAILURE                                                     1.0% (1/101)
+VASCULAR DISORDERS                                                          5.9% (6/101)
+ AORTIC ANEURYSM                                                            1.0% (1/101)
+    ARTERIOSCLEROSIS                                                        1.0% (1/101)
+    ARTERIOSCLEROSIS OBLITERANS                                             1.0% (1/101)
+    INTERMITTENT CLAUDICATION                                               1.0% (1/101)
+    ORTHOSTATIC HYPOTENSION                                                 1.0% (1/101)
+    PERIPHERAL VASCULAR DISORDER                                            1.0% (1/101)
+1
+ Numerator (m) is the number of subjects with the specific classification, denominator (n) is the
+number of subjects in the study group with known values, and percentage (%) was calculated as
+100 x (m/n)
+
+
+
+
+                         Table 7: Stent Thrombosis (ARC Definition)
+                                                                      RESOLUTE ONYX 2.0
+                                                                             mm
+                                                                        (N=101 Subjects)
+Stent Thrombosis to 240 days                                               %(m/n)1
+Stent Thrombosis Related to Non Target Lesions to 360 Days                  0.0% (0/100)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                          Page 31
+                             Table 7: Stent Thrombosis (ARC Definition)
+                                                                       RESOLUTE ONYX 2.0
+                                                                              mm
+                                                                         (N=101 Subjects)
+Stent Thrombosis to 240 days                                                %(m/n)1
+    Early (0 to 30 Days)                                                     0.0% (0/100)
+    Late (31 to 360 Days)                                                    0.0% (0/100)
+Overall Stent Thrombosis to 360 Days
+    Definite ST                                                              0.0% (0/100)
+    Probable ST                                                              0.0% (0/100)
+    Definite + Probable ST                                                   0.0% (0/100)
+Early (0 to 30 Days)
+    Definite ST                                                              0.0% (0/100)
+    Probable ST                                                              0.0% (0/100)
+    Definite + Probable ST                                                   0.0% (0/100)
+Late (31 to 360 Days)
+    Definite ST                                                              0.0% (0/100)
+    Probable ST                                                              0.0% (0/100)
+    Definite + Probable ST                                                   0.0% (0/100)
+1
+ Numerator (m) is the number of subjects with the specific classification, denominator (n) is the
+number of subjects in the study group with known values, and percentage (%) was calculated as
+100 × (m/n)
+
+             2. Effectiveness Results
+                The analysis of effectiveness was based on the 100 evaluable patients at the 12-
+                month time point. The primary endpoint of target lesion failure (TLF) at 12-
+                months post-procedure demonstrated that the rate of TLF in the ITT primary
+                analysis set at 12 months was 5.0% (5/100), fulfilling the pre-specified
+                performance criterion (upper 1-sided 95% CI of 10.2%, compared with the
+                performance goal of 19%, p < 0.001). The primary endpoint was also analyzed by
+                gender, resulting in a TLF rate of 7.1% (5/70) in male subjects and 0.0% (0/30) in
+                female subjects. Key outcomes for this study are presented below in Table 8 to
+                Table 11.
+
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                           Page 32
+     Table 8: RESOLUTE ONYX 2.0 mm Clinical Study – Primary Endpoint Analysis
+                                      Resolute Onyx    One-sided Upper
+Primary Endpoint - TLF at 12-             2.0mm        95% Confidence
+month                               (N = 101 Subjects)    Interval1    Performance Goal
+Primary Analysis – with analysis
+lesion only 2
+– ITT set                              5.0% (5/100)            10.2%                 19%
+– PP set                               2.2% (2/90)             6.8%                  19%
+Secondary Analysis – with all
+lesions included 3
+– ITT set                              5.0% (5/100)            10.2%                 19%
+– PP set                               2.2% (2/90)             6.8%                  19%
+                    4
+Multiple Imputation
+– ITT set                                  5.0%                8.6%                  19%
+– PP set                                   2.3%                4.9%                  19%
+Tipping Point Analysis5
+– ITT set                              5.9% (6/101)            11.4%                 19%
+– PP set                               3.3% (3/91)             8.3%                  19%
+                      6
+Worst Case Analysis
+– ITT set                              5.9% (6/101)            11.4%                 19%
+– PP set                               3.3% (3/91)             8.3%                  19%
+1
+  The one-sided upper 95% CI is calculated by binomial (exact) distribution
+2
+  The lesions with a Resolute Onyx 2.0mm stent are included in the analysis. For 2 or more
+lesions with Resolute Onyx 2.0mm stents per subject, the lesion is randomly selected.
+3
+  All target lesions are included in the analysis.
+4
+  The covariates to be used in the imputation model are lesion-length, baseline RVD, age, sex,
+diabetes, history of MI, Canadian Cardiovascular Society Angina Class, and TLF-missing status
+at visits prior to dropout. The longest lesion length
+and the smallest baseline RVD are used for the subjects have 2 or more target lesions in the impu
+tation model.
+5
+  Impute the most 12-month TLF-missing status as yes so that the one-side upper 95%
+confidence interval of 12-month TLF rate can be less than or equal to the performance goal.
+6
+  Impute all the 12-month TLF-missing status as yes.
+
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                         Page 33
+                        Table 9: Primary Endpoint Analysis by Gender
+                                                     Male                   Female
+Primary Endpoint                               (N = 71 Subjects)       (N = 30 Subjects)
+Target Lesion Failure to 12 months                7.1% (5/70)            0.0% (0/30)
+
+
+
+
+Table 10: RESOLUTE ONYX 2.0 mm Clinical Study – Principal Safety and Effectiveness
+                                                                   RESOLUTE ONYX
+                                                                        2.0mm
+                                                                    (N=101 Subjects
+                                                                     N=104 Lesions)
+Safety and Effectiveness Measures                                      %(m/n)1
+In-Hospital
+Target Lesion Failure (TLF)2                                           2.0% (2/101)
+                            3
+Target Vessel Failure (TVF)                                            2.0% (2/101)
+        4
+MACE                                                                   2.0% (2/101)
+Cardiac Death or Target Vessel MI (TVMI)                               2.0% (2/101)
+Death or TVMI                                                          2.0% (2/101)
+Death                                                                  0.0% (0/101)
+ Cardiac Death                                                         0.0% (0/101)
+ Non Cardiac Death                                                     0.0% (0/101)
+TVMI (Extended historical definition)                                  2.0% (2/101)
+Clinically Driven TLR                                                  0.0% (0/101)
+Clinically Driven TVR                                                  0.0% (0/101)
+                                         5
+Stent Thrombosis (ARC) Definite/Probable                               0.0% (0/101)
+Safety Measures (to 180 days)
+Target Lesion Failure (TLF)2                                           4.0% (4/100)
+Target Vessel Failure (TVF)3                                           4.0% (4/100)
+        4
+MACE                                                                   4.0% (4/100)
+Cardiac Death or Target Vessel MI (TVMI)                               3.0% (3/100)
+Death or TVMI                                                          3.0% (3/100)
+Death                                                                  0.0% (0/100)
+ Cardiac Death                                                         0.0% (0/100)
+ Non Cardiac Death                                                     0.0% (0/100)
+TVMI (Extended historical definition)                                  3.0% (3/100)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                    Page 34
+Table 10: RESOLUTE ONYX 2.0 mm Clinical Study – Principal Safety and Effectiveness
+                                                                 RESOLUTE ONYX
+                                                                      2.0mm
+                                                                  (N=101 Subjects
+                                                                   N=104 Lesions)
+Safety and Effectiveness Measures                                    %(m/n)1
+Clinically Driven TLR                                               1.0% (1/100)
+Clinically Driven TVR                                               1.0% (1/100)
+Stent Thrombosis (ARC) Definite/Probable                            0.0% (0/100)
+Safety Measures (to 360 days)
+Target Lesion Failure (TLF)2                                        5.0% (5/100)
+                           3
+Target Vessel Failure (TVF)                                         5.0% (5/100)
+        4
+MACE                                                                5.0% (5/100)
+Cardiac Death or Target Vessel MI (TVMI)                            3.0% (3/100)
+Death or TVMI                                                       3.0% (3/100)
+Death                                                               0.0% (0/100)
+ Cardiac Death                                                      0.0% (0/100)
+ Non Cardiac Death                                                  0.0% (0/100)
+TVMI (Extended historical definition)                               3.0% (3/100)
+Clinically Driven TLR                                               2.0% (2/100)
+Clinically Driven TVR                                               2.0% (2/100)
+Stent Thrombosis (ARC) Definite/Probable                            0.0% (0/100)
+ Early Thrombosis (<=30 days)                                       0.0% (0/100)
+ Late Thrombosis (31-360 days)                                      0.0% (0/100)
+Angiography (13 months)
+Percent Diameter Stenosis (% DS)
+ In-stent
+  n                                                                      25
+  Mean±SD                                                           22.49 ± 26.89
+  Median (Q1, Q3)                                                15.66 (9.57, 31.72)
+  Min, Max                                                         -26.71, 100.00
+ In-segment
+  n                                                                      25
+  Mean±SD                                                           37.92 ± 21.54
+  Median (Q1, Q3)                                                31.72 (23.54, 42.50)
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                  Page 35
+Table 10: RESOLUTE ONYX 2.0 mm Clinical Study – Principal Safety and Effectiveness
+                                                                 RESOLUTE ONYX
+                                                                      2.0mm
+                                                                  (N=101 Subjects
+                                                                   N=104 Lesions)
+Safety and Effectiveness Measures                                    %(m/n)1
+  Min, Max                                                         14.06, 100.00
+Minimal Lumen Diameter (mm)
+ In-stent
+  n                                                                      25
+  Mean±SD                                                            1.55 ± 0.52
+  Median (Q1, Q3)                                                 1.63 (1.53, 1.81)
+  Min, Max                                                           0.00, 2.20
+ In-segment
+  n                                                                      25
+  Mean±SD                                                            1.25 ± 0.46
+  Median (Q1, Q3)                                                 1.44 (1.09, 1.52)
+  Min, Max                                                           0.00, 1.77
+Late Luminal Loss (mm)
+ In-stent
+  n                                                                      25
+  Mean±SD                                                            0.26 ± 0.48
+  Median (Q1, Q3)                                                 0.06 (0.00, 0.33)
+  Min, Max                                                           -0.42, 1.58
+ In-segment
+  n                                                                      25
+  Mean±SD                                                            0.25 ± 0.41
+  Median (Q1, Q3)                                                 0.21 (-0.08, 0.42)
+  Min, Max                                                           -0.39, 1.30
+In-Stent Binary Angiographic Restenosis (BAR) Rate                  12.0% (3/25)
+In-Segment Binary Angiographic Restenosis (BAR) Rate                20.0% (5/25)
+Effectiveness Measures
+ Lesion Success5                                                  99.0% (103/104)
+                  6
+ Device Success                                                   96.2% (100/104)
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                    Page 36
+    Table 10: RESOLUTE ONYX 2.0 mm Clinical Study – Principal Safety and Effectiveness
+                                                                        RESOLUTE ONYX
+                                                                             2.0mm
+                                                                         (N=101 Subjects
+                                                                          N=104 Lesions)
+Safety and Effectiveness Measures                                           %(m/n)1
+    Procedure Success7                                                     97.0% (98/101)
+1
+  Numerator (m) is the number of Subjects with the specific classification, denominator (n) is the
+number of Subjects in the study
+group with known values, and percentage (%) was calculated as 100 × (m/n)
+2
+  Cardiac death, target vessel myocardial infarction (Q wave and non Q wave) or clinically-driven
+target lesion revascularization (TLR) by percutaneous or surgical methods.
+3
+  Cardiac death, target vessel myocardial infarction (Q wave and non Q wave) or clinically-
+driven target vessel revascularization (TVR) by percutaneous or surgical methods.
+4
+  Defined as death, myocardial infarction (Q wave and non Q-wave), emergent coronary bypass
+surgery, or repeat target lesion
+revascularization (clinically driven/clinically indicated) by percutaneous or surgical methods.
+5
+  The attainment of < 30% residual stenosis by QCA (or < 20% by visual assessment) AND TIMI
+flow 3 after the procedure, using any percutaneous method.
+6
+  The attainment of < 30% residual stenosis by QCA (or < 20% by visual assessment) AND TIMI
+flow 3 after the procedure, using the assigned device only.
+7
+  The attainment of < 30% residual stenosis by QCA (or < 20% by visual assessment) AND TIMI
+flow 3 after the procedure, using
+any percutaneous method without the occurrence of MACE during the hospital stay.
+Extended historical definition of MI is used for all the composite endpoints.
+
+
+     Table 11: RESOLUTE ONYX 2.0 mm Clinical Study – ARC Defined Definite/Probable
+                         Stent Thrombosis through 12 Months
+                                                            Resolute ONYX™
+                                                      (N=101 Subjects N=104 Lesions)
+                                                                           1
+                                                                   %(m/n)
+Stent Thrombosis                                                 0.0% (0/100)
+Early Thrombosis (<=30 days)                                     0.0% (0/100)
+Late Thrombosis (31-360 days)                               0.0% (0/100)
+Notes
+N = The total number of subjects enrolled.
+Numbers are % (Count/Number of Eligible Subjects).
+Subjects are only counted once for each time period.
+12-month timeframe includes follow-up window (360 days ± 30 days).
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                          Page 37
+          3. Subgroup Analyses
+             The RESOLUTE ONYX 2.0 mm Clinical Study did not include prespecified
+             subgroup analyses.
+
+          4. Pediatric Extrapolation
+             In this premarket application, existing clinical data was not leveraged to support
+             approval of a pediatric patient population.
+
+XI.    FINANCIAL DISCLOSURE
+
+       The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+       applicants who submit a marketing application to include certain information concerning
+       the compensation to, and financial interests and arrangement of, any clinical investigator
+       conducting clinical studies covered by the regulation. The RESOLUTE ONYX 2.0 mm
+       Clinical Study included 187 investigators of which none were full-time or part-time
+       employees of the sponsor and eight (8) had disclosable financial interests/arrangements
+       as defined in 21 CFR 54.2(a), (b), (c) and (f) and described below:
+
+              •   Compensation to the investigator for conducting the study where the value
+                  could be influenced by the outcome of the study: none
+              •   Significant payment of other sorts: eight (8)
+              •   Proprietary interest in the product tested held by the investigator: none
+              •   Significant equity interest held by investigator in sponsor of covered study:
+                  none
+
+       The applicant has adequately disclosed the financial interest/arrangements with clinical
+       investigators. Statistical analyses were conducted by FDA to determine whether the
+       financial interests/arrangements had any impact on the clinical study outcome. The
+       information provided does not raise any questions about the reliability of the data.
+
+XII.   PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+       Medical Devices Act of 1990, this PMA was not referred to the Circulatory Systems
+       Devices Panel, an FDA advisory committee, for review and recommendation because the
+       information in the PMA substantially duplicates information previously reviewed by this
+       panel.
+
+XIII. CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+       The safety and effectiveness of the Resolute Onyx 2.0 mm stent is based on the results of
+       preclinical studies leveraged from the original Resolute Onyx PMA, including
+       biocompatibility, in vivo pharmacokinetics (generated on the Resolute product); in vitro
+       engineering testing; coating characterization; chemistry, manufacturing and controls
+       information; in vivo animal testing; sterilization and stability testing; and a newly
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                          Page 38
+      conducted clinical study (RESOLUTE ONYX 2.0 mm). These test results revealed the
+      following:
+
+      A. Effectiveness Conclusions
+
+         The primary endpoint of TLF in the ITT primary analysis set at 12 months was 5.0%
+         (5/100), fulfilling the pre-specified performance criterion (upper 1-sided 95% CI of
+         10.2%, compared with the performance goal of 19%, p < 0.001). Furthermore, the
+         rate of TLF in the ITT worst case analysis set was 5.9% (6/101) (upper 1-sided 95%
+         CI of 11.4%, compared with the performance goal of 19%).
+
+      B. Safety Conclusions
+
+         The risks of the device are based on non-clinical laboratory and animal studies
+         leveraged from the original Resolute Onyx PMA approval, as well as data collected in
+         a clinical study as described above. The biocompatibility, in vivo pharmacokinetics
+         (data generated on the Resolute product), and in vivo performance characteristics of
+         the product provide reasonable assurance of safety and acceptability for clinical use.
+
+         The results from the RESOLUTE ONYX 2.0 mm Clinical Study demonstrate that the
+         Resolute Onyx product provides reasonable assurance of safety and effectiveness
+         when used as indicated in accordance with the Instructions for Use (IFU).
+
+      C. Benefit-Risk Determination
+
+         The probable benefits of the device are based on data collected in the clinical study
+         conducted to support PMA Supplement approval as described above. The Resolute
+         Onyx™ 2.0 mm coronary stent has been shown to be beneficial for improving
+         luminal diameter in patients with symptomatic coronary artery disease. The primary
+         end point of Target Lesion Failure (TLF) at 12-months was 5.0% (5/100), fulfilling
+         the pre-specified performance criterion (upper 1-sided 95% CI of 10.2%, compared
+         with the performance goal of 19%, p <0.001). In-segment percent stenosis, as
+         measured by quantitative coronary angiography (QCA), was 37.92 ± 21.54 (In-Stent
+         22.49 ± 26.89), In-Segment Binary Stenosis was 20.0% (In-Stent 12.0% ) and In-
+         Segment Late lumen Loss was 0.25 ± 0.41 (In-Stent 0.26 ± 0.48). These results are
+         very good given the small target vessel RVD and not much different than might be
+         seen following current generation DES treatment of disease in larger coronary
+         vessels.
+
+         Additional factors to be considered in determining probable risks and benefits for the
+         Resolute Onyx™ 2.0 mm stent system include characterization of the disease,
+         availability of anternative treatments, quality of the study design and conduct,
+         robustness of analysis of study results and risk mitigations. Coronary artery disease
+         (CAD) can be accompanied by symptomatic chest pain or silent ischemia which
+         affects patient’s quality of life. CAD is treatable, but if left untreated, the condition
+         can progress to further stenosis within the arteries, increased symptoms and the need
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                           Page 39
+         for revascularization. Available treatments for CAD include medical therapy,
+         percutaneous coronary intervention (PCI) and coronary artery bypass graft (CABG)
+         surgery. When treatment for coronary artery disease beyond medications and
+         lifestyle changes is warranted, patients often choose stent deployment over surgical
+         revascularization due to shorter recovery times and the less invasive nature of
+         percutaneous coronary intervention. The risks associated with use of drug eluting
+         stents are already well established, and in comparison to medical therapy, PCI has
+         been shown to reduce the incidence of angina. Patient tolerance of the stent device in
+         the RESOLUTE ONYX 2.0 mm Clinical Study is in line with expectations. The
+         study did not exclude any typical patient subgroups that would be expected to benefit
+         from treatment. Despite the small diameter, the clinical and angiographic results
+         observed in the Resolute Onyx 2.0 mm IDE study are as good as might be expected
+         from a study involving larger diameter drug eluting stents.
+
+         1. Patient Perspectives
+            This submission did not include specific information on patient perspectives for
+            this device.
+
+         In summary, given the available information, the data support the conclusion that for
+         improving coronary luminal diameters in patients, including those with diabetes
+         mellitus, with symptomatic ischemic heart disease due to de novo lesions of length ≤
+         35 mm in native coronary arteries with reference vessel diameter of 2.0 mm to 5.0
+         mm, the probable benefits of the Resolute Onyx™ Zotarolimus-Eluting Stent System,
+         including the 2.0 mm stent size, outweigh the probable risks.
+
+      D. Overall Conclusions
+
+         The data in this application support the reasonable assurance of safety and
+         effectiveness of the Resolute Onyx™ 2.0 mm Zotarolimus-Eluting Coronary Stent
+         System when used in accordance with the indications for use.
+
+XIV. CDRH DECISION
+
+      CDRH issued an approval order on November 16, 2017. The final conditions of approval
+      cited in the approval order for this panel-track supplement are described below.
+
+
+      1. ODE Lead PMA Post-Approval Study – Continued Follow-up of RESOLUTE
+         ONYX 2.0 mm Clinical Study. The RESOLUTE ONYX (2.0 mm) Clinical Study
+         (G140178) is an open-label, single-arm, multi-center study which enrolled 101
+         patients and was designed to assess the safety and effectiveness of the Resolute Onyx
+         Zotarolimus Eluting Coronary Stent System (2.0 mm diameter) through 3 years post-
+         index procedure. The primary endpoint is Target Lesion Failure (TLF) at 12 months.
+         Medtronic must collect and report clinical outcomes to FDA through 3 years post-
+         procedure on patients enrolled in the RESOLUTE ONYX 2.0 mm Clinical Study.
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                        Page 40
+      2. ODE Lead PMA Post-Approval Study – RESOLUTE ONYX Post-Approval Study
+         (PAS). The RESOLUTE ONYX PAS is a single arm, non-investigational, open-label
+         multi-center study intended to evaluate the safety and effectiveness of the Resolute
+         Onyx Zotarolimus Eluting Coronary Stent Systems in a real world, more-comers
+         population. The study will enroll 510 study subjects: 410 study subjects will be
+         enrolled in the Main Study cohort (2.0 - 4.0 mm) and 100 subjects will be enrolled in
+         an Extra-Large (XLV) sub-study (4.5 - 5.0 mm) cohort. The study will be conducted
+         in up to 25 US sites (representing at least 50% of total enrollment) and up to 5 OUS
+         sites (maximum of 50 study subjects in the Main Study cohort and 49 subjects in the
+         in XLV sub-study cohort). The primary endpoint for all study subjects enrolled in the
+         RESOLUTE ONYX PAS is Target Lesion Failure (TLF) at 12 months, defined as
+         Cardiac Death, Target Vessel Myocardial Infarction or Target Lesion
+         Revascularization. The Main Study cohort will have a performance goal (PG) of
+         13.2%. The XLV sub-study cohort does not have a formal hypothesis but descriptive
+         statistics will be provided. Medtronic must collect and report clinical outcomes to
+         FDA through 3 years post-procedure on patients enrolled in the RESOLUTE ONYX
+         PAS.
+
+      The applicant’s manufacturing facilities have been inspected and found to be in
+      compliance with the device Quality System (QS) regulation (21 CFR 820).
+
+XV.   APPROVAL SPECIFICATIONS
+
+      Directions for use: See device labeling.
+      Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+      Precautions, and Adverse Events in the device labeling.
+      Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+PMA P160043/S001: FDA Summary of Safety and Effectiveness Data                          Page 41
+

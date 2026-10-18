@@ -1,0 +1,770 @@
+                                                                                                                                       6 PRECAUTIONS:................................................................................................................ 2                            Table 9.1 OMEGA 9-Month Clinical Results, Intent-to-Treat Patients. ....... 4
+                                                                                                                                             6.1 General Precautions............................................................................................. 2                                Table 9.2 OMEGA Primary Endpoint. ................................................................ 4
+                                                                                                                    2014-06                  6.2 Pre- and Post-Procedure Anti-platelet Regimen. ........................................... 2                                                      Table 9.3 OMEGA 9-Month TLF Results by Gender, Intent-to-Treat, All
+90849153-01                                                                                                          < EN >                                                                                                                                                                        Patients (N=328)................................................................................................... 5
+                                                                                                                                             6.3 Longitudinal Stent Deformation.......................................................................... 2
+
+
+
+REBEL                                              ™
+                                                                                                                                                                                                                                                                                                   Table 9.4 9-Month Clinical Endpoints by Gender, Intent-to-Treat, All
+                                                                                                                                             6.4 Use of Multiple Stents.......................................................................................... 2
+                                                                                                                                                                                                                                                                                                   Patients . ............................................................................................................... 5
+                                                                                                                                             6.5 Brachytherapy....................................................................................................... 2
+                                                                                                                                                                                                                                                                                      10 INDIVIDUALIZATION OF TREATMENT:. ..................................................................... 5
+                                                                                                                                             6.6 Use in Conjunction with Other Procedures...................................................... 2
+
+      MONORAIL®                                                                                                                              6.7 Use in Special Populations.................................................................................. 2                       11 PATIENT COUNSELING INFORMATION:. .................................................................. 5
+                                                                                                                                             6.8 Magnetic Resonance Imaging (MRI). ............................................................... 2
+                                                                                                                                                                                                                                                                                      12 HOW SUPPLIED:............................................................................................................ 5
+       OVER-THE-WIRE                                                                                                                         Medical Registration.................................................................................................. 2
+                                                                                                                                                                                                                                                                                            Handling and Storage................................................................................................. 5
+                                                                                                                                             6.9 Stent Handling (also see Section 13, Operational Instructions). .................. 2
+
+Platinum Chromium Coronary
+                                                                                                                                                                                                                                                                                      13 OPERATIONAL INSTRUCTIONS:................................................................................. 5
+                                                                                                                                             6.10 Stent Placement.................................................................................................. 2
+                                                                                                                                                                                                                                                                                            13.1 Inspection Prior to Use. ..................................................................................... 5
+                                                                                                                                             Preparation. ................................................................................................................. 2
+
+Stent System                                                                                                                                 Placement. ................................................................................................................... 2
+                                                                                                                                                                                                                                                                                                   13.2 Materials Required (not included in Stent Delivery System
+                                                                                                                                                                                                                                                                                                   package). .............................................................................................................. 5
+                                                                                                                                             6.11 Stent Delivery System Removal – Pre-deployment. ..................................... 3
+                                                                                                                                                                                                                                                                                            13.3 Preparation. ......................................................................................................... 5
+TABLE OF CONTENTS                                                                                                                            6.12 Stent Delivery System Removal – Post-deployment..................................... 3
+                                                                                                                                                                                                                                                                                            13.3.1 Packaging Removal......................................................................................... 5
+                                                                                                                                                    Table 6.1 Delivery System Deflation Time Specifications............................. 3
+1 WARNING:........................................................................................................................ 1                                                                                                                                                        13.3.2 Guidewire Lumen Flush................................................................................... 5
+                                                                                                                                             6.13 Post-Procedure................................................................................................... 3
+                                                                                                                                                                                                                                                                                            13.3.3 Delivery System Preparation. ........................................................................ 5
+2 DEVICE DESCRIPTION:................................................................................................... 1
+                                                                                                                                       7 OVERVIEW OF CLINICAL STUDIES:.............................................................................. 3                                      13.4 Delivery Procedure............................................................................................. 6
+             Table 2.1 REBEL Stent System Product Description...................................... 1
+                                                                                                                                                                                                                                                                                            13.5 Deployment Procedure...................................................................................... 6
+      2.1 Device Component Description.......................................................................... 2                     8 ADVERSE EVENTS:.......................................................................................................... 3
+                                                                                                                                                                                                                                                                                            13.6 Removal Procedure............................................................................................ 6
+      Contents for (1) REBEL Monorail Stent System. .................................................... 2                                   8.1 Observed Adverse Events. .................................................................................. 3
+                                                                                                                                                                                                                                                                                            13.7 Post-Deployment Dilatation of Stented Segments........................................ 6
+      Contents for (1) REBEL Over-the-Wire Stent System............................................ 2                                               Table 8.1 OMEGA Major Clinical Events From Post-Procedure to
+                                                                                                                                                    9-Month Follow-Up.............................................................................................. 3                       13.8 In Vitro Information............................................................................................. 6
+3 INTENDED USE/INDICATIONS FOR USE:.................................................................... 2
+                                                                                                                                             8.2 Potential Adverse Events..................................................................................... 4                                   Table 13.1 Typical REBEL Stent System Compliance..................................... 6
+4 CONTRAINDICATIONS:. ................................................................................................. 2
+                                                                                                                                       9 CLINICAL STUDIES:......................................................................................................... 4                 WARRANTY......................................................................................................................... 7
+5 WARNINGS:. .................................................................................................................... 2          OMEGA Clinical Trial. ................................................................................................. 4
+                                                                                                                                             9-Month Clinical Outcomes....................................................................................... 4
+
+
+
+
+        ONLY                                                                                                                           Table 2.1 REBEL Stent System Product Description
+
+Caution: Federal Law (USA) restricts this device to sale by or on                                                                                                                                                                                  REBEL                                                                                       REBEL
+the order of a physician.                                                                                                                                                                                                              Monorail Stent Delivery System                                                            Over-the-Wire Stent Delivery System
+This device is supplied in sterile condition. All materials inside                                                                         Stent
+the sterile barrier pouch (the delivery system and stent, as well
+                                                                                                                                          Available Stent Lengths (mm)                                                                                                                  8*, 12, 16, 20, 24, 28, 32*
+as the carrier tube and pouch liner) are sterile. The external
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                  Boston Scientific (Master Brand DFU Template 8.2677in x 11.6929in A4, 90105918AM) eDFU, MB, Rebel, EN, 90849153-01B
+surface of the sterile barrier pouch, as well as the product                                                                              Available Stent Diameters (mm)                                                                                                        2.25*, 2.50*, 2.75, 3.00, 3.50, 4.00, 4.50*
+carton, should not be considered sterile.
+                                                                                                                                          Stent Material                                                                                                                           Platinum Chromium (PtCr) Alloy
+1 WARNING:                                                                                                                                Stent Strut Thickness                                                                                            0.0032 inches (0.081 mm) for diameters 2.25 mm to 3.50 mm
+Contents supplied STERILE using an ethylene oxide (EO)                                                                                                                                                                                                    0.0034 inches (0.086 mm) for diameters 4.00 mm and 4.50 mm
+process. Do not use if sterile barrier is damaged. If damage is                                                                           Delivery System
+found, call your Boston Scientific representative.
+For single use only. DO NOT REUSE, REPROCESS OR                                                                                           Effective Length                                                                                                                                               144 cm
+RESTERILIZE. Reuse, reprocessing or resterilization may                                                                                   Delivery System Ports                                                                                                                                                            Y-Connector (Side arm for access to
+compromise the structural integrity of the device and/or lead                                                                                                                                                       Single access port to inflation lumen. Guidewire                                                       balloon inflation/deflation lumen. Straight
+to device failure which, in turn, may result in patient injury,                                                                                                                                                     exit port is located approximately 25 cm from tip.                                                     arm is continuous with shaft inner lumen).
+illness or death. Reuse, reprocessing or resterilization may                                                                                                                                                        Designed for guidewire ≤ 0.014 inches (0.36 mm)                                                        Designed for guidewire ≤ 0.014 inches
+also create a risk of contamination of the device and/or cause                                                                                                                                                                                                                                                             (0.36 mm)
+patient infection or cross-infection, including, but not limited
+to, the transmission of infectious disease(s) from one patient to                                                                         Stent Delivery                                                            A balloon, with two radiopaque balloon markers, nominally placed 0.4 mm (0.016 inches)
+another. Contamination of the device may lead to injury, illness                                                                                                                                                    beyond the stent at each end.
+or death of the patient.                                                                                                                                                                                                                                                  Nominal Inflation Pressure: 11 atm (1117 kPa)
+After use, dispose of product and packaging in accordance                                                                                 Balloon Inflation Pressure
+                                                                                                                                                                                                                                                                      Rated Burst Inflation Pressure: 18 atm (1827 kPa)
+with hospital, administrative and/or local government policy.
+                                                                                                                                          Catheter Shaft Outer Diameter                                                                                                                                                                    3.4F (≤ 1.20 mm) proximal for
+2 DEVICE DESCRIPTION:                                                                                                                                                                                                                                                                                                                          2.25 to 4.50 mm sizes
+                                                                                                                                                                                                                                           2.1 F (0.70 mm) proximal and                                                                      2.4F (≤ 0.85 mm) distal for
+REBEL Platinum Chromium Coronary Stent System:                                                                                                                                                                                                 2.7 F (0.95 mm) distal.                                                                         2.25 to 2.75 mm sizes
+The REBEL Platinum Chromium Coronary Stent System is                                                                                                                                                                                                                                                                                         2.7F (≤ 0.95 mm) distal for
+a device product consisting of a balloon expandable stent,                                                                                                                                                                                                                                                                                     3.00 to 4.50 mm sizes
+pre-mounted on a Monorail (MR) or Over-The-Wire (OTW)
+delivery catheter. The stent is made from a platinum chromium                                                                             Guide Catheter Minimum Inner                                                ≥ 0.056 inches (1.42 mm) for 2.25 – 4.00 mm sizes
+                                                                                                                                                                                                                                                                                                                                                ≥ 0.066 inches (1.68 mm)
+alloy (PtCr). The characteristics of the REBEL Stent System are                                                                           Diameter Requirement                                                            ≥ 0.066 inches (1.68 mm) for 4.50 mm size
+described in Table 2.1.
+                                                                                                                                       * 32 mm length is not available in 2.25 mm and 2.50 mm diameter sizes. 8 mm length is not available in 4.50 mm diameter size.
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                    Black (K) ∆E ≤5.0
+2.1 Device Component Description                                       6.3 Longitudinal Stent Deformation                                                                 Under the scan conditions defined above, the REBEL stent is
+The REBEL™ Stent component is made from a platinum                     Longitudinal stent deformation is a recognized potential failure mode                              expected to produce a maximum temperature rise of 2.6ºC after
+chromium alloy mounted onto a Monorail® or Over-the-Wire               of thin strut coronary stents.1 Crossing a newly deployed stent with                               15 minutes of continuous scanning.
+Delivery System.                                                       a second device, such as a balloon catheter, stent system, or IVUS                                 In non-clinical testing, the image artifact caused by the device
+The REBEL Stent System is available in four stent models, each         catheter can lead to the second device transmitting force to the                                   extends approximately 8 mm from the REBEL stent when
+engineered for specific diameters to provide consistent stent-         implanted stent. In this situation, if the second device is advanced                               imaged with a spin echo pulse sequence and a 3.0 Tesla MRI
+to-artery ratios across the range of reference vessel diameters        or retracted, longitudinal stent deformation (i.e., longitudinal                                   system. The artifact does not obscure the device lumen.
+indicated:                                                             compression or elongation) of the implanted stent may occur.                                       Medical Registration
+                                                                       Although a rare event, longitudinal stent deformation may result
+• Small Vessel (SV): 2.25 mm                                                                                                                                              It is recommended that patients register the conditions under
+                                                                       in adverse clinical events and/or the need for additional treatment
+• Small Workhorse (SWH): 2.50, 2.75 mm                                                                                                                                    which the implant can be scanned safely with the MedicAlert
+                                                                       including repeat dilation of the implanted stent, placement of a
+                                                                                                                                                                          Foundation (www.medicalert.org) or equivalent organization.
+• Workhorse (WH): 3.00, 3.50 mm                                        second stent and/or surgical intervention
+• Large Vessel (LV): 4.00, 4.50 mm                                     An analysis of complaint reports suggests that coronary artery
+Contents for (1) REBEL Monorail Stent System                           calcification, vessel tortuosity, and stent malapposition in
+                                                                                                                                                                          6.9 Stent Handling (also see Section 13, Operational
+                                                                       conjunction with crossing a newly deployed stent with an ancillary
+• One (1) REBEL Monorail Stent System                                                                                                                                     Instructions)
+                                                                       device may be associated with an increased risk of longitudinal
+• Two (2) CLIPIT® Coil clips                                           stent deformation. Implantation techniques that may reduce the                                     • For single use only. Do not resterilize or reuse this product.
+• One (1) Flushing needle with luer fitting                            likelihood of procedure related complications, including stent                                       Note product “Use By” date. (see Section 1, Warning)
+Contents for (1) REBEL Over-the-Wire Stent System                      deformation, are described in the appropriate sections of this DFU                                 • The premounted REBEL stent and its delivery system are
+                                                                       (see sections 13.4 Delivery Procedure, 13.5 Deployment Procedure,                                    designed for use as a unit. The stent is not to be removed
+• One (1) REBEL Over-the-Wire Stent System                             13.6 Removal Procedure, and 13.7 Post-Deployment Dilatation                                          from its delivery balloon. The stent is not designed to be
+3 INTENDED USE/INDICATIONS FOR USE:                                    of Stented Segment). Please see section 7 Overview of Clinical                                       crimped onto another balloon. Removing the stent from its
+                                                                       Studies for a description of the enhancements made to the REBEL                                      delivery balloon may damage the stent and/or lead to stent
+The REBEL Coronary Stent System is indicated for improving             Coronary Stent System.                                                                               embolization.
+coronary luminal diameter in patients with de novo lesions
+≤ 28 mm in length in native coronary arteries with a reference
+                                                                       1
+                                                                           Hanratty CG, Walsh SJ. Longitudinal Compression: A “new” Complication with Modern              • Special care must be taken not to handle or in any way
+                                                                           Coronary Stent Platforms – Time to Think Beyond Deliverability? Eurointervention 2011;7:872-     disrupt the stent position on the delivery balloon. This is
+vessel diameter (RVD) of ≥ 2.25 mm to ≤ 4.50 mm.                           877
+                                                                                                                                                                            most important during catheter removal from packaging,
+4 CONTRAINDICATIONS:                                                   6.4 Use of Multiple Stents                                                                           placement over guidewire, and advancement through
+Use of the REBEL Stent System is contraindicated in patients           In the OMEGA Clinical trial, the protocol specified that lesions were                                hemostasis valve adapter and guide catheter hub.
+with the following:                                                    to be treated with no more than one stent, except in situations                                    • Excessive manipulation or handling may cause stent
+                                                                       involving bailout stenting. When more than one stent is required,                                    damage, contamination, or dislodgment of the stent from
+• Known hypersensitivity to platinum, the platinum chromium
+                                                                       resulting in stent-to-stent contact, stent materials should be of                                    the delivery balloon.
+  alloy, or similar alloy types such as stainless steel.
+                                                                       similar composition to avoid the possibility of corrosion due to the
+• Known severe reaction to contrast agents that cannot                                                                                                                    • Use only the appropriate balloon inflation media (see
+                                                                       presence of dissimilar metals in a conducting medium.
+  be adequately premedicated prior to the REBEL Stent                                                                                                                       Section 13.3.3, Delivery System Preparation). DO NOT USE
+                                                                       6.5 Brachytherapy                                                                                    air or any gas medium to inflate the balloon.
+  placement procedure.
+                                                                       The safety and effectiveness of the REBEL stent in patients with                                   • In the event the REBEL stent is not deployed, do not use
+Coronary artery stenting is contraindicated for use in the
+                                                                       prior brachytherapy of the target lesion have not been established.                                  the product and contact your local Boston Scientific
+following:
+                                                                       The safety and effectiveness of the use of brachytherapy to treat                                    Representative for return information.
+• Patients who cannot receive recommended anti-platelet                in-stent restenosis in a REBEL stent have not been established.
+  and/or anticoagulant therapy.                                                                                                                                           6.10 Stent Placement
+                                                                       Both vascular brachytherapy and the REBEL stent alter arterial
+• Patients judged to have a lesion that prevents complete              remodeling. The interaction between these two treatments has not                                   Preparation
+  inflation of an angioplasty balloon or proper placement of           been determined.                                                                                   • DO NOT PREPARE OR PRE-INFLATE BALLOON PRIOR TO
+  the stent or delivery device.                                        6.6 Use in Conjunction with Other Procedures                                                         STENT DEPLOYMENT OTHER THAN AS DIRECTED. Use
+                                                                                                                                                                            the balloon purging technique described in Section 13.3.3,
+                                                                       The safety and effectiveness of using mechanical atherectomy
+5 WARNINGS:                                                                                                                                                                 Delivery System Preparation.
+                                                                       devices (directional atherectomy catheters or rotational
+• This product should not be used in patients who are not              atherectomy catheters) or laser angioplasty catheters in conjunction                               • An unexpanded stent should be introduced into the
+  likely to comply with recommended anti-platelet therapy.             with REBEL stent implantation have not been established.                                             coronary arteries one time only. An unexpanded stent
+                                                                                                                                                                            should not be subsequently moved in and out through the
+• The use of this product carries the risks associated with            6.7 Use in Special Populations
+                                                                                                                                                                            distal end of the guide catheter as stent damage or stent
+  coronary artery stenting, including: stent thrombosis,               The safety and effectiveness of the REBEL stent have not been                                        dislodgment from the balloon may occur.
+  vascular complications, and/or bleeding events.                      established in the following patient populations:
+                                                                                                                                                                          Placement
+                                                                       • Patients with vessel thrombus at the lesion site.
+6 PRECAUTIONS:                                                                                                                                                            • The vessel should be pre-dilated with an appropriate sized
+                                                                       • Patients with coronary artery reference vessel diameters < 2.25                                    balloon. Failure to do so may increase the risk of placement
+6.1 General Precautions                                                  or > 4.50 mm.                                                                                      difficulty and procedural complications.
+
+
+
+
+                                                                                                                                                                                                                                                  Boston Scientific (Master Brand DFU Template 8.2677in x 11.6929in A4, 90105918AM) eDFU, MB, Rebel, EN, 90849153-01B
+• Only physicians who have received adequate training                  • Patients with coronary artery lesions longer than 28 mm or                                       • If unusual resistance is felt at any time during lesion
+  should perform implantation of the stent.                              requiring more than one REBEL stent.                                                               access before stent implantation, the stent delivery system
+• Stent placement should only be performed at hospitals                • Patients with lesions located in the saphenous vein grafts, in                                     and the guide catheter should be removed as a single unit
+  where emergency coronary artery bypass graft (CABG)                    the left main coronary artery, ostial lesions, or lesions located                                  (see Section 6.11, Stent Delivery System Removal –
+  surgery is readily available.                                          at a bifurcation.                                                                                  Pre-deployment).
+• Subsequent stent blockage may require repeat dilatation              • Patients with diffuse disease or poor flow distal to the identified                              • Do not expand the stent if it is not properly positioned in the
+  of the arterial segment containing the stent. The long-term            lesions.                                                                                           vessel (see Section 6.11, Stent Delivery System Removal –
+  outcome following repeat dilatation of previously implanted                                                                                                               Pre-deployment).
+                                                                       • Patients with tortuous vessels (> 60 degrees) in the region of
+  stents is not well characterized.
+                                                                         the obstruction or proximal to the lesion.                                                       • Balloon pressures should be monitored during inflation. Do
+• Do not expose the delivery system to organic solvents such                                                                                                                not exceed rated burst pressure as indicated on product
+                                                                       • Patients with a recent acute myocardial infarction where there
+  as alcohol or detergents.                                                                                                                                                 label (Table 13.1, Typical REBEL Stent System Compliance).
+                                                                         is evidence of thrombus or poor flow.
+• Care should be taken to control the position of the guide                                                                                                                 Use of pressures higher than specified on product label
+                                                                       • Patients with in-stent restenosis.
+  catheter tip during stent delivery, deployment, and balloon                                                                                                               may result in a ruptured balloon and intimal damage and
+  withdrawal.                                                          • Patients with moderate or severe calcification in the lesion or a                                  dissection.
+                                                                         chronic total occlusion.
+• Before withdrawing the stent delivery system, visually                                                                                                                  • The stent inner diameter should approximate 1.1 times the
+  confirm complete balloon deflation by fluoroscopy (see               • Patients with 3 vessel disease.                                                                    distal reference diameter of the vessel.
+  Table 6.1 System Deflation Time Specifications). Failure             6.8 Magnetic Resonance Imaging (MRI)                                                               • Placement of the stent has the potential to compromise
+  to do so may cause increased stent delivery system                   Non-clinical testing has demonstrated that the REBEL stent is                                        side branch patency if stenting near a side branch (see
+  withdrawal forces and result in guide catheter movement              MR Conditional for single and overlapped conditions up to 74 mm.                                     Section 13.7, Post-Deployment Dilatation of Stented
+  into the vessel and subsequent arterial damage.                      A patient with this device can be safely scanned in a Magnetic                                       Segments).
+6.2 Pre- and Post-Procedure Anti-platelet Regimen                      Resonance system meeting the following conditions:                                                 • Implanting a stent may lead to dissection of the vessel
+Administer         appropriate       anticoagulant/anti-platelet       • Static magnetic field of 3.0 and 1.5 Tesla only                                                    distal and/or proximal to the stented portion, and may
+therapy according to current medical guidelines.                       • Maximum spatial gradient magnetic field of 2200 gauss/cm                                           cause acute closure of the vessel requiring additional
+The 2011 ACCF/AHA/SCAI Guideline for Percutaneous Coronary               (22 T/m)                                                                                           intervention (e.g., CABG, further dilation, placement of
+Intervention (PCI) are provided at the following website:                                                                                                                   additional stents, or other).
+                                                                       • Maximum Magnetic Resonance system reported, whole body
+http://content.onlinejacc.org/cgi/content/full/j.jacc.2011.08.007v1.
+                                                                         averaged specific absorption rate (SAR) of < 2 W/kg (Normal
+                                                                         Operating Mode)
+
+
+
+                                                                                                                        2
+
+
+
+
+                                                                                                                                                                                                                              Black (K) ∆E ≤5.0
+• When treating multiple lesions, the distal lesion should        7 OVERVIEW OF CLINICAL STUDIES:
+  generally be stented first, followed by stenting of the more    The principal safety and effectiveness for the REBEL™ Stent System
+  proximal lesion(s). Stenting in this order alleviates the       is derived from the global OMEGA Clinical Trial, a clinical trial
+  requirement to cross the proximal stent when placing the        conducted on the OMEGA™ Stent System. The OMEGA and REBEL
+  distal stent and reduces the chances of dislodging the          stents utilize the same platinum chromium alloy. The REBEL Stent
+  proximal stent.                                                 System has supplementary proximal stent connectors for increased
+6.11 Stent Delivery System Removal – Pre-deployment               axial strength, a short flexible stent delivery system tip, and a PTFE
+• If unusual resistance is felt at any time during lesion         coated proximal hypotube for improved stent deliverability. Given
+  access before stent implantation, the stent delivery system     the similarities between the OMEGA and REBEL Stent Systems and
+  and the guide catheter should be removed as a single unit       supportive bench and animal study information, the findings from
+  under direct visualization using fluoroscopy.                   the OMEGA Clinical Trial are applicable to the REBEL Stent System.
+• Do not attempt to pull an unexpanded stent back into the        8 ADVERSE EVENTS:
+  guide catheter, as stent damage or stent dislodgment from
+                                                                  8.1 Observed Adverse Events
+  the balloon may occur.
+                                                                  Observed adverse event experience comes from the OMEGA
+• Stent retrieval methods (use of additional wires, snares,
+                                                                  Clinical Trial. Major clinical events for this study are shown in
+  and/or forceps) may result in additional trauma to the
+                                                                  Table 8.1.
+  vascular site. Complications can include bleeding,
+  hematoma, or pseudoaneurysm.
+6.12 Stent Delivery System Removal – Post-deployment              Table 8.1 OMEGA Major Clinical Events From Post-Procedure to 9-Month Follow-Up
+• Following stent placement, confirm complete balloon                                                                                                                         OMEGA (N=328)
+  deflation (See Table 6.1, Delivery System Deflation Time
+                                                                                                                                          In-Hospital                               30 Days                              9 Months
+  Specifications). If greater than usual resistance is felt
+  during delivery system withdrawal, pay particular attention       All Death, MI, TVR                                                   3.0% (10/328)                          3.4% (11/327)                         12.9% (42/325)
+  to guide catheter position. In some cases it may be
+  necessary to pull back slightly on the guide catheter in           All Death or MI                                                     3.0% (10/328)                          3.4% (11/327)                          5.5% (18/325)
+  order to prevent deep seating (unplanned advancement)             		All Death                                                           0.0% (0/328)                           0.3% (1/327)                           1.8% (6/325)
+  of the guide catheter and subsequent vessel damage. In
+  cases where unplanned guide catheter movement has                 			Cardiac Death                                                      0.0% (0/328)                           0.3% (1/327)                           1.2% (4/325)
+  occurred, angiographic assessment of the coronary tree            			Non-Cardiac Death                                                  0.0% (0/328)                           0.0% (0/327)                           0.6% (2/325)
+  should be undertaken to ensure that there is no damage to
+  the coronary vasculature.                                         		MI                                                                 3.0% (10/328)                          3.1% (10/327)                          3.7% (12/325)
+• Maintain guidewire placement across the lesion during the         			Q-wave MI                                                          0.0% (0/328)                           0.0% (0/327)                           0.0% (0/325)
+  entire removal process.
+                                                                    			Non-Q-wave MI                                                     3.0% (10/328)                          3.1% (10/327)                          3.7% (12/325)
+• Carefully pull back the stent delivery system until the
+  proximal balloon marker of the stent delivery system is just       TVR                                                                  0.0% (0/328)                           0.3% (1/327)                          8.6% (28/325)
+  distal to the guide catheter distal tip.
+                                                                    		TLR                                                                 0.0% (0/328)                           0.3% (1/327)                          7.4% (24/325)
+• The stent delivery system and the guide catheter should
+  be pulled back until the tip of the guide catheter is just        		Non-TLR                                                             0.0% (0/328)                           0.0% (0/327)                           1.8% (6/325)
+  distal to the arterial sheath, allowing the guide catheter to
+                                                                    Cardiac Death or MI                                                  3.0% (10/328)                          3.4% (11/327)                          4.9% (16/325)
+  straighten. Carefully retract the stent delivery system into
+  the guide catheter and remove the stent delivery system           TLF                                                                  3.0% (10/328)                          3.4% (11/327)                         11.5% (37/323)
+  and the guide catheter from the patient as a single unit
+                                                                    TVF                                                                  3.0% (10/328)                          3.4% (11/327)                         12.4% (40/323)
+  while leaving the guidewire across the lesion.
+                                                                    ARC Stent Thrombosis                                                  0.0% (0/328)                           0.3% (1/326)                           0.6% (2/318)
+   Note: Failure to follow these steps, and/or applying
+                                                                     Definite or Probable                                                 0.0% (0/328)                           0.3% (1/326)                           0.6% (2/318)
+   excessive force to the stent delivery system, can
+   potentially result in stent damage, stent dislodgment from       		Definite                                                            0.0% (0/328)                           0.3% (1/326)                           0.6% (2/318)
+   the balloon, and/or damage to the delivery system.
+                                                                    		Probable                                                            0.0% (0/328)                           0.0% (0/326)                           0.0% (0/318)
+                                                                  Numbers are % (count/sample size).
+Table 6.1 Delivery System Deflation Time Specifications           Abbreviations: ARC=Academic Research Consortium; MI=myocardial infarction; PCI=percutaneous coronary intervention; TLR=target lesion revascularization; TVR=target vessel
+                                                                  revascularization.
+                                 Stent Length (mm)
+                        8        12      20       28      32
+
+
+
+
+                                                                                                                                                                                                                                                        Boston Scientific (Master Brand DFU Template 8.2677in x 11.6929in A4, 90105918AM) eDFU, MB, Rebel, EN, 90849153-01B
+               2.25                              ≤ 16
+                                                          N/A
+               2.50                              Sec
+                                        ≤ 16
+               2.75                     Sec
+                       ≤ 16     ≤ 16
+ Balloon               Sec      Sec
+               3.00                              ≤ 21     ≤ 21
+ Diameter
+   (mm)        3.50                              Sec      Sec
+                                        ≤ 21
+               4.00                     Sec
+
+                                ≤ 30    ≤ 30     ≤ 30     ≤ 30
+               4.50    N/A
+                                Sec     Sec      Sec      Sec
+
+6.13 Post-Procedure
+• Care must be exercised when crossing a newly deployed
+  stent with any wire, catheter or ancillary device to avoid
+  disrupting the stent placement, apposition, and/or geometry.
+• If the patient requires imaging, see Section 6.8, Magnetic
+  Resonance Imaging (MRI).
+
+
+
+
+                                                                                                             3
+
+
+
+
+                                                                                                                                                                                                                                    Black (K) ∆E ≤5.0
+8.2 Potential Adverse Events                                                                                  Baseline lesion characteristics: Baseline lesion characteristics included average reference
+Potential adverse events (in alphabetical order) which may be associated with the use of a                    vessel diameter (RVD) of 2.77±0.53 mm, average minimum lumen diameter (MLD) of 0.90±0.38
+coronary stent in native coronary arteries include but are not limited to:                                    mm, average percent diameter stenosis (%DS) of 67.41±11.34, and average lesion length of
+                                                                                                              12.49±5.15 mm.
+• Abrupt closure
+                                                                                                              9-Month Clinical Outcomes
+• Allergic reaction (including to medications, contrast, stent materials)
+• Aneurysm (coronary)                                                                                         Table 9.1 OMEGA 9-Month Clinical Results, Intent-to-Treat Patients
+• Angina                                                                                                                                                                                     OMEGA (N=328)
+• Arrhythmias, including ventricular fibrillation and ventricular tachycardia
+                                                                                                                  EFFICACY
+• Arteriovenous fistula
+                                                                                                                   TVR, Overall                                                                8.6% (28/325)
+• Bleeding
+• Cardiac tamponade                                                                                               		TLR, Overall                                                               7.4% (24/325)
+• Cardiogenic shock                                                                                               			TLR, PCI                                                                  7.4% (24/325)
+• Cardiomyopathy
+                                                                                                                  			TLR, CABG                                                                  0.0% (0/325)
+• Death
+                                                                                                                  		 Non-TLR TVR, Overall                                                       1.8% (6/325)
+• Emboli (including air, tissue, thrombus, plaque, or device materials)
+• Heart failure                                                                                                   			Non-TLR TVR, PCI                                                           1.8% (6/325)
+• Hematoma                                                                                                        			Non-TLR TVR, CABG                                                          0.0% (0/325)
+• Hemorrhage                                                                                                      SAFETY
+• Hypotension/hypertension
+                                                                                                                  All Death                                                                     1.8% (6/325)
+• Infection, local and/or systemic
+• Ischemia, myocardial                                                                                            Cardiac Death or MI                                                          4.9% (16/325)
+• Myocardial infarction                                                                                            Cardiac Death                                                                1.2% (4/325)
+• Pain                                                                                                             MI                                                                          3.7% (12/325)
+• Pericardial effusion
+                                                                                                                  		Q-wave MI                                                                   0.0% (0/325)
+• Pseudoaneurysm, femoral
+                                                                                                                  		Non-Q-wave MI                                                              3.7% (12/325)
+• Pulmonary edema
+• Renal insufficiency or failure                                                                                  ARC Stent Thrombosis                                                          0.6% (2/318)
+• Respiratory failure                                                                                              Definite or Probable                                                         0.6% (2/318)
+• Restenosis of stented segment                                                                                   		Definite                                                                    0.6% (2/318)
+• Shock
+                                                                                                                  		Probable                                                                    0.0% (0/318)
+• Stent embolization
+• Stent fracture                                                                                                  Peri-Procedural Endpoints
+• Stent migration                                                                                                 Procedural Success                                                          95.4% (313/328)
+• Stent thrombosis and/or vessel occlusion                                                                        Technical Success      a
+                                                                                                                                                                                              98.5% (332/337)
+• Stroke/cerebrovascular accident/transient ischemic attack                                                   a
+                                                                                                               denominator is number of study stents attempted
+• Total occlusion of coronary artery                                                                          Numbers are % (count/sample size).
+                                                                                                              This trial was not sized to determine the rate of low frequency events with a pre-specified precision.
+• Vessel spasm                                                                                                Abbreviations: ARC=Academic Research Consortium; CABG=coronary artery bypass graft; MI=myocardial infarction; PCI=percutaneous
+                                                                                                              coronary intervention; TLR=target lesion revascularization; TVR=target vessel revascularization.
+• Vessel injury (including dissection, perforation, rupture or trauma)
+                                                                                                              Primary Endpoint (9-Month TLF): The primary endpoint was met. The 9 month TLF rate was 11.5%
+There may be other potential adverse events that are unforeseen at this time.                                 and the upper 1-sided 95% confidence bound of 14.79% was less that the prespecified PG of 21.2%
+9 CLINICAL STUDIES:                                                                                           (p<0.0001). Similar results were found whether the per protocol or the ITT subject populations were
+                                                                                                              analyzed.
+OMEGA Clinical Trial
+Primary Objective: To evaluate the safety and effectiveness of the OMEGA™ Coronary Stent                      Table 9.2 OMEGA Primary Endpoint
+System for the treatment of de novo atherosclerotic coronary artery lesions ≤ 28 mm in length (by
+                                                                                                                                                              95%
+visual estimate) in a native coronary arteries ≥ 2.25 mm to ≤ 4.50 mm in diameter (by visual estimate).                                                                                             Performance            1-sided P
+                                                                                                                                        OMEGA              Confidence            95% UCBa
+Design: The OMEGA Clinical Trial is a prospective, single-arm, multicenter study. Eligible                                                                                                             Goalb                 value
+                                                                                                                                                            Interval
+
+
+
+
+                                                                                                                                                                                                                                                 Boston Scientific (Master Brand DFU Template 8.2677in x 11.6929in A4, 90105918AM) eDFU, MB, Rebel, EN, 90849153-01B
+patients were to be ≥ 18 years of age and with left ventricular ejection fraction (LVEF) ≥ 30% and
+symptomatic coronary artery disease or documented silent ischemia. Lesions were to be coverable                   ITTc                   11.5%
+                                                                                                                                                          [8.2%, 15.4%]            14.79%                21.2%               <0.0001
+by a single study stent and to have visually estimated stenosis ≥ 50% and < 100% with Thrombolysis                (N=328)               (37/323)
+in Myocardial Infarction (TIMI) flow > 1. Patients could have 1 target lesion treated. Patients with              Per protocol           11.6%
+a single target lesion could also have 1 de novo native coronary artery lesion within a different                                                         [8.3%, 15.6%]            14.93%                21.2%               <0.0001
+                                                                                                                  (N=325)               (37/320)
+epicardial vessel (non-target lesion) treated with a commercially-available treatment (e.g., stent,
+                                                                                                              P value is based on the exact binomial test.
+balloon angioplasty, excluding brachytherapy) during the index procedure. The non-target lesion               a: One-sided 95% Clopper-Pearson upper confidence bound
+had to be treated before the target lesion and the treatment had to be a clinical angiographic                b: Based on historical BMS results
+success (defined as visually assessed stenosis < 50% [< 3 0% for stents] with TIMI 3 flow without             c: Primary analysis
+
+prolonged chest pain or electrocardiogram [ECG] changes consistent with MI) before the patient                Results in Males and Females: OMEGA data were evaluated retrospectively for possible gender-
+could be enrolled. The protocol mandated antiplatelet therapy compliance in accordance with the               based differences in clinical outcomes. OMEGA was not designed or powered to study safety or
+2007 ACC/AHA/SCAI Guidelines for PCI.2                                                                        effectiveness of the OMEGA Stent in gender-specific subgroups, so these analyses were performed
+Baseline and post-procedure angiographic data were collected and assessed by quantitative                     post hoc and are considered hypothesis-generating.
+analysis at a designated core laboratory. An independent Clinical Events Committee adjudicated                In the OMEGA ITT population, of the 328 enrolled patients, 222 patients were male (67.7%) and 106
+major adverse clinical events and stent thrombosis.                                                           patients were female (32.3%). In the United States, an estimated 15.4 million adults of 20 years and
+The primary endpoint was the rate of target lesion failure (TLF), defined as any ischemia-driven              older (7.9% of men and 5.1% of women) suffer from coronary artery disease (CAD).3 However, it is
+revascularization of the target lesion (TLR), myocardial infarction (MI; Q-wave and non–Q-wave)               estimated that only about 33% of the annual PCIs are performed in women. In PCI clinical trials,
+related to the target vessel, or cardiac death, at 9 months post-index procedure. The rate of the             women represent only 25-35% of the enrolled populations, and there are relatively little gender
+primary endpoint was compared to a predefined performance goal (PG) of 21.2%, which was                       specific data. The disproportionate enrollment distribution in this trial may be partly attributable
+calculated based on historical bare metal stent (BMS) results.                                                to gender differences in pathophysiology, risk factors, and symptoms which may lead to under-
+                                                                                                              diagnosis and under-referral of female patients with CAD.4,5 Once diagnosed and treated, poorer
+A total of 328 patients were enrolled at 37 sites in the United States and Europe. Of the 328 patients
+                                                                                                              revascularization outcomes have been reported in women due to smaller coronary arteries and
+included in the intent-to-treat (ITT) analysis set, a total of 323 patients were evaluable for the
+                                                                                                              increased prevalence of baseline comorbidities including advanced age, diabetes, hypertension,
+9-month primary endpoint.
+                                                                                                              and peripheral vascular disease compared with men.
+Follow-up included clinical assessments at 30 days, 9, and 12 months post-index procedure.
+                                                                                                              In patients treated with the OMEGA stent, the 9-month rate of TLF was 12.3% in males and 9.6%
+The study is now considered complete with regard to the 9-month primary endpoint.
+                                                                                                              in females.
+Demographics: Baseline characteristics for the OMEGA Clinical Trial indicated 67.7% were male
+                                                                                                              This post hoc analysis shows similar treatment effect between genders for the primary endpoint of
+with an average age of 65.46±11.23, 17.4% had diabetes requiring medication, 70.8% had known
+                                                                                                              9-month TLF and its components. This suggests that the overall conclusions of the trial regarding
+hyperlipidemia requiring medication, 28.2% were known current smokers, and 75.0% had known
+                                                                                                              both safety and effectiveness of the OMEGA stent can be generalized to males and females.
+hypertension requiring medication.
+
+
+                                                                                                          4
+
+
+
+
+                                                                                                                                                                                                                             Black (K) ∆E ≤5.0
+Table 9.3 OMEGA 9-Month TLF Results by Gender, Intent-to-Treat, All Patients (N=328)                                                            • An Angioplasty and Stent Education Guide (available on-line or by request) which includes
+                                                                                                                                                  information on coronary artery disease, the implant procedure, and frequently asked questions
+                            OMEGA Females                                                  OMEGA Males
+         Event                                                    [95% CI]                                               [95% CI]
+                               (N=106)                                                       (N=222)                                            12 HOW SUPPLIED:
+     9 Month TLF               9.6% (10/104)                  [4.7%, 17.0%]                 12.3% (27/219)            [8.3%, 17.4%]             Do not use if package is opened or damaged.
+This trial was not sized to determine the rate of low frequency events with a pre-specified precision. Numbers are % (count/sample size).       Do not use if labeling is incomplete or illegible.
+9-Month TLF is the proportion of patients who experience a target lesion failure (defined as any ischemia-driven revascularization of the       Handling and Storage
+target lesion [TLR], MI [Q-wave and non -Q wave] related to the target vessel, or cardiac death) up to 270 days post-procedure out of the
+population that have been followed for at least 240 days or who have experienced a TLF up to 270 days post-procedure.                           Store in cool, dry, dark place.
+Table 9.4 shows OMEGA 9-Month clinical results for male and female patients. Given the small
+                                                                                                                                                13 OPERATIONAL INSTRUCTIONS:
+number of patients enrolled, no conclusions can be drawn from these data.
+                                                                                                                                                13.1 Inspection Prior to Use
+Table 9.4 9-Month Clinical Endpoints by Gender, Intent-to-Treat, All Patients                                                                   Do not use the product after the ‘‘Use By’’ date. Carefully inspect the sterile package before
+                                                     OMEGA Female Patients                          OMEGA Male Patients                         opening. If the integrity of sterile package has been compromised prior to the product ‘‘Use By’’
+                                                           (N=106)                                       (N=222)                                date (e.g., damage of the package), contact your local Boston Scientific representative for return
+                                                                                                                                                information. Do not use if any defects are noted.
+     EFFICACY
+                                                                                                                                                13.2 Materials Required (not included in Stent Delivery System package)
+     TVR, Overall                                             7.6% (8/105)                                 9.1% (20/220)
+                                                                                                                                                 Quantity                         Material
+       TLR, Overall                                           6.7% (7/105)                                 7.7% (17/220)
+                                                                                                                                                 1                                Appropriate guide catheter
+     		TLR, PCI                                               6.7% (7/105)                                 7.7% (17/220)
+                                                                                                                                                                                  (see Table 2.1, REBEL Stent System Product Description)
+     		TLR, CABG                                              0.0% (0/105)                                 0.0% (0/220)
+                                                                                                                                                 2-3                              20 mL (cc) syringe
+       Non-TLR TVR, Overall                                   2.9% (3/105)                                 1.4% (3/220)
+                                                                                                                                                 1000 u /500 cc                   Normal heparinized sterile saline
+     		 Non-TLR TVR, PCI                                      2.9% (3/105)                                 1.4% (3/220)
+                                                                                                                                                 1                                ≤ 0.014 in (0.36 mm) guidewire
+     		 Non-TLR TVR, CABG                                     0.0% (0/105)                                 0.0% (0/220)
+                                                                                                                                                 1                                Rotating hemostatic valve
+     SAFETY
+                                                                                                                                                 1                                Diluted contrast medium 1:1 with normal heparinized sterile saline
+     All Death                                                1.0% (1/105)                                 2.3% (5/220)
+                                                                                                                                                 1                                Inflation Device
+     Cardiac Death or MI                                      3.8% (4/105)                                 5.5% (12/220)
+                                                                                                                                                 1                                Torque Device
+       Cardiac Death                                          0.0% (0/105)                                 1.8% (4/220)
+                                                                                                                                                 1                                Pre-deployment dilation catheter
+       MI                                                     3.8% (4/105)                                 3.6% (8/220)
+                                                                                                                                                 1                                Three-way stopcock
+     		Q-wave MI                                              0.0% (0/105)                                 0.0% (0/220)
+                                                                                                                                                 1                                Appropriate arterial sheath
+     		Non-Q-wave MI                                          3.8% (4/105)                                 3.6% (8/220)
+                                                                                                                                                13.3 Preparation
+     ARC Stent Thrombosis                                     1.0% (1/104)                                 0.5% (1/214)
+                                                                                                                                                13.3.1 Packaging Removal
+       Definite or Probable                                   1.0% (1/104)                                 0.5% (1/214)                         Step	Action
+     		Definite                                               1.0% (1/104)                                 0.5% (1/214)                         1.		Open the outer box to reveal the pouch and carefully inspect the pouch for damage.
+                                                                                                                                                2.		Carefully peel open the sterile barrier using aseptic techniques and extract the stent
+     		Probable                                               0.0% (0/104)                                 0.0% (0/214)
+                                                                                                                                                     delivery system.
+     Peri-Procedural Endpoints                                                                                                                  3.		Carefully remove the stent delivery system from its protective tubing for preparation of
+     Procedural Success                                     95.3% (101/106)                              95.5% (212/222)                             the delivery system. When using a Monorail® system, do not bend or kink proximal shaft
+                                                                                                                                                     during removal.
+     Technical Success a                                    99.1% (106/107)                              98.3% (226/230)
+                                                                                                                                                4.		Remove the product mandrel and stent protector by grasping the catheter just proximal
+a
+ denominator is number of study stents attempted                                                                                                     to the stent (at the proximal balloon bond site), and, with the other hand, grasp the stent
+Numbers are % (count/sample size).
+This trial was not sized to determine the rate of low frequency events with a pre-specified precision.                                               protector and gently remove distally.
+Abbreviations: ARC=Academic Research Consortium; CABG=coronary artery bypass graft; MI=myocardial infarction; PCI=percutaneous
+coronary intervention; TLR=target lesion revascularization; TVR=target vessel revascularization.
+                                                                                                                                                       Note: If unusual resistance is felt during product mandrel and stent protector removal, do
+2
+    King SB, 3rd, Smith SC, Jr., Hirshfeld JW, Jr., et al. 2007 Focused Update of the ACC/AHA/SCAI 2005 Guideline Update for Percutaneous
+                                                                                                                                                       not use the product and replace with another.
+    Coronary Intervention: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines:
+    2007 Writing Group to Review New Evidence and Update the ACC/AHA/SCAI 2005 Guideline Update for Percutaneous Coronary                       5.		Examine the device for any damage. If it is suspected that the sterility or performance of
+
+
+
+
+                                                                                                                                                                                                                                                                Boston Scientific (Master Brand DFU Template 8.2677in x 11.6929in A4, 90105918AM) eDFU, MB, Rebel, EN, 90849153-01B
+    Intervention, Writing on Behalf of the 2005 Writing Committee. Circulation 2008;117:261-95.
+                                                                                                                                                     the device has been compromised, the device should not be used.
+Alan S. Go, Dariush Mozaffarian, Veronique L. Roger et al. Heart Disease and Stroke Statistics--2014 Update: A Report From the
+3
+
+American Heart Association Circulation 2014, 29:e28-d292
+                                                                                                                                                6.		A Monorail Catheter may be coiled once and secured using the CLIPIT® Coil Clips provided
+                                                                                                                                                     in the catheter package. Only the proximal shaft should be inserted into the CLIPIT device;
+Shaw LJ, Bairey Merz CN, Pepine CJ, et al. Insights from the NHLBI-Sponsored Women’s Ischemia Syndrome Evaluation (WISE) Study:
+4
+                                                                                                                                                     the clip is not intended for the distal end of the catheter.
+Part 1: gender differences in traditional and novel risk factors, symptom evaluation, and gender-optimized diagnostic strategies.
+J Am Coll Cardiol. 2006; 47(3):S4-S20.
+                                                                                                                                                       Note: Care should be taken not to kink or bend the shaft upon application or removal of the
+Lori Mosca, Emilia J. Benjamin, Kathy Berra et al. Effectiveness Based Guidelines for the Prevention of Cardiovascular Disease in
+5
+
+Women--2011 Update: A Guideline From the American Heart Association Circulation 2011, 123:1243-1262
+                                                                                                                                                       CLIPIT Coil Clip.
+
+10 INDIVIDUALIZATION OF TREATMENT:                                                                                                              13.3.2 Guidewire Lumen Flush
+The risks and benefits should be carefully considered for each patient before use of the REBEL™                                                 Step	Action
+Stent System. Patient selection factors to be assessed should include a judgment regarding risk                                                 1.		(Over-The-Wire only) Flush the stent delivery system guidewire lumen with normal
+of prolonged antiplatelet therapy. Aspirin should be administered indefinitely. Stenting is generally                                                heparinized saline through the straight arm of the Y-connector manifold.
+avoided in those patients at heightened risk of bleeding (e.g., those patients with recently active
+                                                                                                                                                2.		(Monorail only) Flush the stent delivery system guidewire lumen with normal heparinized
+gastritis or peptic ulcer disease) in whom antiplatelet therapy would be contraindicated.
+                                                                                                                                                     saline using the flushing needle supplied for the Monorail delivery system at the distal end.
+Premorbid conditions that increase the risk of poor initial results or the risks of emergency referral
+                                                                                                                                                3.		Verify that the stent is positioned between the proximal and distal balloon markers. Check
+for bypass surgery (diabetes mellitus, renal failure, and severe obesity) should be reviewed.
+                                                                                                                                                     for bends, kinks, and other damage. Do not use if any defects are noted.
+11 PATIENT COUNSELING INFORMATION:
+                                                                                                                                                       Note: Avoid manipulation of the stent during flushing of the guidewire lumen, as this may
+Physicians should consider the following in counseling patients about this product:
+                                                                                                                                                       disrupt the placement of the stent on the balloon.
+• Discuss the risks associated with stent placement.
+• Discuss the risks/benefits issues for this particular patient.                                                                                13.3.3 Delivery System Preparation
+• Discuss alteration to current lifestyle immediately following the procedure and over the long                                                 Step	Action
+  term.                                                                                                                                         1.		Prepare inflation device/syringe with diluted contrast medium.
+The following patient materials are available for this product:                                                                                 2.		Attach inflation device/syringe to stopcock; attach to inflation port. Do not bend the
+• A Patient Information Guide (included in the package and available on-line) which includes                                                         proximal shaft/hypotube when connecting to inflation device/syringe.
+  both product information and a stent implant card.                                                                                            3.		With tip down, orient stent delivery system vertically.
+
+
+
+                                                                                                                                            5
+
+
+
+
+                                                                                                                                                                                                                                            Black (K) ∆E ≤5.0
+4.    Open stopcock to stent delivery system; pull negative for 15 seconds; release to neutral for         5.		Repeat angiography to assess the stented area. If an adequate expansion has not been
+       contrast fill.                                                                                            obtained, exchange back to the original stent delivery catheter or exchange to another
+5.		Close stopcock to stent delivery system; purge inflation device/ syringe of all air.                        balloon catheter of appropriate balloon diameter to achieve proper stent apposition to the
+                                                                                                                 vessel wall.
+6.		Repeat steps 4 through 6 until all air is expelled. If bubbles persist, do not use product.
+                                                                                                            13.7 Post-Deployment Dilatation of Stented Segments
+7.		If a syringe was used, attach a prepared inflation device to stopcock.
+8.		Open stopcock to stent delivery system.                                                                Precaution: Do not dilate the stent beyond the limits tabulated below.
+9.		Leave inflation device on neutral pressure.
+13.4 Delivery Procedure                                                                                      Nominal Stent Diameter (ID)                       Dilatation Limits (ID)*
+Step	Action                                                                                                 2.25 mm                                           2.75 mm
+1.		Prepare the vascular access site according to standard PTCA practice.
+                                                                                                             2.50 mm – 2.75 mm                                 3.50 mm
+2.		Predilate the lesion/vessel with appropriate diameter balloon.
+3.		Maintain neutral pressure on inflation device attached to stent delivery system.                        3.00 mm – 3.50 mm                                 4.25 mm
+4.		Backload stent delivery system onto proximal end of guidewire while maintaining guidewire               4.00 mm – 4.50 mm                                 5.75 mm
+     position across target lesion.                                                                         *Maximum Stent Inner Diameter
+5.		Fully open rotating hemostatic valve to allow for easy passage of the stent and prevent                All efforts should be taken to assure that the stent is not under-dilated. If the deployed stent size
+     damage to the stent.                                                                                   is still inadequate with respect to vessel diameter, or if full contact with the vessel wall is not
+6.		Carefully advance the stent delivery system into the hub of the guide catheter. When using             achieved, a larger balloon may be used to expand the stent. The stent may be expanded using a
+     a Monorail® stent delivery system be sure to keep the proximal shaft/hypotube straight.                low profile and high pressure balloon catheter. If this is required, the stented segment should be
+     Ensure guide catheter stability before advancing the stent delivery system into the coronary           recrossed carefully with a prolapsed guidewire to avoid dislodging the stent. The balloon should be
+     artery.                                                                                                centered within the stent and should not extend outside of the stented region.
+
+      Note: If unusual resistance is felt before the stent exits the guide catheter, do not force           Note: In line with Section 6.13, Post-Procedure: Care must be exercised when crossing a newly
+      passage. Resistance may indicate a problem, and use of excessive force may result in stent            deployed stent with any wire, catheter or ancillary device to avoid disrupting the stent placement,
+      damage or stent dislodgment from the balloon. Maintain guidewire placement across the                 apposition, and/or geometry.
+      lesion, and remove the stent delivery system and guide catheter as a single unit.
+                                                                                                            13.8 In Vitro Information
+7.		Advance the stent delivery system over the guidewire to target lesion under direct fluoroscopic
+     visualization. Utilize the proximal and distal radiopaque balloon markers as a reference point.        Table 13.1 Typical REBEL Stent System Compliance
+     If the position of the stent is not optimal, it should be carefully repositioned or removed (See          Pressure                                              Stent I.D. (mm)
+     also Precautions – Section 6.11, Stent Delivery System Removal Pre-deployment). The inside
+     edges of the marker bands indicate both the stent edges and balloon shoulders. Expansion of               atm - kPa                    2.25    2.50      2.75       3.00        3.50     4.00          4.50
+     the stent should not be undertaken if the stent is not properly positioned in the target lesion
+                                                                                                               8.0 - 814                    N/A     2.31      2.53       2.78        3.23     3.73          4.18
+     segment of the vessel.
+                                                                                                               9.0 - 910                    2.13    2.38      2.60       2.85        3.32     3.83          4.29
+      Note: If unusual resistance is felt at any time during lesion access before stent
+                                                                                                              10.0 - 1014                   2.19    2.45      2.67       2.93        3.41     3.92          4.39
+      implantation, the stent delivery system and the guide catheter should be removed as a
+      single unit. (See also Precautions – Section 6.11, Stent Delivery System Removal Pre-                   11.0 - 1117      Nominal      2.25    2.51      2.74       3.00        3.49     4.00          4.48
+      deployment). Once the stent delivery system has been removed do not re-use.
+                                                                                                              12.0 - 1213                   2.29    2.57      2.80       3.05        3.55     4.07          4.55
+8.		Sufficiently tighten the rotating hemostatic valve. The stent is now ready to be deployed.               13.0 - 1317                   2.35    2.62      2.86       3.11        3.60     4.14          4.62
+13.5 Deployment Procedure
+                                                                                                              14.0 - 1420                   2.38    2.66      2.90       3.15        3.65     4.19          4.68
+Step	Action
+                                                                                                              15.0 - 1517                   2.42    2.70      2.94       3.18        3.70     4.24          4.73
+1.		Under fluoroscopic visualization, inflate the delivery system expanding the stent to a
+     minimum pressure of 11 atm (1117 kPa). Higher pressure may be necessary to optimize                      16.0 - 1620                   2.45    2.73      2.98       3.22        3.74     4.28          4.77
+     stent apposition to the arterial wall. Accepted practice generally targets an initial
+                                                                                                              17.0 - 1724                   2.48    2.76      3.01       3.24        3.78     4.32          4.82
+     deployment pressure that would achieve a stent inner diameter of about 1.1 times the
+     reference vessel diameter (see Table 13.1). Balloon pressure must not exceed rated burst                 18.0 - 1827       Rated*      2.50    2.79      3.04       3.28        3.81     4.36          4.87
+     pressure of 18 atm (1827 kPa).
+                                                                                                              19.0 - 1924                   2.53    2.82      3.07       3.31        3.85     4.40          4.91
+2.		Maintain inflation pressure for 15-30 seconds for full expansion of the stent.
+3.		Deflate balloon by pulling negative pressure on inflation device until balloon is fully deflated         20.0 - 2027                   2.55    2.84      3.09       3.34        3.89     4.46          4.97
+     (see Table 6.1, Delivery System Deflation Time Specifications).                                          21.0 - 2130                   2.58    2.87      3.12       3.38        3.94     4.53          5.03
+
+
+
+
+                                                                                                                                                                                                                            Boston Scientific (Master Brand DFU Template 8.2677in x 11.6929in A4, 90105918AM) eDFU, MB, Rebel, EN, 90849153-01B
+4.		Confirm stent position and deployment using standard angiographic techniques. For optimal
+                                                                                                             * Rated Burst Pressure. DO NOT EXCEED.
+     results, the entire stenosed arterial segment should be covered by the stent. Fluoroscopic
+     visualization during stent expansion should be used in order to properly judge the
+     optimum expanded stent diameter as compared to the proximal and distal coronary artery                    Pressure                                              Stent O.D. (mm)
+     diameter(s). Optimal expansion requires that the stent be in full contact with the artery
+     wall. Stent wall contact should be verified through routine angiography or intravascular                  atm - kPa                     2.25     2.50      2.75       3.00        3.50      4.00         4.50
+     ultrasound (IVUS).                                                                                         8.0 - 814                    N/A      2.47      2.69       2.94        3.39      3.90         4.35
+5.		If stent sizing/apposition requires optimization, readvance the stent delivery system balloon,
+     or another high-pressure, balloon catheter of the appropriate size, to the stented area using              9.0 - 910                    2.29     2.54      2.76       3.02        3.48      4.00         4.46
+     standard angioplasty techniques.                                                                         10.0 - 1014                    2.35     2.61      2.83       3.09        3.57      4.09         4.57
+6.		Inflate the balloon to the desired pressure while observing under fluoroscopy (refer to
+                                                                                                              11.0 - 1117       Nominal      2.41     2.67      2.90       3.17        3.66      4.18         4.65
+     product labeling and/or Table 13.1 for compliance chart). Deflate the balloon (see Table 6.1,
+     Delivery System Deflation Time Specifications).                                                          12.0 - 1213                    2.46     2.73      2.96       3.22        3.71      4.24         4.72
+7.		If more than one REBEL™ stent is needed to cover the lesion and balloon treated area, it is              13.0 - 1317                    2.51     2.78      3.02       3.27        3.77      4.31         4.80
+     suggested that, to avoid the potential for gap restenosis, the stents be adequately overlapped.
+     To ensure that there are no gaps between stents, the balloon marker bands of the second                  14.0 - 1420                    2.55     2.82      3.06       3.31        3.81      4.37         4.85
+     REBEL stent should be positioned inside of the deployed stent prior to expansion.
+                                                                                                              15.0 - 1517                    2.58     2.86      3.11       3.35        3.86      4.41         4.90
+8.		Reconfirm stent position(s) and angiographic result. Repeat inflations until optimal stent
+     deployment is achieved.                                                                                  16.0 - 1620                    2.62     2.89      3.14       3.38        3.90      4.45         4.95
+13.6 Removal Procedure                                                                                        17.0 - 1724                    2.65     2.92      3.17       3.41        3.94      4.49         4.99
+Step	Action                                                                                                  18.0 - 1827        Rated*      2.67     2.95      3.20       3.44        3.97      4.53         5.04
+1.		Ensure balloon is fully deflated before delivery system withdrawal.
+                                                                                                              19.0 - 1924                    2.69     2.98      3.23       3.47        4.01      4.58         5.09
+2.		Fully open rotating hemostatic valve.
+3.		While maintaining guidewire position and negative pressure on inflation device, withdraw                 20.0 - 2027                    2.72     3.01      3.25       3.51        4.05      4.63         5.15
+     delivery system.                                                                                         21.0 - 2130                    2.74     3.04      3.28       3.54        4.10      4.70         5.21
+4.		Monorail Catheters may be coiled once and secured using the CLIPIT® Coil Clip
+                                                                                                             * Rated Burst Pressure. DO NOT EXCEED.
+     (see Section 13.3.1, Packaging Removal).
+
+
+
+                                                                                                        6
+
+
+
+
+                                                                                                                                                                                                        Black (K) ∆E ≤5.0
+WARRANTY
+Boston Scientific Corporation (BSC) warrants that reasonable care has been used in the design
+and manufacture of this instrument. This warranty is in lieu of and excludes all other warranties
+not expressly set forth herein, whether express or implied by operation of law or otherwise,
+including, but not limited to, any implied warranties of merchantability or fitness for a particular
+purpose. Handling, storage, cleaning and sterilization of this instrument as well as other factors
+relating to the patient, diagnosis, treatment, surgical procedures and other matters beyond BSC’s
+control directly affect the instrument and the results obtained from its use. BSC’s obligation under
+this warranty is limited to the repair or replacement of this instrument and BSC shall not be liable
+for any incidental or consequential loss, damage or expense directly or indirectly arising from the
+use of this instrument. BSC neither assumes, nor authorizes any other person to assume for it, any
+other or additional liability or responsibility in connection with this instrument. BSC assumes no
+liability with respect to instruments reused, reprocessed or resterilized and makes no warranties,
+express or implied, including but not limited to merchantability or fitness for a particular purpose,
+with respect to such instruments.
+
+
+
+
+                                                                                                                                Boston Scientific (Master Brand DFU Template 8.2677in x 11.6929in A4, 90105918AM) eDFU, MB, Rebel, EN, 90849153-01B
+
+
+
+
+                                                                                                        7
+
+
+
+
+                                                                                                            Black (K) ∆E ≤5.0
+                    EU Authorized
+  EC      REP
+                    Representative
+Boston Scientific International S.A.
+55 avenue des Champs Pierreux
+TSA 51101
+92729 NANTERRE CEDEX
+FRANCE
+
+
+
+
+                                                                         Boston Scientific (Master Brand DFU Template 8.2677in x 11.6929in A4, 90105918AM) eDFU, MB, Rebel, EN, 90849153-01B
+           Australian
+ AUS
+           Sponsor Address
+Boston Scientific (Australia) Pty Ltd
+PO Box 332
+BOTANY
+NSW 1455
+Australia
+Free Phone 1800 676 133
+Free Fax 1800 836 666
+
+          Legal
+          Manufacturer
+Boston Scientific Corporation
+One Boston Scientific Place
+Natick, MA 01760-1537
+USA
+USA Customer Service 888-272-1001
+
+         Do not use if package
+         is damaged.
+
+         Recyclable
+         Package
+
+
+
+
+© 2014 Boston Scientific Corporation or its affiliates.
+All rights reserved.
+
+
+
+
+                                                     Black (K) ∆E ≤5.0
+

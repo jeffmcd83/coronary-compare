@@ -1,0 +1,1368 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+
+ I.   GENERAL INFORMATION
+
+Device Generic Name:              Drug Eluting Coronary Stent System
+
+Premarket Approval Application
+
+(PMA) Supplement Number:          P070015/S128
+
+Device Trade Name:                XIENCE V® and XIENCE nano® Everolimus Eluting
+                                  Coronary Stent System
+
+PMA Supplement Number:            P110019/ S075
+
+Device Trade Name:                XIENCE PRIME® Everolimus Eluting Coronary Stent
+                                  System
+
+                                  XIENCE PRIME® LL Everolimus Eluting Coronary Stent
+                                  System
+
+                                  XIENCE Xpedition® Everolimus Eluting Coronary Stent
+                                  System
+
+                                  XIENCE Xpedition® SV Everolimus Eluting Coronary
+                                  Stent System
+
+                                  XIENCE Xpedition® LL Everolimus Eluting Coronary
+                                  Stent System
+
+                                  XIENCE Alpine™ Everolimus Eluting Coronary Stent
+                                  System
+
+Device Procode:                   NIQ
+
+Applicant’s Name and Address:     Abbott Vascular
+                                  3200 Lakeside Drive
+                                  Santa Clara, CA 95054
+
+
+Date of Panel Recommendation:     None
+
+
+Date of FDA Notice of Approval:   September 23, 2015
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 1
+This is a bundled Premarket Approval (PMA) Supplement for P070015 and P110019 for the
+XIENCE Family of Everolimus Eluting Coronary Stent Systems (XIENCE Family of Stents).
+The XIENCE Family of Stents includes the XIENCE V Stent System, approved under P070015
+on July 2, 2008, the XIENCE nano, approved on May 24, 2011 under P070015/ S054, the
+XIENCE PRIME and XIENCE PRIME LL Stent System (XIENCE PRIME Stent System)
+approved on November 1, 2011 under P110019, and XIENCE Xpedition, XIENCE Xpedition
+SV, and XIENCE Xpedition LL (XIENCE Xpedition Stent System) approved on December 21,
+2012 under P110019/S025 and XIENCE Alpine™ (XIENCE Alpine Stent System) approved
+September 3, 2014 under P110019/S070.
+
+The Summary of Safety and Effectiveness Data (SSED) to support the indications is available on
+the CDRH website (http://www.accessdata.fda.gov/cdrh_docs/pdf7/P070015b.pdf and
+http://www.accessdata.fda.gov/cdrh_docs/pdf11/P110019b.pdf) and is incorporated by reference
+herein. This bundled PMA supplement, P070015/S128 and P110019/S075 was submitted to
+request approval for an expanded indication to include patients with diabetes mellitus.
+
+
+ II.   INDICATIONS FOR USE
+
+XIENCE V and XIENCE nano Everolimus Eluting Coronary Stent System
+
+The XIENCE V and XIENCE nano Everolimus Eluting Coronary Stent System is indicated for
+improving coronary luminal diameter in patients, including those with diabetes mellitus, with
+symptomatic heart disease due to de novo native coronary artery lesions (length ≤ 28 mm) with
+reference vessel diameters of 2.25 mm to 4.25 mm. Additionally, the XIENCE V stent system is
+indicated for treating de novo chronic total coronary occlusions.
+
+XIENCE PRIME and XIENCE PRIME LL Everolimus Eluting Coronary Stent System
+
+The XIENCE PRIME and XIENCE PRIME LL Everolimus Eluting Coronary Stent System is
+indicated for improving coronary luminal diameter in patients, including those with diabetes
+mellitus, with symptomatic heart disease due to de novo native coronary artery lesions (length
+≤ 32 mm) with reference vessel diameters of ≥ 2.25 mm to ≤ 4.25 mm. Additionally, the
+XIENCE PRIME stent system is indicated for treating de novo chronic total coronary occlusions.
+
+XIENCE Xpedition, XIENCE Xpedition SV and XIENCE Xpedition LL Everolimus Eluting
+Coronary Stent System
+
+The XIENCE Xpedition, XIENCE Xpedition SV and XIENCE Xpedition LL Everolimus
+Eluting Coronary Stent System is indicated for improving coronary artery luminal diameter in
+patients, including those with diabetes mellitus, with symptomatic heart disease due to de novo
+native coronary artery lesions (length ≤ 32 mm) with reference vessel diameters of ≥ 2.25 mm to
+≤ 4.25 mm. In addition, the XIENCE Xpedition stent system is indicated for treating de novo
+chronic total coronary occlusions.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 2
+XIENCE Alpine Everolimus Eluting Coronary Stent System
+
+The XIENCE Alpine Everolimus Eluting Coronary Stent System is indicated for improving
+coronary artery luminal diameter in patients with symptomatic heart disease, including those
+with diabetes mellitus, due to de novo native coronary artery lesions (length ≤ 32 mm) with
+reference vessel diameters of ≥ 2.25 mm to ≤ 4.25 mm. Additionally, the XIENCE Alpine stent
+system is indicated for treating de novo chronic total coronary occlusions.
+
+
+III.       CONTRAINDICATIONS
+
+The XIENCE Family of Stents is contraindicated for use in patients:
+
+       •   Who cannot receive antiplatelet and / or anticoagulant therapy
+       •   With lesions that prevent complete angioplasty balloon inflation or proper placement of
+           the stent or stent delivery system
+   •       With hypersensitivity or contraindication to everolimus or structurally-related compounds,
+           cobalt, chromium, nickel, tungsten, acrylic polymers, and or fluoropolymers
+
+
+IV.        WARNINGS AND PRECAUTIONS
+
+The warnings and precautions can be found in the XIENCE V, XIENCE PRIME, XIENCE
+Xpedition and the XIENCE Alpine labeling.
+
+
+ V.        DEVICE DESCRIPTION
+
+
+XIENCE Family of Everolimus Eluting Coronary Stent Systems Summary
+
+The XIENCE Family of Everolimus Eluting Coronary Stent Systems (EECSS) is a device /
+drug combination product consisting of a Cobalt Chromium (CoCr) alloy stent coated with a
+formulation containing everolimus, the active ingredient, embedded in a non-erodible
+polymer mounted on a delivery system. The XIENCE V is offered in sizes 2.5 mm to 4.0
+mm diameter and the XIENCE nano is offered in the 2.25 mm diameter. The stent platform
+and delivery system of the XIENCE V and XIENCE nano are identical to the MULTI-LINK
+VISON and MULTI-LINK MINI VISION, respectively. The XIENCE V was approved
+under P070015; and the XIENCE nano Stent System is a line extension to the XIENCE V
+Stent System, which was approved under P070015/S054.
+
+The XIENCE PRIME and XIENCE PRIME LL were approved under P110019 and are available
+in the 2.25 mm to 4.25 mm diameters. The XIENCE PRIME LL is available in longer stent
+lengths compared to XIENCE V, which include 33 mm and 38 mm for the 2.5mm to 4.25 mm
+stents. The stent is coated with a formulation containing everolimus, the active ingredient,
+embedded in a non-erodible polymer, which is identical to the XIENCE V Everolimus Eluting
+Coronary Stent System; however, there are minor differences between the stent designs and
+delivery systems. The XIENCE Xpedition, XIENCE Xpedition LL and XIENCE Xpedition SV
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 3
+and XIENCE Alpine EECSS are line extensions to the XIENCE PRIME Stent System, which
+were approved under P110019/S025 and P110019/S070, respectively, with a modified delivery
+system.
+
+See the Device Component Description sections below for additional information on the
+XIENCE Family of Stents.
+
+XIENCE V and XIENCE nano—Device Component Description
+
+The device component consists of the MULTI-LINK VISION or MULTI-LINK MINI
+VISION stent mounted onto the MULTI-LINK VISION or MULTI-LINK MINI VISION
+stent delivery system (SDS), respectively. The device component characteristics are
+summarized in Table 1.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 4
+Table 1        XIENCE V Stent System Product Description
+                     XIENCE V Rapid-Exchange                 XIENCE V Over-the-Wire
+                     (RX) Stent System                       (OTW) Stent System
+  Available Stent
+     Lengths              8, 12, 15, 18, 23, 28                   8, 12, 15, 18, 23, 28
+  Available Stent
+ Diameters (mm)       2.25*, 2.5, 2.75, 3.0, 3.5, 4.0            2.5, 2.75, 3.0, 3.5, 4.0
+  Stent Material    A medical grade L-605 cobalt chromium (CoCr) alloy MULTI-LINK
+                                VISION or MULTI-LINK MINI VISION stent
+ Drug Component A conformal coating of a non-erodible polymer loaded with 100 μg/cm2 of
+                  everolimus with a maximum nominal drug content of 181 μg on the largest
+                                               stent (4.0 x 28 mm)
+
+ Delivery System
+ Working Length                               143 cm                                            143 cm
+ Delivery System Single access port to inflation lumen. Sidearm adaptor provides access to
+     Design       Guide wire exit notch is located 30 balloon inflation/deflation lumen and
+                   cm from tip. Designed for guide        guide wire lumen. Designed for
+                            wires ≤ 0.014”.                    guide wires ≤ 0.014”.
+
+  Stent Delivery          A compliant, tapered balloon, with two radiopaque markers located on the
+     System                catheter shaft to indicate balloon positioning and expanded stent length.
+     Balloon
+ Balloon Inflation                                 Nominal inflation pressure:
+     Pressure                          8 atm (811 kPa) for 2.25, 2.5 and 2.75 mm diameters;
+                                        9 atm (912 kPa) for 3.0, 3.5, and 4.0 mm diameters
+                                    Rated Burst Pressure (RBP): 16 atm (1621 kPa) for all sizes
+ Guiding Catheter
+      Inner                                                     ≥ 5 F (0.056”)
+    Diameter
+  Catheter Shaft                            2.25 – 3.0        3.5 – 4.0                     2.5 mm 2.75 x 8 - 3.5 x 23 -
+      Outer                                    mm               mm                                  3.5 x 18 4.0 x 28
+                             Distal:          0.032”           0.035”            Distal:    0.032”   0.034”    0.036”
+Diameter (nominal)
+                            Proximal:         0.026”           0.026”           Proximal:   0.042”   0.042”    0.042”
+
+
+   *The 2.25 mm diameter XIENCE V EECSS is only available on the RX platform.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 5
+ XIENCE PRIME and XIENCE PRIME LL —Device Component Description
+
+The XIENCE PRIME and the XIENCE PRIME LL device component characteristics are
+summarized in Table 2 and Table 3.
+
+
+ Table 2          XIENCE PRIME and XIENCE PRIME LL Reference Vessel Diameter and
+                  Stent Length
+                    REFERENCE VESSEL DIAMETER
+                                                                    LESION LENGTH
+                              (RVD)
+                           ≥ 2.25 mm and ≤ 4.25 mm                        ≤ 22 mm
+   XIENCE
+                    Stent Diameter: 2.25, 2.5, 2.75, 3.0, 3.5,   Stent Length: 8, 12, 15, 18,
+   PRIME
+                                    4.0 mm                                   23
+   XIENCE                 ≥ 2.5 mm and ≤ 4.25 mm                   > 22 mm, and ≤ 32 mm
+  PRIME LL          Stent Diameter: 2.5, 2.75, 3.0, 3.5, 4.0     Stent Length: 28, 33 and 38
+                                     mm                                     mm
+
+
+ Table 3           XIENCE PRIME Stent System Product Description
+
+                             XIENCE PRIME Stent System
+                         XIENCE PRIME      XIENCE PRIME LL
+Available Stent
+                          8, 12, 15, 18, 23               28*, 33, 38
+Lengths (mm)
+Available Stent       2.25, 2.5, 2.75, 3.0, 3.5,     2.25**, 2.5, 2.75, 3.0,
+Diameters (mm)                   4.0                        3.5, 4.0
+Stent Material       A medical grade L-605 cobalt chromium CoCr alloy
+                     identical to the material used in the XIENCE V stent
+Drug Component       A conformal coating of a non-erodible polymer
+                     loaded with 100 μg/cm2 of everolimus with a
+                     maximum nominal drug content of 232 μg on the
+                     large stent (4.0 x 38 mm)
+
+Delivery System
+                                              143 cm
+Working Length
+Delivery System      Single access port to inflation lumen; guide wire exit
+Design               notch is located 25.5 cm from tip; designed for guide
+                     wires ≤ 0.014”.
+Stent Delivery       A compliant, tapered balloon, with two radiopaque
+System Balloon       markers located on the catheter shaft to indicate
+                     balloon positioning and expanded stent length
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 6
+                                         XIENCE PRIME Stent System
+                                   XIENCE PRIME            XIENCE PRIME LL
+Balloon Inflation                 Rated Burst Pressure (RBP): 18 atm (1824 kPa)
+Pressure
+                                 Stent Diameter (mm)                  In vitro Stent Nominal
+                                                                          Pressure (atm)
+                                              2.25                                8
+                                               2.5                                8
+                                              2.75                                8
+                                               3.0                               10
+                                               3.5                               10
+                                               4.0                               10
+Guiding Catheter
+                                                          ≥ 5 F (0.056”)
+Inner Diameter
+Catheter Shaft                                Distal:            0.034” (0.86 mm)
+Outer Diameter                                Proximal:          0.031” (0.79 mm)
+
+* The 28 mm length stent was studied in the XIENCE PRIME Core Size
+ Registry. The results of the Core Size Registry are presented in Tables
+ 9.1-2 to 9.1-3.
+**The 2.25 mm diameter stent for XIENCE PRIME LL is only available
+ in the 28 mm stent length.
+
+
+    XIENCE Xpedition—Device Component Description
+
+    The XIENCE Xpedition Family of Stent Systems includes:
+
+         •    The XIENCE Xpedition SV EECSS (stent diameter 2.25, stent lengths 8, 12, 15, 18, 23,
+              28 mm)
+         •    The XIENCE Xpedition EECSS (stent diameters 2.5, 2.75, 3.0, 3.25 1, 3.5, 4.0 mm,
+              stent lengths 8, 12, 15, 18, 23, 28 mm)
+         •    The XIENCE Xpedition LL EECSS (stent diameters 2.5,2.75, 3.0, 3.25, 3.5, 4.0 mm,
+              stent lengths 33, 38 mm)
+
+    The device component characteristics are summarized in Table 4.
+
+
+
+
+1
+    The 3.25 mm stent diameter is only available for the XIENCE Xpedition Stent System and not for the XIENCE PRIME Stent System.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 7
+ Table 4          XIENCE Xpedition, XIENCE Xpedition SV, and XIENCE Xpedition LL
+                  Product Description
+
+                                                XIENCE Xpedition Stent System
+                    XIENCE Xpedition SV         XIENCE Xpedition                 XIENCE Xpedition LL
+Available Stent
+                    8, 12, 15, 18, 23, 28       8, 12, 15, 18, 23, 28            33, 38
+Lengths (mm)
+Available Stent
+                    2.25                        2.5, 2.75, 3.0, 3.25, 3.5, 4.0   2.5, 2.75, 3.0, 3.25, 3.5, 4.0
+Diameters (mm)
+                    A medical grade L-605 cobalt chromium CoCr alloy identical to the material used in the
+Stent Material
+                    XIENCE V and XIENCE PRIME stent
+
+                                                                                                Target
+                                                                                      Surface    Drug
+                           Stent Design     Diameters (mm)         Stent Length (mm)
+                                                                                     Area (cm2) Amount
+                                                                                                 (µg)
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25          8         0.3972      40
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         12         0.6048      60
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         15         0.7431      74
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         18         0.8815      88
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         23         1.0891     109
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         28         1.3658     137
+Drug Component                Small        2.5, 2.75, 3.0, 3.25            33         1.5734     157
+                              Small        2.5, 2.75, 3.0, 3.25            38         1.8501     185
+                             Medium              3.5, 4.0                   8         0.4979      50
+                             Medium              3.5, 4.0                  12         0.7466      75
+                             Medium              3.5, 4.0                  15         0.9124      91
+                             Medium              3.5, 4.0                  18         1.1612     116
+                             Medium              3.5, 4.0                  23         1.4099     141
+                             Medium              3.5, 4.0                  28         1.7415     174
+                             Medium              3.5, 4.0                  33         1.9903     199
+                             Medium              3.5, 4.0                  38         2.3219     232
+Delivery System
+                    145 cm
+Working Length
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 8
+                                                             XIENCE Xpedition Stent System
+                            RX: Single access port to inflation lumen; guide wire exit notch is located 25.5 cm from
+Delivery System             tip; designed for guide wires ≤ 0.014”.
+Design                      OTW: Sidearm adaptor provides access to balloon inflation/deflation lumen and guide wire
+                            lumen; designed for guide wires ≤ 0.014”.
+Stent Delivery              A compliant, tapered balloon, with two radiopaque markers located on the catheter shaft to
+System Balloon              indicate balloon positioning and expanded stent length
+                            Rated Burst Pressure (RBP): 18 atm (1824 kPa)
+
+                                  Stent Diameter (mm)                   In vitro Stent Nominal
+                                                                            Pressure (atm)
+                              2.25                                 10
+Balloon Inflation
+                              2.5                                  10
+Pressure
+                              2.75                                 10
+                              3.0                                  10
+                              3.25                                 10
+                              3.5                                  10
+                              4.0                                  10
+Guiding Catheter            ≥ 5 F (0.056”) for 2.25 – 3.5 mm sizes
+Inner Diameter              ≥ 5 F (0.056”) for 4.0 x 8-33 mm sizes
+                            ≥ 6 F (0.066”) for 4.0 x 38 mm sizes
+Catheter Shaft Outer        Distal:        0.034” (0.86 mm)
+Diameter                    Proximal (RX): 0.028” (0.71 mm)
+                            Proximal (OTW): 0.045” (1.14 mm)
+
+
+
+
+    XIENCE Alpine—Device Component Description
+
+    The XIENCE Alpine Family of Stent Systems includes:
+
+       1. stent diameter 2.25, stent lengths 8, 12, 15, 18, 23, 28 mm
+       2. stent diameters 2.5, 2.75, 3.0, 3.25 2, 3.5, 4.0 mm, stent lengths 8, 12, 15, 18, 23, 28, 33,
+            38 mm
+
+    The device component characteristics are summarized in Table 5.
+
+
+
+
+2
+  The 3.25 mm stent diameter is only available for the XIENCE Xpedition and XIENCE Alpine Stent Systems and not for the XIENCE PRIME
+Stent System.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 9
+ Table 5          XIENCE Alpine Product Description
+
+                                                  XIENCE Alpine Stent System
+Available Stent
+                   8, 12, 15, 18, 23, 28                    8, 12, 15, 18, 23, 28, 33, 38
+Lengths (mm)
+Available Stent
+                   2.25                                     2.5, 2.75, 3.0, 3.25, 3.5, 4.0
+Diameters (mm)
+                   A medical grade L-605 cobalt chromium CoCr alloy identical to the material used in the
+Stent Material
+                   XIENCE V, XIENCE PRIME, XIENCE Xpedition stents
+
+                                                                                               Target
+                                                                                     Surface    Drug
+                          Stent Design     Diameters (mm)         Stent Length (mm)
+                                                                                    Area (cm2) Amount
+                                                                                                (µg)
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25          8         0.3972      40
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         12         0.6048      60
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         15         0.7431      74
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         18         0.8815      88
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         23         1.0891     109
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         28         1.3658     137
+Drug Component               Small        2.5, 2.75, 3.0, 3.25            33         1.5734     157
+                             Small        2.5, 2.75, 3.0, 3.25            38         1.8501     185
+                            Medium              3.5, 4.0                   8         0.4979      50
+                            Medium              3.5, 4.0                  12         0.7466      75
+                            Medium              3.5, 4.0                  15         0.9124      91
+                            Medium              3.5, 4.0                  18         1.1612     116
+                            Medium              3.5, 4.0                  23         1.4099     141
+                            Medium              3.5, 4.0                  28         1.7415     174
+                            Medium              3.5, 4.0                  33         1.9903     199
+                            Medium              3.5, 4.0                  38         2.3219     232
+Delivery System
+                   145 cm
+Working Length
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 10
+                                                    XIENCE Alpine Stent System
+                       RX: Single access port to inflation lumen; guide wire exit notch is located 25.5 cm from
+Delivery System        tip; designed for guide wires ≤ 0.014”.
+Design                 OTW: Sidearm adaptor provides access to balloon inflation/deflation lumen and guide wire
+                       lumen; designed for guide wires ≤ 0.014”.
+Stent Delivery         A compliant, tapered balloon, with two radiopaque markers located on the catheter shaft to
+System Balloon         indicate balloon positioning and expanded stent length
+                       Rated Burst Pressure (RBP): 18 atm (1824 kPa)
+
+                           Stent Diameter (mm)               In vitro Stent Nominal
+                                                                 Pressure (atm)
+                        2.25                            10
+Balloon Inflation
+                        2.5                             10
+Pressure
+                        2.75                            10
+                        3.0                             10
+                        3.25                            10
+                        3.5                             10
+                        4.0                             10
+Guiding Catheter       ≥ 5 F (0.056”) for 2.25 – 3.5 mm sizes
+Inner Diameter         ≥ 5 F (0.056”) for 4.0 x 8-33 mm sizes
+                       ≥ 6 F (0.066”) for 4.0 x 38 mm sizes
+Catheter Shaft Outer   Distal:        0.034” (0.86 mm)
+Diameter               Proximal (RX): 0.029” (0.71 mm)
+                       Proximal (OTW): 0.045” (1.14 mm)
+
+
+
+
+ Drug Component Description for the XIENCE Family of Stents
+
+ The XIENCE Family of Everolimus Eluting Coronary Stents are coated with everolimus
+ (active ingredient), embedded in a non-erodible polymer (inactive ingredient).
+
+
+ Everolimus
+
+ Everolimus is the active pharmaceutical ingredient in the XIENCE stents. It is a novel semi-
+ synthetic macrolide immunosuppressant, synthesized by chemical modification of
+ rapamycin (sirolimus). The everolimus chemical name is 40-O-(hydroxyethyl)-rapamycin
+ and the chemical structure is shown in Figure 1 below.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 11
+ Figure 1         Everolimus Chemical Structure
+
+
+
+
+ Inactive Ingredients – Non-erodible Polymer
+
+
+ The XIENCE V stent contains inactive ingredients including poly n-butyl methacrylate
+ (PBMA), a polymer that adheres to the stent and drug coating, and PVDF-HFP, which is
+ comprised of vinylidene fluoride and hexafluoropropylene monomers as the drug matrix
+ layer containing everolimus. PBMA is a homopolymer with a molecular weight (Mw) of
+ 264,000 to 376,000 dalton. PVDF-HFP is a non-erodible semi-crystalline random
+ copolymer with a molecular weight (Mw) of 254,000 to 293,000 dalton. The drug matrix
+ copolymer is mixed with everolimus (83%/17% w/w polymer/everolimus ratio) and applied
+ to the entire PBMA coated stent surface.
+
+ The drug load is 100 μg/cm2 for all product sizes. No topcoat layer is used. The polymer
+ chemical structures are shown in Figure 2 below.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 12
+ Figure 2           Non-erodible Polymer Chemical Structures
+
+                      PBMA                                     PVDF-HFP
+
+
+
+
+ Product Matrix and Everolimus Content
+
+
+ Table 6            XIENCE V Stent System Product Matrix and Everolimus Content
+
+                                       Nominal
+            Model         Model                        Nominal       Nominal
+                                      Expanded
+           Number        Number                    Unexpanded Stent Everolimus
+                                    Stent Diameter
+            (RX)         (OTW)                       Length (mm)    Content (µg)
+                                         (mm)
+       1009544-08           -            2.25             8               37
+
+       1009539-08      1009545-08        2.5              8               37
+
+       1009540-08      1009546-08        2.75             8               37
+
+       1009541-08      1009547-08        3.0              8               37
+
+       1009542-08      1009548-08        3.5              8               53
+
+       1009543-08      1009549-08        4.0              8               53
+
+       1009544-12           -            2.25             12              56
+
+       1009539-12      1009545-12        2.5              12              56
+
+       1009540-12      1009546-12        2.75             12              56
+
+       1009541-12      1009547-12        3.0              12              56
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 13
+                                    Nominal
+         Model         Model                        Nominal       Nominal
+                                   Expanded
+        Number        Number                    Unexpanded Stent Everolimus
+                                 Stent Diameter
+         (RX)         (OTW)                       Length (mm)    Content (µg)
+                                      (mm)
+       1009542-12   1009548-12         3.5             12              75
+
+       1009543-12   1009549-12         4.0             12              75
+
+       1009544-15        -            2.25             15              75
+
+       1009539-15   1009545-15         2.5             15              75
+
+       1009540-15   1009546-15        2.75             15              75
+
+       1009541-15   1009547-15         3.0             15              75
+
+       1009542-15   1009548-15         3.5             15              98
+
+       1009543-15   1009549-15         4.0             15              98
+
+       1009544-18        -            2.25             18              88
+       1009539-18   1009545-18         2.5             18              88
+
+       1009540-18   1009546-18        2.75             18              88
+
+       1009541-18   1009547-18         3.0             18              88
+       1009542-18   1009548-18         3.5             18             113
+       1009543-18   1009549-18         4.0             18             113
+       1009544-23        -            2.25             23             113
+       1009539-23   1009545-23         2.5             23             113
+       1009540-23   1009546-23        2.75             23             113
+
+       1009541-23   1009547-23         3.0             23             113
+
+       1009542-23   1009548-23         3.5             23             151
+
+       1009543-23   1009549-23         4.0             23             151
+
+       1009544-28        -            2.25             28             132
+
+       1009539-28   1009545-28         2.5             28             132
+
+       1009540-28   1009546-28        2.75             28             132
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 14
+                                     Nominal
+            Model       Model                        Nominal       Nominal
+                                    Expanded
+           Number      Number                    Unexpanded Stent Everolimus
+                                  Stent Diameter
+            (RX)       (OTW)                       Length (mm)    Content (µg)
+                                       (mm)
+       1009541-28    1009547-28        3.0              28             132
+       1009542-28    1009548-28        3.5              28             181
+       1009543-28    1009549-28        4.0              28             181
+
+
+ Table 7          XIENCE PRIME Stent System Product Matrix and Everolimus Content
+
+                      Nominal Expanded           Nominal             Nominal
+  Model Number
+                       Stent Diameter        Unexpanded Stent   Everolimus Content
+     (RX)
+                            (mm)               Length (mm)             (µg)
+   1011730 - 08              2.25                                        40
+   1011731 - 08               2.5                                        40
+   1011732 - 08              2.75                                        40
+                                                    8
+   1011733 - 08               3.0                                        40
+   1011734 - 08               3.5                                        50
+   1011735 - 08               4.0                                        50
+   1011730 - 12              2.25                                        60
+   1011731 - 12               2.5                                        60
+   1011732 - 12              2.75                                        60
+                                                   12
+   1011733 - 12               3.0                                        60
+   1011734 - 12               3.5                                        75
+   1011735 - 12               4.0                                        75
+   1011730 - 15              2.25                                        74
+   1011731 - 15               2.5                                        74
+   1011732 - 15              2.75                                        74
+                                                   15
+   1011733 - 15               3.0                                        74
+   1011734 - 15               3.5                                        91
+   1011735 - 15               4.0                                        91
+   1011730 - 18              2.25                                        88
+   1011731 - 18               2.5                                        88
+   1011732 - 18              2.75                                        88
+                                                   18
+   1011733 - 18               3.0                                        88
+   1011734 - 18               3.5                                       116
+   1011735 - 18               4.0                                       116
+   1011730 - 23              2.25                                       109
+   1011731 - 23               2.5                                       109
+   1011732 - 23              2.75                  23                   109
+   1011733 - 23               3.0                                       109
+   1011734 - 23               3.5                                       141
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 15
+                     Nominal Expanded          Nominal              Nominal
+  Model Number
+                      Stent Diameter       Unexpanded Stent    Everolimus Content
+     (RX)
+                           (mm)              Length (mm)              (µg)
+   1011735 - 23              4.0                                       141
+   1011730- 28              2.25                                       137
+   1011731 - 28              2.5                                       137
+   1011732 - 28             2.75                                       137
+                                                  28
+   1011733 - 28              3.0                                       137
+   1011734 - 28              3.5                                       174
+   1011735 - 28              4.0                                       174
+   1011731 - 33              2.5                                       157
+   1011732 - 33             2.75                                       157
+   1011733 - 33              3.0                  33                   157
+   1011734 - 33              3.5                                       199
+   1011735 - 33              4.0                                       199
+   1011731 - 38              2.5                                       185
+   1011732 - 38             2.75                                       185
+   1011733 - 38              3.0                  38                   185
+   1011734 - 38              3.5                                       232
+   1011735 - 38              4.0                                       232
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 16
+ Table 8         XIENCE Xpedition, XIENCE Xpedition SV and XIENCE Xpedition LL
+                 EECSS Product Matrix and Everolimus Content
+
+  XIENCE           XIENCE            Nominal          Nominal
+                                                                      Nominal
+ Xpedition™       Xpedition™        Expanded        Unexpanded
+                                                                     Everolimus
+   RX US           OTW US         Stent Diameter    Stent Length
+                                                                     Content (µg)
+   Part #           Part #             (mm)            (mm)
+ 1074225-08       1165225-08            2.25              8               40
+ 1074225-12       1165225-12            2.25             12               60
+ 1074225-15       1165225-15            2.25             15               74
+ 1074225-18       1165225-18            2.25             18               88
+ 1074225-23       1165225-23            2.25             23              109
+ 1074225-28       1165225-28            2.25             28              137
+ 1074250-08       1165250-08             2.5              8               40
+ 1074250-12       1165250-12             2.5             12               60
+ 1074250-15       1165250-15             2.5             15               74
+ 1074250-18       1165250-18             2.5             18               88
+ 1074250-23       1165250-23             2.5             23              109
+ 1074250-28       1165250-28             2.5             28              137
+ 1074250-33       1165250-33             2.5             33              157
+ 1074250-38       1165250-38             2.5             38              185
+ 1074275-08       1165275-08            2.75              8               40
+ 1074275-12       1165275-12            2.75             12               60
+ 1074275-15       1165275-15            2.75             15               74
+ 1074275-18       1165275-18            2.75             18               88
+ 1074275-23       1165275-23            2.75             23              109
+ 1074275-28       1165275-28            2.75             28              137
+ 1074275-33       1165275-33            2.75             33              157
+ 1074275-38       1165275-38            2.75             38              185
+ 1074300-08       1165300-08             3.0              8               40
+ 1074300-12       1165300-12             3.0             12               60
+ 1074300-15       1165300-15             3.0             15               74
+ 1074300-18       1165300-18             3.0             18               88
+ 1074300-23       1165300-23             3.0             23              109
+ 1074300-28       1165300-28             3.0             28              137
+ 1074300-33       1165300-33             3.0             33              157
+ 1074300-38       1165300-38             3.0             38              185
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 17
+                   XIENCE
+  XIENCE                             Nominal          Nominal
+                  Xpedition™                                          Nominal
+ Xpedition™                         Expanded        Unexpanded
+                   OTW US                                            Everolimus
+   RX US                          Stent Diameter    Stent Length
+                    Part #                                           Content (µg)
+   Part #                              (mm)            (mm)
+  1074325-08       1165325-08          3.25               8               40
+  1074325-12       1165325-12          3.25              12               60
+  1074325-15       1165325-15          3.25              15               74
+  1074325-18       1165325-18          3.25              18               88
+  1074325-23       1165325-23          3.25              23              109
+  1074325-28       1165325-28          3.25              28              137
+  1074325-33       1165325-33          3.25              33              157
+  1074325-38       1165325-38          3.25              38              185
+  1074350-08       1165350-08           3.5               8               50
+  1074350-12       1165350-12           3.5              12               75
+  1074350-15       1165350-15           3.5              15               91
+  1074350-18       1165350-18           3.5              18              116
+  1074350-23       1165350-23           3.5              23              141
+  1074350-28       1165350-28           3.5              28              174
+  1074350-33       1165350-33           3.5              33              199
+  1074350-38       1165350-38           3.5              38              232
+  1074400-08       1165400-08           4.0               8               50
+  1074400-12       1165400-12           4.0              12               75
+  1074400-15       1165400-15           4.0              15               91
+  1074400-18       1165400-18           4.0              18              116
+  1074400-23       1165400-23           4.0              23              141
+  1074400-28       1165400-28           4.0              28              174
+  1074400-33       1165400-33           4.0              33              199
+  1074400-38       1165400-38           4.0              38              232
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 18
+Table 9        XIENCE Alpine Stent System Product Matrix and Everolimus Content
+
+                                                     Nominal
+                     Model         Nominal                           Nominal
+Model Number                                       Unexpanded
+                    Number      Expanded Stent                      Everolimus
+   (RX)                                            Stent Length
+                    (OTW)       Diameter (mm)                       Content (µg)
+                                                      (mm)
+  1125225-08       1145225-08         2.25                                40
+  1125250-08       1145250-08          2.5                                40
+  1125275-08       1145275-08         2.75                                40
+  1125300-08       1145300-08          3.0              8                 40
+  1125325-08       1145325-08         3.25                                40
+  1125350-08       1145350-08          3.5                                50
+  1125400-08       1145400-08          4.0                                50
+  1125225-12       1145225-12         2.25                                60
+  1125250-12       1145250-12          2.5                                60
+  1125275-12       1145275-12         2.75                                60
+  1125300-12       1145300-12          3.0              12                60
+  1125325-12       1145325-12         3.25                                60
+  1125350-12       1145350-12          3.5                                75
+  1125400-12       1145400-12          4.0                                75
+  1125225-15       1145225-15         2.25                                74
+  1125250-15       1145250-15          2.5                                74
+  1125275-15       1145275-15         2.75                                74
+  1125300-15       1145300-15          3.0              15                74
+  1125325-15       1145325-15         3.25                                74
+  1125350-15       1145350-15          3.5                                91
+  1125400-15       1145400-15          4.0                                91
+  1125225-18       1145225-18         2.25                                88
+  1125250-18       1145250-18          2.5                                88
+  1125275-18       1145275-18         2.75                                88
+  1125300-18       1145300-18          3.0              18                88
+  1125325-18       1145325-18         3.25                                88
+  1125350-18       1145350-18          3.5                               116
+  1125400-18       1145400-18          4.0                               116
+  1125225-23       1145225-23         2.25                               109
+  1125250-23       1145250-23          2.5                               109
+  1125275-23       1145275-23         2.75                               109
+  1125300-23       1145300-23          3.0              23               109
+  1125325-23       1145325-23         3.25                               109
+  1125350-23       1145350-23          3.5                               141
+  1125400-23       1145400-23          4.0                               141
+  1125225-28       1145225-28         2.25                               137
+  1125250-28       1145250-28          2.5                               137
+                                                        28
+  1125275-28       1145275-28         2.75                               137
+  1125300-28       1145300-28          3.0                               137
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 19
+                                                             Nominal
+                       Model            Nominal                                     Nominal
+Model Number                                               Unexpanded
+                      Number         Expanded Stent                                Everolimus
+   (RX)                                                    Stent Length
+                      (OTW)          Diameter (mm)                                 Content (µg)
+                                                              (mm)
+  1125325-28        1145325-28                3.25                                     137
+  1125350-28        1145350-28                 3.5                                     174
+  1125400-28        1145400-28                 4.0                                     174
+  1125250-33        1145250-33                 2.5                                     157
+  1125275-33        1145275-33                2.75                                     157
+  1125300-33        1145300-33                 3.0                                     157
+                                                                  33
+  1125325-33        1145325-33                3.25                                     157
+  1125350-33        1145350-33                 3.5                                     199
+  1125400-33        1145400-33                 4.0                                     199
+  1125250-38        1145250-38                 2.5                                     185
+  1125275-38        1145275-38                2.75                                     185
+  1125300-38        1145300-38                 3.0                                     185
+                                                                  38
+  1125325-38        1145325-38                3.25                                     185
+  1125350-38        1145350-38                 3.5                                     232
+  1125400-38        1145400-38                 4.0                                     232
+
+
+VI.       ALTERNATIVE PRACTICES AND PROCEDURES
+
+There are several other alternatives for the treatment of patients with coronary artery disease
+including exercise, diet, drug therapy, percutaneous coronary interventions (i.e., balloon
+angioplasty, atherectomy, bare metal stents, coated stents, and other drug-eluting stents), and
+coronary artery bypass grafting (CABG) surgery. Each alternative has its own advantages and
+disadvantages. A patient should fully discuss these alternatives with his/her physician to select
+the method that best meets expectations and lifestyle.
+
+
+VII.      MARKETING HISTORY
+
+The XIENCE Family of Stents is commercially available in the following countries:
+
+Sales for all XIENCE versions sold worldwide from launch (9/2006) to present (8/31/2015) is
+cumulatively 10, 741, 988 units.
+
+ AFGHANISTAN        CHILE             GUAM              LATVIA           OMAN            SLOVENIA
+                                   GUATEMALA
+   ALBANIA          CHINA                              LEBANON          PAKISTAN       SOUTH AFRICA
+                                  KOSOVO (DNU)
+   ALGERIA        COLOMBIA          HONDURAS            LIBYA           PANAMA         SOUTH KOREA
+  ARGENTINA       COSTA RICA       HONG KONG         LIECHTENSTEIN     PARAGUAY        SOUTH YEMEN
+       ARUBA        CYPRUS          HUNGARY           LITHUANIA        PHILIPPINES        SPIAN
+  AUSTRALIA     CZECH REPUBLIC       ICELAND         LUXEMBOURG          POLAND         SRI LANKA
+   AUSTRIA         DENMARK            INDIA           MACEDONIA         PORTUGAL         SWEDEN
+  AZERBAIJAN    DOMINICAN REP.      INDONESIA          MALAYSIA        PUERTO RICO     SWITZERLAND
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 20
+    BAHAMAS            ECUADOR            IRAN             MALTA            QATAR          TAIWAN
+                                                                            REP. OF
+    BAHRAIN             EGYPT             IRAQ           MARTINIQUE                       THAILAND
+                                                                           ARMENIA
+                     EL SALVADOR                                                          TRINIDAD,
+  BANGLADESH                                             MAURITIUS      REP. OF YEMEN
+                       ESTONIA          IRELAND                                            TOBAGO
+   BARBADOS            ESTONIA            ITALY            MEXICO          REUNION         TUNISIA
+    BELARUS            FINLAND           ISRAEL           MOROCCO         ROMANIA          TURKEY
+    BELGIUM            FRANCE           JAMAICA            NEPAL         RUSSIAN FED.     UKRAINE
+                                                                           SAMOA,       UNITED ARAB
+    BOLIVIA         FREN.POLYNESIA        JAPAN         NETHERLANDS
+                                                                          AMERICAN       EMIRATES
+                       FRENCH                                                             UNITED
+        BRAZIL                           JORDAN        NEW CALEDONIA     SAN MARINO
+                       GUYANA                                                            KINGDOM
+                                                                                          UNITED
+        BRUNEI         GEORGIA        KAZAKHSTAN        NEW ZEALAND      SAUDI ARABIA
+                                                                                          STATES
+   BULGARIA           GERMANY            KOSOVO          NICARAGUA          SERBIA        URUGUAY
+   CAMBODIA            GREECE         KOSOVO (DNU)     NORTH MARIANA      SINGAPORE      US VIRGIN IS.
+    CANADA           GUADELOUPE          KUWAIT           NORWAY          SLOVAKIA       UZBEKISTAN
+   VENEZUELA           VIETNAM
+
+
+
+
+VIII.        POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+  Below is a list of the potential adverse effects (e.g., complications) associated with the use of
+  the XIENCE Family of Everolimus Eluting Coronary Stents.
+
+  Adverse events (in alphabetical order) which may be associated with percutaneous coronary
+  and treatment procedures including coronary stent use in native coronary arteries include, but
+  are not limited to:
+
+         •   Abrupt closure
+         •   Access site hematoma or hemorrhage
+         •   Acute myocardial infarction
+         •   Allergic reaction or hypersensitivity to contrast agent or cobalt, chromium, nickel,
+             tungsten, acrylic and fluoropolymers; and drug reactions to antiplatelet drugs or contrast
+             agent
+         •   Aneurysm
+         •   Arterial perforation and injury to the coronary artery
+         •   Arterial rupture
+         •   Arteriovenous fistula
+         •   Arrhythmias, atrial and ventricular
+         •   Bleeding complications, which may require transfusion
+         •   Cardiac tamponade
+         •   Coronary artery spasm
+         •   Coronary or stent embolism
+         •   Coronary or stent thrombosis
+         •   Death
+         •   Dissection of the coronary artery
+
+
+
+ PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 21
+    •   Distal emboli (air, tissue or thrombotic)
+    •   Emergent or non-emergent surgery
+    •   Fever
+    •   Hypotension and/or hypertension
+    •   Infection and pain at insertion site
+    •   Injury to the coronary artery
+    •   Ischemia (myocardial)
+    •   Myocardial infarction (MI)
+    •   Nausea and vomiting
+    •   Palpitations
+    •   Peripheral ischemia (due to vascular injury)
+    •   Pseudoaneurysm
+    •   Renal failure
+    •   Restenosis of the stented segment of the artery
+    •   Shock/pulmonary edema
+    •   Stroke/cerebrovascular accident (CVA)
+    •   Total occlusion of coronary artery
+    •   Unstable or stable angina pectoris
+    •   Vascular complications including at the entry site which may require vessel repair
+    •   Vessel dissection
+
+ Zortress®, the oral formulation of everolimus developed by Novartis Pharmaceuticals
+ Corporation, has been evaluated in clinical trials and is approved in the United States for the
+ prevention of organ rejection in adult kidney transplant recipients at the dose of 1.5 mg/day.
+
+ Outside the U.S., Zortress is sold under the brand name, Certican®, in more than 70 countries.
+ Everolimus is also approved in the United States under the name of Afinitor® for patients with
+ advanced renal cell carcinoma (cancer), after failure of treatment with sunitinib or sorafenib, at
+ doses of 5 to 20 mg/day when taken by mouth. The following list includes the known risks of
+ everolimus at the oral doses listed above:
+
+    •   Abdominal pain (including upper abdominal pain)
+    •   Anemia
+    •   Angioedema
+    •   Anorexia
+    •   Asthenia
+    •   Constipation
+    •   Cough
+    •   Delayed wound healing/fluid accumulation
+    •   Diarrhea
+    •   Dyslipidemia (including hyperlipidemia and hypercholesterolemia)
+    •   Dysgeusia
+    •   Dyspepsia
+    •   Dyspnea
+    •   Dysuria
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 22
+    •   Dry skin
+    •   Edema (peripheral)
+    •   Epistaxis
+    •   Fatigue
+    •   Headache
+    •   Hematuria
+    •   Hyperglycemia (may include new onset of diabetes)
+    •   Hyperkalemia
+    •   Hyperlipidemia
+    •   Hypertension
+    •   Hypokalemia
+    •   Hypomagnesemia
+    •   Hypophosphatemia
+    •   Increased serum creatinine
+    •   Infections and serious infections: bacterial, viral, fungal, and protozoal infections (may
+        include herpes virus infection, polyoma virus infection which may be associated with
+        BK virus associated nephropathy, and/or other opportunistic infections)
+    •   Insomnia
+    •   Interaction with strong inhibitors and inducers of CYP3A4 or PgP
+    •   Leukopenia
+    •   Lymphoma and other malignancies (including skin cancer)
+    •   Male infertility (azospermia and/or oligospermia)
+    •   Mucosal inflammation (including oral ulceration and oral mucositis)
+    •   Nausea
+    •   Neutropenia
+    •   Non-infectious pneumonitis
+    •   Pain: extremity, incision site and procedural, back, chest, musculoskeletal
+    •   Proteinuria
+    •   Pruritus
+    •   Pyrexia
+    •   Rash
+    •   Stomatitis
+    •   Thrombocytopenia
+    •   Thrombotic microangiopathy (TMA)/Thrombotic thrombocytopenic purpura (TTP)/
+        Hemolytic uremic syndrome (HUS)
+    •   Tremor
+    •   Upper respiratory tract infection
+    •   Urinary tract infection
+    •   Vomiting
+
+ Live vaccines should be avoided and close contact with those that have had live vaccines
+ should be avoided. Fetal harm can occur when administered to a pregnant woman. There may
+ be other potential adverse events that are unforeseen at this time.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 23
+IX.       SUMMARY OF PRECLINICAL STUDIES
+
+ A series of non-clinical laboratory studies related to the XIENCE Family of Stents were
+ performed and the pertinent data is being leveraged from the previously approved PMAs
+ P070015 and P110019.
+
+
+ X.       SUMMARY OF PRIMARY CLINICAL STUDY
+
+ The applicant performed a prospective analysis to establish a reasonable assurance of safety
+ and effectiveness of percutaneous coronary intervention with the XIENCE Family of Stents for
+ patients with diabetes mellitus in the US. Data from this analysis were the basis for the PMA
+ approval decision. A summary of the clinical study is presented below.
+
+ A. Study Design
+
+ A prospective analysis was designed to evaluate the safety and effectiveness of the XIENCE
+ Family of Stents for patients with diabetes mellitus using one-year clinical data of diabetic
+ patients from four AV-sponsored XIENCE stent clinical studies [SPIRIT IV (IDE G050050),
+ SPIRIT PRIME (IDE G090068), XIENCE V USA first enrolment phase of 5,000 patients (IDE
+ G050050), and XIENCE V USA second enrollment phase of 3,000 patients (IDE G050050)]
+ and two external registry databases [Cleveland Clinic (CC) and the Wake Forest Baptist
+ Medical Center (WFBMC)]. The two external databases are real-world observational registries,
+ which are part of the National Cardiovascular Data Registry (NCDR) CathPCI registry.
+
+ A Bayesian hierarchical model was utilized to analyze the primary endpoint of target vessel
+ failure (TVF) at 12 months, defined as a composite of cardiac death, target-vessel myocardial
+ infarction (TVMI), or ischemia driven target vessel revascularization (ID-TVR). The TVF rate
+ was tested against a prespecified performance goal (PG) of 14.8% (expected rate 8.6% plus a
+ delta of 6.2%).
+
+ An “on-label” diabetic patients (including those who are treated with XIENCE 33 or 38 mm
+ stent) from each trial/registry database were included in the analysis. Patients were considered
+ as “on-label” diabetic if they had diabetes mellitus at baseline, had at least one XIENCE stent
+ implanted during the index procedure, and satisfied the following criteria:
+      •    Lesions/vessels which were treated during the index procedure:
+            o Only de novo lesion
+            o No chronic total occlusion lesion
+            o No vessel thrombosis
+            o No graft lesion
+            o No bifurcation lesion
+            o No left main lesion
+            o At most two vessels treated, one lesion treatment per vessel
+            o Reference vessel diameter between 2.25 and 4.25 mm (based on quantitative
+                coronary angiography, visual assessment, or final balloon size pre-stent
+                implantation)
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 24
+          o Lesion length <32 mm (visual assessment)
+          o If treated with a 33 or 38 mm XIENCE stent, only one 33 or 38 mm XIENCE
+               stent treatment is allowed (overlapping with other length XIENCE stent is
+               allowed)
+     •   No acute myocardial infarction
+     •   No renal insufficiency
+     •   No staged procedure
+     •   Left ventricular ejection fraction >30%
+
+ The statistical hypothesis was as follows:
+
+                             H0: TVF ≥14.8% vs. Ha: TVF <14.8%.
+
+ The analysis was designed to support a claim that the TVF rate at 12 months for the XIENCE
+ stent in on-label diabetic patients (including patients treated with a single 33 or 38 mm
+ XIENCE stent) meets a PG of 14.8%. The study was considered to be successful if the
+ posterior probability of a TVF rate <14.8% was greater than 0.975.
+
+ The results from the four AV-sponsored trial databases (SPIRIT IV, SPIRIT PRIME, XIENCE
+ V USA first enrollment phase, and XIENCE V USA second enrollment phase) were considered
+ as prior information. The two external XIENCE databases from CC and WFBMC were pooled
+ as current data and served as the basis for statistical inference.
+
+ B. Number of Patients included in the PMA Cohort
+
+ There were 1,239 diabetic XIENCE patients included in this analysis: 451 from SPIRIT IV,
+ 121 from SPIRIT PRIME, 185 from XIENCE V USA first enrollment phase, 192 from
+ XIENCE V USA second enrollment phase, and 290 from pooled external databases (156 from
+ CC and 134 from WFBMC, respectively).
+
+Study Population Demographics and Baseline Parameters
+
+The mean age of the diabetic population was 63 years from the pooled historical AV trials
+(SPIRIT IV, SPIRIT PRIME, XIENCE V USA first enrollment phase and second enrollment
+phase) and 65 years from the pooled two external databases (Wake Forest and Cleveland Clinic).
+There were 62.8% males from the pooled AV trials and 64.1% from the pooled external
+databases. Insulin treated diabetic patients comprised of 25.9% and 35.5% of the overall diabetic
+analysis population from the pooled AV trials and pooled external databases, respectively. A
+total of 26.6% of patients presented with unstable angina from the pooled AV trials and 57.6%
+from the pooled external databases. There were 23.8% and 35.9% patients who had prior MI,
+34.2% and 44.8% who had prior PCI, and 10.5% and 24.5% who had prior CABG from the
+pooled AV trials and pooled external databases, respectively. The mean lesion length was 13.5
+mm for the pooled AV trials, and 16.3 mm for the pooled external databases. There were 12.0%
+type C lesions in the pooled AV trials and 25.5% in the pooled external databases. There were
+2.6% (32/1239) patients treated with 33 or 38 mm stents in this pooled dataset (2.5% from the
+pooled AV trials, and 2.8% from the pooled external databases). Compared to the pooled AV
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 25
+trials, patient and lesion characteristics in the two external databases were generally more
+complex, likely due to their non-trial real-world settings.
+
+  C. Primary Endpoint Results
+
+  The primary endpoint of 1-year TVF rate was 8.04% based on the Bayesian binomial-normal
+  hierarchical model where prior data from AV historical trials were taken into consideration.
+  The 95% credible interval of TVF was between 5.23% and 11.52%. The posterior probability
+  of a 1-year TVF rate <14.8% was >0.999, which exceeds the pre-specified success criteria
+  (>0.975). Therefore, the analysis has met its pre-specified success criteria for the primary
+  endpoint of 1-year TVF.
+
+Table 11               Bayesian Analysis for the Primary Endpoint
+
+                                               TVF Rate                                          Bayesian Posterior Probability
+   Primary Endpoint
+                                    [95% Central Posterior Interval]*                                   (TVF < 14.8%)
+
+
+      1-year TVF                       8.04% [5.23%, 11.52%]                                                  > 0.999
+* The posterior mean is the Bayesian posterior average; the 95% central posterior interval is the symmetric 95% Bayesian credible
+ interval, similar to the 95% confidence interval.
+   Notes:
+     • The 1-year window is through 393 days (365 + 28 days).
+     • TVF is defined as hierarchical composite of cardiac death, target vessel MI, and ischemia-driven TVR. For the primary composite
+       endpoint of TVF, an adjustment factor of 0.826 was applied for Cleveland Clinic to calculate the TVF rate based on the composite rate of all
+       death/all MI/all TVR as the specifics of these events were not available from the Cleveland Clinic database.
+
+
+  The 1-year clinical outcomes of the XIENCE diabetic population from each of the AV trials
+  (SPIRIT IV, SPIRIT PRIME and XIENCE V USA) and the pooled two external databases are
+  shown in Table 11.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 26
+Table 11            One- Year Clinical Outcomes of the XIENCE Diabetic Population
+                           SPIRIT IV          SPIRIT PRIME             XV USA 5K            XV USA 3K             Pooled External
+                            (N=451)              (N=121)                (N=185)              (N=192)                 (N=290)
+                             7.9%                  11.8%                  7.3%                 3.6%                     8.0%
+ TVF
+                           (34/433)              (14/119)               (13/178)              (6/169)                 (21/261)
+                             5.5%                  5.9%                   6.7%                 2.4%                     2.4%
+ TLF
+                           (24/433)               (7/119)               (12/178)              (4/169)                  (3/126)
+ Cardiac death or            3.0%                  2.5%                   3.4%                 0.6%                     0.8%
+ TVMI                      (13/433)               (3/119)                (6/178)              (1/169)                  (1/126)
+                             5.5%                  9.2%                   5.1%                 3.0%                     6.3%
+ ID-TVR
+                           (24/433)              (11/119)                (9/178)              (5/169)                  (8/126)
+                             3.2%                  3.4%                   3.9%                 1.8%                     2.4%
+ ID-TLR
+                           (14/433)               (4/119)                (7/178)              (3/169)                  (3/126)
+                             1.4%                  0.0%                   2.2%                 1.2%                     3.1%
+ Death
+                            (6/433)               (0/119)                (4/178)              (2/169)                  (8/261)
+                             0.9%                  0.0%                   1.1%                 0.6%                     0.0%
+ Cardiac death
+                            (4/433)               (0/119)                (2/178)              (1/169)                  (0/126)
+                             2.3%                  2.5%                   2.2%                 0.0%                     0.8%
+ TVMI
+                           (10/433)               (3/119)                (4/178)              (0/169)                  (1/126)
+ ST                          0.9%                  0.0%                   0.0%                 0.6%                     0.8%
+ (ARC def/prob)             (4/431)               (0/119)                (0/175)              (1/169)                  (2/261)
+  Notes:
+    • Numbers presented in this table are % (n/N).
+    • The 1-year window is through 393 days (365 + 28 days).
+    • XV USA 5K refers to the first enrollment phase of 5,000 patients in the XIENCE V USA study; XV USA 3K refers to the second
+      enrollment phase of 3,000 patients in the XIENCE V USA study; pooled external refers to the pooled analysis of the two external
+      databases (Cleveland Clinic and Wake Forest).
+    • TVF is defined as hierarchical composite of cardiac death, target vessel MI, and ischemia-driven TVR; TLF is defined as hierarchical
+      composite of cardiac death, target vessel MI, and ischemia-driven TLR. ID-TLR= ischemia driven target lesion revascularization; ID-
+      TVR=ischemia driven target vessel revascularization; TVMI=target vessel myocardial infarction; ST (ARC def/prob) = definite or
+      probable stent thrombosis defined per the ARC definition.
+    • MI from the historical AV trials was defined per protocol and was categorized as Q-wave (development of new, pathological Q waves on
+      the ECG) or non-Q-wave (elevation of CK levels to greater than two times the upper limit of normal and elevated CK-MB in the absence
+      of new pathological Q waves). For the two external databases, MI was defined based on Universal MI definition per the National
+      Cardiovascular Data Registry (NCDR) requirement.
+    • For the primary composite endpoint of TVF, an adjustment factor of 0.826 was applied to one of the two external databases in order to
+      calculate the TVF rate based on the composite rate of all death/all MI/all TVR, as the specifics of these events were not available from
+      that database.
+    • For other endpoints (TLF, cardiac death or TVMI, ID-TLR, ID-TVR, cardiac death and TVMI), only one of the external databases was
+      included in the analysis, as the specific event information was not available in the other external database.
+
+
+The results of this analysis support the indication for use of the XIENCE Family of Stents in
+patients with diabetes mellitus.
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 27
+XI.    PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+
+ In accordance with the provisions of section 515(c)(2) of the act as amended by the Safe
+ Medical Devices Act of 1990, this PMA was not referred to the Circulatory System Devices
+ Panel, an FDA advisory committee, for review and recommendation because the information in
+ the PMA substantially duplicates information previously reviewed by this panel.
+
+
+
+XII.   CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+
+ A. Safety and Effectiveness Conclusions
+
+ With regard to safety and effectiveness, the primary endpoint of target vessel failure (which
+ consists of cardiac death, target vessel MI, and ischemia driven target vessel revascularization) is
+ a composite of safety and effectiveness.
+
+ In the diabetic indication analysis presented herein, the posterior mean for the 1-year primary
+ endpoint TVF was 8.04%. The 95% central posterior interval of TVF was between 5.23% and
+ 11.52%. The posterior probability of a TVF rate <14.8% is > 0.999, which exceeds the pre-
+ specified success criteria (>0.975). Therefore, the analysis has met its pre-specified success
+ criterion for the primary endpoint of 1-year TVF. These 1-year clinical data from the internal
+ AV trials and external databases support the safety and effectiveness of the XIENCE Family
+ Stents in the treatment of diabetic patients with coronary artery disease.
+
+
+ B.    Benefit-Risk Conclusions
+
+ The probable benefits of the device are also based on the data analysis conducted to support
+ PMA approval as described above.
+
+ Percutaneous revascularization with coronary stent placement has been widely used as an
+ alternative to medical or surgical treatment in selected patients with symptomatic coronary
+ artery disease. The major limitations of PTCA (including but not limited to acute closure,
+ intimal dissection, and restenosis) are overcome to a significant extent with coronary stents.
+ The XIENCE Family of Stents is designed to improve luminal diameter and maintain arterial
+ patency. Available clinical study data support acceptable event rates in diabetic patients treated
+ with everolimus-eluting stents (EES). Diabetic patients benefit from treatment with EES
+ because the use of bare metal stents is associated with the high rates of restenosis and target
+ lesion revascularization.
+
+ Additional factors to be considered in determining probable risks associated with using this
+ device are those associated with percutaneous coronary diagnostic procedures (including
+
+
+
+
+PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                  Page 28
+  angiography and IVUS) and treatment procedures. These risks are discussed in detail in Section
+  VIII, “POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH” of this SSED.
+
+  XIENCE stent treatment in diabetic patients demonstrated acceptable rates of TVF, the
+  individual components of TVF (cardiac death, MI, and target lesion revascularization) and stent
+  thrombosis.
+
+  In conclusion, based on the 1-year data, the probable benefits of the devices in the XIENCE
+  Family of Stents in the treatment of coronary artery disease in diabetic patients outweigh the
+  probable risks.
+
+  C.    Overall Conclusions
+
+  The data in this application support the reasonable assurance of safety and effectiveness of this
+  device when used in accordance with the indications for use.
+
+  The results of the prospective analysis of a diabetic population from four AV historical trials
+  (SPIRIT IV, SPIRIT PRIME, XIENCE V USA first enrollment phase, XIENCE V USA second
+  enrollment phase) and two external registry databases (CC and WFBMC) met the pre-specified
+  success criteria based on a Bayesian analyses. The posterior mean for the primary endpoint of
+  1-year TVF rate was 8.04%, with 95% credible interval between 5.23% and 11.52%. The
+  posterior probability of a TVF rate <14.8% is > 0.999, which exceeds the pre-specified success
+  criteria (>0.975). These 1-year clinical data from internal AV trials and external databases
+  support the safety and effectiveness of the XIENCE Family of Stents in the treatment of
+  diabetic patients with coronary artery disease.
+
+
+XIII.   CDRH DECISION
+
+        CDRH issued an approval order on September 23, 2015. There were no conditions of
+        approval cited in the approval order.
+
+        The applicant’s manufacturing facilities have been inspected and found to be in
+        compliance with the device Quality System (QS) regulation (21 CFR 820).
+
+
+
+
+ PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 29
+XIV.    APPROVAL SPECIFICATIONS
+
+
+  Directions for use: See device labeling.
+
+  Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+  Precautions, and Adverse Events in the device labeling.
+
+  Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+ PMA P070015/ S128 and P110019/S075: FDA Summary of Safety and Effectiveness Data
+                                   Page 30
+

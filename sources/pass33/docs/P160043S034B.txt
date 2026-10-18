@@ -1,0 +1,1552 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I.     GENERAL INFORMATION
+
+       Device Generic Name:             Drug-Eluting Coronary Stent System
+
+       Device Trade Name:               Resolute Onyx™ Zotarolimus-Eluting Coronary Stent
+                                        System
+
+       Device Procode:                  NIQ
+
+       Applicant’s Name and Address: Medtronic Vascular
+                                     3576 Unocal Place
+                                     Santa Rosa, CA 95403
+
+       Date(s) of Panel Recommendation: None
+
+       Premarket Approval Application (PMA) Number: P160043/S034
+
+       Date of FDA Notice of Approval: September 22, 2020
+
+       The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System (Resolute Onyx) PMA
+       (P160043) was previously approved on April 28, 2017 and is indicated for improving
+       coronary luminal diameters in patients, including those with diabetes mellitus, with
+       symptomatic ischemic heart disease due to de novo lesions of length ≤ 35 mm in native
+       coronary arteries with reference vessel diameters of 2.0 mm to 5.0 mm. In addition, the
+       Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is indicated for treating de
+       novo chronic total occlusions. The SSEDs to support these indications are available on the
+       following CDRH websites and are incorporated into the current SSED by reference here.
+
+         P160043:
+          https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043
+
+         P160043/S001:
+          https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043S00
+          1
+         P160043/S012:
+          https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043S
+          012
+
+        The current supplement was submitted to expand the indication for the Resolute Onyx™
+        Zotarolimus-Eluting Coronary Stent System to include patients at high bleeding risk.
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                          Page 1
+II.    INDICATIONS FOR USE
+       The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is indicated for
+       improving coronary luminal diameters in patients, including those with diabetes mellitus
+       or high bleeding risk, with symptomatic ischemic heart disease due to de novo lesions of
+       length ≤ 35 mm in native coronary arteries with reference vessel diameters of 2.0 mm to
+       5.0 mm. In addition, the Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is
+       indicated for treating de novo chronic total occlusions.
+
+III.   CONTRAINDICATIONS
+
+       The Resolute Onyx™ Zotarolimus-Eluting Coronary Stent System is contraindicated for
+       use in:
+              •   Patients with known hypersensitivity or allergies to aspirin, heparin,
+                  bivalirudin, clopidogrel, prasugrel, ticagrelor, ticlopidine, drugs such as
+                  zotarolimus, tacrolimus, sirolimus, everolimus, or similar drugs or any other
+                  analogue or derivative.
+              •   Patients with a known hypersensitivity to the cobalt-based alloy (cobalt,
+                  nickel, chromium, and molybdenum) or platinum-iridium alloy.
+              •   Patients with a known hypersensitivity to the BioLinx® polymer or
+                  its individual components
+       Coronary artery stenting is contraindicated for use in:
+              •   Patients in whom anti-platelet and/or anticoagulation therapy is
+                  contraindicated.
+              •   Patients who are judged to have a lesion that prevents complete inflation of an
+                  angioplasty balloon or proper placement of the stent or stent delivery system.
+
+IV.    WARNINGS AND PRECAUTIONS
+
+       The warnings and precautions can be found in the Resolute Onyx labeling.
+
+V.     DEVICE DESCRIPTION
+
+       The Resolute Onyx is a device/drug combination product comprised of the following
+       device components:
+              •   A Resolute Onyx coronary stent and delivery system. The delivery system is
+                  available in a rapid exchange (RX) and an over-the-wire (OTW)
+                  configuration.
+              •   A drug/polymer coating component, which consists of a formulation of
+                  zotarolimus contained in a BioLinx® polymer.
+
+       The characteristics of Resolute Onyx are described in Table 1.
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                           Page 2
+                  Table 1: Device Component Description and Nominal Dimensions
+                               Stent Design 1         Stent Design         Stent Design        Stent Design 4
+                               (Small Vessel)          2 (Medium           3 (Large            (Extra Large)
+                                                         Vessel)           Vessel)
+Available Stent            2.0, 2.25, 2.5           2.75, 3.0            3.5, 4.0             (RX Only) – 4.5, 5.0
+Diameters (mm)
+
+                           8, 12, 15, 18, 22, 26,
+Available Stent Lengths    30, 34*, 38*                                                        (RX Only) – 12, 15,
+                                                    8, 12, 15, 18, 22,   8, 12, 15, 18, 22,
+                                                                                              18, 22, 26, 30
+(mm)                                                26, 30, 34, 38       26, 30, 34, 38
+                           * 34, 38 mm lengths
+                           not available in 2.0
+
+Stent Material and          A continuous sinusoid pattern stent manufactured from a composite metal material,
+                            consisting of a cobalt-based alloy shell conforming to ASTM F562 and a platinum-
+Geometry
+                            iridium alloy core conforming to ASTM B684.
+                            A coating of polymers loaded with zotarolimus in a formulation applied to the entire
+                            surface of the stent at a dose of approximately 1.6 μg/mm2 which results in a
+Drug Component
+                            maximum nominal drug content of 317 μg on the stent with the largest surface area
+                            (4.0 x 38 mm).
+
+Delivery System             140 cm
+Working Length
+
+                            Single access port to the inflation lumen. A guidewire exit port is located
+                     RX     approximately 25 cm from the tip. Designed for guidewire less than or equal to 0.014
+Delivery
+                            inch (0.36 mm).
+System Luer
+Adapter Ports               Y-Connector with side arm for access to balloon inflation/deflation lumen. Straight arm
+                     OTW    is continuous with shaft inner lumen designed for guidewire less than or equal to
+                            0.014 inch (0.36 mm).
+
+                            Single-layer Pebax balloon, wrapped over an inner member tubing with 2 radiopaque
+Stent Delivery Balloon
+                            marker bands to locate the stent edges.
+
+                            Nominal Inflation Pressure: 12 ATM (1216 kPa)
+Balloon Inflation
+                            Rated Burst Pressure: 2.0-4.0mm = 18 ATM (1824 kPa), RX only: 4.5-5.0mm = 16
+Pressure
+                            ATM (1621kPa)
+
+Minimum Guide               ≥5 F (1.42 mm, 0.056 in)
+Catheter Inner Diameter
+
+                            Proximal Shaft OD, 2.0-5.0mm: 2.1 F (0.69 mm)
+                     RX
+Catheter Shaft              Distal Shaft OD, 2.0-4.0mm: 2.7 F (0.91 mm)
+Outer Diameter
+                            Distal Shaft OD, 4.5 and 5.0mm: 3.2 F (1.07 mm)
+
+
+                     OTW    Proximal Shaft OD: 3.4 F (1.12 mm) Distal Shaft OD: 2.7 F (0.91 mm)
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                             Page 3
+       The shelf life for the Resolute Onyx is 24 months.
+
+       A. Device Component Description
+          The Resolute Onyx stent system consists of a balloon-expandable, intracoronary,
+          drug-eluting stent (DES) premounted on a stent delivery system (RX or OTW). The
+          Resolute Onyx stent is manufactured from a composite material of cobalt alloy and
+          platinum-iridium alloy and is formed from a single wire bent into a continuous
+          sinusoid pattern and then laser fused back onto itself. The Resolute Onyx stent is
+          coated with a Parylene C primer, a Biolinx™ polymer, and the active pharmaceutical
+          ingredient (API), zotarolimus, with a nominal drug dose density of approximately 1.6
+          μg/mm2.
+
+           Resolute Onyx is available in multiple lengths and diameters. The delivery systems
+           have two radiopaque markers to aid in the placement of the stent during
+           fluoroscopy and is compatible with 0.014-inch (0.36-mm) guidewires and 1.42-mm
+           (5-Fr/0.056-in) minimum inner diameter guide catheters. The stent is crimped on
+           various sizes of delivery catheter balloons, which range from 2.0 mm to
+           5.0 mm. See Table 1, above, for full list of diameter ranges available on each
+           delivery system (RX and OTW).
+
+       B. Drug Component Description
+          The drug coating for Resolute Onyx consists of the drug zotarolimus (the active
+          ingredient) and the BioLinx® polymer system (the inactive ingredient).
+          1. Active Ingredient: Zotarolimus
+
+              The active pharmaceutical ingredient in the Resolute Onyx stent is zotarolimus.
+              It is a tetrazole-containing macrocyclic immunosuppressant.
+
+              The chemical name of zotarolimus is: [3S-[3R*[S*(1R*,3S*,4R*)],6S*,
+              7E,9S*,10S*,12S*,14R*,15E,17E,19E, 21R*,23R*, 26S*,27S*,34aR*]]-
+              9,10,12,13,14,21,22,23,24,25,26,27,32,33,34,34a-hexadecahydro-9,27-dihydroxy-
+              3-[2-[3-methoxy-4-(1H-tetrazoyl-1-yl)cyclohexyl]-1-methylethyl]-10,21-
+              dimethoxy- 6,8,12,14,20,26-hexamethyl-23,27-epoxy-3H-pyrido[2,1-c]
+              [1,4]oxaazacyclohentriacontine-1,5,11,28,29(4H,6H,31H)-pentone.
+
+              The chemical structure of zotarolimus is shown in Figure 1.
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                          Page 4
+                        Figure 1: Chemical Structure of Zotarolimus
+
+
+              Zotarolimus has extremely low water solubility and is a lipophilic compound that
+              is freely soluble in Propylene glycol, Acetone, Toluene, Acetonitrile, Ethanol,
+              Benzyl alcohol and DMSO. The molecular formula of zotarolimus is
+              C52H79N5O12 and its molecular weight is 966.2.
+              Zotarolimus does not have any ionizable group(s) in the physiological pH range;
+              therefore, its solubility is expected to be unaltered in this range.
+
+          2. Inactive Ingredient
+              BioLinx® Polymer
+              The Resolute Onyx stent is covered with a coating that consists of a blend of the
+              drug zotarolimus and the BioLinx® polymer system. BioLinx® is a blend of the
+              Medtronic proprietary components of C10 polymer, C19 polymer, and polyvinyl
+              pyrrolidone (PVP).
+              The structural formula of the BioLinx® polymer subunits are shown in Figure 2.
+
+
+
+
+               Figure 2: Chemical Structure of BioLinx® Polymer Sub-units
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                             Page 5
+        Table 2: Resolute Onyx Product Matrix and Nominal Zotarolimus Content
+                      Product      Nominal       Nominal       Nominal       Nominal
+ Product Number                                Unexpanded
+                     Number        Expanded                   Zotarolimus   Zotarolimus
+  Resolute Onyx                                Stent Length
+                   Resolute Onyx    Stent ID                  Content RX      Content
+       RX                                      RX & OTW
+                       OTW         RX (mm)                       (μg)        OTW (μg)
+RONYX20008UX      RONYX20008W           2.0                        51             51
+RONYX22508UX      RONYX22508W          2.25                        51             51
+RONYX25008UX      RONYX25008W           2.5                       51              51
+RONYX27508UX      RONYX27508W          2.75          8             67             67
+RONYX30008UX      RONYX30008W           3.0                       67              67
+RONYX35008UX      RONYX35008W           3.5                       77             77
+RONYX40008UX      RONYX40008W           4.0                       77             77
+RONYX20012UX      RONYX20012W           2.0                        70             70
+RONYX22512UX      RONYX22512W          2.25                        70             70
+RONYX25012UX      RONYX25012W           2.5                       70              70
+RONYX27512UX      RONYX27512W          2.75                        94             94
+RONYX30012UX      RONYX30012W           3.0         12            94              94
+RONYX35012UX      RONYX35012W           3.5                       108            108
+RONYX40012UX      RONYX40012W           4.0                       108            108
+RONYX45012UX      Not Available        4.5                        132        Not Available
+RONYX50012UX      Not Available        5.0                        132        Not Available
+RONYX20015UX      RONYX20015W           2.0                        85             85
+RONYX22515UX      RONYX22515W          2.25                        85             85
+RONYX25015UX      RONYX25015W           2.5                       85              85
+RONYX27515UX      RONYX27515W          2.75                       117            117
+RONYX30015UX      RONYX30015W           3.0         15            117            117
+RONYX35015UX      RONYX35015W           3.5                       132            132
+RONYX40015UX      RONYX40015W           4.0                       132            132
+RONYX45015UX      Not Available        4.5                        158        Not Available
+RONYX50015UX      Not Available         5.0                       158        Not Available
+RONYX20018UX      RONYX20018W           2.0                       104            104
+RONYX22518UX      RONYX22518W          2.25                       104            104
+RONYX25018UX      RONYX25018W           2.5                       104            104
+RONYX27518UX      RONYX27518W          2.75                       140            140
+RONYX30018UX      RONYX30018W           3.0         18            140            140
+RONYX35018UX      RONYX35018W           3.5                       156            156
+RONYX40018UX      RONYX40018W           4.0                       156            156
+RONYX45018UX      Not Available        4.5                        188        Not Available
+RONYX50018UX      Not Available        5.0                        188        Not Available
+RONYX20022UX      RONYX20022W           2.0                       127            127
+RONYX22522UX      RONYX22522W          2.25                       127            127
+RONYX25022UX      RONYX25022W           2.5                       127            127
+RONYX27522UX      RONYX27522W          2.75                       171            171
+RONYX30022UX      RONYX30022W           3.0         22            171            171
+RONYX35022UX      RONYX35022W           3.5                       186            186
+RONYX40022UX      RONYX40022W           4.0                       186            186
+RONYX45022UX      Not Available        4.5                        227       Not Available
+RONYX50022UX      Not Available        5.0                        227       Not Available
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                   Page 6
+        Table 2: Resolute Onyx Product Matrix and Nominal Zotarolimus Content
+                       Product        Nominal         Nominal       Nominal        Nominal
+ Product Number                                     Unexpanded
+                      Number          Expanded                     Zotarolimus    Zotarolimus
+  Resolute Onyx                                     Stent Length
+                    Resolute Onyx      Stent ID                    Content RX       Content
+       RX                                           RX & OTW
+                        OTW           RX (mm)                         (μg)         OTW (μg)
+RONYX20026UX      RONYX20026W             2.0            26             146            146
+RONYX22526UX      RONYX22526W             2.25                          146            146
+RONYX25026UX      RONYX25026W             2.5                           146            146
+RONYX27526UX      RONYX27526W             2.75                          198            198
+RONYX30026UX      RONYX30026W             3.0                           198            198
+RONYX35026UX      RONYX35026W             3.5                           221            221
+RONYX40026UX      RONYX40026W             4.0                           221            221
+RONYX45026UX      Not Available           4.5                           265        Not Available
+RONYX50026UX      Not Available           5.0                           265        Not Available
+RONYX20030UX      RONYX20030W             2.0                           168            168
+RONYX22530UX      RONYX22530W             2.25                          168            168
+RONYX25030UX      RONYX25030W             2.5                           168            168
+RONYX27530UX      RONYX27530W             2.75                          225            225
+RONYX30030UX      RONYX30030W             3.0            30             225            225
+RONYX35030UX      RONYX35030W             3.5                           252            252
+RONYX40030UX      RONYX40030W             4.0                           252            252
+RONYX45030UX      Not Available           4.5                           304        Not Available
+RONYX50030UX      Not Available           5.0                           304        Not Available
+RONYX22534UX      RONYX22534W             2.25                          187            187
+RONYX25034UX      RONYX25034W             2.5                           187            187
+RONYX27534UX      RONYX27534W             2.75                          257            257
+                                                         34
+RONYX30034UX      RONYX30034W             3.0                           257            257
+RONYX35034UX      RONYX35034W             3.5                           282            282
+RONYX40034UX      RONYX40034W             4.0                           282            282
+RONYX22538UX      RONYX22538W             2.25                          206            206
+RONYX25038UX      RONYX25038W             2.5                           206            206
+RONYX27538UX      RONYX27538W             2.75                          284            284
+                                                         38
+RONYX30038UX      RONYX30038W             3.0                           284            284
+RONYX35038UX      RONYX35038W             3.5                           317            317
+RONYX40038UX      RONYX40038W             4.0                           317            317
+
+
+       3. Mechanism of Action of Zotarolimus
+          In vitro, zotarolimus inhibited growth factor-induced proliferation of human coronary
+          artery smooth muscle cells and also demonstrated binding affinity with FKBP-12
+          (binding protein). The suggested mechanism of action of zotarolimus is to bind to
+          FKBP12, leading to the formation of a trimeric complex with the protein kinase
+          mTOR (mammalian target of rapamycin), inhibiting its activity. Inhibition of mTOR
+          activity results in the inhibition of protein phosphorylation events associated with
+          translation of mRNA and cell cycle control. Table 2, above, lists the nominal drug
+          content present on each product included in the Resolute Onyx stent system.
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                          Page 7
+VI.    ALTERNATIVE PRACTICES AND PROCEDURES
+
+       There are several other alternatives for the correction of coronary artery disease. These
+       may include exercise, diet, smoking cessation counseling, drug therapy, percutaneous
+       coronary interventions (PCI) (such as angioplasty and placement of bare metal stents,
+       coated stents, and other drug eluting stents), and coronary artery bypass surgery
+       (CABG). Each alternative has its own advantages and disadvantages. A patient should
+       fully discuss these alternatives with his/her physician to select the method that best
+       meets expectations and lifestyle.
+
+VII.   MARKETING HISTORY
+
+       US Marketing History
+       The Original PMA (P160043) for the Resolute Onyx™ Zotaralimus-Eluting
+       Coronary Stent System received approval on April 28, 2017.
+
+
+       The Resolute Onyx is commercially available in the following countries:
+
+                      Table 3: Resolute Onyx Commercial Availability
+Albania                  Germany                   Namibia                   Philippines
+Algeria                  Ghana                     Nepal                     Poland
+Argentina                Greece                    Netherlands               Portugal
+Armenia                  Guatemala                 Barbados                  Puerto Rico
+Australia                Honduras                  Brazil                    Qatar
+Austria                  Hong Kong                 Canada                    Reunion
+Azerbaijan               Hungary                   Cayman Islands            Romania
+Bahrain                  Iceland                   Chile                     Russian Federation
+Bangladesh               India                     Curacao                   Saudi Arabia
+Belgium                  Iran                      French Guiana             Serbia
+Bolivia                  Iraq                      Guadeloupe                Singapore
+Bosnia and Herzegovina   Ireland                   Guam                      Slovakia
+Botswana                 Israel                    Indonesia                 Slovenia
+Brunei Darussalam        Italy                     Jamaica                   South Africa
+Bulgaria                 Japan                     Kosovo                    Spain
+Canary Islands           Jordan                    Mauritius                 Sri Lanka
+Colombia                 Kazakhstan                Mozambique                Sweden
+Costa Rica               Kenya                     New Caledonia             Switzerland
+Croatia                  Korea, Republic Of        Peru                      Taiwan
+Cyprus                   Kuwait                    Sudan                     Tajikistan
+Czech Republic           Kyrgyzstan                Syrian Arab Republic      Tanzania
+Denmark                  Latvia                    Uganda                    Thailand
+Dominican Republic       Lebanon                   Uzbekistan                Trinidad And Tobago
+Ecuador                  Liechtenstein             Virgin Islands, British   Tunisia
+Egypt                    Lithuania                 Zambia                    Turkey
+El Salvador              Luxembourg                New Zealand               United Arab Emirates
+Estonia                  Malaysia                  Nicaragua                 United Kingdom
+Ethiopia                 Malta                     North Macedonia           United States
+Fiji                     Martinique                Norway                    Venezuela
+Finland                  Mexico                    Oman                      Vietnam
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                             Page 8
+France                     Moldova                    Pakistan                 Yemen
+Gabon                      Montenegro                 Panama
+Georgia                    Morocco                    Paraguay
+
+
+          The device has not been withdrawn from marketing for any reason related to its safety or
+          effectiveness.
+
+VIII.     POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+          Potential adverse events (e.g., complications) in alphabetical order that may be associated
+          with coronary stent use in native coronary arteries include, but are not limited to:
+                 • Abrupt vessel closure
+                 • Access site pain, hematoma, or hemorrhage
+                 • Allergic reaction (to contrast, antiplatelet therapy, stent material, or drug and
+                      polymer coating)
+                 • Aneurysm, pseudoaneurysm, or arteriovenous fistula (AVF)
+                 • Arrhythmias, including ventricular fibrillation
+                 • Balloon rupture
+                 • Bleeding
+                 • Cardiac tamponade
+                 • Coronary artery occlusion, perforation, rupture, or dissection
+                 • Coronary artery spasm
+                 • Death
+                 • Embolism (air, tissue, device, or thrombus)
+                 • Emergency surgery: peripheral vascular or coronary bypass
+                 • Failure to deliver the stent
+                 • Hemorrhage requiring transfusion
+                 • Hypotension/hypertension
+                 • Incomplete stent apposition
+                 • Infection or fever
+                 • Myocardial Infarction (MI)
+                 • Pericarditis
+                 • Peripheral ischemia/peripheral nerve injury
+                 • Renal failure
+                 • Restenosis of the stented artery
+                 • Shock/pulmonary edema
+                 • Stable or unstable angina
+                 • Stent deformation, collapse, or fracture
+                 • Stent migration or embolization
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                Page 9
+              •   Stent misplacement
+              •   Stroke/transient ischemic attack
+              •   Thrombosis (acute, subacute, or late)
+       Adverse events that have been associated with the intravenous injection of zotarolimus in
+       humans include but are not limited to:
+             • Anemia
+             • Diarrhea
+             • Dry skin
+             • Headache
+             • Hematuria
+             • Infection
+             • Injection site reaction
+             • Pain (abdominal, arthralgia, injection site)
+             • Rash
+       Potential adverse events related to the BioLinx® polymer include but are not limited to:
+              • Allergic reaction
+              • Focal inflammation at the site of stent implantation
+              • Restenosis of the stented artery
+
+
+IX.    SUMMARY OF NONCLINICAL STUDIES
+
+       A summary of previously reported non-clinical laboratory studies can be found in the
+       SSED for each of the original PMAs (P110013 and P160043). Because these previously
+       collected data sufficiently represent the performance of the device for the new indications
+       for use, no new non-clinical testing was conducted.
+
+X.     SUMMARY OF PRIMARY CLINICAL STUDY
+
+       The Onyx ONE Clear Primary Analysis was conducted to evaluate the performance of
+       the Resolute Onyx stent in selected high bleeding risk (HBR) patients treated with one-
+       month dual antiplatelet therapy (DAPT). Eligible subjects from the Onyx ONE US &
+       Japan trial and the Onyx ONE Global randomized controlled trial (RCT) were pooled to
+       create the Onyx ONE Clear Primary Analysis population.
+       A summary of the Onyx ONE Clear Primary Analysis is presented below.
+
+
+       A. Study Design
+
+          The objective of the Onyx ONE Clear Primary Analysis is to evaluate the safety and
+          effectiveness of the Resolute Onyx stent with use of one-month DAPT following
+          PCI in selected subjects deemed to be at high risk for bleeding and/or medically
+          unsuitable for more than one-month DAPT treatment.
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                            Page 10
+                The Onyx ONE US & Japan Trial oversight was provided throughout the trial by
+                independent committees including a Clinical Events Committee (CEC) and a Data
+                and Safety Monitoring Board (DSMB). Onyx ONE Global RCT oversight was
+                provided throughout the trial by independent committees including a CEC and
+                DSMB.
+
+                The Onyx ONE Clear Primary Analysis subject population was derived from the
+                Onyx As-Treated (AT) Population. This study population was formed by pooling
+                eligible subjects enrolled into the Onyx ONE US & Japan Trial (a prospective,
+                multi-center, post-market single-arm trial which enrolled 752 subjects in the United
+                States and Japan) with data from eligible subjects treated with Resolute Onyx only
+                (N=1018 1) in the Onyx ONE Global RCT (a prospective, multi-center, randomized,
+                single-blind trial which enrolled a total of 1996 subjects globally). From this Onyx
+                AT population, subjects who were ‘one-month clear’ (as defined below) formed the
+                Onyx ONE Clear Primary Analysis Population (Onyx ONE Clear: N=1506) used to
+                determine the safety and effectiveness of Resolute Onyx stent in high bleeding risk
+                subjects treated with one-month DAPT. See Figure 3 below.
+
+
+
+
+                                         Figure 3: Primary Analysis Population
+
+                The one-month clear population excluded the following patient categories:
+                    •    Patients who interrupted or discontinued DAPT (greater than 3 cumulative
+                         days) within the first one month of procedure,
+                    •    Patients who experienced adverse ischemic/thrombotic events that would
+                         prohibit them from discontinuing DAPT beyond one month,
+                    •    Patients who, due to their own or their physicians’ decision, did not plan to
+                         transition from DAPT to single antiplatelet therapy (SAPT) one month after
+                         procedure. Approximately 20% [(751-601)/751] of subjects from the Onyx
+
+1
+    One subject who received the Onyx stent was not consented for data used outside of Onyx ONE Global RCT.
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                           Page 11
+                      ONE US & Japan group were not eligible for inclusion in the Primary
+                      Analysis Population, while 11% [(1018-905)/1018] of subjects from the
+                      Onyx ONE RCT group were excluded from the Primary Analysis
+                      Population, and
+
+              •       Patients who were lost to follow-up.
+
+          Note: Peri-procedural MIs did not exclude subjects from being considered one-
+          month clear.
+
+          Assessment of the use of the Resolute Onyx stent in HBR patients was based on
+          analyses combining outcomes from patients compared to a pre-specified
+          performance goal (PG). The PG was based on a clinically acceptable margin added
+          to an expected composite event rate of cardiac death, and myocardial infarction
+          (CD/MI) rate at 12 months, adapted from historical short DAPT studies with high-
+          bleeding risk patient populations (LEADERS FREE, ZEUS, and SENIOR). The
+          expected CD/MI rate between one month and one year was estimated to be 6.8%.
+
+          The PG for the composite event rate of CD/MI at one-year post-procedure in a one-
+          month clear population was 9.7% based on an estimated CD/MI rate of 6.8% and a
+          one sided 0.025 significance level.
+
+
+          1. Clinical Inclusion and Exclusion Criteria
+             All subjects who are acceptable candidates for treatment with a DES in
+             accordance with applicable guidelines for percutaneous coronary
+             interventions, per manufacturer’s Instructions for Use, who additionally met
+             pre-defined criteria for being high-bleeding risk and/or were candidates for
+             one-month DAPT and in the opinion of the investigator, the potential benefit
+             of one-month DAPT to the subject outweighed the potential risk, were
+             considered. Subjects were at least 18 years of age.
+
+              To qualify as high-bleeding risk and/or a candidate for one-month DAPT,
+              subject must have met at least one of the following criteria:
+                  •    Adjunctive chronic oral anticoagulation treatment planned to continue
+                       after PCI
+                  •    Age ≥ 75 years old
+                  •    Baseline Hgb <11 g/dl (or anemia requiring transfusion during the 4
+                       weeks prior to procedure)
+                  •    Any prior documented intracerebral bleed
+                  •    Any documented stroke in the last 12 months
+                  •    Hospital admission for major bleeding during the prior 12 months
+                  •    Active non-skin cancer currently undergoing treatment or surveillance
+                       (in lieu of treatment)
+                  •    Planned daily NSAID (other than aspirin) or steroids for ≥30 days after
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                               Page 12
+                   PCI
+               •   Planned surgery that would require interruption of DAPT (within the
+                   next 12 months)
+               •   Renal failure defined as creatinine clearance <40 ml/min
+               •   Thrombocytopenia (PLT <100,000/mm3)
+               •   Severe chronic liver disease defined as subjects who have developed
+                   any of the following: variceal hemorrhage, ascites, hepatic
+                   encephalopathy or jaundice
+               •   Expected non-compliance for at least 6 months DAPT for other medical
+                   reasons
+              Patients were not permitted to be enrolled in the study if they met any of the
+              following Exclusion Criteria:
+               •   Pregnant and breastfeeding women
+               •   Subjects requiring a planned PCI procedure after one month of index
+                   procedure
+               •   Procedure planned to require non-study stents, stand-alone POBA, or
+                   stand-alone atherectomy
+               •   Active bleeding at the time of inclusion
+               •   Cardiogenic shock
+               •   Subject with planned surgery or procedure necessitating discontinuation
+                   of DAPT within one month following index procedure
+               •   Subject not expected to comply with long-term single antiplatelet
+                   therapy
+               •   A known hypersensitivity or contraindication to aspirin, heparin and
+                   bivalirudin, P2Y12 inhibitors, mTOR inhibiting drugs such as
+                   zotarolimus, cobalt, nickel, platinum, iridium, chromium, molybdenum,
+                   polymer coatings (e.g., BioLinx®), stainless steel (or other metal ions
+                   found in 316L stainless steel), zinc, or a sensitivity to contrast media,
+                   which cannot be adequately pre-medicated.
+               •   PCI during the previous 6 months for a lesion other than the target
+                   lesion of the index procedure
+               •   Participation in another clinical study within 12 months after index
+                   procedure
+               •   Subjects with life expectancy of less than 2 years
+
+
+          2. Follow-up Schedule
+             Subjects underwent initial screening and completed the informed consent
+             process prior to any study-related assessments if applicable, i.e., study
+             procedure(s) is not institution’s standard of care. Clinic visit health status
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                Page 13
+                   assessments were documented at the one-month time point. Subject contact
+                   health status assessments were documented at 2 months, 6 months, 1 year, and
+                   will be documented at 2 years.
+
+               3. Clinical Endpoints
+
+                   Primary Endpoint
+                   The primary endpoint is the composite of cardiac death and myocardial infarction
+                   (CD/MI) at one year for a one-month clear population (timeframe: one month to
+                   one year).
+
+                   Secondary Endpoints
+                   The following secondary endpoints, except acute success which was measured
+                   post-procedure, were assessed at 6 months and 1 year in the Onyx ONE Clear
+                   population and will be assessed at 2 years:
+
+                      •   Acute success (device, lesion, procedure)
+                      •   All deaths, including cardiac death
+                      •   Major adverse cardiac event (MACE)
+                          o Defined as death, myocardial infarction, or clinically driven repeat
+                               target lesion revascularization
+                      •   Composite of cardiac death and myocardial infarction
+                      •   Target vessel failure (TVF)
+                          o Defined as cardiac death, target vessel myocardial infarction or
+                               clinically driven target vessel revascularization
+                      •   Target lesion failure (TLF)
+                          o Defined as cardiac death, target vessel myocardial infarction (Q wave
+                               and non-Q wave), or clinically driven target lesion revascularization
+                               (TLR)
+                      •   All revascularizations (TLR, TVR and non-TVR)
+                      •   Stent thrombosis (def/prob)
+                      •   Stroke
+                      •   Bleeding per BARC criteria
+                          o BARC 3 to 5
+                          o BARC 2 to 5
+                          o All BARC
+
+          B. Accountability of PMA Cohort
+
+               Between October 1, 2018 and April 9, 2019, 751 2 subjects were treated in the Onyx
+               ONE US & Japan Trial at 42 US sites and 5 Japan sites. 1018 3 subjects who received
+               the Resolute Onyx stent only in the Onyx ONE Global RCT are also included in the
+2
+  The last subject enrolled in Japan was consented prior to enrollment closure on April 9, 2019 but did not complete
+their index procedure until April 17, 2019. This subject was not within their 1-year window at the time of the database
+lock for the primary endpoint. Therefore, this subject is not included in the primary endpoint analysis but will be
+included in the 2-year report.
+3
+  One subject who received the Onyx stent was not consented for data used outside of Onyx ONE Global RCT.
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                               Page 14
+          analysis. In total, 1769 subjects constitute the Onyx AT population. 1506 subjects
+          met the one-month clear criteria and formed the primary analysis population (Onyx
+          ONE Clear). 99.0% (1491/1506) of the subjects were evaluable at 1 year, excluding 9
+          subjects who withdrew and 6 subjects who did not complete the 1-year visit. Figure
+          3 above provides an overview of the subject accountability for the primary analysis
+          population through the 1-year follow-up visit.
+
+
+       C. Primary Analysis Population Demographics and Baseline Parameters
+
+            Table 4 presents demographics for the primary analysis population. The
+            mean age of the study subjects was 74.0 years, and 32.3% were female.
+            Of the approximately 40% of subjects with available data on race, 65.9%
+            were Caucasian. Subjects were mildly overweight (BMI 28.2).
+                                        Table 4. Demographics
+              Demographics                 Onyx ONE Clear (N=1506 Subjects)
+              Age (years)                            74.0±9.5 (1506)
+                                                       (34.0, 95.0)
+             Gender
+              Male                                      67.7% (1019/1506)
+              Female                                     32.3% (487/1506)
+             Race*
+              American Indian/Alaska                        0% (0/1506)
+              Native
+              Asian                                       2.9% (44/1506)
+              Black or African                            3.1% (47/1506)
+              American
+              Caucasian                                  32.9% (495/1506)
+              Native Hawaiian or                           0.1% (2/1506)
+              other Pacific Islander
+              Other                                       0.8% (12/1506)
+              Not Disclosed                              60.1% (906/1506)
+             BMI                                          28.2±5.7 (1482)
+                                                            (13.6, 70.8)
+               *
+                Race data were collected only for subjects enrolled in the ONYX ONE US and
+               Japan Trial.
+               Table 5 shows the baseline clinical characteristics and medical history
+               for the primary analysis population. Thirty-nine percent of subjects
+               had diabetes, 26.3% had prior MI, 22.8% had unstable angina, and
+               35.6% had a history of atrial fibrillation. Indications for the index
+               procedure were due to one or more of the following: stable angina
+               40.5% (584/1441), unstable angina 22.8% (328/1441), MI 25.9%
+               (373/1441) (STEMI 4.2% (60/1441) and NSTEMI 21.7% (313/1441))
+               and/or a positive functional test 4.3% (65/1506).
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                               Page 15
+                             Table 5. Baseline Clinical Characteristics
+           Medical History                   Onyx ONE Clear (N=1506 Subjects)
+           Smoking Status
+            Current Smoker                              9.4% (141/1498)
+            Former Smoker                              41.5% (622/1498)
+            Never                                      49.1% (735/1498)
+            Unknown                                      0.53% (8/1506)
+           Current Diabetes Mellitus                   39.4% (593/1506)
+            Type I                                       0.7% (10/1506)
+            Type II                                    38.7% (583/1506)
+               Insulin Dependent                       13.7% (206/1506)
+           History of Hyperlipidemia                  72.4% (1091/1506)
+           History of Hypertension                    84.0% (1265/1506)
+           Cardiac History
+           History of MI                               26.3% (396/1506)
+           Current MI Indication                       25.9% (373/1441)
+               STEMI                                     4.2% (60/1441)
+               NSTEMI                                  21.7% (313/1441)
+           Current Anginal Status:
+            Stable Angina                              40.5% (584/1441)
+            Unstable Angina                            22.8% (328/1441)
+           CCS Class
+            1                                          20.0% (230/1149)
+            2                                          31.7% (364/1149)
+            3                                          35.2% (405/1149)
+            4                                          13.1% (150/1149)
+           Silent Ischemia                             10.8% (156/1441)
+           History of PCI                              30.2% (455/1506)
+           History of CABG                             12.9% (194/1506)
+           LVEF (%)                                   52.6+/-12.4 (1123)
+                                                           (12.0, 80.0)
+           History of Atrial Fibrillation              35.6% (536/1506)
+           Neurologic History
+           History of Cerebrovascular                  14.1% (212/1506)
+           Accidents (Stroke) or TIA
+           Renal History
+           Serum Creatinine (µmol/L)                 123.5 ± 149.0 (1475)
+                                                          (35.4, 2920.4)
+           Peripheral History
+           History of PVD                              10.6% (160/1506)
+
+
+           Key Baseline Lesion Characteristics: The total number of target lesions was 1960.
+           The mean reference vessel diameter was 2.82±0.48 mm, mean lesion length was
+           20.78±13.02 mm, and mean percent diameter stenosis was 68.31±13.28%. The LAD
+           was treated in 52.5% of the subjects, the LCX was treated in 27.8%, and the RCA
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                       Page 16
+           was treated in 34.2%. Moderate or severe calcification was present in 50.0% of
+           subjects. The modified ACC/AHA Lesion Class for B2/C was 78.6%. Additional
+           baseline lesion characteristics can be found in Table 6.
+                             Table 6. Baseline Lesion Characteristics
+                        Vessel and Lesion           Onyx ONE Clear
+                          Characteristics          (N=1506 Subjects
+                                                    N=1960 Lesions)
+                   Pre-Procedure
+                   Target Lesion Location
+                      LAD                           52.5% (790/1506)
+                      LCX                           27.8% (419/1506)
+                      RCA                           34.2% (515/1506)
+                      LM                              1.3% (19/1506)
+                      GRAFT                           4.1% (62/1506)
+                   Lesion Length (mm)              20.78±13.02 (1889)
+                                                         (2.5, 96.0)
+                      <10 mm                        15.8% (299/1889)
+                      10 – 19.9 mm                  43.2% (816/1889)
+                      >=20 mm                       41.0% (774/1889)
+                   RVD (mm)                          2.82±0.48 (1949)
+                                                        (1.74, 5.06)
+                   % Diameter Stenosis             68.31±13.28 (1949)
+                                                       (10.64, 100.0)
+                   Thrombolysis in Myocardial Infarction (TIMI) flow
+                      0                               5.0% (97/1932)
+                      1                               0.9% (18/1932)
+                      2                             12.2% (235/1932)
+                      3                            81.9% (1582/1932)
+                   Lesion Type
+                      A                               4.4% (86/1960)
+                      B1                            17.0% (334/1960)
+                      B2                            19.0% (372/1960)
+                      C                            59.6% (1168/1960)
+                      B2/C                         78.6% (1540/1960)
+                   Calcification
+                      Mild                          50.0% (970/1939)
+                      Moderate                      19.3% (374/1939)
+                      Severe                        30.7% (595/1939)
+                   Vessel Tortuosity
+                      None/Mild                    95.2% (1853/1947)
+                      Moderate                        3.1% (60/1947)
+                      Severe                          1.7% (34/1947)
+                   Post-Procedure
+                   Percent diameter stenosis        19.83±9.52 (1948)
+                   (%)                                (-27.66, 100.0)
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                       Page 17
+Key Procedural Characteristics: The total number of target lesions treated per subject was
+approximately 1.3/patient and the number of Resolute Onyx stents deployed was 1.7/subject
+(1.2/lesion). The total Resolute Onyx stent length/subject was approximately 36.9 mm. Additional
+baseline lesion characteristics can be found in Table 7.
+
+                              Table 7. Procedural Characteristics
+         Procedure Data                               Onyx ONE Clear (N=1506
+                                                                Subjects
+                                                           N=1960 Lesions)
+         Procedure Time (min)                              41.9±29.8 (1552)
+                                                              (4.0, 213.0)
+         Subjects with Staged Procedure                     4.4% (66/1506)
+         Planned Within 30 Days
+         Subjects with Staged Procedure                     3.3% (49/1506)
+         Performed
+         Number of Lesions                                  1.3±0.6 (1506)
+         Treated/Subject                                          (1, 5)
+            1                                             74.8% (1126/1506)
+            2                                              20.7% (311/1506)
+            3 or more                                       4.6% (69/1506)
+         Number of Vessels Treated/Subject                  1.1±0.3 (1487)
+                                                               (1.0, 2.0)
+            1                                             81.4% (1226/1506)
+            2                                              17.2% (259/1506)
+            3 or more                                       1.4% (21/1506)
+         Number of Resolute Onyx Stents                     1.7±1.0 (1506)
+         Placed/Subject                                           (1, 8)
+         Number of Resolute Onyx Stents                     1.2±0.5 (2162)
+         Placed/Lesion                                            (1, 5)
+         Total Resolute Onyx Stent Length                  36.9±26.3 (1506)
+         (mm)/Subject                                           (8, 220)
+       Numbers are presented as % (count/sample size) or mean ± standard deviation (n) (minimum, maximum).
+       Site reported lesion characteristics.
+
+
+        HBR Characteristics of Patients Enrolled in Onyx ONE Clear: Table 8 and
+        Table 9 below provide an overview of the study HBR criteria met by the
+        enrolled subjects. The mean number of HBR criteria met per subject was 1.6 ±
+        0.8. The most common HBR qualifying features were age ≥75 years, present in
+        59.0% (889/1506) and oral anticoagulation use, present in 41.0% (617/1506).
+        In addition, age > 75 years and oral anticoagulation use were the only HBR
+        criteria met for 26.0% (392/1506) and 15.6% (235/1506), respectively.
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                               Page 18
+              Table 8: Subjects Meeting One or More of the HBR Inclusion Criteria
+                                                                            Onyx ONE Clear
+HBR Inclusion Criteria                                                     (N=1506 Subjects)
+Patients satisfying one or more of the following criteria:
+Age ≥ 75 years                                                              59.0% (889/1506)
+Oral anticoagulation to continue after PCI                                  41.0% (617/1506)
+Hgb <11 g/dl (or transfusion within 4 weeks before procedure)               14.4% (217/1506)
+Creatinine clearance <40 ml/min                                             12.5% (188/1506)
+Non skin cancer diagnosed or treated within 3 years                         7.4% (112/1506)
+Planned surgery in next 12 months requiring interruption of DAPT            6.6% (100/1506)
+At least 6 months non-compliance DAPT                                        4.2% (64/1506)
+NSAID (other than aspirin) or steroids for ≥ 30 days after PCI               3.1% (47/1506)
+Hospital admission for major bleeding in prior 12 months                     2.8% (42/1506)
+Stroke in previous 12 months                                                 2.6% (39/1506)
+Prior intracerebral bleed                                                    1.7% (26/1506)
+                                         3
+Thrombocytopenia (PLT <100,000/mm )                                          1.7% (26/1506)
+Severe chronic liver disease                                                 0.9% (14/1506)
+
+
+
+                 Table 9: Subjects Meeting Only One of the HBR Inclusion Criteria
+                                                                            Onyx ONE Clear
+HBR Inclusion Criteria                                                     (N=1506 Subjects)
+Patients satisfying only one of the following criteria:
+Oral anticoagulation to continue after PCI                                  15.6% (235/1506)
+
+Age ≥ 75 years                                                              26.0% (392/1506)
+
+Hgb <11 g/dl (or transfusion within 4 weeks before procedure)                2.0% (30/1506)
+
+Prior intracerebral bleed                                                    0.5% (7/1506)
+
+Stroke in previous 12 months                                                 0.8% (12/1506)
+
+Hospital admission for major bleeding in prior 12 months                     0.9% (13/1506)
+
+Non skin cancer diagnosed or treated within 3 years                          1.6% (24/1506)
+
+NSAID (other than aspirin) or steroids for ≥ 30 days after PCI               0.9% (13/1506)
+
+Planned surgery in next 12 months requiring interruption of DAPT             2.2% (33/1506)
+
+Creatinine clearance <40 ml/min                                              2.3% (34/1506)
+
+Thrombocytopenia (PLT <100,000/mm3)                                          0.2% (3/1506)
+
+Severe chronic liver disease                                                 0.1% (1/1506)
+
+At least 6 months non-compliance DAPT                                        2.3% (34/1506)
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                         Page 19
+        Antiplatelet and Oral Anticoagulation Medication Usage: The antiplatelet and oral
+        anticoagulation medication usage at procedure, discharge, 30 days, 2 months, 6 months,
+        and 365 days is shown in Table 10 below. Of the subjects included in the Onyx ONE Clear
+        population, 90.0% (1356/1506) were on DAPT at the time of their 30-day visit while
+        10.0% (150/1506) were maintained on SAPT and an oral anti-coagulant (OAC). At 2
+        months, 96.9% (1457/1503) of the subjects were on SAPT, of which 37.1% (557/1503) had
+        SAPT with OAC. The rate of SAPT usage at 365 days post index procedure was 89.3%
+        (1255/1406). Only 6.5% (92/1406) of subjects were on DAPT of which 5.7% (80/1406)
+        were on DAPT (excluding triple therapy).
+
+                                     Table 10: Medication to 365 Days
+                                                                             Resolute Onyx
+Antiplatelet/Anticoagulant                                                 (N=1506 Subjects)
+Average Duration (days)
+ Aspirin
+  n1                                                                              1453
+  Mean ± SD                                                                   218.4 ± 150.6
+ P2Y12 Inhibitor
+  n1                                                                              1504
+  Mean ± SD                                                                   164.1 ± 149.2
+ Anticoagulant
+  n1                                                                               638
+  Mean ± SD                                                                   300.8 ± 105.0
+At Index Procedure
+ Aspirin loading dose administered                                          66.8% (1006/1506)
+ P2Y12 loading dose administered                                            88.4% (1331/1506)
+ Anticoagulant administered                                                 99.9% (1493/1495)
+ GP IIb/IIIa receptor blocker                                                 3.3% (50/1506)
+DAPT (including triple therapy)                                             94.3% (1420/1506)
+DAPT (excluding triple therapy)                                             67.7% (1019/1506)
+Triple therapy                                                               26.6% (401/1506)
+SAPT (with or without OAC )                                                   5.5% (83/1506)
+  SAPT (aspirin or P2Y12, not both, no OAC)                                   2.3% (35/1506)
+  SAPT + OAC (aspirin or P2Y12, not both, with OAC)                           3.2% (48/1506)
+OAC                                                                          29.9% (451/1506)
+  OAC only, no aspirin, no P2Y12                                              0.1% (2/1506)
+  OAC + aspirin, no P2Y12                                                     0.2% (3/1506)
+  OAC+P2Y12 inhibitor, no aspirin                                             3.0% (45/1506)
+At Discharge (Index Procedure)
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                           Page 20
+                                    Table 10: Medication to 365 Days
+                                                                         Resolute Onyx
+Antiplatelet/Anticoagulant                                             (N=1506 Subjects)
+DAPT (including triple therapy)                                        92.6% (1394/1506)
+DAPT (excluding triple therapy)                                         63.8% (961/1506)
+Triple therapy                                                          28.8% (433/1506)
+SAPT                                                                    7.2% (108/1506)
+ SAPT (aspirin or P2Y12, not both, no OAC)                               0.5% (8/1506)
+  Aspirin only, no OAC, no P2Y12                                         0.3% (5/1506)
+  P2Y12 inhibitor only, no OAC, no aspirin                               0.2% (3/1506)
+ SAPT + OAC (aspirin or P2Y12, not both, with OAC)                      6.6% (100/1506)
+  OAC + P2Y12 only, no aspirin                                           6.0% (90/1506)
+  OAC+ aspirin only, no P2Y12                                            0.7% (10/1506)
+OAC only, no aspirin and no P2Y12                                        0.1% (2/1506)
+OAC                                                                     35.5% (535/1506)
+At 30 Days
+DAPT (including triple therapy)                                        90.0% (1356/1506)
+DAPT (excluding triple therapy)                                         62.8% (946/1506)
+Triple therapy                                                          27.2% (410/1506)
+SAPT                                                                    10.0% (150/1506)
+ SAPT (aspirin or P2Y12, not both, no OAC)                               0.0% (0/1506)
+  Aspirin only, no OAC, no P2Y12                                         0.0% (0/1506)
+  P2Y12 inhibitor only, no OAC, no aspirin                               0.0% (0/1506)
+ SAPT + OAC (aspirin or P2Y12, not both, with OAC)                      10.0% (150/1506)
+  OAC + P2Y12 only, no aspirin                                          9.4% (142/1506)
+  OAC+ aspirin only, no P2Y12                                            0.5% (8/1506)
+OAC only, no aspirin and no P2Y12                                        0.0% (0/1506)
+OAC                                                                     37.2% (560/1506)
+At 2 months
+DAPT (including triple therapy)                                          2.9% (44/1503)
+DAPT (excluding triple therapy)                                          2.4% (36/1503)
+Triple therapy                                                           0.5% (8/1503)
+SAPT                                                                   96.9% (1457/1503)
+ SAPT (aspirin or P2Y12, not both, no OAC)                              59.9% (900/1503)
+  Aspirin only, no OAC, no P2Y12                                        41.0% (616/1503)
+  P2Y12 inhibitor only, no OAC, no aspirin                              18.9% (284/1503)
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                     Page 21
+                                       Table 10: Medication to 365 Days
+                                                                            Resolute Onyx
+Antiplatelet/Anticoagulant                                                (N=1506 Subjects)
+    SAPT + OAC (aspirin or P2Y12, not both, with OAC)                      37.1% (557/1503)
+     OAC + P2Y12 only, no aspirin                                          22.4% (336/1503)
+     OAC+ aspirin only, no P2Y12                                           14.7% (221/1503)
+OAC only, no aspirin and no P2Y12                                           0.1% (2/1503)
+OAC                                                                        37.7% (567/1503)
+At 6 months
+DAPT (including triple therapy)                                             5.3% (77/1464)
+DAPT (excluding triple therapy)                                             4.7% (69/1464)
+Triple therapy                                                              0.5% (8/1464)
+SAPT                                                                      93.4% (1368/1464)
+    SAPT (aspirin or P2Y12, not both, no OAC)                              57.2% (838/1464)
+     Aspirin only, no OAC, no P2Y12                                        39.5% (579/1464)
+     P2Y12 inhibitor only, no OAC, no aspirin                              17.7% (259/1464)
+    SAPT + OAC (aspirin or P2Y12, not both, with OAC)                      36.2% (530/1464)
+     OAC + P2Y12 only, no aspirin                                          21.1% (309/1464)
+     OAC+ aspirin only, no P2Y12                                           15.1% (221/1464)
+OAC only, no aspirin and no P2Y12                                           0.8% (11/1464)
+OAC                                                                        37.5% (549/1464)
+At 365 days
+DAPT (including triple therapy)                                             6.5% (92/1406)
+DAPT (excluding triple therapy)                                             5.7% (80/1406)
+Triple therapy                                                              0.9% (12/1406)
+SAPT                                                                      89.3% (1255/1406)
+    SAPT (aspirin or P2Y12, not both, no OAC)                              54.8% (770/1406)
+     Aspirin only, no OAC, no P2Y12                                        38.4% (540/1406)
+     P2Y12 inhibitor only, no OAC, no aspirin                              16.4% (230/1406)
+    SAPT + OAC (aspirin or P2Y12, not both, with OAC)                      34.5% (485/1406)
+     OAC + P2Y12 only, no aspirin                                          19.8% (279/1406)
+     OAC+ aspirin only, no P2Y12                                           14.7% (206/1406)
+OAC only, no aspirin and no P2Y12                                           3.2% (45/1406)
+OAC                                                                        38.5% (542/1406)
+1
+    n = Number of subjects with evaluable data
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                        Page 22
+         D. Safety and Effectiveness Results
+
+               Primary Endpoint
+               The primary endpoint, which is the composite of cardiac death/MI from one month
+               to one year for the Onyx ONE Clear population, was 7.0% (104/1491) with the
+               upper limit of 95% confidence interval of 8.4%. This is below the prespecified
+               performance goal of 9.7%. Therefore, study success may be claimed for the
+               primary endpoint.
+
+               Primary endpoint analysis results for the Onyx ONE Clear study are presented below
+               in Table 11.
+
+                                   Table 11: Primary Endpoint Analyses
+                                    Onyx ONE                                                               Primary
+                                      Clear          Two-side 95%                                          Objective
+Primary Endpoint at 1               (N = 1506         Confidence         Performance                         Met?
+year1                                Subjects)         Interval2             Goal             p-value      (Yes/No)
+Primary Analysis
+– Onyx ONE Clear                        7.0%           [5.7%, 8.4%]           9.7%            <0.001           Yes
+                                     (104/1491)
+
+
+Best Case Analysis3
+– Onyx ONE Clear                        6.9%           [5.7%, 8.3%]           9.7%            <0.001           Yes
+                                     (104/1506)
+Worst Case Analysis4
+– Onyx ONE Clear                        7.9%           [6.6%, 9.4%]           9.7%             0.009           Yes
+                                     (119/1506)
+1
+  The primary endpoint is a composite of cardiac death, myocardial infarction at one year post-procedure.
+2
+  The two-sided 95% CI was calculated by binomial (exact) distribution carried out to assess statistical significance at
+the 0.025 level.
+3
+  Best case analysis imputed all the missing 1-year primary endpoint status as no.
+4
+  Worst case analysis imputed all the missing 1-year primary endpoint status as yes.
+
+
+                 1. Safety Results
+                    The analysis of safety was based on 1491 subjects in the Onyx ONE Clear
+                    population available for the 1-year evaluation.
+
+                      The 1-year rate for TLF is 8.1% (121/1491), TVF 8.8% (131/1491), MACE
+                      11.7% (174/1491), cardiac death 2.6% (39/1491), TVMI (3rd UDMI) 4.4%
+                      (65/1491), clinically driven TLR 3.4% (50/1491), clinically driven TVR 4.3%
+                      (64/1491), definite or probable ST (ARC) 0.7% (10/1491), and BARC 3-5
+                      bleeding 4.0% (60/1491). Principal safety and effectiveness results are reported
+                      in Table 12.
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                                Page 23
+                         Table 12: Principal safety and effectiveness results
+                                                                 RESOLUTE ONYX
+                                                                  (N=1506 subjects
+                                                                   N=1960 lesions)
+                   Safety and effectiveness measures                 %(m/n)1
+      Safety measures (to 180 days)
+      Target lesion failure (TLF)2                                   4.1% (61/1500)
+                                    3
+      Target vessel failure (TVF)                                    4.5% (67/1500)
+      MACE4                                                          6.0% (90/1500)
+      Cardiac death, MI and definite/probable stent thrombosis       3.7% (56/1500)
+      Cardiac death or MI                                            3.7% (56/1500)
+      Cardiac death or target vessel MI (TVMI)                       3.3% (50/1500)
+      Death or TVMI                                                  4.9% (73/1500)
+      Death                                                          2.5% (38/1500)
+       Cardiac death                                                 1.0% (15/1500)
+       Non cardiac death                                             1.5% (23/1500)
+      TVMI (3rd UDMI)                                                2.5% (38/1500)
+      Clinically driven TLR                                          1.6% (24/1500)
+      Clinically driven TVR                                          2.2% (33/1500)
+      Stroke                                                         0.7% (11/1500)
+      Stent thrombosis (ARC) definite/probable                       0.4% (6/1500)
+      Bleeding
+        All BARC                                                    7.3% (110/1500)
+        BARC 3-5                                                     2.3% (34/1500)
+        BARC 2-5                                                     6.5% (97/1500)
+      Safety measures (to 365 days)
+      Target lesion failure (TLF)2                                  8.1% (121/1491)
+      Target vessel failure (TVF)3                                  8.8% (131/1491)
+               4
+      MACE                                                          11.7% (174/1491)
+      Cardiac death, MI and definite/probable stent thrombosis      7.0% (104/1491)
+      Cardiac death or MI                                           7.0% (104/1491)
+      Cardiac death or target vessel MI (TVMI)                       6.5% (97/1491)
+      Death or TVMI                                                 9.7% (144/1491)
+      Death                                                          6.0% (89/1491)
+       Cardiac death                                                 2.6% (39/1491)
+       Non cardiac death                                             3.4% (50/1491)
+      TVMI (3rd UDMI)                                                4.4% (65/1491)
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                         Page 24
+                         Table 12: Principal safety and effectiveness results
+                                                                          RESOLUTE ONYX
+                                                                           (N=1506 subjects
+                                                                            N=1960 lesions)
+                 Safety and effectiveness measures                            %(m/n)1
+      Clinically driven TLR                                                   3.4% (50/1491)
+      Clinically driven TVR                                                   4.3% (64/1491)
+      Stroke                                                                  1.5% (22/1491)
+      Stent thrombosis (ARC) definite/probable                                0.7% (10/1491)
+      Bleeding
+          All BARC                                                           13.1% (195/1491)
+          BARC 3-5                                                            4.0% (60/1491)
+          BARC 2-5                                                           11.7% (175/1491)
+      Effectiveness measures
+      Lesion success5                                                       94.6% (1817/1920)
+                     6
+      Device success                                                        93.3% (1790/1919)
+      Procedure success7                                                    88.5% (1295/1463)
+      1
+        Numerator (m) is the number of subjects with the specific classification, denominator (n) is the
+      number of subjects in the study
+      group with known values, and percentage (%) was calculated as 100 × (m/n)
+      2
+        Cardiac death, target vessel myocardial infarction (Q wave and non Q wave) or clinically-driven
+      target lesion revascularization (TLR) by percutaneous or surgical methods.
+      3
+        Cardiac death, target vessel myocardial infarction (Q wave and non Q wave) or clinically-driven
+      target vessel revascularization (TVR) by percutaneous or surgical methods.
+      4
+        Defined as death, myocardial infarction (Q wave and non Q-wave), emergent coronary bypass
+      surgery, or repeat target lesion
+      revascularization (clinically driven/clinically indicated) by percutaneous or surgical methods.
+      5
+        The attainment of <30% residual stenosis by QCA (or < 20% by visual assessment) AND TIMI
+      flow 3 after the procedure using any percutaneous method.
+      6
+        The attainment of <30% residual stenosis by QCA (or < 20% by visual assessment) AND TIMI
+      flow 3 after the procedure using the assigned device only.
+      7
+        The attainment of <30% residual stenosis by QCA (or < 20% by visual assessment) AND TIMI
+      flow 3 after the procedure using
+      any percutaneous method without the occurrence of MACE during the hospital.
+      Third universal definition of MI is used for all the composite endpoints.
+
+
+
+               2. Effectiveness Results
+                  Per Table 12, lesion success was reported as 94.6% (1817/1920), device success
+                  was reported as 93.3% (1790/1919), and procedure success was reported as
+                  88.5% (1295/1463).
+
+               3. Subgroup Analyses
+                  The following characteristics were evaluated for potential association with
+                  outcomes:
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                             Page 25
+               Sex/Gender
+               Although not powered to evaluate safety or effectiveness of the Resolute Onyx
+               Stent in gender-specific subgroups, outcomes for male and female subjects from
+               the Onyx ONE Clear population are available (Table 13).
+
+               The composite rate of cardiac death/MI in the Onyx ONE Clear analysis
+               population at 1-year was 7.6% (77/1010) in male subjects and 5.6% (27/481) in
+               female subjects, respectively. Further analysis revealed no statistically
+               significant difference (p=0.191) in the cardiac death/MI rate at 1 year between
+               these two groups.
+
+               The ARC definite/probable stent thrombosis rate at 1 year was 0.9% in males
+               and 0.2% in females. The BARC 2-5 bleeding rate was 11.2% in males and
+               12.9% in females.
+
+                         Table 13. Onyx ONE Clear Clinical Outcomes by Gender
+
+                                           Onyx ONE Clear (n=1506)
+  Safety Measures (to        Male (N=1019 Subjects)     Female (N=487 Subjects)
+  365 Days)                     (N=634 Lesions)              (N=634 Lesions)
+   TLF                           9.0% (91/1010)               6.2% (30/481)
+   TVF                           9.7% (98/1010)               6.9% (33/481)
+   MACE                        12.9% (130/1010)               9.1% (44/481)
+   Cardiac death, MI, or
+   definite/probable stent        7.6% (77/1010)                   5.6% (27/481)
+   thrombosis
+   Cardiac death or MI            7.6% (77/1010)                   5.6% (27/481)
+   Cardiac death or target
+                                  7.0% (71/1010)                   5.4% (26/481)
+   vessel MI (TVMI)
+   Death or TVMI                10.4% (105/1010)                   8.1% (39/481)
+   Death                         6.5% (66/1010)                    4.8% (23/481)
+    Cardiac death                3.1% (31/1010)                     1.7% (8/481)
+    Non cardiac death            3.5% (35/1010)                    3.1% (15/481)
+   MI (3rd UDMI)                 5.1% (52/1010)                    4.2% (20/481)
+   TVMI (3rd UDMI)               4.6% (46/1010)                    4.0% (19/481)
+   Clinically driven TLR         4.0% (40/1010)                    2.1% (10/481)
+   Clinically driven TVR         5.0% (51/1010)                    2.7% (13/481)
+   Stroke                        1.2% (12/1010)                    2.1% (10/481)
+   Stent thrombosis (ARC)
+                                  0.9% (9/1010)                     0.2% (1/481)
+   definite/probable
+    Early thrombosis (≤30
+                                  0.0% (0/1010)                     0.0% (0/481)
+   days)
+    Late thrombosis (31-
+                                  0.9% (9/1010)                     0.2% (1/481)
+   365 days)
+   Bleeding
+    All BARC                    12.3% (124/1010)                   14.8% (71/481)
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                         Page 26
+                                                        Onyx ONE Clear (n=1506)
+          Safety Measures (to             Male (N=1019 Subjects)     Female (N=487 Subjects)
+          365 Days)                          (N=634 Lesions)              (N=634 Lesions)
+            BARC 3-5                          3.7% (37/1010)                4.8% (23/481)
+            BARC 2-5                        11.2% (113/1010)               12.9% (62/481)
+
+                           The overall conclusions of the trial regarding the safety of the Resolute Onyx
+                           Stent when used with 1 month of DAPT in patients at high risk of bleeding can
+                           be generalized to males and females.
+
+                           Region
+                           The composite rate of cardiac death/MI in the Onyx ONE Clear analysis
+                           population at 1-year was 7.5% (42/559) in US subjects, and 6.7% (62/932) in
+                           OUS subjects. Outcomes were not notably different by region.
+
+                           Age
+                           The composite rate of cardiac death/MI in the Onyx ONE Clear analysis
+                           population at 1-year was 7.0% in subjects > 75 years old (55/786) and ≤ 75
+                           years old (49/705). Outcomes were not notably different by age.
+
+                           Race and Ethnicity
+                           Due to regional restrictions related to the collection of race data, this variable
+                           is only known for subjects enrolled through the Onyx ONE US & Japan trial.
+                           Table 14 lists outcomes by race for those subjects. The available race and
+                           ethnicity information is too limited to comment on any potential associations.
+
+
+   Table 14. Principal Safety and Effectiveness Results from One Month to 365 Days by Race - (US &
+                                           Japan Population)
+                                                                               Native
+                                   American                                  Hawaiian or
+                                   Indian or                    Black or       Other
+                                    Alaska                       African       Pacific
+                                     Native        Asian        American      Islander        White         Other
+                                     (N=0          (N=44         (N=47          (N=2         (N=495         (N=12
+                                   Subjects)      Subjects)     Subjects)     Subjects)     Subjects)      Subjects)
+                                     (N=0          (N=56         (N=55          (N=2         (N=649         (N=12
+Safety and Effectiveness            Lesions)      Lesions)      Lesions)      Lesions)      Lesions)       Lesions)
+Measures                           %(m/n)1,2      %(m/n)1,2     %(m/n)1,2     %(m/n)1,2     %(m/n)1,2      %(m/n)1,2
+Safety Measures (to 365
+days)
+Cardiac death or MI                   NA        0.0% (0/43) 8.5% (4/47) 0.0% (0/2)             7.8%       0.0% (0/12)
+                                                                                             (38/490)
+Death                                 NA        0.0% (0/43) 8.5% (4/47) 0.0% (0/2)             4.5%       8.3% (1/12)
+                                                                                             (22/490)
+
+
+        PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                  Page 27
+     Table 14. Principal Safety and Effectiveness Results from One Month to 365 Days by Race - (US &
+                                             Japan Population)
+                                                                         Native
+                                 American                              Hawaiian or
+                                 Indian or                 Black or      Other
+                                  Alaska                    African      Pacific
+                                   Native      Asian       American     Islander        White          Other
+                                   (N=0        (N=44        (N=47         (N=2         (N=495          (N=12
+                                 Subjects)    Subjects)    Subjects)    Subjects)     Subjects)       Subjects)
+                                   (N=0        (N=56        (N=55         (N=2         (N=649          (N=12
+Safety and Effectiveness          Lesions)    Lesions)     Lesions)     Lesions)      Lesions)        Lesions)
+Measures                         %(m/n)1,2    %(m/n)1,2    %(m/n)1,2    %(m/n)1,2     %(m/n)1,2       %(m/n)1,2
+    Cardiac Death                   NA       0.0% (0/43) 4.3% (2/47) 0.0% (0/2)         1.2%         0.0% (0/12)
+                                                                                       (6/490)
+    Non Cardiac Death               NA       0.0% (0/43) 4.3% (2/47) 0.0% (0/2)         3.3%         8.3% (1/12)
+                                                                                      (16/490)
+MI (3rd UDMI)                       NA       0.0% (0/43) 6.4% (3/47) 0.0% (0/2)         6.7%         0.0% (0/12)
+                                                                                      (33/490)
+Stroke                              NA       0.0% (0/43) 0.0% (0/47) 0.0% (0/2)         1.6%         0.0% (0/12)
+                                                                                       (8/490)
+Stent Thrombosis (ARC)              NA       0.0% (0/43) 0.0% (0/47) 0.0% (0/2)         1.0%         0.0% (0/12)
+Definite/Probable                                                                      (5/490)
+ Early Thrombosis (≤30              NA       0.0% (0/43) 0.0% (0/47) 0.0% (0/2)         0.0%         0.0% (0/12)
+days)                                                                                  (0/490)
+ Late Thrombosis (31-365            NA       0.0% (0/43) 0.0% (0/47) 0.0% (0/2)         1.0%         0.0% (0/12)
+days)                                                                                  (5/490)
+Bleeding
+    All BARC                        NA          11.6%        14.9%     50.0% (1/2)     19.6%           16.7%
+                                                (5/43)       (7/47)                   (96/490)         (2/12)
+    BARC 3-5                        NA       7.0% (3/43) 8.5% (4/47) 0.0% (0/2)         6.3%         8.3% (1/12)
+                                                                                      (31/490)
+1
+ Race was unknown for one subject.
+2
+ Numerator (m) is the number of Subjects with the specific classification, denominator (n) is the number of
+Subjects in the study group with known values, and percentage (%) was calculated as 100 x (m/n).
+Third universal definition of MI was used.
+
+        Acute Coronary Syndrome Status
+
+        The composite rate of cardiac death/MI in the Onyx ONE Clear analysis population at 1-year
+        was 7.9% (55/694) in patients presenting with acute coronary syndromes (ACS) and 6.0%
+        (44/733) in non-ACS patients.
+
+
+
+        PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                            Page 28
+            4. Supplementary Safety and Effectiveness Analysis using the ARC HBR Definition
+                Using the Academic Research Consortium (ARC) HBR definition, subjects are considered
+                HBR if they had at least 1 major criterion or 2 minor criteria. The consensus definition
+                (ARC) of HBR was published after the initiation of the Onyx ONE RCT and Onyx ONE
+                Clear studies, and therefore not all the ARC HBR criteria were collected. Medtronic used
+                captured data to apply the major/minor criteria categorization defined in ARC HBR. In
+                particular, “any documented stroke in the last 12 months” and “hospital admission for
+                major bleeding during the prior 12 months” could not be simply categorized into major or
+                minor ARC HBR criteria due to the lack of information of the timing of the event
+                occurrence. “Renal failure defined as creatinine clearance <40 ml/min” could not be
+                categorized directly because of the different parameters used to evaluate renal failure as
+                compared to ARC HBR. Therefore, Medtronic proposed two categorization approaches to
+                understand the impact on the outcome (including any stroke or major bleeding within 12
+                months and Creatinine clearance <40 ml/min as either a minor or major ARC HBR
+                criteria). The application of ARC HBR definition resulted in smaller numbers of eligible
+                subjects because those who met only one minor ARC HBR criterion (e.g., age ≥ 75
+                years) were excluded from this analysis. The safety and effectiveness results vary slightly
+                between proposal 1 and 2 but are both comparable to the Onyx ONE Clear study results.
+                The CD/MI rates in ARC HBR subjects at 1 year remain below the performance goal.
+
+             5. Pediatric Extrapolation
+                 In this premarket application, existing clinical data was not leveraged to
+                 support approval of a pediatric patient population.
+
+       E. Financial Disclosure
+
+          The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+          applicants who submit a marketing application to include certain information
+          concerning the compensation to, and financial interests and arrangement of, any
+          clinical investigator conducting clinical studies covered by the regulation.
+
+          The Onyx ONE US & Japan Trial included 387 investigators of which none were
+          full-time or part-time employees of the sponsor and 11 had disclosable financial
+          interests/arrangements as defined in 21 CFR 54.2(a), (b), (c) and (f) and described
+          below:
+             • Compensation to the investigator for conducting the study where the value
+                 could be influenced by the outcome of the study: 0; none
+             • Significant payment of other sorts: 10
+             • Proprietary interest in the product tested held by the investigator: 0; none
+             • Significant equity interest held by investigator in sponsor of covered study: 1
+
+          The Onyx ONE Global RCT included 660 investigators of which 1 was the spouse
+          of a full-time employee of the sponsor and 4 had disclosable financial
+          interests/arrangements as defined in 21 CFR 54.2(a), (b), (c) and (f) and described
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                              Page 29
+          below:
+            • Compensation to the investigator for conducting the study where the value
+               could be influenced by the outcome of the study: 0; none
+            • Significant payment of other sorts: 4
+            • Proprietary interest in the product tested held by the investigator: 0; none
+            • Significant equity interest held by investigator in sponsor of covered study: 0;
+               none
+
+          The applicant has adequately disclosed the financial interest/arrangements with
+          clinical investigators. Statistical analyses were conducted by FDA to determine
+          whether the financial interests/arrangements had any impact on the clinical study
+          outcome. The information provided does not raise any questions about the reliability
+          of the data.
+
+XI.    SUMMARY OF SUPPLEMENTAL CLINICAL INFORMATION
+       In addition to the Onyx ONE Clear Primary Analysis, post hoc analyses of the data from
+       the Global RESOLUTE Clinical Program and the optical coherence tomography (OCT)
+       studies of Resolute Onyx and Resolute Integrity also support the high bleeding risk
+       indication for Resolute Onyx.
+       A. Data from Global RESOLUTE Clinical Program
+       In a post-hoc analysis of 4,896 patients from the Global RESOLUTE Clinical Program
+       published by Silber et al, 1,069 (21.83%) patients had DAPT interruption and 3,827
+       patients had no DAPT interruption. Among patients with DAPT interruption, 166
+       patients interrupted DAPT in the first month, with 6 stent thrombosis events occurring
+       in this group (3.61%). Among 903 patients with DAPT interruption between 1 and 12
+       months, one stent thrombosis event occurred (0.11%). Among patients without DAPT
+       interruption, 32 stent thrombosis events occurred (0.84%). Kaplan–Meier estimates of
+       the cumulative incidence of stent thrombosis events showed a significant difference
+       between patients who interrupted DAPT in the first month and patients who interrupted
+       between 1 and 12 months (log-rank P < 0.001). The rates of CD or TVMI were 6.84% in
+       the <1-month interruption group, 1.41% in the >1–12-month interruption group, and
+       4.08% in patients with no DAPT interruption. The authors concluded that while
+       randomized clinical trials were needed to corroborate these results, DAPT interruptions
+       between 1 to 12 months after Resolute stent implantation were associated with low rates
+       of ST and adverse cardiac outcomes.
+       Following the initial analysis published by Silber and colleagues, subsequent analyses
+       were performed assessing additional DAPT interruption timing as well as expanding the
+       dataset from 4,896 to 7,131 patients as data became available from later trials within the
+       Global RESOLUTE Clinical Program. The results from these analyses were consistent
+       with the findings in the original cohort.
+
+
+       B. Data from Optical Coherence Tomography (OCT) Studies
+       OCT imaging is an accepted high-resolution method to evaluate stent strut coverage and
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                            Page 30
+            malapposition once a stent has been implanted. Since incomplete endothelization and
+            positive remodeling has been correlated to the incidence of stent thrombosis,
+            demonstration of early healing is desirable when considering DAPT discontinuation.
+            OCT imaging in the ORION study showed early healing with Resolute Integrity DES at
+            2 months (91.6% strut coverage with Resolute compared to 87.2% with BioMatrix,
+            P=0.06) and at 3 months (94.2% vs 87.0%; P=0.004) 4. In the Onyx 1-Month OCT
+            Study, patients implanted with the Resolute Onyx DES demonstrated an early healing
+            profile with an average of 88% of struts covered by neointima and 92.3% of the total
+            stented area showing complete strut coverage at one month 5.
+
+
+
+    XII.    PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+            In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+            Medical Devices Act of 1990, this PMA was not referred to the Circulatory Systems
+            Devices Panel, an FDA advisory committee, for review and recommendation because
+            the information in the PMA substantially duplicates information previously reviewed by
+            this panel.
+    XIII.   CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+            The safety and effectiveness of Resolute Onyx is based on the results of preclinical
+            studies leveraged from the original Resolute Onyx PMA, including biocompatibility, in
+            vivo pharmacokinetics (generated on the Resolute product); in vitro engineering testing;
+            coating characterization; chemistry, manufacturing and controls information; in vivo
+            animal testing; sterilization and stability testing.
+            The Onyx ONE Clear Primary Analysis evaluated the safety and effectiveness of the
+            Resolute Onyx stent as compared to a PG with the use of one-month DAPT in selected
+            subjects deemed at high risk for bleeding and/or medically unsuitable for more than one-
+            month DAPT treatment. The analysis included subjects who were treated with a
+            Resolute Onyx stent and were one-month clear from two studies: Onyx ONE US &
+            Japan Trial (751 subjects) and the Onyx ONE Global RCT (1018 subjects). The study
+            met the primary endpoint of a composite of cardiac death and myocardial infarction
+            from one month to one year in HBR patients treated with one-month DAPT and
+            supports the safety and effectiveness of the Resolute Onyx stent.
+
+            A. Effectiveness Conclusions
+
+               Among Onyx ONE Clear patients in the Onyx ONE Clear Primary Analysis, lesion
+
+4
+  Stephen L. et al. A Randomized Optical Coherence Tomography Study Comparing Resolute Integrity to Biomatrix
+Drug-Eluting Stent on the Degree of Early Stent Healing and Late Lumen Loss. Circulation: Cardiovascular
+Interventions, 2018; 11 (4): 1-10. https://doi.org/10.1161/CIRCINTERVENTIONS.117.006034
+5
+  Roleder T, Kedhi E, Berta B, et al. Short-term stent coverage of second-generation zotarolimus-eluting durable
+polymer stents: Onyx one-month optical coherence tomography study. Postepy Kardiol Interwencyjnej.
+2019;15(2):143-150. doi:10.5114/aic.2019.86009
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                                          Page 31
+          success was reported as 94.6% (1817/1920), device success was reported as 93.3%
+          (1790/1919) and procedure success was reported as 88.5% (1295/1463).
+
+       B. Safety Conclusions
+
+          The primary endpoint for the Onyx ONE Clear Primary Analysis (a composite of
+          cardiac death and myocardial infarction from one month to one year for a one-month
+          clear population) was 7.0% (104/1491) with an upper one-sided 95% CI of 8.4%.
+          This is lower than the prespecified performance goal of 9.7% and therefore meets
+          criteria for success.
+          The risks associated with use of Resolute Onyx have been evaluated in the clinical
+          studies discussed above along with non-clinical laboratory, animal studies and
+          clinical studies leveraged from the original Resolute Onyx PMA approval. The
+          biocompatibility, in vivo pharmacokinetics (data generated on the Resolute product),
+          and in vivo performance characteristics of the product provide a reasonable
+          assurance of safety for clinical use.
+          In summary, the leveraged nonclinical data along with the results from the Onyx
+          ONE Clear Primary Analysis, the Global RESOLUTE Clinical Program, and OCT
+          studies demonstrate that Resolute Onyx stent provides reasonable assurance of safety
+          and effectiveness when used according to the proposed indications for the treatment
+          of selected HBR patients who discontinue DAPT after one month.
+
+       C. Benefit-Risk Determination
+
+          The probable benefits and risks of the device when used with 1 month of DAPT post
+          PCI to treat patients at high bleeding risk are based on data collected in the Onyx
+          ONE Clear Primary Analysis.
+
+          Additional factors to be considered in determining probable risks and benefits for the
+          Resolute Onyx stent include characterization of the disease, availability of alternative
+          treatments, quality of the study design and conduct, robustness of analysis of study
+          results, and risk mitigations. Coronary artery disease (CAD) can be accompanied by
+          symptomatic chest pain or silent ischemia, which affects patients’ quality of life.
+          CAD is treatable, but if left untreated, the condition can progress to further stenosis
+          within the arteries, increased symptoms and the need for revascularization. Available
+          treatments for CAD include medical therapy, percutaneous coronary intervention
+          (PCI) and coronary artery bypass graft (CABG) surgery. When treatment for
+          coronary artery disease beyond medications and lifestyle changes is warranted,
+          patients often choose stent deployment over surgical revascularization due to shorter
+          recovery times and the less invasive nature of PCI. The risks associated with use of
+          drug eluting stents are already well established, and in comparison to medical
+          therapy, PCI has been shown to reduce the incidence of angina and increase quality
+          of life. Patient tolerance of the Resolute Onyx stent in the Onyx ONE Clear Primary
+          Analysis is in line with expectations. The study did not exclude any typical patient
+          subgroups that would be expected to benefit from treatment.
+            1. Patient Perspective
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                            Page 32
+                This submission did not include specific information on patient perspectives
+                for this device.
+
+          In conclusion, given the available information above, the data support that for the
+          improvement of coronary luminal diameters in patients, including those with
+          diabetes mellitus or for patients at high bleeding risk, with symptomatic ischemic
+          heart disease due to de novo lesions of length ≤ 35 mm in native coronary arteries
+          with reference vessel diameters of 2.0 mm to 5.0 mm, including the treatment of de
+          novo chronic total occlusions, the probable benefits outweigh the probable risks.
+
+       D. Overall Conclusions
+
+          The data in this application support the reasonable assurance of safety and
+          effectiveness of this device when used in accordance with the indications for use.
+          Data from the Onyx ONE Clear Primary Analysis, the Global RESOLUTE Clinical
+          Program, and OCT studies support the safety and effectiveness of the Resolute
+          Onyx™ Zotarolimus-Eluting Coronary Stent System for the treatment of patients
+          who are at high bleeding risk.
+
+XIV.   CDRH DECISION
+
+       CDRH issued an approval order on September 22, 2020.
+
+       The applicant’s manufacturing facilities have been inspected and found to be in
+       compliance with the device Quality System (QS) regulation (21 CFR 820).
+
+
+XV.    APPROVAL SPECIFICATIONS
+
+       Directions for use: See device labeling.
+       Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+       Precautions, and Adverse Events in the device labeling.
+       Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+PMA P160043/S034: FDA Summary of Safety and Effectiveness Data                           Page 33
+

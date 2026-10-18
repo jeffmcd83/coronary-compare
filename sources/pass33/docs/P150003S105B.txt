@@ -1,0 +1,1413 @@
+     SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+
+I.      GENERAL INFORMATION
+
+        Device Generic Name:                Coronary Drug-Eluting Stent
+
+        Device Trade Name:                  SYNERGY™ XD Everolimus-Eluting Platinum
+                                            Chromium Coronary Stent System (Monorail™)
+
+                                            SYNERGY MEGATRON™ Everolimus-Eluting
+                                            Platinum Chromium Coronary Stent System
+                                            (Monorail™)
+
+                                            SYNERGY™ SHIELD Everolimus-Eluting
+                                            Platinum Chromium Coronary Stent System
+                                            (Monorail™)
+
+        Device Procode:                     NIQ
+
+        Applicant’s Name and Address:       Boston Scientific Corporation
+                                            300 Boston Scientific Way
+                                            Marlborough, MA 01752-1566
+
+        Date of Panel Recommendation:       None
+
+        Premarket Approval Application      P150003/S105
+        (PMA) Number:
+
+        Date of FDA Notice of Approval:     January 27, 2025
+
+        The SYNERGY™ Everolimus-Eluting Platinum Chromium Coronary Stent System
+        (Monorail and Over-the-Wire) PMA (P150003) was originally approved on July 30,
+        2016. The SYNERGY family of stents approved under that PMA and various
+        supplements are indicated for improving luminal diameter in patients, including those
+        with diabetes mellitus, with symptomatic heart disease, stable angina, unstable angina,
+        non-ST elevation MI or documented silent ischemia due to atherosclerotic lesions in
+        native coronaU\DUWHULHVPPWR5.00 PPLQGLDPHWHULQOHVLRQV44 mm in length
+        DQGIRUKLJKEOHHGLQJULVNSDWLHQWVZLWKFRURQDU\DUWHULHVPPWRPPLQ
+        GLDPHWHULQOHVLRQVPPLQOHQJWK. The SSEDs to support these indications are
+        available on the following CDRH websites and are incorporated into the current SSED by
+        reference here.
+
+        -P150003: http://www.accessdata.fda.gov/cdrh_docs/pdf15/P150003B.pdf
+        -P150003/S003: http://www.accessdata.fda.gov/cdrh_docs/pdf15/P150003S003B.pdf
+        -P150003/S058: http://www.accessdata.fda.gov/cdrh_docs/pdf15/P150003S058B.pdf
+       The current supplement was submitted to expand the indication for the SYNERGY,
+       SYNERGY XD, SYNERGY MEGATRON, and SYNERGY SHIELD Everolimus-
+       Eluting Platinum Chromium Coronary Stent Systems to include patients with ST
+       segment-elevation MI (STEMI).
+
+ II.   INDICATIONS FOR USE
+
+       Note that the indications for each stent in the SYNERGY family of stents vary regarding
+       vessel and lesion size. The indications approved in this supplement for the SYNERGY XD,
+       SYNERGY MEGATRON, and SYNERGY SHIELD are listed below.
+
+       The SYNERGY™ XD Everolimus-Eluting Platinum Chromium Coronary Stent System
+       is indicated for improving luminal diameter in patients, including those with diabetes
+       mellitus, with symptomatic heart disease, stable angina, unstable angina, ST-elevation MI
+       (STEMI), non-ST elevation MI or documented silent ischemia due to atherosclerotic
+       OHVLRQVLQQDWLYHFRURQDU\DUWHULHVPPWRPPLQGLDPHWHULQOHVLRQVPP
+       LQOHQJWKDQGIRUKLJKEOHHGLQJULVNSDWLHQWVZLWKFRURQDU\DUWHULHVPPWR
+       mm iQGLDPHWHULQOHVLRQVPPLQOHQJWK
+
+       The SYNERGY™ MEGATRON Everolimus-Eluting Platinum Chromium Coronary
+       Stent System is indicated for improving luminal diameter in patients, including those at
+       high risk for bleeding, with diabetes mellitus, with symptomatic heart disease, stable
+       angina, unstable angina, ST elevation MI, non-ST elevation MI or documented silent
+       LVFKHPLDGXHWRDWKHURVFOHURWLFOHVLRQVLQQDWLYHFRURQDU\DUWHULHVPPWRPP
+       LQGLDPHWHULQOHVLRQVPPLQOHQJWK
+
+       The SYNERGY™ SHIELD Everolimus-Eluting Platinum Chromium Coronary Stent
+       System is indicated for improving luminal diameter in patients, including those with
+       diabetes mellitus, with symptomatic heart disease, stable angina, unstable angina, ST
+       elevation MI, non-ST elevation MI or documented silent ischemia due to atherosclerotic
+       OHVLRQVLQQDWLYHFRURQDU\DUWHULHVPPWRPPLQGLDPHWHULQOHVLRQVPP
+       LQOHQJWKDQGIRUKLJKEOHHGLQJULVNSDWLHQWVZLWKFRURQDU\DUWHULHVPPWR
+       mm in diDPHWHULQOHVLRQVPPLQOHQJWK
+
+
+
+III.   CONTRAINDICATIONS
+
+       Use of the SYNERGY™, SYNERGY™ XD, SYNERGY™ MEGATRON, and
+       SYNERGY™ SHIELD Everolimus-Eluting Platinum Chromium Coronary Stent System
+       is contraindicated in patients with known hypersensitivity to:
+           x 316L stainless steel, platinum, chromium, iron, nickel or molybdenum;
+           x Everolimus or structurally-related compounds; and/or
+           x The polymer or their individual components.
+             Coronary Artery Stenting is contraindicated for use in:
+                x Patients judged to have a lesion that prevents complete inflation of an angioplasty
+                   balloon or proper placement of the stent or delivery device.
+                x Patients with uncorrected bleeding disorders or patients who cannot receive
+                   anticoagulation or antiplatelet aggregation therapy.
+
+IV.          WARNINGS AND PRECAUTIONS
+
+             The warnings and precautions can be found in the SYNERGY™ Everolimus-Eluting
+             Platinum Chromium Coronary Stent System, SYNERGY™ XD Everolimus-Eluting
+             Platinum Chromium Coronary Stent System, SYNERGY™ MEGATRON Everolimus-
+             Eluting Platinum Chromium Coronary Stent System, and SYNERGY™ SHIELD
+             Everolimus-Eluting Platinum Chromium Coronary Stent System respective labeling.
+
+V.           DEVICE DESCRIPTION
+
+             The SYNERGY family of stents are device/drug combination products that provide a
+             mechanical structure for vascular lumen support (primary mode of action) and a
+             pharmacological agent (everolimus) targeted towards reducing the injury response. Both
+             systems consist of a drug/polymer-coated balloon-expandable stent, pre-mounted on a
+             Monorail™ (MR) delivery catheter. SYNERGY can also be mounted as an Over-The-Wire
+             (OTW) delivery catheter. The stent is made from a platinum chromium alloy (PtCr). The
+             drug/polymer coating consists of a bioabsorbable polymer, poly (D,L-lactide-co-glycolide)
+             (PLGA), and the active pharmaceutical ingredient, everolimus. The characteristics of the
+             SYNERGY™, SYNERGY™ XD, SYNERGY™ MEGATRON, and SYNERGY™
+             SHIELD Everolimus-Eluting Platinum Chromium Coronary Stent Systems (hereafter
+             referred to as SYNERGY, SYNERGY XD, SYNERGY MEGATRON, and SYNERGY
+             SHIELD, SYNERGY family of stents, or SYNERGY are described in Table 1.
+
+                        Table 1: SYNERGY Family of Stents Product Description
+                                             SYNERGY             SYNERGY XD/       SYNERGY
+                          SYNERGY
+                                            Over-the-Wire       SHIELD Monorail MEGATRON
+                        Monorail Stent
+                                            Stent Delivery        Stent Delivery Monorail Stent
+                        Delivery System
+                                               System                System      Delivery System
+      Available Stent                                           8, 12, 16, 20, 24, 28, 8, 12, 16, 20, 24,
+                            8, 12, 16, 20, 24, 28, 32, 38
+      Lengths (mm)                                                   32, 38, 48*             28, 32
+                        2.25, 2.50, 2.75,                         2.25, 2.50, 2.75,
+      Available Stent                       2.25, 2.50, 2.75,
+                           3.00, 3.50,                            3.00, 3.50, 4.00,     3.50, 4.00, 4.50
+      Diameters                                   3.00,
+                          4.00, 4.50**,                              4.50** and            and 5.00
+      (mm)                                     3.50, 4.00
+                             5.00**                                    5.00**
+      Stent Material                          Platinum Chromium Alloy (PtCr)
+                 2.25 mm to 2.75
+               mm: 0.0029 inches
+                                             2.25 mm to 2.75 mm:
+                    (0.074 mm)
+                                           0.0029 inches (0.074 mm)
+                 3.00 mm to 3.50
+Stent Strut                                  3.00 mm to 3.50 mm:                 0.0035 inches
+               mm: 0.0031 inches
+Thickness                                  0.0031 inches (0.079 mm)               (.089 mm)
+                    (0.079 mm)
+                                             4.00 mm to 5.00 mm:
+                 4.00 mm to 5.00
+                                           0.0032 inches (0.081 mm)
+               mm: 0.0032 inches
+                    (0.081 mm)
+               An abluminal (outer surface of the stent in contact with the vessel wall) coating
+               RIDSRO\PHUFDUULHUZLWKDSSUR[LPDWHO\ȝJRIHYHUROLPXVSHUPP2 of total
+               VWHQWVXUIDFHDUHDZLWKDPD[LPXPQRPLQDOGUXJFRQWHQWRIȝJRQWKH
+               ODUJHVWVWHQW PP IRU6<1(5*<ȝJRQWKHODUJHVWVWHQWIRU
+Drug Product   ;'6+,(/' PP DQGȝJRQWKHODUJHVWVWHQWIRU0(*$7521 
+               mm).
+                                                             SYNERGY
+                                      SYNERGY                XD/SHIELD          SYNERGY
+                 SYNERGY
+                                     Over-the-Wire           Monorail          MEGATRON
+               Monorail Stent
+                                     Stent Delivery            Stent          Monorail Stent
+               Delivery System
+                                        System               Delivery         Delivery System
+                                                              System
+                                         Delivery System
+Effective
+                                                    144 cm
+Length
+                                   Y-Connector (Side Single access port Single access port to
+             Single access port to arm for access to to inflation lumen. inflation lumen.
+             inflation lumen.      balloon               Guidewire exit      Guidewire exit port is
+Delivery     Guidewire exit port inflation/deflation port is located         located approximately
+System Ports is located            lumen. Straight       approximately 23 25cm from tip.
+             approximately 25      arm is continuous cm (XD) and 26 Designed for
+             cm from tip.          with shaft inner      cm (SHIELD)         guidewire
+             Designed for          lumen). Designed from tip.                 inches (0.36
+             guidewire             for guidewire         Designed for        mm).
+               inches (0.36 LQFKHV JXLGHZLUH
+              mm)                  mm)                   inches (0.36 mm)
+Stent         A balloon, with two radiopaque balloon markers, nominally placed 0.4 mm (0.016
+Delivery                              inches) beyond the stent at each end.
+Balloon                Nominal Inflation Pressure for all the diameters: 11 atm (1117 kPa)
+Inflation     Rated Burst Inflation Rated Burst          Rated Burst         Rated Burst Inflation
+Pressure      Pressure:             Inflation Pressure: Inflation Pressure: Pressure:
+              x Diameters 2.25     x Diameters 2.25 x Diameters 2.25 x Diameters 3.50 –
+                 mm – 2.75 mm:       mm – 2.75 mm:          mm – 2.75 mm: 5.00mm: 16 atm
+                 18 atm (1827        18 atm (1827           18 atm             (1620 kPa)
+                 kPa)                kPa)                   (1827 kPa)
+              x Diameters 3.00     x Diameters 3.00 x Diameters 3.00
+                 mm – 5.00 mm:       mm – 4.00 mm:          mm – 5.00 mm:
+                 16 atm (1620 kPa) 16 atm (1620 kPa) 16 atm (1620
+                                                            kPa)
+Catheter      Proximal: 2.1 F       Proximal: 3.2F       XD - Proximal:      Proximal: 2.1F (0.70
+Shaft Outer (0.70 mm)               (1.07 mm) for 2.25 2.0 F (0.67 mm) mm)
+Diameter                            to 3.50 mm sizes, SHIELD -
+              Distal:               3.4F (1.15 mm)       Proximal: 2.1F      Distal:
+              2.25 mm – 2.75        proximal for 4.00 (0.70 mm)              3.50 mm:
+              mm: 2.6F              mm sizes                                 • 8 mm – 20 mm:
+              (0.90 mm)                                  Distal:             2.6F
+              3.00 mm:              Distal: 2.4F (0.82 2.25 mm – 2.75 (0.89 mm)
+                x (8 – 28 mm):      mm) for 2.25 to      mm:                 • 24 mm – 32 mm:
+                  2.6F (0.90        2.75 mm sizes,       2.6F (0.89 mm)      2.7F
+                  mm)               2.7F  (0.92 mm)  for 3.00  mm:          (0.92  mm)
+                x (32 – 38 mm): 3.00 to 4.00 mm            x (8 – 28 mm): 4.00 mm - 5.00 mm:
+                                   sizes                     2.6F            8mm – 32 mm: 2.7F
+
+
+                                                                                                  1
+                              2.7F                                     (0.89 mm)     (0.92 mm)
+                             (0.95 mm)                               x (32 – 48 mm):
+                         3.50 mm:                                      2.7F
+                           x (8 – 20 mm):                              (0.92 mm)
+                             2.6F (0.90                             3.50 mm:
+                             mm)                                     x (8 – 20 mm):
+                           x (24 – 38 mm):                             2.6F
+                              2.7F                                     (0.89 mm)
+                             (0.95 mm)                               x (24 – 48 mm):
+                         4.00 mm – 5.00                                2.7F
+                         mm: 2.7F                                      (0.92 mm)
+                         (0.95 mm)                                  4.00 mm – 5.00
+                                                                    mm:
+                                                                    2.7F (0.92 mm)
+              Guide       2.25 – PP ) (0.066                                3.50 - PP)
+              Catheter    5F                                        2.25 – PP
+                                             inches/1.68 mm)                           (0.056 inches/1.42
+              Minimum (0.056 inches/1.42                            5F (0.056
+                                                                                       mm)
+              Inner       mm)                                       inches/1.42 mm)
+                                                                                       4.50 - PP)
+              Diameter    4.50 mm – 5.00
+                                                                    4.50 mm – 5.00 (0.070 inches/1.78
+              Requirement PP6F
+                         (0.066 inches/1.68                         PP)  mm)
+                         mm)                                        inches/1.78 mm)
+
+          Shelf life                                       24 months
+          * The 48 mm length is not available in 2.25 mm, 4.50 mm or 5.00 mm diameters.
+          ** 4.50 mm and 5.00 mm diameter sizes are not available in 8 mm and 38 mm lengths.
+
+              A. Device Component Description
+              The SYNERGY stents are comprised of a Platinum Chromium Alloy (PtCr). The stent
+              component is laser cut into a specific geometric pattern, which consists of serpentine rings
+              connected by links that are highly polished to a uniform rounded surface.
+
+              Four separate stent models were designed in specific size ranges. A stent model is defined as a
+              variation of a specific geometry pattern designed for various vessel diameters. The four models
+              are defined below:
+                 x Small Vessel (SV): 2.25 mm, 2.50 mm and 2.75 mm
+                 x Workhorse (WH): 3.00 mm and 3.50 mm
+                 x Large Vessel (LV): 4.00 mm, 4.50 mm and 5.00 mm
+                 x Extra Large Vessel (XLV; SYNERGY MEGATRON only): 3.50 mm, 4.00 mm, 4.50
+                     mm and 5.00 mm
+
+                 The commercial matrices are shown in Table 2 & Table 3 below.
+
+          Table 2: SYNERGY, SYNERGY XD, and SYNERGY SHIELD Product Matrix
+                                                                       Stent Length
+l / Balloon
+
+
+
+
+                                                                                                              2
+eter
+                     8 mm      12 mm 16 mm 20 mm 24 mm 28 mm 32 mm 38 mm 48 mm
+         2.25 mm        X        X     X     X     X     X     X     X
+   SV    2.50 mm        X        X     X     X     X     X     X     X     X
+         2.75 mm        X        X     X     X     X     X     X     X     X
+   W     3.00 mm        X        X     X     X     X     X     X     X     X
+   H     3.50 mm        X        X     X     X     X     X     X     X     X
+         4.00 mm        X        X     X     X     X     X     X     X     X
+   LV    4.50 mm                 X     X     X     X     X     X
+         5.00 mm                 X     X     X     X     X     X
+
+Table 3: SYNERGY MEGATRON U.S. Product Matrix
+                                                         Stent Length
+                     8 mm       12 mm        16 mm       20 mm      24 mm          28 mm       32 mm
+         3.50 mm        X         X            X           X          X              X           X
+         4.00 mm        X         X            X           X          X              X           X
+   XL    4.50 mm        X         X            X           X          X              X           X
+   V     5.00 mm        X         X            X           X          X              X           X
+
+ B. Drug Component Description
+
+The SYNERGY stent drug matrix is composed of the bioabsorbable polymer poly (D,L- lactide-co-
+glycolide) (PLGA) and the anti-proliferative drug everolimus. The drug to polymer formulation is
+45:55 (w/w).
+
+   1. Everolimus
+The active pharmaceutical ingredient in the SYNERGY stents is everolimus. The everolimus
+chemical name is 40-O-(2-hydroxyethyl)-rapamycin, and its chemical structure is provided in
+Figure 1. The nominal total loaded dose of everolimus and coat weight per nominal stent
+length/diameter is shown in Table 4.
+
+
+
+
+                                                                                               3
+                             Figure 1: Structure of Everolimus
+
+
+  Table 4: Nominal Loaded Dose of Everolimus (μg) and Coat Weight per Nominal Stent
+                                Length and Diameter
+                                                 Stent Length
+                            8        12   16    20     24   28    32    38    48
+   Design      Stent Model
+                           mm       mm mm mm mm mm mm mm mm
+ Total Drug        SV      38.9     58.3 77.6 96.9 121.1 140.5 159.8 188.9 237.2
+Content/ Stent     WH      46.5     66.3 92.7 112.5 132.3 158.7 178.5 211.6 271.0
+    (μg)           LV      67.5     96.2 124.8 153.5 182.2 210.8 239.5 287.2 363.6
+                  XLV      61.5     87.9 123.1 149.5 175.8 211.0 237.4 N/A N/A
+
+ Total Coat         SV        87     132   174   218    273   316   360   426 535
+ Weight/Stent      WH         104    149   209   254    298   358   403   477 611
+    (μg)            LV        152    217   281   346    411   475   539   647 819
+                   XLV        139    198   277   337    396   476   535   N/A N/A
+
+  2. Inactive Ingredient
+    Polymer—Poly (DL-lactide-co-glycolide) (PLGA)
+The SYNERGY stent is abluminally coated with a bioabsorbable coating. The coating consists of
+bioabsorbable PLGA polymer and everolimus. The PLGA polymer provides controlled and
+sustained release of available everolimus through the intended time frame, during which the
+polymer is reabsorbed into the body. The chemical structure of PLGA is shown in Figure 2.
+
+
+                                                                                           4
+                                        Figure 2: Structure of PLGA
+          3. Mechanism of Action of Everolimus
+       At the cellular level, everolimus inhibits growth factor-stimulated cell proliferation in a
+       reversible manner. Everolimus binds to cytosolic FKBP12 and subsequently inhibits activation
+       of the regulatory kinase mTOR (mammalian target of rapamycin).1 This inhibition results in cell
+       arresting at the late G1 phase in the cell cycle and thereby impedes functions that govern cell
+       metabolism, growth, and proliferation.2
+
+
+VI.           ALTERNATIVE PRACTICES AND PROCEDURES
+       There are alternatives for the improvement of luminal diameter in patients with STEMI. These
+       may include other percutaneous coronary interventions (such as balloon angioplasty and the
+       placement of other stents), and coronary artery bypass graft surgery (CABG). Each alternative
+       has its own advantages and disadvantages. A patient should fully discuss these alternatives with
+       his/her physician to select the method that best meets expectations and lifestyle.
+
+
+VII.          MARKETING HISTORY
+
+
+       US Marketing History
+       The Original PMA (P150003) for SYNERGY Everolimus-Eluting Platinum Chromium Coronary
+       Stent System (Monorail and Over-The-Wire) received approval on October 2, 2015. The
+       manufacture of SYNERGY MR and OTW platforms for distribution in the US has been
+       discontinued.
+       As of April 24, 2024, approximately 3,608,579 SYNERGY family stents have been distributed
+       in the United States.
+       International Marketing (OUS) History
+       SYNERGY MR became available in international markets outside of the US (OUS) in November
+       2012. As of April 24, 2024, approximately 4,160,229 SYNERGY family stents have been
+       distributed OUS.
+       Table 5 lists countries where the SYNERGY product is currently commercially available. No
+       products have been withdrawn from the market in any country for any reason.
+                       Table 5: Countries with SYNERGY Commercial Availability
+
+
+
+                                                                                                          5
+  Albania                     Algeria                Andorra                      Angola
+  Argentina                   Aruba                  Australia                    Austria
+  Azerbaijan                  Bahamas                Bahrain                      Bangladesh
+  Barbados                    Belarus                Belgium                      Bermuda
+  Bolivia                     Bonaire & Saba         Bosnia & Herzegovina         Botswana
+  Botswana                    Brazil                 Brunei                       Bulgaria
+  Cambodia                    Canada                 Cayman Islands               Chile
+  China                       Colombia               Costa Rica                   Croatia
+  Curaçao                     Cyprus                 Czech Republic               Denmark
+  Dominican Republic          Ecuador                El Salvador                  Estonia
+  Finland                     France                 Georgia                      Germany
+  Great Britain               Greece                 Guatemala                    Guyana
+  Haiti                       Hong Kong              Hungary                      Iceland
+  India                       Indonesia              Iran                         Iraq
+  Ireland                     Israel                 Italy                        Jamaica
+  Japan                       Jordan                 Kazakhstan                   Kenya
+  Kosovo                      Kuwait                 Latvia                       Lebanon
+  Libya                       Liechtenstein          Lithuania                    Luxembourg
+  Macau                       Malaysia               Malta                        Martinique
+  Mauritius                   Mexico                 Mongolia                     Montenegro
+  Morocco                     Myanmar                Namibia                      Nepal
+  Netherlands, The            New Zealand            North Macedonia, Republic    Norway
+  Oman                        Pakistan               Palestinian National Auth.   Panama
+  Paraguay                    Peru                   Philippines                  Poland
+  Portugal                    Qatar                  Romania                      Russian Federation
+  Saudi Arabia                Serbia                 Singapore                    Slovakia
+  Slovenia                    South Africa           South Korea                  Spain
+  Sri Lanka                   Sweden                 Switzerland                  Taiwan
+  Tajikistan                  Thailand               Trinidad & Tobago            Tunisia
+  Turkey                      Uganda                 Ukraine                      United Arab Emirates
+  United States               Uzbekistan             Venezuela                    Vietnam
+
+
+VIII.          POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+        Potential adverse events (in alphabetical order) which may be associated with the use of a
+        coronary stent in native coronary arteries include but are not limited to:
+            x Abrupt stent closure
+            x Allergic reaction to anti-coagulant and/or antiplatelet therapy, contrast medium, or stent
+                materials, including the stent metallic components and polymer coating
+            x Angina
+            x Arrhythmias, including ventricular fibrillation, ventricular tachycardia, and heart block
+            x Cardiogenic shock/pulmonary edema
+
+
+                                                                                                           6
+    x   Death
+    x   Embolization, (air, tissue or thrombotic material or material from devices(s) used in the
+        procedure) including stent embolization of migration
+    x   Heart failure
+    x   Hemorrhage, which may require transfusion, including bleeding and hematoma
+    x   Hypotension/hypertension
+    x   Infection, local or systemic, including fever and pyrogen reaction
+    x   Myocardial ischemia or infarction
+    x   Pain, chest or access site
+    x   Pericardial effusion or cardiac tamponade
+    x   Renal insufficiency or failure
+    x   Respiratory failure
+    x   Restenosis or aneurysm of stented segment
+    x   Stent deformation, collapse, or fracture
+    x   Stent thrombosis/occlusion
+    x   Stroke/cerebrovascular accident/transient ischemic attack (TIA)
+    x   Vessel trauma requiring surgical repair or re-intervention, including coronary, femoral or
+        radial artery spasm, dissection, occlusion, perforation, rupture, or pseudoaneurysm
+
+Adverse events associated with daily oral administration of everolimus to organ transplant
+patients include but are not limited to:
+    x Abdominal pain (including upper abdominal pain)
+    x Anemia
+    x Angioedema
+    x Anorexia
+    x Asthenia
+    x Constipation
+    x Cough
+    x Delayed wound healing/fluid accumulation
+    x Diarrhea
+    x Dyslipidemia (including hyperlipidemia and hypercholesterolemia)
+    x Dysgeusia
+    x Dyspepsia
+    x Dyspnea
+    x Dysuria
+    x Dry skin
+    x Edema (Peripheral)
+    x Epistaxis
+    x Fatigue
+    x Headache
+    x Hematuria
+    x Hyperglycemia (may include new onset of diabetes)
+    x Hyperkalemia
+    x Hyperlipidemia
+
+
+
+                                                                                                 7
+          x   Hypertension
+          x   Hypokalemia
+          x   Hypomagnesemia
+          x   Increased serum creatinine
+          x   Infections and serious infections: bacterial, viral, fungal, and protozoal infections (may
+              include herpes virus infection, polyoma virus infection which may be associated with BK
+              virus associated nephropathy, and/or other opportunistic infections)
+          x   Insomnia
+          x   Interaction with strong inhibitors and inducers of CYP3A4
+          x   Leukopenia
+          x   Lymphoma and other malignancies (including skin cancer)
+          x   Male infertility (azospermia and/or oligospermia)
+          x   Mucosal inflammation (including oral ulceration and oral mucositis)
+          x   Nausea
+          x   Neutropenia
+          x   Non-infectious pneumonitis
+          x   Pain; extremity, incision site and procedural, back, chest, musculoskeletal
+          x   Proteinuria
+          x   Pruritus
+          x   Pyrexia
+          x   Rash
+          x   Stomatitis
+          x   Thrombocytopenia
+          x   Thrombotic Microangiopathy (TMA)/Thrombotic thrombocytopenic purpura
+              (TTP)/Hemolytic uremic syndrome (HUS)
+          x   Tremor
+          x   Upper respiratory tract infection
+          x   Urinary tract infection
+          x   Vomiting
+
+      There may be other potential adverse events that are unforeseen at this time.
+
+      For the specific adverse events that occurred in the CLEAR SYNERGY clinical study, please see
+      Section X: Summary of Primary Clinical Studies, below.
+
+IX.           SUMMARY OF NON-CLINICAL STUDIES
+
+      A summary of previously reported preclinical studies can be found in the SSED for the original
+      PMA. Because these previously collected data sufficiently represent the performance of the
+      device for the new indications for use, no new non-clinical testing was conducted.
+
+X.            SUMMARY OF PRIMARY CLINICAL STUDY
+
+
+
+
+                                                                                                       8
+The applicant leveraged the SYNERGY Stent Registry to establish a reasonable assurance of
+safety and effectiveness of the SYNERGY family of stents in patients with ST-elevated
+myocardial infarction (STEMI). The study was conducted in eight countries including Canada,
+the Czech Republic, North Macedonia, Serbia, Spain, Switzerland, the United Kingdom, and the
+United States under IDE # G170179. Data from this clinical study was the basis for the PMA
+supplement approval decision. A summary of the clinical study is presented below.
+
+ A. Study Design
+ Patients were treated between March 29, 2018 and August 10, 2020. The database for this
+ Panel Track Supplement reflected data collected through August 10, 2021 and included 730
+ patients. There were 29 investigational sites.
+
+ The SYNERGY Stent Registry was a prospective, multicenter, open label, single-arm study to
+ assess the safety and effectiveness of the SYNERGY family of stents in patients with STEMI.
+ The SYNERGY Stent Registry was embedded in the CLEAR SYNERGY (OASIS 9) clinical
+ study performed by Population Health Research Institute (PHRI).
+ The primary endpoint for the study was the rate of major adverse cardiac events (MACE) at 1
+ year. This rate was compared to a historical performance goal of 9.45% derived from previous
+ percutaneous coronary intervention (PCI) STEMI trials.
+
+ An event adjudication committee was responsible for adjudicating primary outcome events.
+ Target lesion revascularization (TVR), target vessel revascularization (TVR) and stent
+ thrombosis were adjudicated by a core laboratory. An independent data monitoring committee
+ oversaw the overall safety of patients in the trial by monitoring the conduct of the trial and the
+ integrity of the data in the trial.
+
+ Additional Drug Trial
+ Most (N=533) patients in the SYNERGY Stent Registry study were also enrolled in the larger
+ (N=7,062) CLEAR SYNERGY (OASIS 9) trial. The CLEAR SYNERGY trial was a
+ randomized, placebo-controlled, double-blind, 2x2 factorial study in which patients received
+ daily regimens of any combination of 2 experimental drug therapies or placebo after acute MI.
+ Additional discussion of this unusual aspect of the trial design appears later in this document.
+
+1. Clinical Inclusion and Exclusion Criteria
+     Enrollment in the SYNERGY Stent Registry was limited to patients who met the following
+     inclusion criteria:
+         x Presenting with STEMI and referred for PCI within 12 hours of symptom onset, had
+             a culprit lesion amenable to stenting, and had planned SYNERGY stent
+             implantation
+
+     Patients were not permitted to enroll in the SYNERGY Stent Registry if they met any of
+     the following exclusion criteria:
+         x $JH\HDUV
+
+
+
+
+                                                                                                      9
+       x    Pregnancy, breastfeeding, or women of childbearing potential who are not using an
+            effective method of contraception
+       x    Any medical, geographic, or social factor making study participation impractical or
+            precluding required follow-up
+       x    Systolic blood pressure <90 mm Hg
+       x    Active diarrhea
+       x    Known allergy or contraindication to everolimus, the SYNERGY stent or any of its
+            components
+       x    Unable to receive dual antiplatelet therapy
+       x    History of cirrhosis or current severe hepatic disease
+       x    Current or planned use of: cyclosporine, verapamil, HIV protease inhibitors, azole
+            antifungals, or macrolide antibiotics
+       x    Creatinine clearance <30 mL/min/1.73 m2
+       x    Serum Potassium >5.0 meq/L
+
+ 2. Follow-up Schedule
+     Patients enrolled only in the SYNERGY Stent Registry (N=200) were scheduled to return
+     for follow-up examinations at 3, 6, and 12 months post-procedure. Patients also enrolled
+     in the 2x2 factorial RCT study (N=533) were scheduled to return for additional follow-up
+     visits at 2, 3, 4, and 5 years or until the common study end date.
+
+     Prior to the procedure, patients received an electrocardiogram (ECG), laboratory
+     assessments (serum creatinine, serum potassium, hemoglobin, platelet count, white blood
+     cell count), and coronary blood flow was measured. Post-procedure, the objective
+     parameters measured during the study at 3, 6, and 12 months included the same laboratory
+     assessments conducted at baseline. An ECG was also performed at the 12-month follow
+     up visit. Adverse events and complications were recorded at all visits.
+
+3. Clinical Endpoints
+   The primary endpoint, which included components for both safety and effectiveness, is the
+   1-year rate of MACE defined as a composite of:
+      x    cardiovascular (CV) death
+      x    recurrent myocardial infarction (MI)
+      x    unplanned ischemia-driven target vessel revascularization (TVR).
+   Recurrent MI was defined as a rise of biochemical markers of myocardial necrosis to greater
+   than twice the upper limit of normal (ULN), with the addition of at least one of the
+   following criteria: i) ischemic symptoms, ii) development of new pathological Q waves
+   (distinct from index event), iii) ECG changes of new ischemia, or iv) pathological evidence
+   of MI. If markers were already elevated and had not reached their peak the further elevation
+   of a marker 50% of a previous value and >2X ULN was required. If biomarkers were
+   stable or decreasing then a re-elevation of 20% and >2X ULN was required.
+
+
+
+
+                                                                                             10
+  Peri-procedural MI (recurrent MI within 24 hours following PCI) was defined as troponin
+  greater than 5 times the ULN or increased by 50% from values documented to falling and
+  greater than or equal to 5 times ULN in patients with already elevated enzymes, with one of
+  the following: a) symptoms suggestive of myocardial ischemia, or b) new ischemic ECG
+  changes.
+  Ischemia-driven TVR was defined as any ischemia-driven repeat PCI or CABG surgery of
+  the successfully treated target vessel. A TVR was considered ischemia-driven if the target
+  vessel diameter stenosis was DQGany of the following were present: i) a positive
+  functional study corresponding to the area served by the target vessel, ii) ischemic ECG
+  changes at rest in a distribution consistent with the target vessel, iii) ischemic symptoms
+  referable to the target vessel$GGLWLRQDOO\DQ\795ZLWKDVWenosis was considered
+  ischemia-driven even in the absence of clinical or functional ischemia.
+  With regards to success/failure criteria, the study was considered a success if the
+  SYNERGY stent met the performance goal for the primary endpoint of MACE at one year.
+  A one-sized z-test for single proportion was used to test whether the observed MACE rate
+  was less than the pre-specified performance goal. If the upper two-sided 95% confidence
+  interval of the observed rate of MACE at 1 year was less than 9.45%, the performance goal
+  would be met.
+
+  The primary analysis set for the primary endpoint was the intent to treat (ITT) population.
+  All patients in which a SYNERGY stent entered the guiding catheter, irrespective of
+  whether the stent was successfully deployed and irrespective of whether they were
+  randomized in the drug portion of the larger CLEAR SYNERGY trial, were analyzed. To
+  ensure drug randomization did not positively influence trial success, the primary endpoint
+  was also analyzed in only those patients receiving no active study drug.
+
+  i.   Secondary Endpoints
+  With regards to safety, additional endpoints were measured, including stent thrombosis per
+  Academic Research Consortium (ARC) definitions, all-cause death, peri-procedural MI,
+  recurrent MI related to the target vessel (TV-MI), and bleeding per Bleeding Academic
+  Research Consortium (BARC) definitions.
+  With regards to effectiveness, additional endpoints were measured, including unplanned
+  ischemia-driven target lesion revascularization (TLR) and technical success.
+
+
+B. Accountability of PMA Cohort
+  At the time of database lock, of 733 patients enrolled in the PMA study, 99.6% (730) are
+  available for analysis at the completion of the study, the 1 year post-procedure visit. The three
+  patients not evaluable for analysis withdrew their consent.
+
+                                Table 6: Subject Disposition
+
+
+
+                                                                                                  11
+                                                                  Overall
+                 Enrolled                                           733
+                 Death with no 1-Year Follow-up Performed        23 (3.1%)
+                 Eligible for 1-Year Follow-up                      710
+                     1-Year Follow-up Performed                 707 (99.6%)
+                     No 1-Year Follow-up Performed                3 (0.4%)
+                 1-Year Follow-up or Death                      730 (99.6%)
+                 Numbers presented as N (%) (count/sample size)
+
+  As stated, patients in the analysis set used to support PMA approval were enrolled in either the
+  SYNERGY Stent Registry only, or the SYNERGY Stent Registry and a 2x2 factorial
+  randomized drug study. All patients were assigned to be treated with a SYNERGY stent.
+  Patients randomized in the drug study were assigned to receive either active drug 1 + active
+  drug 2, active drug 1 + drug 2 placebo, drug 1 placebo + active drug 2, or drug 1 placebo +
+  drug 2 placebo. As the drugs were not being evaluated in this review, the 4 drug study groups
+  were combined for FDA analysis into 2 groups – patients who were randomized to any active
+  study drug, and patients who were randomized to both study drugs’ placebos. Table 7 shows
+  the distribution of study participants by treatment group.
+
+                              Table 7: Treatment Assignment
+
+
+                                                        Number Enrolled
+                 SYNERGY Stent Registry Only                200 (27%)
+                 Stent Registry and Randomized              533 (73%)
+                 to Drug Study
+                      Randomized to Active Study            408 (56%)
+                      Drug
+                      Randomized to Study Drug              125 (17%)
+                      Placebo
+
+
+
+C. Study Population Demographics and Baseline Parameters
+   The demographics of the study population are provided in Table 8 below. The mean age
+   was 60.2 years and 76% of patients were male. Patients were predominantly white (91.8%)
+   and mildly overweight (body mass index (BMI) 28.4).
+
+   The age and sex of the patients enrolled are approximately representative of patients
+   hospitalized with STEMI in the US. However, the race and ethnicity of study patients are
+   not representative of US STEMI patients. Research suggests approximately 65% of patients
+
+
+
+                                                                                                12
+hospitalized for STEMI in the US are white, while approximately 12% are Black or African
+American and 17% are Hispanic or Latino. It is still reasonable to consider the results of
+the study to be applicable for all patients who might be treated by the SYNERGY stent
+because previous drug eluting stent studies have shown similar 1-year MACE rates across
+race and ethnicity after PCI.
+
+                               Table 8: Demographics
+
+                    Demographics                 SYNERGY (N=733)
+           Age (years)                                 60.2±10.6
+           Sex
+             Male                                     75.9% (557)
+             Female                                   24.0% (176)
+           Race
+                  American Indian or                    0.1% (1)
+                  Alaskan Native
+                  Asian                                 0.4% (3)
+                  Black or African                      1.2% (9)
+                  American
+                  Native Hawaiian or                    0.1% (1)
+                  Other Pacific Islander
+                  White                               91.8% (673)
+                  Other                                5.6% (41)
+                  Unknown                               0.7% (5)
+           Ethnicity
+                  Hispanic or Latino                 2.7% (20/733)
+                  Not Hispanic or Latino            97.3% (713/733)
+           Height (cm)                                 172.5±9.4
+           Weight (kg)                                 84.8±17.5
+           BMI (kg/m2)                                  28.4±5.1
+           % (N), mean±standard deviation
+
+Table 9 shows the baseline clinical characteristics and medical history of the enrolled STEMI
+patients. Nineteen percent of patients had diabetes, 7.1% had a prior MI, 2% had previous
+
+
+
+
+                                                                                           13
+heart failure and nearly 41% were current smokers. Almost half were found to have multi-
+vessel coronary artery disease at the time of the index procedure.
+
+                     Table 9: Baseline Clinical Characteristics
+
+            Baseline Characteristics            SYNERGY (N=733)
+          At Presentation to Hospital
+          Location of MI
+               Inferior                              52.4% (384)
+               Anterior                              41.3% (303)
+               Lateral                               11.2% (82)
+               Posterior                              6.5% (48)
+          Heart Failure at Presentation               7.8% (57)
+          Cardiovascular History
+          Previous MI                                 7.1% (52)
+          Previous PCI                                8.3% (61)
+          Previous CABG                               1.9% (14)
+          Previous Heart Failure                      2.0% (15)
+                New York Heart                         0.4% (3)
+                Association (NYHA)
+                Class I
+                NYHA Class II                          0.5% (4)
+                NYHA Class III                         0.7% (5)
+                NYHA Class IV                          0.4% (3)
+          Previous Stroke                              1.2% (9)
+          Previous TIA                                 1.0% (7)
+          Peripheral Arterial Disease                 1.8% (13)
+          Atrial Fibrillation/Atrial                  2.5% (18)
+          Flutter
+          Other Relevant Characteristics
+          Multi-Vessel Disease                       47.7% (350)
+          Hypertension                               47.9% (351)
+          Hyperlipidemia                             34.0% (249)
+
+
+
+                                                                                           14
+             Baseline Characteristics            SYNERGY (N=733)
+          Diabetes                                    19.4% (142)
+                Insulin treated                        4.4% (32)
+                Not insulin treated                   14.9% (109)
+          History of Smoking                          53.9% (395)
+                Current Smoker                        40.9% (300)
+                Previous Smoker                        13.0% (95)
+          History of Cancer                            5.9% (43)
+          Previous use of oral                         1.9% (14)
+          anticoagulant
+
+Key Baseline Vessel Characteristics: Most patients (75%) had one culprit lesion treated
+in the target vessel. Target vessels were most commonly the left anterior descending (LAD)
+and right coronary arteries (RCA). The majority of patients had thrombolysis in myocardial
+infarction (TIMI) 0 flow (no flow) in the target vessel pre-PCI (67.4%). Additional baseline
+vessel characteristics can be found in Table 10.
+
+                       Table 10: Baseline Vessel Characteristics
+
+                     Characteristics            Target Vessels (N=939)
+                LAD                                 43.1% (405/939)
+                Circumflex                          13.1% (123/939)
+                RCA                                 43.2% (406/939)
+                Left Main                             0.3% (3/939)
+                CABG Graft                            0.2% (2/939)
+           TIMI Flow in Target Vessel
+                0                                   67.4% (494/733)
+                3                                    8.9% (65/733)
+           Patients with 1 Treated Lesion           75.3% (552/733)
+           Patients with 2 or more                  24.7% (181/733)
+           Treated Lesions
+
+A small percentage (5%) of patients had lesions in non-target vessels that were treated
+during the index procedure. Of those, 86% were treated with a SYNERGY stent. Some
+patients (13%) went on to have additional procedures to treat lesions outside of the target
+vessel at a later date (staged procedures).
+
+
+                                                                                              15
+   Key Procedural Characteristics: The average time from symptom onset to hospital
+   arrival was nearly three hours, and the average time from hospital arrival to PCI was under
+   two hours. Over 90% of access sites were radial, and thrombectomy use was uncommon
+   (less than 10%). Patients were treated with an average of 1.3 stents (955 SYNERGY stents,
+   27 non-SYNERGY stents), and 97.5% of subjects had TIMI 3 Flow post-PCI procedure.
+   Unfractionated heparin was the most common anticoagulant given during the index PCI
+   (99.7%). Additional procedural characteristics are shown in Table 11.
+                            Table 11: Procedural Characteristics
+
+Procedure Data                                               SYNERGY Stent Registry
+Presentation and Hospitalization Characteristics
+Time from symptom onset to hospital arrival (minutes)               168.5±214.7
+Time from hospital arrival to procedure (minutes)                   104.3±155.3
+Length of Hospital Stay (days)                                         3.4±3.5
+Characteristics of Devices Used During Procedure
+Devices Used to Treat Target Lesions                                     939
+   SYNERGY Stent                                                   97.8% (918/939)
+   Non-SYNERGY Stent                                                1.4% (13/939)
+   Angioplasty Balloon                                              0.9% (8/939)
+Total Stents Implanted (Target and Non-Target Lesions)                   982
+    SYNERGY Stents                                                 97.2% (955/982)
+    Non-SYNERGY Stents                                              2.7% (27/982)
+Number of Stents Implanted per Patient                                 1.3±0.6*
+Stent Diameter of SYNERGY Stents (mm)                                  4.0±1.8*
+Stent Diameter of Non-SYNERGY Stents (mm)                              3.1±0.6*
+Total Stent Length per Patient (mm)                                   24.3±7.6*
+Thrombectomy Use                                                    9.5% (70/733)
+Intra-Aortic Balloon Pump (IABP) Use                                0.8% (6/733)
+Procedure Characteristics
+Radial Access                                                      90.3% (662/733)
+TIMI 3 Flow post-PCI                                                 97.5% (715)
+*Mean ± standard deviation
+
+
+
+
+                                                                                           16
+Medication Usage: Approximately 20% of patients had a prior aspirin regimen, and 3.4%
+had a prior dual antiplatelet therapy (DAPT; aspirin plus a P2Y12 inhibitor) regimen.
+Nearly all patients were prescribed DAPT at discharge, and 67% continued to be on DAPT
+at 12 months after the procedure. Other medication information is shown in Table 12.
+
+                       Table 12: Medication to 12 Months
+
+                                                  SYNERGY Stent
+                     Medication
+                                                  Registry (N=733)
+          Prior Antiplatelet Regimens
+            Aspirin                                 19.5% (143)
+           P2Y12 Inhibitor                           3.7% (27)
+           DAPT                                      3.4% (25)
+          Medication Use During PCI
+           Unfractionated Heparin                   99.7% (731)
+           Bivalirudin                                0.3% (2)
+           Enoxaparin                                 0.4% (3)
+           GP IIb IIIa Inhibitor                    14.6% (107)
+           Cangrelor                                  0.5% (4)
+          Medication at Discharge
+           Beta Blocker                             70.4% (516)
+           ACEI or ARB                              74.5% (546)
+           Statin                                   94.0% (689)
+           Anticoagulant                            16.1% (118)
+            Aspirin                                 97.4% (714)
+            P2Y12 Inhibitor                         97.7% (716)
+            DAPT                                    95.9% (703)
+          Antiplatelet Therapy at 3 Months
+            Aspirin                                 89.4% (655)
+            P2Y12 Inhibitor                         91.0% (667)
+            DAPT                                    87.9% (644)
+          Antiplatelet Therapy at 6 Months
+            Aspirin                                 86.6% (635)
+            P2Y12 Inhibitor                         89.2% (654)
+            DAPT                                    84.3% (618)
+          Antiplatelet Therapy at 12 Months
+            Aspirin                                 85.4% (626)
+            P2Y12 Inhibitor                         71.8% (526)
+
+
+
+                                                                                    17
+                                                            SYNERGY Stent
+                          Medication
+                                                            Registry (N=733)
+                DAPT                                          67.3% (493)
+
+D. Safety and Effectiveness Results
+   The incidence of the primary endpoint in the ITT population, the composite of CV death,
+   recurrent MI, and unplanned ischemia driven target vessel revascularization (MACE) at 12
+   months, was 4.8% [CI 3.4, 6.6]. The prespecified performance goal was 9.45%. Statistical
+   conclusions cannot be drawn due to the unknown poolability of the results from groups
+   assigned to varying experimental drug regimens in the CLEAR SYNERGY study.
+   However, the data demonstrate that each group, regardless of treatment assignment, had
+   MACE rates well below the performance goal, making it reasonable to interpret the trial as
+   a success. Table 13 presents the primary endpoint results for the ITT population as well as
+   for patients not enrolled in the drug study, patients enrolled in the drug study who received
+   only placebos, and for patients enrolled in the drug study who received any active drug.
+
+                           Table 13: Primary Endpoint Results
+                  SYNERGY Stent Registry                    MACE at 1 Year
+                                                          (Event Rate, 95% CI
+             ITT Population                          (35/730) 4.8% [3.4, 6.6]
+                Registry and Placebo (No Drug
+                                                     (18/322) 5.5% [3.4, 8.7]
+                Treatment)
+                Randomized to Active Drug              (17/408) 4.2% [2.5, 6.6]
+
+
+ 1. Safety Results
+    The primary analysis of safety, which was a component of the primary endpoint, was
+    based on the ITT cohort of 730 patients available for the 12-month evaluation as described
+    above. Additional key safety outcomes for this study, including components of the
+    primary endpoint, are presented below in Table 14. Adverse events are reported in Table
+    15.
+    Definite or probable stent thrombosis was identified by the applicant as a key secondary
+    endpoint and was rare, occurring in 1.2% of patients.
+                         Table 14: Summary of Safety Outcomes
+                         Event                 SYNERGY Stent Registry
+
+                                           In Hospital
+          Death                                               0.4% (3/733)
+            Cardiac Death                                     0.4% (3/733)
+          Peri-Procedural Recurrent MI                        0.5% (4/733)
+            Related to Target Vessel                          0.3% (2/733)
+            Not Related to Target Vessel                      0.3% (2/733)
+                                           At 1 Year
+
+
+                                                                                               18
+       Death                                                3.1% (23/730)
+         Cardiac Death                                      2.6% (19/730)
+         Non-Cardiac Death                                  0.5% (4/730)
+       Recurrent MI                                         2.1% (15/730)
+         Related to Target Vessel                           1.1% (8/730)
+         Not Related to Target Vessel                       1.0% (7/730)
+       Stent Thrombosis (Definite or
+                                                            1.2% (9/730)
+       Probable)
+         Acute (0-24 Hours)                                 0.3% (2/730)
+         Subacute (24 Hours-30 Days)                        0.7% (5/730)
+         Late (30 Days-1 Year)                              0.3% (2/730)
+       Bleeding (BARC 2-5)                                  2.5% (18/730)
+         BARC 2                                             2.2% (16/730)
+            BARC 3-5                                        0.3% (2/730)
+
+
+
+
+Adverse effects that occurred in the PMA clinical study:
+Adverse events associated with the use of the SYNERGY family of stents have been
+previously characterized in the EVOLVE II study used to support the original PMA
+approval. Serious adverse events (SAEs) occurred in 49 patients in the SYNERGY Stent
+Registry study of patients with STEMI. Acute kidney injury was reported in five patients
+and was the most common SAE. This event is a known risk of the PCI procedure. The
+frequency and nature of SAEs observed in the SYNERGY Stent Registry are similar to
+those observed in previous clinical trials of coronary interventional devices.
+                           Table 15: Serious Adverse Events
+
+                   System Organ             Events          Percentage
+                       Class               Reported         of Patients
+                                                            with Event
+                  Blood and             Anemia (1),         0.3%
+                  Lymphatic             splenic             (2/730)
+                  System                infarction (1)
+                  Disorders
+                  Cardiac               Acute               1.0%
+                  Disorders             myocardial          (7/730)
+                                        infarction (2),
+                                        unstable angina
+                                        (1), myocardial
+                                        ischemia (1),
+                                        palpitations (1),
+                                        ventricular
+                                        tachycardia (2)
+                  Gastrointestinal      Abdominal           1.4%
+                  Disorders             pain (2), colitis   (10/730)
+
+
+
+                                                                                           19
+System Organ         Events         Percentage
+    Class           Reported        of Patients
+                                    with Event
+                (2),
+                constipation
+                (1), ileus (1),
+                melena (1),
+                pancreatitis (2),
+                rectal
+                hemorrhage
+                (1), small
+                intestinal
+                obstruction (1)
+General         Asthenia (1),       0.5%
+Disorders and   chest pain (2),     (4/730)
+Administration non-cardiac
+Site Conditions chest pain (1)
+Hepatobiliary   Acute               0.1%
+Disorders       cholecystitis       (1/730)
+                (1)
+Immune System Drug                  0.1%
+Disorders       hypersensitivity    (1/730)
+                (1)
+Infections and  Appendicitis        0.7%
+Infestations    (1), viral          (5/730)
+                gastroenteritis
+                (1), pneumonia
+                (3), respiratory
+                tract infection
+                (1)
+Injury,         Femur fracture      0.7%
+Poisoning and   (1), hip fracture   (5/730)
+Procedural      (1), splenic
+Complications   rupture (1),
+                subdural
+                hematoma (1),
+                traumatic
+                hematoma (1)
+Investigations  Hemoglobin          0.1%
+                decreased (1)       (1/730)
+Metabolism and Ketoacidosis         0.3%
+Nutrition       (1), lactic         (2/730)
+Disorders       acidosis (1)
+Musculoskeletal Arthralgia (1),     0.4%
+and Connective groin pain (1),      (3/730)
+
+
+
+
+                                                  20
+System Organ          Events         Percentage
+    Class            Reported        of Patients
+                                     with Event
+Tissue            pain in
+Disorders         extremity (1)
+Neoplasms         Bladder            0.4%
+Benign,           neoplasm (1),      (3/730)
+Malignant and     brain neoplasm
+Unspecified       (1),
+(Incl Cysts and   paraganglion
+Polyps)           neoplasm (1)
+Nervous           Depressed level    0.7%
+System            of                 (5/730)
+Disorders         consciousness
+                  (1), dizziness
+                  (1), syncope
+                  (2), vascular
+                  dementia (1)
+Psychiatric       Delirium (1)       0.1%
+Disorders                            (1/730)
+Renal and         Renal infarct      1% (7/730)
+Urinary           (1), urinary
+Disorders         retention (1),
+                  acute kidney
+                  injury (5)
+Respiratory,      Acute              0.8%
+Thoracic and      respiratory        (6/730)
+Mediastinal       failure (2),
+Disorders         chronic
+                  obstructive
+                  pulmonary
+                  disease (4),
+                  hypoxia (1),
+                  pulmonary
+                  hypertension
+                  (1), respiratory
+                  failure (1)
+Skin and          Decubitus ulcer    0.3%
+Subcutaneous      (1), Stevens-      (2/730)
+Tissue            Johnson
+Disorders         syndrome (1)
+Surgical and      Craniotomy         0.3%
+Medical           (1),               (2/730)
+Procedures        hysterectomy
+                  (1)
+
+
+
+
+                                                   21
+                     System Organ          Events        Percentage
+                         Class            Reported       of Patients
+                                                         with Event
+                    Vascular           Hematoma (1),     0.7%
+                    Disorders          hemorrhagic       (5/730)
+                                       shock (1), deep
+                                       vein
+                                       thrombosis (1),
+                                       hypertensive
+                                       urgency (2)
+
+
+2. Effectiveness Results
+   The primary analysis of effectiveness, which was a component of the primary endpoint,
+   was based on the ITT cohort of 730 evaluable patients at the 12-month time point as
+   described above. Additional key effectiveness outcomes, including components of the
+   primary endpoint and procedural endpoints, are presented in Table 16.
+   Technical success, which was defined as successful delivery of the stent with a resulting
+   TIMI flow of 3 and 50% residual stenosis, was achieved for 97.5% of SYNERGY stents
+   attempted to be delivered. Rates of unplanned target vessel and target lesion
+   revascularization were low.
+                    Table 16: Summary of Effectiveness Outcomes
+
+
+
+
+                                                                                           22
+                               Event                  SYNERGY Stent Registry
+
+                                             In Hospital
+                   Technical Success (per stent)            97.5% (931/955)
+                   Technical Failure (per stent)             2.5% (24/955)
+                      Failure to Cross/Dilate                   0.7% (7/955)
+                      7,0,)ORZRU
+                                                             1.8% (17/955)
+                      Residual Stenosis
+                   Unplanned Target Vessel
+                                                                0.3% (2/733)
+                   Revascularization
+                   Unplanned Target Lesion
+                                                                0.3% (2/733)
+                   Revascularization
+                                                At 1 Year
+                   Unplanned Target Vessel
+                                                                1.0% (7/730)
+                   Revascularization
+                     TVR, PCI                                   1.0% (7/730)
+                     TVR, CABG                                  0.0% (0/730)
+                   Unplanned Target Lesion
+                                                                0.8% (6/730)
+                   Revascularization
+Long Term Follow-up Outcomes
+Stent Registry patients who also participated in the CLEAR SYNERGY RCT study were
+followed beyond 1 year for a maximum of 5 years or through the common study end date,
+whichever occurred first, according to the study protocol. Table 17 provides the outcomes for
+those patients for years 2 through 5.
+
+
+          Table 17: SYNERGY Stent Registry Clinical Outcomes through 5-Years
+
+                                                   2-Year            3-Year        4-Year        5-Year
+EFFICACY
+Unplanned TVR, Overall                          2.2% (16/730)     2.7% (20/730) 3.0% (22/730) 3.2% (23/730)
+ Unplanned TLR, Overall                         1.9% (14/730)     2.5% (18/730) 2.6% (19/730) 2.7% (20/730)
+  TLR, PCI                                      1.8% (13/730)     2.2% (16/730) 2.3% (17/730) 2.5% (18/730)
+  TLR, CABG                                     0.1% (1/730)      0.3% (2/730) 0.3% (2/730) 0.3% (2/730)
+ Unplanned Non-TLR, Overall                     0.4% (3/730)      0.4% (3/730) 0.5% (4/730) 0.5% (4/730)
+  Non-TLR, PCI                                  0.4% (3/730)      0.4% (3/730) 0.4% (3/730) 0.4% (3/730)
+  Non-TLR, CABG                                 0.0% (0/730)      0.0% (0/730) 0.1% (1/730) 0.1% (1/730)
+SAFETY
+MACE                                            6.7% (49/730) 7.9% (58/730)         8.6%      9.0% (66/730)
+                                                                                  (63/730)
+Total Death                                     3.8% (28/730)     4.5% (33/730) 5.2% (38/730) 5.3% (39/730)
+
+
+
+                                                                                                  23
+ Cardiac Death                                3.3% (24/730)     3.7% (27/730) 3.8% (28/730) 4.0% (29/730)
+ Non-Cardiac Death                            0.5% (4/730)       0.8% (6/730) 1.4% (10/730) 1.4% (10/730)
+Recurrent MI                                  2.7% (20/730)     3.3% (24/730) 3.8% (28/730) 4.1% (30/730)
+ Related to Target Vessel                                                           2.1%
+                                             1.5% (11/730) 1.8% (13/730)                        2.1% (15/730)
+                                                                                  (15/730)
+   Not Related to Target Vessel                                                     1.8%
+                                               1.2% (9/730) 1.5% (11/730)                       2.1% (15/730)
+                                                                                  (13/730)
+ ARC Stent Thrombosis                                                               1.9%
+                                             1.5% (11/730) 1.8% (13/730)                        2.2% (16/730)
+                                                                                  (14/730)
+ Definite or Probable                                                               1.9%
+                                             1.5% (11/730) 1.8% (13/730)                        2.2% (16/730)
+                                                                                  (14/730)
+  Definite                                                                          1.6%
+                                               1.2% (9/730) 1.5% (11/730)                       1.9% (14/730)
+                                                                                  (12/730)
+  Probable                                     0.3% (2/730) 0.3% (2/730) 0.3% (2/730) 0.3% (2/730)
+Numbers presented as N (%) (count/sample size)
+Abbreviations: MI=myocardial infarction, TLR=target lesion revascularization, TVR=target vessel
+revascularization, MACE=major adverse cardiac event
+
+
+
+
+  3. Subgroup Analyses
+      The following baseline characteristics were evaluated for potential association with safety
+      and effectiveness outcomes: sex, age, and diabetic status.
+
+      The study was not specifically powered for these subgroups.
+
+      Results by Sex:
+      The MACE primary endpoint and its components were evaluated by sex. Female patients
+      experienced numerically higher rates of cardiac death and recurrent MI than male patients.
+      This finding is consistent with prior research demonstrating poorer outcomes after STEMI
+      in female patients compared with male patients, which is multi-factorial and is unlikely to
+      be related to the SYNERGY stent.
+
+                              Table 18: Outcomes at 1 Year by Sex
+                            Outcomes               SYNERGY           SYNERGY
+                                                  Stent Female       Stent Male
+                                                     Patients         Patients
+                                                    (N=176)           (N=554)
+                 MACE                              6.3% (11)          4.3% (24)
+                 Cardiac Death                      4.0% (7)          2.2% (12)
+                 Recurrent MI                       2.8% (5)          1.8% (10)
+                   MI Related to TV                 1.7% (3)           0.9% (5)
+                 Unplanned Target Vessel            0.6% (1)           1.1% (6)
+                 Revascularization
+
+
+
+
+                                                                                                   24
+Results by Age:
+Of the 733 patients enrolled in the CLEAR SYNERGY Stent Registry analysis set, 258
+were 65-years old or older at enrollment (35.2%). Outcomes for patients 65-years old or
+older at enrollment versus patients younger than 65 years old at enrollment are shown in
+Table 19. Although intended to be exploratory only, outcome rates were higher for all
+endpoints in those 65 years old or older at enrollment compared to those younger than 65
+years old (MACE Rate: 7.4% vs. 3.4%).
+                     Table 19: Outcomes at 1 Year by Age
+
+                                         65 Years Old < 65 Years Old
+                  Outcomes                 (N=257)        (N=473)
+        MACE                               7.4% (19)         3.4% (16)
+          Cardiac Death                    3.9% (10)          1.9% (9)
+          Recurrent MI                      3.1% (8)          1.5% (7)
+            MI Related to TV                2.3% (6)          0.4% (2)
+          Unplanned Target Lesion           1.2% (3)          0.6% (3)
+          Revascularization
+
+
+Results by Diabetic Status:
+There were 142 subjects enrolled in the CLEAR SYNERGY Stent Registry analysis set
+who had diabetes (medically-treated or otherwise) at baseline (19.4%). Primary endpoints
+for diabetic vs. non-diabetic subjects are shown in Table 20. Although these results were
+intended to be exploratory only, outcome rates were higher for all endpoints in subjects
+with diabetes at baseline vs. those without (MACE Rate: 9.2% vs. 3.7%). This is
+consistent with prior research showing poorer outcomes after STEMI in patients with
+diabetes compared to patients without diabetes and is unlikely to be related to the
+SYNERGY stent.
+
+
+                Table 20: Outcomes at 1 Year by Diabetic Status
+
+                                                             Patients
+                                         Patients with       without
+                                           Diabetes          Diabetes
+                  Outcomes                 (N=142)           (N=588)
+        MACE                               9.2% (13)         3.7% (22)
+
+
+
+
+                                                                                       25
+                                                                          Patients
+                                                     Patients with        without
+                                                       Diabetes           Diabetes
+                              Outcomes                 (N=142)            (N=588)
+                      Cardiac Death                     6.3% (9)          1.7% (10)
+                      Recurrent MI                      2.1% (3)          2.0% (12)
+                         MI Related to TV               1.4% (2)          1.0% (6)
+                     Unplanned Target Lesion            1.4% (2)          0.7% (4)
+                     Revascularization
+
+        4. Pediatric Extrapolation
+           In this premarket application, existing clinical data was not leveraged to support approval
+           of a pediatric patient population.
+
+ XI.        FINANCIAL DISCLOSURE
+
+            The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+            applicants who submit a marketing application to include certain information concerning
+            the compensation to, and financial interests and arrangement of, any clinical investigator
+            conducting clinical studies covered by the regulation. The pivotal clinical study included
+            35 investigators. None of the clinical investigators had disclosable financial
+            interests/arrangements as defined in sections 54.2(a), (b), (c), and (f). The information
+            provided does not raise any questions about the reliability of the data.
+
+XII.        PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+            In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+            Medical Devices Act of 1990, this PMA was not referred to the Circulatory System
+            Devices Panel, an FDA advisory committee, for review and recommendation because the
+            information in the PMA substantially duplicates information previously reviewed by this
+            panel.
+
+
+XIII.       CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+
+           A. Effectiveness Conclusions
+
+
+          The SYNERGY Stent Registry was a prospective, multicenter, open label, single-arm study
+          of the use of the SYNERGY stent in patients with ST-elevated myocardial infarction. The
+
+
+                                                                                                    26
+   SYNERGY stent successfully crossed the lesion and assisted in restoring TIMI 3 flow in
+   97.5% of patients. The rates of unplanned, ischemia-driven TVR (1.0%) and TLR (0.8%)
+   remained low through 1 year of follow up, indicating that nearly all (99%) treated vessels
+   remained patent for at least 1 year after implantation of the SYNERGY stent. The MACE
+   rate for patients treated with the stent was 4.8% [CI 3.4, 6.6], lower than the performance goal
+   of 9.45%. Together, this evidence demonstrates a reasonable assurance that the SYNERGY
+   stent is effective for improving luminal diameter in patients with STEMI.
+
+B. Safety Conclusions
+
+  The risks of the device are based on previous nonclinical laboratory and animal studies as
+  well as data collected in previous clinical studies to support original PMA approval and
+  subsequent expansions of the indications for use. The current clinical study conducted to
+  support PMA supplement approval as described above contributed additional information
+  about the risks associated with the SYNERGY stent when used to treat patients with
+  STEMI.
+
+  In the SYNERGY Stent Registry, a total of 10 patients (1.2%) experienced definite or
+  probable stent thrombosis, with associated mortality in 5 patients (0.6%). The overall death
+  rate at 1 year was 3.1%, the cardiac death rate was 2.6%, and the recurrent MI rate was
+  2.0%.
+
+  Together, this evidence demonstrates a reasonable assurance that the SYNERGY stent is
+  safe when used to improve luminal diameter in patients with STEMI.
+
+C. Benefit-Risk Determination
+
+  The probable benefits of the device are also based on data collected in a clinical study
+  conducted to support PMA supplement approval as described above. STEMI is a life-
+  threatening event, and restoring blood flow to the target vessel is critical. At the time of
+  treatment, 67% of patients had no flow through the target lesion, and nearly all had flow
+  restored after the PCI procedure and placement of the SYNERGY stent. This benefit was
+  sustained to at least one year, as demonstrated by the low number of revascularization
+  procedures in the target vessel.
+
+  The probable risks of the device when used for this indication are also based on data
+  collected in a clinical study conducted to support PMA approval as described above. Stent
+  thrombosis is the most serious risk directly attributable to the device itself (rather than the
+  procedure, index STEMI, or underlying disease state), and patients with acute coronary
+  syndromes such as STEMI are known to have a higher risk of stent thrombosis than patients
+  with stable ischemic disease. The observed rate of definite or probable stent thrombosis in
+  the study (1.2%) was low, with most events taking place within 24 hours to 30 days of the
+  index procedure.
+   Additional factors considered in determining probable risks and benefits for the Synergy
+   stent included:
+
+
+
+                                                                                                 27
+          1. The study design was unconventional. The 2x2 factorial drug study that 73% of the
+          Synergy Stent Registry patients also participated in could have confounded the results.
+          However, the study results demonstrate that the outcomes in patients that did not receive
+          any active experimental drugs were still below the performance goal, even with the larger
+          confidence interval created by the decreased sample size.
+
+          2. The study was a single arm design. There are no currently marketed drug eluting stents
+          in the US indicated for patients with STEMI. However, randomizing STEMI patients to
+          anything other than a drug eluting stent would be infeasible, as DES are the current
+          standard of care and used in the overwhelming majority of patients. Therefore, using a
+          performance goal derived from previous PCI STEMI studies was reasonable.
+
+
+               1. Patient Perspective
+
+                   This submission either did not include specific information on patient
+                   perspectives or the information did not serve as part of the basis of the decision to
+                   approve or deny the PMA for this device.
+
+          In conclusion, given the available information above, the data support that for patients with
+          ST-elevated myocardial infarction the probable benefits outweigh the probable risks.
+
+       D. Overall Conclusions
+
+          The data in this application support the reasonable assurance of safety and effectiveness of
+          this device when used in accordance with the indications for use.
+
+XIV.        CDRH DECISION
+
+            CDRH issued an approval order on January 27, 2025. The applicant’s manufacturing
+            facilities have been inspected and found to be in compliance with the device Quality
+            System (QS) regulation (21 CFR 820).
+
+XV.         APPROVAL SPECIFICATIONS
+
+            Directions for use: See device labeling.
+
+            Hazards to Health from Use of the Device: See Indications, Contraindications,
+            Warnings, Precautions, and Adverse Events in the device labeling.
+
+            Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+                                                                                                          28
+XVI.   REFERENCES
+
+       1. Marx SO, Marks AR. Bench to bedside: the development of rapamycin and its
+       application to stent restenosis. Circulation. Aug 21 2001;104(8):852-5.
+
+       2. Grube E, Buellesfeld L. Rapamycin analogs for stent-based local drug delivery.
+       Everolimus- and tacrolimus-eluting stents. Herz. Mar 2004;29(2):162-6.
+       doi:10.1007/s00059-004-2556-6.
+
+
+
+
+                                                                                           29
+

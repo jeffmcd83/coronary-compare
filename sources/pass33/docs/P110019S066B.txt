@@ -1,0 +1,1386 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+
+ I.   GENERAL INFORMATION
+
+Device Generic Name:              Drug Eluting Coronary Stent System
+
+Premarket Approval Application
+
+(PMA) Supplement Number:          P070015/S122
+
+Device Trade Name:                XIENCE V® and XIENCE nano® Everolimus Eluting
+                                  Coronary Stent System
+
+PMA Supplement Number:            P110019/S066
+
+Device Trade Name:                XIENCE PRIME® Everolimus Eluting Coronary Stent
+                                  System
+
+                                  XIENCE PRIME® LL Everolimus Eluting Coronary Stent
+                                  System
+
+                                  XIENCE Xpedition® Everolimus Eluting Coronary Stent
+                                  System
+
+                                  XIENCE Xpedition® SV Everolimus Eluting Coronary
+                                  Stent System
+
+                                  XIENCE Xpedition® LL Everolimus Eluting Coronary
+                                  Stent System
+
+                                  XIENCE Alpine™ Everolimus Eluting Coronary Stent
+                                  System
+
+Device Procode:                   NIQ
+
+Applicant’s Name and Address:     Abbott Vascular
+                                  3200 Lakeside Drive
+                                  Santa Clara, CA 95054
+
+
+Date of Panel Recommendation:     None
+
+
+Date of FDA Notice of Approval:   October 3, 2014
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 1
+This is a bundled Premarket Approval (PMA) Supplement for P070015 and P110019 for the
+XIENCE Family of Everolimus Eluting Coronary Stent Systems (XIENCE Family of Stents).
+The XIENCE Family of Stents includes the XIENCE V Stent System, approved under P070015
+on July 2, 2008, the XIENCE nano, approved on May 24, 2011 under P070015/ S054, the
+XIENCE PRIME and XIENCE PRIME LL Stent System (XIENCE PRIME Stent System)
+approved on November 1, 2011 under P110019, and XIENCE Xpedition, XIENCE Xpedition
+SV, and XIENCE Xpedition LL (XIENCE Xpedition Stent System) approved on December 21,
+2012 under P110019/S025 and XIENCE Alpine™ (XIENCE Alpine Stent System) approved
+September 3, 2014 under P110019/S070.
+
+The Summary of Safety and Effectiveness Data (SSED) to support the indications is available on
+the CDRH website (http://www.accessdata.fda.gov/cdrh_docs/pdf7/P070015b.pdf and
+http://www.accessdata.fda.gov/cdrh_docs/pdf11/P110019b.pdf) and is incorporated by reference
+herein. This bundled PMA supplement, P070015/S122 and P110019/S066 was submitted to
+request approval for an expanded indication to include patients with chronic total occlusions
+(CTO).
+
+
+ II.   INDICATIONS FOR USE
+
+XIENCE V and XIENCE nano Everolimus Eluting Coronary Stent System
+
+The XIENCE V and XIENCE nano Everolimus Eluting Coronary Stent System is indicated for
+improving coronary luminal diameter in patients with symptomatic heart disease due to de novo
+native coronary artery lesions (length ≤ 28 mm) with reference vessel diameters of 2.25 mm to
+4.25 mm. Additionally, the XIENCE V stent system is indicated for treating de novo chronic
+total coronary occlusions.
+
+XIENCE PRIME and XIENCE PRIME LL Everolimus Eluting Coronary Stent System
+
+The XIENCE PRIME and XIENCE PRIME LL Everolimus Eluting Coronary Stent System is
+indicated for improving coronary luminal diameter in patients with symptomatic heart disease
+due to de novo native coronary artery lesions (length ≤ 32 mm) with reference vessel diameters
+of ≥ 2.25 mm to ≤ 4.25 mm. Additionally, the XIENCE PRIME stent system is indicated for
+treating de novo chronic total coronary occlusions.
+
+XIENCE Xpedition, XIENCE Xpedition SV and XIENCE Xpedition LL Everolimus Eluting
+Coronary Stent System
+
+The XIENCE Xpedition, XIENCE Xpedition SV and XIENCE Xpedition LL Everolimus
+Eluting Coronary stent system is indicated for improving coronary artery luminal diameter in
+patients with symptomatic heart disease due to de novo native coronary artery lesions (length
+≤ 32 mm) with reference vessel diameters of ≥ 2.25 mm to ≤ 4.25 mm. In addition, the XIENCE
+Xpedition stent system is indicated for treating de novo chronic total coronary occlusions.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 2
+XIENCE Alpine Everolimus Eluting Coronary Stent System
+
+The XIENCE Alpine Everolimus Eluting Coronary Stent System is indicated for improving
+coronary artery luminal diameter in patients with symptomatic heart disease due to de novo
+native coronary artery lesions (length ≤ 32 mm) with reference vessel diameters of ≥ 2.25 mm to
+≤ 4.25 mm. Additionally, the XIENCE Alpine stent system is indicated for treating de novo
+chronic total coronary occlusions.
+
+
+III.      CONTRAINDICATIONS
+
+The XIENCE Family of Stents is contraindicated for use in patients:
+
+   •      Who cannot receive antiplatelet and / or anticoagulant therapy
+   •      With lesions that prevent complete angioplasty balloon inflation or proper placement of
+          the stent or stent delivery system
+      •   With hypersensitivity or contraindication to everolimus or structurally-related compounds,
+          cobalt, chromium, nickel, tungsten, acrylic, and fluoropolymers
+
+
+IV.       WARNINGS AND PRECAUTIONS
+
+The warnings and precautions can be found in the XIENCE V, XIENCE PRIME, XIENCE
+Xpedition and the XIENCE Alpine labeling.
+
+
+ V.       DEVICE DESCRIPTION
+
+
+XIENCE Family of Everolimus Eluting Coronary Stent Systems Summary
+
+The XIENCE Family of Everolimus Eluting Coronary Stent Systems (EECSS) is a device /
+drug combination product consisting of a Cobalt Chromium (CoCr) alloy stent coated with a
+formulation containing everolimus, the active ingredient, embedded in a non-erodible
+polymer mounted on a delivery system. The XIENCE V is offered in sizes 2.5mm to 4.0mm
+diameter and the XIENCE nano is offered in the 2.25mm diameter. The stent platform and
+delivery system of the XIENCE V and XIENCE nano are identical to the MULTI-LINK
+VISON and MULTI-LINK MINI VISION respectively. The XIENCE V was approved
+under P070015 and the XIENCE nano Stent System is a line extension to the XIENCE V
+Stent System, which was approved under P070015/S054.
+
+The XIENCE PRIME and XIENCE PRIME LL were approved under P110019 and are available
+in the 2.25mm to 4.25mm diameters. The XIENCE PRIME LL is available in longer stent
+lengths compared to XIENCE V which include 33mm and 38mm for the 2.5mm to 4.25mm
+stents. The stent is coated with a formulation containing everolimus, the active ingredient,
+embedded in a non-erodible polymer, which is identical to the XIENCE V Everolimus Eluting
+Coronary Stent System; however, there are minor differences between the stent designs and
+delivery systems. The XIENCE Xpedition, XIENCE Xpedition LL and XIENCE Xpedition SV
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 3
+and XIENCE Alpine EECSS are line extensions to the XIENCE PRIME Stent System, which
+was approved under P110019/S025 and P110019/S070 respectively with a modified delivery
+system.
+
+See the Device Component Description sections below for additional information on the
+XIENCE family of stents.
+
+XIENCE V and XIENCE nano—Device Component Description
+
+The device component consists of the MULTI-LINK MINI VISION or MULTI-LINK
+VISION stent mounted onto the MULTI-LINK MINI VISION or MULTI-LINK VISION
+stent delivery system (SDS), respectively. The device component characteristics are
+summarized in Table 1.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 4
+Table 1        XIENCE V Stent System Product Description
+                     XIENCE V Rapid-Exchange                  XIENCE V Over-the-Wire
+                     (RX) Stent System                        (OTW) Stent System
+  Available Stent
+     Lengths               8, 12, 15, 18, 23, 28                   8, 12, 15, 18, 23, 28
+  Available Stent
+ Diameters (mm)        2.25*, 2.5, 2.75, 3.0, 3.5, 4.0            2.5, 2.75, 3.0, 3.5, 4.0
+  Stent Material     A medical grade L-605 cobalt chromium (CoCr) alloy MULTI-LINK
+                                 VISION or MULTI-LINK MINI VISION stent
+ Drug Component A conformal coating of a non-erodible polymer loaded with 100μg/cm2 of
+                   everolimus with a maximum nominal drug content of 181μg on the largest
+                                                stent (4.0 x 28 mm)
+
+ Delivery System
+ Working Length                               143 cm                                            143 cm
+ Delivery System Single access port to inflation lumen. Sidearm adaptor provides access to
+     Design       Guide wire exit notch is located 30 balloon inflation/deflation lumen and
+                   cm from tip. Designed for guide        guide wire lumen. Designed for
+                            wires ≤ 0.014”.                    guide wires ≤ 0.014”.
+
+  Stent Delivery          A compliant, tapered balloon, with two radiopaque markers located on the
+     System                catheter shaft to indicate balloon positioning and expanded stent length.
+     Balloon
+ Balloon Inflation                                 Nominal inflation pressure:
+     Pressure                          8 atm (811 kPa) for 2.25, 2.5 and 2.75 mm diameters;
+                                        9 atm (912 kPa) for 3.0, 3.5, and 4.0 mm diameters
+                                    Rated Burst Pressure (RBP): 16 atm (1621 kPa) for all sizes
+ Guiding Catheter
+      Inner                                                     ≥ 5 F (0.056”)
+    Diameter
+  Catheter Shaft                            2.25 – 3.0        3.5 – 4.0                     2.5 mm 2.75 x 8 - 3.5 x 23 -
+      Outer                                    mm               mm                                  3.5 x 18 4.0 x 28
+                             Distal:          0.032”           0.035”            Distal:    0.032”   0.034”    0.036”
+Diameter (nominal)
+                            Proximal:         0.026”           0.026”           Proximal:   0.042”   0.042”    0.042”
+
+
+   *The 2.25 mm diameter XIENCE V EECSS is only available on the RX platform.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 5
+XIENCE PRIME and XIENCE PRIME LL —Device Component Description
+
+The XIENCE PRIME and the XIENCE PRIME LL device component characteristics are
+summarized in Table 2 and Table 3.
+
+
+ Table 2          XIENCE PRIME and XIENCE PRIME LL Reference Vessel Diameter and
+                  Stent Length
+                    REFERENCE VESSEL DIAMETER
+                                                                    LESION LENGTH
+                              (RVD)
+                           ≥ 2.25 mm and ≤ 4.25 mm                        ≤ 22 mm
+   XIENCE
+                    Stent Diameter: 2.25, 2.5, 2.75, 3.0, 3.5,   Stent Length: 8, 12, 15, 18,
+   PRIME
+                                    4.0 mm                               23, 28 mm
+   XIENCE                 ≥ 2.5 mm and ≤ 4.25 mm
+                                                                   > 22 mm, and ≤ 32 mm
+  PRIME LL          Stent Diameter: 2.5, 2.75, 3.0, 3.5, 4.0
+                                                                 Stent Length: 33 and 38 mm
+                                     mm
+
+
+ Table 3           XIENCE PRIME Stent System Product Description
+
+                             XIENCE PRIME Stent System
+                         XIENCE PRIME      XIENCE PRIME LL
+Available Stent
+                          8, 12, 15, 18, 23               28*, 33, 38
+Lengths (mm)
+Available Stent       2.25, 2.5, 2.75, 3.0, 3.5,     2.25**, 2.5, 2.75, 3.0,
+Diameters (mm)                   4.0                        3.5, 4.0
+Stent Material       A medical grade L-605 cobalt chromium CoCr alloy
+                     identical to the material used in the XIENCE V stent
+Drug Component       A conformal coating of a non-erodible polymer
+                     loaded with 100 μg/cm2 of everolimus with a
+                     maximum nominal drug content of 232 μg on the
+                     large stent (4.0 x 38 mm)
+
+Delivery System
+                                              143 cm
+Working Length
+Delivery System      Single access port to inflation lumen; guide wire exit
+Design               notch is located 25.5 cm from tip; designed for guide
+                     wires ≤ 0.014”.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 6
+                                        XIENCE PRIME Stent System
+                                  XIENCE PRIME              XIENCE PRIME LL
+Stent Delivery                A compliant, tapered balloon, with two radiopaque
+System Balloon                markers located on the catheter shaft to indicate
+                              balloon positioning and expanded stent length
+Balloon Inflation                Rated Burst Pressure (RBP): 18 atm (1824 kPa)
+Pressure
+                                 Stent Diameter (mm)                  In vitro Stent Nominal
+                                                                          Pressure (atm)
+                                              2.25                                8
+                                               2.5                                8
+                                              2.75                                8
+                                               3.0                               10
+                                               3.5                               10
+                                               4.0                               10
+Guiding Catheter
+                                                          ≥ 5 F (0.056”)
+Inner Diameter
+Catheter Shaft                                Distal:            0.034” (0.86 mm)
+Outer Diameter                                Proximal:          0.031” (0.79 mm)
+
+* The 28 mm length stent was studied in the XIENCE PRIME Core Size
+ Registry. The results of the Core Size Registry are presented in Tables
+ 9.1-2 to 9.1-3.
+**The 2.25 mm diameter stent for XIENCE PRIME LL is only available
+ in the 28 mm stent length.
+
+
+    XIENCE Xpedition—Device Component Description
+
+    The XIENCE Xpedition family of stent systems includes:
+
+         •    The XIENCE Xpedition SV EECSS (stent diameter 2.25, stent lengths 8, 12, 15, 18, 23,
+              28 mm)
+         •    The XIENCE Xpedition EECSS (stent diameters 2.5, 2.75, 3.0, 3.25 1, 3.5, 4.0 mm,
+              stent lengths 8, 12, 15, 18, 23, 28 mm)
+         •    The XIENCE Xpedition LL EECSS (stent diameters 2.5,2.75, 3.0, 3.25, 3.5, 4.0 mm,
+              stent lengths 33, 38 mm)
+
+    The device component characteristics are summarized in Table 4.
+
+
+
+
+1
+    The 3.25 mm stent diameter is only available for the XIENCE Xpedition Stent System and not for the XIENCE PRIME Stent System.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 7
+ Table 4          XIENCE Xpedition, XIENCE Xpedition SV, and XIENCE Xpedition LL
+                  Product Description
+
+                                                XIENCE Xpedition Stent System
+                    XIENCE Xpedition SV         XIENCE Xpedition                 XIENCE Xpedition LL
+Available Stent
+                    8, 12, 15, 23, 28           8, 12, 15, 23, 28                33, 38
+Lengths (mm)
+Available Stent
+                    2.25                        2.5, 2.75, 3.0, 3.25, 3.5, 4.0   2.5, 2.75, 3.0, 3.25, 3.5, 4.0
+Diameters (mm)
+                    A medical grade L-605 cobalt chromium CoCr alloy identical to the material used in the
+Stent Material
+                    XIENCE V and XIENCE PRIME stent
+
+                                                                                                Target
+                                                                                      Surface    Drug
+                           Stent Design     Diameters (mm)         Stent Length (mm)
+                                                                                     Area (cm2) Amount
+                                                                                                 (µg)
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25          8         0.3972      40
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         12         0.6048      60
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         15         0.7431      74
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         18         0.8815      88
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         23         1.0891     109
+                              Small     2.25, 2.5, 2.75, 3.0, 3.25         28         1.3658     137
+Drug Component                Small        2.5, 2.75, 3.0, 3.25            33         1.5734     157
+                              Small        2.5, 2.75, 3.0, 3.25            38         1.8501     185
+                             Medium              3.5, 4.0                   8         0.4979      50
+                             Medium              3.5, 4.0                  12         0.7466      75
+                             Medium              3.5, 4.0                  15         0.9124      91
+                             Medium              3.5, 4.0                  18         1.1612     116
+                             Medium              3.5, 4.0                  23         1.4099     141
+                             Medium              3.5, 4.0                  28         1.7415     174
+                             Medium              3.5, 4.0                  33         1.9903     199
+                             Medium              3.5, 4.0                  38         2.3219     232
+Delivery System
+                    145 cm
+Working Length
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 8
+                                                             XIENCE Xpedition Stent System
+                            RX: Single access port to inflation lumen; guide wire exit notch is located 25.5 cm from
+Delivery System             tip; designed for guide wires ≤ 0.014”.
+Design                      OTW: Sidearm adaptor provides access to balloon inflation/deflation lumen and guide wire
+                            lumen; designed for guide wires ≤ 0.014”.
+Stent Delivery              A compliant, tapered balloon, with two radiopaque markers located on the catheter shaft to
+System Balloon              indicate balloon positioning and expanded stent length
+                            Rated Burst Pressure (RBP): 18 atm (1824 kPa)
+
+                                  Stent Diameter (mm)                   In vitro Stent Nominal
+                                                                            Pressure (atm)
+                              2.25                                 10
+Balloon Inflation
+                              2.5                                  10
+Pressure
+                              2.75                                 10
+                              3.0                                  10
+                              3.25                                 10
+                              3.5                                  10
+                              4.0                                  10
+Guiding Catheter            ≥ 5 F (0.056”) for 2.25 – 3.5mm sizes
+Inner Diameter              ≥ 5 F (0.056”) for 4.0 x 8-33mm sizes
+                            ≥ 6 F (0.066”) for 4.0 x 38mm sizes
+Catheter Shaft Outer        Distal:        0.034” (0.86 mm)
+Diameter                    Proximal (RX): 0.028” (0.71 mm)
+                            Proximal (OTW): 0.045” (1.14 mm)
+
+
+
+
+    XIENCE Alpine—Device Component Description
+
+    The XIENCE Alpine family of stent systems includes:
+
+       1. stent diameter 2.25, stent lengths 8, 12, 15, 18, 23, 28 mm
+       2. stent diameters 2.5, 2.75, 3.0, 3.25 2, 3.5, 4.0 mm, stent lengths 8, 12, 15, 18, 23, 28, 33,
+            38 mm
+
+    The device component characteristics are summarized in Table 5.
+
+
+
+
+2
+  The 3.25 mm stent diameter is only available for the XIENCE Xpedition and XIENCE Alpine Stent Systems and not for the XIENCE PRIME
+Stent System.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 9
+ Table 5          XIENCE Alpine Product Description
+
+                                                  XIENCE Alpine Stent System
+Available Stent
+                   8, 12, 15, 23, 28                    8, 12, 15, 23, 28, 33, 38
+Lengths (mm)
+Available Stent
+                   2.25                                 2.5, 2.75, 3.0, 3.25, 3.5, 4.0
+Diameters (mm)
+                   A medical grade L-605 cobalt chromium CoCr alloy identical to the material used in the
+Stent Material
+                   XIENCE V, XIENCE PRIME, XIENCE Xpedition stents
+
+                                                                                               Target
+                                                                                     Surface    Drug
+                          Stent Design     Diameters (mm)         Stent Length (mm)
+                                                                                    Area (cm2) Amount
+                                                                                                (µg)
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25          8         0.3972      40
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         12         0.6048      60
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         15         0.7431      74
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         18         0.8815      88
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         23         1.0891     109
+                             Small     2.25, 2.5, 2.75, 3.0, 3.25         28         1.3658     137
+Drug Component               Small        2.5, 2.75, 3.0, 3.25            33         1.5734     157
+                             Small        2.5, 2.75, 3.0, 3.25            38         1.8501     185
+                            Medium              3.5, 4.0                   8         0.4979      50
+                            Medium              3.5, 4.0                  12         0.7466      75
+                            Medium              3.5, 4.0                  15         0.9124      91
+                            Medium              3.5, 4.0                  18         1.1612     116
+                            Medium              3.5, 4.0                  23         1.4099     141
+                            Medium              3.5, 4.0                  28         1.7415     174
+                            Medium              3.5, 4.0                  33         1.9903     199
+                            Medium              3.5, 4.0                  38         2.3219     232
+Delivery System
+                   145 cm
+Working Length
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 10
+                                                    XIENCE Alpine Stent System
+                       RX: Single access port to inflation lumen; guide wire exit notch is located 25.5 cm from
+Delivery System        tip; designed for guide wires ≤ 0.014”.
+Design                 OTW: Sidearm adaptor provides access to balloon inflation/deflation lumen and guide wire
+                       lumen; designed for guide wires ≤ 0.014”.
+Stent Delivery         A compliant, tapered balloon, with two radiopaque markers located on the catheter shaft to
+System Balloon         indicate balloon positioning and expanded stent length
+                       Rated Burst Pressure (RBP): 18 atm (1824 kPa)
+
+                           Stent Diameter (mm)               In vitro Stent Nominal
+                                                                 Pressure (atm)
+                        2.25                            10
+Balloon Inflation
+                        2.5                             10
+Pressure
+                        2.75                            10
+                        3.0                             10
+                        3.25                            10
+                        3.5                             10
+                        4.0                             10
+Guiding Catheter       ≥ 5 F (0.056”) for 2.25 – 3.5mm sizes
+Inner Diameter         ≥ 5 F (0.056”) for 4.0 x 8-33mm sizes
+                       ≥ 6 F (0.066”) for 4.0 x 38mm sizes
+Catheter Shaft Outer   Distal:        0.034” (0.86 mm)
+Diameter               Proximal (RX): 0.029” (0.71 mm)
+                       Proximal (OTW): 0.045” (1.14 mm)
+
+
+
+
+ Drug Component Description for the XIENCE Family of Stents
+
+ The XIENCE Family of Everolimus Eluting Coronary Stents are coated with everolimus
+ (active ingredient), embedded in a non-erodible polymer (inactive ingredient).
+
+
+ Everolimus
+
+ Everolimus is the active pharmaceutical ingredient in the XIENCE stents. It is a novel semi-
+ synthetic macrolide immunosuppressant, synthesized by chemical modification of
+ rapamycin (sirolimus). The everolimus chemical name is 40-O-(hydroxyethyl)-rapamycin
+ and the chemical structure is shown in Figure 1 below.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 11
+ Figure 1         Everolimus Chemical Structure
+
+
+
+
+ Inactive Ingredients – Non-erodible Polymer
+
+
+ The XIENCE V stent contains inactive ingredients including poly n-butyl methacrylate
+ (PBMA), a polymer that adheres to the stent and drug coating, and PVDF-HFP, which is
+ comprised of vinylidene fluoride and hexafluoropropylene monomers as the drug matrix
+ layer containing everolimus. PBMA is a homopolymer with a molecular weight (Mw) of
+ 264,000 to 376,000 dalton. PVDF-HFP is a non-erodible semi-crystalline random
+ copolymer with a molecular weight (Mw) of 254,000 to 293,000 dalton. The drug matrix
+ copolymer is mixed with everolimus (83%/17% w/w polymer/everolimus ratio) and applied
+ to the entire PBMA coated stent surface.
+
+ The drug load is 100 μg/cm2 for all product sizes. No topcoat layer is used. The polymer
+ chemical structures are shown in Figure 2 below.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 12
+ Figure 2          Non-erodible Polymer Chemical Structures
+
+                      PBMA                                         PVDF-HFP
+
+
+
+
+VI.    ALTERNATIVE PRACTICES AND PROCEDURES
+
+There are several other alternatives for the treatment of patients with coronary artery disease
+including exercise, diet, drug therapy, percutaneous coronary interventions (i.e., balloon
+angioplasty, atherectomy, bare metal stents, coated stents, and other drug-eluting stents), and
+coronary artery bypass grafting (CABG) surgery. Each alternative has its own advantages and
+disadvantages. A patient should fully discuss these alternatives with his/her physician to select
+the method that best meets expectations and lifestyle.
+
+
+VII.   MARKETING HISTORY
+
+The XIENCE family of stents is commercially available in the following countries. The devices
+have not been withdrawn from marketing for any reason related to its safety or effectiveness.
+
+ AFGHANISTAN      BULGARIA      FREN.POLYNESIA                      MACEDONIA
+                                                     IRELAND                         PANAMA
+
+   ALBANIA        CAMBODIA      FRENCH GUYANA         ITALY
+                                                                     MALAYSIA       PARAGUAY
+
+   ALGERIA         CANADA                                             MALTA
+                                   GEORGIA            ISRAEL                        PHILIPPINES
+  ARGENTINA         CHILE          GERMANY                          MARTINIQUE
+                                                     JAMAICA                         POLAND
+  AUSTRALIA         CHINA                             JAPAN          MAURITIUS
+                                    GREECE                                          PORTUGAL
+   AUSTRIA        COLOMBIA       GUADELOUPE          JORDAN           MEXICO
+                                                                                   PUERTO RICO
+  AZERBAIJAN     COSTA RICA         GUAM           KAZAKHSTAN        MOROCCO
+                                                                                      QATAR
+   BAHAMAS         CYPRUS         GUATEMALA          KOSOVO        NETHERLANDS        REP. OF
+                                 KOSOVO (DNU)                                        ARMENIA
+                   CZECH
+   BAHRAIN                                        KOSOVO (DNU)       NORWAY           REP. OF
+                  REPUBLIC        HONDURAS
+                                                                      OMAN            YEMEN
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 13
+  BANGLADESH          DENMARK         HONG KONG          KUWAIT            NEW           REUNION
+                                                                        CALEDONIA
+                     DOMINICAN
+   BARBADOS                           HUNGARY            LATVIA        NEW ZEALAND
+                       REP.                                                              ROMANIA
+
+    BELARUS           ECUADOR          ICELAND          LEBANON         NICARAGUA
+                                                                                       RUSSIAN FED.
+
+                                                                          NORTH
+    BELGIUM            EGYPT            INDIA             LIBYA                          SAMOA,
+                                                                         MARIANA
+                                                                                        AMERICAN
+                    EL SALVADOR
+    BOLIVIA                           INDONESIA                          NORWAY
+                      ESTONIA                         LIECHTENSTEIN                    SAN MARINO
+
+        BRAZIL                           IRAN           LITHUANIA
+                      FINLAND                                             OMAN         SAUDI ARABIA
+
+        BRUNEI         FRANCE            IRAQ         LUXEMBOURG
+                                                                         PAKISTAN         SERBIA
+   SINGAPORE          SLOVAKIA        SLOVENIA        SOUTH AFRICA     SOUTH KOREA     SOUTH YEMEN
+        SPIAN         SRI LANKA        SWEDEN         SWITZERLAND         TAIWAN        THAILAND
+   TRINIDAD,                                                           UNITED ARAB        UNITED
+                       TUNISIA         TURKEY            UKRAINE
+    TOBAGO                                                               EMIRATES        KINGDOM
+ UNITED STATED        URUGUAY        US VIRGIN IS.     UZBEKISTAN       VENEZUELA        VIETNAM
+
+
+
+
+VIII.        POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+  Below is a list of the potential adverse effects (e.g., complications) associated with the use of
+  the XIENCE Family of Everolimus Eluting Coronary Stents.
+
+  Adverse events (in alphabetical order) which may be associated with percutaneous coronary
+  and treatment procedures including coronary stent use in native coronary arteries include, but
+  are not limited to:
+
+         •   Abrupt closure
+         •   Access site, hematoma, or hemorrhage
+         •   Acute myocardial infarction
+         •   Allergic reaction or hypersensitivity to contrast agent or cobalt, chromium, nickel,
+             tungsten, acrylic and fluoropolymers; and drug reactions to antiplatelet drugs or contrast
+             agent
+         •   Aneurysm
+         •   Arterial perforation and injury to the coronary artery
+         •   Arterial rupture
+         •   Arteriovenous fistula
+         •   Arrhythmias, atrial and ventricular
+         •   Bleeding complications, which may require transfusion
+         •   Cardiac tamponade
+         •   Coronary artery spasm
+         •   Coronary or stent embolism
+         •   Coronary or stent thrombosis
+         •   Death
+         •   Dissection of the coronary artery
+
+
+ PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 14
+    •   Distal emboli (air, tissue or thrombotic)
+    •   Emergent or non-emergent surgery
+    •   Fever
+    •   Hypotension and / or hypertension
+    •   Infection and pain at insertion site
+    •   Injury to the coronary artery
+    •   Ischemia (myocardial)
+    •   Myocardial infarction (MI)
+    •   Nausea and vomiting
+    •   Palpitations
+    •   Peripheral ischemia (due to vascular injury)
+    •   Pseudoaneurysm
+    •   Renal failure
+    •   Restenosis of the stented segment of the artery
+    •   Shock / pulmonary edema
+    •   Stroke / cerebrovascular accident (CVA)
+    •   Total occlusion of coronary artery
+    •   Unstable or stable angina pectoris
+    •   Vascular complications including at the entry site which may require vessel repair
+    •   Vessel dissection
+
+ Zortress®, the oral formulation of everolimus developed by Novartis Pharmaceuticals
+ Corporation, has been evaluated in clinical trials and is approved in the United States for the
+ prevention of organ rejection in adult kidney transplant recipients at the dose of 1.5 mg/day.
+
+ Outside the U.S., Zortress is sold under the brand name, Certican®, in more than 70 countries.
+ Everolimus is also approved in the United States under the name of Afinitor® for patients with
+ advanced renal cell carcinoma (cancer), after failure of treatment with sunitinib or sorafenib, at
+ doses of 5 to 20 mg/day when taken by mouth. The following list includes the known risks of
+ everolimus at the oral doses listed above:
+
+    •   Abdominal pain (including upper abdominal pain)
+    •   Anemia
+    •   Angioedema
+    •   Anorexia
+    •   Asthenia
+    •   Constipation
+    •   Cough
+    •   Delayed wound healing/fluid accumulation
+    •   Diarrhea
+    •   Dyslipidemia (including hyperlipidemia and hypercholesterolemia)
+    •   Dysgeusia
+    •   Dyspepsia
+    •   Dyspnea
+    •   Dysuria
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 15
+    •   Dry skin
+    •   Edema (peripheral)
+    •   Epistaxis
+    •   Fatigue
+    •   Headache
+    •   Hematuria
+    •   Hyperglycemia (may include new onset of diabetes)
+    •   Hyperkalemia
+    •   Hyperlipidemia
+    •   Hypertension
+    •   Hypokalemia
+    •   Hypomagnesemia
+    •   Hypophosphatemia
+    •   Increased serum creatinine
+    •   Infections and serious infections: bacterial, viral, fungal, and protozoal infections (may
+        include herpes virus infection, polyoma virus infection which may be associated with
+        BK virus associated nephropathy, and/or other opportunistic infections)
+    •   Insomnia
+    •   Interaction with strong inhibitors and inducers of CYP3A4 or PgP
+    •   Leukopenia
+    •   Lymphoma and other malignancies (including skin cancer)
+    •   Male infertility (azospermia and/or oligospermia)
+    •   Mucosal inflammation (including oral ulceration and oral mucositis)
+    •   Nausea
+    •   Neutropenia
+    •   Non-infectious pneumonitis
+    •   Pain: extremity, incision site and procedural, back, chest, musculoskeletal
+    •   Proteinuria
+    •   Pruritus
+    •   Pyrexia
+    •   Rash
+    •   Stomatitis
+    •   Thrombocytopenia
+    •   Thrombotic microangiopathy (TMA)/Thrombotic thrombocytopenic purpura (TTP)/
+        Hemolytic uremic syndrome (HUS)
+    •   Tremor
+    •   Upper respiratory tract infection
+    •   Urinary tract infection
+    •   Vomiting
+
+    Live vaccines should be avoided and close contact with those that have had live vaccines
+    should be avoided. Fetal harm can occur when administered to a pregnant woman. There
+    may be other potential adverse events that are unforeseen at this time.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 16
+IX.    SUMMARY OF PRECLINICAL STUDIES
+
+ A series of non-clinical laboratory studies related to the XIENCE Family of Stents were
+ performed and the pertinent data is being leveraged from the previously approved PMAs
+ P070015 and P110019.
+
+
+ X.    SUMMARY OF PRIMARY CLINICAL STUDY
+
+ The applicant performed a clinical study to establish a reasonable assurance of safety and
+ effectiveness of percutaneous coronary intervention with XINCE V and/or XIENCE PRIME
+ Everolimus-Eluting Coronary Stent Systems for the treatment of chronic total occlusion
+ coronary artery lesions in the US under IDE, G110103. Data from this clinical study were the
+ basis for the PMA approval decision. A summary of the clinical study is presented below.
+
+
+ A. Study Design
+
+ Patients were treated between September 13, 2011 and February 7, 2013. The PMA presented
+ data collected through 1-year clinical follow-up and included 222 Intent-To-Treat (ITT)
+ patients. There were 20 investigational sites.
+
+ The EXPERT CTO study was a prospective, multi-center, one-arm, (un)masked clinical study
+ and was non-randomized and open-label, with clinical follow-up through 5 years. EXPERT
+ CTO is designed to study the safety and effectiveness of the XIENCE V and XIENCE PRIME
+ Stent Systems for the treatment of chronic total occlusions. A total of 250 subjects were
+ enrolled at 20 sites. The ITT population consisted of 222 subjects and the Per -Protocol (PP)
+ population consisted of 183 subjects. The primary endpoint for EXPERT CTO was major
+ adverse cardiac events (MACE) at 1 year. This composite endpoint includes the following
+ components: Death, MI or Clinically-Driven Target Lesion Revascularization (TLR).
+
+ XIENCE Xpedition and XIENCE Alpine stents are identical to the XIENCE PRIME stent. The
+ XIENCE PRIME stent is similar to the XIENCE V stent. In addition, the stent delivery
+ systems for XIENCE Xpedition and XIENCE Alpine are similar to the XIENCE V stent
+ delivery system. The clinical data in the current approved labeling for the XIENCE Xpedition
+ and XIENCE Alpine Stent Systems are leveraged from the XIENCE PRIME Stent System,
+ which in turn leverages clinical data from the XIENCE V Stent System. Therefore, clinical data
+ from the EXPERT CTO clinical trial is applicable to multiple models in the XIENCE family of
+ Everolimus Eluting Coronary Stent Systems and no additional clinical trial data were required
+ to demonstrate the safety and effectiveness of the XIENCE Xpedition and XIENCE Alpine
+ Stent Systems in CTOs.
+
+ The statistical analysis was performed via the Frequentist approach. The stent-related endpoint
+ in this trial was MACE which was defined as death, MI (per ARC definition), or clinically-
+ driven TLR at 1 year post-procedure among all enrolled patients for whom recanalization and
+ pre-dilatation of the target lesion were completed when the study stent(s) (XIENCE V and/or
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 17
+ XIENCE PRIME) was inserted into the coronary guiding catheter. This rate was compared with
+ a performance goal (PG) of 24.4%.
+
+ The null hypothesis stated that the study stent will have a 1-year MACE rate greater than or
+ equal to the PG. The alternative hypothesis states that the study stent will have a 1-year MACE
+ rate less than the PG where PMACE is the true primary endpoint rate for the study stent and the
+ 24.4% is the meta-analytically derived PG for the primary endpoint rate. Rejection of the null
+ hypothesis will signify that the PG has been met.
+
+
+ Specifically:
+                                       Ho : PMACE ≥ 0.244
+                                       Ha : PMACE < 0.244
+
+ Assuming a one-sided alpha level of 0.05, with an approximate true event rate of 14.4%, and
+ approximately 94% statistical power utilizing an exact test, an effective sample size of 163
+ patients was required to demonstrate that the stated PG is achieved. Adjusting this number for
+ an approximate 10% loss to follow-up resulted in a sample size of approximately 180 patients
+ in whom the guide wire had crossed the CTO and the lesion was pre-dilated. Assuming that
+ 72% of the CTO are crossed and pre-dilated, the total enrollment in this study is therefore
+ calculated as 180/0.72 = 250 patients.
+ The trial monitor is Harvard Clinical Research Institute (HCRI). The Angiographic Core
+ Laboratory is Beth Israel Deaconess Medical Center, Boston, MA. Data monitoring,
+ management, analysis and Clinical Events Committee are also handled by Harvard Clinical
+ Research Institute, Boston, MA.
+
+
+1. Clinical Inclusion and Exclusion Criteria
+
+   Enrollment in the EXPERT CTO study was limited to patients who met the following
+   inclusion criteria:
+
+   General Inclusion Criteria:
+
+   a. The patient is ≥ 18 years of age at the time of consent
+
+   b. Patients experiencing clinical symptoms considered suggestive of ischemic heart disease
+      (e.g., chest pain or discomfort, heart failure, etc.) or having evidence of myocardial
+      ischemia (e.g., abnormal functional study) attributed to the CTO target vessel and
+      scheduled for clinically indicated percutaneous revascularization
+
+   c. Subject is eligible and consents to undergo percutaneous coronary intervention (PCI)
+      procedure
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 18
+   d. Patient is an acceptable candidate for percutaneous transluminal coronary angioplasty
+      (PTCA), stenting, and emergency coronary artery bypass grafting (CABG)
+
+   e. Subject is willing and able to sign an informed consent form (ICF) approved by local
+      Institutional Review Board/Ethics Committee and to follow the protocol with up to 5-
+      year follow up.
+
+   f. Female patients of child-bearing potential must have a negative qualitative or quantitative
+      pregnancy test within 7 days before enrollment and effective birth control must be used
+      up to 1 year following the index procedure.
+
+   Angiographic Inclusion Criteria:
+
+   a. A maximum of one de novo lesion with at least one target segment in a native coronary
+      artery meeting the definition of chronic total occlusion. A “chronic total occlusion” is
+      any non-acute total coronary occlusion fulfilling the following angiographic
+      characteristics and estimated in duration at least 3 months by clinical history and/or
+      comparison with antecedent angiogram or electrocardiogram:
+
+          i.    High-grade native coronary stenosis
+
+          ii.   TIMI flow 0 or 1 antegrade flow
+
+   b. Occluded segment suitable for placement of coronary stents:
+
+          i.    Segment without severe tortuosity (angulation ≥ 45º)
+
+          ii.   Segment not located in an excessively distal location
+
+   Patients were not permitted to enroll in the EXPERT CTO study if they met any of the
+   following exclusion criteria:
+
+
+   General Exclusion Criteria:
+
+   Candidates were excluded from the study if any of the following conditions are present:
+    1. Patients with any history of allergy to iodinated contrast that cannot be effectively
+        managed medically, or any known allergy to thienopyridine, aspirin, heparin, stainless
+        steel, or everolimus
+    2. Evidence of acute MI within 72 hours of the intended treatment (defined as: Q-wave or
+        non-Q-wave MI having creatine kinase (CK) enzymes 2 × the upper limit of normal
+        (ULN) with the presence of a creatine kinase myocardial-band isoenzyme (CK-MB)
+        above the Institution’s ULN, or troponin (I or T) above the Institution’s ULN)
+    3. Previous coronary interventional procedure of any kind within the 30 days prior to the
+        procedure in the target vessel
+    4. Planned interventional treatment of either the target or any non-target vessel within 30
+        days post-procedure
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 19
+    5. Planned interventional treatment of either the target or any non-target vessel within 6
+        months post-procedure with any alternative drug-eluting stent (DES) (e.g., CYPHER®
+        Sirolimus-Eluting stent, TAXUS® Paclitaxel-Eluting stent or Endeavor® Zotarolimus-
+        Eluting Endeavor stent)
+    6. Any contraindication to cardiac catheterization or to any of the standard concomitant
+        therapies used during routine cardiac catheterization and PCI (e.g., aspirin,
+        thienopyridine, unfractionated heparin)
+    7. Target lesion requires treatment with a device after successful crossing other than PTCA
+        prior to stent placement (including, but not limited to directional or rotational coronary
+        atherectomy, excimer laser, thrombectomy, etc.). Note: Use of alternative technologies
+        to conventional guide wires that are approved by the United States Food and Drug
+        Administration for CTO revascularization (e.g., Asahi Tornus and Corsair catheters,
+        IntraLuminal Therapeutics SafeCross™ guide wire, Flowcardia CROSSER™ system,
+        Stingray CTO Re-Entry System) is permitted and will be collected in the case report
+        form.
+
+    8. Patients with history of clinically significant abnormal laboratory findings including:
+                i. Neutropenia (<1000 neutrophils/mm3) within the previous 2 weeks, or
+                ii. Thrombocytopenia (<100,000 platelets/mm3), or
+                iii. AST, ALT, alkaline phosphatase, or bilirubin > 1.5 × ULN, or
+                iv. Serum creatinine > 1.5 mg/dL
+
+    9. Patients with evidence of ongoing or active clinical instability including the following:
+           i.   Sustained systolic blood pressure < 100 mmHg or cardiogenic shock
+           ii. Acute pulmonary edema or severe congestive heart failure
+           iii. Suspected acute myocarditis, pericarditis, endocarditis, or cardiac tamponade
+           iv. Suspected dissecting aortic aneurysm
+           v.   Hemodynamically significant valvular heart disease, hypertrophic
+                cardiomyopathy, restrictive cardiomyopathy, or congenital heart disease
+
+   10. Target lesion involves a bifurcation including a diseased side branch ≥ 2.25 mm in
+       diameter that would require treatment
+   11. Target vessel with a patent bypass graft from prior coronary bypass surgery
+   12. Proximal coronary stenting of target lesion
+   13. History of stroke or transient ischemic attack within the prior 6 months
+   14. Active peptic ulcer or upper gastrointestinal (GI) bleeding within the prior 6 months
+   15. History of bleeding diathesis or coagulopathy or refusal of blood transfusions
+
+   Angiographic Exclusion Criteria
+   Candidates will be excluded from study if any of the following conditions are met:
+    1. Occlusion involves segment within previous stent
+    2. Extensive lesion-related thrombus (TIMI thrombus grade 3 or 4)
+    3. Previous stenting (drug-eluting or bare metal) in the target vessel unless the following
+         conditions are met:
+              i. It has been at least 9 months since the previous stenting.
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 20
+               ii. That target lesion is at least 15 mm away from the previously placed stent.
+               iii. The previously stented segment (stent plus 5 mm on either side) has no more
+                    than 40% diameter stenosis.
+    4. The target vessel has other lesions proximal to the total occlusion identified with greater
+        than 40% diameter stenosis based on visual estimate or on-line quantitative coronary
+        angiography (QCA). However, planned stenting of the lesion in target vessel which is
+        proximal to the target lesion and can be covered by a single stent (ie, tandem lesions)
+        are acceptable.
+
+
+2. Follow-up Schedule
+   Patients, for whom recanalization and pre-dilatation of the CTO were completed and the
+   study stent(s) (XIENCE V and/or XIENCE PRIME) was inserted into the coronary guiding
+   catheter (i.e., the intent-to-treat (ITT) population for the stent-related analysis), will be
+   followed through 5 years post index procedure with follow-up at 30 days, 6 months, 1 year,
+   and annually thereafter through 5 years. All clinical follow-ups will be performed through
+   phone contact or office visit except the 1-year visit which was an office visit. The remaining
+   patients will be followed until hospital discharge.
+
+   Preoperatively, the following were obtained: signed informed consent, medical and cardiac
+   history, angina status, pregnancy test, chemistry panel, CBC with differential, lipid panel,
+   liver function test, 12 lead ECG, coronary angiogram, cardiac enzyme measurement, and
+   medication history. The following was collected during the procedure: coronary angiogram,
+   cardiac enzyme measurements, ACT measurements, and medication regimen.
+
+    Postoperatively, the objective parameters measured during the study included angina status
+   and medication regimen at all visits and 12 lead ECG at 1 year. Adverse events and
+   complications were recorded at all visits.
+
+   The EXPERT CTO trial was not designed or powered to study safety or effectiveness
+   differences for subgroups.
+
+3. Clinical Endpoints
+
+   With regard to safety and effectiveness the primary endpoint was: major adverse cardiac events
+   which include death, MI (Q wave and non-Q wave) or clinically-driven target lesion
+   revascularization at 1 year (primary endpoint). Note MACE is a composite of safety and
+   effectiveness.
+
+   With regard to success/failure criteria:
+   • Device Success was defined as achievement of <50% diameter stenosis within the target
+      lesion segment using assigned study device.
+   • Procedure Success was defined as device success and absence of in-hospital MACE.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 21
+ B. Accountability of PMA Cohort
+
+ At the time of database lock, of 250 patients enrolled in the PMA study, 88.8% (222) of the
+ patients were available for analysis (ITT population) at the completion of the study, the 1-year
+ post-operative visit.
+
+ The ITT population consisted of 222 subjects, and the study available subject flow through 360
+ days is shown in Figure 3. The number of subjects available for 1-month follow-up was 216,
+ due to 6 early terminations (1 subject withdrew consent, 1 subject died, and 4 subjects were lost
+ to follow-up). The number of subjects available for 6-month follow-up was 212, due to 4 early
+ terminations (2 subjects died, and 2 subjects were lost to follow-up). The number of subjects
+ available for 1-year follow-up was 209, due to 3 early terminations (1 subject died, and 2
+ subjects withdrew consent). However, of the 209 available ITT subjects, 4 did not have a 1-
+ year visit. Therefore, the actual number of ITT subjects with a qualifying 1-year visit was 205
+ (which equals a 1-year follow-up rate of 92.3%). The denominator in the primary endpoint
+ (211) is therefore composed of those with 1-year follow-up (205) + deaths (4) + subjects who
+ early terminated but had an event (2) = 211. Those who early terminate without an event are
+ excluded from the denominator.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 22
+Figure 3 Available ITT subjects at each follow-up time point in the EXPERT-CTO trial
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 23
+ C. Study Population Demographics and Baseline Parameters
+
+Table 10 presents the baseline demographics, risk factors, and angiographic characteristics by
+gender for subjects in the EXPERT CTO trial. The demographics and baseline risk factors of the
+study population are typical for a PCI study performed in the US.
+
+Table 10            Demographics, Risk Factors, and Baseline Angiographic Characteristics
+
+                                                    Male               Female
+                                                                                         Difference
+   Subject / Lesion Characteristics               (N = 180)           (N = 42)                             p-value
+                                                                                         [95% CI]
+                                                  (L = 180)           (L = 42)
+
+   Baseline Demographics, Mean ± SD (n)
+     Age (year)                                61.08±10.46 (180) 64.12±10.09 (42)      -3.04[-6.45,0.37]    0.089
+   Baseline Risk Factors, % (No./total)
+     All Diabetes                               38.3% (69/180)     47.6% (20/42)     -9.3%[-26.0%,7.4%]     0.297
+     Diabetes Treated with Insulin              29.0% (20/69)      35.0% (7/20)      -6.0%[-29.5%,17.5%]    0.593
+     Current Tobacco Use                        28.9% (48/166)     14.3% (6/42)      14.6%[2.0%,27.3%]      0.222
+     Hypertension                              91.6% (164/179)     92.9% (39/42)     -1.2%[-10.0%,7.5%]     1.000
+     Dyslipidemia                              96.1% (173/180)    100.0% (42/42)     -3.9%[-6.7%,-1.1%]     0.352
+     Congestive Heart Failure                   13.3% (24/180)      7.1% (3/42)      6.2%[-3.0%,15.4%]      0.430
+     Prior PCI                                  44.1% (79/179)     40.5% (17/42)     3.7%[-12.9%,20.2%]     0.731
+     Prior MI                                   30.0% (51/170)     25.0% (10/40)     5.0%[-10.1%,20.1%]     0.569
+
+   Target Vessel, % (No./total)
+     LAD                                        30.6% (55/180)     33.3% (14/42)     -2.8%[-18.5%,13.0%]    0.715
+     Circumflex or Ramus                        17.8% (32/180)      7.1% (3/42)      10.6%[1.1%,20.2%]      0.103
+     RCA                                        51.7% (93/180)     59.5% (25/42)     -7.9%[-24.4%,8.7%]     0.394
+     LMCA                                        0.0% (0/180)       0.0% (0/42)       0.0%[0.0%,0.0%]        --
+
+   Pre-Procedure QCA Analysis, Mean ± SD (m)
+     Lesion Length (mm)                        35.92±19.20 (180) 36.68±15.19 (42)      -0.76[-6.14,4.62]    0.811
+     Pre-Procedure RVD (mm)                     2.69±0.43 (180)    2.52±0.43 (42)      0.17[0.02,0.31]      0.022
+     Pre-Procedure MLD (mm)                     0.01±0.06 (180)    0.00±0.00 (42)      0.01[0.00,0.02]      0.026
+     Pre-Procedure Percent Diameter Stenosis
+                                               99.62±2.36 (180)   100.00±0.00 (42)    -0.38[-0.72,-0.04]    0.032
+   (%DS)
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 24
+     D. Safety and Effectiveness Results
+
+          With regard to safety and effectiveness the primary endpoint was: major adverse cardiac
+          events which include death, MI (Q wave and non-Q wave) or clinically-driven target lesion
+          revascularization at 1 year (primary endpoint). Note MACE is a composite of safety and
+          effectiveness.
+
+          The analysis of the primary endpoint of MACE was based on the ITT (N=222) and per-
+          protocol (N=183) cohorts available for the 1-year evaluation. The primary safety outcomes
+          for this study are presented below in Table 11 and the complete efficacy and safety clinical
+          results are provided in Table 12.
+
+          The observed MACE rate at 1 year was 18.5%, of which the upper limit of the one-sided
+          95% confidence interval was 23.4% which is less than the PG of 24.4%. A statistically
+          significant p-value of 0.0248 was observed for this comparison. The second pre-specified
+          primary endpoint analysis compared the MACE rate at 1 year to a PG using the PP
+          population. The observed MACE rate at 1 year was 8.2%, of which the upper limit of the
+          one-sided 95% confidence interval was 12.3% which is less than the PG of 24.4%. A
+          statistically significant p-value of <0.0001 was observed for this comparison.
+
+Table 11                 Primary Endpoints Results
+
+
+Primary Endpoint                           MACE                  Upper One-Sided                Performance              p-value4
+Analysis                                                            95% CL4                         Goal
+ITT Set1 (N = 222)                   18.5% (39/211)                  23.4%                         24.4%                  0.0248
+Exact Rate3
+PP Set2 (N = 183)                     8.2% (15/183)                      12.3%                       24.4%               < 0.0001
+Exact Rate3
+ 1
+     ITT subjects include all subjects who met the study entry criteria, signed the written informed consent, were enrolled in the trial,
+     and whose target lesion was successfully crossed and predilated.
+ 2
+     The per-protocol population is defined as all ITT subjects in whom at least one study stent was implanted, met procedure success,
+     had available follow-up data (i.e., a MACE event within 360 days or follow up of at least 330 days), and did not have major
+     protocol deviations due to inappropriate enrollment.
+ 3
+     The numerator includes subjects who have MACE events before or on day 360, and the denominator includes subjects who had had
+     available follow-up data (i.e., a MACE event within 360 days or follow up of at least 330 days).
+ 4
+     p-value and upper one-sided 95% CI were calculated using exact binomial method.
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 25
+Table 12          Effectiveness and Safety Results
+
+
+                                                                                        Outcomes at 1 Year
+                                                                                              ITT
+                                                                                            (N = 222)
+           Composite Effectiveness and Safety
+            TLF (per ARC)                                                                   15.8% (33/209)
+            TLF (per protocol)                                                              9.1% (19/209)
+           Effectiveness
+           Clinically driven TLR                                                            6.3% (13/207)
+             Clinically driven TLR, CABG                                                    0.5% (1/206)
+             Clinically driven TLR, PCI                                                     5.8% (12/207)
+           Clinically driven TVR                                                            7.2% (15/207)
+           Safety
+           All Death                                                                         1.9% (4/210)
+                                                            Cardiac Death                    1.0% (2/208)
+                                                        Non-Cardiac Death                    1.0% (2/208)
+           Target Vessel MI (per ARC)                                                       12.0% (25/209)
+                                     Target Vessel QMI (per ARC)                             1.0% (2/208)
+                                    Target Vessel NQMI (per ARC)                            11.1% (23/207)
+           All MI (per ARC)                                                                 13.9% (29/209)
+                                                   QMI (per ARC)                             1.0% (2/208)
+                                                  NQMI (per ARC)                            13.0% (27/207)
+           Target Vessel MI (per protocol)                                                   3.4% (7/208)
+                                  Target Vessel QMI (per protocol)                           1.0% (2/208)
+                                 Target Vessel NQMI (per protocol)                           2.4% (5/206)
+           All MI (per protocol)                                                             3.4% (7/208)
+                                                QMI (per protocol)                           1.0% (2/208)
+                                               NQMI (per protocol)                           2.4% (5/206)
+           ARC Definite+Probable Stent Thrombosis
+                                         Cumulative through 1 year                           1.4% (3/207)
+                                                  Acute (0 – 1 day)                          0.0% (0/222)
+                                             Subacute (2 – 30 days)                          0.9% (2/218)
+                                            Late (31 days – 1 year)                          0.5% (1/206)
+           ARC Definite Stent Thrombosis (cumulative)                                        1.0% (2/207)
+         Notes:
+         − TLF is defined as a hierarchical composite of cardiac death, Target Vessel MI, and clinically driven TLR.
+         − ARC: Academic Research Consortium
+
+Subgroup Analyses
+
+The EXPERT CTO trial was not designed or powered to study safety or effectiveness differences
+for subgroups, so these analyses are considered exploratory without definitive conclusions.
+
+A post hoc evaluation of the EXPERT CTO clinical trial for possible sex-based differences in
+baseline characteristics and clinical outcomes, as well as for any interaction between treatment
+and sex/gender was performed. See Table 13 for the clinical results for all female and all male
+subgroups in the study through 1 year.
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 26
+   In the EXPERT CTO study, 81.1% (180/222) were male and 18.9% (42/222) were female. In
+   comparison, the prevalence of coronary artery disease (CAD) is estimated at 9.2 million in males
+   and 8.4 million in females for adults age 20 and older the United States (i.e., the CAD population
+   is estimated to be 52.2% males and 47.7% females). The disproportionate enrollment distribution
+   in this trial may be partly attributable to gender differences in symptoms and pathophysiology,
+   which may lead to under-diagnosis and under-referral of female patients with CAD. The gender
+   proportions enrolled in this trial are similar to other CTO drug-eluting stent trials.1,2,3
+
+   No statistical difference was detected.
+
+   Table 13          Results for All Female and All Male Subgroups in the Study through 1 Year
+
+
+
+                                           Male             Female            Difference
+                                         (N = 180)         (N = 42)           [95% CI]           p-value
+
+All Death                              1.2% (2/171)      5.1% (2/39)      -4.0%[-11.1%,3.1%]      0.158
+Cardiac Death                          0.6% (1/170)      2.6% (1/38)       -2.0%[-7.3%,3.2%]      0.333
+Non-Cardiac Death                      0.6% (1/170)      2.6% (1/38)       -2.0%[-7.3%,3.2%]      0.333
+Target Vessel MI per ARC              11.1% (19/171)     15.8% (6/38)     -4.7%[-17.2%,7.8%]      0.413
+Target Vessel MI per Protocol          3.5% (6/171)      2.7% (1/37)       0.8%[-5.1%,6.7%]       1.000
+Clinically Driven TLR                  6.5% (11/170)     5.4% (2/37)       1.1%[-7.1%,9.2%]       1.000
+Clinically Driven TVR, non TL          1.2% (2/169)      0.0% (0/37)       1.2%[-0.4%,2.8%]       1.000
+Stent Thrombosis
+   ARC definite + probable             1.2% (2/170)      2.7% (1/37)       -1.5%[-7.0%,3.9%]      0.448
+MACE
+   per ARC MI definition              16.9% (29/172)    25.6% (10/39)     -8.8%[-23.6%,6.0%]      0.252
+   per Protocol MI definition          9.3% (16/172)     12.8% (5/39)     -3.5%[-14.9%,7.8%]      0.553
+
+
+
+
+   E.       Financial Disclosure
+
+   To minimize the potential for bias of the clinical study result, the study design included multiple
+   investigators, objective endpoints and the measurement of clinical endpoints by study personnel
+   other than the enrolling investigators. Abbott Vascular follows good clinical practices when
+   selecting qualified investigators to participate in a clinical study and by performing monitoring at
+   the clinical sites during the course of the clinical study.
+
+
+
+
+   PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                     Page 27
+The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires applicants
+who submit a marketing application to include certain information concerning the compensation
+to, and financial interests and arrangement of, any clinical investigator conducting clinical
+studies covered by the regulation. The pivotal clinical study included 89 of which none were full-
+time or part-time employees of the sponsor and eight had disclosable financial
+interests/arrangements as defined in 21 CFR 54.2(a), (b), (c) and (f) and described below:
+
+       • Compensation to the investigator for conducting the study where the value could be
+         influenced by the outcome of the study: none
+       • Significant payment of other sorts: 8
+       • Proprietary interest in the product tested held by the investigator: none
+       • Significant equity interest held by investigator in sponsor of covered study: none
+
+The applicant has adequately disclosed the financial interest/arrangements with clinical
+investigators. The information provided does not raise any questions about the reliability of the
+data.
+
+
+
+XI.      PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+
+In accordance with the provisions of section 515(c)(2) of the act as amended by the Safe Medical
+Devices Act of 1990, this PMA was not referred to the Circulatory System Devices Panel, an
+FDA advisory committee, for review and recommendation because the information in the PMA
+substantially duplicates information previously reviewed by this panel.
+
+
+
+XII.     CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+
+A. Safety and Effectiveness Conclusions
+
+With regard to safety and effectiveness the primary endpoint was: major adverse cardiac events
+which include death, MI (Q wave and non-Q wave) or clinically-driven target lesion
+revascularization at 1 year (primary endpoint). Note MACE is a composite of safety and
+effectiveness.
+
+In the EXPERT CTO trial, the observed MACE rate at 1 year was 18.5%, of which the upper limit
+of the one-sided 95% confidence interval was 23.4% which is less than the PG of 24.4%. A
+statistically significant p-value of 0.0248 was observed for this comparison. The second pre-
+specified primary endpoint analysis compared the MACE rate at 1 year to a PG using the per-
+protocol (PP) population. The observed MACE rate at 1 year was 8.2%, of which the upper limit of
+the one-sided 95% confidence interval was 12.3% which is less than the PG of 24.4%. A
+statistically significant p-value of <0.0001 was observed for this comparison. Therefore, the
+primary endpoint of MACE at 1 year passed both the first and second primary endpoint analyses.
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 28
+B. Benefit-Risk Conclusions
+
+The probable benefits of the device are also based on data collected in a clinical study conducted
+to support PMA approval as described above.
+
+Percutaneous revascularization with coronary stent placement has been widely used as an
+alternative to medical or surgical treatment in selected patients with symptomatic coronary artery
+disease. The major limitations of PTCA (including but not limited to acute closure, intimal
+dissection, and restenosis) are overcome to a significant extent with coronary stents. The
+XIENCE V and XIENCE PRIME stents are designed to improve luminal diameter and maintain
+arterial patency. Aside from the potential for improved late outcomes, more immediate benefits
+of successful CTO revascularization include decreased ischemic burden and associated
+symptoms and possible increased tolerance for future ischemic events. Considering the poor
+historical rates of patency with bare metal stents in the treatment of CTO lesions, avoidance of
+restenosis and reocclusion provide significant clinical benefit.
+
+Additional factors to be considered in determining probable risks associated with using this
+device are those associated with percutaneous coronary diagnostic (including angiography and
+IVUS) and treatment procedures. These risks are discussed in detail in Section VIII,
+“POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH” of this SSED.
+
+As evaluated in the EXPERT CTO clinical trial, the benefits of treating CTO lesions with
+XIENCE stents (freedom from MACE, among others) outweigh the risks associated with the
+device and the procedure. The primary endpoint for EXPERT CTO was major adverse cardiac
+events (MACE) at 1 year. This composite endpoint includes the following components: Death,
+MI or Clinically-Driven Target Lesion Revascularization (TLR). The EXPERT CTO clinical
+trial was designed to test the hypothesis that the study stents (XIENCE V and XIENCE PRIME)
+would have a primary endpoint 1-year MACE rate less than the performance goal (24.4%). Both
+the ITT and PP populations met the primary endpoint with MACE rates of 18.5% and 8.2%,
+respectively which are both significantly lower than the pre-specified performance goal (PG)
+(24.4%) (p=0.0248 and p<0.0001, respectively).
+
+In conclusion, based on the 1-year clinical data, the EXPERT CTO clinical trial demonstrates that
+the benefits outweigh the probable risks of the XIENCE V and XIENCE PRIME Stent Systems
+in the treatment of coronary artery disease involving chronic total occlusion lesions.
+
+C. Overall Conclusions
+
+The data in this application support the reasonable assurance of safety and effectiveness of this
+device when used in accordance with the indications for use.
+
+EXPERT CTO is a non-randomized clinical trial designed to study the safety and effectiveness
+of the XIENCE V and XIENCE PRIME Stent Systems for the treatment of chronic total
+occlusions. A total of 250 subjects were enrolled at 20 sites. The ITT population consisted of
+222 subjects and the PP population consisted of 183 subjects. The primary endpoint for
+EXPERT CTO was major adverse cardiac events (MACE) at 1 year. This composite endpoint
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 29
+ includes the following components: Death, MI or Clinically-Driven Target Lesion
+ Revascularization (TLR).
+
+ Both the ITT and PP populations met the primary endpoint with MACE rates of 18.5% and
+ 8.2%, respectively which are both significantly lower than the pre-specified PG (24.4%)
+ (p=0.0248 and p<0.0001, respectively). In addition, the XIENCE V and XIENCE PRIME Stent
+ Systems are associated with low MI, cardiac death, TLR, and stent thrombosis rates. Based on
+ the 1-year clinical data, the EXPERT CTO clinical trial supports the safety and effectiveness of
+ the XIENCE V and XIENCE PRIME Stent Systems in the treatment of coronary artery disease
+ involving chronic total occlusion lesions.
+
+ Therefore, clinical data from the EXPERT CTO clinical trial is applicable to multiple models in
+ the XIENCE family of Everolimus Eluting Coronary Stent Systems and no additional clinical
+ trial data were required to demonstrate the safety and effectiveness of the XIENCE Xpedition
+ and XIENCE Alpine Stent Systems in CTOs.
+
+
+XIII.   CDRH DECISION
+
+
+ CDRH issued an approval order on October 3, 2014. The final conditions of approval cited in the
+ approval order are described below.
+
+ The Extended Follow-up of the EXPERT CTO Study: This study will be conducted as per IDE
+ G110103 study protocol dated May 7, 2012, Version 5.0 included in P070015/S122 and
+ P110019/S066. This study will continue the follow-up of 205 patients available at one year from
+ the premarket cohort (EXPERT CTO trial). This is a prospective, multi-center study and all
+ available patients will be followed out to 5 years post-procedure.
+
+ The applicant’s manufacturing facilities have been inspected and found to be in compliance with
+ the device Quality System (QS) regulation (21 CFR 820).
+
+
+XIV.    APPROVAL SPECIFICATIONS
+
+
+ Directions for use: See device labeling.
+
+ Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+ Precautions, and Adverse Events in the device labeling.
+
+ Post-approval Requirements and Restrictions: See approval order.
+
+
+
+
+ PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                   Page 30
+XV.    REFERENCES
+
+         1. Kandzari DE, Rao SV, Moses JW, et al. Clinical and angiographic outcomes with
+            sirolimus-eluting stents in total coronary occlusions: the ACROSS/TOSCA-4
+            (Approaches to Chronic Occlusions With Sirolimus-Eluting Stents/Total
+            Occlusion Study of Coronary Arteries-4) trial. J Am Coll Cardiol Intv 2009;2:97-
+            106.
+
+         2. Valenti R, Vergara R, Migliorini A, et al. Predictors of reocclusion after
+            successful drug-eluting stent-supported percutaneous coronary intervention of
+            chronic total occlusion. J Am Coll Cardiol 2013;61:545-550.
+
+         3. Wohrle J, Rottbauer W, Imhof A. Everolimus-eluting stents for treatment of
+            chronic total coronary occlusions. Clin Res in Cardiol 2011;101:23-28
+
+
+
+
+PMA P070015/S122 and P110019/S066: FDA Summary of Safety and Effectiveness Data
+                                  Page 31
+

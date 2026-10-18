@@ -1,0 +1,1566 @@
+SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I.    GENERAL INFORMATION
+
+      Device Generic Name:                  Drug-Eluting Coronary Stent System
+
+      Device Trade Name:                    Resolute Onyx™ Zotarolimus-Eluting Coronary
+                                            Stent System
+
+                                            Onyx Frontier™ Zotarolimus-Eluting Coronary
+                                            Stent System
+
+      Device Procode:                       NIQ
+
+      Applicant’s Name and Address:         Medtronic Vascular
+                                            3576 Unocal Place
+                                            Santa Rosa, California 95403
+
+      Date(s) of Panel Recommendation:      None
+
+      Premarket Approval
+      Application (PMA) Number:             P160043/S058
+
+      Date of FDA Notice of Approval:        September 15, 2022
+
+      The Resolute Onyx Zotarolimus-Eluting Coronary Stent System (Resolute Onyx) PMA
+      (P160043) was previously approved on April 28, 2017. The Onyx Frontier Zotarolimus-
+      Eluting Coronary Stent System (Onyx Frontier) with an alternative delivery system design
+      was approved on May 12, 2022 (P160043/S055). The Resolute Onyx and Onyx Frontier
+      Zotarolimus-Eluting Coronary Stent Systems are indicated for improving coronary
+      luminal diameters in patients, including those with diabetes mellitus or high bleeding
+      risk, with symptomatic ischemic heart disease due to de novo lesions of length  35 mm
+      in native coronary arteries with reference vessel diameters of 2.0 mm to 5.0 mm. In
+      addition, the Resolute Onyx and Onyx Frontier Zotarolimus-Eluting Coronary Stent
+      Systems are indicated for treating de novo chronic total occlusions. The SSEDs to support
+      these indications are available on the following CDRH websites and are incorporated into
+      the current SSED by reference here:
+
+      - P160043:
+      https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043
+
+      - P160043/S001:
+      https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043S001
+
+      - P160043/S012:
+      https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043S012
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                    Page 1 of 34
+       - P160043/S034:
+       https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpma/pma.cfm?id=P160043S034
+
+       The current supplement was submitted to expand the indication for the Resolute Onyx and
+       Onyx Frontier Zotarolimus-Eluting Coronary Stent Systems (collectively, Onyx DES) to
+       include the treatment of non-left main bifurcation lesions utilizing the provisional
+       bifurcation stenting technique.
+
+II.    INDICATIONS FOR USE
+
+       The Resolute Onyx and Onyx Frontier Zotarolimus-Eluting Coronary Stent Systems are
+       indicated for improving coronary luminal diameters in patients, including those with
+       diabetes mellitus or high bleeding risk, with symptomatic ischemic heart disease due to
+       de novo lesions of length  35 mm in native coronary arteries with reference vessel
+       diameters of 2.0 mm to 5.0 mm. In addition, the Resolute Onyx and Onyx Frontier
+       Zotarolimus-Eluting Coronary Stent Systems are indicated for treating de novo chronic
+       total occlusions and non-left main bifurcation lesions utilizing the provisional bifurcation
+       stenting technique.
+
+III.   CONTRAINDICATIONS
+
+       The Onyx DES is contraindicated for use in:
+
+        x   Patients with known hypersensitivity or allergies to aspirin, heparin, bivalirudin,
+            clopidogrel, prasugrel, ticagrelor, ticlopidine, drugs such as zotarolimus, tacrolimus,
+            sirolimus, everolimus, or similar drugs or any other analogue or derivative.
+        x   Patients with a known hypersensitivity to the cobalt-based alloy (cobalt, nickel,
+            chromium, and molybdenum) or platinum-iridium alloy.
+        x   Patients with a known hypersensitivity to the BioLinx polymer or its
+            individual components.
+
+       Coronary artery stenting is contraindicated for use in:
+
+        x   Patients in whom anti-platelet and/or anticoagulation therapy is contraindicated.
+        x   Patients who are judged to have a lesion that prevents complete inflation of an
+            angioplasty balloon or proper placement of the stent or stent delivery system.
+
+IV.    WARNINGS AND PRECAUTIONS
+
+       The warnings and precautions can be found in the Onyx DES labeling.
+
+V.     DEVICE DESCRIPTION
+
+       The Onyx DES is a combination product consisting of (1) a cobalt alloy and
+       platinum-iridium alloy core stent coated with a polymeric drug carrier containing the
+       antiproliferative drug zotarolimus and (2) the delivery system, either rapid exchange
+       (RX) or over-the-wire (OTW, Resolute Onyx only).
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                          Page 2 of 34
+             The characteristics of the Onyx DES are described in Table 1.
+
+                              Table 1. Onyx DES Product Characteristics
+
+
+     Characteristic          Stent Design 1        Stent Design 2     Stent Design 3       Stent Design 4
+                             (Small Vessel)          (Medium          (Large Vessel)    (Extra Large Vessel)
+                                                      Vessel)
+
+                          6.5 crowns per           8.5 crowns per    9.5 crowns per    10.5 crowns per
+ Stent Pattern
+                          revolution               revolution        revolution        revolution
+
+                          8, 12, 15, 18, 22, 26,
+                          30, 34*, 38*
+                                                   8, 12, 15, 18,
+                                                                     8, 12, 15, 18, 22, (RX Only) – 12, 15, 18,
+ Stent Lengths (mm)                                22, 26, 30, 34,
+                           *34, 38 mm                                26, 30, 34, 38     22, 26, 30
+                                                   38
+                          lengths not available
+                          in 2.0
+
+ Stent Diameters (mm)     2.0, 2.25, 2.5           2.75, 3.0         3.5, 4.0          (RX Only) – 4.5, 5.0
+
+ Stent Strut Thickness
+                          0.081                    0.081             0.081             0.091
+ (mm)
+                          A cobalt-based alloy shell conforming to ASTM F562 and a platinum- iridium
+Stent Material
+                          alloy core conforming to ASTM B684
+
+                          A conformal (all surfaces of the stent) coating of polymers loaded with
+Drug Component
+                          approximately 1.6 ȝg/mm2 of zotarolimus
+
+                          Resolute Onyx RX
+Delivery System           Resolute Onyx OTW                                            Resolute Onyx RX
+                          Onyx Frontier RX
+
+Delivery System
+                          140 cm
+Working Length
+                          Single access port to the inflation lumen. A guidewire exit port is located
+                  RX      approximately 25 cm from the tip. Designed for guidewire less than or equal to
+Delivery                  0.014 inch (0.36 mm).
+System Luer
+Adapter Ports             Y-Connector with side arm for access to balloon inflation/deflation lumen.
+                  OTW     Straight arm is continuous with shaft inner lumen designed for guidewire less
+                          than or equal to 0.014 inch (0.36 mm).
+
+
+
+
+     PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                         Page 3 of 34
+                                 Table 1. Onyx DES Product Characteristics
+
+
+     Characteristic             Stent Design 1     Stent Design 2    Stent Design 3        Stent Design 4
+                                (Small Vessel)       (Medium         (Large Vessel)     (Extra Large Vessel)
+                                                      Vessel)
+
+                    Resolute Single-layer Pebax balloon, wrapped over an inner member tubing with 2
+                    Onyx     radiopaque marker bands to locate the stent edges.
+Stent Delivery
+System Balloon               Dual-layer Pebax balloon (stent designs 1, 2, and 3) or single-layer Pebax
+                    Onyx
+                             balloon (stent design 4) wrapped over an inner member tubing with 2
+                    Frontier
+                             radiopaque marker bands to locate the stent edges.
+
+Guiding Catheter
+                              5 F (min. guide catheter ID of 0.056”/1.42 mm)
+Compatibility
+
+                              Nominal: 12 atm (1216 kPa)
+Balloon Inflation
+                              Rated Burst Pressure (2.0 - 4.0 mm): 18 atm (1824 kPa)
+Pressure
+                              Rated Burst Pressure (4.5-5.0 mm): 16 atm (1621 kPa)
+
+                              Distal (Resolute Onyx, 2.0-4.0 mm: 0.0358 in (2.7 F, 0.91 mm)
+                              Distal (Onyx Frontier, 2.0-4.0 mm): 0.0362 in (2.8 F, 0.92 mm)
+                    RX        Distal (4.5 and 5.0 mm): 0.0421 in (3.2 F, 1.07 mm)
+Catheter Shaft
+Outer                         Proximal: 0.0271 in (2.1 F, 0.69 mm)
+Diameter
+                              Proximal: 0.0441 (3.4 F, 1.12 mm)
+                    OTW
+                              Distal: 0.0358 in (2.7 F, 0.91 mm)
+
+
+             A. Device Component Description
+
+             The Onyx DES stent is made from a cobalt alloy outer shell with a platinum-iridium alloy
+             core. The stent has four designs that are differentiated by the number of crowns per
+             revolution. The small vessel design with 6.5 crowns per revolution is used for 2.0-2.5 mm
+             diameter stents, the medium vessel design with 8.5 crowns per revolution is used for
+             2.75-3.0 mm diameter stents, the large vessel design with 9.5 crowns per revolution is
+             used for 3.5-4.0 mm diameter stents, and the extra-large vessel design with 10.5 crowns
+             per revolution is used for 4.5-5.0 mm diameter stents. The stent is formed from a single
+             wire bent into a continuous sinusoid pattern and then laser fused back onto itself. Figure
+             1 illustrates an Onyx DES stent.
+
+
+
+
+     PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                         Page 4 of 34
+                                        Figure 1. Onyx DES Stent
+
+      The stent is crimped onto the balloon of one of the available delivery systems: Resolute
+      Onyx RX, Resolute Onyx OTW, or Onyx Frontier RX. The 2.0-4.0 mm sizes of the
+      Resolute Onyx and Onyx Frontier delivery systems are distinguished by differences in
+      the balloon, inner, and outer shaft designs outlined in Table 1. The 4.5-5.0 sizes of the
+      Resolute Onyx and Onyx Frontier delivery systems are identical.
+
+      B. Drug Component Description
+
+      The Onyx DES stent is conformally coated with a Parylene C primer and a
+      polymer drug coating. The drug matrix is composed of zotarolimus (the active
+      ingredient) and the BioLinx polymer system (the inactive ingredient).
+
+         1. Zotarolimus
+         Zotarolimus is the active pharmaceutical ingredient in the Onyx DES. The
+         zotarolimus chemical name is:
+
+         [3S-[3R*[S*(1R*,3S*,4R*)],6S*,7E,9S*,10S*,12S*,14R*,15E,17E,19E, 21R*,23R*,
+         26S*,27S*,34aR*]]-9,10,12,13,14,21,22,23,24,25,26,27,32,33,34,34ª-
+         hexadecahydro- 9,27-dihydroxy-3-[2-[3-methoxy-4-(1H-tetrazoyl-1-yl)cyclohexyl]-
+         1-methylethyl]-10,21- dimethoxy- 6,8,12,14,20,26-hexamethyl-23,27-epoxy-3H-
+         pyrido[2,1-c] [1,4]oxaazacyclohentriacontine-1,5,11,28,29(4H,6H,31H)-pentone.
+
+         The molecular structure of zotarolimus is C52H79N5O12 and its molecular weight is
+         966.2 Da. The chemical structure is provided in Figure 2.
+
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                       Page 5 of 34
+                                Figure 2. Chemical Structure of Zotarolimus
+
+         The Onyx DES product matrix and nominal total loaded dose of zotarolimus per
+         nominal stent length/diameter is shown in Table 2.
+
+                  Table 2. Onyx DES Product Matrix and Drug Content
+              Stent Design   Stent Diameters Stent Length Zotarolimus Zotarolimus
+                                  (mm)          (mm)        Dose RX   Dose OTW
+                                                           (ȝg/stent)  (ȝg/stent)
+                                                8            51           51
+                                                12           70           70
+                                                15           85           85
+                                    2.0         18           104          104
+              Small Vessel         2.25         22           127          127
+                                    2.5         26           146          146
+                                                30           168          168
+                                                34*          187          187
+                                                38*          206          206
+                                                 8           67           67
+                                                12           94           94
+                                                15           117          117
+                                                18           140          140
+                                   2.75
+             Medium Vessel                      22           171          171
+                                    3.0
+                                                26           198          198
+                                                30           225          225
+                                                34           257          257
+                                                38           284          284
+                                                 8           77           77
+                                                12           108          108
+                                                15           132          132
+                                    3.5         18           156          156
+              Large Vessel          4.0         22           186          186
+                                                26           221          221
+                                                30           252          252
+                                                34           282          282
+                                                38           317          317
+                                                12           132
+                                                15           158
+               Extra-Large          4.5         18           188
+                 Vessel             5.0         22           227
+                                                26           265
+                                                30           304
+           *Not available in 2.0 mm diameter
+
+         2. Inactive Ingredient: BioLinx polymer
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                      Page 6 of 34
+          The BioLinx polymer carrier is a blend of the Medtronic proprietary components C10
+          polymer and C19 polymer, and polyvinyl pyrrolidone (PVP). The Parylene C primer
+          coating aids in adhesion of the subsequent drug-polymer layer onto the stent surface.
+          The structural formulas of the BioLinx polymer subunits are shown in Figure 3.
+
+
+
+
+                        Figure 3. Chemical Structure of BioLinx Polymer Sub-units
+
+          3. Mechanism of Action of Zotarolimus
+          Zotarolimus inhibits growth factor-induced proliferation of human coronary artery
+          smooth muscle cells and has also demonstrated binding affinity with FKBP-12
+          (binding protein) in vitro. The suggested mechanism of action of zotarolimus is to
+          bind to FKBP12, leading to the formation of a trimeric complex with the protein
+          kinase mTOR (mammalian target of rapamycin), inhibiting its activity. Inhibition of
+          mTOR activity results in the inhibition of protein phosphorylation events associated
+          with translation of mRNA and cell cycle control.
+
+          The zotarolimus drug coated on the Onyx DES functions as an anti-proliferative and
+          anti-restenotic agent due to its ability to interrupt smooth muscle cell proliferation.
+
+VI.    ALTERNATIVE PRACTICES AND PROCEDURES
+
+       There are several other alternatives for the correction of coronary artery disease. These
+       may include exercise, diet, smoking cessation, drug therapy, percutaneous coronary
+       interventions (such as angioplasty and placement of other coronary stents), and coronary
+       artery bypass surgery (CABG). Each alternative has its own advantages and
+       disadvantages. A patient should fully discuss these alternatives with his/her physician to
+       select the method that best meets expectations and lifestyle.
+
+VII.   MARKETING HISTORY
+
+       US Marketing History
+       Resolute Onyx first received approval on April 28, 2017. Onyx Frontier was approved
+       on May 12, 2022.
+
+       International Marketing/Outside the US (OUS) History
+       Resolute Onyx has been in commercial use OUS since 2014. Onyx Frontier is not
+       currently commercially available OUS.
+
+       Table 3 lists countries where Resolute Onyx is currently commercially available. No
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                       Page 7 of 34
+      Onyx devices have been withdrawn from distribution in any country for any reason related
+      to product safety or effectiveness.
+
+                            Table 3. Resolute Onyx Commercial Availability
+                      Albania          El Salvador       Lithuania       Russian
+                      Algeria          Estonia           Luxembourg      Rwanda
+                      Argentina        Fiji              Malaysia        Saudi Arabia
+                      Australia        Finland           Mali            Senegal
+                      Austria          France            Malta           Serbia
+                      Bahamas          French Guiana     Martinique      Singapore
+                      Bahrain          Germany           Mauritius       Slovakia
+                      Bangladesh       Ghana             Mexico          Slovenia
+                      Barbados         Greece            Montenegro      South Africa
+                      Belgium          Guadeloupe        Morocco         Spain
+                      Bolivia          Guam              Mozambique      Sri Lanka
+                      Bosnia and       Honduras          Myanmar         Sweden
+                      Botswana         Hong Kong         Namibia         Switzerland
+                      Brazil           Hungary           Nepal           Syrian Arab
+                      Brunei           Iceland           Netherlands     Taiwan
+                      Bulgaria         India             New Caledonia   Tanzania
+                      Cambodia         Indonesia         New Zealand     Thailand
+                      Canada           Iran              Nicaragua       Trinidad And
+                      Canary Islands   Ireland           Nigeria         Tunisia
+                      Cayman Islands   Israel            North           Turkey
+                      Chile            Italy             Norway          Turkmenistan
+                      Colombia         Japan             Pakistan        Ukraine
+                      Costa Rica       Jamaica           Panama          United Arab
+                      Cote D’Ivoire    Jordan            Paraguay        United
+                      Croatia          Kazakhstan        Peru            United States
+                      Curacao          Kenya             Philippines     Uzbekistan
+                      Cyprus           Korea, Republic   Poland          Vietnam
+                      Czech Republic   Kosovo            Portugal        Virgin Islands,
+                      Denmark          Kuwait            Puerto Rico     Virgin Islands,
+                      Dominican        Latvia            Qatar           Yemen
+                      Ecuador          Lebanon           Reunion         -
+                      Egypt            Libya             Romania         -
+
+
+VIII. POTENTIAL ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+      Below is a list of the potential adverse effects (e.g., complications) associated with
+      the use of the device:
+
+        x   Abrupt vessel closure
+        x   Access site pain, hematoma, or hemorrhage
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                             Page 8 of 34
+        x   Allergic reaction (to contrast, antiplatelet therapy, stent material, or drug and
+            polymer coating)
+        x   Aneurysm, pseudoaneurysm, or arteriovenous fistula (AVF)
+        x   Arrhythmias, including ventricular fibrillation
+        x   Bleeding
+        x   Cardiac tamponade
+        x   Coronary artery occlusion, perforation, rupture, or dissection
+        x   Coronary artery spasm
+        x   Death
+        x   Embolism (air, tissue, device, orthrombus)
+        x   Emergency surgery: peripheral vascular or coronary bypass
+        x   Focal inflammation at the site of stent implantation
+        x   Hemorrhage requiring transfusion
+        x   Hypotension/hypertension
+        x   Infection or fever
+        x   Myocardial infarction (MI)
+        x   Pericarditis
+        x   Peripheral ischemia/peripheral nerve injury
+        x   Renal failure
+        x   Restenosis of the stented artery
+        x   Shock or pulmonary edema
+        x   Stable or unstable angina
+        x   Stroke or transient ischemic attack
+        x   Thrombosis (acute, subacute, or late)
+
+      Additional potential adverse effects associated with the administration of zotarolimus
+      include, but are not limited to:
+        x   Anemia
+        x   Diarrhea
+        x   Dry skin
+        x   Headache
+        x   Hematuria (blood in urine)
+        x   Pain (abdominal, joint)
+        x   Rash
+
+      For the specific adverse events that occurred in the clinical study, please see Section X
+      below.
+
+IX.   SUMMARY OF NONCLINICAL STUDIES
+
+      A summary of previously reported non-clinical laboratory studies can be found in the SSED
+      for the original PMA (P160043). Additional non-clinical characterization testing relating to
+      the new indication for “non-left main bifurcation lesions utilizing the provisional bifurcation
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                          Page 9 of 34
+      stenting technique” is presented here.
+
+      In vitro engineering testing was conducted on test samples representative of the Onyx
+      DES in accordance with the following:
+
+               x      FDA Guidance Document issued on April 18, 2010, Non-Clinical
+                      Engineering Tests and Recommended Labeling for Intravascular Stents and
+                      Associated Delivery Systems
+               x      21CFR 814.20(b)(6)(i)
+               x      21 CFR 820.30(f)
+               x      21 CFR 210/211
+               x      FDA recommendations
+
+      Table 4 summarizes this testing. “Pass” denotes that the test results indicate the devices are
+      capable of being used in non-left main bifurcation lesions utilizing the provisional bifurcation
+      stenting technique.
+
+                                        Table 4. Summary of Engineering Testing
+
+                                                                         Acceptance
+           Test                          Purpose                                          Results
+                                                                          Criteria
+                            To identify the critical locations and       Acceptable
+       Stress/Strain
+                         magnitudes of stress or strain on the stent    safety factors
+       and Fatigue                                                                         Pass
+                           when used in non-left main bifurcation            (>1)
+         Analysis
+                        lesions using finite element analysis (FEA).
+                        To assess the durability of the drug coating   Characterization
+         Coating         when subjected to simulated clinical use           only
+                                                                                           Pass
+        Durability       conditions (deployment in non-left main
+                                    bifurcation lesion).
+          Acute         To measure the particulate matter generated    Characterization
+        Particulate     during simulated use of one delivery system         only
+       Evaluation       through an in vitro model and deploying the                        Pass
+       – Simulated         stent using the provisional bifurcation
+           Use                       stenting technique
+
+
+
+X.    SUMMARY OF PRIMARY CLINICAL STUDY
+
+      The applicant performed a clinical study, RESOLUTE ONYX PAS Bifurcation Cohort
+      Primary Analysis (Bifurcation Cohort), to establish a reasonable assurance of safety and
+      effectiveness of the Onyx DES for treatment of non-left main bifurcation lesions utilizing the
+      provisional bifurcation stenting technique in the US, France, Belgium, and Slovakia
+      under IDE #G140178/S010. Data from this clinical study were the basis for the PMA
+      approval decision. A summary of the pivotal Bifurcation Cohort study is presented below.
+
+     A. Study Design
+
+     Patients were treated between April 3, 2017 and December 2, 2019. The database for this
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                                Page 10 of 34
+     PMA reflected data collected through December 2021 and included 205 patients. There were
+     25 investigational sites.
+
+     The study was a multi-center, single-arm clinical study to evaluate the safety and effectiveness
+     of the Onyx DES for the treatment of bifurcation lesions in native coronary arteries amenable
+     to treatment with Onyx stent sizes 2.0 mm – 5.0 mm utilizing the provisional stenting
+     technique. A total of 15 subjects were reconsented from the RESOLUTE ONYX PAS
+     Primary Cohort and 190 subjects were prospectively enrolled.
+
+     Assessment of the use of the Onyx DES in treating bifurcated lesions with provisional stenting
+     was based on the primary endpoint of target vessel failure (TVF) at 12 months post-procedure
+     and compared to a performance goal (PG). The PG was based on review of clinical evidence
+     from published literature and was set at 24.5% based on an estimated 16.3% TVF rate and a
+     one-sided 0.05 significance level.
+
+     The Bifurcation Cohort utilized an independent angiographic core laboratory and
+     independent clinical events committee (CEC) to evaluate and adjudicate study primary
+     and secondary endpoint data. The core laboratories and CEC were composed of experts in
+     their field.
+
+        1. Clinical Inclusion and Exclusion Criteria
+        Enrollment in the Bifurcation Cohort was limited to patients who met the following
+        inclusion criteria:
+
+        General Inclusion Criteria:
+        x Subject age is  18 years;
+        x Subject has symptoms and/or evidence of coronary artery disease; chronic stable
+          angina, silent ischemia, or acute coronary syndromes including non-ST elevation
+          myocardial infarction (non-STEMI) and ST-elevation myocardial infarction (STEMI);
+        x Subject is an acceptable candidate for treatment with a drug eluting stent;
+        x Subject is willing and able to cooperate with study procedures and required follow-up
+          evaluations;
+        x Subject or legal representative has provided written informed consent;
+        x Subjects of child-bearing potential must have a negative pregnancy test within 7 days
+          before the study procedure;
+        x Subject requires treatment of one or more target lesion(s) amenable to treatment with a
+          Resolute Onyx 2.0 mm – 5.0 mm stent in up to two separate target vessels.
+
+        Angiographic Inclusion Criteria:
+        x Subject requires treatment of a single de novo bifurcated lesion amenable to treatment
+          with provisional stenting technique
+             a. All Medina classification types
+             b. De novo lesion in native coronary artery
+             c. Main branch  2.25 – 5.0 mm
+             d. Side branch  2.0 mm
+             e. Lesion length  35 mm
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                        Page 11 of 34
+        x Target lesion(s) must have a stenosis of 50% and <100%
+        x Target vessel(s) must have a Thrombolysis In Myocardial Infarction (TIMI) flow 2
+
+        Patients were not permitted to enroll in the Bifurcation Cohort if they met any of the
+        following exclusion criteria:
+
+        General Exclusion Criteria:
+
+        x   Subjects with known hypersensitivity or contraindication to aspirin, heparin,
+            bivalirudin, thienopyridines, cobalt, nickel, platinum, iridium, chromium,
+            molybdenum, polymer coatings (e.g., BioLinx), anticoagulants, or a sensitivity to
+            contrast media, which cannot be adequately pre-medicated;
+        x   Subjects with a history of an allergic reaction or significant sensitivity to drugs such
+            as zotarolimus, rapamycin, tacrolimus, everolimus, or any other analogue or
+            derivative;
+        x   Subjects who are judged to have a lesion that prevents complete inflation of an
+            angioplasty balloon or proper placement of the stent or stent delivery system;
+        x   Subjects with unprotected left main coronary artery disease;
+        x   Subjects with planned PCI of three vessel disease;
+        x   Subjects currently participating in another investigational study that has not
+            completed the primary endpoint or that clinically interferes with the current study
+            endpoints;
+        x   Subjects with planned surgery that would cause interruption in recommended dual
+            antiplatelet therapy (DAPT) duration per current guidelines;
+        x   Subjects with impaired renal function (serum creatinine >2.5 mg/dl or 221 ȝmol/l) or
+            on dialysis
+        x   Subjects with left ventricular ejection fraction (LVEF) 30%
+
+        Angiographic Exclusion Criteria:
+
+        x   Subjects with planned two stent technique (main branch and side branch) of a
+            bifurcation;
+        x   Subjects with more than one bifurcation lesion;
+        x   Subjects with trifurcation lesions;
+        x   Subjects with planned treatment of any additional lesion(s) in the bifurcation target
+            vessel(s), inclusive of branches within 12 months;
+        x   Subjects with target lesion(s) located in native vessel(s) within 5 mm distal to
+            anastomosis with a bypass graft and/or with more than 40% diameter stenosis
+            anywhere within the graft.
+
+         2. Follow-up Schedule
+         All patients were scheduled for health status assessments at 30 days, 6 months, 12
+         months, 2 years, and 3 years post-procedure by telephone, e-mail and/or office visits.
+
+         Preoperatively, angina status and LVEF was recorded, routine laboratory tests including
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                        Page 12 of 34
+         cardiac enzyme assessments were conducted, and 12-lead electrocardiograms were
+         performed. Postoperatively, prior to discharge, patients received another physical
+         examination, cardiac enzymes were drawn (3 hours post-procedure and again 4
+         hours after the first, but prior to 24 hours post-procedure or at discharge, whichever
+         came first), another ECG was performed, and all adverse events were recorded. At
+         follow-up, angina status and any serious adverse events were recorded.
+
+         The key timepoints are shown below in the tables summarizing safety and
+         effectiveness.
+
+         3. Clinical Endpoints
+         The primary endpoint was composite of outcomes related to both safety and
+         effectiveness: target vessel failure (TVF) at 12 months, defined as cardiac death, target
+         vessel myocardial infarction (TVMI; MI defined below), or clinically-driven target vessel
+         revascularization (TVR).
+
+         With regards to safety, secondary clinical outcomes evaluated at all study timepoints
+         included the following:
+         x Cardiac death
+         x TVMI
+         x Stent thrombosis
+
+         With regards to effectiveness, secondary endpoints included the following:
+         x Acute success (device, lesion, procedure)
+         x TVR
+         x Target lesion revascularization (TLR)
+
+         With regards to success/failure criteria, comparison of the primary endpoint to a
+         performance goal was planned. An expected event rate of 13.0% was obtained by
+         utilizing the weighted average of outcomes from the RESOLUTE All-Comers (RAC)
+         study in patients with single bifurcations treated with single or double stents
+         (excluding unprotected left main lesions and patients with three vessel disease) and
+         from the provisional stenting arm of the TRYTON study. An upward adjustment of
+         3.31% was later added to the expected rate to account for the expected difference in
+         MI reporting after the 3rd Universal Definition of MI (UDMI) was adopted (see
+         below regarding the protocol definition of MI). This resulted in an expected event rate
+         of 16.3%. The performance goal of 24.5% is a 50% extension from the updated
+         expected event rate of 16.3%. The original performance goal prior to changing the
+         expected event rate was 19.5%.
+
+         Assuming a one-sided alpha level of 0.05 and a true event rate of 16.3%, evaluating a
+         total of 180 patients would yield 85% power to meet the performance goal. To
+         account for loss to follow-up (assumed to be approximately 10%), a total of 200
+         patients were planned to be enrolled.
+
+         The null and alternative hypotheses were:
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                        Page 13 of 34
+                       x   H0: PTVF  24.5%
+                       x   Ha: PTVF < 24.5%
+
+                   where PTVF is the true primary endpoint rate for the Onyx DES, and 24.5% is the
+                   performance goal. The one-sided significance level was 0.05. The number and
+                   percentage of patients with 12-month TVF were presented. A one-sided upper bound
+                   of the 95% confidence interval of the observed 12-month TVF rate was calculated
+                   using the binomial (exact) method. The primary endpoint was evaluated on an intent-
+                   to-treat (ITT) basis.
+
+                   Protocol Definition of MI: In June 2019, the protocol definition of MI was changed
+                   from the Medtronic Extended Historical definition to the 3rd UDMI. The reason for
+                   the change was to account for the decreased use of CK-MB and increasing use of the
+                   more sensitive cardiac enzyme troponin (cTn) by study sites. Summaries of the
+                   original and updated MI definitions are given below in Table 5.
+
+                                          Table 5. Protocol Definitions of MI
+    MI      Medtronic Extended Historical Definition                          3rd UDMI
+ Definition             (Original Protocol)                             (Modified Protocol)
+Spontaneous A. Recurrent chest pain or ischemic          x Detection of a rise and/or fall of cardiac
+MI             equivalent and                                biomarker values (preferably cTn) with at
+                New pathologic Q waves in 2                least one value above the 99th percentile
+                   contiguous ECG leads and cardiac          upper reference limit (URL) and with at least
+                   enzyme elevation >URL (CK-MB              one of the following:
+                   preferred)                                 x Symptoms of ischemia
+            B. Appropriate cardiac enzyme data (top-          x New significant ST-segment-T wave
+               down hierarchy):                                   (ST-T) changes or left bundle branch
+               b1. CK 2X URL (with confirmation) or              block (LBBB)
+               b2. CK-MB > 3X URL or                          x Pathological Q waves
+               b3. cTn > 3X URL or                            x Evidence of loss of viable myocardium
+               b4. Clinical judgment.                             or new regional wall motion abnormality
+                                                              x Intracoronary thrombus
+                                                         x Cardiac death before cardiac biomarkers
+                                                             were obtained, or before cardiac biomarker
+                                                             values would be increased.
+
+Peri-         If normal baseline cardiac biomarkers and    Elevation of cTn values (>5 X 99th percentile
+procedural    no acute MI in progress:                     URL) in patients with normal baseline values
+MI             A. New pathologic Q waves in 2             (99th percentile URL) or a rise in cTn values
+                   contiguous ECG leads and cardiac        >20% if the baseline values are elevated and are
+                   enzyme elevation >URL (CK-MB            stable or falling. In addition, either
+                   preferred)                                  (i)     symptoms suggestive of myocardial
+               B. Appropriate cardiac enzyme data (top-                ischemia or
+                   down hierarchy):                            (ii)    new ischemic ECG changes or
+                  b1. CK 2X URL (with confirmation) or        (iii) angiographic findings consistent with
+                  b2. CK-MB >3X URL or                                 a procedural complication or
+
+
+        PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                   Page 14 of 34
+        b3. cTn >3X URL                                 (iv)    imaging demonstration of new loss
+                                                                of viable myocardium or new
+     Note: URL = upper reference limit, defined                 regional wall motion abnormality
+     as 99th percentile of normal                    are required.
+
+     If elevated cardiac biomarkers at baseline or
+     acute MI in progress:
+      A. If cardiac biomarker has not yet peaked:
+          x Recurrent chest pain or ischemia
+              equivalent to 20 minutes (or new
+              ECG changes consistent with MI)
+              and
+          x CK >2X URL (confirmed) and 50%
+              above previous level or
+          x CK-MB or cTn >3X URL and 50%
+              above previous level
+      B. If CK (or CK-MB) has peaked and
+          returned <URL, then any new rise in:
+              x CK >2X URL (confirmed) or
+              x CK-MB >3X URL or
+              x cTn >3X URL
+      C. If cardiac enzyme has peaked but not
+          returned <URL, a rise in the cardiac
+          enzyme >50% above previous level
+
+
+      B. Accountability of PMA Cohort
+
+      At the time of database lock, of 205 patients enrolled in the PMA study, 99.5% (204) are
+      available for analysis at the completion of the study, the 12-month post-index procedure
+      visit. The disposition of the patients is summarized in Table 6.
+
+                                    Table 6. Patient Disposition
+                  Patient Disposition                         Total
+                  Number of Patients Enrolled (ITT
+                                                               205
+                  Population)
+                                                              2.9%
+                  Deaths Prior to 12-Month Visit
+                                                             (6/205)
+                  Withdrew Consent/Lost to Follow-            0.5%
+                  up/Other                                   (1/205)
+                                                               0%
+                  Missed 12-Month Visit
+                                                             (0/205)
+                  Completed 12 Month Visit              96.6% (198/205)
+                  Primary Endpoint Evaluable
+                                                        99.5% (204/205)
+                  Patients
+
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                   Page 15 of 34
+      The intention-to-treat (ITT) population consisted of all 205 patients enrolled in the study.
+      "Primary-Endpoint Evaluable Patients" are defined as patients 1) experiencing a TVF
+      event within 12 months of the study procedure, or 2) completing clinical follow-up one
+      year after the study procedure.
+
+      C. Study Population Demographics and Baseline Parameters
+
+      The demographics of the study population are relatively typical for a coronary stent study
+      performed in the US. Error! Reference source not found.7 presents demographics for
+      the Bifurcation Cohort ITT population. The mean age of the study patients was 66.6 years
+      and 21.5% were female. Patients were predominantly white (at least 82.4%) and
+      overweight (mean body mass index (BMI) 29.4 kg/m2).
+
+                 Table 7. Bifurcation Cohort Baseline Demographics
+                                                           Bifurcation Cohort
+    Patient Characteristics                                 (N=205 Patients)
+    Age (years)
+     Mean±SD (N)                                                      66.6 ± 10.7 (205)
+     Range (min, max)                                                      (37, 87)
+    Sex
+     Male                                                             78.5% (161/205)
+     Female                                                           21.5% (44/205)
+    Ethnicity
+     Hispanic/Latino                                                    6.2% (12/194)
+    Race
+     American Indian or Alaska Native                                  0.0% (0/193)
+     Asian                                                             4.1% (8/193)
+     Black or African American                                         5.7% (11/193)
+     Native Hawaiian or other Pacific Islander                         0.0% (0/193)
+     White                                                            82.4% (159/193)
+     Other                                                             7.8% (15/193)
+     Unknown                                                           5.8% (12/205)
+    BMI (kg/m2)                                                        29.4 ± 5.7 (205)
+
+      Error! Reference source not found.8 shows the baseline clinical characteristics and
+      medical history of the ITT population. The majority of patients reported prior or current
+      smoking, hypertension and hyperlipidemia. Approximately 30% of patients were
+      diabetic, consistent with previously reported and recent prospective studies.
+
+                              Table 8. Baseline Clinical Characteristics
+    Parameter                                                     Bifurcation Cohort
+                                                                    (N=205 Patients)
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                      Page 16 of 34
+    Smoking Status
+     Never Smoked                                                       48.3% (99/205)
+     Previous Smoker                                                    37.6% (77/205)
+     Current Smoker                                                     14.1% (29/205)
+    History of MI                                                       19.5% (40/205)
+    Previous PCI                                                        35.1% (72/205)
+    Previous CABG                                                        9.3% (19/205)
+    History of Stroke or Transient Ischemic Attack                       6.8% (14/205)
+    Diabetes                                                            30.2% (62/205)
+     Type I                                                              3.9% (8/205)
+     Type II                                                            26.3% (54/205)
+      Insulin Dependent                                                 7.3% (15/205)
+    Hypertension                                                        77.1% (158/205)
+    Hyperlipidemia                                                      74.1% (152/205)
+    Chronic Obstructive Pulmonary Disease                               10.2% (21/205)
+    Cardiac admissions within 30 days prior to index                    11.2% (23/205)
+    procedure
+    Left Ventricular Ejection Fraction (%)                             56.9 ± 11.3 (170)
+    Serum Creatinine (mol/L)                                          96.7 ± 63.0 (205)
+
+      Indications for the index procedure were most often due to stable angina 36.3% (69/190) or
+      unstable angina 36.8% (70/190). Acute coronary syndrome (ACS) was reported in 47.4%
+      (90/190 of patients at the time of the index procedure. Baseline ischemic status is presented
+      in Table 9.
+
+                           Table 9. Ischemic Status at Baseline
+    Ischemic Status                                                   Bifurcation Cohort
+                                                                       (N=205 Patients)
+    Number of diseased major coronary arteries > 50%
+    stenosed                                                            62.0% (127/205)
+     Single                                                             30.2% (62/205)
+     Double                                                              6.8% (14/205)
+     Triple                                                              1.0% (2/205)
+     Quadruple
+    Canadian Cardiovascular Society (CCS) classification
+     I                                                                  8.3% (14/168)
+     II                                                                 33.9% (57/168)
+     III                                                                40.5% (68/168)
+     IV                                                                 17.3% (29/168)
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                       Page 17 of 34
+    Clinical Evidence (prompted index procedure)                      92.7% (190/205)
+     Silent Ischemia                                                  14.2% (27/190)
+     Stable Angina                                                    36.3% (69/190)
+     Unstable Angina                                                  36.8% (70/190)
+     Myocardial Infarction                                            10.5% (20/190)
+      Within 72 hours                                                  7.4% (14/190)
+        STEMI                                                          3.7% (7/190)
+        Non-STEMI                                                      3.7% (7/190)
+      Within 24 hours                                                   4.7% (9/190)
+        STEMI                                                          3.2% (6/190)
+        Non-STEMI                                                      1.6% (3/190)
+      Within 12 hours                                                   3.7% (7/190)
+        STEMI                                                          3.2% (6/190)
+        Non-STEMI                                                      0.5% (1/190)
+    Acute Coronary Syndrome (ACS)                                      47.4% (90/190)
+    Positive Functional Study                                         54.1% (111/205)
+
+      Key Baseline Lesion Characteristics: Table 10 presents baseline lesion characteristics
+      as interpreted by an independent core lab. In Bifurcation Cohort patients, mean reference
+      vessel diameter was 2.65 ± 0.47 mm, mean lesion length was 17.03 ± 9.64 mm, and mean
+      percent stenosis was 65%. The target lesion location distribution is generally reflective of
+      patients presenting for PCI with 64% in the LAD, 33% in the LCX, and 18% in the RCA.
+      The protected left main was treated in 3% of patients. Approximately 96% of lesions
+      were classified as complex (B2/C). Bifurcation lesions represented 78% of lesions treated
+      in the study. Of these, approximately one third represented a “true” bifurcation per
+      Medina classification.
+
+
+                       Table 10. Baseline Lesion Characteristics
+                                                               Bifurcation Cohort
+                                                                (N=205 Patients)
+    Baseline Lesion Characteristics                              (N=266 Lesions)
+    Vessel Location (per patient)
+     LAD                                                               64.2% (131/204)
+     LCX                                                               32.8% (67/204)
+     RCA                                                               17.6% (36/204)
+     LM                                                                 2.9% (6/204)
+    Lesion Location
+     Proximal                                                          42.3% (112/265)
+     Mid                                                               36.2% (96/265)
+     Distal                                                            12.1% (32/265)
+     Ostial                                                             9.4% (25/265)
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                      Page 18 of 34
+                                                                    Bifurcation Cohort
+                                                                     (N=205 Patients)
+    Baseline Lesion Characteristics                                  (N=266 Lesions)
+    Modified ACC/AHA Lesion Class
+     A                                                                0.4% (1/266)
+     B1                                                               3.8% (10/266)
+     B2                                                              14.3% (38/266)
+     C                                                               81.6% (217/266)
+    Calcification
+     Mild                                                            66.8% (177/265)
+     Moderate                                                        15.1% (40/265)
+     Severe                                                          18.1% (48/265)
+    TIMI Flow
+     0                                                                0.8% (2/265)
+     1                                                                2.6% (7/265)
+     2                                                                3.0% (8/265)
+     3                                                               93.6% (248/265)
+    Bifurcation (% lesions)                                          78.1% (207/265)
+    Medina Classification
+     1.1.1                                                            22.7% (47/207)
+     1.1.0                                                            23.7% (49/207)
+     1.0.1                                                             3.4% (7/207)
+     0.1.1                                                            6.3% (13/207)
+     1.0.0                                                            15.5% (32/207)
+     0.1.0                                                            26.6% (55/207)
+     0.0.1                                                             0.5% (1/207)
+     “True” bifurcations (1.1.1, 1.0.1, or 0.1.1)                     32.3% (67/207)
+    Stenosis (%) (N)                                                 64.55±11.92 (265)
+    Side Branch Stenosis (%) (N)                                     23.9 ± 30.8 (437)
+    Lesion Length (mm)
+     Mean±SD (N)                                                     17.03±9.64 (266)
+    Reference Vessel Diameter (mm)
+     Mean±SD (N)                                                      2.65±0.47 (265)
+    Minimal Lumen Diameter (mm)
+     Mean±SD (N)                                                      0.94±0.36 (265)
+
+      Key Procedural Characteristics: The majority of the Bifurcation Cohort patients had one
+      lesion treated (73%) and one vessel treated (83%). Patients had an average of 1.6 stents
+      implanted. Additional procedural characteristics are presented below in Table 11.
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                    Page 19 of 34
+                           Table 11. Procedural Characteristics
+                                                                      Bifurcation Cohort
+                                                                       (N=205 Subjects)
+    Procedural Characteristics                                          (N=266 Lesions)
+    Type of Procedure
+     Index                                                              93.6% (192/205)
+     Staged                                                              6.3% (13/205)
+    Number of Lesions Treated per Patient (N)                            1.3 ± 0.6 (205)
+     1                                                                  73.2% (150/205)
+     2                                                                  20.5% (42/205)
+     3 or more                                                           6.3% (13/205)
+    Vessels Treated
+     Single                                                             82.8% (169/204)
+     Multiple                                                           17.2% (35/204)
+    Number of Stents Placed per Patient                                1.59 ± 0.95 (205)
+
+    Total Procedure Time (min) (N)                                    50.86 ± 31.27 (215)
+    Post-Procedure Hospital Length of Stay (days) (N)                    1.2±1.6 (215)
+
+      D. Safety and Effectiveness Results
+
+      The primary endpoint was a composite that combined measures of both safety and
+      effectiveness.
+
+      Primary Endpoint: The primary endpoint was met (Table 12). The primary endpoint of
+      target vessel failure (TVF; cardiac death, target vessel MI (TVMI), or clinically driven
+      TVR) 12 months following Onyx DES implantation in the intention-to-treat (ITT) group
+      was statistically demonstrated to be below the performance goal.
+
+      The 12-month TVF rate was 6.9% in the Bifurcation Cohort, with an upper one-sided
+      confidence interval (CI) of 10.5%. Because the upper bound of this CI is below the pre-
+      specified performance goal of 24.5%, the performance goal was met, and study success may
+      be claimed for the primary endpoint.
+
+      The per-protocol (PP) 12-month TVF rate was not meaningfully different at 6.2%.
+
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                     Page 20 of 34
+               Table 12. ITT Analysis of Primary Endpoint at 12 Months
+                                    Bifurcation Cohort     Upper 95%    Performance
+                                     (N = 205 Patients)       CI            Goal
+          TLF                         6.9% (14/204)          10.5%         24.5%
+           Cardiac Death               1.5% (3/204)            --            --
+           TVMI (3rd UDMI)             2.9% (6/204)            --            --
+           Clinically driven TVR       3.4% (7/204)            --            --
+
+         1. Safety Results
+         The analysis of safety was based on the 204 patients available for the 12-month
+         evaluation as well as the 200 patients available for the 24-month evaluation. Key
+         safety outcomes are presented in Table 13.
+
+                          Table 13. Summary of Safety Endpoints
+                                                  Bifurcation Cohort
+                                                   (N=205 Patients)
+                                       In-Hospital Events
+                         Death                      0.00% (0/205)
+                                  rd                2.2% (4/179)*
+                         TVMI (3 UDMI)
+                         Stent Thrombosis**         0.0% (0/205)
+                                      Events at 12 Months
+                         Death                      2.9% (6/204)
+                          Cardiac death             1.5% (3/204)
+                          Non-cardiac death         1.5% (3/204)
+                                  rd
+                         TVMI (3 UDMI)              2.9% (6/204)
+                         Stent Thrombosis**         0.0% (0/204)
+                                      Events at 24 Months
+                         Death                       3.0% (6/200)
+                          Cardiac death              1.5% (3/200)
+                          Non-cardiac death          1.5% (3/200)
+                                   rd
+                         TVMI (3 UDMI)               4.0% (8/200)
+                         Stent Thrombosis**          0.0% (0/200)
+                        *25 patients had insufficient cardiac enzymes collected for peri-
+                        procedural MI assessment
+                        **Definite or probable
+
+         Target Vessel Myocardial Infarction by Definition: As the protocol definition of
+         MI changed mid-trial, and because different definitions of MI (particularly peri-
+         procedural MI) have a meaningful impact on MI rates, Table 14 presents a
+         comparison of the 3rd UDMI, Extended Historical, and SCAI peri-procedural MI
+         definitions and Table 15 presents CEC-adjudicated TVMI rates in the Bifurcation
+         Cohort using those definitions.
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                     Page 21 of 34
+               Table 14. Comparison of Definitions Used by CEC to Adjudicate Peri-
+                                         Procedural MI
+                                        3rd UDMI               Extended                SCAI
+                                                               Historical
+       Relationship to Study        Revised Protocol            Original         Alternative Peri-
+                                       Definition              Definition         Procedural MI
+                                                                                    Definition
+       Preferred Biomarker              Troponin              CK/CK-MB                 CK-MB
+       Positivity Threshold       >5X URL for troponin        >3X URL for    >10X URL for CK-MB
+                                      and CK-MB             troponin and CK- >70X URL for troponin
+                                                                  MB
+       Other Required Criteria     Evidence of ischemia          None                  None
+                                 (symptoms, angiographic
+                                    findings, ECG, etc.)
+
+
+                                 Table 15. TVMI Rates by Definition
+                                     3rd UDMI              Extended             SCAI
+                                                           Historical
+          TVMI                      2.9% (6/204)       12.7% (26/204)             --
+            Peri-procedural         2.2% (4/179)       12.8% (23/179)        5.0% (9/179)
+               Non-Q Wave           1.7% (3/179)       12.3% (22/179)        4.5% (8/179)
+            Spontaneous             1.0% (2/204)         1.5% (3/204)             --
+
+         Peri-procedural MI rates using any definition should be interpreted with caution as
+         they are heavily influenced by the proportion of types of biomarkers and assays used
+         by study sites. Specifically, troponin is a more sensitive marker than CK-MB,
+         particularly after PCI. Troponin elevations meeting the Extended Historical peri-
+         procedural TVMI criteria of >3X URL are much more common than CK-MB
+         elevations meeting the same criteria. Although the Extended Historical definition
+         prefers the use of CK-MB (in other words, if both CK-MB and troponin are available,
+         a site should use CK-MB to adjudicate PPMI), CK-MB was frequently no longer
+         available at Bifurcation Cohort study sites. Approximately 40% of patients in the
+         Bifurcation Cohort did not have CK/CK-MB available at their study site. The
+         Bifurcation Cohort study switched to the 3rd UDMI definition, which prefers
+         troponin, in order to account for this evolution in the standard of care.
+
+         Adverse effects that occurred in the PMA clinical study:
+
+         Adverse events that occurred in the Bifurcation Cohort are presented below in Table
+         16. The scope of adverse event reporting in this study was limited to all serious
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                 Page 22 of 34
+          adverse events (SAEs) and device deficiencies. Adverse events were reported by sites
+          using MedDRA preferred terms. No unanticipated adverse device effects were
+          reported through 24 months. Only SAEs occurring at a rate of 1% are recorded
+          below.
+
+          A total of 122 SAEs were reported through the 24-month follow up, with 32% of
+          patients (65/205) experiencing at least one SAE. One device deficiency was reported
+          for one subject in which the Onyx stent was unable to be deployed on the first attempt
+          due to severe calcification in the lesion and was removed intact. The Onyx stent was
+          successfully deployed on the second attempt, and this device deficiency did not lead
+          to an adverse event.
+
+           Table 16. All Serious Adverse Events Occurring in >1% of Patients
+                                                                   Bifurcation Cohort
+    System Organ Class/Preferred Term                               (N=205 Subjects)
+    Any Serious Adverse Event to 720 Days                            31.7% (65/205)
+    Cardiac disorders                                                 14.6% (30/205)
+     Acute myocardial infarction                                       3.9% (8/205)
+     Angina pectoris                                                   3.4% (7/205)
+     Atrial fibrillation                                               1.5% (3/205)
+     Bradycardia                                                       1.0% (2/205)
+     Cardiac arrest                                                    1.0% (2/205)
+     Cardiac failure congestive                                        3.4% (7/205)
+     Coronary artery disease                                           2.4% (5/205)
+    Gastrointestinal disorders                                         2.4% (5/205)
+     Intestinal obstruction                                            1.5% (3/205)
+    General disorders and administration site conditions               3.4% (7/205)
+     Chest pain                                                        1.0% (2/205)
+     Non-cardiac chest pain                                            1.5% (3/205)
+    Infections and infestations                                       7.3% (15/205)
+     Pneumonia                                                         1.5% (3/205)
+     Pulmonary sepsis                                                  1.0% (2/205)
+     Sepsis                                                            1.0% (2/205)
+     Urinary tract infection                                           1.0% (2/205)
+    Injury, poisoning and procedural complications                     2.0% (4/205)
+    Investigations                                                     1.5% (3/205)
+     Myocardial necrosis marker increased                              1.5% (3/205)
+    Metabolism and nutrition disorders                                 1.0% (2/205)
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                    Page 23 of 34
+    Neoplasms benign, malignant and unspecified (incl cysts           2.0% (4/205)
+    and polyps)
+    Nervous system disorders                                          2.9% (6/205)
+     Cerebrovascular accident                                         1.0% (2/205)
+    Renal and urinary disorders                                       1.0% (2/205)
+    Respiratory, thoracic and mediastinal disorders                   3.4% (7/205)
+     Chronic obstructive pulmonary disease                            1.0% (2/205)
+     Dyspnoea                                                         1.0% (2/205)
+     Respiratory failure                                              1.0% (2/205)
+    Surgical and medical procedures                                   1.0% (2/205)
+    Vascular disorders                                                2.9% (6/205)
+     Aortic stenosis                                                  1.0% (2/205)
+
+
+         2. Effectiveness Results
+         The analysis of effectiveness was based on the ITT cohort of 204 evaluable patients at
+         the 12-month time point as well as the 200 patients available for the 24-month
+         evaluation. Key effectiveness outcomes are presented in Table 17.
+
+         Device success was analyzed per lesion and defined as attainment of <30% residual
+         stenosis and TIMI flow 3 after the procedure, using the assigned device only. Lesion
+         success was also analyzed per lesion and defined as attainment of <30% residual
+         stenosis and TIMI flow 3 after the procedure, using any percutaneous method.
+         Procedure success was analyzed per patient and defined as lesion success with no in-
+         hospital major adverse cardiovascular events (MACE). Event rates were reflective of
+         contemporary coronary DES trials.
+
+                       Table 17. Summary of Effectiveness Endpoints
+                                                     Bifurcation Cohort
+                                                      (N=205 Patients
+                                                      N=266 Lesions)
+                                       Acute Success
+             Device Success                               97.3% (257/264)
+             Lesion Success                               98.9% (261/264)
+             Procedure Success                            96.6% (196/203)
+                                     In-Hospital Events
+             Clinically Driven TLR                         0.0% (0/205)
+             Clinically Driven TVR                         0.0% (0/205)
+                                   Events at 12 Months
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                   Page 24 of 34
+                    Clinically Driven TLR                        2.9% (6/204)
+                    Clinically Driven TVR                        3.4% (7/204)
+                                          Events at 24 Months
+                    Clinically Driven TLR                        4.5% (9/200)
+                    Clinically Driven TVR                        5.5% (11/200)
+
+                3. Subgroup Analyses
+                The following pre-operative characteristics were evaluated for potential association
+                with outcomes:
+
+                Sex/Gender
+                The Bifurcation Cohort statistical analysis plan prespecified providing principal
+                safety and effectiveness outcomes by sex. Table 18 presents an analysis of the
+                primary endpoint in male and female patients. The 85% confidence interval was
+                adjusted by stratification using five groups determined by quintile propensity scores,
+                with lesion length, baseline RVD, age, diabetes, history of MI, and worst CCS angina
+                class as the confounding variables.
+
+                Female patients in the Bifurcation Cohort were on average older than male patients
+                (71 vs 65 years old), had shorter average lesion lengths (14 mm vs. 18 mm), and were
+                less likely to have prior history of MI (7% vs. 23%).
+
+                 Table 18. TVF at 12 Months in Male and Female ITT Patients
+         Male                Female               Difference:       Adjusted Difference
+    (N=161 Patients)     (N=44 Patients)        Female - Male            [85% CI]
+      5.6% (9/160)         11.4% (5/44)              5.7%           6.4% [-1.5%, 14.3%]
+
+                Additional secondary endpoint outcomes for male and female patients from the
+                Bifurcation Cohort are also available (Table 19).
+
+                     Table 19: Secondary Endpoints by Sex/Gender at 24 Months
+                                             Male             Female                     Difference
+                                         (N=161 Patients   (N=44 Patients                [95% CI]
+                                         N=213 Lesions)    N=53 Lesions)
+
+All Death                                    2.6% (4/156)          4.5% (2/44)      -2.0% [-8.6%, 4.7%]
+Cardiac Death                                0.6% (1/156)          4.5% (2/44)     -3.9% [-10.2%, 2.4%]
+TVMI (3rd UDMI)                              3.8% (6/156)          4.5% (2/44)      -0.7% [-7.6%, 6.2%]
+Clinically Driven TLR                        4.5% (7/156)          4.5% (2/44)      -0.1% [-7.0%, 6.9%]
+Clinically Driven TVR                        5.8% (9/156)          4.5% (2/44)      1.2% [-5.9%, 8.4%]
+Stent Thrombosis                             0.0% (0/160)          0.0% (0/44)              N/A
+Lesion Success                              98.6% (208/211)      100.0% (53/53)     -1.4% [-3.0%, 0.2%]
+
+
+   PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                       Page 25 of 34
+                                             Male                 Female               Difference
+                                         (N=161 Patients       (N=44 Patients          [95% CI]
+                                         N=213 Lesions)        N=53 Lesions)
+
+Device Success                           97.2% (205/211)        98.1% (52/53)     -1.0% [-5.3%, 3.3%]
+Procedure Success                        96.2% (153/159)        97.7% (43/44)     -1.5% [-6.8%, 3.8%]
+
+             Female patients represented 22% of those evaluated for the primary endpoint and
+             19% of treated lesions. This is somewhat below the proportion of female PCI patients
+             in the general U.S. population, estimated in a recent study to be 33% (Alkhouli, et al.,
+             2020).
+
+             Although female patients were under-represented, the totality of the data from the
+             Bifurcation Cohort and previous studies of the Onyx DES support that the overall
+             conclusions of the trial regarding the safety and effectiveness of the Onyx DES when
+             used to treat non-left main bifurcation lesions using a provisional stenting technique
+             can be generalized to males and females.
+
+             Age
+             The Bifurcation Cohort statistical analysis plan prespecified providing principal
+             safety and effectiveness outcomes by age. Table 20 presents an analysis of the
+             primary endpoint in patients 65 and <65 years old.
+
+                 Table 20. TVF at 12 Months in ITT Patients 65 and <65 Years Old
+                    65 years            <65 years               Difference
+                 (N=118 Patients)     (N=87 Patients)            [95% CI]
+                   7.7% (9/117)         5.7% (5/87)          1.9% [-4.9%, 8.8%]
+
+             Additional secondary endpoint outcomes for patients 65 and <65 years old from the
+             Bifurcation Cohort are also available (Table 21).
+
+                        Table 21. Secondary Endpoints by Age at 24 Months
+                                  Age 65 Years          Age <65 Years            Difference
+                                 (N=118 Patients         (N=87 Subjects           [95% CI]
+                                 N=144 Lesions)          N=123 Lesions)
+    Death                          5.2% (6/116)            0.0% (0/84)        5.2% [1.1%, 9.2%]
+      Cardiac Death                2.6% (3/116)            0.0% (0/84)        2.6% [-0.3%, 5.5%]
+    TVMI (3rd UDMI)                3.4% (4/116)            4.8% (4/84)       -1.3% [-6.9%, 4.3%]
+    Clinically Driven TLR          3.4% (4/116)            6.0% (5/84)       -2.5% [-8.6%, 3.5%]
+    Clinically Driven TVR          4.3% (5/116)            7.1% (6/84)       -2.8% [-9.5%, 3.8%]
+    Stent Thrombosis               0.0% (0/116)            0.0% (0/84)                N/A
+
+
+
+   PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                      Page 26 of 34
+                                        Age 65 Years          Age <65 Years            Difference
+                                       (N=118 Patients         (N=87 Subjects           [95% CI]
+                                       N=144 Lesions)          N=123 Lesions)
+           Lesion Success5             98.6% (139/141)         99.2% (122/123)     -0.6% [-3.1%, 1.9%]
+           Device Success6             97.2% (137/141)         97.6% (120/123)     -0.4% [-4.3%, 3.5%]
+           Procedure Success7          95.7% (111/116)          97.7% (85/87)      -2.0% [-6.9%, 2.8%]
+
+                    All six study deaths through 24 months occurred in the 65 years old group. This
+                    result is likely due to the number of comorbidities increasing with age. All other
+                    outcomes are comparable across groups.
+
+                    Race and Ethnicity
+                    The Bifurcation Cohort statistical analysis plan prespecified providing principal
+                    safety and effectiveness outcomes by race. Of the 204 patients completing 12-month
+                    follow-up, 158 (77%) identified as white and 12 (6%) were not identified by race.
+                    The available race and ethnicity information is too limited to comment on any
+                    potential associations. Table 22 presents outcomes by race and ethnicity.
+
+                       Table 22. Primary and Secondary Endpoints by Race and Ethnicity
+                                                          Native
+                    American                            Hawaiian
+                    Indian or                Black or    or Other
+                      Alaska                 African      Pacific                                        Hispanic/
+                      Native      Asian     American     Islander      White         Other                Latino
+                       (N=0        (N=8       (N=11        (N=0       (N=159        (N=15                 (N=12
+                     Subjects Subjects       Subjects    Subjects     Subjects     Subjects              Patients
+                        N=0       N=13        N=13          N=0        N=206         N=18                  N=18
+                     Lesions)    Lesions)    Lesions)    Lesions)     Lesions)     Lesions)              Lesions)
+                                               Primary Endpoint
+TVF at 12 Months       NA       0.0% (0/8)   9.1% (1/11)        NA       7.6% (12/158) 0.0% (0/15) 8.3% (1/12)
+
+                                       Secondary Outcomes at 24 Months
+Death                  NA       0.0% (0/7)   0.0% (0/11)        NA        3.8% (6/157) 0.0% (0/13) 0.0% (0/11)
+ Cardiac Death         NA       0.0% (0/7)   0.0% (0/11)        NA        1.9% (3/157) 0.0% (0/13) 0.0% (0/11)
+TVMI                   NA       0.0% (0/7)   9.1% (1/11)        NA        4.5% (7/157) 0.0% (0/13) 0.0% (0/11)
+Clinically Driven      NA       0.0% (0/7)   9.1% (1/11)        NA        5.1% (8/157) 0.0% (0/13) 18.2% (2/11)
+TLR
+
+
+
+
+         PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                      Page 27 of 34
+                                                             Native
+                    American                                Hawaiian
+                    Indian or                 Black or      or Other
+                      Alaska                   African       Pacific                                        Hispanic/
+                      Native     Asian        American      Islander         White           Other           Latino
+                       (N=0      (N=8          (N=11          (N=0          (N=159           (N=15           (N=12
+                     Subjects   Subjects      Subjects      Subjects        Subjects        Subjects        Patients
+                        N=0      N=13           N=13           N=0           N=206           N=18             N=18
+                     Lesions)   Lesions)      Lesions)      Lesions)        Lesions)        Lesions)        Lesions)
+Clinically Driven     NA        0.0% (0/7)   9.1% (1/11)        NA        5.7% (9/157) 0.0% (0/13) 0.0% (0/11)
+TVR
+Stent Thrombosis      NA        0.0% (0/7)   0.0% (0/11)        NA        0.0% (0/157) 0.0% (0/13) 0.0% (0/11)
+
+Device Success        NA          92.3%        100.0%           NA            98.0%          94.4%     94.4% (17/18)
+                                 (12/13)       (13/13)                      (199/203)       (17/18)
+Lesion Success        NA         100.0%        100.0%           NA            99.0%          94.4%     94.4% (17/18)
+                                 (13/13)       (13/13)                      (201/203)       (17/18)
+Procedure Success     NA         100.0%        100.0%           NA            96.2%          92.9%     91.7% (11/12)
+                                  (8/8)        (11/11)                      (152/158)       (13/14)
+         
+
+                    Diabetic Patients
+                    The Bifurcation Cohort statistical analysis plan prespecified providing principal
+                    safety and effectiveness outcomes by diabetes status. Table 23 presents the primary
+                    endpoint by diabetes status. The presence of diabetes did not negatively impact
+                    outcomes in the Bifurcation Cohort.
+
+                        Table 23. TVF Through 12 Months With and Without Diabetes
+                                       Diabetes       No Diabetes
+                                     (N=62 Patients (N=143 Patients            Difference
+                                     N=89 Lesions) N=177 Lesions)              [95% CI]
+                    TVF at 12          3.3% (2/61)       8.4% (12/143) -5.1% [-11.5%, 1.3%]
+                    Months
+         
+
+                    True vs Non-True Bifurcations
+                    The Bifurcation Cohort statistical analysis plan prespecified providing principal
+                    safety and effectiveness outcomes by true vs non-true bifurcation status per Medina
+                    classification. True bifurcations are those with significant stenosis in both primary
+
+
+
+         PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                      Page 28 of 34
+            and side branch vessels. Table 24 presents the primary endpoint and acute success
+            measure by true vs non-true bifurcation status as assessed by the angiographic core
+            lab. There was a slight trend for true bifurcation lesions to experience less lesion and
+            procedure success, but success rates overall were still high.
+
+                     Table 24. Outcomes by True vs Non-True Bifurcations
+                                                      Non-True
+                               True Bifurcation      Bifurcation
+                                (N=62 Patients     (N=120 Patients       Difference
+                                N=88 Lesions)      N=147 Lesions)        [95% CI]
+    TVF at 12 Months             8.1% (5/62)             6.7% (8/119)       1.3% [-6.8%, 9.5%]
+                                           Acute Success
+    Device Success              96.6% (85/88)          97.3% (143/147)     -0.7% [-5.3%, 3.9%]
+    Lesion Success              96.6% (85/88)         100.0% (147/147) -3.4% [-7.2%, 0.4%]
+    Procedure Success           93.5% (58/62)          97.5% (117/120) -4.0% [-10.7%, 2.8%]
+
+
+            Provisional Stenting: Single Stent vs Two Stents
+            The Bifurcation Cohort enrollment criteria specified that patients with planned two-
+            stent bifurcation approaches were to be excluded. However, provisional stenting does
+            sometimes require the unplanned use of a second stent and a limited number of
+            bifurcation lesions were treated with stents in both the main and side branches in the
+            study. Table 25 lists outcomes from the 7 patients/13 lesions treated with a two-stent
+            approach vs patients treated with a single stent approach. The TVF event seen in the
+            two-stent approach subgroup was an MI that occurred prior to hospital discharge,
+            which is the same event preventing a 100% procedure success rate.
+
+                     Table 25. Outcomes by Single vs Two Stent Approach
+                                                      Two Stent
+                           Single Stent Approach      Approach
+                              (N=197 Patients       (N=7 Patients       Difference
+                               N=250 Lesions)      N=13 Lesions)        [95% CI]
+    TVF at 12 Months           6.6% (13/196)            14.3% (1/7)       -8.2% [-34.3%, 18.0%]
+                                           Acute Success
+    Device Success            97.2% (243/250)         100.0% (13/13)       -2.8% [-4.8%, -0.8%]
+    Lesion Success            98.8% (247/250)         100.0% (13/13)       -1.2% [-2.5%, 0.1%]
+
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                         Page 29 of 34
+                                                      Two Stent
+                        Single Stent Approach         Approach
+                           (N=197 Patients          (N=7 Patients            Difference
+                           N=250 Lesions)           N=13 Lesions)            [95% CI]
+  Procedure Success         96.9% (190/196)           85.7% (6/7)      11.2% [-14.8%, 37.3%]
+
+          4. Poolability Analyses
+          As the Bifurcation Cohort combined patients from the US and Europe, the study
+          protocol prespecified that a poolability analysis be conducted to determine if
+          baseline characteristics were sufficiently homogenous to combine patients
+          from different regions. Assessment of baseline characteristics showed US
+          patients were older and had a higher worst CCS class than patients outside the
+          US (OUS). However, these differences did not impact poolability of the data
+          after propensity score adjustment. Table 26 shows the difference in the
+          primary endpoint by region. The CI is adjusted by stratification into five
+          groups using quintile propensity scores, based on lesion length, baseline RVD,
+          age, sex, diabetes, history of MI, and worst CCS class as the confounding
+          variables.
+
+                      Table 26. TVF at 12 Months for US and OUS Patients
+       US                    OUS                     Difference:          Adjusted Difference
+ (N=167 Patients)       (N=38 Patients)               US - EU                  [85% CI]
+   5.4% (9/166)          13.2% (5/38)                   -7.7%             -6.5% [-14.0%, 0.9%]
+
+          While the sample size is small, the OUS TVF rate was higher than the US TVF rate.
+          However, this does not raise a concern for the performance of the Onyx DES in US
+          patients.
+
+          A homogeneity analysis across sites was also performed. A logistic regression model
+          with the primary endpoint as the dependent variable and the sites as independent
+          variables showed no issues of poolability between investigational sites for the
+          primary endpoint.
+
+          An assessment of the poolability of the 190 prospectively enrolled patients with the
+          15 qualifying patients re-consented from the larger PAS was also performed. There
+          were no significant differences in baseline characteristics between these two groups.
+          The two groups did differ in TVF rates at 12 months – the prospectively enrolled
+          group had a rate of 7.4%, while the re-consented group had a rate of 0% (no events).
+          However, given the small size of the re-consented group, just one patient
+          experiencing a TVF event would have raised the rate to 6.7%.
+
+          5. Pediatric Extrapolation
+          In this premarket application, existing clinical data was not leveraged to support
+          approval of a pediatric patient population.
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                      Page 30 of 34
+       E. Financial Disclosure
+
+       The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+       applicants who submit a marketing application to include certain information concerning the
+       compensation to, and financial interests and arrangement of, any clinical investigator
+       conducting clinical studies covered by the regulation. The pivotal clinical study included 210
+       investigators of which 1 was the spouse of a full-time or part-time employee of the sponsor
+       and 7 had disclosable financial interests/arrangements as defined in 21 CFR 54.2(a), (b), (c)
+       and (f) and described below:
+
+              x   Compensation to the investigator for conducting the study where the
+                  value could be influenced by the outcome of the study: 1
+              x   Significant payment of other sorts: 10
+              x   Proprietary interest in the product tested held by the investigator:
+                  none
+              x   Significant equity interest held by investigator in sponsor of covered
+                  study: 4
+
+       The applicant has adequately disclosed the financial interest/arrangements with clinical
+       investigators. Statistical analyses were conducted by FDA to determine whether the financial
+       interests/arrangements had any impact on the clinical study outcome. The information
+       provided does not raise any questions about the reliability of the data.
+
+XI.    PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+       Medical Devices Act of 1990, this PMA was not referred to the Circulatory Systems
+       Devices Panel, an FDA advisory committee, for review and recommendation because the
+       information in the PMA substantially duplicates information previously reviewed by this
+       panel.
+
+XII.   CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+       The principal safety and effectiveness information for the Resolute Onyx and Onyx Frontier
+       Zotoralimus-Eluting Coronary Stent Systems is derived from preclinical studies and from
+       the Bifurcation Cohort clinical trial.
+
+       Preclinical testing performed during the design and development of the Onyx DES and
+       reviewed under the original PMA confirmed the product design characteristics,
+       specifications, and intended use. New preclinical testing performed to support the use of the
+       stent in non-left main bifurcation lesions treated using a provisional stenting strategy
+       included FEA analysis, coating durability, and acute particulate evaluation.
+
+       A. Effectiveness Conclusions
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                        Page 31 of 34
+      The results from the Bifurcation Cohort demonstrated that, in patients with non-left main
+      bifurcation lesions treated using a provisional stenting strategy, the rate of target vessel
+      failure (a composite endpoint including both safety and effectiveness outcomes) at 12
+      months (6.9%) was shown to be below the prespecified performance goal (24.5%).
+
+      Other measures of effectiveness were generally in line with expectations for a current
+      generation DES. Clinically driven TVR was 3.4% at one year and 5.5% at two years.
+      Clinically driven TLR was 2.9% at one year and 4.5% at two years. When examining acute
+      success of the stenting procedure, overall measures were also acceptable. Device, lesion, and
+      procedure success rates were high for both true and non-true bifurcation lesions.
+
+      These endpoints are clinically meaningful and commonly used in coronary stent trials. The
+      totality of the available effectiveness data supports the conclusion that the Onyx DES is
+      effective for its intended use.
+
+      B. Safety Conclusions
+
+      The risks of the Onyx DES are based on non-clinical laboratory and animal studies, as
+      well as data collected in a clinical study conducted to support PMA approval as described
+      above.
+
+      No safety signals of concern were identified from a review of serious adverse events and
+      CEC-adjudicated events. Serious adverse events were of similar type and frequency to
+      those previously reported for other US-approved coronary stents. No CEC-adjudicated
+      unanticipated device-related adverse events occurred during the Bifurcation Cohort study.
+
+      The TVF composite endpoint of the Bifurcation Cohort included two safety outcomes,
+      rates of cardiac death and TVMI at 12 months. The rate of cardiac death at one year was
+      1.5%, which is slightly higher than rates seen in recent trials (generally <1%) but in line
+      with expectations for the more complex patient population studied. At two years, there
+      were no additional cardiac deaths, and only 2 additional TVMI events. In addition, no
+      probable or definite stent thrombosis events occurred through two years of follow up.
+
+      The rate of TVMI (as defined by the 3rd UDMI) was 2.9%, with 50% of TVMI occurring
+      peri-procedurally. The MI definition was changed mid-study by the applicant; using the
+      original Extended Historical definition, the rate of TVMI was 12.7% (26/204) with 88%
+      of TVMI occurring peri-procedurally. The definition change was justified by the
+      applicant’s desire to use a definition that accounted for the increased use of troponin by
+      study sites. How to best account for the increased use of more sensitive biomarkers by
+      study sites when conducting interventional trials is an ongoing problem, and the
+      applicant’s decision to switch to the 3rd UDMI definition was reasonable, particularly
+      because the clinical significance of the additional events detected by the Extended
+      Historical definition is debated. When examining patient-level data and CEC adjudication
+      decisions, there is no evidence of MI events beyond what would be expected when
+      treating lesions of similar complexity.
+
+      C. Benefit-Risk Determination
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                         Page 32 of 34
+        The probable benefits of the device when used to treat non-left main bifurcation lesions
+        using a provisional stenting strategy are based on data collected in the RESOLUTE ONYX
+        PAS Bifurcation Cohort study conducted to support PMA Supplement approval as
+        described above.
+
+        The probable benefits of the Onyx DES when used to treat non-left main bifurcation lesions
+        are the same as those of coronary stenting in general. Patients treated with the Onyx DES
+        had immediate increases to their coronary luminal diameter. In comparison to treatment with
+        medical therapy, PCI has been shown to reduce the incidence of angina and increase quality
+        of life.
+
+        The probable risks of the device are also based on data collected in the RESOLUTE
+        ONYX PAS Bifurcation Cohort study conducted to support PMA Supplement approval as
+        described above. There were no procedure-related risks associated with the use of the
+        Onyx DES for the treatment of bifurcation lesions that would not be expected with any
+        other coronary stent system. Please refer to Section VIII: Potential Adverse Effects of the
+        Device on Health.
+
+        Additional factors to be considered in determining probable risks and benefits for the Onyx
+        DES include:
+
+        Another factor to be considered is the availability of alternative treatments. Coronary artery
+        disease can be accompanied by symptomatic chest pain or silent ischemia that affects
+        patients’ quality of life. Coronary artery disease is treatable, but if left untreated, the condition
+        can progress to further stenosis within the arteries, increased symptoms, and the need for
+        revascularization. Available treatments for coronary artery disease include medical therapy,
+        PCI, and coronary artery bypass graft surgery. When treatment for coronary artery disease
+        beyond medications and lifestyle changes is warranted, patients often choose stent
+        deployment over surgical revascularization due to shorter recovery times and the less
+        invasive nature of PCI.
+
+        1. Patient Perspective
+           This submission did not include specific information on patient perspectives for this
+           device.
+
+        In conclusion, given the available information above, the data support that for the
+        treatment of non-left main bifurcation lesions utilizing the provisional bifurcation
+        stenting technique, the probable benefits outweigh the probable risks.
+
+        D. Overall Conclusions
+
+        The data in this application support the reasonable assurance of safety and effectiveness
+        of this device when used in accordance with the indications for use.
+
+XIII.   CDRH DECISION
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                               Page 33 of 34
+       CDRH issued an approval order on September 15, 2022.
+
+       The applicant’s manufacturing facilities have been inspected and found to be in compliance
+       with the device Quality System (QS) regulation (21 CFR 820).
+
+XIV.   APPROVAL SPECIFICATIONS
+
+       Directions for use: See device labeling.
+
+       Hazards to Health from Use of the Device: See Indications, Contraindications, Warnings,
+       Precautions, and Adverse Events in the device labeling.
+
+       Post-approval Requirements and Restrictions: See approval order.
+
+XV.    REFERENCES
+
+
+Alkhouli, M., Alqahtani, F., Kalra, A., et al. (2020). Trends in Characteristics and Outcomes of
+      Hospital Inpatients Undergoing Coronary Revascularization in the United States, 2003-
+      2016. JAMA Network Open, 3(2):e1921326.
+
+
+
+
+PMA P160043/S058: FDA Summary of Safety and Effectiveness Data                      Page 34 of 34
+

@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-05",
+    "results": {
+      "skip": 0,
+      "limit": 1000,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "pma_number": "P250041",
+      "supplement_number": "",
+      "applicant": "MedAlliance, LLC",
+      "street_1": "4 Jenner",
+      "street_2": "Suite 190",
+      "city": "Irvine",
+      "state": "CA",
+      "zip": "92618",
+      "zip_ext": "",
+      "generic_name": "Drug-eluting percutaneous transluminal coronary angioplasty catheter",
+      "trade_name": "SELUTION SLR 014 PTCA Drug-Eluting Balloon",
+      "product_code": "OOB",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "",
+      "supplement_reason": "",
+      "expedited_review_flag": "N",
+      "date_received": "2025-10-29",
+      "decision_date": "2026-09-18",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "The SELUTION SLR 014 PTCA Drug-Eluting Balloon is intended to be used after appropriate vessel preparation in patients undergoing percutaneous coronary intervention (PCI) in coronary arteries 2.25 mm to 4.50 mm in diameter and lesions <= 26 mm in length for the purpose of improving myocardial perfusion when treating in-stent restenosis (ISR).",
+      "openfda": {
+        "registration_number": [
+          "9681260",
+          "2124215",
+          "3012102437",
+          "2134265",
+          "3005969022",
+          "2030598",
+          "3015190176",
+          "1225687"
+        ],
+        "fei_number": [
+          "2124215",
+          "3012102437",
+          "3002806565",
+          "3005969022",
+          "3002095335",
+          "3015190176",
+          "3001451463",
+          "1000518731"
+        ],
+        "device_name": "Drug-Eluting Percutaneous Transluminal Coronary Angioplasty Catheter",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    }
+  ]
+}

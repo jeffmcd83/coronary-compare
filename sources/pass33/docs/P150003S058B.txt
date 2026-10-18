@@ -1,0 +1,1570 @@
+     SUMMARY OF SAFETY AND EFFECTIVENESS DATA (SSED)
+I.     GENERAL INFORMATION
+       Device Generic Name:                     Coronary Drug-Eluting Stent
+
+       Device Trade Name:                       SYNERGY™ Everolimus-Eluting Platinum
+                                                Chromium Coronary Stent System
+                                                (Monorail™)
+
+                                                SYNERGY™ Everolimus-Eluting Platinum
+                                                Chromium Coronary Stent System (Over-
+                                                The-Wire™)
+
+                                                SYNERGY™ XD Everolimus-Eluting
+                                                Platinum Chromium Coronary Stent System
+                                                (Monorail™)
+
+       Device Procode:                          NIQ
+
+       Applicant’s Name and Address:            Boston Scientific Corporation
+                                                300 Boston Scientific Way
+                                                Marlborough, MA 01752-1566
+
+       Date of Panel Recommendation:            None
+
+       Premarket Approval Application           P150003/S058
+       (PMA) Number:
+
+
+       Date of FDA Notice of Approval:          August 10, 2020
+
+       The SYNERGY™ Everolimus-Eluting Platinum Chromium Coronary Stent System
+       (Monorail and Over-the-Wire) PMA (P150003) was previously approved on July 30,
+       2016 and is indicated for improving luminal diameter in patients, including those with
+       diabetes mellitus, with symptomatic heart disease, stable angina, unstable angina, non-ST
+       elevation MI or documented silent ischemia due to atherosclerotic lesions in native
+       coronary arteries ≥2.25 mm to ≤4.0 mm in diameter in lesions ≤34 mm in length. The
+       SSED documents to support these indications are available on the following CDRH
+       websites and are incorporated into the current SSED by reference here.
+
+       The SSEDs to support the indication are available on the following FDA websites and are
+       incorporated by reference herein:
+        P150003: http://www.accessdata.fda.gov/cdrh_docs/pdf15/P150003B.pdf
+        P150003/S003: http://www.accessdata.fda.gov/cdrh_docs/pdf15/P150003S003B.pdf
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                         Page 1
+       The current supplement was submitted to expand the indication for the SYNERGY and
+       SYNERGY XD Everolimus-Eluting Platinum Chromium Coronary Stent Systems to
+       include patients at high bleeding risk (HBR).
+
+II.    INDICATIONS FOR USE
+
+       The SYNERGY™ Everolimus-Eluting Platinum Chromium Coronary Stent System is
+       indicated for improving luminal diameter in patients, including those at high risk for
+       bleeding, with diabetes mellitus, with symptomatic heart disease, stable angina, unstable
+       angina, non-ST elevation MI or documented silent ischemia due to atherosclerotic lesions
+       in native coronary arteries ≥2.25 mm to ≤5.00 mm in diameter in lesions ≤34 mm in
+       length.
+
+       The SYNERGY™ XD Everolimus-Eluting Platinum Chromium Coronary Stent System
+       is indicated for improving luminal diameter in patients, including those with diabetes
+       mellitus, with symptomatic heart disease, stable angina, unstable angina, non-ST
+       elevation MI or documented silent ischemia due to atherosclerotic lesions in native
+       coronary arteries ≥2.25 mm to ≤5.00 mm in diameter in lesions ≤44 mm in length and for
+       high bleeding risk patients with coronary arteries ≥2.25 mm to ≤5.00 mm in diameter in
+       lesions ≤34 mm in length.
+
+III.   CONTRAINDICATIONS
+
+       Use of the SYNERGY™ and SYNERGY™ XD Everolimus-Eluting Platinum Chromium
+       Coronary Stent System is contraindicated in patients with known hypersensitivity to:
+          • 316L stainless steel, platinum, chromium, iron, nickel or molybdenum;
+          • Everolimus or structurally-related compounds; and/or
+          • The polymer or their individual components.
+       Coronary Artery Stenting is contraindicated for use in:
+          • Patients judged to have a lesion that prevents complete inflation of an angioplasty
+              balloon or proper placement of the stent or delivery device.
+          • Patients with uncorrected bleeding disorders or patients who cannot receive
+              anticoagulation or antiplatelet aggregation therapy.
+
+IV.    WARNINGS AND PRECAUTIONS
+
+       The warnings and precautions can be found in the SYNERGY™ Everolimus-Eluting
+       Platinum Chromium Coronary Stent System and SYNERGY™ XD Everolimus-Eluting
+       Platinum Chromium Coronary Stent System respective labeling.
+
+V.     DEVICE DESCRIPTION
+
+       The SYNERGY™ and SYNERGY™ XD Everolimus-Eluting Platinum Chromium
+       Coronary Stent Systems are a device/drug combination products that provides a
+       mechanical structure for vascular lumen support (primary mode of action) and a
+       pharmacological agent (everolimus) targeted towards reducing the injury response. Both
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                        Page 2
+       systems consists of a drug/polymer-coated balloon-expandable stent, pre-mounted on a
+       Monorail™ (MR) delivery catheter. The SYNERGY™ Everolimus-Eluting Platinum
+       Chromium Coronary Stent System can also be mounted as an Over-The-Wire (OTW)
+       delivery catheter. The stent is made from a platinum chromium alloy (PtCr). The
+       drug/polymer coating consists of a bioabsorbable polymer, poly (D,L-lactide-co-
+       glycolide) (PLGA), and the active pharmaceutical ingredient, everolimus. The
+       characteristics of the SYNERGY™ and SYNERGY™ XD Everolimus-Eluting Platinum
+       Chromium Coronary Stent Systems (hereafter referred to as SYNERGY and SYNERGY
+       XD) are described in Table 1.
+
+ Table 1. SYNERGY™ Everolimus-Eluting Platinum Chromium Coronary Stent System
+                                      Product Description
+                       SYNERGY                       SYNERGY                SYNERGY XD
+                Monorail Stent Delivery        Over-the-Wire Stent          Monorail Stent
+                          System                  Delivery System           Delivery System
+Available
+                                                                        8, 12, 16, 20, 24, 28, 32,
+Stent Lengths                8, 12, 16, 20, 24, 28, 32, 38
+                                                                                 38, 48*
+(mm)
+Available
+                                                                         2.25, 2.50, 2.75, 3.00,
+Stent          2.25, 2.50, 2.75, 3.00, 3.50, 2.25, 2.50, 2.75, 3.00,
+                                                                         3.50, 4.00, 4.50** and
+Diameters          4.00, 4.50**, 5.00**               3.50, 4.00
+                                                                                 5.00**
+(mm)
+Stent Material                          Platinum Chromium Alloy (PtCr)
+                                                                         2.25 mm to 2.75 mm:
+                                                2.25 mm to 2.75 mm:
+                                                                          0.0029 inches (0.074
+                  2.25 mm to 2.75 mm:           0.0029 inches (0.074
+                                                                                   mm)
+                0.0029 inches (0.074 mm)                 mm)
+                                                                         3.00 mm to 3.50 mm:
+Stent Strut       3.00 mm to 3.50 mm:           3.00 mm to 3.50 mm:
+                                                                          0.0031 inches (0.079
+Thickness       0.0031 inches (0.079 mm)        0.0031 inches (0.079
+                                                                                   mm)
+                  4.00 mm to 5.00 mm:                    mm)
+                                                                         4.00 mm to 5.00 mm:
+                0.0032 inches (0.081 mm) 4.00 mm: 0.0032 inches
+                                                                          0.0032 inches (0.081
+                                                     (0.081 mm)
+                                                                                   mm)
+               An abluminal (outer surface of the stent in contact     An abluminal (outer
+               with the vessel wall) coating of a polymer carrier with surface of the stent in
+               approximately 1 μg of everolimus per mm2 of total       contact with the vessel
+               stent surface area with a maximum nominal drug          wall) coating of a
+               content of 287 μg on the largest stent (38 mm).         polymer carrier with
+                                                                       approximately 1 μg of
+Drug Product
+                                                                       everolimus per mm2 of
+                                                                       total stent surface area
+                                                                       with a maximum
+                                                                       nominal drug content of
+                                                                       364 μg on the largest
+                                                                       stent (48 mm).
+                                        Delivery System
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                           Page 3
+                    SYNERGY                      SYNERGY                  SYNERGY XD
+                Monorail Stent Delivery      Over-the-Wire Stent          Monorail Stent
+                       System                 Delivery System             Delivery System
+Effective
+                                                   144 cm
+Length
+                                           Y-Connector (Side arm Single access port to
+               Single access port to       for access to balloon       inflation lumen.
+               inflation lumen. Guidewire inflation/deflation lumen. Guidewire exit port is
+Delivery       exit port is located        Straight arm is             located approximately 23
+System Ports approximately 25 cm from continuous with shaft            cm from tip. Designed
+               tip. Designed for guidewire inner lumen). Designed for guidewire ≤0.014
+               ≤0.014 inches (0.36 mm) for guidewire ≤0.014            inches (0.36 mm)
+                                           inches (0.36 mm)
+               A balloon, with two radiopaque balloon markers, nominally placed 0.4 mm
+Stent Delivery
+               (0.016 inches) beyond the stent at each end.
+               Nominal Inflation Pressure for all the diameters: 11 atm (1117 kPa)
+               Rated Burst Inflation       Rated Burst Inflation       Rated Burst Inflation
+               Pressure:                   Pressure:                   Pressure:
+Balloon        • Diameters 2.25 mm –       • Diameters 2.25 mm –       • Diameters 2.25 mm –
+Inflation         2.75 mm: 18 atm (1827      2.75 mm: 18 atm (1827        2.75 mm: 18 atm
+Pressure          kPa)                       kPa)                         (1827 kPa)
+               • Diameters 3.00 mm –       • Diameters 3.00 mm –       • Diameters 3.00 mm –
+                  5.00 mm: 16 atm (1620      4.00 mm: 16 atm (1620        5.00 mm: 16 atm
+                  kPa)                       kPa)                         (1620 kPa)
+               Proximal: 2.1 F (0.70 mm)                               Proximal: 2.0 F (0.67
+                                                                       mm)
+               Distal:
+               2.25 mm – 2.75 mm: 2.6F                                 Distal:
+               (0.90 mm)                                               2.25 mm – 2.75 mm:
+               3.00 mm:                    3.2F  (1.07 mm)  proximal   2.6F (0.89 mm)
+                 • (8 – 28 mm): 2.6F (0.90 for 2.25 to 3.50 mm sizes 3.00 mm:
+                                           3.4F (1.15 mm) proximal • (8 – 28 mm): 2.6F
+                   mm)
+Catheter Shaft                             for 4.00 mm sizes
+                 • (32 – 38 mm): 2.7F                                      (0.89 mm)
+Outer
+                   (0.95 mm)                                             • (32 – 48 mm): 2.7F
+Diameter                                   2.4F (0.82 mm) distal for
+               3.50 mm:                                                    (0.92 mm)
+                                           2.25 to 2.75 mm sizes
+                 • (8 – 20 mm): 2.6F (0.90 2.7F (0.92 mm) distal for 3.50 mm:
+                   mm)                                                   • (8 – 20 mm): 2.6F
+                                           3.00 to 4.00 mm sizes
+                 • (24 – 38 mm): 2.7F                                      (0.89 mm)
+                   (0.95 mm)                                             • (24 – 48 mm): 2.7F
+               4.00 mm – 5.00 mm: 2.7F                                     (0.92 mm)
+               (0.95 mm)                                               4.00 mm – 5.00 mm:
+                                                                       2.7F (0.92 mm)
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                        Page 4
+                                           SYNERGY                       SYNERGY                   SYNERGY XD
+                                       Monorail Stent Delivery       Over-the-Wire Stent           Monorail Stent
+                                              System                  Delivery System              Delivery System
+                        Guide
+                                                                                           2.25 – 4.00 mm: ≥ 5F
+                        Catheter      2.25 – 4.00 mm: ≥ 5F
+                                                                                           (0.056 inches/1.42 mm)
+                        Minimum       (0.056 inches/1.42 mm)        ≥6F (0.066 inches/1.68
+                                                                                           4.50 mm – 5.00 mm: ≥
+                        Inner         4.50 mm – 5.00 mm: ≥ 6F mm)
+                                                                                           6F (0.070 inches/1.78
+                        Diameter      (0.066 inches/1.68 mm)
+                                                                                           mm)
+                        Requirement
+                        Shelf life    24 months                     24 months              24 months
+                        * The 48 mm length is not available in 2.25 mm, 4.50 mm or 5.00 mm diameters.
+                        ** 4.50 mm and 5.00 mm diameter sizes not available in 8 mm and 38 mm lengths.
+
+                              A. Device Component Description
+
+                              The SYNERGY and XYNERGY XD stents are comprised of a Platinum Chromium
+                              Alloy (PtCr). Similar to other metallic stents manufactured by Boston Scientific, the stent
+                              component is laser cut into a specific geometric pattern which consists of serpentine rings
+                              connected by links that are highly polished to a uniform rounded surface.
+                              Three (3) separate stent models were designed in specific size ranges. A stent model is
+                              defined as a variation of a specific geometry pattern designed for various vessel
+                              diameters. The three models are defined below:
+                                  • Small Vessel (SV): 2.25 mm, 2.50 mm and 2.75 mm
+                                  • Workhorse (WH): 3.00 mm and 3.50 mm
+                                  • Large Vessel (LV): 4.00 mm, 4.50 and 5.00mm
+
+                              The commercial matrix is shown in Table 2 below.
+
+                           Table 2. SYNERGY U.S. Commercial Matrix (Monorail and Over-The-Wire) and
+                                                SYNERGY XD Product Matrix
+                                                                      Stent Length
+                                        8 mm    12 mm 16 mm 20 mm 24 mm 28 mm 32 mm 38 mm 48 mm
+Stent Model / Balloon
+
+
+
+
+                               2.25 mm     X      X      X        X      X        X       X       X
+                          SV 2.50 mm       X      X      X        X      X        X       X       X X
+                               2.75 mm     X      X      X        X      X        X       X       X X
+      Diameter
+
+
+
+
+                          W 3.00 mm        X      X      X        X      X        X       X       X X
+                           H 3.50 mm       X      X      X        X      X        X       X       X X
+                               4.00 mm     X      X      X        X      X        X       X       X X
+                          LV 4.50 mm              X      X        X      X        X       X
+                               5.00 mm            X      X        X      X        X       X
+
+                              B. Drug Component Description
+
+                              The SYNERGY stent drug matrix is composed of the bioabsorbable polymer poly (D,L-
+                              lactide-co-glycolide) (PLGA) and the anti-proliferative drug everolimus. The drug to
+                              polymer formulation is 45:55 (w/w).
+
+
+                    PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                             Page 5
+         1. Everolimus
+      The active pharmaceutical ingredient in the SYNERGY and SYNERGY XD stents are
+      everolimus. The everolimus chemical name is 40-O-(2-hydroxyethyl)-rapamycin, and its
+      chemical structure is provided in Figure 1. The nominal total loaded dose of everolimus
+      and coat weight per nominal stent length/diameter is shown in Table 3.
+
+
+
+
+                            Figure 1. Structure of Everolimus
+
+  Table 3. Nominal Loaded Dose of Everolimus (µg) and Coat Weight per Nominal Stent
+                                Length and Diameter
+                                                  Stent Length
+                                8    12    16     20    24   28    32   38    48
+      Design      Stent Model
+                              mm mm mm mm mm mm mm mm mm
+    Total Drug        SV      38.9 58.3 77.6 96.9 121.1 140.5 159.8 188.9 237.2
+   Content/ Stent     WH      46.5 66.3 92.7 112.5 132.3 158.7 178.5 211.6 271.0
+        (µg)          LV      67.5 96.2 124.8 153.5 182.2 210.8 239.5 287.2 363.6
+
+     Total Coat       SV         87    132 174 218 273            316   360   426    535
+    Weight/Stent     WH         104 149 209 254 298               358   403   477    611
+        (µg)         LV         152 217 281 346 411               475   539   647    819
+       SV – Small Vessel (2.25 mm, 2.50 mm, and 2.75 mm)
+       WH – Workhorse (3.00 mm and 3.50 mm)
+       LV – Large Vessel (4.00 mm, 4.50 mm, and 5.00 mm)
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                      Page 6
+           2. Inactive Ingredient
+       Polymer—Poly (DL-lactide-co-glycolide) (PLGA)
+       SYNERGY and SYNERGY XD are abluminally coated with a bioabsorbable coating.
+       The coating consists of bioabsorbable PLGA polymer and everolimus. The PLGA
+       polymer provides controlled and sustained release of available everolimus through the
+       intended time frame, during which the polymer is reabsorbed into the body. The chemical
+       structure of PLGA is shown in Figure 2.
+
+
+
+
+                                 Figure 2. Structure of PLGA
+
+           3. Mechanism of Action of Everolimus
+       On a cellular level, everolimus inhibits, in a reversible manner, growth factor-stimulated
+       cell proliferation. On a molecular level, everolimus forms a complex with the
+       cytoplasmic protein FKBP-12. In the presence of everolimus, the growth factor-
+       stimulated phosphorylation of p70 S6 kinase and 4E-BP1 is inhibited. The latter proteins
+       are key proteins involved in the initiation of protein synthesis. Since phosphorylation of
+       both p70 S6 kinase and 4E-BP1 is under the control of FRAP (FKBP-12-rapamycin
+       associated protein, also called mTOR, mammalian target of rapamycin) this finding
+       suggests that, the everolimus-FKBP-12 complex binds to and thus interferes with the
+       function of FRAP. FRAP is a key regulatory protein which governs cell metabolism,
+       growth and proliferation. Disabling FRAP function explains the cell cycle arrest at the
+       late G1 stage caused by everolimus.
+
+VI.    ALTERNATIVE PRACTICES AND PROCEDURES
+
+       There are several other alternatives for the correction of coronary artery disease. These
+       may include exercise, diet, smoking cessation, drug therapy, percutaneous coronary
+       interventions (such as angioplasty and placement of bare metal stents, coated stents, and
+       other drug eluting stents), and coronary artery bypass graft surgery (CABG). Each
+       alternative has its own advantages and disadvantages. A patient should fully discuss these
+       alternatives with his/her physician to select the method that best meets expectations and
+       lifestyle.
+
+VII.   MARKETING HISTORY
+
+       US Marketing History
+       The Original PMA (P150003) for SYNERGY Everolimus-Eluting Platinum Chromium
+       Coronary Stent System (Monorail and Over-The-Wire) received PMA approval on
+       October 2, 2015.
+
+       As of October 31, 2019, 1,640,891 stents have been distributed within the United States.
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                          Page 7
+      International Marketing (OUS) History
+      SYNERGY™ Everolimus-Eluting Platinum Chromium Coronary Stent System
+      (Monorail) (UPN H74939198xxxx0) was commercially available in international markets
+      outside of the US (OUS) as of November 2012.
+
+      As of June 22, 2016, approximately 64,822 SYNERGY (UPN H74939198xxxx0) stents
+      have been distributed OUS.
+
+      A modified SYNERGY™ Everolimus-Eluting Platinum Chromium Coronary Stent
+      System (Monorail) UPNs (UPN H74939262xxxx0) became commercially available in
+      international markets OUS as of December 2013 as a design iteration to the original OUS
+      launch device. This design is comparable to the US commercial design approved as per
+      PMA P150003.
+
+      As of October 31, 2019, approximately 1,253,846 SYNERGY (UPN H74939262xxxx0)
+      stents have been distributed OUS.
+
+      An Over-the-Wire version of SYNERGY is not available in international markets (OUS).
+      Table 4 lists countries where the SYNERGY product is currently commercially available.
+      No products have been withdrawn from the market in any country for any reason.
+
+                Table 4. Countries with SYNERGY Commercial Availability
+ Algeria               Andorra              Argentina            Australia
+ Austria               Azerbaijan           Bahrain              Bangladesh
+ Barbados              Belarus              Belgium              Bolivia
+ Bonaire & Saba        Bosnia & Herzegovina Botswana             Brazil
+ Brunei Darussalam Bulgaria                 Canada               Cayman Islands
+ Chile                 China                Colombia             Costa Rica
+ Curaçao               Cyprus               Czech Republic       Denmark
+ Dominican Republic Dutch Antilles          Ecuador              Egypt
+ El Salvador           Estonia              Finland              France
+ Georgia               Germany              Great Britain        Greece
+ Guyana                Haiti                Honduras             Hong Kong*
+ Hungary               Iceland              India                Indonesia
+ Iran                  Iraq                 Ireland              Israel
+ Italy                 Jamaica              Japan*               Jordan
+ Kazakhstan            Kenya                Kosovo               Kuwait
+ Latvia                Lebanon              Libya                Liechtenstein
+ Lithuania             Luxembourg           Macau                Macedonia
+ Malaysia              Malta                Mauritius            Mexico
+ Mongolia              Montenegro           Morocco              Mozambique
+ Myanmar               Namibia              Nepal                Netherlands, The
+ New Zealand           Norway               Oman                 Pakistan
+ Palestine, State of   Panama               Paraguay             Peru
+ Philippines           Poland               Portugal             Qatar
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                      Page 8
+ Romania              Russian Federation Saudi Arabia                    Serbia
+ Singapore            Slovakia           Slovenia                        South Africa
+ South Korea          Spain              Sri Lanka                       Sweden
+ Switzerland          Taiwan             Thailand                        Trinidad & Tobago
+ Tunisia              Turkey             United Arab Emirates            United States*
+ Vietnam
+      *Countries with SYNERGY XD commercially available
+
+VIII. PROBABLE ADVERSE EFFECTS OF THE DEVICE ON HEALTH
+
+      Potential adverse events (in alphabetical order) which may be associated with the use of a
+      coronary stent in native coronary arteries include but are not limited to:
+         • Abrupt stent closure
+         • Allergic reaction to anti-coagulant and/or antiplatelet therapy, contrast medium,
+             or stent materials, including the stent metallic components and polymer coating
+         • Angina
+         • Arrhythmias, including ventricular fibrillation, ventricular tachycardia, and heart
+             block
+         • Cardiogenic shock/pulmonary edema
+         • Death
+         • Embolization, (air, tissue or thrombotic material or material from devices(s) used
+             in the procedure) including stent embolization of migration
+         • Heart failure
+         • Hemorrhage, which may require transfusion, including bleeding and hematoma
+         • Hypotension/hypertension
+         • Infection, local or systemic, including fever and pyrogen reaction
+         • Myocardial ischemia or infarction
+         • Pain, chest or access site
+         • Pericardial effusion or cardiac tamponade
+         • Renal insufficiency or failure
+         • Respiratory failure
+         • Restenosis or aneurysm of stented segment
+         • Stent deformation, collapse, or fracture
+         • Stent thrombosis/occlusion
+         • Stroke/cerebrovascular accident/transient ischemic attack (TIA)
+         • Vessel trauma requiring surgical repair or re-intervention, including coronary,
+             femoral or radial artery spasm, dissection, occlusion, perforation, rupture, or
+             pseudoaneurysm
+
+      Adverse events associated with daily oral administration of everolimus to organ
+      transplant patients include but are not limited to:
+          • Abdominal pain (including upper abdominal pain)
+          • Anemia
+          • Angioedema
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                          Page 9
+         •   Anorexia
+         •   Asthenia
+         •   Constipation
+         •   Cough
+         •   Delayed wound healing/fluid accumulation
+         •   Diarrhea
+         •   Dyslipidemia (including hyperlipidemia and hypercholesterolemia)
+         •   Dysgeusia
+         •   Dyspepsia
+         •   Dyspnea
+         •   Dysuria
+         •   Dry skin
+         •   Edema (Peripheral)
+         •   Epistaxis
+         •   Fatigue
+         •   Headache
+         •   Hematuria
+         •   Hyperglycemia (may include new onset of diabetes)
+         •   Hyperkalemia
+         •   Hyperlipidemia
+         •   Hypertension
+         •   Hypokalemia
+         •   Hypomagnesemia
+         •   Increased serum creatinine
+         •   Infections and serious infections: bacterial, viral, fungal, and protozoal infections
+             (may include herpes virus infection, polyoma virus infection which may be
+             associated with BK virus associated nephropathy, and/or other opportunistic
+             infections)
+         •   Insomnia
+         •   Interaction with strong inhibitors and inducers of CYP3A4
+         •   Leukopenia
+         •   Lymphoma and other malignancies (including skin cancer)
+         •   Male infertility (azospermia and/or oligospermia)
+         •   Mucosal inflammation (including oral ulceration and oral mucositis)
+         •   Nausea
+         •   Neutropenia
+         •   Non-infectious pneumonitis
+         •   Pain; extremity, incision site and procedural, back, chest, musculoskeletal
+         •   Proteinuria
+         •   Pruritus
+         •   Pyrexia
+         •   Rash
+         •   Stomatitis
+         •   Thrombocytopenia
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                           Page 10
+         •   Thrombotic Microangiopathy (TMA)/Thrombotic thrombocytopenic purpura
+             (TTP)/Hemolytic uremic syndrome (HUS)
+         •   Tremor
+         •   Upper respiratory tract infection
+         •   Urinary tract infection
+         •   Vomiting
+
+      There may be other potential adverse events that are unforeseen at this time.
+
+      For the specific adverse events that occurred in the EVOLVE II clinical study, please see
+      Section X: Summary of Primary Clinical Studies, below.
+
+IX.   SUMMARY OF NONCLINICAL STUDIES
+
+      A summary of previously reported preclinical studies can be found in the SSED for the
+      original PMA. Because these previously collected data sufficiently represent the
+      performance of the device for the new indications for use, no new non-clinical testing
+      was conducted.
+
+X.    SUMMARY OF PRIMARY CLINICAL STUDIES
+
+      The EVOLVE II Clinical Program evaluated the SYNERGY Everolimus-Eluting
+      Platinum Chromium Coronary Stent System for the treatment of atherosclerotic lesions in
+      3 studies. The Program includes the EVOLVE II trial, (randomized controlled trial (RCT)
+      with a parallel single-arm pharmacokinetics (PK) sub-study, and consecutive single arm
+      diabetic (DM) sub-study). Additionally, EVOLVE II QCA, a quantitative coronary
+      angiography (QCA) study was conducted. Summaries of these studies can be found in the
+      SSED for the original PMA.
+
+      The EVOLVE Short DAPT Study was conducted to evaluate the safety of 3-month dual
+      antiplatelet therapy (DAPT) in subjects at high risk for bleeding undergoing percutaneous
+      coronary intervention (PCI) with the SYNERGY Stent System.
+
+      A. EVOLVE Short DAPT Study
+
+          1. Study Design
+      The EVOLVE Short DAPT Study is a prospective, multicenter, single-arm study, using a
+      historical control and a propensity score approach to assess the safety of 3-month DAPT
+      in subjects at high risk for bleeding undergoing PCI with a SYNERGY Stent System.
+      High bleeding risk subjects were enrolled if they met one or more of the following
+      criteria: ≥ 75 years of age and, in the opinion of the investigator, the risk of bleeding
+      associated with >3 months of DAPT outweighs the benefit; need for chronic or lifelong
+      anticoagulation, history of major bleeding (severe/life threatening or moderate bleeding
+      based on the GUSTO classification) within 12 months of the index procedure; history of
+      stroke (ischemic or hemorrhagic); renal insufficiency (creatinine ≥2.0 mg/dl) or failure
+      (dialysis dependent); platelet count ≤100,000/μL. Subjects were prescribed dual
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                        Page 11
+      antiplatelet therapy (P2Y12 inhibitor + aspirin) between 0-3 months post-procedure.
+      Aspirin was optional between 0-3 months for subjects on chronic anticoagulation.
+      Subjects were eligible to discontinue P2Y12 inhibitor at 3 months if they were compliant
+      with the prescribed dual antiplatelet therapy and were free from events between 0-3
+      months (stent thrombosis, myocardial infarction, revascularization, or stroke). Subjects
+      that discontinued P2Y12 inhibitor at 3 months were prescribed aspirin through the end of
+      the study.
+
+             a) Enrollment Inclusion and Exclusion Criteria
+
+   Table 5. EVOLVE Short DAPT Study Enrollment Inclusion and Exclusion Criteria
+   Enrollment 1. Subject is considered at high risk for bleeding, defined as meeting one
+   Inclusion     or more of the following criteria at the time of enrollment:
+   Criteria         • ≥ 75 years of age and, in the opinion of the investigator, the risk
+                        of bleeding associated with >3 months of DAPT outweighs the
+                        benefit,
+                    • need for chronic or lifelong anticoagulation therapy,
+                    • history of major bleeding (severe/life-threatening or moderate
+                        bleeding based on the GUSTO classification) within 12 months
+                        of the index procedure,
+                    • history of stroke (ischemic or hemorrhagic),
+                    • renal insufficiency (creatinine ≥2.0 mg/dl) or failure (dialysis
+                        dependent),
+                    • platelet count ≤100,000/μL
+              2. Subject must be at least 18 years of age
+              3. Subject must have had implantation of at least one SYNERGY stent
+                 within the preceding 3 calendar days
+              4. Subject must be able to take study required antiplatelet therapy (as
+                 required per protocol)
+              5. Subject is willing to comply with all protocol requirements, including
+                 agreement to stop taking P2Y12 inhibitor at the 3-month milestone, if
+                 eligible per protocol
+              6. Subject (or legal guardian) understands the trial requirements and the
+                 treatment procedures and provides written informed consent before any
+                 study-specific procedures are performed
+              7. For subjects less than 20 years of age enrolled at a Japanese site, the
+                 subject/ the subject’s legal representative must provide written informed
+                 consent before any study-specific tests or procedures are performed
+   Clinical   1. Subject with an indication for the index procedure of acute ST elevation
+   Exclusion     MI (STEMI)
+   Criteria   2. Subject with an indication for the index procedure of Non-ST elevation
+                 MI (NSTEMI), based on the 3rd Universal MI definition
+              3. Subject with treatment with another coronary stent, other than
+                 SYNERGY, during the index procedure
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                        Page 12
+               4. Subject with planned staged procedures. (Note: Planned staged
+                   procedures are allowed if performed within 7 days and with only
+                   SYNERGY stents).
+               5. Subject has a known allergy to contrast (that cannot be adequately pre-
+                   medicated), the SYNERGY stent system or protocol-required
+                   concomitant medications (e.g., everolimus or structurally related
+                   compounds, polymer or individual components, all P2Y12 inhibitors and
+                   aspirin)
+               6. Subject with implantation of a drug-eluting stent within 9 months prior
+                   to index procedure
+               7. Subject previously treated at any time with intravascular brachytherapy
+               8. Subject has an active peptic ulcer or active gastrointestinal (GI)
+                   bleeding
+               9. Subject is participating in an investigational drug or device clinical trial
+                   that has not reached its primary endpoint (Note: registry, observational,
+                   data collection studies are not exclusionary)
+               10. Subject intends to participate in an investigational drug or device
+                   clinical trial within 15 months following the index procedure (Note:
+                   registry, observational, data collection studies are not exclusionary)
+               11. Subject judged inappropriate for discontinuation from P2Y12 inhibitor
+                   use at 3 months, due to another condition requiring chronic P2Y12
+                   inhibitor use
+               12. Subject with planned surgery or procedure necessitating discontinuation
+                   of P2Y12 inhibitor within 3 months following index procedure
+               13. Subject is a woman who is pregnant or nursing
+               14. Subject with a current medical condition with a life expectancy of less
+                   than 15 months
+               15. Target lesion(s) is located in the left main
+               16. Target lesion(s) is located within 3 mm of the origin of the left anterior
+                   descending (LAD) coronary artery or left circumflex (LCX) coronary
+                   artery by visual estimate
+               17. Subject has unprotected left main coronary artery disease (> 50%
+                   diameter stenosis)
+               18. Planned treatment of more than 3 lesions
+               19. Planned treatment of lesions in more than 2 major epicardial vessels
+               20. Target lesion(s) treated that involves a complex bifurcation (i.e.
+                   bifurcation lesion requiring treatment with more than one stent)
+               21. Target lesion(s) is restenotic from a previous stent implantation
+               22. Target lesion(s) is located within a saphenous vein graft or an arterial
+                   graft
+               23. Target lesion(s) with a TIMI flow 0 (total occlusion) or TIMI flow 1
+                   prior to guide wire crossing
+               24. Thrombus, or possible thrombus, present in the target vessel (by visual
+                   estimate)
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                          Page 13
+             b) Follow-up Schedule
+      Clinical follow-up was required at the following time points: 3-, 6-, 12- and 15-months
+      post-index procedure. Study follow-up through 15-months is complete.
+
+             c) Primary and Secondary Endpoints
+      The study has 2 powered co-primary endpoints assessed between 3- and 15- months post
+      index procedure: (1) the rate of death from any cause or MI, and (2) the rate of Academic
+      Research Consortium (ARC) definite/probable stent thrombosis related to SYNERGY.
+      The pre-specified secondary endpoint was the rate of bleeding, per Bleeding Academic
+      Research Consortium (BARC) 2,3,5 between 3-15 months.
+
+             d) Additional Endpoints
+      The following clinical endpoints will be measured at 3 months, 6 months, 12 months and
+      15 months:
+         • Rate of major adverse cardiac & cerebrovascular events (MACCE), defined as the
+             composite of all death, MI, and stroke
+         • Rate of major adverse cardiac events (MACE), defined as the composite of
+             cardiac death, MI and TVR
+         • Rate of target vessel failure (TVF), defined as the composite of TVR, cardiac
+             death or target vessel related MI
+         • Rate of death or MI
+         • Rate of cardiac death or MI
+         • Rate of all-cause death
+         • Rate of cardiac death
+         • Rate on non-cardiac death
+         • Rate of MI (Q-wave, non-Q-wave)
+         • Rate of Stroke
+         • Rate of BARC 2,3,5 bleeding
+         • Rate of stent thrombosis (ARC definite/probable), related to SYNERGY
+         • Rate of Target Vessel Revascularization (TVR)
+         • Rate of Target Lesion Revascularization (TLR)
+
+          2. Subject Disposition in EVOLVE Short DAPT Study
+      A total of 2009 subjects were enrolled at 110 sites in the United States, Europe, Japan,
+      and Brazil, of which 1487 were eligible to discontinue P2Y12 inhibitor at 3 months. A
+      total of 522 subjects did not meet the criteria for P2Y12 inhibitor discontinuation at 3
+      months. These patients were excluded from the final analysis. The final analysis set
+      consisted of the 1487 patients that were eligible to discontinue P2Y12 inhibitor at 3
+      months.
+
+                               Table 6. Subject Disposition
+                                           3-Month DAPT            Enrolled Subjects
+         Subjects with SYNERGY                   1487                    2009
+         implanted
+         No 3-month clinical follow-up      0.0% (0/1487)           4.8% (97/2009)
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                          Page 14
+                                          3-Month DAPT     Enrolled Subjects
+            Death ≤90 days                  0.0% (0/1487)     1.7% (34/2009)
+            Death >90 days                  0.0% (0/1487)      0.2% (3/2009)
+            Withdrawn                       0.0% (0/1487)     2.2% (44/2009)
+             Adverse event                  0.0% (0/1487)      0.0% (0/2009)
+             Investigator discretion        0.0% (0/1487)      0.2% (5/2009)
+             Lost to follow-up              0.0% (0/1487)     0.5% (10/2009)
+             Withdrew consent               0.0% (0/1487)     1.3% (27/2009)
+             Other                          0.0% (0/1487)      0.1% (2/2009)
+            Missed 3-month visit            0.0% (0/1487)     0.8% (16/2009)
+         3-month clinical follow-up     100.0% (1487/1487) 95.2% (1912/2009)
+         No 15-month clinical follow-up   6.9% (102/1487)   12.0% (242/2009)
+            Death ≤455 days                4.1% (61/1487)    5.8% (117/2009)
+            Death >455 days                 0.3% (5/1487)      0.2% (5/2009)
+            Withdrawn                      2.4% (36/1487)     6.0 (120/2009)
+             Adverse event                  0.0% (0/1487)      0.0% (0/2009)
+             Investigator discretion        0.1% (1/1487)      0.4% (9/2009)
+             Lost to follow-up             1.6% (24/1487)     2.7% (54/2009)
+             Withdrew consent              0.7% (10/1487)     2.6% (52/2009)
+             Other                          0.1% (1/1487)      0.2% (5/2009)
+         15-month clinical follow-up     93.1% (1385/1487) 88.0% (1767/2009)
+
+          3. Study Population Baseline and Demographics
+      Table 7 presents demographics for the analysis set (3-month DAPT). The mean age in the
+      3-month group was 75.7 years, 34% were female. Patients were predominantly Caucasian
+      (76.7%) and were mildly overweight (Body Mass Index (BMI) 28.7).
+
+                                 Table 7. Demographics
+             Demographics                3-Month DAPT (N=1487 Subjects)
+             Age (years)                         75.7±8.5 (1487)
+                                                   (31.0, 96.0)
+             Gender
+              Male                                66.0% (981/1487)
+              Female                              34.0% (506/1487)
+             Race
+              American Indian/Alaska                0.5% (7/1487)
+              Native
+              Asian                                8.7% (130/1487)
+              Chinese                                0.2% (3/1487)
+              Japanese                             7.9% (118/1487)
+              Korea                                  0.0% (0/1487)
+              Other Asian                            0.6% (9/1487)
+              Black, African Heritage               4.7% (70/1487)
+              Caucasian                           77.9% (1159/1487)
+              Hispanic or Latino                    3.0% (45/1487)
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                     Page 15
+             Demographics                   3-Month DAPT (N=1487 Subjects)
+              Native Hawaiian or                     0.1% (1/1487)
+              other Pacific Islander
+              Other                                   0.9% (14/1487)
+              Not Disclosed                           4.4% (66/1487)
+             Physical Assessment
+             Height (cm)                             170.0±10.9 (1487)
+                                                        (133.0, 200.7)
+             Weight (kg)                              83.5±20.6 (1487)
+                                                         (33.5, 178.0)
+             BMI                                       28.7±5.7 (1487)
+                                                          (13.2, 55.1)
+
+      Table 8 shows the baseline clinical characteristics and medical history for the analysis set
+      (3-month DAPT). Thirty-six percent of subjects in the analysis set suffered from diabetes,
+      approximately 19% had prior MI, 23% had congestive heart failure, 26% had unstable
+      angina, and 31% had a history of atrial fibrillation.
+
+                         Table 8. Baseline Clinical Characteristics
+           Medical History                  3-Month DAPT (N=1487 Subjects)
+           Smoking Status
+            Current Smoker                              6.6% (98/1487)
+            Previous Smoker                           48.0% (714/1487)
+            Never                                     44.0% (655/1487)
+            Unknown                                     1.3% (20/1487)
+           Current Diabetes Mellitus                  36.4% (542/1487)
+            Diabetic (Medically Treated)              32.1% (478/1487)
+            Diabetic (Insulin Dependent)              12.7% (189/1487)
+           History of Hyperlipidemia                 79.5% (1182/1487)
+           Requiring Medication
+           History of Hypertension                   88.1% (1310/1487)
+           Requiring Medication
+           History of Bleeding Disorder                 4.5% (67/1487)
+           History of Major Bleeding                    3.6% (54/1487)
+           (GUSTO)
+            Severe/life-threatening                     1.5% (22/1487)
+            Moderate                                    2.1% (31/1487)
+           Cardiac History
+           History of MI                              18.8% (280/1487)
+           Current MI Indication                        0.7% (11/1487)
+           History of Congestive Heart                23.0% (342/1487)
+           Failure
+            NYHA Classification
+               I                                        13.7% (47/342)
+               II                                      32.5% (111/342)
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                          Page 16
+           Medical History                  3-Month DAPT (N=1487 Subjects)
+               III                                  31.3% (107/342)
+               IV                                     4.7% (16/342)
+               Unknown                               17.8% (61/342)
+           Current Anginal Status:
+             None                                  21.8% (324/1487)
+             Stable Angina                         48.4% (720/1487)
+             Unstable Angina                       26.2% (390/1487)
+             Unknown                                 3.6% (53/1487)
+           If Stable Angina, CCS Class
+             1                                      14.6% (105/720)
+             2                                      33.1% (238/720)
+             3                                      45.4% (327/720)
+             4                                        3.8% (27/720)
+             Unknown                                  3.2% (23/720)
+           If Unstable Angina, Braunwald
+           Class
+             IA                                       4.4% (17/390)
+             IB                                      13.1% (51/390)
+             IC                                        1.3% (5/390)
+             IIA                                      2.6% (10/390)
+             IIB                                     15.4% (60/390)
+             IIC                                      2.6% (10/390)
+             IIIA                                     9.2% (36/390)
+             IIIB                                   26.4% (103/390)
+             IIIC                                      2.1% (8/390)
+             Unknown                                 23.1% (90/390)
+           Silent Ischemia                          8.8% (131/1487)
+           History of PCI                          32.6% (485/1487)
+           History of CABG                         12.2% (181/1487)
+           Left Ventricle Ejection Fraction        54.7+/-12.2 (1120)
+           (LVEF) (%)                                   (10.0, 92.0)
+           History of Atrial Fibrillation          31.2% (464/1487)
+           Neurologic History
+           History of TIA                            5.6% (83/1487)
+           History of Cerebrovascular              13.5% (201/1487)
+           Accidents (Stroke)
+           Renal History
+           Renal Insufficiency (Creatinine          9.3% (139/1487)
+           ≥ 2.0 mg/dl)
+           Renal Failure (Dialysis                   5.3% (79/1487)
+           Dependent)
+           Peripheral History
+           History of peripheral vascular          12.6% (188/1487)
+           Disease (PVD)
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data               Page 17
+      Key Baseline Lesion Characteristics: Visually estimated mean reference vessel
+      diameter was 3.0±0.5 mm, mean lesion length was 17.2±9.5 mm, and mean percent
+      diameter stenosis was 82.6±9.8%. The target lesion location distribution is generally
+      reflective of patients presenting for PCI with approximately 45% in the LAD, 30% in the
+      LCX, and 25 % in the right coronary artery (RCA). Slightly less than 50% of the treated
+      lesions were classified as complex (B2/C). Additional baseline lesion characteristics can
+      be found in Table 9.
+
+                         Table 9. Baseline Lesion Characteristics
+    Vessel and Lesion       3-Month DAPT Non-3-Month DAPT                     Enrolled
+     Characteristics       (N=1487 Subjects       (N=522 Subjects         (N=2009 Subjects
+                            N=1865 lesions)        N=679 lesions)          N=2544 lesions)
+Pre-Procedure
+Target Lesion Location
+   Left Anterior Descending
+                             45.6% (850/1865)       43.2% (293/679)       44.9% (1143/2544)
+   (LAD)
+   Left Circumflex Artery
+                             24.2% (452/1865)       26.8% (182/679)       24.9% (634/2544)
+   (LCX)
+   Right Coronary Artery
+                             30.1% (562/1865)       29.9% (203/679)       30.1% (765/2544)
+   (RCA)
+   Left Main (LM)               0.0% (0/1865)          0.1% (1/679)           0.0% (1/2544)
+   GRAFT                        0.1% (1/1865)          0.0% (0/679)           0.0% (1/2544)
+ Lesion Length (mm)           17.2±9.5 (1862)       17.9±10.5 (678)         17.4±9.8 (2540)
+                                  (2.5, 80.0)           (3.0, 88.0)             (2.5, 88.0)
+   <10 mm                    16.0% (297/1862)       15.9% (108/678)        15.9% (405/2540)
+   10 – 28 mm               72.7% (1354/1862)       70.2% (476/678)       72.0% (1830/2540)
+   >28 mm                    11.3% (211/1862)        13.9% (94/678)        12.0% (305/2540)
+ Reference Vessel Diameter     3.0±0.5 (1856)         2.9±0.5 (678)          2.9±0.5 (2534)
+ (RVD) (mm)                        (1.6, 8.0)            (1.5, 4.5)              (1.5, 8.0)
+   <2.25 mm                    1.3% (24/1856)         1.6% (11/678)          1.4% (35/2534)
+   2.25 – <2.5 mm             8.9% (166/1856)        10.0% (68/678)         9.2% (234/2534)
+   2.5 – <2.75 mm            23.3% (433/1856)       24.0% (163/678)        23.5% (596/2534)
+   ≥2.75 mm                 66.4% (1233/1856)       64.3% (436/678)       65.9% (1669/2534)
+ % Diameter Stenosis          82.6±9.8 (1865)        83.1±9.7 (678)         82.8±9.8 (2543)
+                                 (20.0, 100.0)         (50.0, 100.0)           (20.0, 100.0)
+Thrombolysis in Myocardial Infarction (TIMI) flow
+   0                            0.0% (0/1852)         0.2% (1/666)           0.0% (1/2518)
+   1                            0.0% (0/1852)         0.0% (0/666)           0.0% (0/2518)
+   2                         11.6% (214/1852)        12.5% (83/666)        11.8% (297/2518)
+   3                        88.4% (1638/1852)       87.4% (582/666)       88.2% (2220/2518)
+Lesion Type
+   A                         18.3% (342/1864)       18.9% (128/678)       18.5% (470/2542)
+   B1                        34.4% (641/1864)       33.5% (227/678)       34.1% (868/2542)
+   B2                        21.6% (403/1864)       21.4% (145/678)       21.6% (548/2542)
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                        Page 18
+      Vessel and Lesion                3-Month DAPT Non-3-Month DAPT                               Enrolled
+       Characteristics                (N=1487 Subjects      (N=522 Subjects                   (N=2009 Subjects
+                                       N=1865 lesions)       N=679 lesions)                     N=2544 lesions)
+   C                                  25.6% (478/1864)      26.3% (178/678)                    25.8% (656/2542)
+   B2/C                               47.3% (881/1864)      47.6% (323/678)                   47.4% (1204/2542)
+                                                Calcification
+   None                               35.8% (667/1865)      33.5% (227/678)                    35.2% (894/2543)
+   Mild                               35.1% (655/1865)      32.6% (221/678)                    34.4% (876/2543)
+   Moderate                           21.0% (391/1865)      22.4% (152/678)                    21.4% (543/2543)
+   Severe                              8.2% (152/1865)       11.5% (78/678)                     9.0% (230/2543)
+Vessel tortuosity
+   None                       54.2% (1010/1865)   50.1% (340/678)                             53.1% (1350/2543)
+   Mild                        29.0% (540/1865)   33.9% (230/678)                              30.3% (770/2543)
+   Moderate                    14.4% (268/1865)    12.2% (83/678)                              13.8% (351/2543)
+   Severe                       2.5% (47/1865)      3.7% (25/678)                               2.8% (72/2543)
+ Pre-dilation performed       72.7% (1356/1865)   73.5% (499/679)                             72.9% (1855/2544)
+ Post-Procedure
+ Post-dilation performed      62.1% (1159/1865)   62.9% (427/679)                             62.3% (1586/2544)
+Thrombolysis in Myocardial Infarction (TIMI) flow
+   0                             0.0% (0/1859)       0.0% (0/670)                                0.0% (0/2529)
+   1                             0.0% (0/1859)       0.0% (0/670)                                0.0% (0/2529)
+   2                             0.3% (5/1859)       0.0% (0/670)                                0.2% (5/2529)
+   3                          99.7% (1854/1859) 100.0% (670/670)                              99.8% (2524/2529)
+ Percent diameter stenosis      0.7±2.9 (1864)      0.7±3.6 (678)                               0.7±3.1 (2542)
+ (%)                              (-10.0, 40.0)        (0.0, 50.0)                                (-10.0, 50.0)
+ Dissection                     1.4% (27/1865)       0.9% (6/679)                               1.3% (33/2544)
+Grade of the most severe dissection
+  A                              51.9% (14/27)        83.3% (5/6)                                57.6% (19/33)
+  B                               29.6% (8/27)         0.0% (0/6)                                 24.2% (8/33)
+  C                               11.1% (3/27)        16.7% (1/6)                                 12.1% (4/33)
+  D                                3.7% (1/27)         0.0% (0/6)                                  3.0% (1/33)
+  E                                3.7% (1/27)         0.0% (0/6)                                  3.0% (1/33)
+  F                                0.0% (0/27)         0.0% (0/6)                                  0.0% (0/33)
+ Dissection intervention
+                                 70.4% (19/27)        50.0% (3/6)                                66.7% (22/33)
+ required
+ Perforation                     0.1% (2/1865)       0.0% (0/679)                                0.1% (2/2544)
+Numbers are presented as % (count/sample size) or mean ± standard deviation (n) (minimum, maximum).
+Site reported lesion characteristics.
+
+
+         Key Procedural Characteristics: Approximately 92% of procedures were elective, 8%
+         were emergent, and 1% were staged. The total number of target lesions treated per
+         subject was approximately 1.2/patient in the analysis set (1.3/patient for all enrolled
+         subjects) and the number of Synergy stents deployed was 1.4/subject (1.1/lesion). The
+         total Synergy stent length/subject was approximately 28.5 mm.
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                                           Page 19
+                                    Table 10. Procedural Characteristics
+  Procedure Data                         3-Month DAPT        Non-3-Month                     Enrolled (N=2009
+                                        (N=1487 Subjects) DAPT (N=522                           Subjects)
+                                                                Subjects)
+  Urgency of Intervention
+   Elective                   92.4% (1374/1487)                      91.4% (477/522) 92.1% (1851/2009)
+   Emergent                     7.6% (113/1487)                       8.6% (45/522)   7.9% (158/2009)
+  Procedure Time (min)         42.4±24.1 (1457)                      45.9±28.7 (512) 43.3±25.5 (1969)
+                                   (4.0, 251.0)                         (5.0, 192.0)     (4.0, 251.0)
+  Any Staged Procedure Planned 1.1% (16/1487)                          1.0% (5/522)    1.0% (21/2009)
+  Within 7 Days using only
+  SYNERGY Stent
+  Number of Target Lesions       1.2±0.5 (1487)                        1.3±0.5 (522)           1.3±0.5 (2009)
+  Treated/Subject                    (1.0, 3.0)                           (1.0, 3.0)               (1.0, 3.0)
+    1                         76.8% (1142/1487)                      72.8% (380/522)        75.8% (1522/2009)
+    2                          21.7% (322/1487)                      24.9% (130/522)         22.5% (452/2009)
+    3                            1.5% (23/1487)                        2.3% (12/522)           1.7% (35/2009)
+    4 or more                     0.0% (0/1487)                         0.0% (0/522)            0.0% (0/2009)
+  Number of Vessels              1.1±0.3 (1487)                        1.2±0.4 (522)           1.1±0.3 (2009)
+  Treated/Subject                    (1.0, 2.0)                           (1.0, 2.0)               (1.0, 2.0)
+    1                         87.2% (1296/1487)                      84.7% (442/522)        86.5% (1738/2009)
+    2                          12.8% (191/1487)                       15.3% (80/522)         13.5% (271/2009)
+    3 or more                     0.0% (0/1487)                         0.0% (0/522)            0.0% (0/2009)
+  Number of SYNERGY Stents       1.4±0.6 (1487)                        1.5±0.7 (522)           1.4±0.6 (2009)
+  Placed/Subject                     (1.0, 5.0)                           (1.0, 5.0)               (1.0, 5.0)
+    1                         69.4% (1032/1487)                      64.2% (335/522)        68.0% (1367/2009)
+    2                          24.9% (370/1487)                      28.2% (147/522)         25.7% (517/2009)
+    3 or more                    5.7% (85/1487)                        7.7% (40/522)          6.2% (125/2009)
+  Number of SYNERGY Stents       1.1±0.3 (1865)                        1.1±0.4 (679)           1.1±0.4 (2544)
+  Placed/Lesion                      (0.0, 4.0)                           (0.0, 4.0)               (0.0, 4.0)
+    0                            0.5% (10/1865)                         0.4% (3/679)           0.5% (13/2544)
+    1                         90.5% (1687/1865)                      88.8% (603/679)        90.0% (2290/2544)
+    2                           7.9% (148/1865)                        9.6% (65/679)          8.4% (213/2544)
+    3 or more                    1.1% (20/1865)                         1.2% (8/679)           1.1% (28/2544)
+  Total SYNERGY Stent Length 28.1±16.6 (1487)                        29.7±17.9 (521)         28.5±16.9 (2008)
+  (mm)/Subject                     (8.0, 122.0)                          (8.0, 152.0)            (8.0, 152.0)
+ Numbers are presented as % (count/sample size) or mean ± standard deviation (n) (minimum, maximum).
+ Site reported lesion characteristics.
+
+       HBR Characteristics of Patients Enrolled in EVOLVE Short DAPT: Table 11 and
+       Table 12 below provide an overview of the study HBR criteria met by the enrolled subjects.
+       76.8% (1142/1487) of the subjects met only 1 HBR criteria for inclusion in the trial. The
+       most common criteria met were age ≥ 75 years, present in 67.5% (1003/1487) and need for
+       chronic or lifelong oral anticoagulation after PCI which was present in 30.6% (455/1487). In
+       addition, age > 75 years and need for chronic or lifelong oral anticoagulation after PCI, were
+       the only HBR criteria met for 48.4% (719/1487) and 15.3% (227/1487), respectively.
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                                         Page 20
+            Table 11. Subjects meeting one or more of the HBR inclusion criteria
+                                                                           3-Month DAPT
+  HBR Inclusion Criteria                                                 (N=1487 Subjects)
+  Patients satisfying one or more of the following criteria:
+  ≥ 75 years of age and, in the opinion of the investigator, the risk of 67.5% (1003/1487)
+  bleeding associated with >3 months of DAPT outweighs the benefit
+  Need for chronic or lifelong anticoagulation therapy                    30.6% (455/1487)
+  History of major bleeding (severe/life-threatening or moderate            2.7% (40/1487)
+  bleeding based on the GUSTO classification) within 12 months of the
+  index procedure
+  History of stroke (ischemic or hemorrhagic)                             13.4% (200/1487)
+  Renal insufficiency (creatinine ≥2.0 mg/dl) or failure (dialysis         9.1% (136/1487)
+  dependent)
+  Platelet count ≤100,000/μL                                                2.0% (29/1487)
+
+             Table 12. Subjects meeting only one of the HBR inclusion criteria
+                                                                           3-Month DAPT
+  HBR Inclusion Criteria                                                 (N=1487 Subjects)
+  Patients satisfying only one of the following criteria:
+  ≥ 75 years of age and, in the opinion of the investigator, the risk of  48.4% (719/1487)
+  bleeding associated with >3 months of DAPT outweighs the benefit
+  Need for chronic or lifelong anticoagulation therapy                    15.3% (227/1487)
+  History of major bleeding (severe/life-threatening or moderate           1.1% (16/1487)
+  bleeding based on the GUSTO classification) within 12 months of the
+  index procedure
+  History of stroke (ischemic or hemorrhagic)                              5.4% (81/1487)
+  Renal insufficiency (creatinine ≥2.0 mg/dl) or failure (dialysis         5.6% (83/1487)
+  dependent)
+  Platelet count ≤100,000/μL                                               1.1% (16/1487)
+
+      Antiplatelet Medication Usage: Use of dual antiplatelet therapy (aspirin plus a P2Y12
+      inhibitor) at procedure, discharge, 3 months, 6 months, 12 months and 15 months are
+      shown in Table 13. Antiplatelet compliance was generally good. Clopidogrel was the
+      predominant P2Y12 inhibitor (> 75% usage).
+
+                         Table 13. Antiplatelet Medication Usage
+          Medications        3-Month DAPT         Non-3-Month          Enrolled (N=2009
+                            (N=1487 Subjects)     DAPT (N=522             Subjects)
+                                                     Subjects)
+  Procedure
+   Aspirin and P2Y12          65.9% (980/1487)     61.5% (321/522)     64.8% (1301/2009)
+    Aspirin                  81.5% (1212/1487)     80.5% (420/522)     81.2% (1632/2009)
+    Clopidogrel or           73.0% (1085/1487)     68.4% (357/522)     71.8% (1442/2009)
+    Prasugrel or
+    Ticagrelor (P2Y12)
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                      Page 21
+          Medications       3-Month DAPT        Non-3-Month      Enrolled (N=2009
+                           (N=1487 Subjects)    DAPT (N=522         Subjects)
+                                                   Subjects)
+      Clopidogrel           58.3% (867/1487)   55.6% (290/522)   57.6% (1157/2009)
+      Prasugrel              6.0% (89/1487)      3.1% (16/522)     5.2% (105/2009)
+      Ticagrelor            10.4% (155/1487)    10.9% (57/522)    10.6% (212/2009)
+    Other                    2.0% (29/1487)      2.1% (11/522)      2.0% (40/2009)
+  Discharge
+   Aspirin and P2Y12       86.6% (1288/1487)   81.2% (424/522)   85.2% (1712/2009)
+    Aspirin                91.1% (1355/1487)   86.6% (452/522)   89.9% (1807/2009)
+    Clopidogrel or         94.0% (1398/1487)   92.1% (481/522)   93.5% (1879/2009)
+    Prasugrel or
+    Ticagrelor (P2Y12)
+      Clopidogrel          79.8% (1186/1487)   79.9% (417/522)   79.8% (1603/2009)
+      Prasugrel              5.7% (85/1487)      3.1% (16/522)    5.0% (101/2009)
+      Ticagrelor            9.8% (145/1487)     10.2% (53/522)    9.9% (198/2009)
+    Other                    2.0% (30/1487)       1.5% (8/522)     1.9% (38/2009)
+  3-months
+   Aspirin and P2Y12       79.4% (1181/1487)   72.2% (307/425)   77.8% (1488/1912)
+    Aspirin                91.0% (1353/1487)   79.8% (339/425)   88.5% (1692/1912)
+    Clopidogrel or         87.3% (1298/1487)   90.1% (383/425)   87.9% (1681/1912)
+    Prasugrel or
+    Ticagrelor (P2Y12)
+      Clopidogrel          75.9% (1129/1487)   80.9% (344/425)   77.0% (1473/1912)
+      Prasugrel              5.6% (83/1487)      1.9% (8/425)      4.8% (91/1912)
+      Ticagrelor             5.8% (86/1487)     7.3% (31/425)     6.1% (117/1912)
+    Other                    2.3% (34/1487)      1.9% (8/425)      2.2% (42/1912)
+  6-months
+   Aspirin and P2Y12         4.1% (60/1458)    56.1% (234/417)    15.7% (294/1875)
+    Aspirin                94.4% (1376/1458)   79.1% (330/417)   91.0% (1706/1875)
+    Clopidogrel or           5.2% (76/1458)    72.4% (302/417)    20.2% (378/1875)
+    Prasugrel or
+    Ticagrelor (P2Y12)
+      Clopidogrel            4.9% (72/1458)    64.5% (269/417)   18.2% (341/1875)
+      Prasugrel               0.2% (3/1458)      1.2% (5/417)      0.4% (8/1875)
+      Ticagrelor              0.1% (1/1458)     6.7% (28/417)     1.5% (29/1875)
+    Other                    2.5% (37/1458)      1.9% (8/417)     2.4% (45/1875)
+  12-months
+   Aspirin and P2Y12         5.4% (76/1411)    45.5% (179/393)    14.1% (255/1804)
+    Aspirin                93.9% (1325/1411)   79.9% (314/393)   90.9% (1639/1804)
+    Clopidogrel or           6.9% (97/1411)    59.8% (235/393)    18.4% (332/1804)
+    Prasugrel or
+    Ticagrelor (P2Y12)
+      Clopidogrel            6.0% (85/1411)    53.9% (212/393)   16.5% (297/1804)
+      Prasugrel               0.4% (5/1411)      1.0% (4/393)      0.5% (9/1804)
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data               Page 22
+             Medications               3-Month DAPT                 Non-3-Month              Enrolled (N=2009
+                                      (N=1487 Subjects)             DAPT (N=522                 Subjects)
+                                                                       Subjects)
+     Ticagrelor                           0.5% (7/1411)             4.8% (19/393)               1.4% (26/1804)
+    Other                                3.0% (42/1411)              2.0% (8/393)               2.8% (50/1804)
+  15-months
+   Aspirin and P2Y12                    6.1% (84/1385)             42.4% (162/382)            13.9% (246/1767)
+    Aspirin                           93.1% (1290/1385)            80.6% (308/382)           90.4% (1598/1767)
+    Clopidogrel or                     7.4% (102/1385)             55.0% (210/382)            17.7% (312/1767)
+    Prasugrel or
+    Ticagrelor (P2Y12)
+     Clopidogrel                         6.6% (92/1385)            49.2% (188/382)            15.8% (280/1767)
+     Prasugrel                            0.3% (4/1385)              1.3% (5/382)               0.5% (9/1767)
+     Ticagrelor                           0.4% (6/1385)             4.5% (17/382)              1.3% (23/1767)
+    Other                                3.1% (43/1385)             2.6% (10/382)              3.0% (53/1767)
+  Numbers are % (count/sample size)
+
+
+            4. Study Results
+        The primary study safety results between 3-15 months for the analysis population that
+        discontinued P2Y12 inhibitor at 3-months in the EVOLVE Short DAPT Study (3-Month
+        DAPT group) are summarized in Table 14 and Table 15.
+
+        Co-Primary Endpoints: The study has 2 powered co-primary safety endpoints assessed
+        between 3- and 15- months post index procedure:
+
+             •   Rate of death from any cause or myocardial infarction (MI)
+             •   Rate of Academic Research Consortium (ARC) definite/probable stent thrombosis
+                 (ST), related to the SYNERGY stent.
+
+        The EVOLVE Short DAPT study was considered a success. Both of the co-primary
+        endpoints in the 3-month DAPT group implanted with the SYNERGY stent were met.
+
+             •   Death/MI was non-inferior to 12-month DAPT historical control.
+             •   ARC definite/probable ST related to the SYNERGY stent was significantly lower
+                 than the pre-specified performance goal.
+
+             Table 14. Co-Primary Endpoint: Death/MI between 3-15 months
+       12-month        3-month       Difference    One-sided NI Marginc P-valued
+           a
+     DAPT N=1948 DAPT N=1487          [95% CI]    97.5% UCBb
+         5.70%          5.58%          -0.12%        1.63%      2.52%    0.0016
+                                  [-1.87%, 1.63%]
+     Numbers are % (count/sample size)
+     a: The control group for the death/MI primary endpoint includes propensity-matched historical sirolimus,
+     zotarolimus- and everolimus-eluting stent-treated subjects at high risk for bleeding obtained from the PROMUS
+     Element Plus Post-Approval Study (PE+PAS), PE-PROVE Study and the DAPT Study.
+     b: Z-test upper confidence bound (UCB), c: Non-inferiority margin
+     d: P value is from one-tailed Z-test and is based on normal approximation to binomial
+     Subjects with respective event or sufficient follow up were included in the denominator; N=1454 in 3-month DAPT
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                                                 Page 23
+    test group and N=1493 in 12-month DAPT control group
+
+        Table 15. Co-Primary Endpoint (3-15-month ARC Definite/Probable Stent
+                          Thrombosis Related to SYNERGY)
+       3-month DAPT          [95% CI]      One-sided 97.5% Performance P-valueb
+          (N=1487)                              UCBa           goal
+        0.2% (3/1396)     [0.04%, 0.63%]        0.63%          1.0%      0.0005
+     Numbers are % (count/sample size)
+     a: Exact test upper confidence bound (UCB)
+     b: P value is from one-sided exact test for single proportion
+     Subjects with respective event or sufficient follow up were included in the denominator; N=1397 in 3-month DAPT
+     test group
+
+       Secondary Endpoint: The secondary effectiveness endpoint is the rate of bleeding, using
+       the BARC classification (types 2, 3 and 5) between 3- and 15-months post index
+       procedure in subjects not receiving chronic anticoagulation (Table 16). The study
+       secondary endpoint was not proven. However, it is counter-intuitive that a shorter
+       duration of DAPT could be associated with a higher rate of bleeding. This result may be
+       due to better ascertainment of bleeding events in the EVOLVE Short DAPT Study as
+       compared to the historical control that may have contributed to the observed rates*. It
+       should additionally be noted that subjects in need for chronic or lifelong anticoagulation,
+       which accounted for 30.6% of all subjects and 15.3% of subjects with this as their only
+       HBR criterion, were not included in this secondary endpoint assessment.
+
+       (*In the current EVOLVE Short DAPT study the full set of bleeding data, which included
+       devices from several manufacturers, was not available from 0-12 months. Because the
+       exact timing of recorded bleeding events could not be determined for some manufacturers
+       who contributed data, Boston Scientific took a worst-case approach and assumed that
+       unadjudicated events occurred between 0-3 months and excluded these patients as “not 3-
+       month clear,” censoring the events. The overall contribution to the DAPT Study from this
+       patient subset represented approximately 23% of enrolled subjects).
+
+       Table 16. Secondary Endpoint: BARC 2/3/5 Bleeding between 3-15 months
+     12-month DAPT 3-month DAPT         Difference    One-sided      Superiority
+         N=1333          N=1032          [95% CI]    97.5% UCBa Test P-valueb
+         4.17%           6.26%             2.10%        4.29%          0.9820
+                                     [-0.10%, 4.29%]
+     Numbers are % (count/sample size)
+     a: Z-test upper confidence bound (UCB)
+     b: P value is from one-tailed Z-test and is based on normal approximation to binomial
+     Subjects with respective event or sufficient follow up were included in the denominator; N=974 in 3-month DAPT
+     test group and N=947 in 12-month DAPT control group
+
+       Other supportive individual and composite safety and effectiveness endpoints between 3
+       and 15 months are listed in Table 16.
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                                                Page 24
+  Table 17. EVOLVE Short DAPT Study 3-15 months Outcomes in the 3-Month DAPT
+                                          group
+                                                        SYNERGY (N=1487)
+    MACCE (death, MI, stroke)                             6.9% (101/1457)
+    MACE (cardiac death, MI, TVR)                          5.5% (80/1457)
+    TVF (TVR, cardiac death or target vessel related MI    5.0% (73/1457)
+    Death or MI                                            5.8% (84/1457)
+    Cardiac Death or MI                                    3.6% (52/1457)
+    Total Death                                            4.3% (62/1457)
+      Cardiac Death                                        2.1% (30/1457)
+      Non-Cardiac Death                                    1.9% (27/1457)
+      MI                                                   1.9% (27/1457)
+        Q-wave MI                                           0.2% (3/1457)
+        Non−Q-wave MI                                      1.7% (25/1457)
+    Stroke                                                 1.4% (21/1457)
+    Bleeding (BARC 2,3,5)                                 7.1% (103/1457)
+      BARC 2                                               4.6% (67/1457)
+      BARC 3                                               2.7% (40/1457)
+      BARC 5                                                0.2% (3/1457)
+    Stent Thrombosis, ARC Definite or Probable,             0.2% (3/1457)
+    Related to SYNERGY
+    TVR, Overall                                           2.6% (38/1457)
+      TLR                                                  1.9% (28/1457)
+
+          5. Pediatric Extrapolation
+      In this premarket application, existing clinical data was not leveraged to support approval
+      of a pediatric patient population.
+
+      B. Outcome Differences by Gender and Race
+
+      Although not powered to evaluate safety or effectiveness of the SYNERGY Stent in
+      gender-specific subgroups, outcome for male and female subgroups from the EVOLVE
+      Short DAPT Study is available (Table 18).
+
+      Of the 1,487 subjects that discontinued P2Y12 inhibitor at 3-months in the EVOLVE
+      Short DAPT Study (3-Month DAPT group), 981 patients were male (66%) and 506
+      patients were female (34%).
+
+      In the 3-month DAPT group, the death/MI rate between 3-15 months was 6.1% in males
+      and 5.1% in females. The ARC definite/probable stent thrombosis (related to
+      SYNERGY) rate was 0.3% in males and 0.0% in females. The BARC 2,3,5 bleeding rate
+      was 5.9% in males and 6.0% in females. No differences between male and females were
+      observed for the pre-specified primary and secondary endpoints.
+
+  Table 18. EVOLVE Short DAPT Study – Co-Primary and Secondary Endpoints (3-15
+                  months) in the 3-Month DAPT group (n=1487)
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                          Page 25
+                                                 3-Month DAPT Group
+                                                        (N=1487)
+                                          Male (N=981)          Female (N=506)
+     Death and MI                         6.1% (59/966)          5.1% (25/491)
+     ARC ST (Definite/Probable)
+                                           0.3% (3/966)              0.0% (0/491)
+     related to SYNERGY stent
+     Bleeding (BARC 2/3/5)                5.9% (37/624)             6.0% (23/386)
+
+      Table 19 shows additional safety and effectiveness clinical results for the 3-Month DAPT
+      group between 3-15 months for male and female patients in the EVOLVE Short DAPT
+      Study. Outcomes were similar in male and female patients although the trend suggests
+      fewer ischemic complications in females.
+
+  Table 19. EVOLVE Short DAPT Study Clinical Outcomes by Gender; 3-Month DAPT
+                              group (3-15 months)
+                                    3-Month DAPT Group (n=1487)
+                          SYNERGY Stent Male         SYNERGY Stent Female
+                            Subjects (N-981)             Subjects (N=506)
+   TVR, Overall              2.9% (28/966)                2.0% (10/491)
+     TLR                     2.1% (20/966)                 1.6% (8/491)
+     Non-TLR                 1.1% (11/966)                 1.2% (6/491)
+   TLF                       4.7% (45/966)                3.9% (19/491)
+   Total Death               4.3% (42/966)                4.1% (20/491)
+   Death or MI               6.1% (59/966)                5.1% (25/491)
+   Cardiac Death or MI       3.8% (37/966)                3.1% (15/491)
+     Cardiac Death           2.1% (20/966)                2.0% (10/491)
+     Non-Cardiac Death       1.9% (18/966)                 1.8% (9/491)
+     MI                      2.0% (19/966)                 1.6% (8/491)
+       Q-wave MI              0.2% (2/966)                 0.2% (1/491)
+       Non-Q-wave MI         1.9% (18/966)                 1.4% (7/491)
+   Stroke                    1.2% (12/966)                 1.8% (9/491)
+   BARC 2,3,5 Bleeding       7.0% (68/966)                7.1% (35/491)
+     BARC 2                  5.0% (48/966)                3.9% (19/491)
+     BARC 3                  2.5% (24/966)                3.3% (16/491)
+     BARC 5                   0.1% (1/966)                 0.4% (2/491)
+   ARC Stent Thrombosis      1.2% (12/966)                 0.6% (3/491)
+     Definite or Probable     0.3% (3/966)                 0.0% (0/491)
+       Definite               0.3% (3/966)                 0.0% (0/491)
+       Probable               0.0% (0/966)                 0.0% (0/491)
+
+      The overall conclusions of the trial regarding the safety of the SYNERGY Stent when
+      used with 3 months of DAPT in patients at high risk of bleeding can be generalized to
+      males and females.
+
+      Subgroups based on race/ethnicity for subjects treated in the EVOLVE Short DAPT
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                       Page 26
+           Study are available (Table 20). These analyses are intended as exploratory only. Of the
+           1,487 high bleeding risk subjects that discontinued P2Y12 inhibitor at 3-months in the
+           EVOLVE Short DAPT Study (3-Month DAPT group), 1,159 (77.9%) were Caucasian,
+           130 (8.7%) Asian, 70 (4.7%) Black or of African Heritage, and 45 (3.0%) Hispanic or
+           Latino. A small number of enrolled subjects were either American Indian, Alaska Native,
+           Native Hawaiian or other Pacific Islander.
+
+      Table 20. CEC Confirmed Major Adverse Events between 3-15 months - by Race/Ethnicity
+                                  3-Month DAPT (N=1487 Subjects)
+                                                                Native
+                                                    American Hawaiian
+                                     Black, Hispanic Indian or other
+                                    African    or   or Alaska Pacific           Not
+                Caucasian Asian Heritage Latino      Native Islander Other Disclosed Total
+                 (N=1159) (N=130) (N=70) (N=45)       (N=7)     (N=1) (N=14) (N=66) (N=1487)
+                    2.4%     4.7%     4.6%    2.3%     0.0%      0.0%   0.0% 1.5%         2.6%
+TVR, Overall
+                 (27/1140) (6/127) (3/65)    (1/43)    (0/7)     (0/0) (0/14) (1/66) (38/1457)
+                    1.8%     3.1%     4.6%    2.3%     0.0%      0.0%   0.0% 0.0%         1.9%
+ TLR
+                 (20/1140) (4/127) (3/65)    (1/43)    (0/7)     (0/0) (0/14) (0/66) (28/1457)
+                    1.1%     2.4%     0.0%    0.0%     0.0%      0.0%   0.0% 1.5%         1.2%
+ Non-TLR
+                 (13/1140) (3/127) (0/65)    (0/43)    (0/7)     (0/0) (0/14) (1/66) (17/1457)
+                    4.8%     6.3%    12.3%    2.3%     0.0%      0.0%   0.0% 1.5%         5.0%
+TVF
+                 (55/1140) (8/127) (8/65)    (1/43)    (0/7)     (0/0) (0/14) (1/66) (73/1457)
+                    4.3%     4.7%    12.3%    2.3%     0.0%      0.0%   0.0% 0.0%         4.4%
+TLF
+                 (49/1140) (6/127) (8/65)    (1/43)    (0/7)     (0/0) (0/14) (0/66) (64/1457)
+                    4.2%     4.7%     9.2%    2.3%     0.0%      0.0%   7.1% 0.0%         4.3%
+Total Death
+                 (48/1140) (6/127) (6/65)    (1/43)    (0/7)     (0/0) (1/14) (0/66) (62/1457)
+                    5.8%     4.7%    12.3%    2.3%    14.3%      0.0%   7.1% 1.5%         5.8%
+Death or MI
+                 (66/1140) (6/127) (8/65)    (1/43)    (1/7)     (0/0) (1/14) (1/66) (84/1457)
+Cardiac Death or 3.6%        1.6%    10.8%    0.0%    14.3%      0.0%   0.0% 1.5%         3.6%
+MI               (41/1140) (2/127) (7/65)    (0/43)    (1/7)     (0/0) (0/14) (1/66) (52/1457)
+                    2.0%     1.6%     7.7%    0.0%     0.0%      0.0%   0.0% 0.0%         2.1%
+ Cardiac Death
+                 (23/1140) (2/127) (5/65)    (0/43)    (0/7)     (0/0) (0/14) (0/66) (30/1457)
+ Non-Cardiac        1.9%     2.4%     1.5%    2.3%     0.0%      0.0%   0.0% 0.0%         1.9%
+ Death           (22/1140) (3/127) (1/65)    (1/43)    (0/7)     (0/0) (0/14) (0/66) (27/1457)
+                    1.9%     0.0%     4.6%    0.0%    14.3%      0.0%   0.0% 1.5%         1.9%
+ MI
+                 (22/1140) (0/127) (3/65)    (0/43)    (1/7)     (0/0) (0/14) (1/66) (27/1457)
+                    0.3%     0.0%     0.0%    0.0%     0.0%      0.0%   0.0% 0.0%         0.2%
+  Q-wave MI
+                  (3/1140) (0/127) (0/65)    (0/43)    (0/7)     (0/0) (0/14) (0/66) (3/1457)
+  Non-Q-wave        1.8%     0.0%     4.6%    0.0%    14.3%      0.0%   0.0% 1.5%         1.7%
+  MI             (20/1140) (0/127) (3/65)    (0/43)    (1/7)     (0/0) (0/14) (1/66) (25/1457)
+                    1.3%     3.1%     0.0%    2.3%     0.0%      0.0%   7.1% 0.0%         1.4%
+Stroke
+                 (15/1140) (4/127) (0/65)    (1/43)    (0/7)     (0/0) (1/14) (0/66) (21/1457)
+BARC 2,3,5          6.8%    11.0%     3.1%    7.0%     0.0%      0.0%   7.1% 7.6%         7.1%
+Bleeding         (78/1140) (14/127) (2/65)   (3/43)    (0/7)     (0/0) (1/14) (5/66) (103/1457)
+
+
+
+     PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                      Page 27
+                                                            Native
+                                                  American Hawaiian
+                                   Black, Hispanic Indian or other
+                                   African   or   or Alaska Pacific         Not
+                Caucasian Asian Heritage Latino    Native Islander Other Disclosed Total
+                (N=1159) (N=130) (N=70) (N=45)      (N=7)   (N=1) (N=14) (N=66) (N=1487)
+                   4.4%     7.9%    1.5%    7.0%     0.0%    0.0%    0.0% 4.5%      4.6%
+  BARC 2
+                (50/1140) (10/127) (1/65)  (3/43)    (0/7)   (0/0)  (0/14) (3/66) (67/1457)
+                   2.8%     3.9%    1.5%    0.0%     0.0%    0.0%    0.0% 3.0%      2.7%
+  BARC 3
+                (32/1140) (5/127) (1/65)   (0/43)    (0/7)   (0/0)  (0/14) (2/66) (40/1457)
+                   0.2%     0.0%    0.0%    0.0%     0.0%    0.0%    7.1% 0.0%      0.2%
+  BARC 5
+                 (2/1140) (0/127) (0/65)   (0/43)    (0/7)   (0/0)  (1/14) (0/66) (3/1457)
+ ARC Stent         1.2%     0.0%    1.5%    0.0%     0.0%    0.0%    0.0% 0.0%      1.0%
+             *
+ Thrombosis     (14/1140) (0/127) (1/65)   (0/43)    (0/7)   (0/0)  (0/14) (0/66) (15/1457)
+  Definite or      0.3%     0.0%    0.0%    0.0%     0.0%    0.0%    0.0% 0.0%      0.2%
+           *
+  Probable       (3/1140) (0/127) (0/65)   (0/43)    (0/7)   (0/0)  (0/14) (0/66) (3/1457)
+                   0.3%     0.0%    0.0%    0.0%     0.0%    0.0%    0.0% 0.0%      0.2%
+   Definite*
+                 (3/1140) (0/127) (0/65)   (0/43)    (0/7)   (0/0)  (0/14) (0/66) (3/1457)
+                   0.0%     0.0%    0.0%    0.0%     0.0%    0.0%    0.0% 0.0%      0.0%
+   Probable*
+                 (0/1140) (0/127) (0/65)   (0/43)    (0/7)   (0/0)  (0/14) (0/66) (0/1457)
+*
+ Related to SYNERGY stent
+
+           C. Financial Disclosure
+
+           The Financial Disclosure by Clinical Investigators regulation (21 CFR 54) requires
+           applicants who submit a marketing application to include certain information concerning
+           the compensation to, and financial interests and arrangement of, any clinical investigator
+           conducting clinical studies covered by the regulation. The EVOLVE Short DAPT Study
+           included 115 Principal Investigators (including 110 whose site enrolled in the study),
+           none of which were full-time or part-time employees of the sponsor and 14 (including 3
+           sub-investigators) had disclosable financial interest/arrangements as defined in 21 CFR
+           54.2(a), (b), (c), and (f) and described below:
+
+              •   Compensation to the investigator for conducting the study where the value could
+                  be influenced by the outcome of the study: 0
+              •   Significant payment of other sorts: 9
+              •   Proprietary interest in the product tested held by the investigator: 0
+              •   Significant equity interest held by investigator in sponsor of covered study: 5
+
+           The applicant has adequately disclosed the financial interest/arrangements with clinical
+           investigators. Statistical analyses were conducted by FDA to determine whether the
+           financial interests/arrangements had any impact on the clinical study outcome. The
+           information provided does not raise any questions about the reliability of the data.
+
+
+
+
+     PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                         Page 28
+XI.    PANEL MEETING RECOMMENDATION AND FDA’S POST-PANEL ACTION
+
+       In accordance with the provisions of section 515(c)(3) of the act as amended by the Safe
+       Medical Devices Act of 1990, this PMA was not referred to the Cardiovascular Devices
+       Panel, an FDA advisory committee, for review and recommendation because the
+       information in the PMA substantially duplicates information previously reviewed by this
+       panel.
+
+XII.   CONCLUSIONS DRAWN FROM PRECLINICAL AND CLINICAL STUDIES
+
+       A. Effectiveness Conclusions
+
+          The safety and effectiveness of the SYNERGY™ Everolimus-Eluting Platinum
+          Chromium Coronary Stent System (Monorail™ and Over-The-Wire) is based on the
+          results obtained from the following measures: biocompatibility; in vivo
+          pharmacokinetics; in vitro engineering testing; coating characterization; chemistry,
+          manufacturing and controls information; in vivo animal testing; sterilization; stability
+          testing; and clinical studies. These tests revealed the following information:
+
+          The in vivo engineering testing conducted on the stent and delivery system(s)
+          demonstrated that the performance characteristics met the product specifications and
+          the coating characterization testing adequately described the important attributes of
+          the everolimus/polymer coating. The chemistry, manufacturing, and controls
+          information ensures that product meeting specifications will be released.
+
+          The EVOLVE Short DAPT Study demonstrated that the benefit of freedom from
+          ischemic complications could be maintained with 3-month DAPT in high bleeding
+          risk patients, although the benefit of freedom from bleeding events with shortened
+          DAPT was not confirmed. The inability to claim superiority in reduced bleeding is
+          due to the truly high bleeding risk nature of the enrolled population, the challenges of
+          non-randomized comparisons, and potentially a better ascertainment of bleeding
+          events in the EVOLVE Short DAPT Study.
+
+       B. Safety Conclusions
+
+          The risks associated with use of Synergy have been evaluated in the clinical studies
+          discussed above along with non-clinical laboratory, animal studies and clinical
+          studies leveraged from the original Synergy PMA approval. The biocompatibility, in
+          vivo pharmacokinetics and in vivo performance characteristics of the product provide
+          a reasonable assurance of safety and acceptability for clinical use.
+
+          The EVOLVE Short DAPT study supports the safety of the Synergy stent when used
+          with 3 months DAPT post PCI to treat patients who are at high bleeding risk.
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                           Page 29
+             •   Death/MI between 3-15 months was observed in 5.58% of the 3-month DAPT
+                 test group and 5.70% in the 12-month DAPT control group (difference=-
+                 0.12%; 97.5% UCB=1.63%; P=0.0016 for non-inferiority).
+
+             •   SYNERGY stent-related ARC definite/probable ST between 3-15 months was
+                 0.2% in the 3-month DAPT group (one-sided 97.5% upper confidence bound
+                 for the ST rate was significantly less than the performance goal of 1.0%).
+
+      C. Benefit-Risk Conclusions
+
+         The probable benefits of the Synergy stent when used with 3 months of DAPT post
+         PCI to treat patients at high bleeding risk are based on data collected in the EVOLVE
+         Short DAPT IDE clinical study.
+
+         Additional factors to be considered in determining probable risks and benefits for the
+         Synergy stent include characterization of the disease, availability of alternative
+         treatments, quality of the study design and conduct, robustness of analysis of study
+         results, and risk mitigations. Coronary artery disease (CAD) can be accompanied by
+         symptomatic chest pain or silent ischemia which affects patients’ quality of life. CAD
+         is treatable, but if left untreated, the condition can progress to further stenosis within
+         the arteries, increased symptoms and the need for revascularization. Available
+         treatments for CAD include medical therapy, percutaneous coronary intervention
+         (PCI) and coronary artery bypass graft (CABG) surgery. When treatment for coronary
+         artery disease beyond medications and lifestyle changes is warranted, patients often
+         choose stent deployment over surgical revascularization due to shorter recovery times
+         and the less invasive nature of PCI. The risks associated with use of drug eluting
+         stents are already well established, and in comparison, to medical therapy, PCI has
+         been shown to reduce the incidence of angina and increase quality of life. Patient
+         tolerance and clinical outcomes of the Synergy stent in the EVOLVE SHORT DAPT
+         study is in line with expectations. The probable benefits of the SYNERGY
+         Everolimus-Eluting Platinum Chromium Coronary Stent System of improving the
+         patient symptoms outweigh the probable risks associated with use of the device.
+
+         1. Patient Perspectives
+         This submission did not include specific information on patient perspectives for this
+         device.
+
+      D. Overall Conclusions
+
+         The data in this application support the reasonable assurance of safety and
+         effectiveness of this device when used in accordance with the indications for use.
+         Data from the EVOLVE Clinical Program support the safety and effectiveness of the
+         SYNERGY Everolimus-Eluting Platinum Chromium Coronary Stent System for the
+         treatment of de novo atherosclerotic lesions when used in accordance with the
+         Directions for Use (DFU).
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                           Page 30
+          In conclusion the leveraged nonclinical data along with the results from the EVOLVE
+          Short DAPT study demonstrate that the Synergy stent provides reasonable assurance
+          of safety and effectiveness for the treatment of patients who are at high bleeding risk,
+          when used according to the proposed indications and in accordance with the
+          Directions for Use (DFU).
+
+XIII. CDRH DECISION
+
+          CDRH issued an approval order on August 10, 2020
+
+          The applicant’s manufacturing facilities have been inspected and found to be in
+          compliance with the device Quality System (QS) regulation (21 CFR 820).
+
+XIV. APPROVAL SPECIFICATIONS
+
+          Directions for use: See device labeling.
+
+          Hazards to Health from Use of the Device: See Indications, Contraindications,
+          Warnings, Precautions, and Adverse Events in the device labeling.
+
+          Post-approval Requirements and Restrictions: See approval order.
+
+XV.   REFERENCES
+      1
+       Go AS, Mozaffarian D, Roger VL, et al. Executive Summary: Heart Disease and Stroke
+      Statistics—2014 Update: A Report From the American Heart Association. Circulation.
+      2014;129(3):399-410.
+      2
+       Mikhail GW, Gerber RT, Cox DA, et al. Influence of Gender on Long-Term Outcomes
+      after Percutaneous Coronary Intervention with the Paclitaxel-Eluting Coronary Stent:
+      Results of the ‘TAXUS Woman’ Analysis. J Am Coll Cardiol Intv 2010;3:1250-9.
+      3
+       Hogue CW, Jr., Barzilai B, Pieper KS, et al. Sex differences in neurological outcomes
+      and mortality after cardiac surgery: a society of thoracic surgery national database report.
+      Circulation. 2001;103:2133-7.
+      4
+       Kelsey SF, James M, Holubkov AL, et al. Results of percutaneous transluminal
+      coronary angioplasty in women. 1985-1986 National Heart, Lung, and Blood Institute's
+      Coronary Angioplasty Registry. Circulation.1993;87:720-7.
+      5
+       Chauhan MS, Ho KK, Baim DS, et al. Effect of gender on in-hospital and one-year
+      outcomes after contemporary coronary artery stenting. Am J Cardiol. 2005;95:101-4.
+      6
+        Abbott JD, Vlachos HA, Selzer F, et al. Gender-based outcomes in percutaneous
+      coronary intervention with drug-eluting stents (from the National Heart, Lung, and Blood
+      Institute Dynamic Registry). Am J Cardiol. 2007;99:626-31.
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                           Page 31
+      7
+       Onuma Y, Kukreja N, Daemen J, et al. Impact of sex on 3-year outcome after
+      percutaneous coronary intervention using bare-metal and drug-eluting stents in
+      previously untreated coronary artery disease: insights from the RESEARCH
+      (Rapamycin-Eluting Stent Evaluated at Rotterdam Cardiology Hospital) and T-SEARCH
+      (TAXUS-Stent Evaluated at Rotterdam Cardiology Hospital) registries. J Am Coll
+      Cardiol Intv 2009;2:603–10.
+
+
+
+
+PMA P150003/S058: FDA Summary of Safety and Effectiveness Data                 Page 32
+

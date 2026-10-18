@@ -1,0 +1,4616 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-10-05",
+    "results": {
+      "skip": 0,
+      "limit": 1000,
+      "total": 115
+    }
+  },
+  "results": [
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S078",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300/CVX300-P EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2015-07-22",
+      "decision_date": "2015-10-20",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR A MINOR DESIGN CHANGE TO THE ANTI-REFLECTIVE COATING THAT IS APPLIED TO THE LASER VESSEL WINDOWS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S104",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 Excimer Laser System/ELCA Coronary Atherectomy Catheter",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2018-04-09",
+      "decision_date": "2018-05-08",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Reduction of routine monitoring of the purified water system.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S021",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "0.7 MM EXTREME CATHETER",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2002-09-05",
+      "decision_date": "2003-02-04",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR THE 0.7 MM SIZE OF THE EXTREME OTW X80 PERCUTANEOUS EXCIMER LASER CORONARY ANGIOPLASTY CATHETER.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S116",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronoary Laser Atherectomy Catheter",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2022-06-17",
+      "decision_date": "2022-08-19",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for implementing new catheter bonding materials.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S082",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY LASER ATHERCOTOMY CATHETER (ELCA 2.0 VITESSE ELL)",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2015-11-25",
+      "decision_date": "2015-12-18",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE TO THE PROXIMAL MARKER BAND FUSING PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S064",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2013-01-30",
+      "decision_date": "2013-02-28",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE TO THE PROCESS FOR MONITORING THE ETHYLENE OXIDE STERILIZATION PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S124",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "135 Review Track For 30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2025-06-17",
+      "decision_date": "2026-02-06",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "the use of alternate components in the adhesive supplied to Philips/Spectranetics for the sterile barrier of the packaging system",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S020",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 EXCIMER LASER CORONARY ANGIOPLASTY (ELCA) SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Labeling Change - Indications/instructions/shelf life/tradename",
+      "expedited_review_flag": "N",
+      "date_received": "2001-03-30",
+      "decision_date": "2001-10-10",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR AN ADDITIONAL INDICATION, THE TREATMENT OF RESTENOSIS IN 316L STAINLESS STEEL STENTS, PRIOR TO THE ADMINISTRATION OF INTRAVASCULAR BRACHYTHERAPY, FOR THE CVX-300 EXCIMER LASER CORONARY ANGIOPLASTY (ELCA) SYSTEM.  THE INDICATION IS IN ADDITION TO THOSE LISTED IN THE FEBRUARY 19, 1993, APPROVAL LETTER.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S081",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2015-11-09",
+      "decision_date": "2015-12-03",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "A MODIFICATION TO THE ETHYLENE OXIDE (EO) STERILIZATION PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S084",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2016-03-08",
+      "decision_date": "2016-04-07",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Changes to the distal jacket manufacturing process.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S066",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 AND CVX-300-P EXCIMER LASER SYSTEMS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2013-07-22",
+      "decision_date": "2013-08-21",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE IN THE PRIMARY VENDOR FOR THE ELECTRODE PLATING PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S041",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2010-12-01",
+      "decision_date": "2010-12-29",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE IN PROCESSING EQUIPMENT FROM HAND-ACTIVATED TO FOOT-ACTIVATED.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S127",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "Philips Laser System",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2026-07-23",
+      "decision_date": "2026-08-21",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "the implementation of a secondary supplier for cable assemblies",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S005",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1993-06-17",
+      "decision_date": "1995-07-31",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR VITESSE-E (MODEL 117-005) & VITESSE-E II (MODEL 117-205) CATHETERS TO BE USED WITH THE CVX-300 EXCIMER LASER SYSTEM ON ECCENTRIC LESIONS MEETING ONE OR MORE OF YOUR APPROVED INDICATIONS FOR USE",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S112",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "Spectranetics Laser Sheath (SLS)",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2021-01-25",
+      "decision_date": "2021-09-02",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for the next generation Philips Laser System (PLS), including compatibility with the ELCA coronary laser atherectomy catheter, Spectranetics Laser Sheath (SLS) and Glidelight Laser Sheath devices.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S098",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Laser Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2017-08-04",
+      "decision_date": "2017-09-01",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Changes to the Distal Tip manufacturing and inspection process.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S009",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Other",
+      "expedited_review_flag": "N",
+      "date_received": "1994-09-12",
+      "decision_date": "1995-03-24",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S008",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1994-05-24",
+      "decision_date": "1995-07-12",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR UPGRADED SOFTWARE (VERSION 3.4) FOR THE SPECTRANETICS CVX-300 EXCIMER LASER SYSTEM",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S056",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS EXCIMER LASER",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2012-05-08",
+      "decision_date": "2012-07-03",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR A CHANGE TO THE RADIO FREQUENCY (RF) ABSORPTION MATERIAL FOR THE CVX-300P MODEL EXCIMER LASER.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S092",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ECLA GlideLight Catheter",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Special (Immediate Track)",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2017-04-07",
+      "decision_date": "2017-04-24",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval to add an additional in-process endotoxin test to the extruded components of the catheters.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S057",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 ANTI-REFLECTIVE WINDOW",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2012-06-06",
+      "decision_date": "2012-07-06",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "ADDITION OF A COMPONENT SUPPLIER FOR THE DEVICE.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S007",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Labeling Change - Indications/instructions/shelf life/tradename",
+      "expedited_review_flag": "N",
+      "date_received": "1994-05-16",
+      "decision_date": "1994-11-15",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S070",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHRECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2014-03-19",
+      "decision_date": "2014-04-17",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE TO ESTABLISH THE OPERATING RANGE WITHIN WHICH THE FIBER WINDER CAN SPOOL FIBER FOR THE SLS AND ELCA PRODUCT LINES.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S076",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS EXCIMER CORONARY LASER ATHERECTOMY (ELCA) CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2014-12-08",
+      "decision_date": "2015-01-08",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE TO AUTOMATE THE PIN CUTTING PROCESS ON THE PROXIMAL HANDLE WHICH IS CURRENTLY PERFORMED MANUALLY.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S024",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS VITESSE COS RX CATHETERS, VITESSE E CATHETERS AND EXTREME OTW CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Labeling Change - Indications/instructions/shelf life/tradename",
+      "expedited_review_flag": "N",
+      "date_received": "2003-02-10",
+      "decision_date": "2003-08-08",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR CHANGES TO INSTRUCTIONS FOR USE, INCLUDING CHANGES TO THE CONTRAINDICATIONS SECTION, FOR THE VITESSE COS RX, VITESSE E, AND EXTREME OTW CATHETERS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S110",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-3000 Excimer Lasert System and ELCA Coronary Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2019-09-27",
+      "decision_date": "2019-10-21",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Implement additional fiber production equipment.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S093",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 and CVX-300P Excimer Laser Systems",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2017-05-22",
+      "decision_date": "2017-06-20",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Extend the final test cycle on laser calibration.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S096",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Laser Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2017-07-27",
+      "decision_date": "2017-08-25",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Implement a semi-automated dimensional verification for the radiopaque markers.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S090",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2016-12-08",
+      "decision_date": "2017-01-05",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Use of a replacement laser micrometer inspection tool.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S126",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Laser Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "135 Review Track For 30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2026-03-26",
+      "decision_date": "2026-08-14",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "implementation of an automated inspection method for Excimer Laser Coronary Atherectomy (ELCA) Catheters (P910001) at both the in-process and final inspection steps",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S120",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "Philips Laser System",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2023-06-07",
+      "decision_date": "2023-08-31",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for the changes to the Philips Laser System devices software to correct defects and the user interface",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S119",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ECLA Coronary Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2023-04-06",
+      "decision_date": "2023-05-04",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Second supplier for the molded Proximal Coupler and Strain Relief components.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S102",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 Excimer Laser System",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2017-11-28",
+      "decision_date": "2017-12-22",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Use of an alternate Joulemeter for laser-light measurement during production.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S055",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2012-05-01",
+      "decision_date": "2012-05-30",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "AUTOMATION OF LOT NUMBER ASSIGNMENT FOR PRINTING.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S010",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Location Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "1994-09-26",
+      "decision_date": "1995-05-16",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S058",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2012-06-25",
+      "decision_date": "2012-07-25",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "ADDITION OF NEW EXTRUSION EQUIPMENT.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S023",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 EXCIMER LASER CORONARY ANGIOPLASTY (ELCA) SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track No User Fee",
+      "supplement_reason": "Labeling Change - Indications/instructions/shelf life/tradename",
+      "expedited_review_flag": "N",
+      "date_received": "2003-01-31",
+      "decision_date": "2003-05-02",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR THE REVISED INSTRUCTIONS FOR USE THAT INCLUDE THE ADJUDICATED RESULTS FROM THE LARS INVESTIGATION.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S106",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 and CVX-300-P Excimer Laser Systems",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2018-08-30",
+      "decision_date": "2018-09-25",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Use of a new receiving inspection tool, FARO Articulating Arm Coordinated Measurement Machine, to measure flatness during component production.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S105",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2018-07-16",
+      "decision_date": "2018-08-14",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Addition of a vent hood to the main manufacturing clean room wicking stations.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S099",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Laser Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2017-08-22",
+      "decision_date": "2017-09-21",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Manufacturing process changes to the fuse joints of the ELCA Laser Catheters.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S113",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Atherectomy Catheter",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Labeling Change - Indications/instructions/shelf life/tradename",
+      "expedited_review_flag": "N",
+      "date_received": "2021-03-03",
+      "decision_date": "2021-05-11",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for changing the devices labeling, specifically, the wording of a precaution statement in the Instructions for Use.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S121",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "Philips Laser System",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2023-08-02",
+      "decision_date": "2023-10-30",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "approval for a second semiconductor supplier for laser assembly internal hardware",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S062",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2012-11-27",
+      "decision_date": "2012-12-26",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "ADDITION OF A NEW COMPUTER NUMERIC CONTROL (CNC) MACHINING TOOL.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S103",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Laser Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2018-02-28",
+      "decision_date": "2018-03-29",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Outsourcing of some tubing components to an already approved supplier and an update of dimensional inspection test methods to implement use of a non-contact measurement system.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S052",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2011-12-02",
+      "decision_date": "2011-12-27",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE IN EO STERILIZATION PROCESS MONITORING.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S107",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 Excimer Laser System and ELCA Coronary Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2018-09-24",
+      "decision_date": "2018-10-15",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "New labeling software for printing product labels.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S080",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY LASER ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2015-09-01",
+      "decision_date": "2015-09-30",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE TO OPTICAL FIBER MANUFACTURING PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S042",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "135 Review Track For 30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2011-01-03",
+      "decision_date": "2011-04-20",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL TO IMPLEMENT THE USE OF AN AUTOMATED METHOD INSTEAD OF A MANUAL METHOD OF DISPENSING EPOXY ADHESIVE.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S019",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "VITESSE POINT 9 MM X80 & EXTREME POINT 9MM X80 PERCUTANEOUS CORONARY ANGIOPLASTY CATHETER, MODELS 110-004 AND 110-002",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2000-12-21",
+      "decision_date": "2001-06-19",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "VITESSE POINT 9MM X80 PERCUTANEOUS CORONARY ANGIOPLASTY CATHETER, MODEL 110-004, AND THE EXTREME POINT 9MM X80 PERCUTANEOUS CORONARY ANGIOPLASTY CATHETER, MODEL 110-002:  1) A CHANGE IN THE LASTING TIME FROM 5 SECONDS ON AND 10 SECONDS OFF TO 10 SECONDS ON AND 5 SECONDS OFF;  2) A CHANGE IN THE FLUENCE AND REPETITION RATE FROM 30-60 FLUENCE AND 25-40 HZ TO 30-80 FLUENCE AND 25-80 HZ;  3) A LABELING CHANGE FROM \"LASER ADVANCEMENT OF APPROXIMATELY 1 MM PER SECOND\" TO \"MAINTAIN CONSTANT CATHETER TIP CONTACT WITH THE LESION BY APPLYING MILD FORWARD PRESSURE TO THE SHAFT OF THE CATHETER\"; AND  4) A CHANGE IN THE PIN CODE ON THE COUPLER SO THAT THE CATHETERS INSTRUCT THE LASER SYSTEM TO ALLOW INCREASED LASING PARAMETERS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S123",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "Philips Laser System",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2024-09-24",
+      "decision_date": "2024-11-21",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "approval for a change to the adhesive used in the internal energy sensors of the Philips Laser System",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S083",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2016-01-13",
+      "decision_date": "2016-02-12",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Change to the component manufacturing process.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S111",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "Spectranetics CVX-300 Excimer Laser System",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2020-10-19",
+      "decision_date": "2020-12-22",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for minor design changes to the Fiber Coupler Assembly.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S085",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Special (Immediate Track)",
+      "supplement_reason": "Labeling Change - Indications/instructions/shelf life/tradename",
+      "expedited_review_flag": "N",
+      "date_received": "2016-03-14",
+      "decision_date": "2016-04-13",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for the addition of warnings to the Directions for Use (DFU) of the associated Laser Catheters included in the Laser System.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S122",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Angioplasty Laser Sheaths, Philips Laser System (CVX/PLS)",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2024-08-05",
+      "decision_date": "2024-09-05",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "implementation of manufacturing software",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S075",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2014-12-08",
+      "decision_date": "2015-01-07",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE TO YOUR DISTAL JACKET FUSE PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S067",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 AND CVX-300-P EXCIMER LASER SYSTEMS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2013-09-03",
+      "decision_date": "2013-10-02",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "SUPPLIER CHANGE FOR THE PRINTED CIRCUIT BOARD ASSEMBLIES.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S094",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Special (Immediate Track)",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2017-06-30",
+      "decision_date": "2017-07-18",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for modifications to inspection practices for the primary packaging of the affected devices.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S087",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Special (Immediate Track)",
+      "supplement_reason": "Labeling Change - Indications/instructions/shelf life/tradename",
+      "expedited_review_flag": "N",
+      "date_received": "2016-06-08",
+      "decision_date": "2016-07-07",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for the Laser Certification Label modification to conform with CDRH recommendations per Laser Notice 50.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S054",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2012-04-02",
+      "decision_date": "2012-05-02",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "MODIFICATION TO THE ETHYLENE OXIDE STERILIZATION CYCLE.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S002",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1992-09-14",
+      "decision_date": "1993-09-23",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S069",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2013-12-17",
+      "decision_date": "2014-01-14",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "MODIFICATIONS TO REDUCE THE FREQUENCY OF STERILE BARRIER STRENGTH TESTING AND A MODIFICATION TO THE PROCESS OF SEAL STRENGTH MONITORING.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S061",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2012-08-01",
+      "decision_date": "2012-09-05",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "USE OF ADDITIONAL STERILIZATION CHAMBERS AT THE CONTRACT STERILIZER.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S050",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS EXCIMER LASER",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2011-10-07",
+      "decision_date": "2011-12-06",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL TO IMPLEMENT A CHANGE TO THE RADIO FREQUENCY (RF) ABSORPTION MATERIALS FOR THE CVX-300P MODEL EXCIMER LASER.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S028",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ANGIOPLASTY/LASER/CORONARY DEVICE",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2008-11-05",
+      "decision_date": "2008-12-11",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE TO AN IN-PROCESS MANUFACTURING AID.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S108",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2018-10-22",
+      "decision_date": "2018-11-16",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Updates to tooling equipment and part inspection test equipment and method.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S091",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "Spectranetics CVX-300 Exclimer Laser System",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2017-03-09",
+      "decision_date": "2017-07-07",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for changes to the Remote Interlock Connector.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S045",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS LASER CATHETERS ELCA",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "135 Review Track For 30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2011-02-04",
+      "decision_date": "2011-07-14",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR CHANGES TO PYROGEN TESTING PROCEDURES AND SAMPLING.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S086",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "EXCIMER LASER CORONARY ATHERECTOMY CATHETER",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2016-05-25",
+      "decision_date": "2016-06-16",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Addition of a manufacturing tool used in the fiber trimming process.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S088",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2016-10-04",
+      "decision_date": "2016-10-13",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Replace the vendor of components of the P5 Connector Cable Assembly, the P9 Connector Cable Assembly, and its corresponding 40 pin connector.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S031",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 CORONARY LASER CATHETER",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2009-05-05",
+      "decision_date": "2009-06-01",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGES TO THE IN-PROCESS ACCEPTANCE ACTIVITIES FOR THE LABELING AND BOXING PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S095",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Special (Immediate Track)",
+      "supplement_reason": "Labeling Change - Indications/instructions/shelf life/tradename",
+      "expedited_review_flag": "N",
+      "date_received": "2017-07-24",
+      "decision_date": "2017-08-22",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for adding in-process visual inspections for the Distal Marker Band on the Excimer Laser Coronary Atherectomy (ELCA) catheters.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S013",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "VITESSE TM -E (ECCENTRIC MONORAIL) CATHETER MODEL 120-008",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1998-03-17",
+      "decision_date": "1999-03-12",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for Software Versions 3.51 and 3.6.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S117",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Laser Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2022-09-23",
+      "decision_date": "2022-10-21",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Elimination of a quality control test.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S097",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300-P Excimer Laser System",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2017-08-03",
+      "decision_date": "2018-06-29",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for a design change to the Thyratron driver printed circuit assembly.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S001",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1992-06-08",
+      "decision_date": "1993-10-18",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S125",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2025-09-30",
+      "decision_date": "2025-12-18",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "implementation of a new reduced EO sterilization cycle at an existing facility",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S051",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "135 Review Track For 30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2011-11-30",
+      "decision_date": "2012-02-17",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR THE USE OF A NEW STERILIZATION CHAMBER, NEW STERILIZATION CYCLE, CHANGE IN PACKAGING CONFIGURATION FOR STERILIZATION, AND A CHANGE IN THE STERILE LOAD CONFIGURATION.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S044",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2011-02-01",
+      "decision_date": "2011-02-28",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "MODIFICATIONS TO THE GLASS PREFORM PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S063",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2012-12-11",
+      "decision_date": "2013-01-08",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "ALTERNATE SUPPLIER FOR CABLE ASSEMBLIES.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S025",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 EXCIMER LASER VERSION V3.7.12/V3.8.12",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2006-04-14",
+      "decision_date": "2006-08-02",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR A NEW SOFTWARE VERSION TO THE CVX-3000 EXCIMER LASER AND REVISED LABELING TO THE LASER CONSOLE.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S118",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2023-02-21",
+      "decision_date": "2023-03-21",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "Alternate packaging material supplier.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S053",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2012-01-27",
+      "decision_date": "2012-02-24",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "REMOVE REDUNDANT QUALITY CONTROL INSPECTION STEPS IN YOUR FIBER DRAW AND FIBER RE-SPOOLING MANUFACTURING PROCESSES.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S027",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS CVX-300 EXCIMER LASER CORONARY ANGIOPLASTY (ELCA) SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "135 Review Track For 30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2008-10-30",
+      "decision_date": "2009-03-25",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR: 1) REMOVAL OF BIOBURDEN TESTING FROM THE LOT HISTORY RECORDS (LHR) AS A TEST REQUIRED FOR RELEASE OF PRODUCT, AND 2) CHANGE LAL ENDOTOXIN TEST PROCEDURE TO INSTRUCT QUALITY ASSOCIATES TO COLLECT PRODUCT SAMPLE POST-STERILIZATION.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S012",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "VITESSE TM -E (ECCENTRIC MONORAIL) CATHETER MODEL 120-008",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1996-11-27",
+      "decision_date": "1997-09-24",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for the 2.0 mm Vitesse(TM)-EII (Eccentric Monorail) Catheter, Model 120-008.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S015",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "EXTREME XTO .9 MM CORONARY ANGIOPLASTY CATHETER",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1999-03-08",
+      "decision_date": "2000-07-11",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR THE EXTREME 0.9 MM CORONARY ANGIOPLASTY CATHETER.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S048",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "",
+      "expedited_review_flag": "N",
+      "date_received": "2011-05-10",
+      "decision_date": "2011-06-08",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "ADDITION OF AN ALTERNATE SUPPLIER FOR A DEVICE COMPONENT.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S109",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 Excimer Laser System and ELCA Coronary Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "135 Review Track For 30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2018-12-26",
+      "decision_date": "2019-03-20",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for a supplier change for the luer leg subcomponent, process change related to the luer leg, and an additional quality control inspection for the luer leg.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S047",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track No User Fee",
+      "supplement_reason": "Location Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2011-05-09",
+      "decision_date": "2012-01-13",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR A MANUFACTURING SITE LOCATED IN COLORADO SPRINGS, COLORADO.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S065",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2013-04-01",
+      "decision_date": "2014-01-14",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR NEW CIRCUITRY AND OPTICAL COMPONENTS TO IMPROVE CONTROL OF THE REGULATED ENERGY OUTPUT OF THE CVX-300 LASER GENERATOR.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S060",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2012-07-02",
+      "decision_date": "2012-07-31",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGES TO THE ON-DEMAND LABEL PRINTING SYSTEM.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S077",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2015-01-12",
+      "decision_date": "2015-02-05",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "ADD AN ADDITIONAL COMPONENT SUPPLIER FOR THE CVX-300 AND CVX-300-P LASER SYSTEM.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S026",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS CVX-300 EXCIMER LASER CORONARY ANGIOPLASTY (ELCA) SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2006-11-16",
+      "decision_date": "2007-05-11",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR THE REMOVAL OF A COATING ON THE INNER LUMEN OF THE EXTREME CATHETER MODEL NUMBERS 114-001, 117-002, AND 120-001, THE CHANGE TO BLACK TUBING FOR 0.9 MM CATHETER MODEL NUMBERS 110-003 AND 110-004 X-80, AND THE CHANGE IN THE STRAIN RELIEF MATERIAL DUROMETER FOR THE 0.9 MM EXTREME CATHETER MODEL NUMBERS 110-001, 110-002, 110-152 AND 0.7 MM EXTREME CATHETER MODEL 110-005 TO PREVENT KINKING AT THE STRAIN RELIEF.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S114",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA Coronary Atherectomy Catheters",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Special (Immediate Track)",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2022-02-14",
+      "decision_date": "2022-02-24",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for changes being effected (CBE) for Philips Laser System manufacturing verification processes.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S049",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX EXCIMER LASER SYSTEMS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2011-08-26",
+      "decision_date": "2011-10-25",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR SOFTWARE CHANGES TO THE CVX-300 AND CVX-300-P LASER SYSTEMS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S074",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2014-11-18",
+      "decision_date": "2014-12-16",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "REMOVE REPEATED STEPS FROM THE MANUFACTURING PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S072",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "EXCIMER LASER CORONARY ATHERECTOMY (ELCA) CATHETER",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2014-07-14",
+      "decision_date": "2014-10-09",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR PARAMETRIC RELEASE FOR THE EXCIMER LASER CORONARY ATHERECTOMY CATHETER AND SPECTRANETICS LASER SHEATH KITS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S014",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "VITESSE-C OS CATHETER MODELS 114-009, 117-016, AND 120-009",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1998-08-25",
+      "decision_date": "2000-01-28",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval is for the Vitesse-C OS Laser Angioplasty Cathethers, Models 114-009, 117-016, and 120-009.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S037",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS ELCA LASER CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2010-09-15",
+      "decision_date": "2010-10-15",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "CHANGE TO THE LABEL PRINTING PROCESS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S040",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS CORONARY ATHERECTOMY (ELCA) CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track No User Fee",
+      "supplement_reason": "Location Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2010-11-22",
+      "decision_date": "2011-11-18",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR A STERILIZATION SITE LOCATED AT CARIDIANBCT STERILIZATION SERVICES IN LAKEWOOD, COLORADO.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S006",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1993-07-07",
+      "decision_date": "1994-10-31",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S059",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "EXCIMER LASER CORONARY ATHERECTOMY (ELCA) CATHETER",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2012-07-02",
+      "decision_date": "2013-04-04",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR A CHANGE TO AN ADHESIVE PRIMER USED IN THE MANUFACTURE OF THE ELCA ECCENTRIC (ELL) DEVICES. PREVIOUSLY, YOU HAVE USED LOCTITE 793 WHICH HAS BEEN DISCONTINUED BY THE VENDOR.  THE PRIMER HAS BEEN CHANGED TO LOCTITE 7701, A MEDICAL GRADE ADHESIVE PRIMER USED FOR THE SAME PURPOSE.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANECTICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "",
+      "supplement_reason": "",
+      "expedited_review_flag": "N",
+      "date_received": "1991-02-08",
+      "decision_date": "1993-02-19",
+      "docket_number": "93M-0086",
+      "fed_reg_notice_date": "1993-03-24",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR THE SPECTRANETICS CVX-300(TM) EXCIMER LASER SYSTEM, INCLUDING THE MODELS PC1014 AND PC1017 LASER CATHETERS. THIS SYSTEM IS INDICATED FOR USE IN PATIENTS WITH SINGLE OR MULTIVESSEL CORONARY ARTERY DISEASE EITHER AS A STAND ALONE MODALITY OR IN CONJUNCTION WITH PERCUTANEOUS TRANSLUMINAL CORONARY BALLOON ANGIOPLASTY (PTCA) AND WHO ARE ACCEPTABLE CANDIDATES FOR CORONARY ARTERY BYPASS GRAFT (CABG) SURGERY. ADJUNCTIVE BALLOON ANGIOPLASTY WAS PERFORMED, AT THE CLINICAL INVESTIGATOR'S DISCRETION, IN 84 PERCENT OF THE LESIONS TREATED. CLINICAL EXPERIENCE HAS PROVIDED REASONABLE ASSURANCE THAT THE SPECTRANETICICS CVX-300(TM) EXCIMER LASER SYSTEM AND MULTIFIBER LASER CATHETERS ARE SAFE AND EFFECTIVE FOR THE FOLLOWING INDICATIONS:OCCLUDED SAPHENOUS VEIN BYPASS GRAFTS; OSTIAL LESIONS; LONG LESIONS (GREATER THAN 20 MM IN LENGTH); MODERATELY CALCIFIED STENOSES (HEAVILY CALCIFIED STENOSES ARE THOSE LESIONS THAT DEMONSTRATE COMPLETE CALCIFICATION WHEN IDENTIFIED UNDER FLUOROSCOPY PRIOR TO THE PROCEDURE. MODERATELY AND SLIGHTLY CALCIFIED STENOSES ARE ALL OTHERS.); TOTAL OCCLUSIONS TRAVERSABLE BY A GUIDEWIRE; AND LESIONS WHICH HAVE PREVIOUSLY FAILED BALLOON ANGIOPLASTY (THIS INCLUDES THOSE LESIONS THAT WERE TREATED UNSUCCESSFULLY BY PTCA. LESIONS THAT HAVE UNDERGONE A COMPLICATED PTCA PROCEDURE ARE NOT INCLUDED IN THIS CATEGORY.)  THESE LESIONS MUST BE TRAVERSABLE BY A GUIDEWIRE AND COMPOSED OF ATHERSCLEROTIC PLAQUE AND/OR CALCIFIED MATERIAL. THE LESIONS SHOULD BE WELL DEFINED BY ANGIOGRAPHY.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S043",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2011-01-06",
+      "decision_date": "2011-02-03",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "USE OF ADDITIONAL POUCH SEALING EQUIPMENT.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S079",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ELCA CORONARY ATHERECTOMY CATHETERS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2015-08-28",
+      "decision_date": "2016-08-31",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for a substitution of the SpectraGlide hydrophilic coating for the TreeFrog hydrophilic coating on the ELCA catheters.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S017",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "ETHYLENE OXIDE (EO)STERILIZATION EQUIPMENT",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "135 Review Track For 30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "1999-09-28",
+      "decision_date": "2000-03-17",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "The 135-day supplement requested approval for the addition of ethylene oxide sterilization equipment.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S071",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 & CVX-300P EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2014-04-15",
+      "decision_date": "2014-06-30",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR THE ADDITION OF FINGER GASKETS TO THE SIDE RADIATIONSHIELDS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S033",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2009-09-11",
+      "decision_date": "2010-07-08",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR CHANGES TO THE CVX-300 EXCIMER LASER SYSTEM FOR COMPLIANCE TO ELECTRICAL SAFETY AND ELECTROMAGNETIC COMPATIBILITY VOLUNTARY STANDARDS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S115",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "Philips Laser System",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2022-02-23",
+      "decision_date": "2022-05-05",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for a new design specification and inspection requirement to be implemented during manufacturing of the Philips Laser System.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S018",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "VITESSE XTO 0.9 MM CORONARY ANGIOPLASTY CATHETER",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2000-02-09",
+      "decision_date": "2000-08-04",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR THE VITESSE XTO 0.9 MM CORONARY ANGIOPLASTY CATHETER, MODEL 110-003.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S034",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVS-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track No User Fee",
+      "supplement_reason": "Location Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2010-02-18",
+      "decision_date": "2011-01-10",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR A MANUFACTURING SITE LOCATED IN COLORADO SPRINGS, COLORADO.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S073",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 AND CVX-300-P EXCIMER LASER SYSTEMS",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2014-08-11",
+      "decision_date": "2014-08-21",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "ADDING ALTERNATE SUPPLIERS FOR A CAPACITOR COMPONENT OF THE CVX-300 AND CVX-300-P LASER SYSTEMS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S016",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Normal 180 Day Track",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "1999-06-14",
+      "decision_date": "1999-12-10",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval for software modifications for the Power Error audible tone warning and Fault 10 display features.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S038",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "SPECTRANETICS CVX-300 EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "30-Day Notice",
+      "supplement_reason": "Process Change - Manufacturer/Sterilizer/Packager/Supplier",
+      "expedited_review_flag": "N",
+      "date_received": "2010-10-12",
+      "decision_date": "2010-11-10",
+      "docket_number": "",
+      "decision_code": "OK30",
+      "ao_statement": "ADDITION OF AN ALTERNATE DI WATER SUPPLY.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S089",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-300 and CVX-300-P EXCIMER LASER SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2016-11-16",
+      "decision_date": "2018-07-27",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "Approval to modify the coating applied to the optics of the laser and minor design changes to accommodate the change in coating.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    },
+    {
+      "pma_number": "P910001",
+      "supplement_number": "S032",
+      "applicant": "Spectranetics Corp.",
+      "street_1": "9965 Federal Dr.",
+      "street_2": "",
+      "city": "Colorado Springs",
+      "state": "CO",
+      "zip": "80921",
+      "zip_ext": "",
+      "generic_name": "DEVICE, ANGIOPLASTY, LASER, CORONARY",
+      "trade_name": "CVX-3000 EXCIMER LASER CORONARY ATHRECTOMY (ELCA) SYSTEM",
+      "product_code": "LPC",
+      "advisory_committee": "CV",
+      "advisory_committee_description": "Cardiovascular",
+      "supplement_type": "Real-Time Process",
+      "supplement_reason": "Change Design/Components/Specifications/Material",
+      "expedited_review_flag": "N",
+      "date_received": "2009-06-02",
+      "decision_date": "2009-07-29",
+      "docket_number": "",
+      "decision_code": "APPR",
+      "ao_statement": "APPROVAL FOR A CHANGE IN THE MATERIAL OF THE PROXIMAL COUPLER COMPONENT OF THE ELCA CATHETERS.",
+      "openfda": {
+        "registration_number": [
+          "1724474",
+          "3007284006",
+          "1721676"
+        ],
+        "fei_number": [
+          "3003094851",
+          "3007284006",
+          "1721676"
+        ],
+        "device_name": "Device, Angioplasty, Laser, Coronary",
+        "medical_specialty_description": "Unknown",
+        "regulation_number": "",
+        "device_class": "3"
+      }
+    }
+  ]
+}

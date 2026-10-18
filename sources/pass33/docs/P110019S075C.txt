@@ -1,0 +1,1121 @@
+                                                                                             PL2100039
+                                                                                                 Rev. C
+                      Patient Guide, EECSS, XIENCE (Alpine), Domestic                       Page 1 of 31
+
+
+
+
+Label Type                   Domestic
+
+
+Languages Appearing
+                             English
+on Label
+
+Note: English text in this document is for content reference only and should not be used for artwork use
+or placement verification.
+
+Generic
+                             See PK2011944 for requirements not listed below.
+Specification
+
+                             24-page self-cover booklet style
+Dimensional                      • Finished size: 8-1/2” ±1/8” W x 8-1/2” ±1/8” H
+Requirements                     • Saddle-stitched, 2 places
+                                 • Trim
+
+Material
+                             80# Gloss Book
+Requirements
+
+
+Ink Color                    CMYK + Gloss coat
+
+
+Artwork Date                 9/26/14
+
+
+Label Control Label          A
+
+
+Receiving Inspection Requirements
+
+
+                             Inspect per Zero Acceptance Sampling Plan Latest Edition, Index Value: 6.5.
+                             Proof Stage: Use an overlay of the original artwork for a graphic
+Dimensional and Color
+                             comparison. Color verification is not required.
+                             First Article: Inspect color and cover illustrations to retention sample.
+
+
+                             Inspect legibility and content by randomly selecting 2 samples.
+Text
+                             Use an overlay of the original artwork for a word-for-word comparison.
+
+
+Barcode Scans                2100039
+                                                                 PL2100039
+                                                                     Rev. C
+              Patient Guide, EECSS, XIENCE (Alpine), Domestic   Page 2 of 31
+
+
+
+FRONT COVER
+                                                                                                               PL2100039
+                                                                                                                   Rev. C
+                           Patient Guide, EECSS, XIENCE (Alpine), Domestic                                    Page 3 of 31
+
+
+
+
+                                              Table of Contents
+
+Coronary Artery Disease (CAD) ......................................................................
+ Your Heart.....................................................................................................
+ What is CAD? ................................................................................................
+ What are the Symptoms of CAD? ...................................................................
+ What are the Risk Factors of CAD? ................................................................
+ How Can My Doctor Tell if I Have CAD? .........................................................
+
+Your Treatment Options .................................................................................
+ Surgery .........................................................................................................
+ Angioplasty ...................................................................................................
+ Coronary Artery Stents ..................................................................................
+
+Drug-Eluting Stents (DES) ..............................................................................
+
+XIENCE Family of Coronary Stents.................................................................
+  Contraindications ...........................................................................................
+
+Potential Adverse Events Associated with the XIENCE Family of
+Coronary Stents .........................................................................................................
+
+The SPIRIT Family of Clinical Trials ...............................................................
+
+The XIENCE V USA Post-approval Trial ..........................................................
+
+EXPERT CTO Clinical Trial .............................................................................
+
+Your Drug-Eluting Stent Procedure ................................................................
+ How Do I Prepare for My Procedure? .............................................................
+ Your Drug-Eluting Stent Placement Procedure ...............................................
+ Immediately after Procedure ..........................................................................
+ Take All Medications as Instructed .................................................................
+ Follow-up Care ..............................................................................................
+ Keep Your ID Card Handy ..............................................................................
+
+Preventing CAD ..............................................................................................
+
+Frequently Asked Questions ..........................................................................
+
+Definition of Medical Terms ............................................................................
+                                                                                PL2100039
+                                                                                    Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic             Page 4 of 31
+
+
+
+Coronary Vasculature
+
+
+
+
+Coronary Artery Disease (CAD)
+Your Heart
+Your heart is a muscle that pumps blood throughout your body. The blood carries oxygen
+and nutrients that your body needs to work correctly. For the heart to be able to function
+properly, it also needs a constant supply of oxygen-filled blood. The vessels that supply
+this blood to the heart are called coronary arteries. If these arteries become blocked or
+narrowed, an inadequate supply of nutrients and oxygen are not available to be delivered.
+Therefore, treatment may be required to restore blood flow and the vital supply of oxygen
+to the heart.
+
+What is CAD?
+Coronary artery disease, or CAD is the most common form of heart disease. It is a
+condition that occurs when the coronary arteries that supply oxygen-rich blood and
+nutrients to the heart muscle become narrowed or blocked by a gradual build-up of
+“plaque.” Plaque is made up of fatty deposits (cholesterol), white blood cells, calcium, and
+other substances that collect over time in the wall of a coronary artery. As the plaque
+                                                                               PL2100039
+                                                                                   Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic            Page 5 of 31
+
+
+
+narrows the opening (lumen) of a coronary artery, it makes it difficult for adequate
+quantities of blood to flow to the heart muscle. This process of plaque formation and
+narrowing of the vessel diameter is called “atherosclerosis.” Reduction of blood flow to the
+heart muscle can cause chest pain (angina), shortness of breath, sweating, and pain
+down the arms (most commonly the left arm). Narrowing of a heart blood vessel that
+results in a complete blockage can progress gradually or can occur suddenly resulting in
+a heart attack, known as a myocardial infarction. Heart attacks cause irreversible damage
+to the heart muscle. Unfortunately the first symptom of CAD may be sudden death without
+any other “warning” signs.
+
+Advancements in medical understanding and treatment, earlier recognition of disease,
+and improved testing, combined with earlier diagnosis, and increased public awareness of
+the heart disease symptoms and risk factors have helped to reduce the death rates
+associated with CAD.
+
+What are the Symptoms of CAD?
+Two common symptoms of CAD are chest pain (also known as angina) and shortness of
+breath, which are both associated with the reduction of blood flow to the heart muscle due
+to narrowing of heart blood vessels. If plaque build-up does not reduce blood flow
+excessively, there may be no noticeable symptoms at rest, but symptoms such as
+heaviness in the chest and difficulty with breathing may occur with increased activity or
+stress.
+
+Other symptoms that may be experienced are:
+• Pain in the jaw or neck
+• Pain radiating to the arms or back
+• Heartburn
+• Nausea
+• Vomiting
+• Heavy sweating
+• Dizziness
+
+
+When blood flow is significantly reduced and the heart muscle does not receive enough
+blood to meet its needs, severe symptoms such as chest pain (angina pectoris), heart
+attack (myocardial infarction), or heart rhythm disturbances (arrhythmias) may occur.
+These symptoms occur intermittently or, as the narrowing worsens, at a more frequent
+interval.
+
+There are some patients who report no symptoms of CAD. It is possible to have a heart
+                                                                                                                    PL2100039
+                                                                                                                        Rev. C
+                              Patient Guide, EECSS, XIENCE (Alpine), Domestic                                      Page 6 of 31
+
+
+
+attack without experiencing any symptoms.
+
+Recent research has shown that women may experience different CAD symptoms from
+men and therefore are may be less likely than men to report chest pain, heaviness in the
+chest, or chest discomfort during a heart attack. Women may notice other early
+symptoms, such as unusual tiredness or sleep disturbances up to one month prior to a
+heart attack. Given a lack of awareness that these different in symptoms could be due to
+the CAD, women may be less likely than men to realize they are suffering a heart attack
+and seek treatment.
+
+
+
+What are the Risk Factors of CAD?
+Two main risk factors for CAD are:
+•  Increasing age (over age 65)
+•  Being male or a menopausal female 1
+
+Other risk factors that may increase your chances of developing CAD are:
+•  Family history of heart disease (close relatives with heart disease at a young age)
+•  Diabetes
+•  High blood cholesterol levels
+•  Smoking
+•  High blood pressure
+•  Stress
+•  Obesity (being overweight)
+•  High fat diet
+•  Lack of exercise
+
+How Can My Doctor Tell if I Have CAD?
+If your doctor suspects that you have CAD or if you have symptoms of the disease, he or
+she will ask you about your risk factors and your symptoms. A complete physical exam
+and blood tests to identify injury to your heart muscle will also be completed. In addition,
+some of the tests used to make the diagnosis are:
+
+       Electrocardiogram (ECG/EKG) is a commonly used test that records your heart’s
+       electrical activity and can show certain problems such as abnormal heartbeats or
+
+1
+    Menopausal women begin to develop and die of heart disease at a rate equal to men. Menopause is the transition in a woman’s life
+    when production of the hormone estrogen in the body falls permanently to very low levels, the ovaries stop producing eggs, and
+    menstrual periods stop.
+                                                                            PL2100039
+                                                                                Rev. C
+               Patient Guide, EECSS, XIENCE (Alpine), Domestic             Page 7 of 31
+
+
+
+damage to the heart muscle. An ECG can be done at rest or while you are walking or
+running on a treadmill or pedaling a stationary bicycle (Stress ECG). An ECG is
+noninvasive and requires pads to be placed on your chest to measure the heart’s
+electrical activity.
+
+Stress Tests are used to evaluate your heart rate, heart rhythm, and ECG while you
+are exercising. The results of a stress test can help your doctor determine the areas of
+heart muscle that are affected by lack of blood flow due to CAD. The test is performed
+by having the patient exercise on a treadmill or, if he/she is unable to walk, receive
+medication to mimic exercise to “stress” the heart.
+
+Echocardiography is a heart exam using sound waves. It can be performed with a
+probe placed on the chest, or the probe is placed in the food pipe (esophagus) while
+the patient is under anesthesia.
+
+Troponin, CK-MB, CK are enzymes that are released into the bloodstream when
+cardiac muscle cells are injured due to reduced blood flow. Blood tests for these
+enzymes are performed to help determine if a patient is suffering a heart attack.
+                                                                                 PL2100039
+                                                                                     Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic              Page 8 of 31
+
+
+
+   Coronary Angiogram or Heart Catheterization is a procedure carried out in the
+   cardiac catheterization laboratory (cath lab) by a cardiologist. Angiography is a
+   procedure in which coronary arteries are visualized using X-rays. A catheter (long,
+   thin, hollow tube) is inserted into an artery in the groin or arm. The tip of this tube is
+   positioned at the beginning of the arteries supplying blood to the heart. A special fluid
+   called contrast dye is injected through the tube to visualize the blood vessels on
+   X-rays so that pictures called angiograms can be taken. These angiograms allow the
+   doctor to see any blockage and / or narrowings in your coronary arteries and
+   determine their severity and the affected areas of the heart muscle.
+
+Using the information gathered from one or more of these tests, your doctor is better able
+to decide the best treatment plan for you.
+
+
+
+
+                           Cardiac Catheterization Laboratory
+                                                                                PL2100039
+                                                                                    Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic             Page 9 of 31
+
+
+
+
+Your Treatment Options
+Once a diagnosis has been made, your doctor will recommend the most appropriate form
+of treatment, depending on the condition and severity of your CAD.
+
+If the CAD is mild, it can often be managed by a combination of changes in lifestyle
+(eating a healthy diet, low in saturated fat, regular exercise, and quitting smoking) and
+medical treatment. Your treatment may include medications to lower cholesterol, reduce
+blood pressure, and relieve your chest pain by increasing blood flow to your heart.
+
+However, because dietary changes and medicine may not clear the severity of the
+blocked arteries, you may need more treatment, including surgery, angioplasty, and / or
+stenting to treat your symptoms.
+
+Your doctor will explain the risks and benefits of your treatment options and
+answer any questions you or your family may have. You are encouraged to discuss
+your treatment options with your doctor.
+
+Surgery
+Coronary artery bypass graft surgery (CABG surgery) is a common surgical procedure
+that removes a section of artery or vein from another part of your body. This vessel is
+then connected (grafted) to the coronary artery at the blockage site. This creates a new
+path for blood to flow around (bypass) the blocked artery and to your heart. Often, several
+blocked arteries are bypassed during the same operation. Most coronary bypass patients
+remain in the hospital for about a week, followed by a recovery period at home.
+
+Angioplasty
+Angioplasty is a minimally invasive, or nonsurgical, procedure used to open blocked
+arteries. You may also hear it referred to as Percutaneous Transluminal Coronary
+Angioplasty (PTCA). This procedure is performed under local, and at times, monitored
+sedation in a cardiac catheterization laboratory. A catheter with a small balloon mounted
+on the end is passed into the coronary artery after it is inserted through the femoral (leg)
+or radial (wrist) artery. The catheter is then positioned at the narrowed portion of the
+artery and the balloon is inflated. As the balloon inflates, it stretches the wall of the
+coronary artery and compresses the plaque. The balloon is then deflated, and the
+catheter is removed from the artery. In balloon angioplasty, no permanent device remains
+in the artery after the balloon catheter is removed. Balloon angioplasty can be performed
+with a balloon alone or can involve placement of a permanent device called a stent, within
+the coronary artery.
+                                                                                PL2100039
+                                                                                    Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic            Page 10 of 31
+
+
+
+Although balloon angioplasty enlarges the lumen of coronary arteries, some patients may
+develop re-narrowing of the vessel in the months following the procedure. This process is
+called restenosis, and it is caused by the growth of scar tissue within the coronary artery.
+
+Step 1: The doctor guides a catheter with a small balloon through the blood vessel to the
+narrowed section of the artery. By watching the progress of this catheter on the
+fluoroscope (an X-ray device that creates real-time images of the internal structures of the
+body that can be viewed on a TV monitor), the doctor is able to maneuver it into the
+blocked coronary artery.
+
+Step 2: The balloon is inflated, pushing out against the wall of the artery and compressing
+the plaque. The balloon is deflated and the catheter is removed.
+
+Step 3: The inside of the blood vessel is now larger and the blood flow is improved.
+
+Step 1                      Step 2                       Step 3
+                                                                                  PL2100039
+                                                                                      Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic              Page 11 of 31
+
+
+
+Coronary Artery Stents
+Coronary artery stents are devices (small metallic mesh tubes) that are placed over a
+balloon catheter and delivered to the narrowed portion of the coronary artery. The balloon
+is used to expand the stent. The stent presses against the narrowed vessel wall, holding
+the vessel open. This results in a wider artery channel to improve blood flow to the heart
+muscle. This may be followed by repeat balloon inflations within the stent to achieve the
+result desired by your doctor. Once the balloon has been deflated and withdrawn, the
+stent stays in place permanently, holding the coronary artery open. The inner lining of the
+artery grows over the surface of the stent, making the stent a permanent part of your
+artery.
+
+Step 1: The doctor maneuvers the catheter into the blocked artery and inflates the
+balloon.
+
+Step 2: The stent expands against the vessel wall as the balloon is inflated.
+
+Step 3: Once the balloon has been deflated and the catheter is withdrawn, the stent stays
+in place permanently, holding the blood vessel open, and improving blood flow.
+
+Step 1                      Step 2                       Step 3
+
+
+
+
+Coronary artery stents are less invasive than bypass surgery. Stenting involves a shorter
+hospital stay – usually one to three days – and faster recovery than surgery. However,
+restenosis can also occur in some patients who receive stents (in-stent restenosis), due
+to the build-up of scar tissue within the stent, leading to narrowing of the stent lumen.
+                                                                                    PL2100039
+                                                                                        Rev. C
+                  Patient Guide, EECSS, XIENCE (Alpine), Domestic                 Page 12 of 31
+
+
+
+
+Drug-Eluting Stents (DES)
+To help prevent restenosis, “drug-eluting” stents have been developed. These stents are
+coated with a drug and provide the same structural support as uncoated stents. The drug
+is released over time, helping to prevent restenosis by limiting the overgrowth of normal
+tissue within the stent.
+
+
+XIENCE Family of Coronary Stents
+                                                          The illustration shown is an artist’s
+                                                          rendition of one of Abbott’s XIENCE
+                                                          Family of drug-eluting stents.
+
+
+
+
+                              Magnified photo of
+                              actual stent
+
+
+
+
+The XIENCE Family of Coronary Stents is intended for use by or under the direction of a
+physician.
+
+The XIENCE Family of Coronary Stents includes the following: Everolimus Eluting
+Coronary Stent Systems – XIENCE V, XIENCE nano, XIENCE PRIME, XIENCE PRIME LL,
+XIENCE Xpedition SV, XIENCE Xpedition, XIENCE Xpedition LL, and XIENCE Alpine. The
+differences between the various XIENCE systems involve differences in sizes (diameter
+and length) as well as differences in the stent design and delivery system. Going forward
+in this document, the XIENCE V, XIENCE nano, XIENCE PRIME, XIENCE PRIME LL,
+XIENCE Xpedition SV, XIENCE Xpedition, XIENCE Xpedition LL, and XIENCE Alpine
+systems will be referred to as the “XIENCE Family of Coronary Stents” or as “XIENCE
+stents.” The XIENCE Family of Coronary Stents is designed to prevent re-narrowing
+within the stent (in-stent restenosis). These stents consist of a medical grade cobalt
+                                                                                           PL2100039
+                                                                                               Rev. C
+                     Patient Guide, EECSS, XIENCE (Alpine), Domestic                     Page 13 of 31
+
+
+
+chromium stent with a thin coating of a drug called everolimus on its surface. This stent
+provides mechanical support to the artery while everolimus is slowly released into the
+artery wall around the stent from a thin polymer (a type of plastic) coating. The polymer
+coating helps control the release of everolimus into the arterial wall. The polymer used on
+XIENCE stents has a long history of being used in medical products in contact with blood.
+The release of everolimus is intended to limit the overgrowth of tissue within the coronary
+stent. The XIENCE Family of Coronary Stents is available in various diameters and
+lengths (reference Table 1 below).
+
+                             Table 1: XIENCE Family Size Matrix
+                          Available Stent Diameters                   Available Stent Lengths
+
+  XIENCE V                2.5, 2.75, 3.0, 3.5, 4.0 mm                 8, 12, 15, 18, 23, 28 mm
+
+  XIENCE nano             2.25 mm                                     8, 12, 15, 18, 23, 28 mm
+
+  XIENCE PRIME            2.25, 2.5, 2.75, 3.0, 3.5, 4.0 mm           8, 12, 15,18, 23 mm
+
+  XIENCE PRIME LL         2.25*, 2.5, 2.75, 3.0, 3.5, 4.0 mm          28, 33, 38 mm
+
+  XIENCE Xpedition SV     2.25 mm                                     8, 12, 15, 18, 23, 28 mm
+
+  XIENCE Xpedition        2.5, 2.75, 3.0, 3.25, 3.5, 4.0 mm           8, 12, 15, 18, 23, 28 mm
+
+  XIENCE Xpedition LL     2.5, 2.75, 3.0, 3.25, 3.5, 4.0 mm           33 and 38 mm
+
+  XIENCE Alpine           2.25**, 2.5, 2.75, 3.0, 3.25, 3.5, 4.0 mm   8, 12, 15, 18, 23, 28, 33, 38 mm
+
+ * The 2.25 mm stent diameter for XIENCE PRIME LL is only available in the 28 mm stent length.
+ ** The 2.25 mm stent diameter for XIENCE Alpine is not available in the 33 and 38 mm stent lengths.
+
+
+ Contraindications
+•  If you have a known hypersensitivity (allergy) or contraindication to everolimus or
+   structurally-related compounds cobalt, chromium, nickel, tungsten, acrylic, and
+   fluoropolymers
+•  If you cannot take aspirin or blood-thinning medications (also called antiplatelet or
+   anticoagulant therapy)
+•  If your physician decides that the coronary artery blockage will not allow complete
+   inflation of the angioplasty balloon or proper placement of the stent
+                                                                                  PL2100039
+                                                                                      Rev. C
+                    Patient Guide, EECSS, XIENCE (Alpine), Domestic             Page 14 of 31
+
+
+
+
+Potential Adverse Events Associated with the XIENCE Family
+of Coronary Stents
+
+The risk of using the XIENCE Stent is similar to those that are associated with standard
+stent procedures. If the stent clots, you may need another angioplasty procedure. It may
+also lead to a heart attack, the need for urgent bypass surgery, or death. Even with
+successful stent implants, there is a chance of re-narrowing of your coronary artery. This
+may require further treatments, such as repeat angioplasty and / or bypass surgery, to
+reopen the artery and to increase blood flow to the heart. The risks from using balloon
+catheters after stent implants are similar to the risks that may occur during the initial stent
+implant. These may be serious enough to require surgery or cause death.
+
+Other risks from these devices are the same as treatment procedures for a narrowed
+coronary artery. Some problems associated with standard balloon angioplasty and
+stenting include, but are not limited to:
+
+Common Risks
+  • Bruise or bleeding at the catheter insertion site in the groin or arm
+  • Pain at the catheter insertion site
+  • Irregular heartbeats
+  • Chest pains during and after the procedure
+  • Spasm of the coronary artery
+  • Decreased or increased blood pressure
+
+Rare Risks
+   • Tearing, puncture, or rupture of the coronary artery
+   • Air, pieces of devices, or fragments of clots blocking the coronary or peripheral
+      arteries
+   • Complete blockage of the coronary artery, which may require a repeat procedure
+      to reopen the coronary artery
+   • Compression of the heart due to accumulation of blood around the heart
+   • Re-narrowing of the coronary artery
+   • Heart attack
+   • Damage to the stent or injury to the coronary artery, requiring emergency heart
+      surgery
+   • Bleeding, requiring transfusion or surgery
+   • Allergic reaction (may include X-ray dye, cobalt, chromium, nickel, tungsten,
+      everolimus, acrylic, and fluoropolymer)
+                                                                                PL2100039
+                                                                                    Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic            Page 15 of 31
+
+
+
+   •   Infection
+   •   Nerve injury
+   •   Kidneys fail to function normally
+   •   Aneurysm (weakening of a portion of the wall of a blood vessel)
+   •   Shock
+   •   Stroke
+   •   Death
+
+Zortress, the oral formulation of everolimus developed by Novartis Pharmaceuticals
+Corporation, has been evaluated in clinical trials and is approved in the United States for
+the prevention of organ rejection in adult kidney transplant recipients at the dose of
+1.5 mg/day. Outside the U.S., Zortress is sold under the brand name Certican in more
+than 70 countries. Everolimus is also approved in the United States under the name of
+Afinitor for patients with advanced renal cell carcinoma (cancer) at doses of 5 to 20 mg/day
+when taken by mouth. The amount of drug in your blood from the XIENCE V stent is
+several-fold lower than that obtained with oral doses (1.5 mg to 20 mg/day). Potential
+adverse events related to taking everolimus daily by mouth (based on long-term
+everolimus drug studies in organ transplant patients and in patients with advanced renal
+cell carcinoma) may include:
+    • Abdominal pain
+    • Abnormal collection of a clear fluid containing white blood cells
+    • Acne
+    • Blood clot in the vein
+    • Constipation
+    • Cough
+    • Decreased functioning of sexual organs in men
+    • Decreased platelet cell count
+    • Decreased red or white blood cells
+    • Decreased sense of taste
+    • Destruction of red blood cells
+    • Destruction of the kidney tubules
+    • Diarrhea
+    • Dry or itchy skin
+    • Fatigue
+    • Fever
+    • Headache
+    • Higher levels of potassium and lower levels of magnesium and phosphorus in the
+        blood
+                                                                               PL2100039
+                                                                                   Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic           Page 16 of 31
+
+
+
+   •   Increased blood cholesterol
+   •   Increased blood pressure
+   •   Increased blood sugar
+   •   Increased fat and triglyceride fats in the blood
+   •   Infection of the lungs
+   •   Infections
+   •   Inflammation of the lining of the digestive system
+   •   Insomnia
+   •   Kidney function test abnormality
+   •   Lack or loss of strength
+   •   Liver function test abnormality
+   •   Loss of appetite
+   •   Loss of blood supply to the bone
+   •   Mouth ulcers or sores
+   •   Muscle pain
+   •   Nausea
+   •   Nose bleeds
+   •   Pain in the arms and legs
+   •   Painful urination
+   •   Presence of red blood cells in the urine
+   •   Rash
+   •   Shortness of breath and lung or breathing problems
+   •   Surgical wound complication
+   •   Tremor
+   •   Vomiting
+   •   Water retention in the body
+
+Exposure to drug and polymer on the XIENCE Family of Coronary Stents is directly
+related to the number and lengths of the stents implanted. The use of multiple XIENCE
+stents will result in you receiving larger amounts of drug and polymer. It should be noted
+that a kidney transplant patient usually receives a daily dose of the drug everolimus by
+mouth that is about seven times more than the maximum dose of the drug contained on
+one XIENCE stent.
+                                                                                PL2100039
+                                                                                    Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic            Page 17 of 31
+
+
+
+Everolimus, when given by mouth daily to organ transplant patients, may interact with
+other drugs or substances. Please tell your physician about any medications you are
+taking.
+
+
+The SPIRIT Family of Clinical Trials
+
+There have been five clinical trials that together shown the safety and effectiveness of the
+XIENCE Family of Coronary Stents in patients with coronary artery disease. A short
+description of some of these trials is detailed below:
+
+SPIRIT FIRST
+SPIRIT FIRST was the first clinical trial. This study had 60 patients and was performed
+outside the United States. The purpose of the study was to compare the XIENCE V stent
+that is coated with a drug to that of an approved metallic stent that is not coated with a
+drug. There were 28 patients who received the XIENCE V stent and 32 patients who
+received the metallic stent (patients who received the metallic stent are also known as the
+“control” group).
+
+After six months, the XIENCE V stent was significantly better than the metallic stent at
+reducing the re-narrowing of the artery where the stent was placed. After five years,
+patients who had received the XIENCE V stent had fewer major adverse cardiac events
+(16.7%) compared to patients who received the metallic stent (28.0%). (Major adverse
+cardiac events included death due to cardiac causes, heart attack, or the need for
+coronary artery bypass surgery or repeat angioplasty at the site of the lesion.)
+
+SPIRIT II
+The SPIRIT II clinical trial was the second study of the XIENCE V stent. The purpose of
+the study was to compare the XIENCE V stent to an approved drug-eluting stent, called
+TAXUS Express stent or TAXUS Liberté stent (TAXUS stent). The SPIRIT II study was
+conducted outside of the United States.
+
+After six months, the XIENCE V stent was significantly better than the TAXUS stent at
+reducing the re-narrowing of the artery where the stent was placed. At five years, patients
+who had received the XIENCE V stent had a rate of major adverse cardiac events of
+8.9% compared to a rate of 20.3% for those patients receiving the TAXUS stent.
+
+SPIRIT III
+SPIRIT III was the third clinical study of the XIENCE V stent. This was a much bigger
+study than either the SPIRIT FIRST or SPIRIT II studies, and was conducted in the United
+                                                                                PL2100039
+                                                                                    Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic            Page 18 of 31
+
+
+
+States. In one part of this study, 1002 patients were given either the XIENCE V stent or
+the TAXUS stent. There were 669 patients who received the XIENCE V stent and 333
+patients who received the TAXUS Express stent (TAXUS stent).
+
+After eight months, the XIENCE V stent was significantly better than the TAXUS stent at
+reducing the re-narrowing of the artery where the stent was placed. At five years, patients
+who had received the XIENCE V stent had a rate of major adverse cardiac events of
+14.4% compared to a rate of 22.0% for those patients receiving the TAXUS stent.
+
+SPIRIT IV
+SPIRIT IV was the fourth clinical study of the XIENCE V stent. This is the largest study of
+the four randomized SPIRIT clinical trials and was conducted in the United States.
+A total of 3,687 patients were given either the XIENCE V stent or the TAXUS Express
+stent (TAXUS stent). There were 2,458 patients who received the XIENCE V stent and
+1,229 patients who received the TAXUS stent.
+
+After one year, the XIENCE V stent was significantly better than the TAXUS stent at
+reducing the need for bypass surgery or repeat angioplasty at the site of the lesion where
+the stent was placed. The occurrence of target lesion failure (which is comprised of
+cardiac death, heart attacks, bypass surgery or repeat angioplasty at the site of the
+treated lesion) was significantly lower in patients treated with XIENCE V stents (9.5%)
+compared to TAXUS stents (11.9%) at three years.
+
+SPIRIT Small Vessel
+The SPIRIT Small Vessel clinical study was conducted in the United States to evaluate
+the performance of the 2.25 mm diameter XIENCE stent (XIENCE nano) in small
+coronary arteries. There were 144 patients who received the XIENCE nano stent.
+
+After three years, the rate of target lesion failure (which is comprised of cardiac death,
+heart attacks, bypass surgery, or repeat angioplasty at the site of the lesion, was 12.1%
+with the XIENCE nano stent.
+                                                                                PL2100039
+                                                                                    Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic            Page 19 of 31
+
+
+
+SPIRIT PRIME
+The SPIRIT PRIME clinical study was conducted globally to evaluate the performance of
+the XIENCE PRIME family of stent systems. There were 415 patients enrolled in the Core
+Size Registry (stent diameters 2.25, 2.5, 3.0, 3.5, 4.0 mm with stent lengths 8, 18, and
+28 mm) and 110 patients enrolled in the Long Lesion Registry (stent diameters 2.5, 3.0,
+3.5, 4.0 mm, with stent lengths 33 and 38 mm) at up to 75 global sites.
+
+After three years, the rate of target lesion failure (which is comprised of cardiac death,
+heart attacks, bypass surgery, or repeat angioplasty at the site of the treated lesion) was
+8.5% in the Core Size Registry patients and 9.6% in the Long Lesion Registry patients.
+
+For patients treated with the XIENCE Family of Coronary Stents in ways not studied in
+these clinical trials, clinical results may vary.
+
+
+Other Key Clinical Trials and Studies
+
+XIENCE V USA
+After the XIENCE V stent was approved for use in the United States, the XIENCE V USA
+clinical study was conducted to evaluate the continued safety and effectiveness of the
+XIENCE V stent in a wide range of patients. A total of 8,040 patients were enrolled from
+191 sites in the United States.
+
+At four years, 1.56% of patients experienced a stent-associated blood clot. In addition, the
+occurrence of cardiac deaths or heart attacks was 14.9% at four years with the XIENCE V
+stent.
+
+DIABETES MELLITUS STUDY
+The safety and effectiveness of treatment with XIENCE stents in patients with diabetes
+was evaluated using one-year data from diabetic patients enrolled in selected Abbott
+Vascular studies (SPIRIT IV, SPIRIT PRIME and XIENCE V USA) plus data from diabetic
+patients followed in hospital registry studies maintained at the Cleveland Clinic and Wake
+Forest University . A total of 1239 diabetic patients treated with at least one XIENCE stent
+were evaluated (949 from Abbott Vascular trials and 290 from the hospital databases).
+The rate of target vessel failure (which is comprised of cardiac death, target-vessel
+myocardial infarction or ischemia driven target vessel revascularization) was 8.0%.
+
+
+
+
+EXPERT CTO
+                                                                                 PL2100039
+                                                                                     Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic             Page 20 of 31
+
+
+
+The EXPERT CTO clinical study was designed to evaluate the safety and performance of
+the XIENCE stent systems in completely blocked coronary arteries. There were 250
+patients enrolled in the study at 20 sites across the United States. At one year, the rate of
+major adverse cardiac events (which is comprised of death, heart attacks, bypass
+surgery, or repeat angioplasty at the site of the lesion) was 18.5% in patients treated with
+the XIENCE stent.
+                                                                                 PL2100039
+                                                                                     Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic             Page 21 of 31
+
+
+
+
+Your Drug-Eluting Stent Procedure
+
+How Do I Prepare for My Procedure?
+In the days prior to your treatment, make sure you:
+•    Take all of your prescribed medicines
+•    Tell your doctor if you are taking any other medication
+•    Tell your doctor if, for any reason, you cannot take aspirin and / or thienopyridine
+     medications such as Plavix or Effient
+•    Make sure your doctor knows about any allergies you have
+•    Refrain from eating and drinking after midnight on the night before your treatment
+•    Follow all instructions given to you by your doctor or nurse
+
+You may be given a mild sedative to help you relax, but you will not be put to sleep. There
+are two reasons for this. Firstly, most people find they experience little to no discomfort
+from the procedure. Secondly, your doctor may need to ask you to take a deep breath
+while X-rays are being taken, to improve the quality of the pictures.
+
+The procedure usually lasts about 90 minutes, during which time your doctor will ask you
+to remain very still. For the most part, you will be comfortable, but you may feel some
+pressure or chest pain when the balloon is inflated. This is normal and will quickly fade
+when the balloon is deflated.
+
+Your Drug-Eluting Stent Placement Procedure
+
+Your procedure will be performed in a cardiac catheterization laboratory (cath lab). You
+will lie on the X-ray table, and an X-ray camera will move over your chest during the
+procedure. The staff will monitor your heart by attaching several small sticky patches to
+your chest and using a specialized ECG recorder and monitor.
+
+The groin is the most common site for catheter introduction and requires a very small skin
+incision to be made on the inside of your upper thigh. The area will be shaved and
+cleaned with an antiseptic, and you will be given a local anesthetic to numb the area. This
+incision will allow an introducer sheath (short tube) to be inserted into your femoral artery
+(the main artery of the thigh, supplying blood to the leg). Your doctor will then insert a
+guiding catheter (long, flexible tube) into the introducer sheath and advance it to where
+the coronary arteries branch off to the heart. A guide wire is then advanced through the
+guiding catheter to the narrowing in the coronary artery. This helps carry all the necessary
+devices required during the stenting procedure.
+                                                                                 PL2100039
+                                                                                     Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic             Page 22 of 31
+
+
+
+Additional options for catheter introduction are the arm / brachial approach (incision is
+made on the inside of your elbow) and the wrist / radial approach (incision is made on the
+inside of your wrist).
+
+
+
+
+                                                             June, 2012. Used with permission
+                                                             of Elsevier. All rights reserved.
+
+
+
+
+         Blood vessel access for heart catheterization through the femoral,
+                             radial or brachial artery
+
+After the catheters are inserted, your doctor will inject a contrast dye through the guiding
+catheter into your artery to view the narrowing. Your doctor will watch the injection on an
+X-ray monitor, much like a TV screen. While these X-rays are being taken, your doctor
+may ask you to take a deep breath and hold it for a few seconds. You may also be asked
+to cough after the X-ray picture is completed, to help speed the removal of the contrast
+dye from the arteries.
+
+Using the guiding catheter, a balloon catheter is positioned in the narrowing in the
+coronary artery and the balloon is then inflated. This compresses the plaque and widens
+the coronary artery. This procedure is called pre-dilatation.
+                                                                                 PL2100039
+                                                                                     Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic             Page 23 of 31
+
+
+
+Step 1: The stent mounted on a balloon catheter is delivered to the narrowing in the
+coronary artery by a delivery catheter.
+
+Step 2: The balloon is then inflated and this expands the stent, pressing it against the
+coronary artery wall. Your doctor may choose to expand the stent further, by using
+another balloon so that the stent can make better contact with the artery wall. This is
+known as post-dilatation.
+
+Step 3: Once in place, the XIENCE stent will remain as a permanent implant in your
+coronary artery.
+
+Step 1                       Step 2                        Step 3
+
+
+
+
+Immediately after Procedure
+You will be asked to lie flat for four to six hours following the procedure and to not bend
+your leg or arm, depending on which area your doctor used to insert the catheters.
+Pressure will also be placed on the area.
+
+A vascular closure device may be used to seal the incision site in your groin or arm. You
+will be allowed to get up and walk around sooner if this type of device is used. Your
+hospital stay may range from one to three days.
+
+Medications will be prescribed for you before and after stent placement. Antiplatelet
+medications such as aspirin and other blood thinning medications (such as Plavix, Effient,
+or Brilinta) are the most commonly prescribed. They help prevent a blood clot (thrombus)
+from forming and blocking the stent lumen. Your doctor or nurse will give you instructions
+about your medications before you leave the hospital.
+                                                                                   PL2100039
+                                                                                       Rev. C
+                    Patient Guide, EECSS, XIENCE (Alpine), Domestic              Page 24 of 31
+
+
+
+CAUTION: If you have any chest pain, or discomfort or bleeding from your incision
+site, call your doctor immediately. If your doctor is unavailable, call for an
+ambulance to take you to the nearest hospital emergency room.
+
+Take All Medications as Instructed
+After you leave the hospital, your cardiologist will instruct you to take a daily dose of
+aspirin and another antiplatelet drug such as Plavix, Effient, or Brilinta. Your doctor will tell
+you how long you should continue taking the antiplatelet drugs. It is very important that
+you take these medications exactly as your doctor instructs you:
+     • Follow your medication schedule exactly to avoid possible complications after you
+        receive your stent. Do not miss any doses.
+     • Call your doctor if you cannot keep taking your medications because of side
+        effects such as rash, bleeding, or upset stomach.
+     • CAUTION: Do not stop taking your prescribed medications unless you are
+        instructed to do so by the doctor who performed your stent procedure.
+     • CAUTION: Notify your cardiologist or family doctor if you are scheduled to
+        see the dentist while on antiplatelet medication. Your doctor may prescribe
+        antibiotics to avoid the potential of an infection. You should review with
+        your doctor any recommendations from your dentist to stop your
+        prescribed medications.
+     • CAUTION: Before undergoing implantation of a drug-eluting stent, if you plan
+        to have any type of surgery that may require you to stop taking antiplatelet
+        medications, you and your cardiologist should discuss whether or not
+        placement of a drug-eluting stent is the right treatment choice for you.
+
+If surgery or dental work that would require you to stop taking antiplatelet medications is
+recommended after you have received the stent, you and your doctors should carefully
+consider the risks and benefits of this surgery or dental work versus the possible risks
+from early discontinuation of these medications.
+
+If you do require discontinuation of antiplatelet medications because of significant
+bleeding, your cardiologist will carefully monitor you for possible complications. Once your
+condition has stabilized, your cardiologist may put you back on these medications.
+
+Follow-up Care
+You will be discharged to the care of your cardiologist or family doctor. You should be
+able to return to your normal activities soon.
+                                                                                     PL2100039
+                                                                                         Rev. C
+                    Patient Guide, EECSS, XIENCE (Alpine), Domestic                Page 25 of 31
+
+
+
+CAUTION: Notify your doctor immediately if you experience chest pain (angina), or
+notice any changes such as more severe or frequent chest discomfort, especially
+in the first month after a procedure. These symptoms may indicate a re-narrowing
+in your coronary arteries.
+
+Your doctor will ask you to return for follow-up visits. The first visit is usually two to four
+weeks after your stent is implanted, with follow-up visits every six months for the first
+year. Be sure to keep all appointments for follow-up care, including blood tests.
+
+Keep Your ID Card Handy
+
+CAUTION: Show your identification card if you report to an emergency room. This
+card identifies you as a patient who has had a stent implanted.
+
+If you require a magnetic resonance imaging (MRI) scan, tell your doctor or MRI
+technician that you have a stent implant. Test results indicate that XIENCE stents are MR
+conditional. Patients with single or overlapped XIENCE stents can undergo MRI scans
+safely under the following conditions:
+               • Static magnetic field of 1.5 or 3 Tesla
+               • Spatial gradient field of 2500 Gauss/cm or less
+               • Maximum whole-body-averaged specific absorption rate (SAR) of
+                  2.0 W/kg (normal operating mode) for 15 minutes of scanning for each
+                  sequence.
+
+The stent(s) should not migrate in this MRI environment, and MRI may be performed
+immediately following the implantation of the XIENCE stent(s). Prior to undergoing an
+MRI scan, inform your doctor that you have a XIENCE stent.
+
+
+Preventing CAD
+Coronary artery disease can be treated effectively, but it has no cure. You can help to
+prevent your coronary artery disease from progressing by carefully following your doctor’s
+advice. Your doctor may prescribe medications to help control your blood pressure,
+diabetes, and / or high cholesterol. Your doctor may also recommend some lifestyle
+changes. Among the healthy choices you can make:
+                                                                                PL2100039
+                                                                                    Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic            Page 26 of 31
+
+
+
+Stop smoking. If you smoke, quitting is the single most important thing you can do to
+lower your risk of coronary artery disease. Chemicals in cigarette smoke may make it
+easier for plaque to build up on your artery walls. And smoking increases your heart rate
+and blood pressure, raising your risk of heart attack and stroke. If you are ready to quit,
+ask your doctor for advice – he or she can recommend smoking cessation aids to help
+you quit.
+
+Increase your activity and eat a healthy diet. A sedentary lifestyle increases your risk.
+Your doctor can recommend an activity program tailored for your situation. Regular
+exercise can help you lower your blood pressure and blood cholesterol and reach a
+healthy weight. It can also help you manage the daily stresses of modern life more easily.
+Choose a healthy diet. A diet low in saturated fats and cholesterol, and rich in lean
+protein, fresh fruits, vegetables, and whole grains, can help you achieve a healthy weight,
+as well as help you control your blood pressure, and cholesterol levels.
+
+Manage your stress. Stress is an inescapable aspect of modern day living, but you can
+help lessen its negative health effects by practicing the “relaxation response.” Research
+has shown that relaxation techniques can improve your ability to cope with stressful
+events while decreasing your heart rate, blood pressure, and stress hormone levels.
+
+Control you blood pressure and cholesterol. Discuss with your doctor the ways you
+can control you blood pressure and cholesterol to reduce your risk of cardiac problems.
+
+Manage your diabetes. If you have diabetes, keep your sugar and glucose levels within
+target levels to help reduce the risk of coronary artery disease.
+
+Manage your medications. Continue to take your medication as prescribed, whether for
+high blood pressure, elevated cholesterol levels and/or anti-platelet management post
+procedure.
+
+
+Frequently Asked Questions
+How long will the stent stay in my body?
+Stents are designed to stay in your body permanently.
+
+What are the restrictions or cautions after I’ve received a stent?
+If you require magnetic resonance imaging (MRI), tell your doctor or MRI technician that
+you have an implanted stent.
+                                                                                 PL2100039
+                                                                                     Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic             Page 27 of 31
+
+
+
+When can I resume my regular activities?
+Your doctor will advise you. Many patients can return to work and follow their normal
+routine about a week after their stent procedure. Please confirm with your physician.
+
+Will my stent set off the metal detector at airport security checkpoints?
+No, your stent implant will not trigger alarms at security checkpoints.
+
+Will I be able to feel the stent inside me?
+No, you will not be able to feel the stent once it has been implanted in your artery.
+
+Could I have recurring symptoms?
+Yes, it is possible that you will experience symptoms again, either due to a new blockage
+in the region treated with the stent or due to a blockage at another place in your coronary
+arteries. Your doctor will monitor your progress. If you experience chest pain symptoms
+similar to those you had when you presented with angina or heart attack, please notify
+your physician.
+
+How can I help prevent a recurrence of symptoms?
+While there is no sure way to prevent a recurrence of symptoms, you can reduce your risk
+through exercise, not smoking, controlling your blood pressure and cholesterol, taking
+prescribed medications, and eating a healthy diet. Your doctor can advise you about
+lifestyle changes.
+
+
+Definition of Medical Terms
+
+Angina: Chest pain caused by inadequate supply of blood to the heart.
+
+Angioplasty (also referred to as PTCA): A minimally invasive procedure in which a
+balloon dilatation catheter is passed through to the blocked area of an artery. Once
+inflated the catheter compresses the plaque against the blood vessel wall and enlarges
+the vessel opening. An angioplasty can also be performed with placement of a stent.
+
+Anticoagulant: A medication to prevent or slow the clotting of blood by thinning the
+blood.
+
+Antiplatelet: A substance to reduce clumping of platelets in the blood.
+An antiplatelet medicine helps thin the blood to prevent clot formation.
+                                                                              PL2100039
+                                                                                  Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic          Page 28 of 31
+
+
+
+Atherosclerosis: A disease that causes narrowing or blockage of arteries caused by a
+build-up of fat (cholesterol) and scar tissue within the artery wall. The build-up is
+sometimes referred to as “plaque.”
+
+Brachial artery: The site at the arm for insertion of the catheter to perform angiogram
+and/or angioplasty.
+
+Cardiac Catheterization Laboratory (Cath Lab): A sterile X-ray theater in which heart
+catheterization is performed.
+
+Catheter: A thin, hollow, flexible tube used to access the coronary arteries during an
+angiogram or during an angioplasty procedure. This catheter can be used to inject
+medication, fluids, or contrast dye during your procedure. Catheter is also used to
+describe the device used to deliver the balloon or stent during an angioplasty procedure.
+                                                                                PL2100039
+                                                                                    Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic            Page 29 of 31
+
+
+
+Coronary Angiography (or Heart Catheterization or Cardiac Cath): A test in which
+contrast dye is injected to create images of the coronary arteries and the chamber of the
+heart. This allows the doctor to see the extent of the disease in the coronary arteries and
+make a decision on how to best treat the blockages.
+
+Coronary Arteries: The blood vessels that carry oxygenated blood from the aorta to the
+heart muscle. There are four major coronary arteries: the left main, the right coronary
+artery, the left anterior descending, and the circumflex.
+
+Coronary Artery Bypass Graft (CABG) Surgery: Open-heart surgery to treat CAD.
+
+Coronary Artery Disease (CAD): The formation of blockages or atherosclerotic plaques
+within coronary arteries that result in restricted blood flow to the heart muscle.
+
+Electrocardiogram (ECG / EKG): A test that records changes in the electrical activity of
+the heart. An ECG / EKG may show whether parts of the heart muscle are damaged due
+to decreased blood flow to the heart muscle.
+
+Femoral Artery: The main artery of the thigh, supplying blood to the leg. Often used as
+an access site to perform coronary angioplasty.
+
+Fluoroscope: An X-ray device that creates an image of the body that can be viewed on a
+TV monitor. This permits the doctor to obtain real-time images of the internal structures of
+a patient.
+
+In-stent Restenosis: Recurrent blockage or narrowing of a previously stented vessel.
+
+Local Anesthetic: A substance used to numb the area to which it is applied.
+
+Lumen: The inner channel or cavity of a vessel or tube. In a blood vessel, it is the
+opening through which blood flows.
+
+Myocardial Infarction (MI): Also called a heart attack. Permanent damage of an area of
+the heart tissue, due to interruption in the blood flow to the heart muscle (myocardium).
+
+Magnetic Resonance Imaging (MRI): A non-invasive diagnostic procedure used to
+obtain images of internal body structures through the use of magnets and radio waves.
+
+Percutaneous: Performed through the skin without requiring a deep incision.
+                                                                               PL2100039
+                                                                                   Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic           Page 30 of 31
+
+
+
+
+Plaque: An accumulation or build-up of fatty deposits, calcium, inflammatory cells, and
+scar tissue in the artery wall that results in narrowing of the vessel lumen.
+
+Restenosis: A recurring blockage caused by the excessive growth of scar tissue inside
+the artery or stent, following an interventional procedure such as angioplasty.
+
+Stent: A metallic mesh tube that is implanted into an artery during an angioplasty,
+providing a scaffold to help hold the artery open, ensuring blood flow to the heart muscle.
+
+Transluminal: Through the inside opening of a vessel or artery.
+                                                                       PL2100039
+                                                                           Rev. C
+                   Patient Guide, EECSS, XIENCE (Alpine), Domestic   Page 31 of 31
+
+
+
+BACK COVER
+
+
+
+
+  www.abbottvascular.com
+
+
+
+
+           (9/23/15)
+
