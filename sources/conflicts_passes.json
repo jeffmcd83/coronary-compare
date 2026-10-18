@@ -210,5 +210,15 @@
   "existing": "K213593",
   "existing_source": "FDA 510(k) K213593 \"OptiCross HD\"; https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213593.pdf",
   "resolution": "Jeff-approved override"
+ },
+ {
+  "pass": "pass34-override",
+  "model": "Resolute Onyx",
+  "field": "rbp_atm",
+  "value": "18 atm (2.0\u20134.0 mm); 16 atm (4.5\u20135.0 mm RX)",
+  "source": "Medtronic Resolute Onyx US IFU M055193T001 Rev AF (2024-07-24) Table 1 p.5 (\"Rated burst pressure: 2.0-4.0 mm = 18 ATM, RX only: 4.5-5.0 mm = 16 ATM\"); https://www.medtronic.com/content/dam/emanuals/cardio/M055193T001DOC1-AF_view.pdf | FDA SSED P160043/S058 Table 1 p.4 (\"RBP (2.0 - 4.0 mm): 18 atm; (4.5-5.0 mm): 16 atm\"); https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043S058B.pdf",
+  "existing": "18 atm (2.25\u20134.0 mm); 16 atm (4.5\u20135.0 mm RX)",
+  "existing_source": "FDA SSED P160043 \u2014 P160043 p.3; https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043B.pdf",
+  "resolution": "Jeff-approved override"
  }
 ]

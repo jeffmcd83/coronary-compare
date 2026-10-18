@@ -55,3 +55,8 @@ Corsair Pro fda_submission = "K161126, K171933". K171933 (SE 2018-02-12, DQX) ad
 - ELCA SKUs pruned to the 4 catalogs GUDID shows In Commercial Distribution (110-004, 114-009, 117-016, 120-009; 8 DIs). Per-size values re-aligned to those catalogs.
 - OptiCross HD fda_submission = K213593, K230453 (2023-05-18), K260816 (2026-04-08).
 - Approved overrides now live in sources/passNN/override.csv (all applied by build_master.py, old values logged as passNN-override in conflicts_passes.json).
+
+## 2026-10-18 — Jeff decisions (pass 34)
+- Dragonfly OpStar: keep the values taken from SpectraWAVE 510(k) K221257's predicate comparison table. Rule: a competitor 510(k) predicate table is an acceptable source when it names the exact model and labels each figure (cite K-number, table, page).
+- Resolute Onyx rbp_atm = 18 atm (2.0–4.0 mm); 16 atm (4.5–5.0 mm RX) per US IFU M055193T001 Rev AF Table 1 p.5 and SSED P160043/S058 Table 1 p.4 (IFU/FDA supersede the 2017 SSED range 2.25–4.0 mm; old value in conflicts_passes.json via sources/pass34/override.csv).
+- AngioSculpt RX / Evo RX naming: still pending with Jeff — unchanged.

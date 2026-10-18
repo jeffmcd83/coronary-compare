@@ -1,0 +1,2 @@
+model,field,value,source
+Resolute Onyx,rbp_atm,18 atm (2.0–4.0 mm); 16 atm (4.5–5.0 mm RX),"Medtronic Resolute Onyx US IFU M055193T001 Rev AF (2024-07-24) Table 1 p.5 (""Rated burst pressure: 2.0-4.0 mm = 18 ATM, RX only: 4.5-5.0 mm = 16 ATM""); https://www.medtronic.com/content/dam/emanuals/cardio/M055193T001DOC1-AF_view.pdf | FDA SSED P160043/S058 Table 1 p.4 (""RBP (2.0 - 4.0 mm): 18 atm; (4.5-5.0 mm): 16 atm""); https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043S058B.pdf"
