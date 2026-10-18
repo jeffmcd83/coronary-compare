@@ -1,0 +1,350 @@
+92590768-01                                                                                                                                                 08-2020
+                                                                                                      NC Quantum Apex™
+                                                                                                      MONORAILTM
+                                                                                                      OVER-THE-WIRE
+                                                                                                      PTCA Dilatation Catheter
+                                                                                                      Bóng nong động mạch vành
+
+                                                                                                      Thiết bị kê đơn Rx
+                                                                                                      Lưu ý: Luật liên bang (Mỹ) hạn chế thiết bị này chỉ được bán theo
+                                                                                                      chỉ định hay yêu cầu của bác sỹ
+
+
+              NC Quantum Apex™
+                                                                                                      CẢNH BÁO
+                                                                                                      Thiết bị được xử lý tiệt trùng bằng ethylene oxide (EO). Không sử
+                                                                                                      dụng thiết bị nếu vỏ bao tiệt trùng không còn nguyên vẹn. Nếu phát
+               MONORAILTM                                                                             hiện bất kỳ sự không nguyên vẹn nào, xin hãy báo cho đại diện sở
+                                                                                                      tại của Boston Scientific.
+               OVER-THE-WIRE                                                                          Thiết bị chỉ sử dụng một lần. Không được tái sử dụng, tái chế hay
+                                                                                                      tiệt trùng lại. Việc tái sử dụng, tái chế hay tiệt trùng lại có thể làm
+              PTCA Dilatation Catheter                                                                mất cấu trúc toàn vẹn của thiết bị, và/hoặc dẫn đến làm hỏng thiết
+              Bóng nong động mạch vành                                                                bị, và do đó có thể gây hậu quả làm bệnh nhân bị thương tích, bệnh
+                                                                                                      tật hoặc tử vong. Tái sử dụng, tái chế hay tiệt trùng lại cũng có thể
+                                                                                                      gây nguy cơ phơi nhiễm đối với thiết bị và/hoặc truyền nhiễm hoặc
+                                                                                                      gây nhiễm chéo cho bệnh nhân, bao gồm, nhưng không giới hạn,
+MỤC LỤC                                                                                               việc truyền các bệnh lây nhiễm từ bệnh nhân này sang bệnh nhân
+                                                                                                      khác. Việc phơi nhiễm của thiết bị có thể gây thương tích, bệnh tật
+Cảnh báo ........................................................................................ 1   hoặc tử vong đối với bệnh nhân
+                                                                                                      Sau khi sử dụng, hãy loại bỏ sản phẩm và bao bì theo đúng quy
+Mô tả thiết bị .................................................................................. 1
+                                                                                                      định của bệnh viện, cơ quan quản lý và/hoặc chính quyền sở tại
+Chỉ định / Mục đích sử dụng......................................................... 2
+                                                                                                      MÔ TẢ THIẾT BỊ
+Chống chỉ định .............................................................................. 2       Bóng nong động mạch vành PTCA NC Quantum Apex Over-The-
+Thận trọng ..................................................................................... 2    Wire và NC Quantum Apex Monorail của Boston Scientific. Tên
+                                                                                                      chung của thiết bị này là Bóng nong động mạch vành PTCA NC
+Phản ứng bất lợi ............................................................................ 2       Quantum Apex™ Over-The-Wire/Trao đổi nhanh.
+                                                                                                      Bóng nong động mạch vành PTCA NC Quantum Apex Over-The-
+Quy cách cung cấp/ Bảo quản...................................................... 3
+                                                                                                      Wire và NC Quantum Apex Monorail của hãng Boston Scientific, lần
+Hướng dẫn sử dụng...................................................................... 3             lượt, là các bóng nong động mạch vành qua dây Over-The-Wire
+                                                                                                      (OTW) và trao đổi nhanh với bóng giãn nở chậm ở gần đầu xa.
+Bảo hành ........................................................................................ 5   Phần đầu xa của cả hai loại bóng nong (và đầu gần của bóng nong
+                                                                                                      loại OTW) là lumen kép và đồng trục. Lumen ngoài được dùng để
+                                                                                                      bơm bóng, lumen trong cho phép sử dụng dây dẫn [0,014 in (≤0,36
+                                                                                                      mm)] để dễ dàng đẩy ống thông tới và xuyên qua vị trí mạch hẹp
+                                                                                                      hoặc giá đỡ cần điều trị. Đầu gần của bóng nong trao đổi nhanh là
+                                                                                                      một ống hypotube lumen đơn, bằng thép không gỉ với cổng luer đơn
+                                                                                                      để bơm/ làm xẹp bóng. Bóng nong OTW có một cổng luer đôi; một
+                                                                                                      dùng để bơm/ làm xẹp bóng, một để luồn dây dẫn. Bóng được thiết
+                                                                                                      kế để tạo ra một đoạn giãn nở với đường kính và chiều dài đã biết ở
+                                                                                                      áp suất khuyến cáo. Lớp phủ bảo vệ bóng được trên bóng để duy trì
+                                                                                                      trạng thái tiết diện nhỏ của bóng và một dây lõi được trong lòng
+                                                                                                      lumen để bảo vệ sự thông suốt của ống thông. Đầu của ống thông
+                                                                                                      được vát nhọn để dễ dàng đưa ống thông tới và xuyên qua vị trí
+                                                                                                      mạch hẹp hoặc giá đỡ. Các lớp phủ Hydrophilic (Bioslide™) và
+                                                                                                      Hydrophobic (Xtra™) được phủ như nêu trong Bảng 1.
+                                                                                                       Bảng 1. Chất phủ ống thông NC Quantum Apex
+                                                                           Chỉ sử dụng môi trường bơm bóng theo khuyến cáo. Không dùng
+    Cấu    Chất phủ ưa nước                                                khí hoặc bất kỳ chất tạo khí nào để bơm bóng.
+                                          Chất phủ kỵ nước (Xtra)
+    hình   (Bioslide)                                                      Đặt và rút ống thông
+                                                                           Thao tác dưới sự quan sát hình ảnh huỳnh quang độ phân giải cao
+           Phần xa của trục ống thông                                      khi ống thông bóng vào đến hệ mạch. Không đưa hoặc rút ống
+                                          Đầu xa đến đầu gần của           thông trừ khi bóng đã xẹp hoàn toàn bằng hút chân không. Nếu gặp
+     A     cho cả loại trao đổi nhanh
+                                          bóng                             lực cản khi thao tác, phải xác định nguyên nhân của kháng lực
+           và OTW
+                                                                           trước khi tiếp tục.
+                                                                           Không vượt quá áp suất vỡ bóng. Áp suất vỡ bóng dựa trên kết quả
+           Phần xa của trục ống                                            thử nghiệm in vitro. Ít nhất 99.9% số bóng nong (độ tin cậy 95%)
+           thông, bóng và đầu ống         Đầu xa đến đầu gần của           không vỡ ở hoặc dưới mức áp suất vỡ bóng của nó.
+     B
+           thông của cả hai loại thay     bóng
+           đổi nhanh và OTW                                                Khuyến cáo sử dụng thiết bị theo dõi áp suất để tránh vượt quá áp
+                                                                           suất cho phép.
+                                                                           Nếu gặp khó khăn trong quá trình bơm bóng, không tiếp tục; thu hồi
+Chiều dài hoạt động của ống thông OTW là 142 cm và của ống                 ống thông.
+thông trao đổi nhanh là 143 cm. Các điểm dấu trên đầu gần của trục
+                                                                           Trước khi rút ống thông bóng, xác nhận bóng đã xẹp hoàn toàn
+ống thông cho biết điểm ra của đầu ống thông bóng nong khỏi ống
+                                                                           bằng mắt qua hình ảnh soi huỳnh quang.
+thông dẫn đường (một ở 90cm và hai ở 100cm). Dải dấu cản quang
+cùng với thiết bị soi chụp huỳnh quang hỗ trợ cho việc đặt ống thông       Các phương pháp rút ống thông bóng (dùng thêm dây, móc và/hoặc
+bóng. Một kẹp Hypotube CLIPIT™ được cung cấp kèm theo bóng                 kẹp) có thể gây chấn thương vùng mạch đích. Các tổn thương có
+nong động mạch vành NC Quantum Apex Monorail để giúp điều                  thể gồm nhưng không giới hạn là các hiện tượng chảy máu, tụ máu,
+khiển ống thông.                                                           hoặc giả phình động mạch.
+Thành phần
+Số lượng     Dụng cụ                                                       THẬN TRỌNG
+1            Bóng nong động mạch vành PTCA NC Quantum Apex                 Thận trọng chung
+             (Monorail hoặc Over-The-Wire)                                 Sự tương thích của thiết bị chưa được đánh giá đối với việc dẫn
+1            Kẹp Hypotube CLIPIT (chỉ dùng với ống thông                   truyền các chất (như thuốc, cồn, hoặc tế bào gốc) qua lumen dây
+             Monorail)                                                     dẫn, ngoài các vật liệu cần cho mục đích sử dụng thông thường.
+                                                                           Chỉ các bác sỹ được đào tạo kỹ thuật tạo hình mạch vành PTCA
+                                                                           mới được sử dụng ống thông bóng.
+CHỈ ĐỊNH SỬ DỤNG
+                                                                           Không chứa chất gây sốt.
+Bóng nong động mạch vành PTCA NC Quantum Apex Over-The-
+Wire và NC Quantum Apex Monorail được chỉ định để can thiệp tạo            Bảo quản ở nơi khô ráo, thoáng mát và tránh ánh sáng.
+hình mạch những phần tắc hẹp của động mạch vành hoặc những                 Không sử dụng nếu bao bì bị mở hoặc rách.
+đoạn tắc hẹp nối bắc cầu mạch vành nhằm cải thiện tưới máu cơ              Xử lý ống thông
+tim.
+                                                                           Trước khi thực hiện thủ thuật tạo hình mạch, kiểm tra để xác nhận
+Ống thông giãn nở PTCA NC Quantum Apex Over-The-Wire và NC                 chức năng của ống thông và đảm bảo kích cỡ và hình dạng của ống
+Quantum Apex Monorail cũng được chỉ định cũng được chỉ định mở             thông phù hợp với quy trình cụ thể được chỉ định.
+rộng mạch sau cấy ghép cho các giá đỡ stent giãn nở bằng bóng
+(kim loại trần và phủ thuốc).                                              Lưu ý không vặn quá chặt van cầm máu quanh trục ống thông vì có
+                                                                           thể làm thắt lumen, ảnh hưởng đến việc bơm/ làm xẹp bóng.
+                                                                           Đặt ống thông
+Lưu ý: Thử nghiệm trên thiết bị đã được tiến hành đối với các ống
+thông giãn nở NC Quantum Apex™ Over-The-Wire and NC                        Trước khi đặt ống thông bóng, tiêm thuốc chống đông máu và liệu
+Quantum Apex Monorail™ và các stent có thể mở rộng bằng bóng               pháp làm giãn động mạch vành phù hợp.
+có trên thị trường của hãng Boston Scientific. Cân nhắc khi sử dụng        Kiểm soát cẩn thận vị trí của đầu ống thông dẫn trong khi thao tác
+thiết bị này với các stent của các nhà sản xuất khác do sự khác biệt       ống thông bóng.
+trong thiết kế stent. Đặt stent theo chỉ dẫn và hướng dẫn sử dụng          Khi đưa vào hoặc thay ống thông bóng, khuyến cáo lau sạch toàn
+của nhà sản xuất                                                           bộ dây dẫn để ống thông di chuyển tốt hơn trên dây dẫn.
+                                                                           Không bơm phồng bóng khi bóng chưa ở đúng vị trí trong mạch.
+CHỐNG CHỈ ĐỊNH
+• Động mạch vành trái chính không được bảo vệ                              PHẢN ỨNG BẤT LỢI
+• Co thắt động mạch vành khi không có chỗ hẹp đáng kể
+                                                                           Các tình huống bất lợi có thể liên quan đến việc sử dụng ống thông
+CẢNH BÁO                                                                   bóng nong PTCA gồm, nhưng không giới hạn như sau:
+Cảnh báo chung                                                               •   Thắt mạch đột ngột
+                                                                             •   Nhồi máu cơ tim cấp
+Yêu cầu xem xét cẩn thận việc can thiệp động mạch vành qua da                •   Đau thắt ngực hoặc đau thắt ngực không ổn định
+(PTCA) ở những bệnh nhân không chấp nhận được phẫu thuật                     •   Lo âu
+ghép bắc cầu mạch vành, bao gồm cả sự hỗ trợ huyết động có thể               •   Rối loạn nhịp tim, bao gồm rung tâm nhĩ
+trong suốt quá trình PTCA vì việc điều trị các bệnh nhân này có              •   Rò động-tĩnh mạch
+nguy cơ đặc biệt.                                                            •   Chèn ép tim/ tràn dịch màng tim
+Thận trọng và đánh giá cẩn thận đối với các bệnh nhân không được             •   Sốc tim
+chỉ định sử dụng thuốc chống đông máu.                                       •   Tai biến mạch máu não
+Thận trọng và đánh giá cẩn thận đốI với các bệnh nhân có phản                •   Phình động mạch vành
+ứng nghiêm trọng với các chất cản quang không được tiền mê phù               •   Phẫu thuật ghép bắc cầu mạch vành
+hợp.                                                                         •   Co thắt mạch vành
+                                                                             •   Tách, thủng, vỡ hoặc chấn thương mạch vành
+PTCA chỉ nên thực hiện tại các bệnh viện nơi phẫu thuật ghép bắc             •   Tử vong
+cầu động mạch vành khẩn cấp có thể được thực hiện nhanh chóng                •   Phản ứng thuốc, dị ứng với chất cản quang
+trong trường hợp biến chứng có khả năng gây tổn thương hoặc đe               •   Nghẽn mạch
+dọa đến tính mạng.                                                           •   Rối loạn huyết động
+Để giảm khả năng tổn thương mạch máu, đường kính sau bơm của                 •   Xuất huyết hoặc tụ máu
+bóng nên xấp xỉ hoặc nhỏ hơn đường kính của mạch từ đầu xa đến               •   Tăng/ giảm huyết áp
+đầu gần của vùng mạch bị nghẽn.                                              •   Nhiễm trùng
+Sử dụng ống thông bóng trước ngày hết hạn “Use By” ghi trên bao bì           •   Chấn thương mạch nhẹ
+Xử lý ống thông                                                              •   Thiếu máu cơ tim
+                                                                             •   Đau
+                                                                       2
+  •   Tái can thiệp qua da                                                2. Tháo vỏ bảo vệ bóng và lõi bằng cách giữ chặt ống thông ở đầu
+  •   Phình mạch giả (ở vị trí đặt ống thông)                               gần bóng (vị trí liên kết bóng đầu gần). Tay còn lại nhẹ nhàng giữ
+  •   Phản ứng gây sốt                                                      chặt phần đầu gần của vỏ bảo vệ bóng và đẩy ra xa. Đối với ống
+  •   Suy thận                                                              thông NC Quantum Apex Over-The-Wire, lõi sẽ trượt theo vỏ bảo
+  •   Suy hô hấp                                                            vệ ống thông bóng. Đối với ống thông NC Quantum Apex
+  •   Hẹp lại mạch đã nong                                                  Monorail, tháo lõi ra xa sau khi bỏ vỏ bảo vệ bóng.
+  •   Tắc nhánh bên
+  •   Dòng chảy chậm hoặc không có dòng chảy                                Lưu ý: Nếu có lực cản khi tháo vỏ bảo vệ hoặc lõi bóng, không sử
+  •   Huyết khối                                                            dụng ống thông và thay thế bằng cái khác.
+  •   Nghẽn mạch vành hoàn toàn hoặc ghép mạch
+  •   Thiếu máu não cục bộ tạm thời                                       3. Có thể cuộn tròn ống thông NC Quantum Apex Monorail và cố
+  •   Phản ứng vận mạch                                                     định bằng kẹp CLIPIT có sẵn trong bao đựng ống thông. Chỉ dùng
+  •   Kích thích/ rối loạn tâm thất                                         kẹp CLIPIT cho trục gần; kẹp không dùng cho đầu xa của ống
+  •   Chấn thương mạch cần phẫu thật hoặc can thiệp                         thông. Tháo bỏ kẹp CLIPIT trước khi đưa ống thông vào cơ thể
+  •   Quá thể tích (volume overload)                                        bệnh nhân.
+
+                                                                            Lưu ý: Cẩn thận không làm xoắn trục ống thông khi kẹp hoặc
+QUY CÁCH CUNG CẤP / BẢO QUẢN                                                tháo CLIPIT.
+Không sử dụng nếu bao bì bị mở hoặc hư hỏng.
+                                                                          4. Tiến hành đẩy hết không khí khỏi ống thông. Nạp đầy môi trường
+Không sử dụng nếu nhãn sản phẩm không đầy đủ hoặc không đọc
+                                                                            bơm bóng phù hợp vào xilanh khóa luer hoặc thiết bị bơm (ví dụ
+được.
+                                                                            đương lượng hỗn hợp tỷ lệ 50:50 chất cản quang và dung dịch
+Xử lý vào bảo quản                                                          muối vô trùng). Không dùng khí hoặc bất cứ chất tạo khí nào khác
+Bảo quản nơi khô ráo, thoáng mát và tối.                                    để bơm bóng.
+                                                                          5. Nối khóa ba ngả với cổng khớp nối với ống thông. Phụt rửa qua
+                                                                            khóa này. Gắn xi lanh hoặc thiết bị bơm bóng vào khóa. Đảm bảo
+HƯỚNG DẪN SỬ DỤNG                                                           các kết nối luer thẳng hàng tránh chờn ren luer gây rò rỉ và cẩn
+Một hoặc nhiều hơn các dụng cụ dưới đây được yêu cầu để can                 thận khi kết nối ống thông để tránh hư hỏng (ví dụ: gập trục).
+thiệp động mạch vành qua da bằng ống thông giãn nở NC Quantum             6. Giữ xilanh hoặc thiết bị bơm bóng với đầu kim phun hướng xuống
+Apex™ Over-The-Wire hoặc NC Quantum Apex Monorail™                          dưới và hút trong 5 giây. Nhả pít tông hoặc mở khóa đẩy khí ra.
+Mô tả                                                                     7. Tháo xi lanh hoặc thiết bị bơm bóng và đẩy hết khí ra khỏi lòng
+                                                                            ống.
+• (Các) dây dẫn có kích cỡ phù hợp để đẩy ống thông dẫn                   8. Để tránh khả năng vẫn còn khí, gắn lại xilanh và đẩy cho đến khi
+• Sheath động mạch và bộ làm giãn nở phù hợp (chỉ cho mạch đùi)             các bọt khí không còn xuất hiện. Nếu bọt khí vẫn còn, kiểm tra kết
+• (Các) ống thông dẫn cho mạch đùi hoặc mạch cánh tay có cấu                nối luer. Nếu bọt khí vẫn còn xuất hiện, bơm bóng để xác nhận
+  hình và kích cỡ phù hợp để chọn mạch vành; đối với cả hai loại            không có rò rỉ trước khi đưa ống thông. Không sử dụng ống thông
+  ống thông NC Quantum Apex Monorail và Over-The-Wire I.D tối               bóng nếu có bất cứ rò rỉ nào.
+  thiểu của ống thông dẫn cho bóng có đường kính 2,00-4,00 mm =           9. Để loại bỏ khí kẹt trong luer xa của thiết bị bơm bóng, hút khoảng
+  0,056 in (1,42 mm) và cho bóng có đường kính 4,50 & 5,00 mm =             1ml (cc) chất cản quang trong khi giữ thiết bị bơm hướng lên trên.
+  0,066 in (1,68 mm)                                                      10. Ngắt kết nối xi lanh. Xác nhận bề mặt của chất cản quang hiện
+• Ống chất cản quang                                                        rõ ở cả cổng ống thông bóng lẫn chỗ kết nối của thiết bị bơm để
+• Dung dịch muối tiệt trùng hoặc dung dịch muối đẳng trương đã              đảm bảo kết nối chất lỏng - chất lỏng. Có thể nhỏ thêm một giọt
+  heparine hóa                                                              môi trường bơm bóng vào cổng ống thông. Nối chắc chắn thiết
+• Thiết bị bơm kèm áp kế                                                    bịbơm bóng với cổng ống thông bóng của ống thông.
+• (Các) ống thông giãn nở PTCA NC Quantum Apex Over-The-                  11. Mở khóa ống thông và để mở hết cỡ.
+  Wire                                                                    Quy trình đặt ống thông
+• (Các) ống thông giãn nở PTCA NC Quantum Apex Monorail
+• (Các) dây dẫn 0,014 in (≤0,36 mm) x 300 cm (cho ống thông NC            1. Rửa lumen dây dẫn
+  Quantum Apex Over-The-Wire)                                                A. Đối với ống thông NC Quantum Apex™ Monorail™, rửa lumen
+• (Các) dây dẫn 0,014 in (≤0,36 mm) x 185 cm (cho ống thông NC                  dây dẫn của ống thông bằng dung dịch muối tiệt trùng qua đầu
+  Quantum Apex Monorail)                                                        xa của ống thông.
+• Xi- lanh có khóa luer 10, 12 or 20 ml (cc)                                 B. Đối với ống thông NC Quantum Apex Over-The-Wire, rửa
+• Bộ chuyển đổi cầm máu                                                         lumen dây dẫn của ống thông bằng dung dịch muối tiệt trùng
+• Khóa ba ngả                                                                   qua cổng dây dẫn của trục ống thông
+• Kẹp CLIPIT™ (chỉ cho ống thông NC Quantum Apex Monorail)                   C. Kiểm tra xem dây dẫn có bị cong, gập hay hư hỏng gì không.
+• Thiết bị quay                                                                 Không sử dụng nếu thấy bất cứ khuyết điểm nào.
+Kiểm tra trước khi sử dụng                                                2. Đưa ống thông vào
+                                                                             A. Chuẩn bị vị trí tiếp mạch đích theo thao tác chuẩn
+Trước khi thực hiện thủ thuật tạo hình mạch, kiểm tra cẩn thận các           B. Duy trì áp suất trung tính ở thiết bị bơm gắn với ống thông
+thiết bị sử dụng trong quy trình, gồm cả ống thông, để xác nhận              C. Đưa dây dẫn qua van cầm máu theo hướng dẫn của nhà sản
+chức năng phù hợp. Xác nhận ống thông và bao bì tiệt trùng không                xuất hoặc quy trình thao tác chuẩn. Đẩy dây dẫn cẩn thận vào
+bị hư hại. Xác nhận kích thước ống thông thích hợp với quy trình cụ             ống thông dẫn. Khi hoàn thành, rút dụng cụ đặt dây dẫn nếu sử
+thể được chỉ định. Không sử dụng nếu bao bì tiệt trùng bị hỏng.                 dụng.
+                                                                             D. Gắn thiết bị mô men xoắn vào dây dẫn, nếu muốn. Qua hình
+Lưu ý: Không tiếp tục sử dụng ống thông nếu có hư hỏng hoặc sự                  ảnh soi huỳnh quang, đưa dây dẫn vào mạch máu đích, sau đó
+vô trùng bị tổn hại trong khi sử dụng                                           qua vùng mạch hẹp hoặc stent.
+                                                                             E. Đẩy đầu xa của ống thông vào dây dẫn đảm bảo dây dẫn ra
+                                                                                khỏi phần giữa đang mở trong ống thông NC Quantum Apex
+Chuẩn bị thiết bị bơm                                                           Monorail hoặc cổng dây của ống thông NC Quantum Apex
+1. Chuẩn bị thiết bị bơm theo hướng dẫn của nhà sản xuất                        Over-The-Wire. Khuyến cáo lau sạch toàn bộ dây dẫn để ống
+2. Đẩy không khí khỏi hệ thống                                                  thông di chuyển dễ dàng hơn trong dây dẫn.
+Lựa chọn ống thông
+                                                                               Lưu ý: Để tránh bị xoắn, đẩy ống thông từ từ, cho đến khi đầu
+Đường kính ống thông bóng sau bơm không được vượt quá đường                    gần của dây dẫn trùm qua ống thông
+kính của mạch đích gần chỗ mạch hẹp. Nếu không thể vượt qua chỗ
+mạch hẹp với ống thông mong muốn, dùng ống thông có đường                   F. Đẩy hết khí và rửa ống thông dẫn để chuẩn bị luồn ống thông.
+kính nhỏ hơn nong trước chỗ mạch hẹp để dễ dàng đưa ống thông               G. Cẩn thận đẩy ống thông qua van cầm máu trong khi bóng đã
+có kích cỡ phù hợp hơn.                                                        xẹp hoàn toàn. Nếu thấy có lực cản, không tiếp tục đẩy ống
+Chuẩn bị ống thông                                                             thông qua van. Lưu ý không vặn quá chặt van cầm máu quanh
+1. Tháo ống thông ra khỏi cuộn bảo vệ. Cẩn thận khi tháo ống thông             trục ống thông vì có thể làm thắt lumen, ảnh hưởng đến việc
+  tránh làm hỏng (ví dụ: gập trục)                                             bơm/ làm xẹp bóng.
+
+
+                                                                      3
+     Lưu ý: Để tránh bị gập, đẩy ống thông từ từ, cho đến khi đầu          D. Rút ống thông đã xẹp đến cửa của lumen dây dẫn (cách đầu
+     gần của dây dẫn chui ra khỏi ống thông                                 ống thông bóng khoảng 25cm).
+
+   H. Kết nối cổng bên của van cầm máu ống thông dẫn với đường             E. Cẩn thận kéo phần đầu xa linh động của ống thông khỏi van
+      truyền/đường ghi áp suất nội biên hoặc ống xả nhiều mặt, cho          cầm máu và vặn chặt núm có khía để giữ cố định dây dẫn. Lấy
+      phép ghi hoặc truyền áp suất nội biên qua ống thông dẫn.              ống thông ra khỏi dây dẫn trong khi vẫn duy trì vị trí của dây dẫn
+   I. Dưới hình ảnh huỳnh quang, đưa ống thông qua dây dẫn và đặt           qua vùng mạch hẹp.
+      bóng ở vị trí vùng mạch hẹp hoặc stent cần nong. Dùng dải
+      đánh dấu chắn bức xạ làm điểm tham khảo. Các cạnh ngoài
+      của dải đánh dấu xác định các vai của bóng. Không nên bơm            F. Chuẩn bị dùng ống thông tiếp theo như mô tả trong phần
+      bóng khi bóng chưa ở đúng vị trí trong vùng hẹp hoặc stent.           Chuẩn bị ống thông.
+3. Bơm bóng
+    A. Bơm bóng từ từ cho đến áp suất phù hợp để tiến hành PTCA            G. Đẩy ống thông mới vào dây dẫn như chỉ dẫn ở bước 2 – Đưa
+      hoặc sau nong stent. Duy trì áp suất âm của bóng giữa các lần         ống thông và tiếp tục quy trình.
+      bơm. Không vượt quá chỉ số áp suất vỡ bóng. Tham khảo
+      Bảng 2 hoặc biểu đồ tương thích bóng. Nếu thấy khó khăn khi
+      bơm bóng, dừng lại; làm xẹp bóng và rút ống thông.
+    B. Sau khi hoàn thành PTCA hay sau nong một stent, làm xẹp
+      bóng bằng cách đẩy áp suất âm vào thiết bị bơm bóng cho đến
+      khi bóng xẹp hoàn toàn.
+    C. Xác nhận kết quả chụp X-quang bằng kỹ thuật chụp X-quang
+      chuẩn. Nên soi huỳnh quang trong khi mở rộng bóng để đánh
+      giá đúng đường kính bóng đã mở rộng tối ưu so với đường
+      kích mạch vành ở đầu gần và đầu xa. Bơm bóng lại (không
+      quá 10 lần khi có stent hoặc 20 lần nếu không có stent) cho
+      đến khi đạt được kết quả mong muốn.
+    D. Nếu cần thay đổi ống thông, tiến hành bước 5 – Quy trình thay
+      thế ống thông (đối với ống thông NC Quantum Apex Over-The-
+      Wire) hoặc bước 6 – Quy trình thay thế ống thông (với ống
+      thông NC Quantum Apex Monorail). Nếu không, tiến hành
+      bước 4- Rút ống thông
+4. Rút ống thông
+    A. Xác nhận qua chụp X-quang rằng lumen của mạch đã nong
+      không bị tắc nghẽn đột ngột. Đảm bảo bóng đã xẹp hoàn toàn.
+    B. Khi rút ống thông đã làm xẹp và dây dẫn khỏi ống dẫn qua van
+      cầm máu, vặn chặt núm có khía trên van cầm máu.
+    C. Ống thông NC Quantum Apex Monorail có thể cuộn và cố định
+      bằng kẹp CLIPIT™ được cung cấp kèm theo. Chỉ kẹp phần
+      thân; kẹp không chỉ định cho đầu xa của ống thông. Tháo kẹp
+      CLIPIT trước khi đưa ống thông vào cơ thể bệnh nhân
+
+     Lưu ý: Cẩn thận không làm xoắn hoặc làm cong trục khi dùng
+     hoặc tháo kẹp cuộn.
+
+5. Quy trình thay đổi ống thông (ống thông NC Quantum Apex™
+   Over-The-Wire)
+   Cần 2 người thao tác khi thay ống thông NC Quantum Apex™
+   Over-The-Wire. Thực hiện các bước sau để thay ống thông:
+   A. Vặn lỏng núm có khía trên van cầm máu
+   B. Người thứ nhất giữ van cầm máu bằng một tay, tay còn lại giữ
+     trục ống thông.
+   C. Người thứ hai đứng gần chân của bệnh nhân và duy trì vị trí
+     của dây dẫn trong động mạch vành bằng cách giữ cố định dây
+     dẫn và luôn đảm bảo vị trí của dây dẫn qua hình ảnh huỳnh
+     quang trong khi người thứ nhất bắt đầu kéo ống thông ra khỏi
+     ống thông dẫn.
+   D. Rút ống thông đã xẹp cho đến khi đầu ống thông ra khỏi van
+     cầm máu.
+   E. Đóng núm có khía trên van cầm máu và lấy ống thông ra khỏi
+     dây dẫn trong khi giữ nguyên vị trí dây dẫn trong vùng mạch
+     hẹp hoặc stent.
+   F. Chuẩn bị ống thông tiếp theo như đã mô tả trong phần Chuẩn
+     bị ống thông.
+   G. Đẩy ống thông mới vào dây dẫn như chỉ dẫn ở bước 2 – Đưa
+     ống thông và tiếp tục quy trình
+6. Quy trình thay đổi ống thông (NC Quantum Apex Monorail™)
+   Ống thông NC Quantum Apex Monorail™ được thiết kế đặc biệt
+   để một người có thể thao tác thay ống thông nhanh. Thực hiện
+   các bước sau để thay thế ống thông:
+
+ A. Vặn lỏng núm có khía trên van cầm máu
+
+ B. Một tay giữ dây dẫn và van cầm máu, tay kia giữ trục ống thông
+
+ C. Duy trì vị trí của dây dẫn trong động mạch vành bằng cách giữ
+  nguyên dây dẫn. Bắt đầu kéo ống thông ra khỏi ống thông dẫn
+  trong khi quan sát vị trí của dây dẫn dưới hình ảnh huỳnh quang.
+
+
+
+                                                                       4
+Bảng 2.
+
+
+
+
+BẢO HÀNH
+Công ty Boston Scientific (BSC) bảo đảm quá trình thiết kế và sản
+xuất thiết bị này được thực hiện với sự cẩn trọng phù hợp. Bảo
+hành này thay thế và loại trừ tất cả các bảo hành khác không
+được nêu tại đây, cho dù được thể hiện hay ngụ ý bởi luật
+pháp hoặc bằng cách khác, bao gồm, nhưng không giới hạn,
+bất kỳ bảo hành ngụ ý nào về khả năng thương mại hoặc sự
+phù hợp cho một mục đích cụ thể. Các hoạt động xử lý, bảo
+quản, làm sạch và khử trùng thiết bị này cũng như các tác nhân
+khác liên quan đến bệnh nhân, chẩn đoán, điều trị, quy trình phẫu
+thuật và các vấn đề khác nằm ngoài sự kiểm soát của BSC mà trực
+tiếp ảnh hưởng đến thiết bị và kết quả từ việc sử dụng thiết bị.
+Nghĩa vụ của BSC về bảo hành giới hạn ở việc sửa chữa hoặc thay
+thế thiết bị và BSC sẽ không chịu trách nhiệm pháp lý cho bất kỳ
+mất mát, hư hỏng ngẫu nhiên hoặc do hậu quả nào, cũng như
+những chi phí trực tiếp hoặc gián tiếp phát sinh từ việc sử dụng thiết
+bị này. BSC không thừa nhận, cũng không uỷ quyền cho bất cứ ai
+thừa nhận thay công ty bất kỳ ràng buộc hay trách nhiệm pháp lý
+nào khác hoặc bổ sung liên quan đến thiết bị này. BSC không chịu
+trách nhiệm về những thiết bị tái sử dụng hoặc tái chế hoặc tiệt
+trùng lại, và không bảo hành, rõ ràng hay ngụ ý, bao gồm
+nhưng không giới hạn, khả năng thương mại hoặc sự phù hợp
+cho một mục đích cụ thể, đối với những thiết bị đó.
+Hướng dẫn sử dụng Tiếng Việt này là bản rút gọn chứa những thông tin theo
+yêu cầu về nhãn hàng hóa của Việt Nam. Xin hãy tham khảo bản gốc Tiếng
+Anh để có thông tin đầy đủ
+
+
+
+
+                                                                            5
+

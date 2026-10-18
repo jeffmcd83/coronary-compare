@@ -1,0 +1,783 @@
+                                           2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                          Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+          NC Euphora™
+          Rapid Exchange Balloon Dilatation Catheter
+          Cathéter de dilatation à ballonnet à échange rapide
+
+
+
+
+          Instructions for Use • Mode d’emploi
+
+               Caution: Federal law (USA) restricts this device to sale by or on the order of a physician.
+
+
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                                   2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                                  Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    Trademarks may be registered and are the property of their respective owners.
+    Les marques commerciales mentionnées peuvent être déposées et appartiennent à leurs propriétaires respectifs.
+
+
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                                  2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                                 Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    Explanation of symbols on package labeling / Explication des symboles des étiquettes sur l’emballage
+    Refer to the device labeling to see which symbols apply to this product. / Se référer aux étiquettes sur le produit pour savoir
+    quels symboles s'appliquent à ce produit.
+                         Inflation Pressure / Pression de gonflage
+                         Balloon Length / Longueur du ballonnet
+
+                         Balloon Diameter / Diamètre du ballonnet
+
+                         Open Here / Ouvrir ici
+
+                         Guide Catheter/Minimum Inner Diameter / Cathéter-guide/Diamètre interne minimum
+
+                         Nominal Pressure / Pression nominale
+
+                         Rated Burst Pressure / Pression théorique de rupture
+
+                         Do Not Exceed Rated Burst Pressure / Ne pas excéder la pression théorique de rupture
+
+                         Maximum Guidewire Diameter / Diamètre maximum du fil-guide
+
+                         For Post Dilatation of Balloon Expandable Stents / Pour la post-dilatation de stents expansibles par ballonnet
+
+                         Do Not Use if Package is Damaged / Ne pas utiliser si l'emballage est endommagé
+
+            ic.c
+         ron o           Consult Instructions for Use at this Website / Consulter le mode d'emploi sur ce site Web
+                m/
+      .medt
+
+
+
+                  manu
+    ww
+
+
+
+
+              als
+          w
+
+
+                         Do Not Reuse / Ne pas réutiliser
+
+                         Use By / À utiliser jusqu'au
+
+                         Lot Number / Numéro de lot
+
+                         Catalog Number / Numéro de référence
+
+                         Manufacturer / Fabricant
+
+                         Sterilized Using Irradiation / Stérilisation par irradiation
+                         For US Audiences Only / Ne s'applique qu'aux États-Unis
+
+                         Manufactured In / Lieu de fabrication
+
+                         Quantity / Quantité
+
+                         Recycle / Recycler
+
+                         Consult Instructions for Use / Consulter le mode d'emploi
+
+
+
+
+                                                                                                                                          1
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                        2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                       Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    Rapid Exchange Balloon Dilatation Catheter / Cathéter de dilatation à ballonnet à échange rapide
+
+
+                                                          Figure 1 / Figure 1
+
+
+
+
+     2
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                             2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                            Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    NC Euphora™
+    Rapid Exchange Balloon Dilatation Catheter
+    1. Medtronic Balloon Catheter Description
+    The NC Euphora™ Rapid Exchange Balloon Dilatation Catheter is a Percutaneous Transluminal Coronary Angioplasty (PTCA)
+    Rapid Exchange System. The balloon at the distal end of the catheter can be inflated to a defined diameter at a specific
+    pressure (see labelling). The proximal end of the catheter has a female luer for attachment to an inflation device. The catheter
+    provides a lumen which enables the use of a guidewire to position the catheter.
+    Radiopaque balloon markers enable accurate placement. Shaft markers for brachial and femoral techniques are in place.
+    Contents
+    One balloon dilatation catheter
+    One flushing cannula
+    One refold tool
+    One looper device
+    One compliance chart
+    2. Indications
+    ■   The balloon dilatation catheter is indicated for balloon dilatation of the stenotic portion of a coronary artery or bypass graft
+        stenosis for the purpose of improving myocardial perfusion.
+    ■   The balloon dilatation catheter is also indicated for postdeployment expansion of balloon expandable stents.
+    3. Contraindications
+    The catheter is contraindicated for use in:
+    ■ unprotected left main coronary artery
+    ■ coronary artery spasm in the absence of significant stenosis
+    4. Warnings
+    ■   For single patient, single procedure use only. Do NOT resterilize or reuse the device. Resterilization or reuse may
+        compromise device performance and increase the risk of inappropriate resterilization and cross contamination.
+    ■   Do not use the catheter if its package has been opened or damaged.
+    ■   To reduce the potential for vessel damage the inflated diameter of the balloon should approximate the diameter of the
+        vessel just proximal and distal to the stenosis.
+    ■   PTCA in patients who are not acceptable candidates for coronary artery bypass graft surgery requires careful
+        consideration, including possible hemodynamic support during PTCA, as treatment of this patient population carries special
+        risk.
+    ■   When the catheter is exposed to the vascular system, it should be manipulated while under high-quality fluoroscopic
+        observation. Do not advance or retract the catheter unless the balloon is fully deflated under vacuum as this can potentially
+        result in damage to the vessel wall. If resistance is met during manipulation, determine the cause of the resistance before
+        proceeding.
+    ■   Balloon pressure should not exceed the rated burst pressure indicated on the package label for each balloon. The rated
+        burst pressure is based on the results of in vitro testing. Use of a pressure monitoring device is recommended to prevent
+        overpressurization.
+    ■   PTCA should only be performed at hospitals where emergency coronary artery bypass graft surgery can be quickly
+        performed in the event of a potentially injurious or life-threatening complication.
+    ■   Use only the recommended balloon inflation medium. To prevent the possibility of an air embolus, never use air or any
+        gaseous medium to inflate the balloon.
+    ■   Use the catheter prior to the Use By date specified on the package.
+        Caution: Federal law (USA) restricts this device to sale by or on the order of a physician.
+    5. Precautions
+    ■   Prior to angioplasty, examine the catheter to verify functionality and ensure that its size and shape are suitable for the
+        procedure for which it is to be used.
+    ■   If the device is kinked, it should not be used.
+    ■   The catheter system should be used only by physicians trained in the performance of percutaneous transluminal coronary
+        angioplasty.
+    ■   Administer appropriate anticoagulation, antiplatelet, and vasodilator therapy to the patient.
+
+
+                                                                                                              Instructions for Use   English   3
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                            2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                           Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+         Note: Testing without anticoagulation shows variable amounts of thrombus formation on the device surface.
+         Thrombogenicity evaluations conducted using a heparinized model do not indicate thrombus formation. If the patient is not
+         appropriately anticoagulated, thrombus formation may occur. Appropriate anticoagulation therapy should be administered
+         to reduce potential thrombosis.
+    ■    When using two guidewires, use caution when introducing, torquing, and removing one or both guidewires to avoid
+         entanglement. It is recommended that one guidewire be completely withdrawn from the patient before removing any
+         additional equipment.
+    ■    Do not apply excessive force during preparation or use, as this may damage the device.
+    ■    The safety and effectiveness of this PTCA balloon catheter for the treatment of instent restenosis (ISR) have not been
+         established.
+    6. Adverse Effects
+    Potential adverse effects seen during a PTCA procedure could be associated with this procedure. Possible adverse effects
+    include, but are not limited to:
+    ■ death
+    ■ acute myocardial infarction
+    ■ total occlusion of the coronary artery or bypass graft
+    ■ coronary vessel dissection, perforation, rupture, or injury
+    ■ restenosis of the dilated vessel
+    ■ hemorrhage or hematoma
+    ■ unstable angina
+    ■ arrhythmias, including ventricular fibrillation
+    ■ drug reactions or allergic reaction to contrast medium
+    ■ hypotension/hypertension
+    ■ infection
+    ■ coronary artery spasm
+    ■ arteriovenous fistula
+    ■ stroke, air embolism, and embolization or fragmentation of thrombotic or athlerosclerotic material
+    7. Materials To Be Used In Combination With A Balloon Catheter Include
+    ■    suitable guidewire (refer to label claim)
+    ■    20-ml syringe for balloon preparation
+    ■    suitable guiding catheter (refer to label claim)
+    ■    10-ml or smaller syringe for manual dye injections
+    ■    appropriate inflation medium (eg, 50:50 sterile mixture of a contrast medium and saline)
+         Caution: Use of concentrations greater than a 50% solution of contrast medium may result in increased viscosity which
+         could prolong inflation/deflation times.
+    ■    pressure-indicating inflation device
+    ■    hemostasis valve
+    8. Instructions for Use
+    Note: Bench testing was conducted with the NC Euphora™ Rapid Exchange Balloon Dilatation Catheter and commercially
+    available Medtronic balloon expandable stents. Use caution when using this device with different manufacturers’ stents due to
+    difference in stent design.
+    8.1. Preparation
+    1. Select an appropriate balloon catheter for the target vessel.
+    2. Remove the device from the sterile packaging.
+    3. Remove the device from its hoop (Figure 2, A).
+    4. While holding the catheter close to the balloon protector (Figure 2, C) gently slide the protector and stylette from the
+       device.
+       Note: Avoid activation of the distal shaft coating prior to balloon sheath/stylette removal.
+       Note: Do not discard the balloon stylette until the end of the angioplasty procedure as it may be required for balloon
+       refolding.
+    5. Fill a 20-ml syringe with 20 ml of a saline solution.
+
+
+
+     4   Instructions for Use   English
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                             2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                            Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    6. Remove the flushing cannula (Figure 2, B) from the accessory clip and, without removing the cover, attach directly to the
+        syringe.
+    7. Remove the cover of the flushing cannula.
+    8. Insert the flushing cannula into the guidewire entry port (exchange joint).
+    9. Depress the syringe to flush the guidewire lumen until fluid emerges from the distal tip of the balloon catheter.
+    10. Remove the flushing cannula from the guidewire entry port (exchange joint).
+        Note: Do not discard the flushing cannula until the end of the angioplasty procedure as additional flushing may be required.
+    8.2. Balloon Purging
+    1. Purge air from the balloon catheter using a 20-ml syringe filled with 2 to 3 ml of the inflation medium with the balloon
+       catheter pointing downward.
+    2. Attach an inflation device to the balloon inflation port. Ensure that a meniscus of contrast medium is evident in both the
+       catheter luer connector and the inflation device.
+    3. Apply negative pressure with the inflation device. A flow of bubbles will move from the balloon catheter into the inflation
+       device. Balloon purging is complete when the flow of bubbles stops.
+       Caution: Do not attempt preinflation technique to purge the balloon lumen.
+    8.3. Insertion Technique
+    1. Place the guiding catheter, with a hemostasis valve attached, in the orifice of the target coronary artery.
+    2. Advance a guidewire through the guiding catheter to reach and cross the target lesion. Advance the distal tip of the balloon
+       catheter over the proximal end of the guidewire. Ensure that the guidewire exits the balloon catheter through the guidewire
+       exit port (exchange joint).
+    3. The hemostasis valve should be gradually tightened to control back flow. Excessive valve tightening may affect balloon
+       inflation/deflation time as well as movement of the guidewire.
+    4. Track the balloon catheter over the guidewire to cross the lesion using the radiopaque marker(s) to locate the balloon
+       across the lesion.
+       Precaution: If resistance is encountered do not use force to advance the device as this may result in damage to the
+       balloon catheter.
+       Note: Bench test data have shown that the average number of turns to failure (detachment) for the NC Euphora™ balloon
+       catheter is 46. It is recommended that you do not torque the device more than twice as this will result in the guidewire
+       wrapping around the catheter.
+    8.4. Balloon Inflation
+    1. Inflate the balloon to dilate the lesion using standard PTCA techniques.
+    2. After each subsequent inflation, assess the distal blood flow.
+       Note: If a significant stenosis persists, successive inflations may be required to resolve the stenosis. Do not exceed the
+       rated burst pressure (see compliance chart).
+    3. Confirm the results with fluoroscopy.
+    8.5. Catheter Removal
+    1. Apply negative pressure to the inflation device and confirm that the balloon is fully deflated.
+       Note: The maximum deflation time for the NC Euphora™ balloon catheter is ≤20 seconds, smaller balloons have shorter
+       deflation times.
+    2. Withdraw the balloon catheter into the guiding catheter while preserving guidewire position and adjusting the hemostasis
+       valve appropriately. Remove the balloon catheter from the system.
+    3. After the deflated balloon catheter is withdrawn, wipe it clean with gauze soaked with sterile normal saline.
+    4. Inspect the balloon catheter's integrity.
+    5. If reinserting the same balloon catheter, flush the guidewire lumen by using the flushing cannula to flush saline through the
+       guidewire entry port (exchange joint) until fluid emerges from the distal tip of the balloon catheter. Prior to reinsertion, wipe
+       the balloon catheter clean with gauze soaked with sterile normal saline. The balloon may be refolded using the refold tool
+       as described in the refold tool instructions for use (Section 8.6).
+
+
+
+
+                                                                                                              Instructions for Use   English   5
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                            2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                           Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+                                           C
+
+
+
+
+                                                   1                                                         D
+                                                       B
+                                      1                                                      2
+
+
+
+
+                                                           D         E
+                                                                                                             2
+
+                                               F
+
+
+
+                                                                      A
+
+
+
+
+                                                                         Figure 2.
+
+    8.6. Refold Tool
+    The refold tool (Figure 2, F) is an accessory component that allows the balloon to be refolded if required.
+    1. Deflate the balloon by applying negative pressure to the inflation device; maintain under vacuum.
+    2. Visually inspect the balloon to confirm that it is fully deflated.
+    3. Remove the refold tool from the compliance chart (Figure 2, E).
+    4. Ensure the balloon protector (Figure 2, C) is not on the balloon stylette and load the nonflared end of the refold tool onto
+       the straight end of the stylette.
+    5. Carefully load the stylette back through the distal tip of the balloon catheter and past the proximal end of the balloon.
+    6. While holding the balloon catheter just proximal to the balloon, push the refold tool over the balloon in a gentle twisting
+       motion until the entire balloon is covered.
+    7. Gently remove the refold tool and stylette.
+    8. Inspect the balloon and catheter for any potential damage. Discard the balloon catheter if there is any visible damage
+       present on the balloon.
+    8.7. Looper Device
+    The looper device (Figure 2, D) is an accessory component for use with Medtronic rapid exchange balloon catheters. The
+    device allows the balloon catheter to be fastened in a coiled configuration for ease of handling during use.
+    1. Remove the looper device from the accessory clip on the hoop (Figure 2, A).
+    2. Form the catheter into a single or double loop when required.
+    3. Hook the looper around the coiled proximal end of the catheter (Figure 2, D).
+    9. References
+    The physician should consult recent literature on current medical practice on balloon dilatation, such as published by the
+    American College of Cardiology or the American Heart Association.
+    10. Compliance Chart
+    The Compliance Chart is based on actual data from in vitro testing at 37°C (99°F), rounded to two decimal places. Refer to
+    product labeling (Figure 2, E) and/or carton labeling to reference the Compliance Chart.
+    11. Disclaimer of Warranty
+    THE FOLLOWING DISCLAIMER OF WARRANTY APPLIES TO CUSTOMERS IN THE UNITED STATES:
+
+    ALTHOUGH THE CATHETER, HEREAFTER REFERRED TO AS “PRODUCT,” HAS BEEN MANUFACTURED UNDER
+    CAREFULLY CONTROLLED CONDITIONS, MEDTRONIC INC. AND ITS AFFILIATES HAVE NO CONTROL OVER
+    CONDITIONS UNDER WHICH THIS PRODUCT IS USED. MEDTRONIC INC. AND ITS AFFILIATES, THEREFORE,
+    DISCLAIM ALL WARRANTIES, BOTH EXPRESSED AND IMPLIED, WITH RESPECT TO THE PRODUCT, INCLUDING,
+    BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+    PURPOSE. MEDTRONIC INC. AND ITS AFFILIATES SHALL NOT BE LIABLE TO ANY PERSON OR ENTITY FOR ANY
+    MEDICAL EXPENSES OR ANY DIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES CAUSED BY ANY USE,
+    DEFECT, FAILURE, OR MALFUNCTION OF THE PRODUCT, WHETHER A CLAIM FOR SUCH DAMAGES IS BASED
+    UPON WARRANTY, CONTRACT, TORT, OR OTHERWISE. NO PERSON HAS ANY AUTHORITY TO BIND
+
+
+     6   Instructions for Use   English
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                             2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                            Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    MEDTRONIC INC. AND ITS AFFILIATES TO ANY REPRESENTATION OR WARRANTY WITH RESPECT TO THE
+    PRODUCT.
+
+    The exclusions and limitations set out above are not intended to, and should not be construed so as to, contravene mandatory
+    provisions of applicable law. If any part or term of this Disclaimer of Warranty is held to be illegal, unenforceable, or in conflict
+    with applicable law by a court of competent jurisdiction, the validity of the remaining portions of this Disclaimer of Warranty shall
+    not be affected.
+    12. Disclaimer of Warranty
+    THE FOLLOWING DISCLAIMER OF WARRANTY APPLIES TO CUSTOMERS OUTSIDE THE UNITED STATES:
+
+    ALTHOUGH THE CATHETER, HEREAFTER REFERRED TO AS “PRODUCT,” HAS BEEN MANUFACTURED UNDER
+    CAREFULLY CONTROLLED CONDITIONS, MEDTRONIC INC. AND ITS AFFILIATES HAVE NO CONTROL OVER
+    CONDITIONS UNDER WHICH THIS PRODUCT IS USED. MEDTRONIC INC. AND ITS AFFILIATES, THEREFORE,
+    DISCLAIM ALL WARRANTIES, BOTH EXPRESSED AND IMPLIED, WITH RESPECT TO THE PRODUCT, INCLUDING,
+    BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+    PURPOSE. MEDTRONIC INC. AND ITS AFFILIATES SHALL NOT BE LIABLE TO ANY PERSON OR ENTITY FOR ANY
+    MEDICAL EXPENSES OR ANY DIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES CAUSED BY ANY USE,
+    DEFECT, FAILURE, OR MALFUNCTION OF THE PRODUCT, WHETHER A CLAIM FOR SUCH DAMAGES IS BASED
+    UPON WARRANTY, CONTRACT, TORT, OR OTHERWISE. NO PERSON HAS ANY AUTHORITY TO BIND
+    MEDTRONIC INC. AND ITS AFFILIATES TO ANY REPRESENTATION OR WARRANTY WITH RESPECT TO THE
+    PRODUCT.
+
+    The exclusions and limitations set out above are not intended to, and should not be construed so as to, contravene mandatory
+    provisions of applicable law. If any part or term of this Disclaimer of Warranty is held to be illegal, unenforceable, or in conflict
+    with applicable law by a court of competent jurisdiction, the validity of the remaining portions of this Disclaimer of Warranty shall
+    not be affected.
+
+
+
+
+                                                                                                              Instructions for Use   English   7
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                             2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                            Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    NC Euphora™
+    Cathéter de dilatation à ballonnet à échange rapide
+    1. Description du cathéter à ballonnet de Medtronic
+    Le cathéter de dilatation à ballonnet à échange rapide NC Euphora™ est un système d’échange rapide pour angioplastie
+    coronarienne transluminale percutanée (ACTP). Le ballonnet situé à l’extrémité distale du cathéter peut être gonflé à un
+    diamètre défini sous une pression spécifique (voir l'étiquetage). L’extrémité proximale du cathéter est munie d’un raccord luer
+    femelle pour la fixation à un dispositif de gonflage. Le cathéter est doté d'une lumière permettant l’utilisation d'un fil-guide pour
+    positionner le cathéter.
+    Les repères radio-opaques du ballonnet facilitent la mise en place précise de celui-ci. Le corps du cathéter est muni de repères
+    pour les techniques brachiales et fémorales.
+    Contenu
+    Un cathéter de dilatation à ballonnet
+    Une canule de rinçage
+    Un outil de repli
+    Un dispositif d'enroulement
+    Un tableau de compliance
+    2. Indications
+    ■    Le cathéter de dilatation à ballonnet est indiqué pour la dilatation par ballonnet du segment sténosé d’une artère coronaire
+         ou d’une sténose au niveau d’un pontage afin d’améliorer la perfusion du myocarde.
+    ■    Le cathéter de dilatation à ballonnet est aussi indiqué pour l'expansion post-déploiement des stents expansibles par
+         ballonnet.
+    3. Contre-indications
+    Le cathéter est contre-indiqué dans les cas suivants :
+    ■ Tronc commun de l'artère coronaire gauche non protégé.
+    ■ Spasme de l'artère coronaire en l’absence de sténose significative.
+    4. Avertissements
+    ■    À usage unique et pour une intervention unique exclusivement. NE PAS restériliser ni réutiliser le dispositif. La
+         restérilisation ou la réutilisation risque de compromettre les performances du dispositif et accroître le risque d'une
+         restérilisation inappropriée et d'une contamination croisée.
+    ■    Ne pas utiliser le cathéter si son emballage a été ouvert ou endommagé.
+    ■    Afin de réduire le risque de lésion vasculaire, le diamètre du ballonnet gonflé doit correspondre approximativement au
+         diamètre du vaisseau juste en amont et en aval de la sténose.
+    ■    Compte tenu des risques particuliers encourus par les patients qui ne peuvent pas subir de pontage par greffe de l’artère
+         coronaire, il est important de procéder à une réflexion sérieuse avant de réaliser une ACTP chez ces patients et
+         notamment de prévoir une assistance hémodynamique pendant l’ACTP.
+    ■    Lorsque le cathéter se trouve dans le système vasculaire, il doit être manipulé sous contrôle radioscopique de haute
+         qualité. Ne pas avancer ni rétracter le cathéter si le ballonnet n’est pas complètement dégonflé (sous vide) afin d’éviter
+         toute lésion de la paroi vasculaire. En présence d'une résistance pendant la manipulation, en déterminer la cause avant de
+         continuer la procédure.
+    ■    La pression du ballonnet ne doit pas dépasser la pression théorique de rupture indiquée sur l’étiquette de l’emballage pour
+         chaque ballonnet. La pression théorique de rupture a été déterminée en fonction des résultats de tests réalisés in vitro.
+         L'utilisation d'un système de contrôle de la pression est recommandée afin d'éviter toute surpression.
+    ■    L’ACTP ne doit être effectuée que dans des établissements hospitaliers pouvant pratiquer rapidement un pontage par
+         greffe de l’artère coronaire d’urgence en cas de complication grave ou menaçant le pronostic vital.
+    ■    Utiliser uniquement le produit recommandé pour gonfler le ballonnet. Ne jamais utiliser d’air ou tout autre gaz pour le
+         gonflage du ballonnet afin d’éviter tout risque d’embolie gazeuse.
+    ■    Utiliser le cathéter avant la date de péremption figurant sur l'emballage.
+         Attention : La réglementation fédérale américaine n'autorise la vente de ce produit que sur prescription médicale.
+    5. Précautions
+    ■    Avant de réaliser l’angioplastie, s’assurer que le cathéter fonctionne correctement et que sa taille et sa forme sont
+         adaptées à l’intervention prévue.
+
+
+
+     8   Mode d’emploi      Français
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                             2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                            Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    ■    Si le dispositif est déformé, il ne doit pas être utilisé.
+    ■    L’utilisation du cathéter doit être réservée aux médecins formés à la pratique de l’angioplastie coronarienne transluminale
+         percutanée.
+    ■    Un traitement aux anticoagulants, aux antiplaquettaires et aux vasodilatateurs approprié doit être administré au patient.
+         Remarque : Un test sans anticoagulants montre une quantité variable de formation de thrombus à la surface du dispositif.
+         Des évaluations de thrombogénicité effectuées à l'aide d'un modèle hépariné n'indiquent pas de formation d'un thrombus.
+         Si le patient ne reçoit pas d'anticoagulants appropriés, la formation d'un thrombus est possible. Une anticoagulothérapie
+         appropriée doit être administrée pour réduire tout risque de thrombose.
+    ■    Lorsque deux fils-guides sont utilisés, agir avec précaution lors de l'introduction, du torque et du retrait de l'un ou des deux
+         fils-guides afin d'éviter un enchevêtrement. Il est recommandé de retirer complètement un premier fil-guide du patient avant
+         le retrait de tout autre dispositif.
+    ■    Ne pas appliquer de force excessive lors de la préparation ou de l’utilisation sous peine d’endommager le dispositif.
+    ■    La sécurité et l'efficacité de ce cathéter à ballonnet pour ATCP dans le traitement de la resténose intra-stent n'ont pas été
+         établies.
+    6. Effets secondaires
+    Les effets indésirables potentiels constatés au cours d'une procédure d'ACTP pourraient être associés à cette procédure. Ci-
+    dessous une liste non limitative des effets indésirables :
+    ■ Décès
+    ■ Infarctus aigu du myocarde
+    ■ Occlusion totale de l’artère coronaire ou du pontage
+    ■ Dissection, perforation, rupture ou lésion du vaisseau coronaire
+    ■ Resténose du vaisseau dilaté
+    ■ Hémorragie ou hématome
+    ■ Angor instable
+    ■ Arythmies, y compris fibrillation ventriculaire
+    ■ Réactions médicamenteuses ou réaction allergique au produit de contraste
+    ■ Hypotension/hypertension
+    ■ Infection
+    ■ Contraction de l'artère coronaire
+    ■ Fistule artérioveineuse
+    ■ Accident vasculaire cérébral, embolie gazeuse et embolisation ou fragmentation des tissus thrombotiques ou
+       athéroscléreux
+    7. Matériel nécessaire pour l’utilisation d’un cathéter à ballonnet
+    ■    Un fil-guide approprié (se reporter aux indications de l’étiquette)
+    ■    Une seringue de 20 ml pour la préparation du ballonnet
+    ■    Un cathéter-guide approprié (se reporter aux indications de l’étiquette)
+    ■    Une seringue de 10 ml maximum pour des injections manuelles de produit de contraste
+    ■    Un produit de gonflage approprié (mélange stérile à 50% de produit de contraste et 50% de solution saline)
+         Attention : L'utilisation de concentrations supérieures à une solution à 50% de produit de contraste peut résulter en une
+         viscosité accrue qui pourrait prolonger les temps de gonflage/dégonflage.
+    ■    Un dispositif de gonflage avec indication de la pression
+    ■    Une valve hémostatique
+    8. Mode d’emploi
+    Remarque : L’essai au banc a été effectué avec le cathéter de dilatation à ballonnet à échange rapide NC Euphora™ et des
+    stents expansibles par ballonnet de Medtronic disponibles dans le commerce. Il faut être vigilant sur les différences de
+    conception des stents lorsque ce dispositif est utilisé avec des stents de fabricants différents.
+    8.1. Préparation
+    1.   Choisir un cathéter à ballonnet adapté au vaisseau cible.
+    2.   Retirer le dispositif de son emballage stérile.
+    3.   Retirer le dispositif de son manchon (figure 2, A).
+    4.   Tout en maintenant le cathéter à proximité de la protection du ballonnet (figure 2, C), faire doucement glisser la protection
+         et le stylet du dispositif.
+
+
+                                                                                                              Mode d’emploi   Français   9
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                            2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                           Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+        Remarque : Éviter l'activation du revêtement du corps distal avant le retrait de la gaine/du stylet du ballonnet.
+        Remarque : Ne pas mettre le stylet du ballonnet au rebut avant la fin de l’intervention d’angioplastie, car il peut s’avérer
+        nécessaire pour replier le ballonnet.
+    5. Remplir une seringue de 20 ml avec 20 ml de solution saline.
+    6. Retirer la canule de rinçage (figure 2, B) de la pince d'accessoire et, sans enlever le capuchon, fixer la canule directement
+        sur la seringue.
+    7. Retirer le capuchon de la canule de rinçage.
+    8. Insérer la canule de rinçage dans le point d’entrée du fil-guide (joint d’échange).
+    9. Appuyer sur la seringue pour rincer la lumière du fil-guide jusqu’à ce que le liquide sorte de l’extrémité distale du cathéter à
+        ballonnet.
+    10. Retirer la canule de rinçage du point d’entrée du fil-guide (joint d’échange).
+        Remarque : Ne pas mettre la canule de rinçage au rebut avant la fin de l’intervention d’angioplastie, car d’autres rinçages
+        peuvent s’avérer nécessaires.
+    8.2. Purge du ballonnet
+    1. Purger l'air du cathéter à ballonnet à l’aide d’une seringue de 20 ml contenant 2 à 3 ml de produit de gonflage, le cathéter à
+       ballonnet pointant vers le bas.
+    2. Fixer un dispositif de gonflage sur l’orifice de gonflage du ballonnet. S’assurer qu’un ménisque de produit de contraste est
+       visible à la fois au niveau du raccord luer du cathéter et du dispositif de gonflage.
+    3. Appliquer une pression négative à l’aide du dispositif de gonflage. Cela permet d’évacuer les bulles du cathéter à ballonnet
+       vers le dispositif de gonflage. La purge du ballonnet est terminée lorsque cesse l'évacuation des bulles.
+       Attention : Ne pas utiliser la technique de prégonflage pour purger la lumière du ballonnet.
+    8.3. Technique d'insertion
+    1. Fixer une valve hémostatique sur le cathéter-guide et placer ce dernier dans l’orifice de l’artère coronaire cible.
+    2. Faire progresser un fil-guide dans le cathéter-guide jusqu’à atteindre puis dépasser la lésion cible. Faire progresser
+       l’extrémité distale du cathéter à ballonnet au-dessus de l’extrémité proximale du fil-guide. S’assurer que le fil-guide sort du
+       cathéter à ballonnet par l’orifice de sortie du fil-guide (joint d’échange).
+    3. Serrer la valve hémostatique progressivement afin de contrôler le reflux. Un serrage excessif de la valve peut affecter le
+       temps de gonflage/dégonflage du ballonnet ainsi que le mouvement du fil-guide.
+    4. Faire avancer le cathéter à ballonnet au-dessus du fil-guide pour qu'il franchisse la lésion en utilisant le(s) repère(s) radio-
+       opaque(s) pour localiser le ballonnet sur la lésion.
+       Précaution : En cas de résistance, ne pas utiliser la force pour faire progresser le dispositif, sous peine d'endommager le
+       cathéter à ballonnet.
+       Remarque : Des données d'essai au banc ont démontré que le nombre moyen de tours avant la défaillance (détachement)
+       du cathéter à ballonnet NC Euphora™ était de 46. Il est conseillé de ne pas appliquer un torque au dispositif plus de deux
+       fois car cela enroulera le fil-guide autour du cathéter.
+    8.4. Gonflage du ballonnet
+    1. Gonfler le ballonnet afin de dilater la lésion en suivant les techniques d’ACTP standard.
+    2. Après chaque gonflage successif, évaluer le flux sanguin distal.
+       Remarque : Si la sténose reste importante, il peut être nécessaire de gonfler plusieurs fois le ballonnet afin de réduire la
+       sténose. Ne pas dépasser la pression théorique de rupture (voir tableau de compliance).
+    3. Vérifier les résultats sous radioscopie.
+    8.5. Retrait du cathéter
+    1. Exercer une pression négative sur le dispositif de gonflage et s’assurer que le ballonnet est complètement dégonflé.
+       Remarque : La durée de dégonflage maximum du cathéter à ballonnet NC Euphora™ est de ≤20 secondes, le dégonflage
+       des ballonnets plus petits étant plus rapide.
+    2. Retirer le cathéter à ballonnet du cathéter-guide tout en maintenant le fil-guide en place et en réglant la valve hémostatique
+       de façon appropriée. Retirer le cathéter à ballonnet du système.
+    3. Après le retrait du cathéter à ballonnet dégonflé, le nettoyer en l’essuyant avec une bande de gaze imbibée de solution
+       saline stérile normale.
+    4. S’assurer de l’intégrité du cathéter à ballonnet.
+
+
+
+
+     10   Mode d’emploi     Français
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                             2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                            Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    5. En cas de réinsertion du même cathéter à ballonnet, rincer la lumière du fil-guide en utilisant la canule de rinçage pour
+       évacuer la solution saline par le point d’entrée du fil-guide (joint d’échange) jusqu’à ce que le liquide sorte par l’extrémité
+       distale du cathéter à ballonnet. Avant de le réinsérer, nettoyer le cathéter à ballonnet en l’essuyant avec une bande de
+       gaze imbibée de solution saline stérile normale. Le ballonnet peut être replié à l’aide de l’outil de repli conformément au
+       mode d’emploi de l’outil de repli (section 8.6).
+                                            C
+
+
+
+
+                                                    1                                                         D
+                                                        B
+                                       1                                                      2
+
+
+
+
+                                                            D         E
+                                                                                                              2
+
+                                                F
+
+
+
+                                                                       A
+
+
+
+
+                                                                          Figure 2.
+
+    8.6. Outil de repli du ballonnet
+    L'outil de repli (figure 2, F) est un accessoire permettant de replier le ballonnet si nécessaire.
+    1. Dégonfler le ballonnet en appliquant une pression négative sur le dispositif de gonflage ; le maintenir sous vide.
+    2. Inspecter visuellement le ballonnet pour confirmer qu'il est complètement dégonflé.
+    3. Retirer l'outil de repli du tableau de compliance (figure 2, E).
+    4. S’assurer que la protection du ballonnet (figure 2, C) ne se trouve pas sur le stylet du ballonnet et placer l’extrémité non
+        évasée de l’outil sur l’extrémité droite du stylet.
+    5. Refaire passer avec précaution le stylet par l’extrémité distale du cathéter à ballonnet et au-delà de l’extrémité proximale
+        du ballonnet.
+    6. Tout en maintenant le cathéter à ballonnet en position proximale par rapport au ballonnet, pousser l’outil de repli par
+        dessus le ballonnet en exerçant un léger mouvement rotatoire jusqu’à ce que tout le ballonnet soit recouvert.
+    7. Retirer doucement l’outil de repli et le stylet.
+    8. S’assurer que le ballonnet et le cathéter n’ont subi aucun dommage. En cas de dommages visibles, mettre le cathéter à
+        ballonnet au rebut.
+    8.7. Dispositif d'enroulement
+    Le dispositif d'enroulement (figure 2, D) est un accessoire conçu pour être utilisé avec les cathéters à ballonnet à échange
+    rapide de Medtronic. Ce dispositif permet de maintenir le cathéter à ballonnet enroulé comme une spirale pour en faciliter la
+    manipulation au cours de son utilisation.
+    1. Retirer le dispositif d'enroulement de la pince d'accessoire sur le manchon (figure 2, A).
+    2. Enrouler le cathéter pour former une ou deux boucles selon le besoin.
+    3. Accrocher le dispositif d'enroulement autour de l'extrémité proximale enroulée du cathéter (figure 2, D).
+    9. Références
+    Il est recommandé au médecin de consulter les publications récentes portant sur les pratiques médicales actuelles relatives à
+    la dilatation par ballonnet, comme celles de l’American College of Cardiology ou l'American Heart Association.
+    10. Tableau de compliance
+    Le tableau de compliance utilise des données factuelles issues de tests in vitro à 37 °C (99 °F) et arrondies au centième. Se
+    reporter à l'étiquetage du produit (figure 2, E) et/ou à l'étiquetage de l'emballage pour consulter le tableau de compliance.
+    11. Déni de garantie
+    LE DÉNI DE GARANTIE CI-APRÈS VAUT UNIQUEMENT EN DEHORS DES ÉTATS-UNIS :
+
+    BIEN QUE LA FABRICATION DU CATHÉTER, CI-APRÈS APPELÉ "PRODUIT", AIT FAIT L’OBJET D’UN TRÈS GRAND
+    SOIN, MEDTRONIC, INC. ET SES SOCIÉTÉS AFFILIÉES N’ONT AUCUN CONTRÔLE SUR LES CONDITIONS DANS
+
+
+                                                                                                                  Mode d’emploi   Français   11
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                           2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                          Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+    LESQUELLES CE PRODUIT EST UTILISÉ. MEDTRONIC INC. ET SES SOCIÉTÉS AFFILIÉES N’ASSUMENT AUCUNE
+    GARANTIE, EXPLICITE ET IMPLICITE, EN RAPPORT AVEC LE PRODUIT, INCLUANT NOTAMMENT TOUTE GARANTIE
+    IMPLICITE DE QUALITÉ MARCHANDE OU D’ADÉQUATION À UN USAGE PARTICULIER. MEDTRONIC INC. ET SES
+    SOCIÉTÉS AFFILIÉES NE POURRONT ÊTRE TENUS POUR RESPONSABLES ENVERS AUCUNE PERSONNE
+    PHYSIQUE OU MORALE DE LA PRISE EN CHARGE DES FRAIS MÉDICAUX OU DES DOMMAGES DIRECTS,
+    INDIRECTS OU CONSÉCUTIFS À L’UTILISATION, À UN DÉFAUT, À UNE DÉFAILLANCE OU À UN
+    DYSFONCTIONNEMENT DU PRODUIT, QUE L’ACTION EN DOMMAGES-INTÉRÊTS SOIT FONDÉE SUR LA GARANTIE,
+    UN CONTRAT, UN ACTE DOMMAGEABLE OU AUTRE. NUL N’EST AUTORISÉ À ENGAGER MEDTRONIC INC. ET SES
+    SOCIÉTÉS AFFILIÉES DANS DES ACTIONS EN REPRÉSENTATION OU EN GARANTIE LIÉES AU PRODUIT.
+
+    Les exclusions et les limitations mentionnées ci-dessus ne sont pas, et ne doivent pas être, interprétées comme contraires aux
+    dispositions obligatoires des lois applicables. Si une partie ou une disposition du présent déni de garantie devait être
+    considérée comme illégale, non applicable ou contraire à la loi en vigueur par un tribunal compétent, la validité des autres
+    dispositions du présent déni de garantie n'en serait pas affectée.
+
+
+
+
+     12   Mode d’emploi    Français
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                        2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                       Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+                                          2014/AUG/11 at 1:54 p.m. Doc number: M333846D001 Rev. 1A [010]
+                                                         Printspec j-view - 8.5 x 11.0 inches
+
+
+
+
+          Medtronic, Inc.
+          710 Medtronic Parkway
+          Minneapolis, MN 55432
+          USA
+          www.medtronic.com
+          US Customer Service/Product Inquiries
+          Tel. (888) 283-7868
+          Fax (800) 838-3103
+
+
+          Medtronic Mexico
+          S. de R.L. de CV
+          Av. Paseo Cucapah 10510 El Lago
+          C.P. 22210 Tijuana, Baja California
+          Mexico
+          Made in Mexico
+
+
+
+
+                                                                                            © 2014 Medtronic, Inc.
+                                                                                            M333846D001 Rev. 1A
+              *M333846D001*
+
+
+
+
+master:20140129, alldocMod:20140620, alldocMod2:20140717, alldocStyle:20140310, alldocStyle_graph:20140523, master_pageset:
+20140728, languageLookup:20140514, table:20140620, characterJoin:20110211, 3of9:20110211, 3of9_svg:20110211
+

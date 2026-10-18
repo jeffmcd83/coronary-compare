@@ -1,0 +1,13 @@
+[
+ {
+  "pass": 31,
+  "model": "Resolute Onyx",
+  "field": "rbp_atm",
+  "existing": "18 atm (2.25–4.0 mm); 16 atm (4.5–5.0 mm RX)",
+  "existing_source": "FDA SSED P160043 — P160043 p.3; https://www.accessdata.fda.gov/cdrh_docs/pdf16/P160043B.pdf",
+  "candidate": "18 atm (2.0–4.0 mm); 16 atm (4.5–5.0 mm, RX only)",
+  "source": "Medtronic Resolute Onyx US IFU M055193T001 Rev AF (Medtronic US Manual Library, published 2024-07-24) Table 1 'Balloon inflation pressure: Rated burst pressure: 2.0-4.0 mm = 18 ATM (1824 kPa), RX only: 4.5-5.0 mm = 16 ATM' p.5 (PDF p.6); https://www.medtronic.com/content/dam/emanuals/cardio/M055193T001DOC1-AF_view.pdf (copy sources/pass31/docs/mdt_resoluteonyx_IFU_M055193T001AF.pdf)",
+  "rank": "IFU > SSED; not overwritten (never-overwrite rule) — Jeff to decide",
+  "note": "Only the size range differs (18 atm value identical). The 2017 SSED pre-dates the 2.0 mm sizes; the row's diameters already include 2.0 mm (GUDID) and the current US IFU lists 2.0 mm under 18 atm. Not placed in values.csv because passes_apply.py would auto-replace a lower-ranked SSED value with an IFU value."
+ }
+]
