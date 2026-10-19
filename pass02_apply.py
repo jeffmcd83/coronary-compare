@@ -22,6 +22,8 @@ NEW=[ # new rows: (category, manufacturer, model, submission)
  ('Balloon','TELEFLEX INCORPORATED','Ringer Perfusion Balloon Catheter','K233729'),  # pass15, Jeff-approved
  ('Balloon','TRIREME MEDICAL, LLC','Chocolate XD PTCA Balloon Catheter','K153682'),  # pass17, Jeff-approved
  ('Balloon','Biotronik AG','Pantera Pro','K160985'),  # pass17, Jeff-approved
+ ('Microcatheter','IMDS Operations B.V.','NHanceIT','K260559'),  # pass40, Jeff-approved
+ ('Guide extension','Vantis Vascular, Inc.','CrossFAST CFM60','K262817'),  # pass40, Jeff-approved
 ]
 V=[
 ('Resolute Onyx','drug','Zotarolimus',SSED('P160043',2)),('Resolute Onyx','drug_dose','~1.6 µg/mm²; max 317 µg (4.0×38 mm)',SSED('P160043',2)),
