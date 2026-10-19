@@ -68,3 +68,5 @@ Corsair Pro fda_submission = "K161126, K171933". K171933 (SE 2018-02-12, DQX) ad
 
 ## 2026-10-18 — Source-ranking rule (Jeff, pass 36)
 - An exact-model brochure beats an IFU that belongs to an older sibling model. Applied: AngioSculpt Evo RX catheter length 139 cm (Philips US Evo brochure D2021070901B, Sept 2024) replaces 137 cm from the older AngioSculpt RX IFU (old value in conflicts_passes.json via sources/pass36/override.csv). The general rule "IFU beats brochure" still holds when both are for the same model.
+
+- **AngioSculpt Evo RX (pass 38, Jeff-approved):** row is all-Evo: only GUDID brand "AngioSculpt Evo RX PTCA scoring balloon catheter…" catalogs 2200-xxxx-B (16). NP 8 atm (2.0–3.0 mm) / 10 atm (3.5 mm); RBP 16 atm all sizes; source Philips US brochure D2021070901B p.4, under the pass-36 rule (exact-model brochure > older-sibling IFU/brochure). Older AngioSculpt RX catalogs/recalls are not attached to this row.

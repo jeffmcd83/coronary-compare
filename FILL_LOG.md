@@ -258,3 +258,9 @@ Skipped (no exact-model US OEM/FDA source / N/A / sibling / gated / third-party)
 Data-quality flags for Jeff (not changed): AngioSculpt Evo RX NP/RBP (above). The new compliance value lists diameters up to 18 atm. Until Jeff decides, it sits beside rbp_atm 20/18/16 from the older-sibling brochure.
 New-row candidates for Jeff (not added): none (Shockwave CS Guide Catheter K243757 is for coronary-sinus access, so it is out of scope).
 Note (closed): Innovative Health reprocessed Eagle Eye Platinum ST RX row is present (85900PST, K210655).
+
+## Pass 38 — AngioSculpt Evo RX made all-Evo (Jeff-approved, 2026-10-19)
+- fam.py: "AngioSculpt RX PTCA" key now matches the exact GUDID brand `^AngioSculpt Evo RX PTCA scoring balloon catheter` (16 DIs, 2200-xxxx-B, all In Commercial Distribution). Older-sibling 2001-/2027-/2034-/plain 2200-xxxx catalogs dropped.
+- sources/pass38/override.csv (supersedes pass35 catalog/n_skus override): catalog_numbers = 16 Evo 2200-xxxx-B; n_skus 100 → 16; diameters 2, 2.5, 3, 3.5 mm and lengths 6, 10, 15, 20 mm (recomputed, unchanged); rbp_atm "20 (2.0–2.5); 18 (3.0); 16 (3.5)" → "16 atm (all sizes, 2.0–3.5 mm)"; nominal_pressure_atm "8" → "8 atm (2.0–3.0 mm); 10 atm (3.5 mm)". Source: Philips US Evo brochure D2021070901B (SEPT2024) p.4 (ordering table + compliance chart), https://www.documents.philips.com/assets/20240524/0352192fb87845c98226b17a00a782df.pdf. Rule: Jeff pass-36 (exact-model brochure beats older-sibling source). Old values in sources/conflicts_passes.json (pass38-override).
+- Recalls: Z-0576-2020 (2027-2515) and Z-0591-2008 (2027-2510) removed from the Evo row (older-sibling catalogs only; no Evo 2200-xxxx-B catalog recalled). recalls.py re-run also dropped 2 Diamondback 360 Precision recalls (Z-1290-2015, Z-3021-2018; catalogs no longer in row); NOT applied — kept pending Jeff's decision (re-run copy not committed).
+- Fill 90.7% (900/992).

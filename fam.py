@@ -24,7 +24,7 @@ F={
 "Euphora":("Euphora",r"^Euphora",None,None),
 "NC Quantum Apex":("NC_Quantum_Apex",r"Quantum Apex",None,None),
 "Wolverine Cutting Balloon":("Wolverine_Cutting_Balloon",r"^Wolverine",None,None),
-"AngioSculpt RX PTCA":("AngioSculpt",r"AngioSculpt",r"PTCA|coronary",r"PTA|OTW"),
+"AngioSculpt RX PTCA":("AngioSculpt",r"^AngioSculpt Evo RX PTCA scoring balloon catheter",None,None),
 "Launcher":("Launcher",r"Launcher",None,None),
 "Vista Brite Tip":("Vista_Brite_Tip",r"VISTA BRITE",None,None),
 "Heartrail III":("Heartrail_III",r"HEARTRAIL",None,None),
