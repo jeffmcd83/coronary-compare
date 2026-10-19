@@ -1,0 +1,24 @@
+[
+ {
+  "pass": 41,
+  "model": "ELCA Coronary Laser Atherectomy",
+  "field": "length_cm",
+  "existing": "135 cm",
+  "existing_source": "GUDID (openFDA UDI) device_sizes Length 135 cm (110-004, 114-009, 117-016, 120-009); matches US IFU D002011088.B (2025-12) p.5 Table 1.1 'Working length (cm)' 135 ± 5 (sources/pass29/docs/elca_ifu_philips_20260914.pdf)",
+  "candidate": "130 cm working length (all four models)",
+  "source": "Philips US product page 'ELCA Coronary laser atherectomy catheter' (HCIGTDELCALASR), Specifications tab, 'Working length 130 cm' for 0.9 mm X-80 / 1.4 / 1.7 / 2.0 mm (accessed 2026-10-19); https://www.usa.philips.com/healthcare/product/HCIGTDELCALASR/elca-coronary-laser-atherectomy-catheter (copy sources/pass41/docs/philips_us_elca_page.html)",
+  "rank": "IFU + GUDID beat a product web page for the same model — kept 135 cm, not overwritten. (130 cm sits inside the IFU's ±5 cm tolerance.)",
+  "note": "Same page also lists guide compatibility 6 F / 6/7 F / 7 F / 8 F (the brochure values Jeff already moved to conflicts in pass 30); no action."
+ },
+ {
+  "pass": 41,
+  "model": "Refinity ST",
+  "field": "frequency_mhz",
+  "existing": "42.1 MHz center frequency",
+  "existing_source": "Philips Refinity ST IFU p.1",
+  "candidate": "45 MHz (rotational single element)",
+  "source": "Philips 'Coronary IVUS catheters — Features and specifications' D000232205/A (DEC 2025) p.1; https://www.documents.philips.com/assets/20240524/76534953c09a42ddb212b17a008c9160.pdf (copy sources/pass41/docs/philips_coronary_ivus_D000232205A.pdf)",
+  "rank": "IFU beats spec sheet for the same model — kept. Likely nominal (45) vs measured centre frequency (42.1); informational only.",
+  "note": "Same sheet: Eagle Eye Platinum / Platinum ST '20 MHz digital 64 element' vs rows' IFU acoustic-output centre frequency 18.6 MHz — same nominal-vs-measured pattern, kept. All other sheet values (3.5F/3.0F, 150/135 cm, 0.014 in, 5F guide ID ≥0.056 in, min sheath 5F) match the rows."
+ }
+]
