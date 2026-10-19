@@ -332,3 +332,7 @@ Applied: AngioSculpt Evo RX tip_profile_in = "0.0172 (lesion entry; bench mean, 
 Logged, not applied (conflicts.json): (1) ELCA length_cm — Philips US product page 130 cm working length vs row 135 cm (GUDID + US IFU D002011088.B "135 ± 5"); IFU/FDA kept. (2) Refinity ST frequency — IVUS spec sheet D000232205/A 45 MHz vs IFU 42.1 MHz centre frequency (Eagle Eye 20 vs 18.6, same pattern); IFU kept, informational.
 Skipped (no exact-model US OEM/FDA source / N/A / sibling / gated): CrossFAST CFM60 length/ID/OD (K262817 summary pp.5–6 has no dimensions; Vantis release says "larger lumen, shorter distal tip" only; no CFM60 sheet on the Vantis site; GUDID lists only CFM55; CFM55 sell-sheet values not copied); AngioSculpt Evo crossing profile ("43% smaller than Wolverine" only; 0.041–0.046 in only in a third-party review); Eagle Eye pullback (manual, solid-state N/A); pressure-wire / IVUS / OCT / Navvus / atherectomy / IVL N/A fields; exhausted angles from passes 12–37 not re-tried.
 New-row candidates for Jeff (not added): none.
+
+## Pass 42 — Jeff decisions on pass-41 items (2026-10-19) → v1.26
+- AngioSculpt Evo RX tip_profile_in kept at 0.0172 in; note added via sources/pass42/override.csv: "read from a bench-test chart in Philips brochure D062202-00 p.3, not from IFU labeling" (old text logged in conflicts_passes.json).
+- ELCA length_cm kept at 135 cm (US IFU D002011088.B Table 1.1 "135 ± 5" + GUDID). Philips US web page "130 cm" stays logged only (sources/pass41/conflicts.json); no change.

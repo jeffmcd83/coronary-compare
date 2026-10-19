@@ -330,5 +330,15 @@
   "existing": "K141090",
   "existing_source": "FDA premarket database via GUDID premarket_submissions; https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K141090",
   "resolution": "Jeff-approved override"
+ },
+ {
+  "pass": "pass42-override",
+  "model": "AngioSculpt RX PTCA",
+  "field": "tip_profile_in",
+  "value": "0.0172 (lesion entry; bench mean, n=5; size not stated). Note: read from a bench-test chart in Philips brochure D062202-00 p.3, not from IFU labeling",
+  "source": "Philips US brochure \"AngioSculpt Evo \u2014 PTCA scoring balloon catheter\" D062202-00 (01/2023; \"Caution: Federal law restricts\u2026\", Philips San Diego USA) p.3 \"Lesion entry profile comparison\" chart: AngioSculpt Evo 0.0172 in (bench, n=5; protocol D045801-00 Marketing Claims Testing-2019; balloon size not stated); https://www.documents.philips.com/assets/20230525/fa96f70a511d4c46b103b00d00ec34f7.pdf (copy sources/pass41/docs/philips_angiosculpt_evo_20230525.pdf; chart crop docs/AngioSculpt_Evo_D062202-00_p3_lesion_entry_chart_220dpi.png) | Jeff decision 2026-10-19 (pass 42): keep value, add bench-chart note",
+  "existing": "0.0172 (lesion entry; bench mean, n=5; size not stated)",
+  "existing_source": "Philips US brochure \"AngioSculpt Evo \u2014 PTCA scoring balloon catheter\" D062202-00 (01/2023; \"Caution: Federal law restricts\u2026\", Philips San Diego USA) p.3 \"Lesion entry profile comparison\" chart: AngioSculpt Evo 0.0172 in (bench, n=5; protocol D045801-00 Marketing Claims Testing-2019; balloon size not stated); https://www.documents.philips.com/assets/20230525/fa96f70a511d4c46b103b00d00ec34f7.pdf (copy sources/pass41/docs/philips_angiosculpt_evo_20230525.pdf; chart crop docs/AngioSculpt_Evo_D062202-00_p3_lesion_entry_chart_220dpi.png)",
+  "resolution": "Jeff-approved override"
  }
 ]
