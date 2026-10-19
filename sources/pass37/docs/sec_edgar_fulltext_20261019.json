@@ -1,0 +1,395 @@
+{
+ "retrieved": "2026-10-19",
+ "endpoint": "SEC EDGAR full-text search (efts.sec.gov)",
+ "results": [
+  {
+   "query": "\"Diamondback 360\" \"French\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22Diamondback%20360%22%20%22French%22",
+   "total": 22,
+   "top": [
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "8-K",
+     "date": "2015-08-05",
+     "id": "0001180145-15-000022:ex991-pressrelease8515.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-Q",
+     "date": "2015-11-06",
+     "id": "0001180145-15-000045:a10-qq193015.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-Q",
+     "date": "2016-02-02",
+     "id": "0001180145-16-000058:a10-qq2123115.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "SD",
+     "date": "2015-05-29",
+     "id": "0001180145-15-000016:ex101conflictmineralsrepor.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-Q",
+     "date": "2015-05-08",
+     "id": "0001180145-15-000011:a10-qq333115.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "8-K",
+     "date": "2014-04-30",
+     "id": "0001180145-14-000007:ex991q32014pressrelease.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "8-K",
+     "date": "2015-04-29",
+     "id": "0001180145-15-000009:ex991pressrelease.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-Q",
+     "date": "2016-11-04",
+     "id": "0001180145-16-000105:a10-qq193016.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-Q",
+     "date": "2017-02-03",
+     "id": "0001180145-17-000009:a10-qq2123116.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-K",
+     "date": "2015-08-27",
+     "id": "0001180145-15-000026:csii10-kx63015.htm"
+    }
+   ]
+  },
+  {
+   "query": "\"Coronary OAS\" \"crown\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22Coronary%20OAS%22%20%22crown%22",
+   "total": 95,
+   "top": [
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "8-K",
+     "date": "2017-03-30",
+     "id": "0001180145-17-000014:ex992-releaseus.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-K",
+     "date": "2017-08-24",
+     "id": "0001180145-17-000040:csii10-kx63017.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-K",
+     "date": "2016-08-25",
+     "id": "0001180145-16-000096:csii10-kx63016.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-K",
+     "date": "2018-08-23",
+     "id": "0001180145-18-000044:csii10-kx63018.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-Q",
+     "date": "2018-02-09",
+     "id": "0001180145-18-000012:a10-qq2123117.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "8-K",
+     "date": "2017-03-30",
+     "id": "0001180145-17-000014:ex991-releasejapan.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "10-Q",
+     "date": "2018-05-04",
+     "id": "0001180145-18-000026:a10-qq333118.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "SD",
+     "date": "2018-05-31",
+     "id": "0001180145-18-000029:ex101conflictmineralsrepor.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "8-K",
+     "date": "2015-01-28",
+     "id": "0001180145-15-000002:csiq2fy15earningsrelease.htm"
+    },
+    {
+     "entity": [
+      "Cardiovascular Systems Inc  (CIK 0001180145)"
+     ],
+     "form": "8-K",
+     "date": "2019-01-30",
+     "id": "0001180145-19-000006:ex991.htm"
+    }
+   ]
+  },
+  {
+   "query": "\"Coronary OAS\" \"guide catheter\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22Coronary%20OAS%22%20%22guide%20catheter%22",
+   "total": 0,
+   "top": []
+  },
+  {
+   "query": "\"Shockwave C2\" \"crossing profile\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22Shockwave%20C2%22%20%22crossing%20profile%22",
+   "total": 0,
+   "top": []
+  },
+  {
+   "query": "\"Shockwave C2\" \"French\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22Shockwave%20C2%22%20%22French%22",
+   "total": 1,
+   "top": [
+    {
+     "entity": [
+      "Shockwave Medical, Inc.  (CIK 0001642545)"
+     ],
+     "form": "DEF 14A",
+     "date": "2020-04-28",
+     "id": "0001564590-20-019227:swav-def14a_20200624.htm"
+    }
+   ]
+  },
+  {
+   "query": "\"Shockwave C2\" \"guide catheter\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22Shockwave%20C2%22%20%22guide%20catheter%22",
+   "total": 0,
+   "top": []
+  },
+  {
+   "query": "\"Shockwave C2\" \"pulses\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22Shockwave%20C2%22%20%22pulses%22",
+   "total": 0,
+   "top": []
+  },
+  {
+   "query": "\"C2 catheter\" \"millimeters\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22C2%20catheter%22%20%22millimeters%22",
+   "total": 0,
+   "top": []
+  },
+  {
+   "query": "\"OpStar\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22OpStar%22",
+   "total": 11,
+   "top": [
+    {
+     "entity": [
+      "DYNAMICS RESEARCH CORP  (CIK 0000030822)"
+     ],
+     "form": "10-K/A",
+     "date": "2010-03-29",
+     "id": "0000030822-10-000008:form10-k.htm"
+    },
+    {
+     "entity": [
+      "DYNAMICS RESEARCH CORP  (CIK 0000030822)"
+     ],
+     "form": "10-K",
+     "date": "2010-03-16",
+     "id": "0000030822-10-000006:form10-k.htm"
+    },
+    {
+     "entity": [
+      "ABBOTT LABORATORIES  (ABT)  (CIK 0000001800)"
+     ],
+     "form": "ARS",
+     "date": "2023-03-17",
+     "id": "0001308179-23-000249:abt_2022annualreport.pdf"
+    },
+    {
+     "entity": [
+      "DYNAMICS RESEARCH CORP  (CIK 0000030822)"
+     ],
+     "form": "10-K",
+     "date": "2011-02-28",
+     "id": "0000030822-11-000006:form10-k.htm"
+    },
+    {
+     "entity": [
+      "DYNAMICS RESEARCH CORP  (CIK 0000030822)"
+     ],
+     "form": "10-K",
+     "date": "2012-03-14",
+     "id": "0000030822-12-000005:form10-k.htm"
+    },
+    {
+     "entity": [
+      "DYNAMICS RESEARCH CORP  (CIK 0000030822)"
+     ],
+     "form": "10-K",
+     "date": "2013-03-18",
+     "id": "0000030822-13-000032:form10-k.htm"
+    },
+    {
+     "entity": [
+      "DYNAMICS RESEARCH CORP  (CIK 0000030822)"
+     ],
+     "form": "10-K",
+     "date": "2009-03-16",
+     "id": "0000030822-09-000005:form10-k.htm"
+    },
+    {
+     "entity": [
+      "ABBOTT LABORATORIES  (ABT)  (CIK 0000001800)"
+     ],
+     "form": "10-K",
+     "date": "2026-02-20",
+     "id": "0001628280-26-010185:abt-20251231.htm"
+    },
+    {
+     "entity": [
+      "ABBOTT LABORATORIES  (ABT)  (CIK 0000001800)"
+     ],
+     "form": "10-K",
+     "date": "2025-02-21",
+     "id": "0001628280-25-007110:abt-20241231.htm"
+    },
+    {
+     "entity": [
+      "ABBOTT LABORATORIES  (ABT)  (CIK 0000001800)"
+     ],
+     "form": "10-K",
+     "date": "2024-02-16",
+     "id": "0001628280-24-005348:abt-20231231.htm"
+    }
+   ]
+  },
+  {
+   "query": "\"Dragonfly\" \"pullback\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22Dragonfly%22%20%22pullback%22",
+   "total": 8,
+   "top": [
+    {
+     "entity": [
+      "MidCap Apollo Institutional Private Lending  (CIK 0002006758)"
+     ],
+     "form": "10-K",
+     "date": "2026-03-12",
+     "id": "0001193125-26-104070:ck0002006758-20251231.htm"
+    },
+    {
+     "entity": [
+      "Middle Market Apollo Institutional Private Lending  (CIK 0002006758)"
+     ],
+     "form": "10-K",
+     "date": "2025-03-17",
+     "id": "0000950170-25-040394:ck0002006758-20241231.htm"
+    },
+    {
+     "entity": [
+      "TIAA-CREF FUNDS  (CIK 0001084380)"
+     ],
+     "form": "N-CSR",
+     "date": "2023-12-28",
+     "id": "0001193125-23-304670:d641711dncsr.htm"
+    },
+    {
+     "entity": [
+      "PACIFIC SELECT FUND  (CIK 0000813900)"
+     ],
+     "form": "N-CSR",
+     "date": "2024-03-05",
+     "id": "0001193125-24-059175:d600021dncsr.htm"
+    },
+    {
+     "entity": [
+      "NATIONWIDE MUTUAL FUNDS  (CIK 0001048702)"
+     ],
+     "form": "N-CSR",
+     "date": "2023-12-22",
+     "id": "0001839673-23-000052:primary-document.htm"
+    },
+    {
+     "entity": [
+      "John Hancock Funds II  (CIK 0001331971)"
+     ],
+     "form": "N-CSR",
+     "date": "2013-11-04",
+     "id": "0000928816-13-001718:a_jhfundsii.htm"
+    },
+    {
+     "entity": [
+      "John Hancock Funds II  (CIK 0001331971)"
+     ],
+     "form": "N-CSR",
+     "date": "2014-10-28",
+     "id": "0000928816-14-001693:a_jhfundsii.htm"
+    },
+    {
+     "entity": [
+      "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST  (CIK 0000914036)"
+     ],
+     "form": "N-CSR",
+     "date": "2024-03-06",
+     "id": "0001193125-24-060531:d737576dncsr.htm"
+    }
+   ]
+  },
+  {
+   "query": "\"ROTAPRO\" \"French\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22ROTAPRO%22%20%22French%22",
+   "total": 0,
+   "top": []
+  },
+  {
+   "query": "\"AngioSculpt\" \"rated burst\"",
+   "url": "https://efts.sec.gov/LATEST/search-index?q=%22AngioSculpt%22%20%22rated%20burst%22",
+   "total": 0,
+   "top": []
+  }
+ ]
+}

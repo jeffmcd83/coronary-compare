@@ -1,0 +1,24 @@
+[
+ {
+  "pass": 37,
+  "model": "AngioSculpt Evo RX",
+  "field": "rbp_atm",
+  "existing": "20 (2.0–2.5 mm); 18 (3.0 mm); 16 (3.5 mm)",
+  "existing_source": "Philips AngioSculpt RX PTCA brochure D023230-06 (09/2018) p.2 (compliance chart); https://philipsproductcontent.blob.core.windows.net/assets/20180716/213f015bc05f45f991f3a91f015d9e78.pdf",
+  "candidate": "16 atm (all sizes 2.0–3.5 mm; Evo 2200-xxxx-B)",
+  "source": "Philips US Evo brochure D2021070901B (SEPT2024) p.4 compliance chart, rated-burst-pressure row (orange) = 16 atm for 2.0/2.5/3.0/3.5 mm; https://www.documents.philips.com/assets/20240524/0352192fb87845c98226b17a00a782df.pdf; identical in US Evo brochure D053719-01 (04/2021) p.4, https://www.documents.philips.com/assets/20210421/9fdfddaa33d445eea837ad110178b363.pdf",
+  "rank": "Exact-model (Evo) brochure vs older-sibling (AngioSculpt RX, D023230-06 2018) brochure. Under Jeff's pass-36 rule the exact-model brochure would win, but changing an existing value needs Jeff's OK — not overwritten. Evo US IFU P015608-B has no RBP table (refers to package label).",
+  "note": "Pass 35 noted the chart's per-size labels were not machine-readable; read visually at 300 dpi this pass (sources/pass37/docs/AngioSculpt_Evo_brochure_p4_compliance_chart_300dpi.png)."
+ },
+ {
+  "pass": 37,
+  "model": "AngioSculpt Evo RX",
+  "field": "nominal_pressure_atm",
+  "existing": "8",
+  "existing_source": "Philips AngioSculpt RX PTCA brochure D023230-06 (09/2018) p.2 (compliance chart); https://philipsproductcontent.blob.core.windows.net/assets/20180716/213f015bc05f45f991f3a91f015d9e78.pdf",
+  "candidate": "8 atm (2.0–3.0 mm); 10 atm (3.5 mm)",
+  "source": "Philips US Evo brochure D2021070901B (SEPT2024) p.4 compliance chart, nominal-pressure cells (blue): 8 atm for 2.0/2.5/3.0 mm, 10 atm for 3.5 mm; https://www.documents.philips.com/assets/20240524/0352192fb87845c98226b17a00a782df.pdf; identical in D053719-01 (04/2021) p.4, https://www.documents.philips.com/assets/20210421/9fdfddaa33d445eea837ad110178b363.pdf",
+  "rank": "Exact-model brochure vs older-sibling brochure — not overwritten; Jeff to decide (same rule as rbp_atm).",
+  "note": "2.0–3.0 mm agree (8 atm); only 3.5 mm differs."
+ }
+]
