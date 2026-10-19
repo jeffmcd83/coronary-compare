@@ -1,0 +1,104 @@
+[
+ {
+  "pass": 39,
+  "type": "recall-match",
+  "model": "Diamondback 360 Precision",
+  "recalls": [
+   "Z-1290-2015",
+   "Z-3021-2018"
+  ],
+  "status": "KEPT in coronary-recalls.csv (pending Jeff)",
+  "finding": "Pass-38 'drop' came from recalls.py looking up the renamed row name 'Diamondback 360 Precision' in raw/catalogs.json, which is keyed by the pre-rename name 'Diamondback 360 Coronary OAS' (so the row had no IDs). Z-1290-2015 names Model DBEC-125 only; Z-3021-2018 names Part 7-10014 / Model SIP-3000. DBEC-125 and SIP-3000 are GUDID version/model numbers of in-row catalogs (e.g. 70058-02/70058-12 = DBEC-125; 70057-03, 7-10037-01/-07 = SIP-3000), but no in-row catalog number or GTIN appears in either record.",
+  "sources": [
+   "https://api.fda.gov/device/recall.json?search=product_res_number:%22Z-1290-2015%22",
+   "https://api.fda.gov/device/recall.json?search=product_res_number:%22Z-3021-2018%22",
+   "raw/catalogs.json ('Diamondback 360 Coronary OAS')"
+  ],
+  "question": "Keep model-number-only matches (DBEC-125 / SIP-3000) on the row, or drop them?"
+ },
+ {
+  "pass": 39,
+  "type": "recall-match",
+  "model": "Diamondback 360 Precision",
+  "recalls": [
+   "Z-2122-2017"
+  ],
+  "status": "NOT added (pending Jeff)",
+  "finding": "CSI Saline Infusion Pump, Part Number 7-10014, Model SIP-3000 (2017-04-14, Terminated, class 3; reason: pumps may switch to stand-by during use). Same part/model as Z-3021-2018. Matches only via the SIP-3000 model number. Part 7-10014 is not an in-row catalog.",
+  "sources": [
+   "https://api.fda.gov/device/recall.json?search=product_res_number:%22Z-2122-2017%22"
+  ],
+  "question": "Add it if Jeff keeps Z-3021-2018 (same rule)?"
+ },
+ {
+  "pass": 39,
+  "type": "recall-match",
+  "model": "Twin-Pass",
+  "recalls": [
+   "Z-0053-2017",
+   "Z-0055-2017",
+   "Z-1712-2009"
+  ],
+  "status": "NOT added (pending Jeff)",
+  "finding": "Exact in-row 4-digit catalogs: Z-0053-2017 code_info 'Model 5200' and Z-0055-2017 'Model 5230' (Vascular Solutions, initiated 2016-09-16, Terminated, class 2; possible excess manufacturing material at the tip / in the RX lumen). Z-1712-2009 is 'REF 5200' (initiated 2009-07-02, Terminated, class 2; PTFE beading material in the OTW lumen). recalls.py ignores IDs shorter than 5 characters, so these never matched. Z-0054-2017 (model 5210, Twin-Pass RX) is not an in-row catalog, so it is excluded.",
+  "sources": [
+   "https://api.fda.gov/device/recall.json?search=product_res_number:%22Z-0053-2017%22",
+   "https://api.fda.gov/device/recall.json?search=product_res_number:%22Z-0055-2017%22",
+   "https://api.fda.gov/device/recall.json?search=product_res_number:%22Z-1712-2009%22"
+  ],
+  "question": "Allow 4-digit catalog matches when the record also names the brand (Twin-Pass)?"
+ },
+ {
+  "pass": 39,
+  "type": "recall-match",
+  "model": "GuideLiner V3",
+  "recalls": [
+   "Z-0259-2020"
+  ],
+  "status": "NOT added (ambiguous)",
+  "finding": "AnewMed Corporation contract-sterilization recall lists item '5573 (588107, 589892)' with no brand. 5573 is a GuideLiner V3 catalog in GUDID, but GuideLiner V2 used the same 557x catalog numbers (e.g. Z-1655-2012 'GuideLiner V2 Catheter, Catalog Number 5571'). Exact model cannot be confirmed.",
+  "sources": [
+   "https://api.fda.gov/device/recall.json?search=product_res_number:%22Z-0259-2020%22"
+  ]
+ },
+ {
+  "pass": 39,
+  "type": "recall-match-flag",
+  "model": "HI-TORQUE PILOT",
+  "recalls": [
+   "Z-0259-2020"
+  ],
+  "status": "ADDED (meets the exact-catalog rule) \u2014 flagged for Jeff",
+  "finding": "code_info item '169. 1010483-HJ (5051171)' = in-row Abbott catalog (GUDID: HI-TORQUE PILOT 50 .014 J 3.0 cm x 300 cm). Recalling firm is AnewMed Corporation (Tucker, GA), not Abbott: 'Various products which were contract sterilized'; reason 'The contract sterilizer did not have adequate packaging data to support the 2-year shelf life.' Initiated 2019-05-23, Open, Classified, class 2, product code DQX. Now shows as an open recall on the HI-TORQUE PILOT row.",
+  "sources": [
+   "https://api.fda.gov/device/recall.json?search=product_res_number:%22Z-0259-2020%22"
+  ],
+  "question": "Keep a third-party (AnewMed) recall on the OEM row (precedent: Stryker Sustainability recall on Launcher), or exclude it?"
+ },
+ {
+  "pass": 39,
+  "type": "submission",
+  "model": "NC Euphora",
+  "value": "K261428",
+  "status": "NOT applied (pending Jeff)",
+  "finding": "FDA 510(k) K261428 (Medtronic Ireland, SE 2026-08-14, LOX, Traditional) is a change to NC Euphora RX. The predicate is NC Euphora K141090, and the only change is 'PTFE based, non-hydrophilic material change on the proximal shaft assembly'. The FDA 3881 indications page names it 'Euphora Rapid Exchange (RX) Balloon Dilatation Catheter', while the summary says NC Euphora. GUDID (openFDA UDI cut 2026-10-01) does not list K261428 for any NC Euphora DI yet. The row's fda_submission is K141090 (from GUDID).",
+  "sources": [
+   "https://www.accessdata.fda.gov/cdrh_docs/pdf26/K261428.pdf (copy sources/pass39/docs/K261428.pdf)",
+   "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261428"
+  ],
+  "question": "Add K261428 to NC Euphora fda_submission (like OptiCross HD K230453/K260816)?"
+ },
+ {
+  "pass": 39,
+  "type": "row-scope-flag",
+  "model": "Vista Brite Tip",
+  "recalls": [
+   "Z-0588-05"
+  ],
+  "status": "ADDED \u2014 flagged",
+  "finding": "Z-0588-05 (Cordis, 2004-05-05, Terminated, class 2) names catalog 4038553S 'Vistabritetip IG Introducer, Introducer Guide' (GUDID brand VISTA BRITE TIP, 'INTRO G 8F STR 55CM .035 INCHES'). The catalog is in the row's GUDID set (the row shows only the first 4000 characters of its 832 catalogs). It is an introducer-guide catalog included by the VISTA BRITE brand regex.",
+  "sources": [
+   "https://api.fda.gov/device/recall.json?search=product_res_number:%22Z-0588-05%22"
+  ]
+ }
+]

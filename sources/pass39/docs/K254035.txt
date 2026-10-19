@@ -1,0 +1,379 @@
+                                                                                             September 3, 2026
+MicroVention, Inc., d/b/a Terumo Neuro
+Remya Krishnan
+Senior Regulatory Affairs Specialist
+35 Enterprise
+Aliso Viejo, California 92656
+
+
+Re: K254035
+    Trade/Device Name: Mayumi™ Thrombectomy System
+    Regulation Number: 21 CFR 870.5150
+    Regulation Name: Embolectomy catheter
+    Regulatory Class: Class II
+    Product Code: QEZ, KRA
+    Dated: July 31, 2026
+    Received: August 3, 2026
+
+Dear Remya Krishnan:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.06.05
+Silver Spring, MD 20993
+www.fda.gov
+K254035 - Remya Krishnan                                                                             Page 2
+
+
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                 Sincerely,
+
+                                                  KRINA M.                 Digitally signed by
+                                                                           KRINA M. PATEL -S
+
+                                                  PATEL -S                 Date: 2026.09.03
+                                                                           14:00:04 -04'00'
+                                             For,
+                                                Gregory O'Connell
+                                                Assistant Director
+                                                DHT2C: Division of Coronary
+K254035 - Remya Krishnan                                                Page 3
+
+
+                             and Peripheral Intervention Devices
+                           OHT2: Office of Cardiovascular Devices
+                           Office of Product Evaluation and Quality
+                           Center for Devices and Radiological Health
+
+Enclosure
+  510(k) #: K254035                                510(k) Summary                                         Prepared on: 2026-09-02
+
+ Contact Details                                                                                          21 CFR 807.92(a)(1)
+
+Applicant Name                           MicroVention, Inc.,d/b/a Terumo Neuro
+
+Applicant Address                        35 Enterprise Aliso Viejo CA 92656 United States
+
+Applicant Contact Telephone              949-434-4610
+
+Applicant Contact                        Remya Krishnan, PhD
+
+Applicant Contact Email                  remya.krishnan@microvention.com
+
+ Device Name                                                                                              21 CFR 807.92(a)(2)
+                                         Mayumi        Thrombectomy System
+Device Trade Name
+
+Common Name                              Embolectomy catheter
+
+Classification Name                      Aspiration Thrombectomy Catheter
+
+Regulation Number                        870.5150
+
+Product Code(s)                          QEZ; KRA
+
+ Legally Marketed Predicate Devices                                                                       21 CFR 807.92(a)(3)
+Predicate #                   Predicate Trade Name (Primary Predicate is listed first)                            Product Code
+
+K213402                        Triever24, Triever20                                                               QEW; KRA
+
+ Device Description Summary                                                                               21 CFR 807.92(a)(4)
+The Mayumi Thrombectomy System is a single-use, sterile, non-pyrogenic medical device designed for use in peripheral vasculature
+and available in two configurations – the 20Fr and the 24Fr systems based on the Aspiration Catheter outer diameter (OD).
+The Mayumi system consists of the following components, packaged together:
+ Mayumi Aspiration Catheter (20Fr or 24Fr)
+
+ Dilator
+ Y-Connector
+
+
+
+ Intended Use/Indications for Use                                                                         21 CFR 807.92(a)(5)
+The Mayumi Thrombectomy System is indicated for:
+
+•The non-surgical removal of emboli and thrombi from blood vessels
+•Injection, infusion and/or aspiration of contrast media and other fluids into or from a blood vessel
+
+The Mayumi Thrombectomy System is intended for use in the peripheral vasculature.
+
+ Indications for Use Comparison                                                                           21 CFR 807.92(a)(5)
+Both subject and the predicate devices have the same indications for use in the peripheral vasculature*
+*Mayumi does not intend to claim indications for use in the treatment of pulmonary embolism as part of the
+current submission.
+
+
+
+Technological Comparison                                                                                       21 CFR 807.92(a)(6)
+-Both the subject and predicate devices have same design for catheter sizes (20F and 24F), proximal and distal metal structures made of
+stainless steel, proximal and distal jacket material made of PEBAX, straight tip configuration and a 0.035" guidewire compatibility. Both
+devices use a 60cc Locking Syringe made of polycarbonate as the aspiration source.
+
+-Both the subject and predicate devices have same principles of operations defined as a single-use, over-the-wire catheter-based system
+for the minimally invasive treatment of thromboemboli in the peripheral vasculature.
+
+-Both the subject and predicate devices have a similar mode of action. The catheter along with the provided dilator are inserted and
+advanced to the thrombus over a pre-placed 0.035" guidewire. After removal of its dilator, thrombus is removed by aspiration with the
+provided 60cc Locking syringe. After the procedure is complete, the aspiration catheter is removed from the patient.
+
+-It is important to note that technological differences for mode of action between the devices is that FlowTriever Catheters can be used
+for mechanical thrombectomy by deploying directly through the Triever20, or Triever24 catheters.
+
+The Triever Catheters can also be used as a stand-alone device for vacuum assisted aspiration, which is the primary mode of action for
+the subject device, Mayumi and for which the substantial equivalence is claimed. A detailed comparison to support substantial
+equivalence to the predicate is provided herein:
+
+
+
+                    Triever24; Triever20                         Mayumi™ Thrombectomy                Equivalency Claim
+                                                                 System
+                    (Predicate Device cleared under                                                  (Same/Similar)
+                    K213402)                                     (Subject Device)
+
+
+Intended Use/       The FlowTriever Retrieval/Aspiration         The Mayumi Thrombectomy             Same
+Indications for     System is indicated for:                     System is indicated for:
+Use                                                                                                  Note: Mayumi does not extend claim
+                    • The non-surgical removal of emboli         •The non-surgical removal of        for intended use in the treatment of
+                    and thrombi from blood vessels.              emboli and thrombi from blood       pulmonary embolism or treating clot
+                    • Injection, infusion, and/or                vessels                             in transit in the right atrium.
+                    aspiration of contrast media and             •Injection, infusion and/or
+                    other fluids into or from a blood            aspiration of contrast media and
+                    vessel.                                      other fluids into or from a blood
+                                                                 vessel
+                    The FlowTriever Retrieval/Aspiration
+                    System is intended for use in the            The Mayumi Thrombectomy
+                    peripheral vasculature and for the           System is intended for use in the
+                    treatment of pulmonary embolism.             peripheral vasculature.
+
+                    Triever Catheters are also intended
+                    for use in treating clot in transit in the
+                    right atrium but not in conjunction
+                    with FlowTriever Catheters.
+Product Code        Primary Product code: QEW                    Primary Product code: QEZ           Similar
+
+                    Secondary Product code: KRA                  Secondary Product code: KRA
+
+Product             Class II                                     Class II                            Same
+Classification
+Product             21CFR 870.5150                               21CFR 870.5150                      Same
+Regulation
+
+                                                                                                                                Page 2 of 5
+                   Triever24; Triever20                      Mayumi™ Thrombectomy                   Equivalency Claim
+                                                             System
+                   (Predicate Device cleared under                                                  (Same/Similar)
+                   K213402)                                  (Subject Device)
+
+
+Regulation         Embolectomy catheter                      Embolectomy catheter                   Same
+Description
+Regulation         Cardiovascular                            Cardiovascular                         Same
+Medical
+Specialty
+Principle of       The FlowTriever Retrieval/Aspiration      The Mayumi Thrombectomy                Same
+Operation          System is a single-use over-the-wire      System is a single-use over-the-
+                   catheter-based system for the             wire catheter-based system for         Note: Mayumi does not extend claim
+                   minimally invasive treatment of           the minimally invasive treatment       for intended use in the treatment of
+                   thromboemboli in the peripheral           of thromboemboli in the                pulmonary embolism.
+                   vasculature and for the treatment of      peripheral vasculature.
+                   pulmonary embolism.
+
+
+Mode of Action     Triever24 and Triever20 provide a         The Mayumi Aspiration Catheter         Same
+                   conduit for aspiration and clot           provides a conduit for aspiration
+                   removal. It consists of a single lumen    and clot removal. It consists of a
+                   catheter with a proximal hemostasis       single lumen catheter with a
+                   valve and stopcock with a flush port. A   proximal hemostasis valve,
+                   radiopaque marker is positioned near      stopcock and quick release fitting
+                   the distal tip to aid with fluoroscopic   for syringe attachment and
+                   navigation. A Dilator compatible with     detachment.      A    radiopaque
+                   a 0.035” guidewire is provided for the    marker is positioned near the
+                   Triever24 and Triever20 to aid with       distal tip to aid fluoroscopic
+                   insertion. A 60 cc Locking Syringe is     navigation. A radiopaque Dilator
+                   provided to create a vacuum for           compatible with a 0.035”
+                   removal of clots.                         guidewire is provided for the
+                                                             Aspiration Catheter to aid with
+                                                             insertion. A 60 cc Locking Syringe
+                                                             is provided to create a vacuum
+                                                             for removal of clots.
+Vacuum             60cc Large Bore Syringe                   60cc Large Bore Syringe                Same
+Aspiration
+Source
+System Configuration
+Key components         • Aspiration Catheter (20 Fr or           •      Mayumi Aspiration           Similar
+                            24 Fr)                                      Catheter (20 Fr or 24 Fr)
+                       • 60 cc Locking Syringe                   •      60 cc Locking Syringe       Note: Mayumi is packaged with an
+                       • Dilator                                 •      Dilator                     additional Y-connector, to attach to
+                                                                 •      Y-Connector                 the proximal Luer connector on the
+                                                                                                    Dilator to flush the Dilator and to
+                                                                                                    prevent blood loss.
+
+Catheter Tip       Straight                                  Straight                               Same
+Configuration
+Target Vessel      < 8mm                                     < 8mm                                  Same
+Catheter Size(s)   20F; 24F                                  20F; 24F                               Same
+Catheter           0.220 in (20Fr)                           0.221 in (20Fr)                        Similar
+Inner Diameter     0.271 in (24Fr)                           0.272 in (24Fr)
+(ID)
+Catheter           0.256 in (20Fr)                           0.260 in (20Fr)                        Similar
+Outer Diameter     0.299 in (24Fr)                           0.312 in (24Fr)
+(OD)
+
+
+
+                                                                                                                                Page 3 of 5
+                      Triever24; Triever20                    Mayumi™ Thrombectomy             Equivalency Claim
+                                                              System
+                      (Predicate Device cleared under                                          (Same/Similar)
+                      K213402)                                (Subject Device)
+
+
+  Effective           90cm (20Fr)                             100 cm (20Fr)                    Similar
+  Catheter Length     90cm (24Fr)                             100 cm (24Fr)
+
+  Guidewire           0.035" guidewire                        0.035" guidewire                 Same
+  Compatibility
+
+  Dilator Working     ~100cm                                  ~112cm                           Similar
+  Length
+
+  Materials of Construction
+  Proximal Metal     Stainless Steel Braid                    Stainless Steel Braid            Same
+  Structure
+  Distal Metal       Stainless Steel Coil                     Stainless Steel Coil             Same
+  Structure
+  Proximal/Distal    Polyether block amide (PEBAX)            Polyether block amide (PEBAX)    Same
+  Jacket Material
+  Catheter and       Proprietary thermoplastic                Proprietary thermoplastic        Similar
+  Dilator system
+  material
+  Syringe Material Polycarbonate                              Polycarbonate                    Same
+  Coating            Catheter: No coating identified          Catheter: Hydrophilic coating    Similar
+                     Dilator: Proprietary coating/ material   Dilator: Hydrophilic coating
+  Other
+  Device             Externally Communicating Medical         Externally Communicating         Same
+  Categorization     Device                                   Medical Device
+  per ISO 10993-1    <24hours limited contact duration        <24hours limited contact
+                                                              duration
+  Sterilization       SAL 10-6; EtO [Ethylene Oxide]          SAL 10-6; EtO [Ethylene Oxide]   Same
+  Method of           Single use; Sterile                     Single use; Sterile              Same
+  Supply
+Non-Clinical and/or Clinical Tests Summary & Conclusions                                                 21 CFR 807.92(b)
+
+
+ The following bench testing were performed for the subject device, Mayumi:
+
+ 1) Device compatibility (ISO 11070 and ISO 80369-7)
+ 2) Physical Attributes (ISO 10555-1)
+   • Effective working length
+   • Distal ID/ OD at Marker Band
+   • Proximal ID/OD
+   • OD of Coil/Braid
+ 3) Aspiration Effectiveness- Suction Volume
+ 4) Shaft Performance tests
+  • Distal Kink Test
+  • Distal Tip Deflection Test
+ 5) System Trackability
+ 6) Catheter lumen collapse test during aspiration
+ 7) System Leakage (ISO 10555-1)
+ 8) Force at Break (ISO 10555-1)
+ 9) Particulate testing
+ 10) Coating Durability (ISO 10555-1 and AAMI/TIR42)
+ 11) Connector Locking/Unlocking Force
+ 12) Catheter Connector Valve and Syringe Connector Durability
+
+                                                                                                                     Page 4 of 5
+13) Mayumi Simulated Use Study
+14) Radiopacity Test
+15) Comparative clot aspiration testing
+16) Torque and Burst Characterization
+
+The following biocompatibility testing was conducted in accordance with ISO-10993-1:
+• Cytotoxicity
+• Sensitization
+• Acute systemic toxicity
+• Material Mediated Pyrogenicity
+• Intracutaneous Reactivity
+• Hemolysis
+• Complement Activation
+• Thrombogenicity
+
+   The Mayumi Thrombectomy System was subjected to GLP in-vivo animal testing that confirmed the device did not raise questions
+   related to safe use.
+
+   No clinical studies were performed. The subject device, Mayumi Thrombectomy System performed equivalent to the comparator
+   device InariTriever24 and Triever20 catheters, in terms of device trackability, aspiration performance, etc. The passing results
+   from the acute animal studies and performance bench testing are considered sufficient to support the intended use of the
+   Mayumi Thrombectomy System. Minor technological differences between the subject and predicate devices do not raise
+   different questions of safety, performance and effectiveness. The subject and predicate devices are therefore considered to
+   be substantially equivalent for the claimed intended use.
+
+   MicroVention (d/b/a Terumo Neuro) concludes through a review of the benchtop and non-clinical animal assessments,
+   comparison of the device classification, indications for use, operating principle, technological characteristics and biocompatibility
+   that the Mayumi™ Thrombectomy System is substantially equivalent to the predicate Inari Triever24 and Triver20 catheters
+   cleared under K213402. Any differences between the subject device and the predicate device do not raise different questions of
+   safety and effectiveness.
+
+
+
+
+                                                                                                                                  Page 5 of 5
+

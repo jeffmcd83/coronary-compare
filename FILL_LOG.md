@@ -265,3 +265,46 @@ Note (closed): Innovative Health reprocessed Eagle Eye Platinum ST RX row is pre
 - Recalls: Z-0576-2020 (2027-2515) and Z-0591-2008 (2027-2510) removed from the Evo row (older-sibling catalogs only; no Evo 2200-xxxx-B catalog recalled). recalls.py re-run also dropped 2 Diamondback 360 Precision recalls (Z-1290-2015, Z-3021-2018; catalogs no longer in row); NOT applied — kept pending Jeff's decision (re-run copy not committed).
 - manufacturer now "Philips Image Guided Therapy Corporation" (GUDID labeler of all 16 Evo DIs; was "Angioscore Inc." from older-sibling DIs).
 - Fill 90.7% (900/992).
+
+## Pass 39 — weekly recall & new-model refresh (2026-10-19)
+First weekly recall and new-model refresh. Published to /preview/ only, tag preview-pass39. No spec values changed: sources/pass39/values.csv is header-only, and the spec CSV and provenance are unchanged. Fill stays 90.7% (900/992; 74 rows). Evidence: sources/pass39/RESEARCH.md, conflicts.json, raw/ (openFDA responses, recall pool .json.gz, GUDID delta hits), docs/ (510(k) PDFs). Scripts: recall_refresh.py, diff.py, newmodels.py, gudid_delta.py. Backups: coronary-recalls.pre-pass39.csv, coronary-recalls-by-supplier.pre-pass39.csv, coronary-specs-verified.pre-pass39.csv, provenance.pre-pass39.json.
+**openFDA cut dates:**
+- recall 2026-10-15
+- 510(k) 2026-10-05
+- PMA 2026-10-05
+- UDI 2026-10-01
+- AccessGUDID daily deltas parsed to 2026-10-16
+- FDA cfPMN web search is behind a bot challenge (not bypassed)
+
+**Recall method:**
+- Pool of 2,016 recall products from: all recalls in the guide's 25 GUDID product codes, plus product_description per row, plus pma_numbers/k_numbers per row. The submission numbers are regex-extracted, which fixes recalls.py's split on annotated submissions.
+- Matching: exact ID (5+ characters), word-boundary match on code_info and product_description, against the row's catalogs plus the DIs and model numbers of in-row GUDID catalogs.
+- Fixes in this script: renamed rows are read under their pre-rename catalogs.json keys, and Launcher and Vista Brite use the full GUDID set because catalog_numbers is truncated at 4,000 characters.
+- recalls.py itself is unchanged and was not re-run; the CSV was edited by append only.
+
+**Recalls added (17).** All are historical; no newly initiated recall matches a guide row.
+- Launcher: 13 more products from event 35236 (Medtronic, 2006-04-05, Terminated, class II, potential non-sterility from loss of package integrity). Earlier runs missed them because of the limit=100 cut. Recalls Z-0930-06, Z-0931-06, Z-0932-06, Z-0936-06, Z-0982-06, Z-0983-06, Z-0984-06, Z-0985-06, Z-0987-06, Z-0989-06, Z-0991-06, Z-0993-06, Z-0995-06; catalogs LA5IMAA, LA5JL40A, LA5JR40A, LA5SR50A, LA83DRCSH, LA8EBU40SHA, LA8EBU45SHA, LA8EBU50SHA, LA8SR30SH, LA8SR35SH, LA8SR40SH, LA8SR50SH, LA8SR60SH.
+- Vista Brite Tip Z-0588-05 (catalog 4038553S, IG introducer guide; Cordis, 2004-05-05, Terminated, class II, straight label on contralateral-shape catheters).
+- HI-TORQUE PILOT Z-0259-2020 (catalog 1010483-HJ; recalling firm AnewMed Corporation, a contract-sterilization shelf-life issue; 2019-05-23, **Open, Classified**, class II). Flagged: this is a third-party recall on the OEM row.
+- Diamondback 360 Precision Z-1095-2014 (70058-02 / DBEC-125; CSI, 2014-01-27, Terminated, class III, peripheral saline line packed in the coronary OAD).
+- ELCA Coronary Laser Atherectomy Z-0662-2017 (110-004, 114-009, 117-016, 120-009; Spectranetics, 2016-10-31, Terminated, class III, sterile packaging integrity).
+
+**Recalls removed: none. Status changes: none.** All 92 pre-run rows were re-found unchanged. coronary-recalls.csv went from 92 to 109 rows. coronary-recalls-by-supplier.csv was regenerated from it; it had been stale since pass 01. coronary-advisories.csv is empty and not derived (unchanged).
+
+**Pending for Jeff (sources/pass39/conflicts.json):**
+- (1) Diamondback Z-1290-2015 and Z-3021-2018 are KEPT as instructed. The pass-38 drop was a recalls.py key mismatch (catalogs.json is keyed by the old name). Both match only via the GUDID model numbers DBEC-125 / SIP-3000 of in-row catalogs. Z-2122-2017 (SIP-3000, Part 7-10014, 2017) is NOT added and follows the same decision.
+- (2) Twin-Pass Z-0053-2017 (5200), Z-0055-2017 (5230) and Z-1712-2009 (5200) are exact 4-digit in-row catalogs, excluded by the 5-character rule. Not added.
+- (3) GuideLiner V3 Z-0259-2020 (5573) is ambiguous because V2 and V3 share 557x catalogs. Not added.
+- (4) Keep or exclude the AnewMed recall on HI-TORQUE PILOT?
+- (5) Vista Brite Z-0588-05 is an IG-introducer catalog inside the VISTA BRITE brand set (row-scope question).
+- (6) NC Euphora: K261428 (Medtronic Ireland, SE 2026-08-14, LOX; predicate K141090; PTFE proximal-shaft material change). Add it to fda_submission? Not applied.
+
+**New-model candidates (not added):**
+- IMDS Operation B.V. **NHanceIT** guide wire support catheter: K260559, SE 2026-08-14, DQY; coronary and/or peripheral; predicate Turnpike LP K191560. https://www.accessdata.fda.gov/cdrh_docs/pdf26/K260559.pdf
+- Vantis Vascular **CrossFAST Integrated Microcatheter Advanced Delivery System**: K262817, SE 2026-09-18, DQY, Special 510(k) (follows K242276 CrossFAST CFM55, 2024); coronary and/or peripheral. https://www.accessdata.fda.gov/cdrh_docs/pdf26/K262817.pdf
+
+**Other findings:**
+- PMA: 12 supplements for the guide's PMAs (2026-08-01 → 10-05). All are manufacturing or PAS changes with no new trade names. No new original coronary PMAs.
+- Reprocessed coronary 510(k)s: none.
+- GUDID: no new DIs for existing rows. SELUTION's 32 "new" deltas are already in the row; Euphora and Ringer records are updates only.
+- FYI, not new: Merit SureCross (K200317) DIs newly published; EluNIR (P170008) and Zurich pressure wire (K190852) are US coronary devices not in the guide.

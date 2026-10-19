@@ -1,0 +1,309 @@
+                                                                                               August 14, 2026
+
+IMDS Operation B.V.
+Edwin Schulting
+CEO
+Ceintuurbaan Noord 150
+Roden, NL9301NZ¿
+Netherlands
+
+Re: K260559
+    Trade/Device Name: NHanceIT (NX31413525)
+    Regulation Number: 21 CFR 870.1250
+    Regulation Name: Percutaneous Catheter
+    Regulatory Class: Class II
+    Product Code: DQY
+    Dated: July 15, 2026
+    Received: July 15, 2026
+
+Dear Edwin Schulting:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.08.05
+Silver Spring, MD 20993
+www.fda.gov
+K260559 - Edwin Schulting                                                                            Page   2
+
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality Management System Regulation
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls),
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review,
+the QMSR requires device manufacturers to review and approve changes to device design and production
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical
+Device File (ISO 13485 clause 4.2.3).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+K260559 - Edwin Schulting                                                    Page   3
+
+
+
+                               Sincerely,
+
+                                                        Digitally signed by JENNY
+                            JENNY R.                    R. KATSNELSON -S
+                            KATSNELSON -S               Date: 2026.08.14 16:50:51
+                                                        -04'00'
+                            for Lydia Glaw
+                                Assistant Director
+                                DHT2C: Division of Coronary and
+                                  Peripheral Intervention Devices
+                                OHT2: Office of Cardiovascular Devices
+                                Office of Product Evaluation and Quality
+                                Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 07/31/2026
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K260559
+
+Device Name
+NHanceIT
+
+
+
+Indications for Use (Describe)
+The IMDS NHanceIT Guide Wire Support Catheter with hydrophilic coating is a guidewire exchange and infusion device
+designed for use in the coronary and/or peripheral vasculature. The catheter is intended to support a guidewire during
+access of coronary and/or peripheral vasculature and allows for exchange of guidewires and provide a conduit for the
+delivery of diagnostic contrast agents. The catheter is not intended for use in the neurovasculature.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                                                      K262396
+
+
+
+
+510(k) Summary – K262396
+[As required by 21 CFR 807.92]
+
+Date Prepared: December 15, 2025
+
+                Submitter’s Name / Contact Person
+                Manufacturer                                      Contact Person
+                IMDS Operations BV                                Aljosja Kot
+                Ceintuurbaan Noord 150                            Director Quality Assurance and
+                                                                  Regulatory Affairs
+                9301 NZ Roden, The Netherlands                    Tel: 0031651453880
+                Establishment Registration #3007740583            Fax: 0031508200231
+
+                General Information
+                Trade Name                   NHanceIT
+                Common/ Usual Name           Catheter
+                Classification Name          Catheter, percutaneous
+                Predicate Device             K191560, Turnpike LP Catheter, Teleflex Medical LLC
+                Reference Device             K200324, NHancer Rx guide wire support catheter, IMDS
+                                             Operations B.V.
+Device Description
+The NHanceIT is a guide wire support catheter intended to be used in the coronary and/ or peripheral
+vasculature. The NHanceIT is a 0.014” OTW guide wire support catheter. The target lesion can be
+reached by using the femoral or brachial approach. The catheter has a distal port, which accesses the
+guide wire lumen. The guide wire lumen begins at the proximal end and terminates at the distal tip. The
+catheter has a radiopaque tip section to indicate the distal end of the support catheter. The tip is visible
+under X-ray. The length of the catheter is designed that the distal end of the catheter may be used to
+navigate to lesions in more distal vessels. The distal part carries a deformable atraumatic tip to help center
+the wire in the vessel.
+Intended Use/Indications for Use
+The IMDS NHanceIT Guide Wire Support Catheter with hydrophilic coating is a guidewire exchange and
+infusion device designed for use in the coronary and/or peripheral vasculature. The catheter is intended to
+support a guidewire during access of coronary and/or peripheral vasculature and allows for exchange of
+guidewires and provide a conduit for the delivery of diagnostic contrast agents.
+The device is contraindicated for use in the neurovasculature.
+Technological Characteristics Comparison
+The NHanceIT is similar in design to the predicate device and both are OTW single lumen guide wire
+support catheters intended to support a guide wire during access of coronary and/ or peripheral
+vasculature, allow for exchange of guide wires and provide a conduit for the delivery of diagnostic
+contrast agents.
+
+    #    Item                                 NHanceIT             Turnpike LP            Equivalent*
+                                                                                          (Yes or
+         Model number                       NX31413525                  5638              Different)
+
+    1    Type clinically based               Over the wire          Over the wire               Y
+                                          single lumen guide     single lumen guide
+                                             wire support           wire support
+                                                catheter               catheter
+
+
+                                                                                                      Page 1 of 3
+                                                                                                   K262396
+
+
+
+
+    2    Shaft material                      Pebax /                Unknown                  D
+                                           Polyethylene
+
+    3    Shaft reinforcement               Stainless steel        Stainless steel            Y
+
+    4    Number of guide wire distal             1                      1                    Y
+         exit ports
+
+    5    Over the wire guide wire                1                      1                    Y
+         lumens
+
+    6    Radiopaque marker                TPE / Tungsten            Unknown                  D
+         material
+
+    7    Effective Length or Usable           135 cm                 135 cm                  Y
+         Length
+
+    8    Exit Marker location (from        95 and 105 cm           No markers                D
+         tip)
+
+    9    Guide wire compatibility            0.014 inch            0.014 inch                Y
+
+   10    Distal tip outer diameter            0.58 mm               0.57 mm                  D
+
+   11    Distal shaft outer diameter          0.73 mm               0.73 mm                  Y
+
+   12    Proximal shaft outer                 1.07 mm               0.96 mm                  D
+         diameter
+
+   13    Minimum Guiding Catheter               5 Fr                   5 Fr                  Y
+         size
+
+   14    Tip design / shape                   Straight               Straight                Y
+
+   15    Hydrophilic coating distal           Present                Present                 Y
+         shaft
+
+   16    Hydrophilic coating               PUR / PVP                Unknown                  D
+         material                       hydrophilic coating
+
+   17    Inner lumen coating                   MDX                  Unknown                  D
+
+The NHanceIT is similar in design and technological characteristics to the predicate device. The differences
+in dimensions and materials were successfully evaluated in performance tests against the predicate device.
+The reference device has a material shaft design equal to the NHanceIT and is manufactured in the same
+cleanrooms and with similar production equipment. The material composition does not raise different
+questions regarding effectiveness and/or safety compared to the predicate.
+Substantial Equivalence and Summary of Studies
+The technological differences between the subject and predicate devices have been evaluated through
+performance and biocompatibility tests and results supported substantial equivalence.
+
+
+
+
+                                                                                                    Page 2 of 3
+                                                                                                        K262396
+
+
+
+
+The NHanceIT guide wire support catheter is substantially equivalent to the specified predicate device
+based on comparisons of the device functionality, technological characteristics, and indications for use. The
+device design has been verified through the following tests:
+
+     1)   Kink resistance/ flexibility                        9) Outer diameter
+     2)   Device introduction, deployment and retraction      10) Leak testing
+     3)   Radiopacity                                         11) Catheter burst
+     4)   Distal tip length                                   12) Infusion flow rate
+     5)   Tensile strength                                    13) Surface coating lubricity
+     6)   Effective length                                    14) Coating integrity
+     7)   Shaft inner diameter                                15) Coating particulate evaluation
+     8)   Torque robustness                                   16) Catheter bond strength and tip pull
+                                                              17) Packaging integrity
+
+
+The NHanceIT is meeting the requirements for biocompatibility in accordance with ISO 10993-1:
+   • Cytotoxicity
+   • Sensitization
+   • Irritation
+   • Systemic toxicity
+   • Hemocompatibility
+   • Pyrogenicity
+The results of the verification tests met the specified acceptance criteria and supported substantial
+equivalence.
+Therefore, the NHanceIT guide wire support catheter is substantially equivalent to the predicate device.
+
+
+
+
+                                                                                                        Page 3 of 3
+
