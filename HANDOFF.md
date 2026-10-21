@@ -23,3 +23,8 @@ Off-box backup of working files (CSVs, scripts, logs, STANDING_DECISIONS, PDF ma
 
 ## If the bot is gone
 The site keeps serving as-is from GitHub Pages. To maintain: clone this repo, restore working files from the backup repo into `/workspace/`, run the build + gate commands above (needs Python 3, openpyxl, playwright + Chrome).
+
+## Weekly recall / new-model refresh (Wednesdays ~9:00 AM ET)
+- Recalls: `python3 recalls.py live sources/passNN/raw/recall_pool.json.gz` (pass-40 rules); optional historical sweep: run `recalls.py match` on a device/enforcement pool (see sources/pass43). Regenerate coronary-recalls-by-supplier.csv from coronary-recalls.csv.
+- New models: sources/pass43/newmodels.py (openFDA PMA/510(k) by guide PMAs, product codes, reprocessors) + AccessGUDID daily/weekly delta XMLs via gudid_delta.py.
+- Last run: Pass 43 (2026-10-21): no new recalls (110), no new models.
