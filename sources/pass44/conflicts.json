@@ -1,0 +1,13 @@
+[
+ {
+  "pass": 44,
+  "model": "Diamondback 360 Precision",
+  "field": "crossing_profile_in / outer_diameter_in",
+  "existing": "Max OAD catheter OD 1.34 mm (0.053 in)",
+  "existing_source": "US IFU FDA PMA labeling P130005c Table 1 p.2 (DBEC-125/DBEC-150)",
+  "candidate": "OAD maximum catheter outer diameter 1.45 mm; nose length 5 mm; 6 Fr guide ID ≥0.066 in (model C-2DB-CL125-135, order no. 7-10060-03)",
+  "source": "CSI Diamondback 360 Coronary OAS multilingual IFU (CE-marked, English section also carries 'Federal Law (USA)' caution; PDF dated 2021-08-09) Table 1 p.2, hosted by Polish distributor Procardia: https://www.procardia.pl/wp-content/uploads/2023/04/diamondback-360_instrukcja-obslugi.pdf (4 MB PDF not kept; text extract sources/pass44/docs/diamondback360_OUS_ifu_p1-6.txt, page crop diamondback360_OUS_ifu_p2-002.png)",
+  "rank": "Not applied. Model C-2DB-CL125-135 / 7-10060-03 has 0 records in AccessGUDID and openFDA UDI (2026-10-22) and is not one of the row's 13 US catalogs, so it is an OUS model, not this row. Third-party distributor copy of a CE IFU. Informational only.",
+  "note": "Shows the OUS successor handle has a larger max OD than the US DBEC-125 IFU value. If Abbott ever lists C-2DB-CL125-135 in US GUDID it would be a new-catalog/new-value decision."
+ }
+]

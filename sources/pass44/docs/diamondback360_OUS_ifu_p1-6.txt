@@ -1,0 +1,758 @@
+                                                                                                         Table of Contents
+                                                                                                         Explanation of Symbols..........................................1
+                                                                                                         1. System description. ..........................................1
+                                                                                                         2. Indications for Use............................................2
+                                                                                                         3. Contraindications..............................................2
+                                                                                                         4. Warnings...........................................................2
+                                                                                                         5. Precautions.......................................................2
+                                                                                                         6. OAS Component Storage and Handling...........2
+                                                                                                         7. Adverse Events.................................................2
+Diamondback 360™ Coronary Orbital Atherectomy System                                                     8. Clinical Trial Summary......................................2
+                                                                                                         9. Equipment, Set Up, and Test............................2
+Instructions for use                                                                                     10. OAS Directions for Use.....................................3
+                                                                                                         11. Specifications....................................................4
+                                                                                                         12. OAS Pump Declaration of Conformity..............4
+                                                                                                         13. EMC Declaration...............................................4
+                                                                                                         Appendices
+                                                                                                         A. OAS Troubleshooting.........................................6
+                                                                                                         B. Orbit Performance. ............................................7
+
+
+
+
+Including the Diamondback 360™ Coronary Orbital Atherectomy Device with GlideAssist™, Saline Pump,
+and ViperWire Advance™ with Flex Tip Coronary Guide Wire                                                 1. System description
+                                                                                                         The Cardiovascular Systems, Inc. (CSI)
+Caution: Federal Law (USA) restricts this device to sale by or on the order of a physician.              Diamondback 360 Coronary Orbital Atherectomy
+                                                                                                         System (OAS) is a catheter-based system
+CSI™, Diamondback 360™, ViperSlide™, ViperWire Advance™, ViperWire™, and GlideAssist™ are                designed for facilitating stent delivery in patients
+trademarks belonging to Cardiovascular Systems, Inc.
+                                                                                                         with coronary artery lesions. The OAS consists
+                                                                                                         of the hand-held CSI Diamondback 360
+                                                                                                         Coronary Orbital Atherectomy Device (OAD) with
+                                                                                                         GlideAssist, the CSI Saline Pump (OAS pump),
+Explanation of Symbols on Package Labels               Explanation of Symbols on the Saline Pump         the CSI ViperWire Advance™ Coronary Guide
+                                                                                                         Wires (ViperWire™ guide wires), and the CSI
+Refer to the package labels to see which symbols                                                         ViperSlide™ Lubricant. The OAS reduces coronary
+apply to specific products.                                                                              plaque on the vessel wall by using an orbiting,
+                                                                                Low saline red LED       diamond-coated crown, within coronary arteries
+                        Conformité Européenne                                   indicator                of reference vessel diameters of 2.5 to 4.0 mm, in                        Figure 1. OAD
+                        (European Conformity)                                                            order to facilitate stent delivery. The intended use is
+                                                                                                         in adult patients who are 18 years of age or older.                       A. Nose length
+                        EU Authorized                                                                                                                                              B. Crown diameter
+                        Representative                                          Start button and pump    The OAS consists of the following:                                        C. Strain relief
+                                                                                ON green LED indicator    • Diamondback 360 Coronary Orbital                                       D. Lockable crown advancer knob
+                                                                                                             Atherectomy Device Model C-2DB-                                       E. On/Off button
+                         Lot number                                                                          CL125-135                                                             F. Low and high speed buttons and indicators
+                                                                                                          • Orbital Atherectomy System (OAS) Pump                                  G. Guide wire brake lever
+                                                                                Pump status yellow LED       Model SIP-3000                                                        H. Electrical power cord
+                                                                                indicator                 • ViperWire Advance with FLEXTIP Coronary                                I. OAD saline port connector
+                        Model number                                                                         Guide Wire Model GWC-12325LG-FT                                       J. Saline bag spike
+                                                                                                          • ViperSlide Lubricant Model VPR-SLD2                                    K. Saline tubing positioners
+                                                                                                                                                                                   L. Saline tubing
+                                                                                                         Caution: The OAD and ViperWire Guide Wires                                M. Injection port
+                        Consult IFU                                                                      are for use with Diamondback 360 coronary OAS                             N. Saline line port connector
+                                                                                Prime button             components only.                                                          O. Sheath
+                        Consult IFU                                                                                                                                                P. Drive Shaft
+                        www.csi360.com (USA)                                                             1.1 Orbital Atherectomy Device                                            Q. Prime Button
+                        (Symbol appears in blue                                                          The orbital atherectomy device (OAD) is a
+                        when placed on the                                                               hand-held, over-the-wire device that includes a
+                                                                                Ground                   sheath-covered drive shaft and a diamond-coated                           1.2 OAD Package Contents
+                        device itself)
+                                                                                                         crown (Figure 1). The diamond coating on the                              The OAD and package contents are supplied sterile
+                                                                                                         crown provides an abrasive surface with which to                          and are for single-use only. Each package contains:
+                        Caution: Consult IFU
+                                                                                                         reduce coronary plaque within coronary arteries.                          • OAD Model C-2DB-CL125-135
+                        www.csi360.com (USA)
+                                                                                                         The OAD is designed to track and spin only over                           • Saline tubing (connects the OAD to the OAS
+                                                                                Type CF Applied Part     the CSI ViperWire Advance Coronary Guide Wires.                             pump)
+                        Do not use if the product
+                        sterile barrier system                                                           The GlideAssist feature facilitates advancing and
+                        or its packaging is                                                              retracting the OAD crown over the guide wire.
+                                                                                                         Do not use any other guide wire with the OAD.                                  Model Number             C-2DB-CL125-135
+                        compromised                                             Slow Blow Type T Fuse    See Table 1 for crown size information. See                                   Crown Size (mm)                  1.25
+                                                                                                         Appendix B for orbit performance.
+                        Do not reuse.                                                                                                                                                 Nose Length* (mm)                   5
+                                                                                                         OAD components:
+                                                                                Finger Caution
+                                                                                                         • Crown                                                                        OAD maximum                     1.45
+                                                                                                         • Crown advancer knob                                                      catheter outer diameter
+                        Do not re-sterilize                                                              • Drive shaft                                                                       (mm)
+                                                       Explanation of Symbols and Graphics on the        • Sheath (covering the drive shaft up to the crown)
+                                                       Coronary Orbital Atherectomy Device               • Electrical power cord                                                        Minimum guide              6 French with an
+                        Sterilized with Ethylene                                                         • Saline tubing for connecting the OAS pump to the                            catheter diameter         internal diameter of
+                        Oxide                                                                              OAD                                                                                                  at least 0.066 inches
+                                                                                                                                                                                                                      (1.68mm)
+                                                                                Prime button             OAD features:                                                             Table 1. Crown size
+                        Manufacturer                                                                     • On/Off button that allows the user to control when                      * Nose length is the length of the drive shaft from
+                                                                                                           crown rotation starts and stops                                         the crown to the distal tip of the shaft.
+                                                                                                         • two (2) speed control buttons on the OAD that
+                                                                                                           allow the user to select the crown rotation speed                       1.3 OAS Pump
+                                                                                Low speed button         • GlideAssist to facilitate advancing and retracting                      The OAS pump provides the saline pumping
+                        Use by
+                                                                                                           the OAD crown over the ViperWire guide wire.                            mechanism and power to the OAD. The small,
+                                                                                                         • crown advancement measurement indicators                                reusable, and portable OAS pump attaches to a
+                        Caution: Federal law                                                             • manual guide wire brake that allows the user to                         standard five-wheel rolling intravenous (IV) pole
+                        (USA) restricts this device                                                        restrict both the rotational and axial movement of                      (Figure 2) or table mount pole. The OAS pump
+                        to sale by or on the order                                                         the ViperWire guide wire                                                includes a built-in, audible 25 second spin time
+                        of a physician.                                         High speed button        • an eccentrically-mounted, diamond-coated crown                          notification, OAS power and priming buttons, and
+                                                                                                           that provides anabrasive surface with which to                          status indicators.
+                                                                                                           reduce coronary plaque on the vessel wall
+                        Contains phthalates                                                              • a green polymer strain relief on the nose of the
+                                                                                                           OAD that prevents kinks where the sheath and
+                                                                                                           the drive shaft attach to the handle
+                                                                                                         • Prime button to momentarily increase saline/
+                                                                                                           lubricant flow
+                                                         Non-continuous use; spin cycles of 30 seconds
+                                                         on, 30 seconds off with maximum spin time of
+                                                         ≤ 5 minutes
+
+
+
+
+English                                                                                                                                                                                                                                  1
+                                                         • Use caution and careful judgement for patients          • Do not attempt aspiration through the OAD or             • Do not flip contents of tray into sterile field as
+                                                           who are intolerant to antiplatelet and/or                 saline line while placed within the body. If saline is     damage may occur. Components within tray must
+                                                           anticoagulation therapy.                                  pulled out through the OAD or saline line, air may         be carefully removed and placed into sterile field
+                                                         • Use caution and careful judgement for patients            enter the system.                                          to avoid damage.
+                                                           with an active or untreated infection.                  • If air is noticed in the system while the OAD is         • Patients with ejection fractions less than 30%
+                                                         • Do not use the OAS if the physician does not              within the body, discontinue treatment by pressing         may require additional precautions due to
+                                                           have experience in coronary angioplasty at their          the OAS Pump power button and carefully                    compromised heart function.
+                                                           institution.                                              remove the OAD driveshaft and crown from the
+                                                         • Do not use the OAS if the physician does not              introducer sheath/guide catheter.                        6. OAS Component Storage and Handling
+                                                           have training on using the OAS. Contact a CSI           • Do not allow body parts or clothing to come into
+                                                           representative for information on training.               contact with spinning components as the OAD               6.1 Storage
+                                                         • Do not use other commercially-available guide             orbits at very high speeds. Physical injury to the        Store all OAS components at room temperature
+                                                           wires with the OAD. Only use the Model GWC-               user or entanglement of clothing with the crown           in a clean environment away from magnets and
+                                                           12325LG-FT ViperWire Advance™ Coronary                    may occur.                                                sources of electromagnetic interference (EMI).
+                                                           Guide Wire with the coronary OAD.                       • The OAS was only evaluated in severely calcified
+                                                           Never operate the OAD without normal saline               lesions; therefore the scientific evidence to            Do not store ViperSlide™ lubricant above 25°C
+                                                           and ViperSlide lubricant. Continually flowing             support use of the OAS to treat other types of           (77°F). Do not freeze ViperSlide lubricant. Refer
+                                                           saline and ViperSlide lubricant admixture is              lesions/patients is limited.                             to the ViperSlide lubricant IFU prior to starting the
+                                                           required for cooling and lubricating the OAD            • Do not spin the crown in GlideAssist™, with the          atherectomy procedure.
+                                                           during use in order to avoid overheating and              guide wire brake lever in the unlocked position,
+                                                           permanent damage to the device and possible               without first securing the guide wire by holding          6.2 Handling
+Figure 2. OAS Pump                                         injury to the patient.                                    it with fingers or by using the guide wire torquer.       • All system components are intended to be
+                                                         • Do not use the OAD or the ViperWire guide wire            If using the guide wire torquer, ensure that it is           used in typical operating room/catheterization
+                                                           if their sterile package barriers are compromised         securely fastened to the guide wire before starting          laboratory environments.
+A. IV pole screw clamp                                                                                                                                                         • Additional coronary OAS components should
+B. IV pole or table mount (not included)                   or damaged.                                               to spin the crown. Failure to secure the guide wire
+                                                         • Do not use device during spasm of the vessel.             when the brake is unlocked could allow the guide             be on hand in the event of damage to any of
+C. Low saline level sensor and connector cord                                                                                                                                     the components or to component packaging.
+D. Control panel                                         • Do not re-sterilize or re-use the OAD. If the OAD         wire to spin while in GlideAssist mode which may
+                                                           is re-sterilized or re-used, the OAD may not              result in patient harm.                                   • Do not reuse or resterilize the OAD,
+E. OAS pump door                                                                                                                                                                  ViperWire™ guide wire, guide wire torquer, or
+F. OAD connection                                          function properly potentially leading to serious
+                                                           infection and patient harm and/or death.                5. Precautions                                                 ViperSlide Lubricant as these components are
+                                                         • Do not re-sterilize or re-use the ViperWire guide       • Do not use the OAD if there is damage to the                 designed for single-use only.
+1.4 OAS Pump Package Contents                              wire or the guide wire torquer. If the ViperWire          OAD package or if the OAD has reached its shelf           • Do not use the OAD or the ViperWire guide
+The OAS pump and package contents are supplied             guide wire or torquer is re-sterilized or re-used,        life expiration date.                                        wire if their sterile package barriers are
+non-sterile and are for multiple uses. Each package        the guide wire may not function properly                • If using an adjustable hemostasis valve with                 compromised or damaged.
+contains:                                                  potentially leading to serious infection and patient      the guide catheter, close the hemostasis valve            • Do not use the OAD or OAS pump if either of
+• OAS pump Model SIP-3000 with attached IV pole            harm and/or death.                                        to minimize blood loss from around the guide                 them were dropped onto a hard surface, from
+  screw clamp                                            • Never force the crown if any resistance is felt           catheter while still allowing the OAD sheath                 a height at or greater than 12 in (30 cm), as
+• Power cord                                               within the vessel as vessel perforation may               to slide through the hemostasis valve. Avoid                 the OAD or OAS pump may be damaged and
+• Low saline level sensor and connector cord               occur. If resistance is felt, retract the crown,          excessive tightening of the hemostasis valve                 may fail to operate properly.
+                                                           while monitoring the cause of the resistance, and         to prevent damaging the OAD catheter sheath.              • Do not use any OAS components after their
+1.5 ViperWire Advance™ Coronary Guide Wire(s)              immediately stop treatment. Use fluoroscopy to            When inserting or removing the OAD crown or                  use-by date.
+The ViperWire with Flex Tip guide wire is                  analyze the situation and to monitor the cause of         drive shaft through the hemostasis valve, use             • Do not use ViperSlide lubricant if it is exposed
+a smooth, nitinol wire, with a silicone coating, and       the resistance.                                           care not to deform the drive shaft.                          to temperatures outside the range indicated
+a radiopaque spring tip (Figure 3). The ViperWire        • Do not come within 5 mm of the proximal end             • If crown and crown advancer knob movements                   on the package labels.
+guide wires allow for proper positioning of the            of the ViperWire guide wire spring tip with the           are not moving correspondingly with one                   • Caution: Do not allow fluid to leak onto
+OAD crown within coronary arteries and provides            distal end of the OAD drive shaft. If the distance        another, retract and re-advance the crown into               electrical connections of the OAS pump.
+a center of rotation for the OAD drive shaft. The          between the shaft tip and the ViperWire guide             the lesion using a travel rate between 1 to 3 mm
+ViperWire guide wire torquer is an accessory,                                                                        per second. Repeat retracting and advancing              7. Adverse Events
+                                                           wire spring tip is insufficient, the shaft tip may                                                                 Potential adverse events that may occur and/or
+packaged with the ViperWire guide wires, and               contact the guide wire spring tip and result              the crown into the lesion until crown to crown
+provides a gripping surface for manipulating the                                                                     advancer knob movement correspondence is                 require intervention include, but are not limited to:
+                                                           in dislodging the guide wire spring tip. Use                                                                       • Allergic reaction to medication/media/device
+ViperWire guide wire.                                      fluoroscopy to monitor movement of the shaft tip          observed. If the knob and the crown are not
+                                                                                                                     moving together, the crown may be driven into the          components
+                                                           in relation to the ViperWire guide wire spring tip.                                                                • Aneurysm
+                                                         • Immediately stop using any OAS component                  lesion with too much force and may result in the
+                                                                                                                     crown springing forward on exiting the lesion.           • Angina (ischemic chest pain)
+                                                           should mechanical failure of any component                                                                         • Arrhythmias
+                                                           occur before or during the atherectomy                  • Follow standard institution atherectomy policies
+Figure 3. ViperWire™ Guide Wire                                                                                      and procedures, including those related to               • Arteriovenous fistula
+                                                           procedure. Using damaged components may                                                                            • Bleeding
+A. Distal spring tip                                       result in OAS malfunction or patient injury.              anticoagulation, channel blockers, and vasodilator
+                                                                                                                     therapy.                                                 • Bruising/hematoma
+                                                         • Immediately stop use of the OAD if the device                                                                      • Cardiac/cardiopulmonary arrest
+1.6 ViperWire Advance™ Coronary Guidewire(s)               stalls. Review for complications if a stall condition   • Always use fluoroscopy while introducing and
+                                                                                                                     advancing the ViperWire guide wire within a              • Cardiac/pericardial tamponade
+Package Contents                                           occurs. Do not change to high speed if device                                                                      • Cerebrovascular accident (CVA)
+The ViperWire guide wire and ViperWire guide wire          stalls on low speed.                                      vessel.
+                                                                                                                   • A temporary pacing lead may be necessary                 • Death
+torquer are supplied sterile and are for single-use        Note: If a stall occurs, the On/Off button is                                                                      • Embolization, distal (air, tissue, thrombus, device)
+only. Each package contains:                               inactive for five seconds. If the On/Off button is        when treating lesions in the right coronary and
+                                                                                                                     circumflex arteries due to the possible occurrence       • Emergent coronary artery bypass graft surgery
+• Five (5) ViperWire Advance guide wires Model             pressed during this five second lockout period,                                                                      (CABG)
+  GWC-12325LG-FT (sterile)                                 the lockout period will begin again.                      of electrophysiological alternations.
+                                                                                                                   • The risk of the occurrence of a dissection or            • Failure to deliver the system to the intended
+• Five (5) ViperWire guide wire torquers (sterile)       • Initial treatment for each lesion must start at low                                                                  locations
+                                                           speed.                                                    perforation is increased in severely calcified
+                                                                                                                     lesions undergoing percutaneous treatment;               • Fever
+1.7 ViperSlide™ Lubricant                                • Do not continue treatment if the wire or the                                                                       • Heart failure/dysfunction
+ViperSlide™ Lubricant reduces friction between the         device becomes subintimal.                                therefore, on-site surgical back-up should be
+                                                                                                                     included as a clinical consideration.                    • Hemorrhage, requiring transfusion
+OAD drive shaft and the ViperWire™ guide wire.           • Do not operate the OAD if there is a bend, kink,                                                                   • Hypotension/hypertension
+Note: Please refer to the ViperSlide Lubricant IFU         or tight loop in the ViperWire guide wire. A bend,      • Do not kink or crush the saline tubing as this will
+                                                                                                                     reduce the flow of saline and ViperSlide Lubricant       • Infection
+prior to starting the atherectomy procedure.               kink, or tight loop in the ViperWire guide wire                                                                    • Myocardial infarction
+                                                           may cause damage to and malfunctioning of the             to the OAD.
+2. Indications for Use                                                                                             • Continually monitor and check the saline tubing          • Pain
+                                                           device during use.                                                                                                 • Pericardial effusion
+The Diamondback 360™ Coronary Orbital                    • Performing treatment in excessively tortuous or           and connections for leaks during the procedure.
+Atherectomy System (OAS) is a percutaneous                                                                         • Do not spin the crown while advancing or                 • Pseudoaneurysm
+                                                           angulated vessels or bifurcations may result in                                                                    • Restenosis of treated segment leading to
+orbital atherectomy system indicated to facilitate         vessel damage.                                            retracting the crown within a guide catheter or
+stent delivery in patients with coronary artery                                                                      tuohy. Damage to the guide catheter, tuohy, and/           revascularization
+                                                         • Once the OAD has reached full speed (as                                                                            • Renal insufficiency/failure
+disease (CAD) who are acceptable candidates for            indicated by a stable pitch) do not allow the             or OAD may occur.
+PTCA or stenting due to de novo, severely calcified                                                                • Ensure the OAD strain relief remains straight            • Shock (cardiogenic, hypovolemic)
+                                                           orbiting crown to remain in one location as it may                                                                 • Slow flow or no reflow phenomenon
+coronary artery lesions.                                   lead to vessel damage. Always keep the crown              during atherectomy treatment. If the OAD strain
+                                                                                                                     relief does not remain straight, the shaft/sheath        • Stroke
+3. Contraindications                                       advancing or retracting, while it is orbiting, by                                                                  • Thrombus
+                                                           continually moving the crown advancer knob.               can kink.
+Use of the OAS is contraindicated in the following                                                                 • Do not sterilize the OAS pump. Sterilizing will          • Vessel closure, abrupt
+situations:                                              • Do not start or stop orbiting of the crown when                                                                    • Vessel injury, requiring surgical repair
+                                                           tight in a lesion.                                        damage the OAS pump. The OAS pump is
+• The ViperWire guide wire cannot pass across the                                                                    intended to be used and maintained outside of            • Vessel dissection, perforation, rupture, or spasm
+  coronary lesion.                                       • Continue to maintain a travel rate between 1 to                                                                    • Vessel occlusion
+                                                           3 mm per second and to not exceed 10 mm per               the sterile field. See Section 10.3 for instructions
+• The target lesion is within a bypass graft or stent.                                                               on cleaning and disinfecting the OAS pump.
+• The patient is not an appropriate candidate for          second.                                                                                                            8. Clinical Trial Summary
+                                                         • Maximum total treatment time should not                 • Do not allow fluid to leak onto electrical               Clinical trial summary information and data are
+  bypass surgery, angioplasty, or atherectomy                                                                        connections of the OAS pump.
+  therapy.                                                 exceed 5 minutes. If maximum total treatment                                                                       available at www.csi360.com.
+                                                           time exceeds 5 minutes, the OAD shaft, crown,           • Do not spin the crown without a seated and
+• The patient has angiographic evidence of                                                                           supportive guide catheter.                               9. Equipment, Set Up, and Test
+  thrombus.                                                and ViperWire guide wire may begin to exhibit
+                                                           signs of wear and result in a device malfunction        • When treating from a larger lumen to a smaller
+• The patient has only one open vessel.                                                                              lumen, make sure the guide catheter is coaxial            9.1. Equipment
+• The patient has angiographic evidence of                 and possible injury to patient. A team member
+                                                                                                                     and that the tip of the OAD has entered the               In addition to OAS components, equip the
+  significant dissection at the treatment site.            should track run time during use to verify total run
+                                                                                                                     coronary artery to control the initial orbit before       operating room with the following:
+• The patient has hypersensitivity to egg-, soya-, or      time is not exceeded.
+                                                                                                                     engaging the crown; engage the OAD tip into               • Guide catheter - see Table 1 for guide catheter
+  peanut protein or to any of the active substances      • Do not advance or retract the orbiting crown by
+                                                                                                                     the tight stenosis until low speed has reached                size recommendations
+  or excipients of the ViperSlide lubricant.               advancing the OAD sheath or handle. Buckling
+                                                                                                                     its treatment potential prior to initiating treatment     • Standard IV pole with five wheels and a
+• Women who are pregnant or children.                      of the ViperWire guide wire may occur resulting
+                                                                                                                     with high speed.                                              20 inch diameter base
+                                                           in vessel perforation or vascular trauma. Always
+4. Warnings                                                                                                        • To relieve compression in the driveshaft, lock the        • 1000 mL bag of sterile normal saline
+                                                           advance the orbiting crown by using the crown
+• Use caution and careful judgement when treating                                                                    crown advancer knob at 1cm from the full back             • Fluoroscopic imaging equipment
+                                                           advancer knob.
+  an unprotected left main coronary artery lesion.                                                                   position, advance device over wire to a position          • Standard 100-240V (50/60Hz) hospital grade,
+                                                         • Do not inject contrast solution into the OAD
+• Use caution and careful judgement for patients                                                                     proximal from the lesion, deploy the guide wire               electrical wall outlet
+                                                           injection port. Device failure or patient harm may
+  intolerant to contrast medium.                                                                                     brake, then unlock the crown advancer knob and            • Other equipment, as needed, for interventional
+                                                           occur.
+• Use caution and careful judgement for patients                                                                     move it fully proximal. If the OAD is started with            procedures
+  with known allergies to Nitinol.                                                                                   existing compression in the driveshaft it may
+                                                                                                                     result in the crown springing forward.
+2                                                                                                                                                                                                                            English
+ 9.2. OAS Pump Set Up                                      9.6. Connecting the OAD to the OAS Pump                       9.7.2. Testing the OAD Crown Rotation                   automatically stop spinning yet the OAD will remain
+ 1. Use the IV pole screw clamp to attach the OAS          Remove the sterile saline tubing from the OAD                    1. Verify the crown advancer knob is fully           in GlideAssist mode.
+ pump to a standard IV pole making sure to attach          package and pass the saline bag spike end of the                 proximal, away from the nose of the handle, and      5. Inject contrast medium, through a port in the
+ the OAS pump to the IV pole at a distance not             saline tubing out of the sterile field. Connect the              release the guide wire brake before threading        hemostasis valve, to verify that the size of the
+ greater than 60 in (153.0 cm) from the floor to the       other end of the saline tubing luer to the OAD luer.             the ViperWire™ guide wire through the OAD            crown is compatible with the treatment area
+ top edge of the OAS pump.                                 Additionally, pass the OAD power cord out of the                 drive shaft.                                         diameter. Verify that contrast media injections are
+ 2. Hang the low saline level sensor and cord, by          sterile field.                                                   2. Grasp the proximal end of the ViperWire           not above 400 PSI.
+ the closed loop, from the horizontal arm of the             Perform the following:                                         guide wire and thread the ViperWire guide wire       6. Verify that the ViperWire™ guide wire spring
+ standard IV pole.                                             1. Connect the saline tubing to the saline bag               through the opening in the OAD drive shaft           tip is distal to the lesion and is not in danger of
+ 3. Plug the low saline level sensor connector into            with ViperSlide™ Lubricant using standard                    distal tip.                                          coming in contact with the spinning crown and drive
+ the back of the OAS pump (Figure 4).                          institution procedures.                                                                                           shaft tip.
+                                                               2. Open the door, located on the front of the              Warning: Do not operate the OAD if there
+                                                               OAS pump, by rotating the door in the direction            is a bend, kink, or tight loop in the ViperWire        Caution: Maintain at least 5 mm between the
+                                                               of the arrow (Figure 6).                                   guide wire. A bend, kink, or tight loop in the         proximal end of the ViperWire guide wire spring
+                                                               3. Place the saline tubing in between the saline           ViperWire guide wire may cause damage to and           tip and the OAD drive shaft tip to prevent contact
+                                                               tubing positioners that are affixed to the saline          malfunctioning of the OAD during use.                  of the drive shaft tip with the guide wire spring
+                                                               tubing, into the top and bottom saline tubing                                                                     tip. Further advance the ViperWire guide wire,
+Figure 4. Plug in the low saline level sensor                                                                               3. Continue feeding the ViperWire guide wire
+                                                               V-guides (Figure 6).                                                                                              as necessary, to maintain the 5 mm minimum
+                                                                                                                            into the OAD drive shaft until the guide wire
+                                                                                                                            appears at the rear of the OAD.                      distance.
+4. Verify that the power cord is connected to the                                   Bag Spike
+
+back of the OAS pump.                                                                                                    Caution: If using an adjustable hemostasis valve        7. Push down on the ViperWire guide wire brake
+5. Insert the other end of the power cord into the                                                                       with the guide catheter, close the hemostasis           lever to engage the brake. The crown will not spin if
+electrical wall outlet.                                                                                                  valve to minimize blood loss from around the guide      the guide wire brake is not locked.
+                                                                                                                         catheter while still allowing the OAD sheath to slide   8. Unlock and push the crown advancer knob to the
+9.3. Preparing the ViperWire Advance™                                                                                    through the hemostasis valve. Avoid excessive           fully proximal position to relieve any compression
+Coronary Guide Wire                                        Rotate to open                                                tightening of the hemostasis valve to prevent           in the driveshaft.
+  1. While using sterile techniques, open the                                                                            damaging the OAD catheter sheath. When inserting        9. Press and release the On/Off button on top of
+  ViperWire guide wire packaging pouch and                                                                               or removing the OAD crown or drive shaft through        the crown advancer knob to begin spinning the
+  remove the packaging tube.                                                                                             the hemostasis valve, use care not to deform the        crown. The OAD is preset to low speed, and the
+  2. Remove the ViperWire guide wire and                                                                                 drive shaft.                                            illuminated LED on the OAD will indicate that the
+  ViperWire guide wire torquer from the packaging                                                                                                                                OAD is operating at low speed.
+                                                           Figure 6. Saline Line Placement                                  4. Lock the ViperWire guide wire in place by
+  tube as follows:
+                                                           A. Saline tubing positioners                                     pressing down on the guide wire brake lever as
+    a. Locate the proximal ViperWire guide wire                                                                                                                                  Warning: Initial treatment for each lesion must start
+                                                           B. Saline tubing                                                 the crown will not spin if the guide wire brake
+    retainer on the inside of the packaging tube.                                                                                                                                at low speed.
+                                                           C. V-guides                                                      is unlocked.
+    This will expose the proximal end of the
+                                                           D. Pump door                                                     5. Verify that saline is still flowing freely out
+    ViperWire guide wire.                                                                                                                                                        Caution: Continually monitor the saline fluid levels
+                                                                                                                            of the saline sheath tip. Verify that the saline
+    b. Removing the ViperWire guide wire – distal                                                                                                                                during the procedure. Continual infusion of saline
+                                                                 4. While closing the door, verify that there is            tubing is properly connected to the saline bag,
+    end first: advance the proximal end of the                                                                                                                                   and ViperSlide™ Lubricant is critical for safe
+                                                                 no pinching of the saline tubing and ensure                that the saline tubing routes correctly through
+    ViperWire guide wire into the packaging tube.                                                                                                                                coronary OAS operation.
+                                                                 that there is slack in the saline tubing between           the saline tubing guides, and that the saline
+    This will expose the distal end and spring tip of
+                                                                 the OAS pump and saline bag with ViperSlide                tubing is properly connected to the OAD.
+    the ViperWire guide wire. Grasp the exposed                                                                                                                                  10. Audibly verify that the OAD drive shaft and
+                                                                 Lubricant.                                                 6. Press and release the On/Off button located
+    distal end of the ViperWire guide wire and                                                                                                                                   crown are orbiting at a stable speed as indicated by
+                                                                 5. Verify that the saline tubing is properly               on top of the crown advancer knob to activate
+    gently pull the ViperWire guide wire out of the                                                                                                                              the OAD frequency (pitch) stabilizing following the
+                                                                 inserted into the saline tubing V-guides and               crown rotation. The OAD is preset to low
+    packaging tube. Use care to not stretch or                                                                                                                                   1.5 second ramp up in speed.
+                                                                 that there are no kinks or damage to the saline            speed, and the illuminated LED on the OAD will
+    damage the spring distal tip while removing the                                                                                                                              11. Slowly advance and retract the crown advancer
+                                                                 tubing.                                                    indicate that the OAD is operating at low speed.
+    ViperWire guide wire from the packaging tube.                                                                                                                                knob to begin atherectomy of the lesion at a travel
+                                                                 6. Press the Master Power switch, on the back              7. Check that the flow of saline is increasing and
+    c. Removing the ViperWire guide wire –                                                                                                                                       rate between 1 to 3 mm per second and to not
+                                                                 of the OAS pump, and verify that the red or                that the shaft and crown are beginning to spin.
+    proximal end first: Grasp the exposed proximal                                                                                                                               exceed 10 mm per second. If treating a tight lesion,
+                                                                 yellow LED is illuminated on the OAS pump                  8. Immediately press and release the On/Off
+    end of the ViperWire guide wire and gently pull                                                                                                                              or during initial passes of a tight lesion, advance
+                                                                 control panel.                                             button to stop the shaft and crown from spinning
+    the ViperWire guide wire out of the packaging                                                                                                                                and retract slowly to maintain corresponding
+                                                                 7. Connect the OAD power cord to the OAS                   and to complete the test.
+    tube. Use care to not stretch or damage the                                                                                                                                  movement of the crown with movement of the
+    spring distal tip while removing the ViperWire               pump (Figure 7).
+                                                                                                                         10. OAS Directions for Use                              crown advancer knob. The device works both
+    guide wire from the packaging tube.                                                                                                                                          antegrade and retrograde, avoid rapid movements
+    d. If use of the guide wire torquer is desired,                                                                       10.1 Performing the Atherectomy Procedure              while the device is orbiting. Using fluoroscopy,
+    remove the torquer from its packaging. Attach                                                                         1. Ensure that the OAD guide wire brake lever is       continually verify that the crown and the crown
+    the torquer to the guide wire by holding the distal                                                                   open (in the up position).                             advancer knob are moving correspondingly
+    end of the torquer and rotating the proximal end                                                                      2. Lock the crown advancer knob at 1 cm from           with one another. Ensure that the OAD remains
+    counterclockwise to tighten. The guide wire is                                                                        the fully proximal position by rotating the crown      horizontal during the procedure to minimize saline
+    manipulated by firmly gripping the attached torquer.   Figure 7. Connect the OAD Power Cord to the                    advancer knob 90 degrees in either direction.          leakage from the OAD handle.
+    The torquer can be repositioned as necessary.          OAS Pump                                                       3. Advance the OAD drive shaft over the                12. Using a series of intermittent treatment intervals
+                                                                 8. Remove the drive shaft from the dispenser             ViperWire guide wire and through the hemostasis        and rest periods, slide the crown advancer knob to
+ 9.4. Initializing the Atherectomy Procedure                                                                              valve while keeping ViperWire guide wire               move the crown back and forth across the lesion
+ 1. Gain vessel access using the physician’s                     coil.
+                                                                 9. Push the crown advancer knob fully proximal,          placement stationary.                                  always returning to the proximal side of the lesion
+ preferred methodology.                                                                                                   4. While using fluoroscopy, gently advance the         when the interval set is complete.
+ 2. Access the treatment site with a guide catheter.             away from the nose of the handle.
+                                                                 10. Purge air from the OAD and the saline                OAD crown over the ViperWire guide wire to
+ 3. Use angiography to locate, visualize, and                                                                             a position approximately 1 cm proximal to the          Warning: Once OAD has reached full speed (as
+ evaluate the coronary artery lesion.                            tubing as follows:
+                                                                   a. Verify that the saline tubing is connected          lesion. Verify that the OAD distal tip is not within   indicated by a stable pitch) do not allow the orbiting
+ 4. Approach and cross the lesion, with the                                                                               the lesion when the crown and drive shaft begin        crown to remain in one location as it may lead to
+ ViperWire guide wire, using the physician’s                       to the OAD.
+                                                                   b. Press the green Start button on the OAS             to spin.                                               vessel damage. Continue to maintain a travel rate
+ preferred methodology.                                                                                                                                                          between 1 to 3 mm per second and to not exceed
+                                                                   pump control panel to start saline flowing               (Optional) Use the GlideAssist™ feature to
+ 9.5. Preparing the Bag of Saline and                              through the saline tubing. Verify that the green         facilitate advancing the OAD crown over the          10 mm per second.
+ ViperSlide™ Lubricant                                             LED illuminates.                                         ViperWire guide wire.                                For every 30 seconds of treatment, a rest period
+ 1. Ensure that the OAS pump is powered off by                     c. Press and hold the Prime button on the                                                                     of equal time is recommended with a maximum
+ pressing the Master Power switch on the back of                   OAS pump control panel to purge air from the             Warning: Spinning the crown using GlideAssist
+                                                                                                                                                                                 treatment time of 5 minutes per OAD. A team
+ the OAS pump to off and ensure that no LEDs are                   saline tubing. Continually pressing the Prime            can be done with the OAD guide wire brake
+                                                                                                                                                                                 member should track individual treatment times to
+ illuminated on the OAS pump panel (Figure 5).                     button will pump saline through the tubing at            lever in either the locked or unlocked position.
+                                                                                                                                                                                 verify treatment does not exceed 30 seconds. A
+ 2. Prepare a full 1000 mL bag of normal saline                    an increasing flow rate. Releasing the Prime             If using GlideAssist with the guide wire brake
+                                                                                                                                                                                 team member should also track that corresponding
+ solution with ViperSlide Lubricant. Refer to the                  button will decrease the flow to the low flow            in the unlocked position, the guide wire must
+                                                                                                                                                                                 rest periods are following individual treatment times
+ ViperSlide Lubricant Instructions for Use for                     rate after two seconds.                                  be held using either fingers or the guide wire
+                                                                                                                                                                                 as well. The OAS pump will emit a beep after every
+ lubricant preparation instructions.                               d. Verify that saline is exiting from the OAD            torquer. If using the guide wire torquer, ensure
+                                                                                                                                                                                 25 second interval of treatment time.
+ 3. Hang the prepared saline bag with ViperSlide                   sheath near the crown.                                   that it is securely fastened to the guide wire
+ Lubricant from the low saline level sensor on the                 e. Continue priming to ensure there are no               before starting to spin using GlideAssist.
+                                                                                                                                                                                 Warning: Maximum total treatment time should
+ standard IV pole.                                                 air bubbles within the saline tubing and use           a. Enable GlideAssist by pressing and holding the      not exceed 5 minutes. If maximum total treatment
+                                                                   standard hospital procedures to aspirate or            low speed button. Release the button once the          time exceeds 5 minutes, the OAD shaft, crown, and
+ Caution: Do not use glass bottles for the saline                  purge air from the lines.                              low speed light begins to slowly blink. The slowly     ViperWire guide wire may begin to exhibit signs
+ solution with ViperSlide Lubricant or hang multiple       Warning: Do not attempt aspiration through the                 blinking light indicates GlideAssist is enabled.       of wear and result in a device malfunction and
+ saline bags from the low saline level sensor as           OAD or saline line while placed within the body.               b. Ensure that the guide wire is secure by locking     possible injury to patient. A team member should
+ this will disable the Low Saline Information signal.                                                                     the guide wire brake or by holding the guide wire      track run time during use to verify total run time is
+                                                                    f. After verifying there are no air bubbles within    with either fingers or the guide wire torquer.         not exceeded.
+                                                                    the saline tubing, discontinue priming.               c. Spin by pressing and releasing the On/Off
+                                                              9.7. Testing the OAD                                        button. The crown will begin spinning and the low      10.1.1. Replacing the Bag of Saline and
+                                                                                                                          speed light will rapidly blink indicating that the     ViperSlide™ Lubricant
+                                                                 9.7.1. Testing OAD Crown Advancement                     crown is spinning in GlideAssist mode.                 The low saline level sensor triggers an audible
+                                                                 Before inserting any portion of the OAD into the         d. Stop spinning by pressing and releasing the         information signal every 5 seconds for a total of
+                                                                 body, ensure that axial movement of the OAD              On/Off button. The low speed light will slowly blink   30 seconds if there is less than 200 mL (+/- 100
+                                                                 crown advancer knob will produce smooth travel           indicating that the OAD is no longer spinning but      mL) remaining in the bag of saline and ViperSlide
+                                                                 of the crown.                                            continues to be in GlideAssist mode.                   lubricant during a treatment period. If the low
+                                                                 Caution: Do not spin the crown during this test.         e. Disable GlideAssist by pressing and                 saline level sensor triggers during a rest period,
+                                                                 1. Ensure that the crown advancer knob is in             immediately releasing either the low or the high       only the red low saline LED is illuminated. Perform
+                                                                 the unlocked position as this will allow free axial      speed button while the crown is not spinning.          the following to replace the bag of saline and
+                                                                 travel of the crown advancer knob.                       The low speed light will stop blinking, yet remains    ViperSlide Lubricant:
+                                                                 2. While visually monitoring the crown, slowly           illuminated indicating that the OAD is now in          1. Ensure that the pump is stopped by pressing the
+                                                                 move the crown advancer knob in a back                   treatment mode.                                        green Start button on the OAS pump control panel
+Figure 5. OAS Pump Control Panel
+                                                                 and forth motion. The maximum travel of the             Note: If the brake configuration is changed from        and verify that the green LED, on the OAS pump
+A. Low saline red LED indicator                                                                                                                                                  control panel, is not illuminated.
+                                                                 crown advancer knob, and the corresponding              either the locked or unlocked position while
+B. Prime button                                                                                                                                                                  2. Prepare a new 1000 mL bag of normal saline
+                                                                 maximum travel of the shaft tip, is 7.5 cm.             spinning in GlideAssist mode, the crown will
+C. Start button and green LED indicator                                                                                                                                          solution with ViperSlide Lubricant. Refer to the
+D. Status yellow LED indicator
+English                                                                                                                                                                                                                               3
+ViperSlide Lubricant Instructions for Use for           10.3. Maintaining the OAS Pump
+                                                                                                                 Electrical connector       Type CF applied Part -        Visual alerts            Start button
+lubricant preparation instructions.                     The OAS pump does not require routine
+                                                                                                                 type (device power)        DC barrel (48 VDC)                                     Low Saline Information
+3. Remove the empty bag of saline and ViperSlide        maintenance, periodic maintenance, or calibration.
+                                                                                                                                                                                                   Signal when ≤200 mL
+Lubricant from the low saline level sensor on the       CSI recommends inspection of the OAS pump in             Fluid connector type       Luer fitting
+                                                                                                                                                                                                   (±100 mL) of 1000-mL
+IV pole.                                                accordance with the hospital’s standard biomedical       Tubing length (from
+                                                                                                                                            3,7 m (12 ft)                                          bag of saline remaining
+4. Hang the new bag of saline and ViperSlide            engineering department protocol. The pump has            saline bag to OAD)
+Lubricant from the low saline level sensor on the       been designed to function for 875 hours minimum,                                                                  Storage conditions       Room temperature in a
+standard IV pole.                                       with 350 hours of minimum OAD use, which                 Visual alerts              Speed indicators                                       clean environment
+Caution: Do not use glass bottles for the saline        equates to 5 years. Contact CSI Customer Service         Sterilization              Ethylene oxide (EtO)          Operating conditions     Typical operating
+solution with ViperSlide Lubricant or hang multiple     if there are questions about the OAS pump function                                  cycle                                                  room / catheterization
+saline bags from the low saline level sensor as this    or performance.                                                                                                                            laboratory environment
+will disable the Low Saline Level Sensor.                                                                        Storage conditions         Room temperature in
+                                                        10.3.1. Cleaning the OAS Pump                                                       a clean environment                                    (10-30°C)
+5. Remove the bag spike from the empty bag of           Clean the OAS pump immediately after each use                                       away from magnets             Operating life           875 hours minimum, with
+saline and ViperSlide Lubricant and spike the new       by following the steps below:                                                       and sources of                                         350 hours of therapy
+bag of saline and ViperSlide Lubricant.                                                                                                     electromagnetic                                        minimum or 5 years
+                                                        Caution: Ensure that the OAS pump is powered
+6. Power on the OAS pump by pressing the green                                                                                              interference (EMI).
+                                                        off at the Master Power switch on the back of the                                                                 Water Ingress            IPX1: Protection against
+Start button on the OAS pump control panel.
+                                                        OAS pump and disconnect the OAS pump from                Operating conditions       Typical operating             Protection               water ingress
+7. Ensure that no air was introduced into the saline
+                                                        wall power before cleaning the OAS pump.                                            room/ catheterization
+tubing.                                                                                                                                                                   *Timer resets when spinning of the OAD stops.
+                                                                                                                                            laboratory environment
+                                                        Caution: Do not immerse the OAS pump into
+10.1.2. Replacing the OAD                                                                                                                   (10-30°C)
+                                                        fluids. Do not use solvents or abrasive cleaners
+If the OAD needs replacing, perform the following:                                                                                                                       12. OAS Pump Declaration of Conformity
+                                                        to clean the OAS pump as these may damage the            Rotational speeds
+1. Stop the spinning crown and drive shaft by                                                                                                                            CSI declares that the coronary OAS is in conformity
+                                                        OAS pump and OAS pump components.                        • GlideAssist              5000 rpm
+pressing and releasing the On/Off button on top of                                                                                                                       with the requirements of: IEC 60601-1. The OAS
+                                                                                                                 • Low                      80000 rpm
+the crown advancer knob.                                Caution: Completely dry the OAS pump before                                                                      pump is compatible for use in a standard catheter
+                                                                                                                 • High                     120000 rpm
+2. Disconnect the OAD power cord from the OAS           reconnecting the OAS pump to wall power and                                                                      laboratory environment.
+pump.                                                   powering on the OAS pump.                                Operating life             5 minutes of total
+3. Leave the guide catheter and the ViperWire                                                                                               therapy time                 13. EMC Declaration
+                                                        1. Prepare an enzymatic detergent, such as Enzol®,
+guide wire in place, release the guide wire brake                                                                                                                        Medical electrical equipment needs special
+                                                        per manufacturer’s directions.                           Water Ingress              IPX1: Protection againts
+on the OAD, and retract the OAD sheath and drive                                                                                                                         precautions regarding electromagnetic compatibility
+                                                        2. Thoroughly wipe down the OAS pump, using a            Protection                 water ingress
+shaft, from the guide catheter, while monitoring and                                                                                                                     (EMC). Install and use medical electrical equipment
+                                                        clean soft cloth that has been dampened with the
+maintaining the current guide wire position.                                                                     Approximate saline                                      according to the EMC information below:
+                                                        prepared detergent, until all visible soil is removed.
+4. Power off the OAS pump by pressing the green                                                                  flow rate                                                 • Do not have portable and/or mobile radio-
+                                                        3. Thoroughly rinse the OAS pump, using a clean
+Start button on the OAS control panel to stop                                                                                                                                 frequency (RF) communications equipment
+                                                        soft cloth that has been dampened with lukewarm          •Prime button
+saline from flowing through the saline tubing and                                                                                                                             within close proximity of medical electrical
+                                                        tap water.                                               pressed, OAD not           16-36 ml/min
+verify that the green LED, on the OAS pump control                                                                                                                            equipment as portable and mobile RF
+                                                        4. Dry the OAS pump using a clean, soft cloth; and,      spinning
+panel, is not illuminated.                                                                                                                                                    communications equipment can affect medical
+                                                        if available, filtered, pressurized air at ≤40 psi.
+5. Disconnect the saline tubing from the OAD                                                                     •OAD spinning on low                                         electrical equipment.
+                                                                                                                                            11-34 ml/min
+currently in use and set aside for use with the         10.3.2. Disinfecting the OAS Pump                        speed                                                     • Ensure that power frequency magnetic
+replacement OAD.                                        Disinfect the OAS pump after each use by following                                                                    fields are at levels characteristic of a typical
+                                                                                                                 •OAD spinning on
+6. Obtain a new replacement OAD and remove the          the steps below:                                                                    7-29 ml/min                       commercial or hospital environment.
+                                                                                                                 high speed
+new replacement OAD from the package.                                                                                                                                      • Under an EMC phenomena the OAS may stop
+                                                        Caution: Ensure that the OAS pump is powered             •OAD not spinning,                                           operation, and may require user intervention
+7. First, attach the existing saline tubing to the      off at the Master Power switch on the back of the
+new replacement OAD, then connect the new                                                                        prime button not           12-19 ml/min                      to recycle the power to resume operation.
+                                                        OAS pump and disconnect the OAS pump from                pressed
+replacement OAD power cord to the OAS pump.             wall power before disinfecting the OAS pump.
+8. Press the green Start button on the OAS pump                                                                                                                          The Orbital Atherectomy System has been tested
+control panel to start the saline flowing through       Caution: Do not immerse the OAS pump into                11.2 Pump Specifications                                to IEC 60601-1-2. The Orbital Atherectomy System
+the saline tubing and verify that the green LED         fluids. Do not use solvents or abrasive disinfectants                                                            has been tested to Immunity and Emission Test
+                                                        to disinfect the OAS pump as these may damage            Parameter                  Value                        Levels of a Professional Healthcare Facility
+illuminates.
+9. Purge the air from the OAD. Refer to Section 9.6,    the OAS pump and OAS pump components.                    Depth                      <30.6 cm (12.0 in)           Environment. The OAS is Group 1 (Therapy ME
+step 10.                                                                                                                                                                 Equipment and Systems) and therefore must meet
+                                                        Caution: Completely dry the OAS pump before              Height                     20.3 cm (8.0 in)             CISPR 11 Class A.
+10. Load the new replacement OAD drive shaft            reconnecting the OAS pump to wall power and              Width                      25.4 cm (10.0 in)
+over the existing ViperWire guide wire.                 powering on the OAS pump.                                                                                        Note: The Emissions characteristics of this
+11. Test the OAD crown advancement per the                                                                       Weight                     <5.0 kg (11 lbs)
+instructions in Section 9.7.1.                          1. Open a fresh, sterile wipe that is pre-saturated                                                              equipment make it suitable for use in industrial
+12. Test the OAD crown rotation per the instructions    with 70% Isopropyl Alcohol (IPA) or prepare a            Electrical cable                                        areas and hospitals (CISPR 11 class A). If it is used
+in Section 9.7.2.                                       sterile gauze/wipe by pouring or soaking it with         length: OAS pump to        6.1 m (20ft)                 in a residential environment (for which CISPR 11
+                                                        70% IPA. Wring any excess IPA from the gauze/            electrical outlet                                       class B is normally required) this equipment might
+10.2. Completing the Atherectomy Procedure                                                                                                                               not offer adequate protection to radio-frequency
+                                                        wipe, ensuring that the gauze/wipe remains               Master Fuse                250 V 4A SLOW BLOW
+To complete the atherectomy procedure, perform                                                                                                                           communication services. The user might need to
+                                                        saturated, but not dripping, with IPA.                                              1/4” x 1 - 1¼”
+the following:                                                                                                                                                           take mitigation measures, such as relocating or
+                                                        2. Thoroughly wipe all surfaces on the front face of
+1. While the crown is spinning, retract the crown                                                                External housing           ABS Plastic                  re-orienting the equipment.
+                                                        the OAS pump. Concentrate wiping the seams and
+and drive shaft proximal to the lesion at a travel      crevices of the OAS pump head door, around the           Electrical connector       Mains Power Plug (100 -
+rate between 1 to 3 mm per second and to not                                                                                                                             Essential Performance of the Coronary Classic
+                                                        edges of the lettering, and around the OAS pump          type (Main Power)          240V AC @ 50-60 Hz)
+exceed 10 mm per second.                                                                                                                                                 OAD Product:
+                                                        control panel. Continue to wipe these surfaces for
+2. Stop the OAD crown and drive shaft rotation by                                                                Audible information        Audible information          • System starts, runs, stops at the operator’s
+                                                        a minimum of one (1) minute. Discard the gauze/
+pressing and releasing the On/Off button on top of                                                               signals                    signal for approximately       discretion and recovers in a controlled manner
+                                                        wipe. Repeat step #1.
+the crown advancer knob.                                                                                                                    every 25 sec of OAD            from external upsets.
+                                                        3. Open the OAS pump head door. Using the
+3. Release the guide wire brake on the OAD and                                                                                              spin time.* Audible
+                                                        prepared gauze/wipe, thoroughly wipe the edge
+carefully remove the OAD drive shaft and crown                                                                                              information signal every
+                                                        of the OAS pump head door on both sides of the
+from the guide catheter.                                                                                                                    5 sec for a total of
+                                                        closure seam. Continue to wipe these surfaces for
+                                                                                                                                            30 sec when the saline
+(Optional): Use the GlideAssist™ feature to             a minimum of one (1) minute. Discard the gauze/
+                                                                                                                                            level falls below 200 mL
+facilitate retracting the OAD crown over the guide      wipe. Repeat step #1.
+                                                                                                                                            during a treatment
+wire.                                                   4. Thoroughly wipe all surfaces on the front face of
+                                                                                                                                            period.
+                                                        the OAS pump and the edge of the OAS pump head
+Caution: Do not spin while retracting the crown         door on both sides of the closure seam. Continue
+within a guide catheter or tuohy. Damage to the         to wipe these surfaces for a minimum of one (1)
+guide catheter, tuohy, and/or OAD may occur.            minute. Discard the gauze/wipe. Repeat step #1.
+4. Press the green Start button on the OAS pump         5. Continue to repeat this wiping process, as many
+control panel to stop saline from flowing through the   times as necessary, to ensure that all surfaces
+saline tubing and verify that the green LED is not      remain wet with IPA for a minimum of ten (10)
+illuminated. Turn off the OAS pump at the Master        minutes.
+Power switch on the back of the OAS pump.               6. Close the OAS pump door when disinfecting is
+5. Remove and dispose of the ViperWire guide wire       complete.
+and guide catheter according to standard hospital       10.4. Returning OAS Components                           Emissions
+procedures.                                             Contact CSI Customer Service for returning OAS
+6. Treat the puncture site according to standard        components. See the back of this instruction for          Emissions             Test                Compliance     Electromagnetic environment - Guidance
+interventional procedure protocol.                      use for CSI contact information.                          Standard                                  Level
+Warning: The OAD, ViperWire guide wire and                                                                        IEC 60601-1-2         RF Emissions        Group 1        The orbital atherectomy device does not utilize
+ViperSlide Lubricant are designed for single patient    11. Specifications
+                                                                                                                                        CISPR 11                           RF energy for its function. Therefore, its RF
+use only and should not be reused or re-sterilized.                                                                                                                        emissions are very low and are not likely to
+                                                        11.1. OAD Specifications
+The saline tubing and partially-used bag of saline                                                                                                                         cause any interference in nearby electronic
+and ViperSlide Lubricant are designed for single                                                                                                                           equipment.
+patient use only and should not be stored or             Parameter                Value
+reused. Discard devices according to hospital            Nose length              5 mm                            IEC 60601-1-2         RF Emissions        Class A        The orbital atherectomy device is suitable for
+guidelines at the end of the procedure.                                                                                                 CISPR 11                           use in all locations other than those located
+                                                         Maximum OAD              1.45 mm
+                                                                                                                                                                           in residential environments and those directly
+Note: Disposal of the OAD: The OAD is designed           sheath outer diameter
+                                                                                                                                                                           connected to a low-voltage power supply
+for single use and should not be reused or
+                                                         Minimum guide            6 French with an internal                                                                network that supplies buildings used for
+re-sterilized. Discard the OAD and saline tubing
+                                                         catheter diameter        diameter of at least                                                                     domestic purposes.
+according to standard hospital protocol.
+                                                                                  0.066 in (1.68 mm)
+Certain countries may have additional requirements                                                                IEC 60601-1-2         Harmonics, IEC      Class A
+                                                         Electrical cable         3.4 m (11 ft)                                         61000-3-2
+for disposal of certain batteries. Please verify your
+                                                         length: OAD to OAS
+country’s requirements for disposal of CR lithium
+                                                         pump                                                     IEC 60601-1-2         Flicker, IEC        Complies
+coin cells (CR2032 or equivalent) prior to disposal.
+                                                                                                                                        61000-3-3
+
+
+4                                                                                                                                                                                                                     English
+Immunity
+
+ Immunity Standard   Test                 Test Level                   Compliance Level
+
+ IEC 60601-1-2       Electrostatic        ±8 kV contact                ±8 kV contact
+                     Discharge (ESD),     ±2, ±4, ±8, ±15 kV air       ±2, ±4, ±8, ±15 kV air
+                     IEC 61000-4-2
+
+ IEC 60601-1-2       Radiated RF,         3 V/m                        3 V/m
+                     IEC 61000-4-3        80 MHz to 2.7 GHz            80 MHz to 2.7 GHz
+
+ IEC 60601-1-2       Radiated RF,         Tested to levels specified   Complies to levels of
+                     Proximity Fields,    in Table 9 of IEC 60601-     Table 9
+                     IEC 61000-4-3        1-2:2014
+
+ IEC 60601-1-2       Electrical Fast      ± 2 kV for power supply      ± 2 kV for power supply
+                     Transient / Burst,   lines                        lines
+                     IEC 61000-4-4        ± 1 kV for input/output      ± 1 kV for input/output
+                                          lines                        lines
+
+ IEC 60601-1-2       Surge, IEC 61000-    ± 2 kV line to ground        ± 2 kV line to ground
+                     4-5                  ± 1 kV line to line          ± 1 kV line to line
+
+ IEC 60601-1-2       Conducted            3 Vrms 150 kHz to 80         3 Vrms 150 kHz to 80
+                     Disturbances RF,     MHz                          MHz
+                     IEC 61000-4-6        6 Vrms ISM bands             6 Vrms ISM band
+
+ IEC 60601-1-2       Power Frequency      30 A/m, 50 / 60 Hz           30 A/m, 50 and 60 Hz
+                     50/60 Hz
+                     Magnetic Field,
+                     IEC 61000-4-8
+
+ IEC 60601-1-2       Voltage Dips and     100 % dip for 0.5 cycle;     100% dip for 0.5 cycle;
+                     Interruptions,       0°, 45°, 90°, 135°, 180°,    0°, 45°, 90°, 135°, 180°,
+                     IEC 61000-4-11       225°, 270°, 315°             225°, 270°, 315°
+                                          100% dip for 1 cycle         100% dip for 1 cycle
+                                          30% dip for 25 cycles        30% dip for 25 cycles
+                                          100% dip for 5 seconds       100% dip for 5 seconds
+
+ AIM 7351731         ISO 14223            65 A/m, 134.2 kHz            65 A/m
+
+ AIM 7351731         ISO/IEC 14443-3      7.5 A/m, 13.56 MHz           7.5 A/m
+                     (Type A)
+
+ AIM 7351731         ISO/IEC 14443-4      7.5 A/m, 13.56 MHz           7.5 A/m
+                     (Type B)
+
+ AIM 7351731         ISO/IEC 15693 (ISO   5 A/m, 13.56 MHz             5 A/m
+                     18000-3 Mode 1)
+
+ AIM 7351731         ISO 18000-3 Mode 3   12 A/m, 13.56 MHz            12 A/m
+
+ AIM 7351731         ISO/IEC 18000-7      3 V/m, 433 MHz               3 V/m
+
+ AIM 7351731         ISO/IEC 18000-63     54 V/m, 860 – 960 MHz        54 V/m
+                     Type C
+
+ AIM 7351731         ISO/IEC 18000-4      54 V/m, 2.45 GHz             54 V/m
+                     Mode 1
+
+
+
+
+English                                                                                            5
+Appendices
+                                                                                                              Issue             Issue                                        Solution
+A. OAS Troubleshooting                                                                                       Number
+If issues with the OAD cannot be resolved in each of the situations below, replace the OAD and continue        9      The green (start) LED is    Ensure that the saline tubing is routed correctly through the
+with the procedure. Contact CSI™ Customer Service for returning OAS components. See the back of the                   illuminated, but the OAS    OAS pump saline tubing guides and that the OAS pump
+instructions for use for CSI contact information.                                                                     pump does not pump          saline tubing door is closed.
+                                                                                                                      and the yellow LED is       Contact CSI™ Customer Service at the phone number on
+     Issue                Issue                                       Solution                                        illuminated as well         the back of this instructions for use.
+    Number
+                                                                                                               10     The OAS pump was            Press the Master Power switch, on the back of the OAS
+      1         The crown stops             1. Immediately discontinue treatment. Stop the OAD from                   running, but has stopped    pump, to power off the OAS pump. Wait five (5) seconds
+                spinning during the         spinning, but leave the OAS pump running.                                 pumping and the yellow      and press the Master Power switch to power on the OAS
+                procedure                   2. Verify that saline is flowing.                                         LED is illuminated          pump.
+                                            3. Check that the OAS pump green LED light is on and that
+                                                                                                               11     The low saline level        Note: The OAS pump will stop pumping saline and
+                                            the OAD green LED light is on. If the OAS pump green LED
+                                                                                                                      sensor (red LED) is         supplying power to the OAD 30 seconds after the low
+                                            is flashing, press the pump start button twice.
+                                                                                                                      illuminated                 saline level sensor activates while the OAD is spinning, as
+                                            4. Check to ensure that the OAS pump power cord is
+                                                                                                                                                  indicated by an audible information signal every 5 seconds.
+                                            connected to the back of the OAS pump and that the OAD
+                                                                                                                                                  1. If there is less than 200 mL of saline left in the bag of
+                                            power cord is connected to the OAS pump.
+                                                                                                                                                  saline and ViperSlide™ Lubricant, replace the bag with a
+                                            5. Check that the OAD guide wire brake lever is in the
+                                                                                                                                                  new 1000 mL bag of normal saline and ViperSlide Lubricant
+                                            down/locked position.
+                                                                                                                                                  solution.
+                                            6. Retract the crown proximal to the lesion. Use fluoroscopy
+                                                                                                                                                  2. Ensure that the bag of saline and ViperSlide Lubricant
+                                            to analyze the situation prior to attempting a low speed spin
+                                                                                                                                                  is hanging freely from the saline bag open hook and that
+                                            of the crown.
+                                                                                                                                                  the low saline level sensor cord is properly inserted into the
+      2         Blood is backing up into    1. Immediately discontinue treatment. Stop the OAD from                                               connector on the sensor and the connector on the back of
+                the OAD                     spinning, but leave the OAS pump running.                                                             the OAS pump.
+                                            2. Verify that the saline tubing is properly connected to the                                         3. Verify that the red low saline LED on the OAS pump
+                                            saline bag, that the saline tubing is routed correctly through                                        control panel turns off and either the yellow LED or the
+                                            the OAS pump saline tubing guides, and that the saline                                                green LED illuminates. If the yellow LED illuminates, press
+                                            tubing is properly connected to the OAD.                                                              the Start button on the OAS pump and verify that the green
+                                            3. If the saline tubing is properly connected and blood                                               LED illuminates.
+                                            continues to back into the OAD sheath, replace the OAD.
+                                                                                                               12     The OAS pump will not       Note: The OAS pump is designed to stop pumping saline
+      3         Crown rotational speeds     1. Immediately discontinue treatment.                                     power on                    and cut the supply of power to the OAD if the OAS
+                are variable and will not   2. Stop the OAD from spinning, but leave the OAS pump                                                 pump encounters internal errors, such as: improper OAS
+                stabilize                   running.                                                                                              pump pumping speed, problems with the power supply,
+                                            3. Verify that saline is flowing.                                                                     inadvertent opening of the saline tubing door, etc. If an
+                                            4. Verify ViperSlide™ Lubricant is present in the saline                                              internal error occurs, the green LED will turn off and the
+                                            bag. See the ViperSlide Lubricant Instructions for Use                                                yellow LED will illuminate.
+                                            for information. Verify that the saline tubing is properly
+                                            connected to the saline bag, that the saline tubing is routed                                         1. Ensure that the saline tubing door is closed.
+                                            correctly through the OAS pump saline tubing guides, and                                              2. Attempt to restart the OAS pump by pressing the green
+                                            that the saline tubing is properly connected to the OAD.                                              Start button on the OAS pump control panel and verify that
+                                            5. Verify that the crown advancer knob moves smoothly.                                                the green LED illuminates.
+                                            6. Retract the crown proximal to the lesion. Using a                                                  3. If the OAS pump does not restart after completing the
+                                            maximum travel rate of 10 mm per second, continue                                                     abovementioned steps, press the Master Power switch to
+                                            treatment on low speed.                                                                               power off the OAS pump. Wait a few seconds and press the
+                                                                                                                                                  Master Power switch to power on the OAS pump. Verify
+      4         All speed indicator LEDs    Immediately discontinue treatment and replace the OAD.                                                that the OAS pump powers on.
+                on the OAD handle
+                remain illuminated                                                                             13     All OAD speed               1. Discontinue treatment.
+                                                                                                                      indicator LEDs blink        2. Turn off the power module switch on the back of the OAS
+                                                                                                                      simultaneously              pump. After a few seconds, turn the power module switch to
+      5         The Crown and crown         During start up in the vessel:                                                                        on and press the green Start button.
+                advancer knob are not       1.Verify the Tuohy valve is not over-tightened.                                                       3. If the OAD LEDs continue to blink simultaneously,
+                moving correspondingly      2. Verify the crown advancer knob moves smoothly.                                                     replace the OAD.
+                with one another            3. Retract the crown advancer knob until the crown moves           14     The crown cannot spin       1. Discontinue treatment.
+                                            with the knob.                                                                                        2. Check that the brake is locked.
+                                            While spinning:                                                                                       3. Check the OAS pump and device indicator LEDs.
+                                            1. Immediately discontinue treatment. Stop the OAD from                                               4. Check the power cords.
+                                            spinning, but leave the OAS pump running.                                                             5. Verify that the OAS pump and device are receiving
+                                            2. Verify the Tuohy valve is not over-tightened.                                                      power.
+                                            3. Verify that the crown advancer knob moves smoothly.
+                                            4. Retract the crown advancer knob until the crown moves           15     There is no saline flow     1. Discontinue or do not initiate treatment.
+                                            with the knob.                                                                                        2. Verify that the saline tubing is properly connected and
+                                            5. Verify that contrast media injections are not above                                                saline is flowing.
+                                            400 psi and are not occurring during spinning of the crown.                                           3. Ensure that saline tubing is installed properly in the roller
+                                            6. Engage and disengage the lesion using a maximum                                                    OAS pump.
+                                            10 mm per second travel rate while maintaining                                                        4. Verify that the green LED on the front of the OAS pump is
+                                            corresponding crown to crown advancer knob movement.                                                  on after pressing the Power button.
+                                                                                                                                                  5. If the device is properly connected and no flow is noted,
+      6         The OAD will not exit       Press and immediately release the speed button. Do not                                                replace the saline tubing, bag, and/or device.
+                GlideAssist™ mode           continuously hold the speed button to exit GlideAssist                                                6. Verify that the OAS pump door is closed.
+                                            mode.                                                                                                 7. Verify that there are no kinks in all saline tubing and the
+      7         The OAS pump will not       1. Ensure that the power cord is properly inserted into the                                           device saline sheath.
+                power on and no LEDs        power module on the back of the OAS pump and that the              16     No LEDs lit on front        1. Ensure that the OAS pump is properly powered up (see
+                are illuminated on the      power cord is connected to a functioning wall power outlet.               panel of the OAS pump.      above).
+                OAS pump control panel      2. Ensure that the Master Power switch, on the back of the                                            2. If none of the LEDs on the front cover light up after
+                                            OAS pump, is in the on position.                                                                      powering the OAS pump, contact CSI customer service.
+      8         The OAS pump will not       1. Ensure that the OAS pump is properly powered on – see           17     The crown will not stop     1. Press the power button on the OAS pump.
+                pump saline                 Issue number 6.                                                           spinning                    2. Unplug the device from the OAS pump.
+                                            2. Ensure that the saline bag and saline tubing (i.e. bag                                             3. Unplug the OAS pump from the power source.
+                                            spike) are properly connected and a sufficient amount of
+                                            saline is in the saline bag such that the low saline level         18     All three LEDs on the       1. Press the Master Power switch, on the back of the OAS
+                                            sensor is not active and the red LED on the OAS pump                      front panel of the OAS      pump, to power off the OAS pump. Wait a few seconds and
+                                            control panel is not illuminated.                                         pump remain illuminated     press the Master Power switch to power on the pump.
+                                            3. Ensure that the OAS pump head is properly aligned with                                             2. Contact CSI Customer Service at the phone number on
+                                            the OAS pump base.                                                                                    the back of this instructions for use.
+                                            4. Ensure that the saline tubing is routed correctly through
+                                            the OAS pump saline tubing guides and that the OAS pump            19     After OAS pump power        Contact CSI Customer Service at the phone number on the
+                                            saline tubing door is closed.                                             up, all three LEDs on the   back of this instructions for use.
+                                            5. Ensure that the yellow LED is off and the green LED is                 front panel of the OAS
+                                            illuminated. If the green LED is not illuminated, press the               pump blink three times
+                                            green Start button and verify that the yellow LED is off and              and there is an audible
+                                            that the green LED illuminates.                                           notification signal three
+                                            6. Ensure that the yellow LED is off and the green LED is                 times
+                                            illuminated. If the green LED is flashing while the yellow
+                                            LED is illuminated, press the green Start button twice and
+                                            verify that the yellow LED is off and that the green LED
+                                            illuminates.
+
+
+
+
+6                                                                                                                                                                                                           English
+

@@ -1,0 +1,431 @@
+     DEPARTMENT OF HEALTH & HUMAN SERVICES
+
+                                                                              Food and Drug Administration
+                                                                              10903 New Hampshire Avenue
+                                                                              Document Control Center - WO66-G609
+                                                                              Silver Spring, MD 20993-0002
+
+                                               May 12, 2016
+
+Texas Medical Technologies, Inc.
+ƏEJ Smith
+Consultant
+Smith Associates
+1468 Harwell Avenue
+Crofton, Maryland 21114
+
+Re: K153703
+    Trade/Device Name: Guiding Catheter
+    Regulation Number: 21 CFR 870.1250
+    Regulation Name: Percutaneous Catheter
+    Regulatory Class: Class II
+    Product Code: DQY
+    Dated: April 12, 2016
+    Received: April 12, 2016
+
+Dear EJ Smith:
+
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability
+warranties. We remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA),
+it may be subject to additional controls. Existing major regulations affecting your device can be
+found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must comply
+with all the Act's requirements, including, but not limited to: registration and listing (21 CFR
+Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-
+related adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in
+Page 2 - EJ Smith
+
+the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product
+radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.
+
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please
+contact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041
+or (301) 796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note
+the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21
+CFR Part 803), please go to
+http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office
+of Surveillance and Biometrics/Division of Postmarket Surveillance.
+
+You may obtain other general information on your responsibilities under the Act from the
+Division of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301)
+796-7100 or at its Internet address
+http://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+
+                                                 Sincerely yours,
+
+                                                 Brian D. Pullin -S
+                                             for Bram D. Zuckerman, M.D.
+                                                 Director
+                                                 Division of Cardiovascular Devices
+                                                 Office of Device Evaluation
+                                                 Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: January 31, 2017
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K153703
+
+Device Name
+Guiding Catheter
+
+
+
+Indications for Use (Describe)
+The Guiding Catheter is intended for use for intravascular introduction of interventional/diagnostic devices into the
+coronary or peripheral vasculature.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                   Prescription Use (Part 21 CFR 801 Subpart D)            Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/14)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                                      K153703
+                                                                                      Page 1 of 5
+
+Section 5: 510(k) Summary
+
+5.1 – Company Information & Contact Person
+
+       Company Name:             Texas Medical Technologies Inc.
+       Company Address:          9005 Montana Ave. Ste. A
+                                 El Paso, Texas 79925
+
+       Telephone:                (915) 774-4321
+       Fax:                      (915) 774-4323
+       Contact Person:           Cesar Rios, Quality Assurance & Regulatory Manager
+       Date Prepared:            4/11/2016
+
+5.2 – Device Name & Classification
+
+       Proprietary Name:         Guiding Catheter
+       Common Name:              Catheter
+       Classification Name:      Percutaneous Catheter
+       Regulation Number:        21 CFR 870.1250
+       Product Code:             DQY
+       Device Class:             II
+
+5.3 – Predicate Device
+
+       Legally Marketed Substantially Equivalent Predicate Device
+
+       Proprietary Name:         Vista Brite Tip
+       Company Name:             Cordis Corporation
+       Common Name:              Percutaneous Catheter
+       Classification Name:      Percutaneous Catheter
+       Regulation Number:        21 CFR 870.1250
+       Product Code:             DQY
+       Device Class:             II
+       510(k) Number             K972978
+
+5.4 – Device Description
+
+     The TXM Guiding Catheter is a guiding catheter, for application in intravascular
+     vessels. It consists of a lubricous inner liner made from Teflon, a stainless steel braid
+     over the inner liner. The outer shaft consists of durometer hardness and different
+     lengths of colored Polyether block amide. A Polycarbonate hub is attached to the
+     proximal end of the Guiding Catheter. A strain relief is placed at the proximal end of
+     the Guiding Catheter and over the distal end of the hub. The device shafts will have
+     an outer diameter of 5 French sizes (0.070”) and 6 French sizes (0.082) respectively
+     for each catheter. The 5 French sizes will have an inner diameter of 0.058” and the 6
+
+
+
+                                                                                                 16
+                                                                                         K153703
+                                                                                         Page 2 of 5
+
+      French sizes will have an inner diameter of 0.070”. The device is available in length
+      of 100cm. The device is supplied sterile and is intended for single use.
+
+        The device is supplied sterile and is intended for single use
+
+        The following table lists the models and sizes available for Guiding Catheter.
+
+Table 5.4.1. Guiding Catheter Models and Sizes
+
+
+                                                  Outer          Inner
+   Commercial         French        Shaft                                    Marker Band
+                                                 Diameter      Diameter                        Tip Shape
+  Model Number         size      Length (cm)                                  Material
+                                                 (inches)      (inches)
+
+  GC-510-JL35            5            100         0.070          0.058         Tungsten          JL 3.5
+  GC-510-JL40            5            100         0.070          0.058         Tungsten           JL 4
+  GC-510-JL45            5            100         0.070          0.058         Tungsten          JL 4.5
+  GC-510-JL50            5            100         0.070          0.058         Tungsten           JL 5
+  GC-510-JL60            5            100         0.070          0.058         Tungsten           JL 6
+  GC-510-JR35            5            100         0.070          0.058         Tungsten           AL 1
+  GC-510-JR40            5            100         0.070          0.058         Tungsten           AL 2
+  GC-510-JR50            5            100         0.070          0.058         Tungsten           AL 3
+  GC-510-JR60            5            100         0.070          0.058         Tungsten          JR 3.5
+  GC-510-AL10            5            100         0.070          0.058         Tungsten           JR 4
+  GC-510-AL20            5            100         0.070          0.058         Tungsten           JR 5
+  GC-510-AL30            5            100         0.070          0.058         Tungsten           JR 6
+  GC-510-AR10            5            100         0.070          0.058         Tungsten           AR 1
+  GC-510-AR20            5            100         0.070          0.058         Tungsten           AR 2
+  GC-510-AR30            5            100         0.070          0.058         Tungsten           AR 3
+  GC-510-MPA1            5            100         0.070          0.058         Tungsten          MPA 1
+  GC-510-MPA1            5            100         0.070          0.058         Tungsten          MPA 2
+  GC-510-MPB1            5            100         0.070          0.058         Tungsten          MPB 1
+  GC-510-MPB2            5            100         0.070          0.058         Tungsten          MPB 2
+  GC-610-JL35            6            100         0.082          0.070         Tungsten          JL 3.5
+  GC-610-JL40            6            100         0.082          0.070         Tungsten           JL 4
+  GC-610-JL45            6            100         0.082          0.070         Tungsten          JL 4.5
+  GC-610-JL50            6            100         0.082          0.070         Tungsten           JL 5
+  GC-610-JL60            6            100         0.082          0.070         Tungsten           JL 6
+  GC-610-JR35            6            100         0.082          0.070         Tungsten           AL 1
+  GC-610-JR40            6            100         0.082          0.070         Tungsten           AL 2
+  GC-610-JR50            6            100         0.082          0.070         Tungsten           AL 3
+  GC-610-JR60            6            100         0.082          0.070         Tungsten          JR 3.5
+  GC-610-AL10            6            100         0.082          0.070         Tungsten           JR 4
+  GC-610-AL20            6            100         0.082          0.070         Tungsten           JR 5
+  GC-610-AL30            6            100         0.082          0.070         Tungsten           JR 6
+  GC-610-AR10            6            100         0.082          0.070         Tungsten           AR 1
+  GC-610-AR20            6            100         0.082          0.070         Tungsten           AR 2
+  GC-610-AR30            6            100         0.082          0.070         Tungsten           AR 3
+  GC-610-MPA1            6            100         0.082          0.070         Tungsten          MPA 1
+  GC-610-MPA1            6            100         0.082          0.070         Tungsten          MPA 2
+  GC-610-MPB1            6            100         0.082          0.070         Tungsten          MPB 1
+  GC-610-MPB2            6            100         0.082          0.070         Tungsten          MPB 2
+
+
+
+
+                                                                                                  17
+                                                                                                 K153707
+                                                                                                 Page 3 of 5
+
+5.5 – Indications for Use
+
+     The guiding catheter is intended for use for intravascular introduction of
+     interventional/diagnostic devices into the coronary or peripheral vasculature.
+
+     The Indications for Use are identical, the devices are both intended for intravascular
+     use and the Indications for Use do not change the intended use of the TXM Guiding
+     Catheter when compared to the predicate device.
+
+
+5.6 – Summary of Technological Characteristics Comparison
+
+       Based on a comparison of the indications for use, fundamental design, technology and
+       principles of operation, materials, performance, sterilization, and packaging, it is
+       determined that the Guiding Catheter is substantially equivalent to the predicate device.
+       Table 5.6 below provides a comparison of the Guiding Catheter and the predicate.
+
+       Table 5.6.1 Comparison of the Guiding Catheter and the Predicate Device.
+
+              Technical
+           Characteristics /                                       Vista Brite Guiding        Substantially
+                                 TXM Guiding Catheter
+             Principle of                                               Catheter              Equivalent?
+             Operation
+                                                               90 cm, 100 cm, 110 cm, 125
+          Length                100 cm                                                            Yes
+                                                               cm
+          Outer Diameter        0.070”- 0.082”                 0.068”- 0.082”                     Yes
+          Inner Diameter        0.058”- 0.070”                 0.056”- 0.070”                     Yes
+                                Judkins right, Judkins left,   Judkins right, Judkins left,
+          Shape                 Amplatz right, Amplatz left    Amplatz right, Amplatz left        Yes
+                                and Multipurpose.              and Multipurpose and others.
+          Inner Liner           Polytetrafluoroethylene        Polytetrafluoroethylene            Yes
+          Material              (PTFE)*                        (PTFE)
+          Braid
+          Reinforcement         Stainless Steel*               Stainless Steel                    Yes
+          Material
+          Radiopaque
+                                Tungsten Material*             Radiopaque filler                  Yes
+          Marker
+          Outer Shaft           Nylon, Pebax,
+                                                               Nylon                              Yes
+          Material              Polyurethane*
+          Luer Material         Polycarbonate*                 Unknown                            Yes
+          Luer Connector        Female Luer Connector*         Female Luer Connector              Yes
+          Anatomical Site
+                                Peripheral, Coronary           Peripheral, Coronary               Yes
+          Use
+          Delivery to Site      Over-the-wire                  Over-the-wire                      Yes
+          Guidewire
+                                                               Maximum 0.038”                     Yes
+          Compatibility         Maximum 0.038”
+          Packaging             Tyvek Pouch                    Tyvek Pouch                        Yes
+          Sterilization         EtO Gas                        EtO Gas                            Yes
+
+       * Denotes a patient-contacting material.
+
+
+
+
+                                                                                                              18
+                                                                                                  K153703
+                                                                                                  Page 4 of 5
+
+5.7 – Testing Summary
+
+      The following bench tests were performed to evaluate the design elements and
+      performance characteristics of the Guiding Catheter and to demonstrate substantial
+      equivalence to the predicate device. The Guiding Catheter met the predetermined
+      acceptance criteria. Testing was performed on non-aged devices (T=0) as well as
+      on devices subject to 3 years of accelerated aging (T=3). Tests results show that
+      the Guiding Catheter is substantially equivalent to the predicate device.
+
+      5.7.1- Bench Testing Table
+      Table 5.7.1 below provides a summary of the bench testing performed on the
+      Guiding Catheter.
+      Table 5.7.1. Bench Testing Performed on Guiding Catheter
+
+                               Applicable                                        Applicable
+                                Standard      Test                                Standard      Test
+        Test                                           Test
+               Test Name       or Internal   Results             Test Name       or Internal   Results
+         #                                              #
+                                   Test       (T=3)                                  Test       (T=3)
+                                 Method                                            Method
+                                             T=0;T=3              Corrosion                    T=0;T=3
+         1      Air Leak       ISO 10555               12                        ISO 10555
+                                               Pass               Resistance                     Pass
+                                Internal
+                 In-Vitro                    T=0;T=3                              ASTM-        T=0;T=3
+         2                        Test                 13        Radiopacity
+               Track Force                     Pass                               F640-12        Pass
+                                Method
+                                Internal                                          Internal
+                                             T=0;T=3               Torque                      T=0;T=3
+         3       Stiffness        Test                 14                           Test
+                                               Pass               Response                       Pass
+                                Method                                            Method
+                                                                                  Internal
+                 Tensile                     T=0;T=3              Torque to                    T=0;T=3
+         4                     ISO 10555               15                           Test
+                 Strength                      Pass                Failure                       Pass
+                                                                                  Method
+                                                                                  Internal
+               Gravity Flow                  T=0;T=3                                           T=0;T=3
+         5                     ISO 10555               16        Ovalization        Test
+                   Rate                        Pass                                              Pass
+                                                                                  Method
+                                                                                  Internal
+                                             T=0;T=3                                           T=0;T=3
+         6     Liquid Leak     ISO 10555               17     Simulated Use         Test
+                                               Pass                                              Pass
+                                                                                  Method
+                   Power
+                                                                                   ASTM
+                  Injector                   T=0;T=3             Seal Strength                 T=0;T=3
+         7                     ISO 10555               18                        F88/F88M-
+               (Static Burst                   Pass                (Pouch)                       Pass
+                                                                                     09
+                 Pressure)
+                                Internal                             Dye
+                Tip Shape                    T=0;T=3                                           T=0;T=3
+         8                        Test                 19         Penetration     ASTM-
+                Retention                      Pass                                              Pass
+                                Method                               Test        F1929-12
+               Dimensional
+                                             T=0;T=3             Female Luer                   T=0;T=3
+         9      & Physical     ISO 10555                                          ISO 594
+                                               Pass    20        Verification                    Pass
+                Attributes
+                                Internal
+                                             T=0;T=3          Shipping and                     T=0;T=3
+        10     Kink Testing       Test                 21                         ISTA 3A
+                                               Pass           Transportation                     Pass
+                                Method
+                                Internal
+                Buckling                     T=0;T=3             Accelerated      ASTM         T=0;T=3
+        11                        Test                 22
+                  Test                         Pass                Aging         F1980-07        Pass
+                                Method
+
+
+
+
+                                                                                                          19
+                                                                                              K153703
+                                                                                              Page 5 of 5
+        5.7.2 – Biocompatibility
+
+        The Guiding Catheter is classified as an Externally Communicating
+        Device, Circulating Blood, Limited Contact (≤24 hours). Biocompatibility
+        testing was performed in accordance with ISO 10993 “Biological
+        Evaluation of Medical Devices – Part 1: Evaluation and Testing Within a
+        Risk Management Process” (2009). Table 5.7.2 below describes the testing
+        performed to determine biocompatibility. All testing met the predetermined
+        acceptance criteria.
+
+        Table 5.7.2. Summary of Biocompatibility Testing for the Guiding Catheter
+
+   Biological Effect                                 Test                             Compliance Standard
+     Cytotoxicity                  L929 Neutral Red Uptake (NRU) - ISO                     ISO10993-5
+       Irritation                      Intracutaneous Injection - ISO                     ISO10993-10
+                                         Kligman Maximization
+     Sensitization                                                                        ISO10993-10
+                                        Murine Local Lymph Assay
+   Systemic Toxicity                 ISO Acute Systemic Toxicity Test                     ISO10993-11
+                                                                                           USP<151>
+                                             Pyrogen Test in Rabbit
+     Pyrogenicity                                                                         ISO10993-11
+                                       Limulus Amebocyte Lysate                      USP <85> 38, NF 33, 2015
+                                 Hemolysis-Complete (Direct and Indirect)                  ISO10993-4
+  Hemocompatibility                      Complement Activation                             ISO10993-4
+                                        In-Vivo Thrombogenicity                            ISO10993-4
+ Toxicological Hazard         Risk Assessment of Extractables and Leachables              ISO 10993-17
+
+
+
+
+5.8 - Sterilization Testing Summary
+
+          Validation Sterilization Process     Sterility Assurance Level (SAL)      Validation Result
+                Ethylene Oxide Gas                            10-6                        Pass
+
+5.9 – Conclusion
+
+        The Guiding Catheter is substantially equivalent in intended use, fundamental
+        design, technology and principles of operation, materials, performance,
+        sterilization, and packaging to the predicate device. Differences between the
+        devices do not raise any new issues of safety or effectiveness.
+
+
+
+
+                                                                                                            20
+
