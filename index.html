@@ -1,6 +1,6 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Coronary Products and Accessories</title><link rel="icon" href="favicon.svg" type="image/svg+xml"><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#111827"><meta name="application-name" content="Coronary Products and Accessories"><meta name="description" content="Coronary Products and Accessories: side-by-side comparison of coronary devices with sourced specs and FDA recalls.">
-<link rel="preload" href="data/core.json?v=148bdf02" as="fetch" crossorigin>
+<link rel="preload" href="data/core.json?v=8abc3022" as="fetch" crossorigin>
 <style>
 :root{--bg:#f5f7fa;--card:#fff;--ink:#1d2433;--mut:#9aa3b2;--line:#e3e7ee;--acc:#2563eb;--diff:#fff6db}
 *{box-sizing:border-box}body{margin:0;font:14px/1.4 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
@@ -33,7 +33,7 @@ th.hp .pk{max-width:none;position:relative}th.hp .pk input{width:100%;box-sizing
 .gs{position:relative;flex:1 1 240px;max-width:380px}.gs input{width:100%;box-sizing:border-box}.gs .list{position:absolute;top:100%;left:0;right:0;max-height:320px;overflow:auto;background:#fff;color:#111;border:1px solid var(--line);border-radius:8px;box-shadow:0 8px 24px #0002;z-index:60;display:none}.gs .list div{padding:7px 10px;cursor:pointer}.gs .list div:hover{background:#eef3ff}.gs .list small{color:var(--mut)}
 #fd{position:fixed;inset:0;background:#0006;z-index:80;display:flex;align-items:center;justify-content:center}#fd[hidden]{display:none}.fdb{background:#fff;border-radius:12px;max-width:640px;width:calc(100vw - 32px);max-height:80vh;overflow:auto;padding:16px 18px;position:relative}#fdx{position:absolute;right:10px;top:8px;border:0;background:none;font-size:18px;cursor:pointer}.fr{margin:8px 0}.fr b{display:block;font-size:12px;color:#475569}
 body.dsk thead th.hp{z-index:6}@media(max-width:720px){body.cmp main{overflow-x:auto;-webkit-overflow-scrolling:touch}body.cmp table{min-width:820px}body.cmp th.a{position:sticky;left:0;z-index:4;background:#fff;width:110px}}@media(max-width:640px){.gs{max-width:none;flex-basis:100%}}th.hp{border-top-color:var(--sc)!important}th.hp .vend,th.hp .fam{color:var(--sc)!important}th.hp .fam{border-color:var(--sc)}th.hp.xc{background:#fbfbfd}main{overflow-x:auto;-webkit-overflow-scrolling:touch}body.stk table{min-width:0!important}</style></head><body class="cmp">
-<header><h1>Coronary Products and Accessories</h1><details id="gd"><summary aria-label="All comparison guides">Guides ▾</summary><ul role="list"><li><a href="https://jeffmcd83.github.io/crm-compare/">Cardiac Rhythm Management</a></li><li class="cur"><a href="https://jeffmcd83.github.io/coronary-compare/" aria-current="page">Coronary Products and Accessories</a></li><li><a href="https://jeffmcd83.github.io/structural-compare/">Structural Heart (TAVI/TEER)</a></li><li><a href="https://jeffmcd83.github.io/ep-compare/">EP Ablation Catheter Comparison Guide</a></li></ul></details><span class="pass">Preview · pass __PASS__ · built 2026-10-19</span>
+<header><h1>Coronary Products and Accessories</h1><details id="gd"><summary aria-label="All comparison guides">Guides ▾</summary><ul role="list"><li><a href="https://jeffmcd83.github.io/crm-compare/">Cardiac Rhythm Management</a></li><li class="cur"><a href="https://jeffmcd83.github.io/coronary-compare/" aria-current="page">Coronary Products and Accessories</a></li><li><a href="https://jeffmcd83.github.io/structural-compare/">Structural Heart (TAVI/TEER)</a></li><li><a href="https://jeffmcd83.github.io/ep-compare/">EP Ablation Catheter Comparison Guide</a></li></ul></details><span class="pass">Preview · pass __PASS__ · built 2026-10-22</span>
 <div class="gs"><input id="gq" placeholder="Search all models…" autocomplete="off" aria-label="Search all models"><div class="list" id="gl"></div></div>
 <select id="cat" aria-label="Category"></select>
 <label class="tg"><input type="checkbox" id="diff"> Differences only</label>
@@ -42,10 +42,10 @@ body.dsk thead th.hp{z-index:6}@media(max-width:720px){body.cmp main{overflow-x:
 <script>
 const $=s=>document.querySelector(s);let D,RC=null,sel=[null,null,null,null],mf=["","","",""],collapsed={};
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-fetch('data/core.json?v=148bdf02').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='v1.26 · pass '+d.pass+' · built '+d.built;
+fetch('data/core.json?v=8abc3022').then(r=>r.json()).then(d=>{D=d;document.querySelector('.pass').textContent='v1.27 · pass '+d.pass+' · built '+d.built;
  const cats=Object.keys(d.sect);$('#cat').innerHTML=cats.map(c=>`<option>${esc(c)}</option>`).join('');
  const h=new URLSearchParams(location.hash.slice(1));if(h.get('c')&&cats.includes(h.get('c')))$('#cat').value=h.get('c');
- fetch('data/recalls.json?v=148bdf02').then(r=>r.json()).then(x=>{RC=x}).catch(()=>{RC={}}).finally(()=>setCat(h.get('m')!=null?h.get('m').split('~'):null))});
+ fetch('data/recalls.json?v=8abc3022').then(r=>r.json()).then(x=>{RC=x}).catch(()=>{RC={}}).finally(()=>setCat(h.get('m')!=null?h.get('m').split('~'):null))});
 function rowsOf(c){return D.rows.filter(r=>r.category===c)}
 let COLS=[];const SCOL={},supOf=r=>{if(SCOL[r.manufacturer])return SCOL[r.manufacturer];const S=D.sc.suppliers;for(const k in S)if(S[k].match.some(m=>new RegExp(m,'i').test(r.manufacturer)))return SCOL[r.manufacturer]=k;return SCOL[r.manufacturer]=r.manufacturer};
 const colOf=s=>(D.sc.suppliers[s]||{}).color||'#64748b';
