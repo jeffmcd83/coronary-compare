@@ -357,3 +357,29 @@ Logged, not applied (conflicts.json, informational): Diamondback OUS model C-2DB
 Skipped (no exact-model US OEM/FDA source / N/A / sibling / gated / OUS): Shockwave C2+ tip (no number in US docs; media kit relative only); Dragonfly OpStar pullback/MHz (K250751 predicates are Dragonfly OPTIS / OptiCross 40 MHz siblings); Vista Brite Tip / Launcher ID mm (inches only in K153703; mm only on OUS pages); SION blue PLUS / Cougar tip load, NC Quantum Apex / Pantera Pro / NC TREK RX crossing, AngioJet lumen, ROTAPRO sheath (no predicate table with the figure); CrossFAST CFM60 (AccessGUDID still CFM55 only); N/A fields unchanged.
 New-row candidates for Jeff (not added): none (coronary IVL competitors BSC Seismiq 4CE and Abbott TECTONIC not yet FDA-approved).
 - Pass 44 run note (2026-10-22 ~9:20 ET): the scheduled run committed and published Pass 44 (c4bef46, 09:12) but stopped during its preview check, leaving a stale .lock (dead pid 480767) and an http.server on :8765. A follow-up run cleared both, re-verified preview (tl.py/tcol.py: 0 errors, 0 dupes; pass 44 data live on /preview/) and committed the screenshots. No research was redone; recall CSVs untouched.
+
+## Pass 45 — coronary gap-fill (Mon 2026-10-26 ~9:05 AM ET scheduled run) — research no-op; fill unchanged 90.9% (921/1013; 76 rows); /preview/ only, tag preview-pass45 (label/log only, no data change)
+No new exact-model US OEM/FDA values: sources/pass45/values.csv is header-only and conflicts.json is empty. conflicts_passes.json unchanged.
+Evidence: sources/pass45/RESEARCH.md, raw/, docs/.
+Backups:
+- coronary-specs-verified.pre-pass45.csv and provenance.pre-pass45.json (spec/provenance untouched)
+- app/build.pre-pass45.py (publish.sh pass-label bump only)
+Recall CSVs untouched (weekly Wednesday routine only).
+New angles:
+- openFDA 510(k) sweep of 19 product codes since 2026-09-01. Cut still 2026-10-12; only K262817, already listed.
+- Shockwave US /ifu/ diff vs pass 44. Only new upload is the peripheral E8 Large IFU.
+- Shockwave C2+/Aero/Aero Fly page images.
+- CFM60 AccessGUDID + WP media API.
+- Teleflex US Orsiro Mission brochure MC-011204 Rev 0.
+Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
+Applied: none.
+Logged: none.
+Skipped:
+- Orsiro Mission lesion entry 0.017 in: OUS spec sheet only (catalogs 4191xx), so not used.
+- Ringer "distal shaft 0.027 in" is a shaft OD, not a tip profile.
+- Dragonfly OpStar pullback: system-level only.
+- CrossFAST CFM60 dims unpublished (ships Nov 2026; Vantis site behind captcha, not bypassed).
+- Shockwave C2+ tip: no number published.
+- N/A fields unchanged.
+New-row candidates for Jeff (not added): none.
+- Run note: a stray http.server on :8817 (pid 257839) belongs to the CRM bot (cwd /workspace/crm-compare-site). It was left alone.
