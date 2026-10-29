@@ -391,3 +391,14 @@ No new recalls, no new models, no spec values changed (sources/pass46/values.csv
 - Enforcement reports since 2026-10-01 (245) through the matcher: 2 hits, both rejected "ADVANCE" collisions (Medline kits Z-0180/Z-0184-2027).
 - New models: none. Seen and ruled out: P160043/S096 (Resolute Onyx 30-day manufacturing notice, no model change); K262904 Penumbra INDIGO Aspiration System (DVT indication, BOLT-DVT); K260168 Skycade "Small Diameter Core Wire" (DQX, 2026-10-16; summary not posted yet, coronary use unverified — watch). No reprocessed coronary 510(k). GUDID deltas: no new DI for any row.
 New-row candidates for Jeff (not added): none (K260168 to be re-checked once its 510(k) summary is posted).
+
+## Pass 47 — coronary gap-fill (Thu 2026-10-29 ~9:00 AM ET scheduled run) — research no-op; fill unchanged 90.9% (921/1013; 76 rows); /preview/ only, tag preview-pass47 (label/log only, no data change)
+No new exact-model US OEM/FDA values: sources/pass47/values.csv is header-only and conflicts.json is empty. conflicts_passes.json unchanged.
+Evidence: sources/pass47/RESEARCH.md, raw/, docs/.
+Backups: coronary-specs-verified.pre-pass47.csv and provenance.pre-pass47.json (spec/provenance untouched); app/build.pre-pass47.py (publish.sh pass-label bump only).
+Recall CSVs untouched (weekly Wednesday routine only).
+New angles: openFDA 510(k) sweep of 20 product codes since 2026-10-01 (cut still 2026-10-19; nothing citing a guide row); AccessGUDID + openFDA UDI for CFM60 (still CFM55 only); Shockwave /ifu/ page diff (identical to pass 45) and WP media API tech-sheet list (no new coronary sheet; C2+ US tech sheet re-read: no tip/sheath); web search for Onyx Frontier crossing and Dragonfly OpStar specs (only OUS/already-rejected sources).
+Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
+Applied: none. Logged: none.
+Skipped: as pass 45 (exhausted / N/A / sibling / OUS / gated), incl. CrossFAST CFM60 dims (unpublished, ships Nov 2026).
+New-row candidates for Jeff (not added): none.

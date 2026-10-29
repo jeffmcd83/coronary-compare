@@ -1,0 +1,50 @@
+import json,csv,os,hashlib,re,datetime,collections
+R='/workspace/coronary-specs/';OUT=R+'site/preview'
+os.makedirs(OUT+'/data',exist_ok=True)
+rows=list(csv.DictReader(open(R+'coronary-specs-verified.csv')));prov=json.load(open(R+'provenance.json'))
+rec=list(csv.DictReader(open(R+'coronary-recalls.csv')));SPEC=json.load(open(R+'spec_by_cat.json'))
+COMMON=['manufacturer','reprocessed','n_skus','fda_submission','product_code','catalog_numbers']
+SIZE={'DES':['diameters_mm','lengths_mm'],'BMS':['diameters_mm','lengths_mm'],'Covered stent':['diameters_mm','lengths_mm'],'DCB':['diameters_mm','lengths_mm'],
+'Balloon':['diameters_mm','lengths_mm'],'Guide catheter':['french_sizes','length_cm','inner_diameter_mm'],'Guidewire':['wire_diameter_in','length_cm'],
+'Microcatheter':['french_sizes','length_cm'],'Guide extension':['french_sizes','length_cm'],'Atherectomy & IVL':['diameters_mm','burr_sizes_mm','french_sizes','sheath_compat_fr','guidewire_compat_in','length_cm','nominal_pressure_atm'],
+'Imaging & physiology':['wire_diameter_in','french_sizes','sheath_compat_fr','guidewire_compat_in','length_cm'],'Thrombectomy':['french_sizes','length_cm','inner_diameter_mm']}
+SECT={c:[['Identity & regulatory',COMMON],['Sizes (GUDID)',SIZE[c]],['Specifications (OEM IFU / spec sheet)',[f for f in SPEC[c] if f not in SIZE[c]]],['Safety',['recalls']]] for c in SPEC}
+LAB=lambda k:{'n_skus':'GUDID device count','fda_submission':'FDA PMA / 510(k) / HDE','catalog_numbers':'Catalog / model numbers','reprocessed':'Reprocessed (3rd-party 510(k))'}.get(k,(lambda m:(m.group(1).replace('_',' ').capitalize()+(' ('+{'mm':'mm','in':'in','cm':'cm','fr':'Fr','um':'µm','atm':'atm','gf':'gf','mhz':'MHz'}[m.group(2)]+')' if m.group(2) else '')))(re.match(r'(.*?)(?:_(mm|in|cm|fr|um|atm|gf|mhz))?$',k)))
+PS=[];PI={}
+def ps(s):
+    u=(re.findall(r'https?://\S+',s) or [''])[0];t=re.sub(r'\s*;?\s*https?://\S+','',s).strip(' ;')
+    k=t+'|'+u
+    if k not in PI: PI[k]=len(PS);PS.append([t,u])
+    return PI[k]
+RC=collections.defaultdict(list)
+for x in rec: RC[x['model']].append([x['recall_number'],x['date'],x['status'],x['reason'],x['matched_catalogs'],x['source'].split(' ',3)[-1] if 'http' in x['source'] else ''])
+out=[]
+for r in rows:
+    o={k:v for k,v in r.items() if v}
+    o['recalls']=str(len(RC[r['model']])) if RC[r['model']] else '0 matched'
+    o['_p']={k:ps(v) for k,v in prov.get(r['model'],{}).items() if r.get(k)}
+    o['_p']['recalls']=ps('openFDA device recall API, exact catalog-number match in code_info; https://open.fda.gov/apis/device/recall/')
+    out.append(o)
+F=sorted({f for c in SECT.values() for s in c for f in s[1]})
+core={'rows':out,'sect':SECT,'labels':{f:LAB(f) for f in F},'ps':PS,'built':datetime.date.today().isoformat(),'pass':'46','sc':json.load(open(R+'supplier_columns.json') if 'R' in dir() else open('supplier_columns.json'))}
+def dump(n,o):
+    s=json.dumps(o,ensure_ascii=False,separators=(',',':'));open(f'{OUT}/data/{n}','w').write(s);return s
+a=dump('core.json',core);b=dump('recalls.json',RC)
+tpl=open(R+'app/template.html').read()
+ver=hashlib.md5((a+b+tpl).encode()).hexdigest()[:8]
+def guides_html(path='/workspace/guides.json',cur='coronary'):
+    import json,html as H
+    G=json.load(open(path,encoding='utf-8'))['guides']
+    li=[]
+    for g in G:
+        t=H.escape(g['title']);live=g.get('status')=='live' and g.get('url')
+        if live:
+            c=' class="cur"' if g['id']==cur else ''
+            li.append(f'<li{c}><a href="{H.escape(g["url"])}"'+(' aria-current="page"' if c else '')+f'>{t}</a></li>')
+        else: li.append(f'<li class="soon" aria-disabled="true">{t}<small>coming soon</small></li>')
+    return '<details id="gd"><summary aria-label="All comparison guides">Guides ▾</summary><ul role="list">'+''.join(li)+'</ul></details>'
+open(OUT+'/index.html','w').write(tpl.replace('__VER__',ver).replace('__BUILT__',core['built']).replace('__GUIDES__',guides_html()))
+open(OUT+'/favicon.svg','w').write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#111827"/><path d="M8 34h12l5-12 8 24 6-16 4 4h13" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>')
+open(OUT+'/manifest.webmanifest','w').write('{"name":"Coronary Products and Accessories","short_name":"Coronary","start_url":"./","scope":"./","display":"standalone","background_color":"#111827","theme_color":"#111827","icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml"}]}\n')  # PWA manifest (offline/installable)
+open(OUT+'/sw.js','w').write(f"const P='cor-preview-',C=P+'{ver}';self.addEventListener('install',e=>{{self.skipWaiting();e.waitUntil(caches.open(C).then(c=>c.addAll(['./','./favicon.svg','./data/core.json?v={ver}'])))}});self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x.startsWith(P)&&x!==C).map(x=>caches.delete(x))))));self.addEventListener('fetch',e=>{{if(e.request.method!=='GET')return;const u=new URL(e.request.url);if(u.origin!==location.origin)return;e.respondWith(caches.open(C).then(c=>fetch(e.request,{{cache:'no-cache'}}).then(r=>{{if(r.ok)c.put(e.request,r.clone());return r}}).catch(()=>c.match(e.request,{{ignoreSearch:true}}))))}});")
+print('ver',ver,len(out),'rows',len(PS),'sources')
