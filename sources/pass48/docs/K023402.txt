@@ -1,0 +1,219 @@
+                                                                            Special 5 10(k) Notification
+                                      NOW      6 2002                                   Medtronic, Inc.
+                                                                         8F Launcher Guiding Catheter
+
+
+Section 9
+
+
+                 510(k) SUMMARY OF SAFETY AND EFFECTIVENESS
+                 (Pursuant to Section 12, Safe Medical Devices Act of 1990)
+
+
+
+1. Identifying Information
+       (a) Submitters Name:                      Medtronic AVE, Inc.
+                                                 37A Cherry Hill Drive
+                                                 Danvers, MA 01923
+
+        (b) Contact Person:                      Fred L. Boucher R.A.C
+                                                 (978) 777-0042
+
+        (c) Classification Name:                 Percutaneous Catheter
+                                                 (21 CFR Part 870.1250)
+
+        (d) Proprietary Name:                    Medtronic 8F LauncherTM Guide Catheter
+
+        (e) Name of Predicate Devices            Medtronic@ 7F LauncherTM Guide Catheter
+                                                 KO22764
+
+
+
+2. Description
+   The Medtronic Launcher Guide Catheter is constructed with an inner liner, stainless steel
+   braid, outer shaft jacket, sleeve, marker band and a soft distal tip. The inner lumen of the
+   Launcher Guide Catheter has a thin lubricious coating.
+
+
+3. Intended Use
+   The Medtronic Launcher Guide Catheter is designed to provide a pathway through which
+   therapeutic devices are introduced. The guiding catheter is intended for used in the coronary
+   or peripheral vascular system.
+
+
+4. Technological Characteristics
+    The 8F Launcher Guide Catheters are manufactured similar to the legally marketed predicate
+    7F Guide Catheters.
+
+    The manufacturing processes, materials and design are substantially equivalent to the 7F
+    Launcher Guide Catheter.
+
+
+
+
+                                                                                                 29
+                                                                              Special 510(k) Notification
+                                                                                         Medtronic, Inc.
+                                                                           8F Launcher Guiding Catheter
+
+
+5. Biocompatibility tests performed per IS010993 were chosen based on Guide Catheters
+   categorized as external-communicating devices, circulating blood, limited exposure E 2 4
+   hours). The following test results reports have been received and the results demonstrate
+   that the tests were successfully performed. All materials used for the MedtronicB Launcher
+   Guiding Catheter passed the following tests:
+
+        Acute Intracutaneous Reactivity
+        Acute Systemic Toxicity
+        Cytotoxicity
+        Hemolysis
+        Sensitization
+
+
+6. Functional testing consisted of hub to shaft, shaft, distal tip to shaft tensile, torque response,
+   lumen lubricity, radiopacity, pressure shaft burst and hub leak, tip compression (softness).
+   Results verified that the MedtronicB Launcher Guiding Catheter meets all of the applicable
+   specifications and considered an appropriate device for the intended use. Based on a
+   comparison of the intended use, design, in-vitro test results and the fact that the fundamental
+   scientific technology has not changed, the Launcher guide catheter is considered to be
+   substantially equivalent to the following device:
+
+                         0    Medtronicm 7F Launcher Guiding Catheter
+
+
+
+
+                                                                                               30
+    DEPARTMENT OF HEALTH & HUMAN SERVICES                                        Public Health Service
+
+    ~   _   _   _   _      ~-
+
+
+                                                                                 Food and Drug Administration
+                                                                                 9200 Corporate Boulevard
+                                             N4]V     6; z0n;l                   Rockville MD 20850
+
+
+
+
+Medtronic, Inc.
+c/o Mr. Fred L. Boucher, RAC
+Sr. Regulatory Affairs Manager
+37A Cherry Hill Drive
+Danvers, MA 01923
+
+
+Re: KO23402
+    Trade Name: 8F LauncherTMGuide Catheter
+    Regulation Number: 2 1 CFR 870.1250
+    Regulation Name: Percutaneous Catheter
+    Regulatory Class: Class TI (two)
+    Product Code: DQY
+    Dated: October 9,2002
+    Received: October 10, 2002
+
+Dear Mr. Boucher:
+
+We have reviewed your Section 5 lO(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the indications
+for use stated in the enclosure) to legally marketed predicate devices marketed in interstate
+commerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to
+devices that have been reclassified in accordance with the provisions of the Federal Food, Drug,
+and Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).
+You may, therefore, market the device, subject to the general controls provisions of the Act. The
+general controls provisions of the Act include requirements for annual registration, listing of
+devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration.
+
+If your device is classified (see above) into either class I1 (Special Controls) or class 111 (PMA), it
+may be subject to such additional controls. Existing major regulations affecting your device can
+be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may
+publish further announcements concerning your device in the Federal Register.
+
+Please be advised that FDA’s issuance of a substantial equivalence determination does not mean
+that FDA has made a determination that your device complies with other requirements of the Act
+or any Federal statutes and regulations administered by other Federal agencies. You must
+comply with all the Act’s requirements, including, but not limited to: registration and listing (2 1
+CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice requirements as set
+    Page 2 - Mr. Fred L. Boucher, RAC
+
+    forth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic
+    product radiation control provisions (Sections 53 1-542 of the Act); 2 1 CFR 1000- 1050.
+    This letter will allow you to begin marketing your device as described in your Section 5 1O(k)
+    premarket notification. The FDA finding of substantial equivalence of your device to a legally
+    marketed predicate device results in a classification for your device and thus, permits your device
+    to proceed to the market.
+
+    If you desire specific advice for your device o n our labeling regulation (2 1 CFR Part 80 1 and
+.   additionally 21 CFR Part 809.10 for in vitro diagnostic devices), please contact the Office of '
+
+
+    Compliance at (301) 594-4646. Additionally, for questions on the promotion and advertising of
+    your device, please contact the Office of Compliance at (301) 594-4639. Also, please note the
+    regulation entitled, "Misbranding by reference to premarket notification" (21 CFR Part 807.97).
+    Other general information on your responsibilities under the Act may be obtained from the
+    Division of Small Manufacturers, International and Consumer Assistance at its toll-free number
+    (800) 638-2041 or (301) 443-6597 or at its Internet address
+    http://www.fda. gov/cdrh/dsma/dsmamain. html
+
+
+                                                 Sincerely yours,
+
+
+
+
+                                                        %
+                                                 Bram ./Zuckerman, M.D.
+                                                 Director
+                                                 Division of Cardiovascular Devices
+                                                 Office of Device Evaluation
+                                                 Center for Devices and
+                                                  Radiological Health
+
+
+    Enclosure
+                                                                          Special 5 10(k) Notification
+                                                                                      Mcdtronic, Inc
+                                                                     8F LauncherTMGurdrng Catheter
+
+
+
+                                     INDICATIONS FOR USE
+
+
+
+
+      5 1O(k) Number:
+
+
+
+
+      Device Name:        MedtronicB 8F LauncherTM Guiding Catheter
+
+
+
+Indications for Use:      The Medtronic@ LauncherTM Guiding Catheter is designed to provide a
+                          pathway through which therapeutic devices are introduced. The
+                          Launcher catheter is intended to be used in the coronary or peripheral
+                          vascular system.
+
+
+
+
+      PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF
+      NEEDED.
+
+
+
+
+                                                               _-
+
+       Prescription Use          J          OR     Over-The-Counter Use
+
+                                       (Per 21 CFR 801.109)
+
+
+
+
+                                                                                                34
+

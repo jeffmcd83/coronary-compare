@@ -402,3 +402,20 @@ Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.
 Applied: none. Logged: none.
 Skipped: as pass 45 (exhausted / N/A / sibling / OUS / gated), incl. CrossFAST CFM60 dims (unpublished, ships Nov 2026).
 New-row candidates for Jeff (not added): none.
+
+## Pass 48 — coronary gap-fill (Mon 2026-11-02 ~9:00 AM ET scheduled run) — research no-op; fill unchanged 90.9% (921/1013; 76 rows); /preview/ only, tag preview-pass48 (label/log only, no data change)
+No new exact-model US OEM/FDA values: sources/pass48/values.csv is header-only and conflicts.json is empty. conflicts_passes.json unchanged.
+Evidence: sources/pass48/RESEARCH.md, docs/ (text extracts), raw/ (PDFs, JSON; gitignored).
+Backups: coronary-specs-verified.pre-pass48.csv and provenance.pre-pass48.json (spec/provenance untouched); app/build.pre-pass48.py (publish.sh pass-label bump only).
+Recall CSVs untouched (weekly Wednesday routine only).
+New angles:
+- AccessGUDID CFM60 recheck: 0 results; CrossFAST/Vantis still CFM55 only. Vantis WP media has no upload after 2026-01-05; pages API behind bot check, not bypassed.
+- openFDA 510(k) device-name/applicant sweep for rows with open blanks. Never-read Launcher (K022764/K023402/K030779/K103386/K132673) and Vista Brite Tip (K021593/K972978/K982632/K992673) summaries: no ID in mm.
+- Abbott K252512 (Armada 14 NC, 2026) reference devices: NC TREK NEO/OTW siblings, no figures.
+- openFDA UDI device_sizes for all Shockwave QMG catalogs: sheath compat only on the original C2 (not a row).
+- Search: Chocolate XD tip, SION blue PLUS/Cougar tip load (nothing usable).
+- openFDA 510(k) cut still 2026-10-19.
+Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
+Applied: none. Logged: none.
+Skipped: as passes 45/47 (exhausted / N/A / sibling / OUS / gated), incl. CrossFAST CFM60 dims (still unpublished; AccessGUDID 0 results on 2026-11-02).
+New-row candidates for Jeff (not added): none.
