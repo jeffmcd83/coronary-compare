@@ -26,6 +26,7 @@ The site keeps serving as-is from GitHub Pages. To maintain: clone this repo, re
 
 ## Weekly recall / new-model refresh (Wednesdays ~9:00 AM ET)
 - Recalls: `python3 recalls.py live sources/passNN/raw/recall_pool.json.gz` (pass-40 rules); optional historical sweep: run `recalls.py match` on a device/enforcement pool (see sources/pass43). Regenerate coronary-recalls-by-supplier.csv from coronary-recalls.csv.
+- Caution (pass 49): `recalls.py match` on a pool with 0 matches truncates coronary-recalls.csv then crashes (IndexError) — always back up and restore coronary-recalls.csv + raw/recall_dropped.json around enforcement sweeps.
 - New models: sources/pass46/newmodels.py (openFDA PMA/510(k) by guide PMAs, product codes, reprocessors) + AccessGUDID daily/weekly delta XMLs via gudid_delta.py.
-- Last run: Pass 46 (2026-10-28): no new recalls (110), no new models. Watch: K260168 Skycade Small Diameter Core Wire (DQX) — re-check indication when the 510(k) summary posts.
-- Previous: Pass 43 (2026-10-21): no new recalls (110), no new models.
+- Last run: Pass 49 (2026-11-04): no new recalls (110), no new models. Watch: K260168 Skycade Small Diameter Core Wire (DQX) — 510(k) summary still not posted; re-check indication when it posts. CFM60 still not in AccessGUDID.
+- Previous: Pass 46 (2026-10-28): no new recalls (110), no new models. Watch: K260168 Skycade Small Diameter Core Wire (DQX) — re-check indication when the 510(k) summary posts.
