@@ -1,0 +1,462 @@
+                                                                                              October 16, 2026
+
+Skycade Med Corporation
+Keshu Nso
+Director of Quality and Regulatory Affairs
+10048 Monroe Dr.
+Dallas, Texas 75299
+
+
+Re: K260168
+    Trade/Device Name: Small Diameter Core Wire
+    Regulation Number: 21 CFR 870.1330
+    Regulation Name: Catheter guide wire
+    Regulatory Class: Class II
+    Product Code: DQX
+    Dated: September 14, 2026
+    Received: September 14, 2026
+
+Dear Keshu Nso:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Before making any change significantly affecting the safety or effectiveness of the device, you must submit a
+new premarket notification in accordance with 21 CFR 807.81. Additional information about changes that
+may require a new premarket notification are provided in the FDA guidance documents entitled "Deciding
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.09.00
+Silver Spring, MD 20993
+www.fda.gov
+K260168 - Keshu Nso                                                                                  Page   2
+
+When to Submit a 510(k) for a Change to an Existing Device" (https://www.fda.gov/media/99812/download)
+and "Deciding When to Submit a 510(k) for a Software Change to an Existing Device"
+(https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality Management System Regulation
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls),
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review,
+the QMSR requires device manufacturers to review and approve changes to device design and production
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical
+Device File (ISO 13485 clause 4.2.3).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K260168 - Keshu Nso                                                                                  Page   3
+
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                              Sincerely,
+                                       JENNY R.                      Digitally signed by JENNY R.
+                                                                     KATSNELSON -S
+                                       KATSNELSON -S                 Date: 2026.10.16 13:50:44 -04'00'
+
+                                           for Lydia Glaw
+                                               Assistant Director
+                                               DHT2C: Division of Coronary and
+                                                 Peripheral Intervention Devices
+                                               OHT2: Office of Cardiovascular Devices
+                                               Office of Product Evaluation and Quality
+                                               Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 07/31/2026
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K260168
+
+Device Name
+Small Diameter Core Wire
+
+
+
+Indications for Use (Describe)
+The small diameter core wire is used in percutaneous procedures to introduce and position catheters and other
+interventional devices within the peripheral vasculature.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                                         K260168
+                                                                                       Page 1 of 6
+Traditional 510(k) - K260168                                           Small Diameter Core Wire
+
+
+                                          510(k) Summary
+                               (As per Title 21, CFR Section 807.92)
+                                   Small Diameter Core Wire
+
+
+
+   1. Submitter`s information:
+       Submitter Name:         SkyCade Med Corporation
+                               10048 Monroe Drive Dallas
+                               Texas 75299
+                               Phone: 469-765-7092
+                               Fax: 214-550-9283
+                               Email: ben@skycademed.com
+
+       Official Contact:       Keshu Nso
+                               Director of Quality and Regulatory Affairs
+                               SkyCade Med Corporation
+                               Cell: 330-261-7717
+                               Email address: kduinase@skycademed.com
+
+       Date of Preparation:    September 13, 2026
+
+
+    2. Device name and classification information:
+       Trade Name:             Small diameter core wire
+       Common Name:            Guide Wire
+       Model Number:           CMAN-000-00 and CMAN-000-14
+       Classification Name:    Catheter guide wire
+       Regulation Number:      21 CFR 870.1330
+       Product Code:           DQX
+       Review Panel:           Cardiovascular
+       Device Class:           2
+
+
+    3. Predicate device identification:
+       510(k) Number:          K024021
+       Product Name:           NitrexTM Nitinol Guidewire
+       Manufacturer:           ev3.
+                               4600 Nathan Lane North
+                               Plymouth, MN 55442
+
+
+
+
+SkyCade Med Corporation                                                             Page No. 1
+                                                                                                  K260168
+                                                                                                Page 2 of 6
+Traditional 510(k) - K260168                                               Small Diameter Core Wire
+
+
+   4. Device Description:
+      The Small diameter core wire is a guide wire used in various percutaneous medical procedures
+      to facilitate the placement of catheters and other interventional devices within the body. Its
+      primary function is to provide a stable and precise pathway for the introduction of these medical
+      tools. The Small diameter core wire is used to position catheters, sheaths, or other medical
+      devices precisely within the body, ensuring that they are in the correct location for the intended
+      treatment. The radiopacity helps in the visualization of the guidewire through a medical imaging
+      system to track their position and guide the procedure. The operational principle and mechanism
+      of action of the subject device is same as that of the legally marketed predicate device, NitrexTM
+      Nitinol Guidewire (K024021).
+
+       The Small diameter core is wire made up of a core wire and a radiopaque coil at the distal end.
+       The core wire is placed inside a protective hoop. The device is available in two models: CMAN-
+       000-14 with a core wire diameter of 0.014` and the CMAN-000-00 with a core wire diameter of
+       0. 018`.The core wire in each model is available in three different lengths: 40, 50, and 80 cm.
+       The distal end of the coil part is straight and made soft to easily bend with the vessel curve. In the
+       package the guide wire is covered by a protective hoop made of HDEP.
+
+       The subject device is a sterile product, labeled as sterile, single use only, and non-pyrogenic. It
+       is packed in the Tyvek pouch and sterilized with Ethelyene oxide. Hydrophilic and/
+       or hydrophobic lubricious coatings are not used in the subject device. The Small diameter
+       core wire is intended to be used by healthcare professionals in hospitals. The intended use,
+       design, scientific technology, and performance of the subject device are comparable to the
+       predicate device.
+
+
+
+   5. Indication for use statement:
+       The Small diameter core wire is used in percutaneous procedures, to introduce and position
+       catheters and other interventional devices within the peripheral vasculature.
+
+
+   6. Comparison of Technological Characteristics with predicate device:
+       The subject device, Small diameter core wire, and the NitrexTM Nitinol Guidewire (K024021)
+       have the same intended use / indication for use. The fundamental design, function, materials,
+       packaging, sterilization, operating principle of the subject device is same as the predicate device.
+
+                        Table 1: Predicate vs. Subject device Equivalency
+
+                                                          Predicate Device             Assessment of
+    Characteristic             Subject Device              NitrexTM Nitinol             Substantial
+                                                         Guidewire (K024021)            Equivalence
+
+                                          General Information
+
+
+
+
+SkyCade Med Corporation                                                                      Page No. 2
+                                                                                                 K260168
+                                                                                               Page 3 of 6
+Traditional 510(k) - K260168                                            Small Diameter Core Wire
+
+
+    Device Trade name      Small diameter core     NitrexTM Nitinol Guidewire               N/A
+
+    Generic Name               Guide Wire                  Guide Wire                       N/A
+
+    510(k) Submitter       SkyCade Med Corp.                    ev3.                        N/A
+
+    510(k) Number                K260168                    K024021                         N/A
+
+    Regulation Number           870.1330                    870.1330                    Same
+
+
+    Device Class                    2                            2                      Same
+
+
+    Product Code                  DQX                           DQX                     Same
+
+                                        Indications/Intended Use
+    Indications/        The Small diameter core    The NitrexTM Nitinol                 Same
+    Intended Use        wire is used in            guidewires are indicated for
+                        percutaneous               use in the peripheral and
+                        procedures, to introduce   coronary vasculature
+                        and position catheters
+                        and other interventional
+                        devices within the
+                        peripheral vasculature
+
+    Target Population   The device will be used in The device will be used in           Same
+                        patients undergoing        patients undergoing
+                        endovascular treatment     peripheral and coronary
+                        within the peripheral      vasculature treatment.
+                        vasculatures.
+
+
+                                          Operating principle
+    Function                      Adult                         Adult                   Same
+
+
+    Anatomical                 Peripheral            Peripheral and coronary            Same
+    Location                   vasculature                 vasculature
+
+                                                 Design
+    Overall Length      40cm, 50cm and 80 cm       60cm, 80cm, 180cm and          The overall length
+                                                   300cm.                         is similar. The
+                                                                                  difference in the
+                                                                                  overall length did
+                                                                                  not raise any
+                                                                                  question on the
+                                                                                  performance of the
+                                                                                  device.
+
+
+    Diameter            0.014” & 0.018”            0.014”, 0.016”, 0.018”,        Similar
+                                                   0.025” & 0.035”
+
+
+
+
+SkyCade Med Corporation                                                                     Page No. 3
+                                                                                           K260168
+                                                                                         Page 4 of 6
+Traditional 510(k) - K260168                                         Small Diameter Core Wire
+
+
+    Core wire           Nitinol                    Nitinol                   Same
+    configuration
+
+    Coil Length         5.8cm                      5.8cm                     Same
+
+    Coil Length         Yes                        Yes                       Same
+    (Radiopaque)
+
+    Distal Shaft Length 0.5cm                      0.5cm                     Same
+    (Shapeable Length)
+
+    Distal tip thickness 0.003”                    0.003”                    Same
+    (Core wire)
+
+                                               Material
+    Proximal Core       Nitinol                    Nitinol                   Same
+    Wire
+
+    Distal Core Wire    Nitinol                    Nitinol                   Same
+
+    Coil                Stainless Steel and gold   Nitinol                   Different
+                                                                             The performance
+                                                                             test conducted did
+                                                                             not raise any
+                                                                             question on the
+                                                                             performance of the
+                                                                             device.
+
+
+    Dispenser Hoop      HDPE                       HDPE                      Same
+
+                                            Other Attributes
+
+    Sterilization       EO                         EO                        Same
+    method
+
+    Sterile Pouch       TYVEK                      TYVEK                     Same
+
+    Shipping Carton     Cardboard boxes            Cardboard boxes           Same
+
+    Shelf Life          Four Years                 Four Years                Same
+
+
+   7. Performance testing and Summary of Bench Testing:
+       In-vitro performance testing has been performed in accordance with internal requirements, FDA
+       guidance document and ISO standards to demonstrate substantial equivalence of the subject
+       device and predicate device. The device passed all the performance bench testing meeting
+       the requirements of all the applicable standards. This indicates that the device is
+       substantially equivalent to the predicate device. Following tests are performed to
+       support substantial equivalence of the device.
+
+
+       In-vitro Performance bench tests:
+          ●      Dimensional verification
+
+
+
+SkyCade Med Corporation                                                              Page No. 4
+                                                                                              K260168
+                                                                                            Page 5 of 6
+Traditional 510(k) - K260168                                            Small Diameter Core Wire
+
+
+          ●     Visual inspection
+          ●     Repeated Simulated Use
+          ●     Tensile strength/Tip pull test
+          ●     Torque Strength
+          ●     Torqueability
+          ●     Particulate testing
+          ●     Lubricity/Friction testing
+          ●     Corrosion resistance
+          ●     Tip flexibility
+          ●     Radiopacity
+          ●     Flex Test
+          ●     Fracture test
+
+
+       Biocompatibility Tests
+       Biocompatibility testing was performed on the subject device in accordance with ISO 10993-
+       1. Biocompatibility testing included the following:
+           Cytotoxicity
+           Skin Sensitisation
+           Irritation Test
+           Acute Systemic Toxicity
+           Material Mediated Pyrogen Test
+           Haemolysis test by direct and indirect contact method
+           Complement activation
+           Partial Thromboplastin time
+           Platelet and Leukocyte Count Assay
+           Thrombogenicity test
+
+       The results of biocompatibility tests met the requirements of ISO 10993 indicating Small
+       diameter core wire is biocompatible.
+       Performance Testing – Animal
+       The indications for use or the fundamental scientific technology of the Small diameter core
+       wire is equivalent to the predicate device.        No animal testing is performed. The
+       Substantial equivalence of the Small diameter core wire has been established to the predicate
+       device through the results of performance testing.
+       Performance Testing – Clinical
+       The clinical study was not performed as there is no change in the indications for use or the
+       fundamental scientific technology of the Small diameter core wire when compared to the
+       predicate device. The Substantial equivalence of the Small diameter core wire has been
+       established to the predicate device through the results of performance testing.
+       Sterilization and Shelf life
+       The Small diameter core wire is sterilized using validated Ethylene Oxide (EO) gas sterilization
+       method in the same manner as of the predicate device. EO and ECH residuals were well below
+       the limits specified in ISO 10993-7. The endotoxin levels were below the limits specified in
+
+
+
+
+SkyCade Med Corporation                                                                 Page No. 5
+                                                                                            K260168
+                                                                                          Page 6 of 6
+Traditional 510(k) - K260168                                           Small Diameter Core Wire
+
+
+       the Pharmacopoeia. The accelerated shelf-life testing for Small diameter core wire has been
+       conducted (T=4 years accelerated aging). All the test results met the acceptance criteria.
+       Testing demonstrated substantial equivalence to the predicate device.
+
+
+   8. Conclusion:
+       The subject device, Small diameter core wire has the same intended use and indications for use,
+       and the same technological characteristics, design, and material characteristics, principle of
+       operation, principal functionality, intended patient population and use environment compared
+       to the predicate device NitrexTM Nitinol Guidewire. The differences in
+       technological characteristics were evaluated to compare performance against the predicate. The
+       bench tests discussed above demonstrate that the subject device performs as intended.
+       Therefore, all the above data supports the conclusion that the subject device Small diameter
+       core wire is substantially equivalent to the predicate device.
+
+
+
+
+SkyCade Med Corporation                                                                Page No. 6
+

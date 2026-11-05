@@ -427,3 +427,20 @@ No new recalls, no new models, no spec values changed (sources/pass49/values.csv
 - New models: none. Seen and ruled out: P900056/S226/S228/S229 (ROTAPRO console/manufacturing; no model change); Zylox PanFlex K260686 (peripheral PTA scoring); Innovative Health reprocessed BRK needle K262917 (not coronary). No reprocessed coronary 510(k). GUDID deltas: no new DI for any row.
 - Watch: K260168 Skycade summary still not posted (PDF 404); CFM60 still not in AccessGUDID (CFM55 only); NHanceIT not in AccessGUDID; Direxion recall not in guide.
 New-row candidates for Jeff (not added): none.
+
+## Pass 50 — coronary gap-fill (Thu 2026-11-05 ~9:00 AM ET scheduled run) — research no-op; fill unchanged 90.9% (921/1013; 76 rows); /preview/ only, tag preview-pass50 (label/log only, no data change)
+No new exact-model US OEM/FDA values: sources/pass50/values.csv is header-only and conflicts.json is empty. conflicts_passes.json unchanged.
+Evidence: sources/pass50/RESEARCH.md, docs/ (text extracts + K262817 page images), raw/ (PDFs, JSON; gitignored).
+Backups: coronary-specs-verified.pre-pass50.csv and provenance.pre-pass50.json (spec/provenance untouched); app/build.pre-pass50.py (publish.sh pass-label bump only).
+Recall CSVs untouched (weekly Wednesday routine only).
+New angles:
+- AccessGUDID + openFDA UDI CFM60 recheck: still 0 / NOT_FOUND; CrossFAST/Vantis still CFM55 only. Vantis WP media newest still 2026-01-05; /crossfast/ 404. K262817 summary pages re-read (image OCR): 6F / 0.014" / +3 cm inner tip / "limited dimensional refinements" — no length_cm, inner_diameter_in, or outer_diameter_in.
+- Skycade K260168 510(k) summary now posted (was 404): indication = peripheral vasculature only → do not add coronary guidewire row; watch closed for coronary-guide purposes.
+- openFDA 510(k) window since 2026-10-19 (63 decisions) + product-code sweeps; PMA window (48). No guide-row dimensional hits. Ruled out again: Zylox PanFlex K260686 (peripheral), IH BRK K262917, ROTAPRO P900056/S226–S229 manufacturing.
+- Shockwave US /ifu/ + tech-sheet media: no new coronary tip/sheath beyond Aero Fly (already applied pass 44).
+- Imaging: Dragonfly OpStar MHz/pullback still no public ungated figure; IVUS wire/physiology N/A blanks unchanged.
+- Other blanks (NC TREK RX NP/tip/crossing, Chocolate/Ringer tip, Pantera/Quantum/Euphora/Evo crossing, SION blue PLUS/Cougar tip_load, Launcher/Vista ID mm, BioFreedom max_expansion): exhausted / sibling / OUS / gated as before.
+Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
+Applied: none. Logged: none.
+Skipped: as passes 45/47/48 (exhausted / N/A / sibling / OUS / gated), incl. CrossFAST CFM60 dims (still unpublished; AccessGUDID 0 results on 2026-11-05).
+New-row candidates for Jeff (not added): none (Skycade peripheral-only — not a candidate).
