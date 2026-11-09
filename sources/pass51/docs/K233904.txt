@@ -1,0 +1,535 @@
+July 17, 2024
+
+
+ACIST Medical Systems, Inc
+Bobbie Daughters
+Senior Regulatory Affairs Specialist
+7905 Fuller Rd
+Eden Prairie, Minnesota 55344
+
+
+Re: K233904
+    Trade/Device Name: ACIST RXi System; ACIST Navvus II Catheter
+    Regulation Number: 21 CFR 870.2870
+    Regulation Name: Catheter Tip Pressure Transducer
+    Regulatory Class: Class II
+    Product Code: DXO
+    Dated: December 11, 2023
+    Received: December 11, 2023
+
+Dear Bobbie Daughters:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+ K233904 - Bobbie Daughters                                                                         Page 2
+
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                                   Sincerely,
+
+                                                   Robert T. Kazmierski -S
+                                             for
+                                                   LCDR Stephen Browning
+                                                   Assistant Director
+                                                   Division of Cardiac Electrophysiology,
+                                                     Diagnostics, and Monitoring Devices
+ K233904 - Bobbie Daughters                                                Page 2
+
+
+                              Office of Cardiovascular Devices
+                              Office of Product Evaluation and Quality
+                              Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 07/31/2026
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K233904
+
+Device Name
+ACIST RXi System and Navvus II MicroCatheter
+
+
+
+Indications for Use (Describe)
+The ACIST RXi System is indicated for obtaining intravascular pressure measurements for use in the diagnosis and
+treatment of coronary and peripheral artery disease. The ACIST Navvus II MicroCatheter is intended for use with the
+ACIST RXi System.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                                            K233904
+
+
+
+
+K233904 - 510(k) Summary [21 CFR 807.92]
+SUBMITTER
+
+ACIST Medical Systems, Inc.
+7905 Fuller Road
+Eden Prairie, MN 55344
+
+Phone: 952.995.9300
+Fax: 952.941.4648
+
+Contact Person: Bobbie Daughters, Senior Regulatory Affairs Specialist
+E-mail: Bobbie.Daughters@bracco.com
+Alternative Contact: Katie Molland, Director, Regulatory Affairs
+E-mail: Katie.Molland@bracco.com
+
+Date Prepared: 11 December 2023
+
+DEVICE
+
+Name of Device: RXi® System and Navvus®II MicroCatheter
+Common or Usual Name: Catheter tip pressure transducer
+Classification Name: Transducer, pressure, catheter tip (870.2870)
+Regulatory Class: II
+Product Code: DXO
+
+PREDICATE DEVICE
+
+ACIST RXi® System and Navvus®II MicroCatheter (K190473)
+
+REFERENCE DEVICE
+The dPR index calculation algorithm software upgrade subject to this submission is substantially equivalent
+to the reference device, Volcano iFR Modality in the s5™/s5i/CORE/CORE™ Mobile Precision Guided
+Therapy System cleared under K173860 on 04/11/2018 for similar intended use.
+
+DEVICE DESCRIPTION
+
+The current RXi system obtains intravascular pressure measurements for use in the diagnosis and treatment
+of coronary and peripheral artery disease. The RXi measures intravascular pressure in a hyperemic state
+following administration of adenosine as fractional flow reserve (FFR). The proposed software update for the
+RXi system adds a diastolic pressure ratio (dPR), which measures intravascular pressure in a non-hyperemic
+(resting) state. Both current and proposed ACIST RXi Systems are used in conjunction with the Navvus
+Catheter.
+
+The proposed RXi System consists of a console containing embedded software that provides the main user
+interface. The system is used with the Navvus catheter which contains a pressure sensor for acquisition of
+                                                                                                      Page| 1 of 7
+                                                                              K233904_Premarket Notification – Traditional 510(k)
+
+                                                                                            ACIST RXi System and NavvusII Catheter
+
+
+pressure distal (Pd) to a lesion. The proximal aortic pressure (Pa) is acquired via an interface to a third-party
+hemodynamic system. The system is intended for use in catheterization and related cardiovascular specialty
+laboratories to compute and display fractional flow reserve (FFR) using hyperemic agents and/or non-
+hyperemic indices of diastolic pressure ratio (dPR) and Pd/Pa for physiological assessment of ischemic
+stenotic lesions.
+
+Measurement of FFR requires simultaneously monitoring the blood pressures proximal and distal to a lesion
+while inducing hyperemia. dPR is a measure of the diastolic portion of the hemodynamic waveform and can
+be used by the physician to perform a physiologic assessment without inducing hyperemia in the patient.
+
+INDICATIONS FOR USE
+
+The ACIST RXi® System is indicated for obtaining intravascular pressure measurements for use in the
+diagnosis and treatment of coronary and peripheral artery disease. The ACIST Navvus® Catheter is intended
+for use with the ACIST RXi System.
+
+COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE DEVICE
+
+The proposed RXi System with dPR software update is substantially equivalent to the predicate RXi System
+(K190473). The fundamental technology and principle of operation of the RXi System are unchanged from
+the predicate device. The only change to the RXi System is a software update and updated labeling to describe
+the additional software features. The software update to the RXi console will allow the user to select between
+the existing hyperemic-induced FFR measurement and a new modality of non-hyperemic dPR measurement.
+
+The following technological difference exists between the subject and predicate device:
+•      Software update to allow the current system to compute and display a non-hyperemic diastolic
+pressure ratio (dPR) index for physiological assessment.
+
+The subject device (RXi® System with dPR modality) has the same intended use, design, materials, and energy
+source as the legally marketed predicate device (RXi® System) cleared by FDA under premarket notification
+K190473. While the subject device introduces an additional technological characteristic (the dPR modality),
+verification and validation testing demonstrate that this technological difference does not raise new issues of
+safety and effectiveness.
+
+The identified questions of safety and efficacy apply to both the new device and the predicate. Performance
+testing confirmed the software update for dPR does not raise any different questions of safety and efficacy
+and therefore the RXi System with dPR meets substantial equivalence requirements with regards to the legally
+marketed predicate RXi System (K190473).
+
+PERFORMANCE DATA
+
+The risk management process has been used to evaluate the dPR software update to the RXi System in
+accordance with the guidelines set forth in ISO 14971:2007, Medical Devices – Application of Risk
+Management to Medical Devices. The risk analysis for the RXi System with dPR has taken into consideration
+the medical device vigilance data and product experience of the predicate RXi System. All residual risks that
+relate to the software update to include dPR have been taken into consideration. All RXi System and software
+residual risks are outweighed by potential benefits and are therefore acceptable.
+
+       ACIST Medical Systems, Inc.                                                                                            Page| 2 of 7
+       7905 Fuller Rd, Eden Prairie, MN 55344 / p 952.995.9300 / f 952.941.4648 acist.com
+                                                                               K233904_Premarket Notification – Traditional 510(k)
+
+                                                                                             ACIST RXi System and NavvusII Catheter
+
+
+Verification and Validation testing was completed to establish the RXi system console software with dPR
+functionality meets specifications and performs as intended.
+
+Software verification included unit testing, software integration, and GUI-level verification.
+ACIST validated the diagnostic performance of the RXi software update to introduce the dPR modality by
+demonstrating the agreement between the non-hyperemic RXi dPR index and the non-hyperemic
+instantaneous wave-free ratio (iFR) modality of the FDA-cleared reference device, Volcano s5/s5i CORE
+Mobile (K173860) as compared to FFR using a dataset collected in a prospective clinical study.
+
+The diagnostic performance evaluation used a non-clinical bench top hemodynamic test fixture to reproduce
+resting and hyperemic clinical waveform recordings from the prospective CONTRAST 1 clinical study.
+Resting and hyperemic pressure readings from each recorded waveform were measured using the ACIST RXi
+System and Navvus Catheter, and in parallel, the Philips Verrata PLUS wire and Philips (Volcano) CORE
+Mobile system. A statistical analysis of the collected datasets demonstrated all three pre-determined primary
+endpoints (diagnostic accuracy, sensitivity, and specificity) were met.
+
+Compared to FFR measurements (cutpoint 0.80), the accuracy of dPR (cutpoint 0.89) was 76.39%, and the
+accuracy of iFR (cutpoint 0.89) was 78.46%, resulting in a diagnostic accuracy difference of -2.08%. The
+sensitivity for dPR vs iFR was 99.68% and was higher than the pre-determined performance goal of 90%.
+The specificity for dPR vs iFR was 88.92% and was higher than the pre-determined performance goal of 84%.
+The diagnostic accuracy of dPR compared to iFR was 93.89%, confirming the agreement of diagnostic
+accuracy between dPR and iFR compared to FFR and supporting a conclusion of substantial equivalence.
+
+CONCLUSIONS
+
+The results from the tests mentioned above demonstrate that the technological and performance characteristics
+of the proposed RXi System are comparable to the predicate device. The results of testing and outputs of the
+risk management process support the safety and effectiveness of the dPR software upgrade and ensure the
+subject device can perform in a manner equivalent to the predicate device with the same intended use. The
+results of the verification/validation tests and the risk analysis have demonstrated that the software upgrade
+to allow calculation of dPR does not add any new questions of safety and efficacy and is therefore substantially
+equivalent to the predicate RXi System (K190473) and reference device, Volcano iFR Modality (K173860).
+
+SUBSTANTIAL EQUIVALENCE
+
+The new proposed device is the RXi System including a new dPR modality. The predicate device is the
+currently marketed RXi System without a dPR modality (K190473). The Navvus Catheter and accessories
+included in K190743 are not affected by this submission. The only change to the RXi System is to add a non-
+hyperemic diastolic pressure ratio (dPR) calculation for added functionality in the software capabilities and
+updated labeling to describe the additional software features. The reference device is the marketed Volcano
+s5 system (K173860), specifically the iFR modality. The purpose of the reference device iFR modality is to
+demonstrate safety and effectiveness of the dPR modality.
+
+Equivalence of Intended Use:
+
+
+1
+ Johnson NP, Jeremias A, Zimmermann FM, et al. Continuum of vasodilator stress from rest to contrast medium to adenosine
+hyperemia for fractional flow reserve assessment. JACC: Cardiovascular Interventions. 2016;9(8):757-767
+        ACIST Medical Systems, Inc.                                                                                            Page| 3 of 7
+        7905 Fuller Rd, Eden Prairie, MN 55344 / p 952.995.9300 / f 952.941.4648 acist.com
+                                                                                                 K233904_Premarket Notification – Traditional 510(k)
+
+                                                                                                               ACIST RXi System and NavvusII Catheter
+
+
+Indications for the device remain unchanged from the predicate device. The reference device contains similar
+indications for the pressure measurement modality.
+
+Equivalence of Technological Characteristics:
+
+The only difference between the subject and predicate devices is the addition of the dPR modality embedded
+into the software of the RXi System. Otherwise, the subject and predicate device share identical technological
+characteristics. Performance testing has confirmed the equivalent diagnostic performance of the subject device
+dPR modality relative to the iFR modality of the reference device.
+
+No new questions of safety and effectiveness were identified during review of Risk Management
+documentation or execution of Verification and Validation activities.
+
+Safety and Effectiveness:
+
+The identified questions of safety and efficacy apply to both the new device and the predicate; therefore, the
+new device does not raise different questions of safety and efficacy. Specifically, a resting index calculation
+poses less risk to the patient as there is no need to use a hyperemic agent. The proposed device does not raise
+any different questions of safety and efficacy.
+
+Conclusion:
+
+The proposed device, RXi System with dPR software upgrade, was shown to be substantially equivalent to
+the legally marketed predicate RXi System (K190473), except for a software change introducing the dPR
+modality.
+
+The safety and effectiveness of the RXi System dPR modality has been shown to be substantially equivalent
+to the iFR modality of marketed device K173860.
+
+ Feature                                             Proposed Device –                        Predicate Device –             Reference Device –
+                                                     RXi System                               RXi System                     Volcano iFR
+
+                         Name                        RXi System                               RXi System                     Volcano
+                                                                                                                             s5/s5i/CORE/CORE
+                                                                                                                             Mobile Precision Guided
+                                                                                                                             Therapy System
+                                                     Not yet assigned                         K190473                        K173860
+Regulatory Information
+
+
+
+
+                         510(k)#
+
+                         Predicates                  K190473                                  K132474                        K133323
+                                                                                                                             K170133
+                         Classification Name         Catheter, pressure                       Catheter, pressure             Ultrasonic Pulsed Echo
+                                                     monitoring, cardiac                      monitoring, cardiac            Imaging System
+                         Product Code &              DXO, OBI                                 OBI, DXO                       IYO
+                         Regulation Number           21 CFR 870.2870,                         21 CFR 870.1200,               21 CFR 892.1560
+                                                     21 CFR 870.1200                          21 CFR 870-2870
+
+                         FDA Classification          II                                       II                             II
+                         Classification Panel        Cardiovascular                           Cardiovascular                 Radiology
+
+
+                          ACIST Medical Systems, Inc.                                                                                             Page| 4 of 7
+                          7905 Fuller Rd, Eden Prairie, MN 55344 / p 952.995.9300 / f 952.941.4648 acist.com
+                                                                                              K233904_Premarket Notification – Traditional 510(k)
+
+                                                                                                            ACIST RXi System and NavvusII Catheter
+
+
+ Feature                                          Proposed Device –                        Predicate Device –             Reference Device –
+                                                  RXi System                               RXi System                     Volcano iFR
+
+                      Indications for Use/        The ACIST RXi System is                  The ACIST RXi System is        The FFR v2.5 Modality of
+                      Intended Use                indicated for obtaining                  indicated for obtaining        the s5/s5i/Core and Core
+                                                  intravascular pressure                   intravascular pressure         Mobile Precision Guided
+                                                  measurements for use in the              measurements for use in        Therapy System is
+                                                  diagnosis and treatment of               the diagnosis and treatment    indicated in all blood
+                                                  coronary and peripheral                  of coronary and peripheral     vessels, including
+                                                  artery disease. The ACIST                artery disease. The ACIST      coronary and peripheral
+                                                  Navvus Catheter is intended              Navvus Catheter is             arteries, to measure
+                                                  for use with the ACIST RXi               intended for use with the      intravascular blood
+                                                  System.                                  ACIST RXi System.              pressure during diagnostic
+                                                                                                                          angiography and/or
+                                                                                                                          interventional procedures.
+                                                                                                                          The iFR Modality is
+                                                                                                                          intended to be used in
+                                                                                                                          conjunction with currently
+                                                                                                                          marketed Volcano
+                                                                                                                          Pressure wires. In the
+                                                                                                                          coronary anatomy, the
+                                                                                                                          iFR modality has a
+Indications for Use
+
+
+
+
+                                                                                                                          diagnostic cut-point of
+                                                                                                                          0.89 which represents
+                                                                                                                          ischemic threshold and
+                                                                                                                          can reliably guide
+                                                                                                                          revascularization
+                                                                                                                          decisions during
+                                                                                                                          diagnostic catheterization
+                                                                                                                          procedure. When used as
+                                                                                                                          for a pullback assessment,
+                                                                                                                          the iFR modality is
+                                                                                                                          intended as a visual aid in
+                                                                                                                          decision making by
+                                                                                                                          indicating the relative
+                                                                                                                          location and severity of
+                                                                                                                          the stenosis such as,
+                                                                                                                          multiple lesions or diffuse
+                                                                                                                          disease.
+
+                      Contraindications           The ACIST Navvus                         The ACIST Navvus               Use of the Volcano
+                                                  Catheter is contraindicated              Catheter is contraindicated    system is contraindicated
+                                                  for use in the cerebral                  for use in the cerebral        wherever tissue or organ
+                                                  vasculature.                             vasculature.                   damage is a reasonable
+                                                                                                                          probability.
+                                                                                                                          The catheter is not for
+                                                                                                                          fetal use.
+
+
+
+
+                       ACIST Medical Systems, Inc.                                                                                              Page| 5 of 7
+                       7905 Fuller Rd, Eden Prairie, MN 55344 / p 952.995.9300 / f 952.941.4648 acist.com
+                                                                                                        K233904_Premarket Notification – Traditional 510(k)
+
+                                                                                                                      ACIST RXi System and NavvusII Catheter
+
+
+  Feature                                                   Proposed Device –                        Predicate Device –             Reference Device –
+                                                            RXi System                               RXi System                     Volcano iFR
+
+                                Fundamental                 A device with an integrated              A device with an integrated    A device with an
+                                Scientific                  pressure sensor used in the              pressure sensor used in the    integrated pressure sensor
+                                Technology                  real-time calculation of FFR             real-time calculation of       used in the real-time
+                                                            or dPR based on patient                  FFR based on patient blood     calculation of FFR or dPR
+                                                            blood pressure                           pressure                       based on patient blood
+                                                                                                                                    pressure
+                                Prescription Use            Rx Only                                  Rx Only                        Rx Only
+
+                                System                      Console with embedded                    Console with embedded          This reference device is a
+                                Components and              software, Navvus Catheter                software, Navvus Catheter      larger system with
+                                accessories                 connection port, FISO                    connection port, FISO          additional capabilities not
+                                                            signal conditioner,                      signal conditioner,            related to this submission.
+                                                            touchscreen, and graphical               touchscreen, and graphical
+                                                            user interface (GUI), and                user interface (GUI), and
+                                                            accessories (mount, cart,                accessories (mount, cart,
+                                                            hemodynamic cables, power                hemodynamic cables,
+                                                            supply and cord, AO                      power supply and cord, AO
+                                                            interface box)                           interface box)
+                                Pressure Sensing            EEPROM in the Navvus                     EEPROM in the Navvus           Pressure measurement is
+                                and Signal                  Catheter connector                       Catheter connector             captured through the use
+                                Transmission                communicates with the                    communicates with the          of pressure wires.
+                                                            FISO board in the RXi                    FISO board in the RXi
+Technological Characteristics
+
+
+
+
+                                Technology
+                                                            Console                                  Console
+                                Connected                   Navvus/Navvus II Catheter                Navvus/Navvus II Catheter      SmartWire II, PrimeWire
+                                Device(s)                                                                                           Prestige,
+                                                                                                                                    PrimeWire
+                                                                                                                                    Prestige Plus, Verrata,
+                                                                                                                                    Verrata Plus
+                                Auto-Zeroing                Yes                                      Yes                            Yes
+                                Diastolic Resting           dPR, Pd/Pa                               Pd/Pa                          iFR
+                                Indices
+                                User Interface              •        Audible and visual              •        Audible and visual    •      Bedside:
+                                Displays                    alarm                                    alarm                          Touchpad or joystick
+                                                            •        LED Status                      •        LED Status            •      Control room:
+                                                            Indicators                               Indicators                     Console
+                                                            •        Console                         •        Console
+                                                            touchscreen                              touchscreen
+                                Intended Operating          •        Angiographic                    •        Angiographic          •        Angiographic
+                                Environment                 Catheterization Lab                      Catheterization Lab            Catheterization Lab
+                                                            •        Interventional                  •        Interventional        •        Interventional
+                                                            Radiology Lab                            Radiology Lab                  Radiology Lab
+                                                            •        Operating Room                  •        Operating Room        •        Operating Room
+                                                            (OR)                                     (OR)                           (OR)
+                                Electrical Isolation        Class II (double isolation)              Class II (double isolation)    Class I (functional
+                                (UL Classification)                                                                                 ground)
+                                Operating Pressure          -30 to +300 mmHg                         -30 to +300 mmHg               -30 to 300 mmHg
+                                Range
+
+                                 ACIST Medical Systems, Inc.                                                                                              Page| 6 of 7
+                                 7905 Fuller Rd, Eden Prairie, MN 55344 / p 952.995.9300 / f 952.941.4648 acist.com
+                                                                             K233904_Premarket Notification – Traditional 510(k)
+
+                                                                                           ACIST RXi System and NavvusII Catheter
+
+
+Feature                          Proposed Device –                        Predicate Device –             Reference Device –
+                                 RXi System                               RXi System                     Volcano iFR
+
+    Zero Drift                   ≤ 7 mmHg over one hour                   ≤ 7 mmHg over one hour         5 mmHg / 10 minutes
+
+    Pressure Accuracy            3 mmHg or 3% of reading                  3 mmHg or 3% of reading        Not Specified
+
+    Calculation types/           FFR, Pd/Pa and dPR                       FFR and Pd/Pa                  FFR, iFR
+    Physiological
+    Measurements
+    Hyperemic agent              Not required for dPR                     Required for FFR               Not required for iFR
+                                 Required for FFR                                                        Required for FFR
+    Resting Indices              Automatically selected                   N/A                            Automatically selected
+    Wave Selection
+    Resting Indices              0.89                                     N/A                            0.89
+    Cutoff Point
+    Aortic Input                 100 mmHg/V                               100 mmHg/V                     High Level (100 mm
+                                                                                                         Hg/V)
+    Distal Pressure              5μV/V/mmHg                               5μV/V/mmHg                     Low Level 5 uV/mmHg
+    Output
+    Software                     Microsoft Windows CE                     Microsoft Windows CE           Not specified
+    Application                  Real-Time Operating                      Real-Time Operating
+                                 System RTOS                              System RTOS
+    Signal Acquisition           8 milliseconds                           8 milliseconds                 Not specified
+
+    Real-Time Clock              Console software contains a              Console software contains      Not specified
+    and Battery                  real-time clock and battery              a real-time clock and
+                                 back-up                                  battery back-up
+    Communication                Serial Peripheral Interface              Serial Peripheral Interface    Not specified
+    Protocols                    (SPI) is used for intra-board            (SPI) is used for intra-
+                                 communications within the                board communications
+                                 RXi Console, TTL serial                  within the RXi Console,
+                                 port between FISO signal                 TTL serial port between
+                                 conditioner and RXi console              FISO signal conditioner
+                                                                          and RXi console
+
+
+
+
+      ACIST Medical Systems, Inc.                                                                                              Page| 7 of 7
+      7905 Fuller Rd, Eden Prairie, MN 55344 / p 952.995.9300 / f 952.941.4648 acist.com
+

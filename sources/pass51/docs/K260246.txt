@@ -1,0 +1,246 @@
+                                                                                               August 24, 2026
+
+Bolt Medical, Inc.
+Stephanie Onstot
+Regulatory Affairs Manager
+2131 Faraday Ave.
+Carlsbad, California 92008
+
+
+Re: K260246
+    Trade/Device Name: SEISMIQ™ Intravascular Lithotripsy System
+    Regulation Number: 21 CFR 870.1250
+    Regulation Name: Percutaneous Catheter
+    Regulatory Class: Class II
+    Product Code: PPN
+    Dated: July 24, 2026
+    Received: July 24, 2026
+
+Dear Stephanie Onstot:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.08.05
+Silver Spring, MD 20993
+www.fda.gov
+K260246 - Stephanie Onstot                                                                           Page 2
+
+
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality Management System Regulation
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls),
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review,
+the QMSR requires device manufacturers to review and approve changes to device design and production
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical
+Device File (ISO 13485 clause 4.2.3).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+K260246 - Stephanie Onstot                                                Page 3
+
+
+
+                             Sincerely,
+
+                              GREGORY W. Digitally signed by
+                                           GREGORY W. O'CONNELL -S
+
+                              O'CONNELL -S Date: 2026.08.24 14:26:55
+                                           -04'00'
+
+                             Gregory O'Connell
+                             Assistant Director
+                             DHT2C: Division of Coronary and
+                               Peripheral Intervention Devices
+                             OHT2: Office of Cardiovascular Devices
+                             Office of Product Evaluation and Quality
+                             Center for Devices and Radiological Health
+
+Enclosure
+TM
+
+
+
+
+     TM
+                                         510(k) Summary – K260246
+
+Name, Address, Phone Number of Applicant
+Bolt Medical, Inc.
+2131 Faraday Ave
+Carlsbad, CA 92008
+Phone: 760-979-1890
+Contact Person
+Stephanie Onstot
+Date Prepared
+August 21, 2026
+
+Device Name and Classification
+          Trade Name:                 SEISMIQ™ Intravascular Lithotripsy System
+          Common Name:                Catheter, lithotripsy, peripheral, transluminal
+          CFR Classification:         21 CFR 870.1250
+          Classification Name:        Percutaneous catheter
+          Product Code:               PPN
+
+Predicate Device
+The primary predicate for the SEISMIQ Intravascular Lithotripsy (IVL) System is the SEISMIQ Intravascular
+Lithotripsy System (Previously named the Bolt IVL System, K250225) cleared by FDA on March 25, 2025.
+Reference Device
+The reference device for the Bolt IVL Lithotripsy System is the Shockwave Medical Lithoplasty System S4
+(K191840) cleared by FDA on August 7, 2019.
+Indications for Use / Intended Use
+The SEISMIQ (IVL) System is intended for lithotripsy-enhanced balloon dilatation of lesions, including
+calcified lesions, in the peripheral vasculature, including the iliac, femoral, iliofemoral, popliteal, and
+infra-popliteal arteries. Not for use in the coronary, carotid or cerebral vasculature.
+
+Device Description
+The SEISMIQ Intravascular Lithotripsy System is a proprietary balloon catheter and console designed to
+enhance percutaneous transluminal angioplasty by delivering calcium disrupting lithotripsy prior to
+balloon dilatation at low pressures. The application of lithotripsy mechanical pulse waves alters the
+structure of an occlusive vascular deposit (stenosis) allowing low-pressure balloon dilatation of the
+stenosis and facilitates the passage of blood.
+The SEISMIQ IVL Catheter is delivered through the peripheral arterial system of the lower extremities to
+the lesion site. The balloon is partially inflated, and the lithotripsy emitters generate pulsatile
+mechanical energy within the balloon at the target treatment site allowing subsequent dilatation of a
+peripheral artery stenosis using low balloon pressure. The SEISMIQ IVL Catheter is a single-use device
+supplied sterile to the customer.
+
+
+
+K260246                                                                                           Page - 1
+Bolt Medical, Inc.
+Premarket Notification, Traditional 510(k)
+SEISMIQ™ IVL System
+
+The SEISMIQ IVL Console delivers energy through the integrated catheter cabling to the emitters located
+inside the catheter balloon in the SEISMIQ IVL Catheter. The SEISMIQ IVL Console is a non-sterile,
+reusable device.
+Technological Comparison
+This 510(k) Premarket Notification is being submitted for minor modifications to the SEISMIQ™ IVL
+System. The product line extension adds additional catheter sizes with a smaller ballon diameter and
+length to the SEISMIQ IVL System portfolio.
+To increase the size range of the system, the additional catheter sizes include a smaller ballon diameter
+and length as compared to catheters cleared under K250225. Differences between the two catheters do
+not raise new questions of safety and effectiveness.
+The SEISMIQ IVL System has the same intended use principles of operation and has substantially
+equivalent technological characteristics, including the same fundamental scientific technology, design,
+energy source, shelf life and sterilization as the predicate IVL System.
+Summary of Performance Data
+Objective evidence demonstrating that the SEISMIQ IVL System design output meets the product design
+input requirements as well as that device performance characteristics conform to user needs and
+intended uses as defined in the product specification was provided. Testing was conducted in
+accordance with Bolt Medical’s risk analysis procedures, and all applicable FDA guidance documents and
+relevant international standards. Testing included:
+            •   Catheter diameter and balloon profile
+            •   Tensile strength
+            •   Kink resistance / flexibility
+            •   Catheter torsional strength
+            •   Balloon Inflation / deflation time
+            •   Minimum RBP
+            •   Balloon compliance
+            •   Fatigue (multiple inflations)
+            •   Pushability and trackability
+            •   Fluoroscopic visibility
+            •   Particulate evaluation
+            •   Pulsing cycles
+            •   Sonic output
+Results demonstrate that the performance of the SEISMIQ IVL System meets its design specifications
+and demonstrates substantial equivalence for its intended use.
+Summary of Biocompatibility Testing
+Biocompatibility testing was conducted on the predicate device (K250225) in accordance with ISO
+10993-1:2020 and FDA Guidance Use of International Standard ISO 10993-1, "Biological evaluation of
+medical devices - Part 1: Evaluation and testing within a risk management process" and leveraged for
+the subject device.
+
+
+
+
+K260246                                                                                       Page - 2
+Bolt Medical, Inc.
+Premarket Notification, Traditional 510(k)
+SEISMIQ™ IVL System
+
+Summary of Animal Testing
+A chronic GLP study was conducted in a porcine in vivo model to determine the safety of delivering
+pulsatile mechanical energy to peripheral arteries with the Bolt IVL System, and submitted as part of
+K250225. There have been no modifications made to the subject device that impact the delivered
+therapy of the SEISMIQ IVL System. Therefore, data from K250225 is leveraged for the
+subject device submission.
+
+Summary of Clinical Data
+Clinical evidence which evaluated the safety and performance of the Bolt IVL System was submitted as
+part of K250225 for above the knee (RESTORE ATK) and below the knee (RESTORE BTK), and is leveraged
+for the subject device submission. There have been no modifications made to the subject device
+that impact the delivered therapy of the SEISMIQ IVL System.
+
+Basis for Substantial Equivalence
+The SEISMIQ IVL System shares the same intended use and mechanism of action as well as similar
+technological characteristics as the predicate device. Any differences between the SEISMIQ IVL System
+and the predicate device were evaluated through bench testing which demonstrated acceptable device
+performance and confirmed that there are no new questions of safety or effectiveness. Therefore, the
+SEISMIQ IVL System is substantially equivalent to the predicate device.
+
+
+
+
+K260246                                                                                      Page - 3
+

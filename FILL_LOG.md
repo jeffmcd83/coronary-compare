@@ -444,3 +444,20 @@ Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.
 Applied: none. Logged: none.
 Skipped: as passes 45/47/48 (exhausted / N/A / sibling / OUS / gated), incl. CrossFAST CFM60 dims (still unpublished; AccessGUDID 0 results on 2026-11-05).
 New-row candidates for Jeff (not added): none (Skycade peripheral-only — not a candidate).
+
+## Pass 51 — coronary gap-fill (Mon 2026-11-09 ~9:00 AM ET scheduled run) — research no-op; fill unchanged 90.9% (921/1013; 76 rows); /preview/ only, tag preview-pass51 (label/log only, no data change)
+No new exact-model US OEM/FDA values: sources/pass51/values.csv is header-only and conflicts.json is empty. conflicts_passes.json unchanged.
+Evidence: sources/pass51/RESEARCH.md, docs/ (text extracts), raw/ (PDFs, JSON, HTML; gitignored). Scripts: sources/pass51/gudid_delta.py, subs_audit.py, pmn_fetch.py (cfpmn attempt — gated, not used).
+Backups: coronary-specs-verified.pre-pass51.csv and provenance.pre-pass51.json (spec/provenance untouched); app/build.pre-pass51.py (publish.sh pass-label bump only).
+Recall CSVs untouched (weekly Wednesday routine only).
+New angles:
+- CFM60: AccessGUDID 0 results (CrossFAST = CFM55 only); openFDA UDI NOT_FOUND; AccessGUDID daily deltas 11-04/05/06 parsed (no Vantis record, no guide-row DI change); Vantis home re-read — "6F CrossFAST Model" news tile only, no figures.
+- FDA cfpmn 510(k) web search (post-openFDA-cut decisions): JS wait page / timeout → gated, not bypassed. openFDA 510(k)/PMA cut still 2026-10-26.
+- 510(k) submission-completeness audit (17 product codes, 2024+): K261759 Euphora RX (2026-07-27, proximal-shaft material change, predicate K143480) missing from the Euphora row → Jeff decision; K233904 ACIST RXi/Navvus II (2024-07-17, RXi dPR software only; catheter unaffected) → not added (system-index precedent).
+- US PTCA-balloon coverage check (LOX 2023+ / GUDID): several US-distributed coronary balloons have no row → new-row candidates below.
+- Imaging/IVL 510(k) sweep 2026-06+: SEISMIQ K260246 and Shockwave E8 K262201 peripheral only; no OpStar/Eagle Eye/C2-family figures; PMA QMG = Shockwave only.
+Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
+Applied: none. Logged: none.
+Skipped: as passes 45/47/48/50 (exhausted / N/A / sibling / OUS / gated), incl. CrossFAST CFM60 dims (still unpublished; AccessGUDID 0 results on 2026-11-09).
+Decisions for Jeff: (1) add K261759 to Euphora fda_submission (mirrors NC Euphora K261428)? (2) list K233904 / dPR on Navvus II (not recommended)?
+New-row candidates for Jeff (not added): MicroPort Firefighter NC Pro (K223189, 59 GUDID DIs) / Firefighter Pro (K252116, 2026-04-07); Medtronic Sprinter Legend RX (K251970 2026-01-17 / K103095) and NC Sprinter (P790017); OrbusNeich Sapphire ULTRA (K233505) / NC ULTRA (K233499) / NC 24 (K211807); Terumo Ryurei (K252295, 2026-03-27); Verge FLASH Flex aorto-ostial (K254022, 2026-04-02).
