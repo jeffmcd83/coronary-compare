@@ -461,3 +461,11 @@ Applied: none. Logged: none.
 Skipped: as passes 45/47/48/50 (exhausted / N/A / sibling / OUS / gated), incl. CrossFAST CFM60 dims (still unpublished; AccessGUDID 0 results on 2026-11-09).
 Decisions for Jeff: (1) add K261759 to Euphora fda_submission (mirrors NC Euphora K261428)? (2) list K233904 / dPR on Navvus II (not recommended)?
 New-row candidates for Jeff (not added): MicroPort Firefighter NC Pro (K223189, 59 GUDID DIs) / Firefighter Pro (K252116, 2026-04-07); Medtronic Sprinter Legend RX (K251970 2026-01-17 / K103095) and NC Sprinter (P790017); OrbusNeich Sapphire ULTRA (K233505) / NC ULTRA (K233499) / NC 24 (K211807); Terumo Ryurei (K252295, 2026-03-27); Verge FLASH Flex aorto-ostial (K254022, 2026-04-02).
+
+## Pass 52 — weekly recall & new-model refresh (Wed 2026-11-11 ~9:00 AM ET) — no-op; /preview/ only, tag preview-pass52
+No new recalls, no new models, no spec values changed (sources/pass52/values.csv header-only; conflicts.json empty). Fill unchanged 90.9% (921/1013; 76 rows). Recalls 110→110 (coronary-recalls.csv and supplier rollup byte-identical). Evidence: sources/pass52/RESEARCH.md, raw/. Backups: *.pre-pass52.
+- openFDA cuts: recall 2026-11-07, enforcement 2026-11-04, 510(k)/PMA 2026-11-02, UDI 2026-11-02; AccessGUDID deltas parsed 2026-11-09, 11-10.
+- Recall pool 2,058 (same keys, 0 status changes); 110 matches. 44 recalls posted 10-31…11-11: none coronary-guide. Enforcement since 10-29 (31): 0 matches (CSV + dropped.json restored byte-identical).
+- New models: none. K263596 Medtronic DLP Coronary Ostial Cannulae = surgical cardioplegia cannula (not interventional). GUDID deltas: no guide-row DI; Piraeus 35 Helix guidewire K260751 peripheral.
+- Watch: CFM60 and NHanceIT still not in AccessGUDID; Direxion not in guide; Skycade closed.
+New-row candidates for Jeff (not added): none new (pass 51 candidates still pending).
