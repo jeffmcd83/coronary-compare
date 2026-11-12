@@ -1,0 +1,377 @@
+October 28, 2026
+
+Evident Vascular, Inc.
+Angela Frederickson
+President, Principal RAQA Consultant
+Sparq Compliance
+2624 Wagner Pl.
+El Dorado Hills, California 95762
+
+
+Re: K261648
+    Trade/Device Name: Evident Vascular™ Guidance System
+    Regulation Number: 21 CFR 892.1560
+    Regulation Name: Ultrasonic Pulsed Echo Imaging System
+    Regulatory Class: Class II
+    Product Code: IYO, OBJ, ITX
+    Dated: September 28, 2026
+    Received: September 28, 2026
+
+Dear Angela Frederickson:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Before making any change significantly affecting the safety or effectiveness of the device, you must submit a
+new premarket notification in accordance with 21 CFR 807.81. Additional information about changes that
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.09.01
+Silver Spring, MD 20993
+www.fda.gov
+K261648 - Angela Frederickson                                                                        Page 2
+
+
+may require a new premarket notification are provided in the FDA guidance documents entitled "Deciding
+When to Submit a 510(k) for a Change to an Existing Device" (https://www.fda.gov/media/99812/download)
+and "Deciding When to Submit a 510(k) for a Software Change to an Existing Device"
+(https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality Management System Regulation
+(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls),
+ISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485
+clause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review,
+the QMSR requires device manufacturers to review and approve changes to device design and production
+(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical
+Device File (ISO 13485 clause 4.2.3).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the Quality Management
+System Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR
+Part 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control
+provisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Office of Industry and Consumer Education (OICE) to ask a question about a specific regulatory topic. See
+the OICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+K261648 - Angela Frederickson                                                                    Page 3
+
+
+assistance/contact-us-office-industry-and-consumer-education-oice) for more information or contact OICE
+by email (AskOICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+
+                                               Sincerely,
+
+                                                MARCO CANNELLA -S
+                                               Marco Cannella, Ph.D.
+                                               Acting Assistant Director
+                                               Division of Cardiac Electrophysiology,
+                                                 Diagnostics, and Monitoring Devices
+                                               Office of Cardiovascular Devices
+                                               Office of Product Evaluation and Quality
+                                               Center for Devices and Radiological Health
+
+Enclosure
+                                        Indications for Use
+ Please type in the marketing application/submission number, if it is known. This
+                                                                                        K261648                ?
+ textbox will be left blank for original applications/submissions.
+ Please provide the device trade name(s).                                                                      ?
+
+Evident Vascular Guidance System (EVGS-001)
+
+
+ Please provide your Indications for Use below.                                                                ?
+The Evident Vascular Guidance System (EVGS) is intended for ultrasound examination of intravascular
+pathology. lntravascular ultrasound is indicated in patients who are candidates for transluminal
+interventional procedures such as angioplasty and atherectomy.
+
+The Evident Peripheral Imaging Catheters generate ultrasound images and are intended for ultrasound
+examination of peripheral vascular pathology only.
+
+The recommended use of each of these catheters may vary depending on the size and type of catheter.
+Refer to the Instructions for Use for all Evident Peripheral Imaging Catheters for additional information on
+recommended use.
+
+ Please select the types of uses (select one or both, as     [gJ Prescription Use (21 CFR 801 Subpart D)
+ applicable).                                                D Over-The-Counter Use (21 CFR 801 Subpart C)     ?
+
+ Please select the age group(s) for which the device(s) is   D Neonates/Newborns (Birth to< 29 days old)
+ to be used.                                                 D Infants (29 days old to< 2 years old)
+                                                             D Children (2 years old to< 12 years old)         ?
+                                                             □   Adolescents (12 years old to< 22 years old)
+                                                             � Adults (22 years old and greater)
+Evident Vascular, Inc.                                        Evident Vascular Guidance System (EVGS)
+                                                                                      Traditional 510(k)
+                                                                                               K261648
+
+
+
+510(k) Summary – [21 CFR 807.92]
+
+807.92(a)(1), (2), (3)
+
+Date Prepared:              October 28, 2026
+Submitter Name:             Evident Vascular, Inc.
+                            142 Charcot Avenue
+                            San Jose, CA 95131
+                            +1 (408) 785-6511
+Official
+Correspondent:              Angela Frederickson, Principal RAQA Consultant
+                            Sparq Compliance
+                            +1 (650) 336-3887
+                            angela.frederickson@evidentvascular.com
+Device Trade Name:          Evident Vascular™ Guidance System
+Common Name:                Ultrasound Imaging System
+Review Panel:               Office of Health Technology: Cardiac Electrophysiology,
+                            Diagnostics, and Monitoring (OHT2A)
+Classification Name:        Ultrasonic Pulsed Echo Imaging System
+                            Ultrasonic Diagnostic Transducer
+                            Intravascular Ultrasound Catheter
+Regulation No.:             892.1560
+                            892.1570
+                            870.1200
+Classification Code:        IYO
+                            ITX
+                            OBJ
+Predicate Device:           iLab Polaris Multi-Modality Guidance System: K210889
+                            Classification Code: DQK, DSK, IYO, ITX
+                            Regulation: 21 CFR 870.1425,
+Reference Device:           OptiCross 18 Peripheral Imaging Catheter: K222568
+                            Classification Code: ITX, OBJ
+                            Regulation: 892.1570, 870.1200
+Reference Device:           OptiCross 18 Peripheral Imaging Catheter: K200733
+                            Classification Code: ITX, OBJ
+                            Regulation: 892.1570, 870.1200
+
+
+Device Description: 807.92(a)(4)
+The Evident Vascular™ Guidance System (EVGS) is designed for ultrasound
+examinations of intravascular pathology. The EVGS supplies diagnostic information
+when used in conjunction with the Evident Peripheral Imaging Catheters during
+intravascular ultrasound (IVUS) imaging of peripheral vasculature. It is designed to be
+used as an adjunct to conventional angiographic procedures or endovascular therapy.
+
+
+
+Evident Vascular, Inc.   142 Charcot Avenue   San Jose, CA 95131   408-785-6511
+                                                                                          Page 1 of 5
+Evident Vascular, Inc.                                        Evident Vascular Guidance System (EVGS)
+                                                                                      Traditional 510(k)
+                                                                                               K261648
+
+
+
+The system includes the workstation computer that is the main system controller and
+runs dedicated software. A single-use, sterile intravascular ultrasound catheter
+generates real-time IVUS images, which are displayed on a user interface tablet. The
+Evident™ Tablet serves as the primary user interface image visualization and system
+control. The Catheter Interface Module (CIM) provides the connection to the catheter. An
+optional auxiliary display may be used with the workstation for additional image viewing,
+depending on clinical preference.
+The EVGS is available in both a mobile cart configuration and an integrated laboratory
+configuration. Both configurations provide the same system functionality and user
+interface capabilities, with differences limited to installation environment and system
+layout.
+
+Indications for Use/Intended Use: 807.92(a)(5)
+The Evident Vascular™ Guidance System (EVGS) is intended for ultrasound
+examination of intravascular pathology. Intravascular ultrasound is indicated in patients
+who are candidates for transluminal interventional procedures such as angioplasty and
+atherectomy.
+The Evident™ Peripheral Imaging Catheters generate ultrasound images and are
+intended for ultrasound examination of peripheral vascular pathology only.
+The recommended use of each of these catheters may vary depending on the size and
+type of catheter. Refer to the Instructions for Use for all Evident Peripheral Imaging
+Catheters for additional information on recommended use.
+
+
+
+
+Evident Vascular, Inc.   142 Charcot Avenue   San Jose, CA 95131   408-785-6511
+                                                                                          Page 2 of 5
+Evident Vascular, Inc.                                        Evident Vascular Guidance System (EVGS)
+                                                                                      Traditional 510(k)
+                                                                                               K261648
+
+
+
+
+Technological Characteristics: 807.92(a)(6)
+The Evident Vascular™ Guidance System (EVGS) includes a Console featuring a
+workstation, catheter interface module (CIM), tablet-based user interface, and single-use
+intravascular ultrasound (IVUS) imaging catheters. The system is intended as an adjunct
+to angiographic procedures or endovascular therapy for examination of intravascular
+pathology EVGS provides real-time intravascular ultrasound imaging of the peripheral
+vasculature.
+The EVGS and the predicate device share the same fundamental IVUS imaging
+modality and intended diagnostic purpose of intravascular ultrasound imaging.
+ Both systems are available in integrated and mobile configurations and provide
+comparable imaging functionality. Each system complies with applicable safety and
+electromagnetic compatibility requirements.
+The EVGS user interface incorporates touch-screen operation and optional voice-control
+functionality. The system provides a secure connection between the catheter and
+console that supports substantially equivalent imaging performance and does not
+change the intended use or risk profile.
+The predicate device includes additional functionality and broader indications not
+present in the EVGS, including Fractional Flow Reserve (FFR), Diastolic hyperemia-Free
+Ratio (DFR), and automatic pullback functionality. EVGS does not provide FFR, DFR, or
+automatic pullback capabilities. In addition, the Evident Peripheral Imaging Catheters are
+indicated for ultrasound examination of peripheral vascular pathology only.
+These differences represent a narrowing of the subject device's functionality and
+catheter indications relative to the predicate and do not raise different questions of safety
+or effectiveness as the EVGS retains the same fundamental IVUS imaging technology,
+operating principles, and intended diagnostic purpose while excluding these additional
+functions.
+The Evident imaging catheters and the reference catheters use similar intravascular
+ultrasound technology and share comparable fundamental design characteristics. The
+catheters are provided sterile and meet biocompatibility requirements for
+limited-exposure, blood-contacting devices.
+Differences between the subject and reference catheters relate to implementation details
+that do not affect the fundamental operating principle, intended use, or performance
+characteristics. These differences do not raise new or different questions of safety or
+effectiveness.
+
+
+
+
+Summary of Non-Clinical Test - Performance and Safety Testing: 807.92(b)(1)
+FDA guidance Marketing Clearance of Diagnostic Ultrasound Systems and Transducers
+(February 21, 2023), applicable to product codes IYO and ITX, was followed in the
+
+
+Evident Vascular, Inc.   142 Charcot Avenue   San Jose, CA 95131   408-785-6511
+                                                                                          Page 3 of 5
+Evident Vascular, Inc.                                        Evident Vascular Guidance System (EVGS)
+                                                                                      Traditional 510(k)
+                                                                                               K261648
+
+
+
+evaluation of the Evident Vascular™ Guidance System (EVGS). The system was
+assessed for performance, biocompatibility, electrical safety, electromagnetic
+compatibility, and acoustic output, and was found to meet applicable requirements.
+
+FDA guidance Peripheral Percutaneous Transluminal Angioplasty (PTA) and Specialty
+Catheters (April 14, 2023) was applied to the Evident Vascular Peripheral Imaging
+catheters for particulate and coating characterization. The catheters met the testing and
+performance expectations outlined in the guidance and associated standards.
+Design verification testing was conducted to confirm that system performance met
+design input requirements under simulated benchtop use conditions. Relevant
+requirements from the ultrasound and PTA guidance documents were applied as part of
+this evaluation.
+
+The patient-contacting materials of the imaging catheters meet the biocompatibility
+requirements of ISO 10993-1 for limited-exposure, external-communicating, circulating
+blood devices. Biocompatibility testing was performed in alignment with FDA guidance
+Use of International Standard ISO 10993-1, "Biological evaluation of medical devices -
+Part 1: Evaluation and testing within a risk management process" – Sept. 8, 2023 was
+also consulted.
+
+Human factors validation testing was performed in accordance with FDA’s Applying
+Human Factors and Usability Engineering to Medical Devices (2016). Testing
+demonstrated that intended users can safely and effectively perform critical tasks
+associated with EVGS setup, catheter preparation, imaging, and system operation.
+Software verification and validation testing for the EVGS was conducted in accordance
+with FDA guidance Content of Premarket Submissions for Device Software Functions
+and IEC 62304. Testing demonstrated that the software performs as intended across
+supported system configurations and does not raise new issues of safety or
+effectiveness compared to
+the predicate device.
+
+Cybersecurity testing performed in accordance with FDA’s Cybersecurity in Medical
+Devices: Quality Management System Considerations and Content of Premarket
+Submissions
+(September 2023), demonstrated that the EVGS architecture, access controls, data
+handling, and network interfaces meet applicable cybersecurity expectations.
+
+EVGS meets the requirements of the applicable elements of the following safety and
+EMC standards.
+     •     ANSI/AAMI ES60601-1:2005/(R)2012 and A1:2012, C1:2009/(R)2012 and
+           A2:2021 - Medical electrical equipment – Part 1: General requirements for basic
+           safety and essential performance
+     •     ANSI/AAMI/IEC 60601-1-2:2014/A1:2021 - Medical electrical equipment – Part 1-
+           2: General requirements for basic safety and essential performance – Collateral
+           Standard: Electromagnetic Disturbances – Requirements and tests.
+
+
+
+
+Evident Vascular, Inc.   142 Charcot Avenue   San Jose, CA 95131   408-785-6511
+                                                                                          Page 4 of 5
+Evident Vascular, Inc.                                        Evident Vascular Guidance System (EVGS)
+                                                                                      Traditional 510(k)
+                                                                                               K261648
+
+
+
+     •     IEC 60601-2-37:2024 - Medical electrical equipment – Part 2-37: Particular
+           requirements for the basic safety and essential performance of ultrasonic medical
+           diagnostic and monitoring equipment.
+     •     IEC/TS 60601-4-2:2024 - Medical Electrical Equipment – Part 4-2: Guidance and
+           Interpretation – Electromagnetic Immunity: Performance of Medical Electrical
+           Equipment and Medical Electrical Systems.
+     •     ANSI/USEMCSC C63.27-2021 - Wireless Coexistence
+     •     FCC 47 CFR Part 15, Subpart C - Intentional Radiators, Subpart E: Unlicensed
+           National Information Infrastructure Device
+
+
+Summary of Clinical Tests: 807.92(b)(2)
+Clinical performance testing was not conducted.
+
+Conclusion: 807.92(b)(3)
+Based on a comparison of intended use, operating principles, and fundamental
+technological characteristics, together with non-clinical performance verification and
+validation, the Evident Vascular™ Guidance System (EVGS) is substantially equivalent
+to the predicate device, the iLab™ Polaris Multi-Modality Guidance System. A
+comparison of the subject and predicate devices, including performance testing of the
+EVGS console and catheters, supports a determination of substantial equivalence and
+does not raise new or different questions of safety or effectiveness.
+
+
+
+
+Evident Vascular, Inc.   142 Charcot Avenue   San Jose, CA 95131   408-785-6511
+                                                                                          Page 5 of 5
+

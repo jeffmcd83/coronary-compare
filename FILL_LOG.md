@@ -469,3 +469,16 @@ No new recalls, no new models, no spec values changed (sources/pass52/values.csv
 - New models: none. K263596 Medtronic DLP Coronary Ostial Cannulae = surgical cardioplegia cannula (not interventional). GUDID deltas: no guide-row DI; Piraeus 35 Helix guidewire K260751 peripheral.
 - Watch: CFM60 and NHanceIT still not in AccessGUDID; Direxion not in guide; Skycade closed.
 New-row candidates for Jeff (not added): none new (pass 51 candidates still pending).
+
+## Pass 53 — coronary gap-fill (Thu 2026-11-12 ~9:00 AM ET scheduled run) — research no-op; fill unchanged 90.9% (921/1013; 76 rows); /preview/ only, tag preview-pass53 (label/log only, no data change)
+No new exact-model US OEM/FDA values: sources/pass53/values.csv header-only; conflicts.json empty; conflicts_passes.json unchanged.
+Evidence: sources/pass53/RESEARCH.md, docs/K261648.txt, raw/ (gitignored). Backups: coronary-specs-verified.pre-pass53.csv, provenance.pre-pass53.json (untouched); app/build.pre-pass53.py (pass-label bump only). Recall CSVs untouched.
+New angles:
+- Feeds: openFDA 510(k)/PMA/UDI cut still 2026-11-02; AccessGUDID newest daily delta still 11-10 (already parsed in pass 52).
+- CFM60: AccessGUDID 0 hits; CrossFAST = CFM55 only.
+- openFDA 510(k) 2026-10-20..cut: K261648 Evident Vascular (peripheral IVUS only; reference OptiCross 18 Peripheral) — no guide-row figures.
+- Dragonfly OpStar pullback_speed: OPTIS Integrated Next O&M manual (1014933, p.44, non-OEM mirror) gives system pullback speeds 18/36 mm/s → not applied (system spec, sibling-shared, mirror) → Jeff decision.
+- Diamondback / Shockwave C2+ tip/sheath: nothing beyond existing values (OUS catalog/IFU not used).
+Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
+Applied: none. Logged: none.
+Decisions for Jeff: (new) OpStar pullback_speed from OPTIS system manual? (not recommended); still open: Euphora K261759, Navvus II K233904, balloon new-row candidates (pass 51).
