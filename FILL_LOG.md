@@ -482,3 +482,15 @@ New angles:
 Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
 Applied: none. Logged: none.
 Decisions for Jeff: (new) OpStar pullback_speed from OPTIS system manual? (not recommended); still open: Euphora K261759, Navvus II K233904, balloon new-row candidates (pass 51).
+
+## Pass 54 — coronary gap-fill (Mon 2026-11-16 ~9:00 AM ET scheduled run) — research no-op; fill unchanged 90.9% (921/1013; 76 rows); /preview/ only, tag preview-pass54 (label/log only, no data change)
+No new exact-model US OEM/FDA values: sources/pass54/values.csv header-only; conflicts.json empty; conflicts_passes.json unchanged.
+Evidence: sources/pass54/RESEARCH.md, docs/K250972.txt, gudid_delta.py, raw/ (gitignored). Backups: coronary-specs-verified.pre-pass54.csv, provenance.pre-pass54.json (untouched); app/build.pre-pass54.py (pass-label bump only). Recall CSVs untouched.
+New angles:
+- Feeds: openFDA 510(k)/PMA/UDI cut still 2026-11-02; AccessGUDID daily deltas 11-12 and 11-13 newly parsed (33 code/brand hits, no guide-row DI change).
+- New from deltas: PendraCare "Climber Guiding Catheter" (DQY, K250972 "Primum Hydrophilic Guiding Catheter", SE 2025-06-29, 5–8 F, coronary or peripheral) → new-row candidate for Jeff (not added).
+- CFM60: AccessGUDID 0 hits; CrossFAST = CFM55 only; NHanceIT still 0.
+- OpStar pullback_speed: only journal methods (18–36 mm/s) found → not used.
+Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
+Applied: none. Logged: none.
+Decisions for Jeff: (new) PendraCare Climber/Primum guiding-catheter row?; still open: OpStar pullback_speed (not recommended), Euphora K261759 (recommended), Navvus II K233904 (not recommended), balloon new-row candidates (pass 51).

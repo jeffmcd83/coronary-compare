@@ -1,0 +1,660 @@
+                                                                                                  June 29, 2025
+
+PendraCare
+Erendira Rodriguez
+Director of Quality Assurance and Regulatory Affairs
+Van der Waalspark 20-22
+Leek, 9351VC
+Netherlands
+
+Re: K250972
+    Trade/Device Name: Primum Hydrophilic Guiding Catheter
+    Regulation Number: 21 CFR 870.1250
+    Regulation Name: Percutaneous Catheter
+    Regulatory Class: Class II
+    Product Code: DQY
+    Dated: March 31, 2025
+    Received: March 31, 2025
+
+Dear Erendira Rodriguez:
+
+We have reviewed your section 510(k) premarket notification of intent to market the device referenced above
+and have determined the device is substantially equivalent (for the indications for use stated in the enclosure)
+to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment
+date of the Medical Device Amendments, or to devices that have been reclassified in accordance with the
+provisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general controls
+provisions of the Act. Although this letter refers to your product as a device, please be aware that some
+cleared products may instead be combination products. The 510(k) Premarket Notification Database
+available at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination
+product submissions. The general controls provisions of the Act include requirements for annual registration,
+listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding and
+adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We
+remind you, however, that device labeling must be truthful and not misleading.
+
+If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be
+subject to additional controls. Existing major regulations affecting your device can be found in the Code of
+Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements
+concerning your device in the Federal Register.
+
+Additional information about changes that may require a new premarket notification are provided in the FDA
+guidance documents entitled "Deciding When to Submit a 510(k) for a Change to an Existing Device"
+
+
+
+U.S. Food & Drug Administration
+10903 New Hampshire Avenue                                                          Doc ID# 04017.07.05
+Silver Spring, MD 20993
+www.fda.gov
+K250972 - Erendira Rodriguez                                                                         Page 2
+
+
+(https://www.fda.gov/media/99812/download) and "Deciding When to Submit a 510(k) for a Software
+Change to an Existing Device" (https://www.fda.gov/media/99785/download).
+
+Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part
+820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming
+product; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a
+change requires premarket review, the QS regulation requires device manufacturers to review and approve
+changes to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and
+approvals in the device master record (21 CFR 820.181).
+
+Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA
+has made a determination that your device complies with other requirements of the Act or any Federal
+statutes and regulations administered by other Federal agencies. You must comply with all the Act's
+requirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part
+801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for
+devices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see
+https://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-
+combination-products); good manufacturing practice requirements as set forth in the quality systems (QS)
+regulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart
+A) for combination products; and, if applicable, the electronic product radiation control provisions (Sections
+531-542 of the Act); 21 CFR Parts 1000-1050.
+
+All medical devices, including Class I and unclassified devices and combination product device constituent
+parts are required to be in compliance with the final Unique Device Identification System rule ("UDI Rule").
+The UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label
+and package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the
+dates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR
+830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device
+Identification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these
+requirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-
+comprehensive-regulatory-assistance/unique-device-identification-system-udi-system.
+
+Also, please note the regulation entitled, "Misbranding by reference to premarket notification" (21 CFR
+807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part
+803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-
+mdr-how-report-medical-device-problems.
+
+For comprehensive regulatory information about medical devices and radiation-emitting products, including
+information about labeling regulations, please see Device Advice (https://www.fda.gov/medical-
+devices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn
+(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the
+Division of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See
+the DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-
+assistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE
+by email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).
+K250972 - Erendira Rodriguez                                                  Page 3
+
+
+                                 Sincerely,
+
+
+                               Jenny R.      Digitally signed by Jenny R.
+                                             Katsnelson -S
+
+                               Katsnelson -S Date: 2025.06.29 23:22:10
+                                             -04'00'
+
+                                 for Lydia Glaw
+                                 Assistant Director
+                                 DHT2C: Division of Coronary and
+                                    Peripheral Intervention Devices
+                                 OHT2: Office of Cardiovascular Devices
+                                 Office of Product Evaluation and Quality
+                                 Center for Devices and Radiological Health
+
+Enclosure
+                   DEPARTMENT OF HEALTH AND HUMAN SERVICES                                  Form Approved: OMB No. 0910-0120
+                           Food and Drug Administration                                     Expiration Date: 07/31/2026
+                                 Indications for Use                                        See PRA Statement below.
+
+510(k) Number (if known)
+K250972
+
+Device Name
+Primum Hydrophilic Guiding Catheter
+
+
+
+Indications for Use (Describe)
+The Guiding Catheter is designed to provide a pathway through which therapeutic and diagnostic devices are introduced.
+The Guiding Catheter is intended to be used in the coronary or peripheral vascular system.
+
+
+
+
+Type of Use (Select one or both, as applicable)
+                  Prescription Use (Part 21 CFR 801 Subpart D)             Over-The-Counter Use (21 CFR 801 Subpart C)
+
+                                       CONTINUE ON A SEPARATE PAGE IF NEEDED.
+
+                        This section applies only to requirements of the Paperwork Reduction Act of 1995.
+                *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*
+          The burden time for this collection of information is estimated to average 79 hours per response, including the
+          time to review instructions, search existing data sources, gather and maintain the data needed and complete
+          and review the collection of information. Send comments regarding this burden estimate or any other aspect
+          of this information collection, including suggestions for reducing this burden, to:
+                                                  Department of Health and Human Services
+                                                  Food and Drug Administration
+                                                  Office of Chief Information Officer
+                                                  Paperwork Reduction Act (PRA) Staff
+                                                  PRAStaff@fda.hhs.gov
+                “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of
+                                information unless it displays a currently valid OMB number.”
+
+FORM FDA 3881 (8/23)                                        Page 1 of 1                                   PSC Publishing Services (301) 443-6740   EF
+                                                                        K250972
+                                                                      Page 1 of 9
+
+
+
+
+                        510(k) Summary
+                                  Per 21 CFR 807.92
+
+
+
+A. Submitter information (807.92 (a) (1))
+   Prepared by:
+                 Eréndira Rodríguez
+                 Quality Assurance and Regulatory Affairs Director
+                 PendraCare International B.V.
+                 Tel +31 85 0073 000
+   Owner/Operator:
+                 Manufacturer (510(k) Applicant)
+                 PendraCare International B.V.
+                 Van der Waalspark 22
+                 9351VC, Leek
+                 The Netherlands
+                 Registration: 3005635992
+                 FEI: 3005635992
+
+                  Sterilization Facility
+                  Sterigenics Belgium Petit Rechain S.A.
+                  Zoning Industriel De Petit-Rechain
+                  Avenue Andre Ernst 21
+                  Verviers Liege, BE B-4800
+                  Registration Number: 3005941719
+                  FEI Number: 3002807111
+
+   Contact Person:
+
+                  Eréndira Rodríguez
+                  Quality Assurance and Regulatory Affairs Director
+                  PendraCare International B.V.
+                  Van der Waalspark 22
+                  9351VC, Leek
+                  The Netherlands
+                  Tel +31 85 0073 000
+                  Email: erendira.rodriguez@wellinq.com
+
+   Date Prepared:
+
+                  March, 2025
+
+B. Device Name
+
+   Trade or proprietary name:           Primum Guiding Catheter
+   Common or usual name:                Percutaneous Catheter
+   Classification name:                 Class II, 21 CFR 870.1250
+   Review Panel:                        Cardiovascular
+   Product Code:                        DQY
+
+
+
+
+                                                                                    1
+                                                                                        K250972
+                                                                                      Page 2 of 9
+
+
+
+
+C. Predicate Device information
+   The legally marketed device which the 510(k) used for claiming equivalence are
+      • Convey 5F Guiding Catheters (K120585, August 8, 2012)
+      • Convey 6F Guiding Catheters (K120585, August 8, 2012)
+
+   PendraCare International B.V., Leek, The Netherlands, is the legal manufacturer of
+   both the predicate device, Convey Guiding Catheter, and the submission subject
+   device, the Primum Guiding Catheter. The Convey Guiding Catheter is a spin-off of the
+   Primum Guiding Catheter, thus the products are identical with the only difference being
+   the trade name.
+
+
+
+
+D. Device Description
+   The Hydrophilic Guiding Catheter consists of a reinforced body with a hub and strain relief
+   at the proximal end and an intermediate and soft tip at the distal end. The distal part of the
+   catheter features a specific tip shape. A part of the catheter body features a hydrophilic
+   coating. The (distal part of the) catheter body is provided either with or without “in-line”
+   side holes.
+   The guiding catheter is a flexible plastic tube featuring a luer hub, strain relief, a body,
+   an intermediate tip, and a soft tip. The body and the intermediate tip consist of an
+   inner liner (basecoat) and an outer jacket (topcoat) reinforced with a tightly wound
+   stainless steel braid wire in between the layers. The central lumen of the catheter is
+   used for the percutaneous, transluminal passage and placement of guidewires,
+   diagnostic and therapeutic devices within the vascular system. After the catheter is
+   inserted through the skin using a dilator, a sheath (introducer) and guide wire is
+   brought into position. Subsequently, a guidewire is advanced through its lumen and
+   tracked over by a diagnostic device and/or a therapeutic devices to the intended
+   location. The distal section of the catheters has a variety of preformed shapes (e.g.
+   Judkins Left (abbreviated as JL), Judkins Right (JR), Amplatz
+   (AL), Multi-purpose (MP), hockey stick) to facilitate placement of the catheter tip in
+   the desired target vessel. Some catheter models feature two (2) small “in-line” side
+   holes in the intermediate tip section to maintain perfusion of the target vessel. This
+   device is a single-use device (i.e., single patient, single procedure, single purpose use).
+   After finalizing the procedure, the catheter is withdrawn, removed and discarded.
+
+
+
+
+                                                                                                    2
+                                                                                       K250972
+                                                                                     Page 3 of 9
+
+
+
+
+  E. Intended use of Device
+     The Guiding Catheter is intended to provide a pathway through which therapeutic and
+     diagnostic devices are introduced into the vascular system.
+
+  F. Indications for Use
+     The Guiding Catheter is designed to provide a pathway through which therapeutic and
+     diagnostic devices are introduced. The Guiding Catheter is intended to be used in the
+     coronary or peripheral vascular system.
+
+  G. Technological Characteristics / Substantial Equivalence
+     The Predicate device, Convey Guiding Catheter, is a spin-off of the Primum Guiding
+     Catheter, with the only difference being the trade names. The products are identical in
+     design, technical and biological specifications.
+     The Primum Guiding Catheters (5F, 6F, 7F and 8F) incorporate substantially equivalent
+     device materials, packaging materials and design, intended use, fundamental
+     technology (operating principle & mechanism of action), labeling and
+     manufacturing processes, and sterilization process as those featured in the legally
+     marketed predicated devices, the Convey 5F & 6F Guiding Catheters (K120585, August 8,
+     2012) and Convey 7F & 8F Guiding Catheters (K132197, July 11, 2013).
+
+Device                New device                      Primary              Reference
+Characteristic                                        Predicate
+Manufacturer          PendraCare International B.V.   PendraCare           PendraCare
+                                                      International B.V.   International B.V.
+
+
+Trade name device     Primum 5F, 6F, 7F and 8F        Convey 5F, 6F        Convey 7F, 8F
+                      Guiding Catheter                Guiding Catheter     Guiding Catheter
+                      K250972                         K120585              K132197
+Intended use/         The Guiding Catheter is         The Convey           The Convey
+Indications for Use   designed to provide a           Guiding Catheter     Guiding Catheter
+                      pathway through which           is designed to       is designed to
+                      therapeutic and diagnostic      provide a pathway    provide a
+                      devices are introduced. The     through which        pathway through
+                      Guiding Catheter is intended    therapeutic and      which
+                      to be used in the coronary or   diagnostic devices   therapeutic and
+                      peripheral vascular system.     are introduced.      diagnostic
+                                                      The Convey           devices are
+                                                      Guiding Catheter     introduced. The
+                                                      is intended to be    Convey Guiding
+                                                      used in the          Catheter is
+                                                      coronary or          intended to be
+                                                      peripheral           used in the
+                                                      vascular system.     coronary or
+                                                                           peripheral
+                                                                           vascular system.
+
+
+
+
+                                                                                                   3
+                                                                       K250972
+                                                                     Page 4 of 9
+
+
+
+
+Operation Principle   Manually operated.               Same   Same
+                      Manual process.
+Design/Construction   Hub, strain Relief, body,        Same   Same
+                      braiding wire between outer &
+                      inner body layer, Intermediate
+                      tip, Soft Tip, Side holes
+                      (optional),
+                      Hydrophilic coated body,
+                      uncoated body.
+
+Materials             Hub                              Same   Same
+                      Hub:
+                      96.15% Grilamid TR55LX
+                      3.85% Colorant white
+
+                      Hub Printing:
+                      Hot stamp foil Grey (5F)
+                      Hot stamp foil green (6F)
+                      Hot stamp foil Orange (7F)
+                      Hot stamp foil Blue (8F)
+
+                      Strain relief:
+                      98% Grilamid L25 W40
+                      2% Colorant white
+
+                      Body
+                      Base coat:
+                      40% Vestamid L2140
+                      40% Vestamid D16
+                      20% Fusabond E204
+
+                      Braiding:
+                      Flat rolled Stainless Steel
+                      304V
+
+                      Top coat:
+                      38% Vestamid L2140
+                      35% Vestamid E62-S3
+                      23% [Vestamid D16
+                      (80%)+BiOCl
+                      (BironLF2000)(20%)]
+                      4% Masterbatch colorant
+                      Blue (HT-MAB PA 51130)
+
+                      Coating (external):
+                      Primer –
+                      Hydrophilic Coating
+
+                      Intermediate tip-part-1*
+                      Base coat:
+                      40% Vestamid L2140
+
+
+
+
+                                                                                   4
+                                K250972
+                              Page 5 of 9
+
+
+
+
+40% Vestamid D16
+20% Fusabond E204
+
+Braiding:
+Flat rolled Stainless steel
+304V
+
+Intermediate tip material:
+49% [40% Pebax 3533SA01 +
+60% BiOCl]
+49% Pebax 3533 SA01
+2% Masterbatch colorant
+Blue (HT-MAB PA 51130)
+
+Intermediate tip
+Part-2*
+Filler Ring:
+98% [40% Pebax 3533SA01 +
+60% BiOCl]
+2% Masterbatch colorant
+Blue (HT-MAB PA 51130)
+
+Braiding:
+Flat rolled Stainless steel
+304V
+
+Intermediate tip material:
+49% [40% Pebax 3533SA01 +
+60% BiOCl]
+49% Pebax 3533 SA01
+2% Masterbatch colorant
+Blue (HT-MAB PA 51130)
+
+Soft tip:
+Polyether block-amide /
+Pebax 3533 SA01 (40%) BiOCl
+(60%)
+
+Packaging Materials
+Mounting card:
+240 grs GZ (SBS) bleached
+carton
+Pouch:
+PET/PE Foil / Film,
+transparent
+    • Top: 12 μm
+        Laminated Polyester
+        (PET)
+    • Bottom: 50 μm
+        Peelable
+
+
+
+
+                                            5
+                                  K250972
+                                Page 6 of 9
+
+
+
+
+       Polyethylene PE
+       (96%) + 4% EVA,
+Tyvek® 1073B
+   • uncoated
+       Spunbonded non-
+       woven polyethylene
+       (HDPE)
+   • natural white
+No printing
+
+Hang-tab:
+   • Plastic sheet
+        material PETG 635
+        μm
+   • Adhesive: Hang-tite
+        203-A
+Box:
+Box (1) & Box (5), Box (5)
+125cm:
+   • 400/380/355 grams
+        GC1 (or GC2) carton
+        & white (or crème)
+        back-layer
+   • No Printing
+
+Labelling
+IFU:
+Woodfree Offset Paper, white,
+70 grams – profijt
+
+Inner / Pouch Label (SB)
+Outer / Box Label (SB):
+Mactac’s Velvet wood free
+coated paper,
+1 X MP 196 acrylic adhesive
+emulsion
+Century 6
+
+Inner/pouch & Outer/Box
+label Ink:
+Armor’s Thermal Transfer
+Ribbon APR6, Wax/Resin,
+Black Carbon D1-547.
+
+End label:
+80 gr flat wood free paper w/
+permanent adhesive, white,
+no printing
+85 gr flat wood free paper w/
+permanent adhesive, white,
+no printing
+
+
+
+
+                                              6
+                                                                                          K250972
+                                                                                        Page 7 of 9
+
+
+
+
+ Package                  Unit Pouch                     Same                  Same
+                          Shelf Box
+                          Shipping Carton
+ Specifications *         See Dimension table below.     Same                  Same
+
+ Shelf life               3 years (36 months)            Same                  Same
+ Disposable single        Yes                            Same                  Same
+ use
+
+
+*Specifications Dimension Table for Primum Guiding Catheter & Convey Guiding Catheter
+
+                     Primum Guiding Catheter & Convey Guiding Catheter
+
+                                Dimension Table (Nominal) [mm]
+
+ Description                                    5F          6F            7F             8F
+
+   A    Soft Tip Length                          2           2             2              2
+
+   B    Intermediate Tip Length                 15          15            15             15
+
+  C     Distal Position First Side              n/a         27            27             27
+        Hole
+
+  D     Distance between Side                   n/a          4             4              4
+        Holes
+
+   E    Hydrophilic Coating End             17-87          17-87        17-87          17-87
+        Position, proximal from
+        distal Tip
+
+   F    Hydrophilic Coating Start               750         750          750            750
+        Position, proximal from
+        distal Tip
+
+  G     Usable Catheter Length            900/1000     900/1000/1250   900/1000       900/1000
+        (90/100/125cm)
+
+  H     Strain Relief Length                    25          25            25             25
+
+   I    Total Length                      972/1072     972/1072/1322   972/1072       972/1072
+        (90/100/125cm)
+
+  ØJ    Side Hole Diameter                      n/a        0.77          0.77           0.94
+
+ ØOD    Outer Diameter Body / Soft         ≤1.82 /      ≤2.11 / 2.20    ≤2.46 /        ≤2.78 /
+        Tip                                 1.89                         2.54           2.87
+
+ ØID    Inner Diameter Body, Hub /         ≥1.45 /      ≥1.80 / 1.78    ≥2.05 /        ≥2.29 /
+        Soft Tip                            1.43                         2.03           2.27
+
+
+
+
+                                                                                                      7
+                                                                                          K250972
+                                                                                        Page 8 of 9
+
+
+
+
+H. Summary biocompatibility and bench testing
+   The following biocompatibility tests were considered for the Primum Guiding
+   Catheter considering the categorization of the Material Characterization for medical
+   application per ISO 10993-1 and USP.
+   Categorization by Nature of body contact:
+   - External communicating device:
+   - Circulating blood: devices that contact circulating blood.
+
+   Categorization by Duration of Contact:
+   - Limited Exposure (A): Devices whose single or multiple use or contact is up
+      to 24h.
+
+   ISO 10993-4: Haemocompatibility
+   - Hemolysis
+   - In vitro Haemocompatibility
+   - Coagulation Test Prothrombin Time Assay (PT)
+   - Coagulation Unactivated Partial Thromboplastic in Time Assay (UPTT)
+
+   ISO 10993-5: Cytotoxicity
+   ISO 10993-7: Ethylene Oxide Sterilization Residuals
+   ISO 10993-10:Sensitization
+   ISO 10993-10: Irritation/ Intracutaneous Reactivity
+   ISO 10993-11: Acute Systemic Toxicity
+   ISO 10993-11: Material Meditated Pyrogenicity
+   USP <661>: Packing Plastic containers leachables.
+   USP <85> Endotoxin-Mediated Pyrogenicity
+
+
+
+   The following in-vitro performances tests (following simulated use, if applicable)
+   were considered for the Primum Guiding Catheters
+   - Shape Conformance (Shape retention)
+   - Inner Diameter
+   - Outer Diameter
+   - Catheter Usable Length
+   - Coating Length
+   - C-Kink (Bending Kink Diameter)
+   - Euler Kink (axial Kink Displacement)
+   - Radial Stiffness (Collapse)
+   - Coating Integrity (Visual Inspection)
+   - Outer Friction & Wear (Coating Integrity – functional tests)
+   - Three Point Bending Test (ending Stiffness Body)
+   - Pull Force (after simulated use)
+   - Radiopacity
+   - Torque Strength.
+   - Particulate Testing
+
+
+
+                                                                                                      8
+                                                                                           K250972
+                                                                                         Page 9 of 9
+
+
+
+
+I.   Clinical and Nonclinical Performance Data and Conclusions
+     The Guiding Catheter is designed to provide a pathway through which therapeutic devices
+     are introduced. The Guiding Catheter is intended to be used in the coronary or peripheral
+     vascular system.
+     The only difference between the subject Device, Primum Guiding Catheter, and Predicate
+     Device, Convey Guiding Catheter, is the trade name. Both devices are the same generation
+     of guiding catheter developed by the manufacturer.
+     Therefore, the data presented in Convey 5F Guiding Catheters (K120585, August 8, 2012),
+     Convey 6F Guiding Catheters (K120585, August 8, 2012), Convey 7F Guiding Catheters
+     (K132197, July 11, 2013), and Convey 8F Guiding Catheters (K132197, July 11, 2013) on
+     non-clinical design verification (bench) tests, design validation testing, as well as clinical
+     post market surveillance (comparison) studies, including investigator-driven registries,
+     and biocompatibility evaluation tests per ISO 10993-series of standards are all applicable
+     to the Primum Guiding Catheter.
+     The data provided data for the FDA market clearances of the Predicate device, Convey
+     Guiding Catheter, showed reasonable assurance that the proposed devices were designed
+     and tested to assure conformance to the requirements for its intended use, which are the
+     same data applicable to the Primum Guiding Catheter. No new safety or performance
+     issues were raised during the testing.
+
+J.   Conclusion
+     The Primum Guiding Catheters are substantially equivalent to the Convey Guiding
+     Catheters, which were cleared by FDA under premarket notifications K120585 (August 8,
+     2012) for 5F and 6F.
+
+
+
+
+                                                                                                       9
+
