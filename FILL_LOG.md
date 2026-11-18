@@ -494,3 +494,11 @@ New angles:
 Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
 Applied: none. Logged: none.
 Decisions for Jeff: (new) PendraCare Climber/Primum guiding-catheter row?; still open: OpStar pullback_speed (not recommended), Euphora K261759 (recommended), Navvus II K233904 (not recommended), balloon new-row candidates (pass 51).
+
+## Pass 55 — weekly recall & new-model refresh (Wed 2026-11-18 ~9:00 AM ET) — no-op; /preview/ only, tag preview-pass55
+No new recalls, no new models, no spec values changed (sources/pass55/values.csv header-only; conflicts.json empty). Fill unchanged 90.9% (921/1013; 76 rows). Recalls 110→110 (coronary-recalls.csv and supplier rollup byte-identical). Evidence: sources/pass55/RESEARCH.md, raw/. Backups: *.pre-pass55.
+- openFDA cuts: recall 2026-11-14, enforcement 2026-11-11, 510(k)/PMA 2026-11-09, UDI 2026-11-02; AccessGUDID deltas parsed 2026-11-16, 11-17.
+- Recall pool 2,058 (same keys as pass 52, 0 status changes); 110 matches. No recalls posted 11-12…11-18 (the 44 posted 10-31…11-18 are the same set pass 52 reviewed): none coronary-guide. Enforcement since 11-05 (54, all 11-11): 0 matches (CSV + dropped.json restored byte-identical).
+- New models: none. P250041/S001 = SELUTION postapproval-study protocol (existing row). K261376 Progreat Lambda 2.1Fr = IR/peripheral flush microcatheter. K262171 Merge Hemo = software. GUDID deltas: no guide-row DI (512 hits, mostly Shanghai INT update).
+- Watch: CFM60 and NHanceIT still not in AccessGUDID; Direxion not in guide; Skycade closed.
+New-row candidates for Jeff (not added): none new (pass 51 balloon candidates and pass 54 PendraCare Climber/Primum still pending).
