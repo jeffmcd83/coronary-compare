@@ -502,3 +502,15 @@ No new recalls, no new models, no spec values changed (sources/pass55/values.csv
 - New models: none. P250041/S001 = SELUTION postapproval-study protocol (existing row). K261376 Progreat Lambda 2.1Fr = IR/peripheral flush microcatheter. K262171 Merge Hemo = software. GUDID deltas: no guide-row DI (512 hits, mostly Shanghai INT update).
 - Watch: CFM60 and NHanceIT still not in AccessGUDID; Direxion not in guide; Skycade closed.
 New-row candidates for Jeff (not added): none new (pass 51 balloon candidates and pass 54 PendraCare Climber/Primum still pending).
+
+## Pass 56 — coronary gap-fill (Thu 2026-11-19 ~9:00 AM ET scheduled run) — research no-op; fill unchanged 90.9% (921/1013; 76 rows); /preview/ only, tag preview-pass56 (label/log only, no data change)
+No new exact-model US OEM/FDA values: sources/pass56/values.csv header-only; conflicts.json empty; conflicts_passes.json unchanged.
+Evidence: sources/pass56/RESEARCH.md, gudid_delta.py, raw/ (gitignored). Backups: coronary-specs-verified.pre-pass56.csv, provenance.pre-pass56.json (untouched); app/build.pre-pass56.py (pass-label bump only). Recall CSVs untouched.
+New angles:
+- Feeds: openFDA 510(k)/PMA cut still 2026-11-09 (window already swept in pass 55), UDI 2026-11-02; AccessGUDID daily delta 11-18 newly parsed (17 hits, no guide-row DI change); 11-19 not yet posted.
+- PendraCare Climber (K250972): 5 new 6F DIs in GUDID (JR4, JL4, EBU3.5, XB3, XB3.5) — row candidate strengthened, not added.
+- CFM60: AccessGUDID/openFDA UDI 0 hits; Vantis WP media no new upload since 2026-01-05; PMC case-series "0.056 in" ID (pre-clearance literature) not used. NHanceIT still 0.
+- Shockwave WP media: nothing new since C2 Aero Fly US sheet/IFU (10-19). Diamondback tip: only OUS/sibling Classic-crown docs → not used.
+Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
+Applied: none. Logged: none.
+Decisions for Jeff: none new; still open: Euphora K261759 (recommended), Navvus II K233904 (not recommended), OpStar pullback_speed (not recommended), balloon new-row candidates (pass 51), PendraCare Climber/Primum row (pass 54).
