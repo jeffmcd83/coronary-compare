@@ -514,3 +514,15 @@ New angles:
 Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
 Applied: none. Logged: none.
 Decisions for Jeff: none new; still open: Euphora K261759 (recommended), Navvus II K233904 (not recommended), OpStar pullback_speed (not recommended), balloon new-row candidates (pass 51), PendraCare Climber/Primum row (pass 54).
+
+## Pass 57 — coronary gap-fill (Mon 2026-11-23 ~9:00 AM ET scheduled run) — research no-op; fill unchanged 90.9% (921/1013; 76 rows); /preview/ only, tag preview-pass57 (label/log only, no data change)
+No new exact-model US OEM/FDA values: sources/pass57/values.csv header-only; conflicts.json empty; conflicts_passes.json unchanged.
+Evidence: sources/pass57/RESEARCH.md, gudid_delta.py, raw/ (gitignored). Backups: coronary-specs-verified.pre-pass57.csv, provenance.pre-pass57.json (untouched); app/build.pre-pass57.py (pass-label bump only). Recall CSVs untouched.
+New angles:
+- Feeds: openFDA 510(k)/PMA cut still 2026-11-09 (swept pass 55), UDI 2026-11-02; AccessGUDID daily deltas 11-19 and 11-20 newly parsed (121 hits, no guide-row DI change; 11-21..11-23 not yet posted).
+- Deltas: original SYNERGY (P150003, not a guide row) → Not in Commercial Distribution; BosCATH Support Catheter (K254046) and Wallaby p17XR (K254071) = neuro/peripheral → out of scope.
+- CFM60 / NHanceIT: AccessGUDID + openFDA UDI still 0; Vantis media unchanged since 2026-01-05. Shockwave media: nothing new since 11-06.
+- C2+ tip_profile: 0.023 in found only in third-party OUS conference booklet (Turin CTO Chip 2025 Factoids p.32) → not used. Diamondback tip: OUS/sibling only → not used.
+Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
+Applied: none. Logged: none.
+Decisions for Jeff: new FYI — C2+ tip 0.023 in from TCC25 booklet (not recommended); still open: Euphora K261759 (recommended), Navvus II K233904 (not recommended), OpStar pullback_speed (not recommended), balloon new-row candidates (pass 51), PendraCare Climber/Primum row (pass 54).
