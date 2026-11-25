@@ -526,3 +526,11 @@ New angles:
 Category deltas: none (Imaging & physiology 76.9, 140/182; Atherectomy & IVL 80.6, 87/108; all others unchanged).
 Applied: none. Logged: none.
 Decisions for Jeff: new FYI — C2+ tip 0.023 in from TCC25 booklet (not recommended); still open: Euphora K261759 (recommended), Navvus II K233904 (not recommended), OpStar pullback_speed (not recommended), balloon new-row candidates (pass 51), PendraCare Climber/Primum row (pass 54).
+
+## Pass 58 — weekly recall & new-model refresh (Wed 2026-11-25 ~8:50 AM ET) — no recall/spec change; /preview/ only, tag preview-pass58
+No new recalls; no spec values changed (sources/pass58/values.csv header-only; conflicts.json empty). Fill unchanged 90.9% (921/1013; 76 rows). Recalls 110→110 (coronary-recalls.csv and supplier rollup byte-identical). Evidence: sources/pass58/RESEARCH.md, raw/. Backups: *.pre-pass58.
+- openFDA cuts: recall 2026-11-21, enforcement 2026-11-18, 510(k)/PMA 2026-11-16, UDI 2026-11-02; AccessGUDID deltas parsed 2026-11-23, 11-24 (11-21/11-22 weekend, 11-25 not posted).
+- Recall pool 2,058 (same keys as pass 55, 0 status changes); 110 matches. No recalls posted 11-14…11-25. Enforcement since 11-12 (88, all 11-18): 0 matches (CSV was truncated on the documented empty-match crash and restored byte-identical).
+- New models: **RAYWATT FASTER OCT (RV201) / Chouette CH-01–CH-04, K260445 (NQQ + DQO, SE 2026-11-11)** — US-cleared coronary intravascular OCT; 510(k) summary not yet posted; **not added (Jeff decision)**. P230035/S008 = AGENT 40 mm length + shelf-life (existing DCB row; no GUDID catalogs yet, length not applied). K263017 IMDS InfuseIt (DQY) = possible microcatheter, indication unverified (summary not posted). P900056/S230 = ROTAPRO 30-day supplier-location notice. GUDID: CFM60 primary DI 00860007727924 now in commercial distribution (sizes still unpublished); NHanceIT still absent.
+- Watch: CFM60 now in AccessGUDID but dims still blank; NHanceIT still not in GUDID; Direxion not in guide; Skycade closed.
+New-row candidates for Jeff (not added): RAYWATT FASTER OCT / Chouette (recommended to add once he OK's the row); InfuseIt hold-for-summary; pass 51 balloon candidates and pass 54 PendraCare Climber/Primum still pending. AGENT 40 mm length recommended once catalogs appear in GUDID.
