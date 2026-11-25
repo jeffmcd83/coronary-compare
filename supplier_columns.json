@@ -113,6 +113,12 @@
     "VANTIS"
    ],
    "color": "#7c2d12"
+  },
+  "RAYWATT": {
+   "match": [
+    "RAYWATT"
+   ],
+   "color": "#155e75"
   }
  },
  "categories": {

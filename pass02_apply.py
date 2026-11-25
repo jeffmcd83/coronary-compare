@@ -24,6 +24,7 @@ NEW=[ # new rows: (category, manufacturer, model, submission)
  ('Balloon','Biotronik AG','Pantera Pro','K160985'),  # pass17, Jeff-approved
  ('Microcatheter','IMDS Operations B.V.','NHanceIT','K260559'),  # pass40, Jeff-approved
  ('Guide extension','Vantis Vascular, Inc.','CrossFAST CFM60','K262817'),  # pass40, Jeff-approved
+ ('Imaging & physiology','RAYWATT, Inc.','RAYWATT FASTER OCT Imaging System (RV201) with Chouette Imaging Catheter CH-01 through CH-04','K260445'),  # pass59, Jeff-approved
 ]
 V=[
 ('Resolute Onyx','drug','Zotarolimus',SSED('P160043',2)),('Resolute Onyx','drug_dose','~1.6 µg/mm²; max 317 µg (4.0×38 mm)',SSED('P160043',2)),

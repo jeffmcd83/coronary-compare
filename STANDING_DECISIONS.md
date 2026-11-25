@@ -77,3 +77,5 @@ Corsair Pro fda_submission = "K161126, K171933". K171933 (SE 2018-02-12, DQX) ad
 
 - **2026-10-19 Jeff decision (pass 42): AngioSculpt Evo RX tip profile** stays 0.0172 in, with a note on the value that it was read from a bench-test chart (brochure D062202-00 p.3, bench n=5, size not stated).
 - **2026-10-19 Jeff decision (pass 42): ELCA length** stays 135 cm per the US IFU (D002011088.B Table 1.1) and GUDID. The 130 cm on Philips' US web page stays logged only (pass 41 conflicts), not applied.
+
+- **New row (pass 59, Jeff-approved 2026-11-25):** Imaging & physiology — RAYWATT FASTER OCT Imaging System (RV201) with Chouette Imaging Catheter CH-01 through CH-04 (RAYWATT, Inc., K260445, SE 2026-11-11, NQQ + DQO). US coronary OCT system/catheters. Specs left blank until a 510(k) summary, IFU, or GUDID record lands; no values copied from Dragonfly or any other model. RAYWATT has its own extra supplier column.

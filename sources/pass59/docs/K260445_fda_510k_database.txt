@@ -1,0 +1,30 @@
+FDA 510(k) Premarket Notification database entry — K260445
+URL: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K260445
+Captured: 2026-11-25 (fields from the public database page)
+
+Device Classification Name: System, Imaging, Optical Coherence Tomography (Oct)
+510(k) Number: K260445
+Device Name: FASTER OCT Imaging System (RV201); Chouette Imaging Catheter (CH-01, CH-02, CH-03, CH-04)
+Applicant: RAYWATT, Inc.
+  15f, Hyundai Ter. Tower W., 7, Yeonmujang 5ga-Gil, Seongdong
+  Seoul, KR 04782
+Applicant Contact: Mingi Shin
+Correspondent: RAYWATT, Inc. (same address)
+Correspondent Contact: Mingi Shin
+Regulation Number: 892.1560
+Classification Product Code: NQQ
+Subsequent Product Code: DQO
+Date Received: 02/11/2026
+Decision Date: 11/11/2026
+Decision: Substantially Equivalent (SESE)
+Regulation Medical Specialty: Radiology
+510k Review Panel: Cardiovascular
+Type: Traditional
+Reviewed by Third Party: No
+Combination Product: No
+Predetermined Change Control Plan Authorized: No
+
+Notes:
+- 510(k) summary PDF https://www.accessdata.fda.gov/cdrh_docs/pdf26/K260445.pdf returned HTTP 404 on 2026-11-25 (also 2026-11-25 morning pass-58 check).
+- No GUDID device identifiers found (openFDA UDI cut still 2026-11-02; not in AccessGUDID 11-23/11-24 deltas per pass 58).
+- openFDA device/510k record (last_updated 2026-11-16) corroborates k_number, applicant, device_name, decision_date 2026-11-11, decision_description Substantially Equivalent, decision_code SESE, clearance_type Traditional, product_code NQQ, review_advisory_committee CV. Subsequent product code DQO is on the FDA 510(k) database page, not in the openFDA 510k JSON.

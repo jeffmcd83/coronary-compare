@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "disclaimer": "Do not rely on openFDA to make decisions regarding medical care. While we make every effort to ensure that data is accurate, you should assume all results are unvalidated. We may limit or otherwise restrict your access to the API in line with our Terms of Service.",
+    "terms": "https://open.fda.gov/terms/",
+    "license": "https://open.fda.gov/license/",
+    "last_updated": "2026-11-16",
+    "results": {
+      "skip": 0,
+      "limit": 1,
+      "total": 1
+    }
+  },
+  "results": [
+    {
+      "third_party_flag": "N",
+      "city": "Seoul",
+      "advisory_committee_description": "Radiology",
+      "address_1": "15f, Hyundai Ter. Tower W., 7, Yeonmujang 5ga-Gil, Seongdong",
+      "address_2": "",
+      "statement_or_summary": "Summary",
+      "product_code": "NQQ",
+      "zip_code": "04782",
+      "applicant": "RAYWATT, Inc.",
+      "decision_date": "2026-11-11",
+      "decision_code": "SESE",
+      "country_code": "KR",
+      "device_name": "FASTER OCT Imaging System (RV201); Chouette Imaging Catheter (CH-01, CH-02, CH-03, CH-04)",
+      "advisory_committee": "RA",
+      "contact": "Mingi  Shin",
+      "expedited_review_flag": "",
+      "k_number": "K260445",
+      "state": "",
+      "date_received": "2026-02-11",
+      "review_advisory_committee": "CV",
+      "postal_code": "04782",
+      "decision_description": "Substantially Equivalent",
+      "clearance_type": "Traditional"
+    }
+  ]
+}
